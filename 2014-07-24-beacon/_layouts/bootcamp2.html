@@ -1,0 +1,81 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+  <!-- _layout/bootcamp2.html -->
+    {% if page.title %}
+      <title>{{ page.title }}</title>
+    {% else %}
+      <title>{{ page.venue }}</title>
+    {% endif %}
+    {% include header.html %}
+    <meta name="venue1" content="{{page.venue1}}" />
+    <meta name="venue2" content="{{page.venue2}}" />
+    <meta name="date" content="{{page.humandate}}" />
+    <meta name="startdate" content="{{page.startdate}}" />
+    <meta name="enddate" content="{{page.enddate}}" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="span10 offset1">
+        {% include banner.html %}
+
+        <div class="hero-unit">
+          <div class="row-fluid">
+            <div class="span10">
+	      <h2>A Data Carpentry Workshop</h2>
+	      <h4>Organized by and for interdisciplinary
+          biologists and environmental scientists.</h4>
+              <h2>{{page.venue1}}</h2>
+<!--              {% if page.address1 %}{{page.address1}}<br/>{% endif %} -->
+              <h2>{{page.venue2}}</h2>
+<!--              {% if page.address2 %}{{page.address2}}<br/>{% endif %} -->
+
+	   </div>
+           </div>
+           <div class="row-fluid">
+	        <div class="span6">
+	       <p>&nbsp;
+               <p>{{page.humandate}}</p>
+               <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
+     </div>
+	        <div class="span6">
+	            <p>
+		<strong>Instructors:</strong>
+		{% if page.instructor %}
+		{{page.instructor | join: ', ' %}}
+		{% else %}
+		to be announced.
+		{% endif %}
+		      </p>
+	           {% if page.helper %}
+	            <p>
+		<strong>Helpers:</strong>
+		{{page.helper | join: ', ' %}}
+		      </p>
+	            {% endif %}
+
+<!--
+              <p>&nbsp;<br/>
+	      <h4>Date</h4>
+	      {{page.humandate}}
+              {% if page.humantime %}<br/>{{page.humantime}}{% endif %}
+	      <p>&nbsp;<br/>
+	      <h4>Instructors:</h4>
+	      {{page.instructor | join: ', ' %}}
+
+</p>
+-->
+	    </div>
+          </div>
+        </div>
+
+        {{content}}
+
+        {% include footer.html %}
+      </div>
+    </div>
+    {% include javascript.html %}
+  </body>
+</html>
