@@ -26,7 +26,8 @@
             	<ul>
 					<li><a href="#">Home</a></li>
 					<li><a href="#">About Us</a></li>
-					<li><a href="https://github.com/swcarpentry/datacarpentry">Materials</a></li>
+					<li><a href="#">Services</a></li>
+                    <li><a href="#">Products</a></li>
 					<li><a href="#">Contact Us</a></li>
 				</ul>
             </div><!-- end nav -->
@@ -54,22 +55,7 @@ The workshop is designed for learners with little to no prior knowledge of
 programming, shell scripting, or command line tools.
 </p>
 
-<p>
-<strong>Learning objectives for the workshops: Researchers should be
-      able to retrieve, view, manipulate, analyze and store their's and
-      other's data in an open and reproducible way. Researchers learn best
-      when material is taught in their domain, so workshops will be domain-specific.
-</strong>
-</p>
-<p>
-To attain this objective, we identified the following teaching subjects.
-<ul>
-<li> How to use spreadsheet programs (such as Excel) more effectively, and the limitations of such programs.
-<li> Getting data out of Excel and into more powerful tools --- using R or Python.
-<li> Using databases, including managing and querying data in SQL.
-<li> Workflows and automating repetitive tasks, in particular using the command line shell and shell scripts.
-</ul>
-</p>
+
 
 			
 
