@@ -1,4 +1,4 @@
-# ASCII-Font úÙÛ∫Å†http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+# ASCII-Font ‚Ä∫¬†http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
@@ -16,12 +16,13 @@ slogan: "Making data science more efficient"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "ÅªData CarpentryÅ´ is non-profit organization that develops and provides data skills training to researchers."
+description: "¬ªData Carpentry¬´ is non-profit organization that develops and provides data skills training to researchers."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://datacarpentry.github.io/"
+url: "http://datacarpentry.github.io"
+#url: "http://0.0.0.0:4000/"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -31,8 +32,8 @@ improve_content: https://github.com/datacarpentry/datacarpentry.github.io/edit/g
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
 #
-# Example: <img src="{{Å†site.urlimg }}/{{ post.image.title }}">
-# Markdown-Example for posts ![Image Text]({{Å†site.urlimg }}/image.jpg)
+# Example: <img src="{{¬†site.urlimg }}/{{ post.image.title }}">
+# Markdown-Example for posts ![Image Text]({{¬†site.urlimg }}/image.jpg)
 #
 urlimg: "http://datacarpentry.github.io/images/"
 
@@ -45,7 +46,7 @@ logo: "DC2_logo_small.png"
 paginate: 5
 
 
-# Pagination path úÙÛ∫Å†Important for blog page in /blog/ to work
+# Pagination path ‚Ä∫¬†Important for blog page in /blog/ to work
 paginate_path: "blog/page:num"
 
 
@@ -85,7 +86,7 @@ defaults:
       type: "pages"
     values:
       show_meta: true 	# Show metadata beneath all pages
-      # sidebar:    		# Possible values úÙÛ∫Å†left, right úÙÛ∫ by default there will be no sidebar
+      # sidebar:    		# Possible values ‚Ä∫¬†left, right ‚Ä∫ by default there will be no sidebar
       comments: false
       author: "your_author_name"
   -
@@ -94,7 +95,7 @@ defaults:
       type: "posts"
     values:
       show_meta: true   # Show metadata beneath all posts
-      # sidebar:        # Possible values úÙÛ∫Å†left, right úÙÛ∫ by default there will be no sidebar
+      # sidebar:        # Possible values ‚Ä∫¬†left, right ‚Ä∫ by default there will be no sidebar
       comments: false
       author: "your_author_name"
 
@@ -130,7 +131,7 @@ bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 #     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
 #    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  ) 
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
-#                                                 More information Åª https://mathiasbynens.be/notes/touch-icons
+#                                                 More information ¬ª https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          "favicon-32x32.png"
 touch-icon-192x192:                     "touch-icon-192x192.png"
@@ -150,13 +151,13 @@ msapplication_tilecolor:                "#fabb00"
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<   
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization úÙÛ∫Å†http://j.mp/fb_optimize
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization ‚Ä∫¬†http://j.mp/fb_optimize
 
-og_image:                           "http://datacarpentry.github.io/images/DC_logo.jpg"
+og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
 og_locale:                          "en_EN"
 og_type:                            "website"
 og_title:                           "Data Carpentry"
-og_description:                     "Data Carpentry develops and provides training to make data science more efficient"
+og_description:                     "Data Carpentry trains researchers in data skills"
 # og_url:                           ""
 # og_site_name:                     ""
 
@@ -186,8 +187,8 @@ disqus_shortname: datacarpentry
 #      _____                
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
-#    ___/ / /_/ (__  |__  )     More úÙÛ∫Å†http://sass-lang.com/ 
-#   /____/\__,_/____/____/      More úÙÛ∫Å†http://jekyllrb.com/docs/assets/#sassscss
+#    ___/ / /_/ (__  |__  )     More ‚Ä∫¬†http://sass-lang.com/ 
+#   /____/\__,_/____/____/      More ‚Ä∫¬†http://jekyllrb.com/docs/assets/#sassscss
 #                           
 
 sass:
