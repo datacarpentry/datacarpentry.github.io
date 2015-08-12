@@ -19,7 +19,7 @@ travel expenses for the two instructors.
 **Workshop Administration Fee:** $1250 US  
 [We're increasing our fees](http://datacarpentry.github.io/blog/workshop-fees/) to better account for the true cost of the workshops. 
 The cost will increase to $2500 for workshops requested after September 1st. 
-Partial of full waivers for Fees will be considered on a needs basis.
+Partial or full waivers for Fees will be considered on a needs basis.
 
 **Travel Expenses for Instructors:** ~$2000 US  
 All instructors are volunteers, but the Host needs to cover their travel expenses.
