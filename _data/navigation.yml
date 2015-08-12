@@ -1,0 +1,57 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About Us
+  url: "/about/"
+  side: left
+
+- title: "Workshops"
+  url: "/workshops-offered/"
+  side: left
+  dropdown:
+  - title: "Host a Workshop"
+    url: "/workshops-host/"
+  - title: "Attend a Workshop"
+    url: "/workshops-attend/"
+  - title: "Workshops Offered"
+    url: "/workshops-offered/"
+  - title: "Workshops in Development"
+    url: "/workshops-development"
+  - title: "Upcoming Workshops"
+    url: "/workshops-upcoming"
+
+
+- title: "Get Involved"
+  url: "/involved/"
+  side: left
+  dropdown:
+  - title: "Discussion Forum"
+    url: "http://discuss.datacarpentry.org"
+  - title: "Help Develop Lessons"
+    url: "/involved-lessons/"
+  - title: "Become an Instructor"
+    url: "/involved-instructor/"
+  - title: "Donate"
+    url: "/involved-donate/"
+
+- title: Lessons
+  url: "/lessons/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Sponsors"
+  url: "/sponsors/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
