@@ -15,7 +15,7 @@ Learning objectives for the workshops: Researchers should be able to retrieve, v
 
 <h3>Staff and Governance</h3>
 
-Data Carpentry is led by a volunteer Steering Committee and the Executive Director.
+Data Carpentry is led by the Executive Director and a volunteer Steering Committee.
 
 <h4>Executive Director</h4>
 
