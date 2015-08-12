@@ -1,0 +1,134 @@
+---
+layout: default
+format: blog-index
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+<div class="medium-20">
+Data Carpentry develops and teaches workshops on the fundamental data skills needed to 
+conduct research. Our mission is to provide researchers high-quality, domain-specific 
+training covering the full lifecycle of data-driven research.
+Data Carpentry is a sibling organization of 
+<a href=http://software-carpentry.org>Software Carpentry</a>. Where Software Carpentry
+teaches best practices in software development, our focus is on the 
+introductory computational skills needed for data management and analysis
+in all domains of research. Our lessons are domain specific, from biology to social 
+science, and build on
+the existing knowledge of learners to enable them to quickly apply skills
+learned to their own research. <i>Our initial target audience is learners who have
+little to no prior computational experience.</i> We create a friendly 
+environment for learning to empower researchers and enable data driven discovery. 
+
+<p>
+<br>
+<strong>Recent News >></strong> <a href=/blog/moore/>Data Carpentry has received a grant from the Gordon and Betty Moore Foundatoin</a>
+<p>
+<strong>Recent Blog Posts >></strong> {% include list-front.html entries='1' %}
+
+</div>
+
+    {% if page.widget-1.title %}
+    <div class="medium-4 columns">
+        <h2 class="font-size-h3 t10">{{ page.widget-1.title }}</h2>
+        <a href="{{ page.widget-1.url }}">{% if page.widget-1.image %}<img src="{{ site.urlimg }}/{{ page.widget-1.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-1.video %}{{ page.widget-1.video }}{% endif %}</a>
+        <p>{{ page.widget-1.text }}</p>
+        <p><a class="button tiny radius" href="{{ page.widget-1.url }}">{{ site.data.language.more }}</a></p>
+    </div><!-- /.medium-4.columns -->
+    {% endif %}
+
+
+    {% if page.widget-2.title %}
+    <div class="medium-4 columns">
+        <h2 class="font-size-h3 t10">{{ page.widget-2.title }}</h2>
+        <a href="{{ page.widget-2.url }}">{% if page.widget-2.image %}<img src="{{ site.urlimg }}/{{ page.widget-2.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-2.video %}{{ page.widget-2.video }}{% endif %}</a>
+
+        <p>{{ page.widget-2.text }}</p>
+        <p><a class="button tiny radius" href="{{ page.widget-2.url }}">{{ site.data.language.more }}</a></p>
+    </div><!-- /.medium-4.columns -->
+    {% endif %}
+
+
+    {% if page.widget-3.title %}
+    <div class="medium-4 columns">
+        <h2 class="font-size-h3 t10">{{ page.widget-3.title }}</h2>
+        <a href="{{ page.widget-3.url }}">{% if page.widget-3.image %}<img src="{{ site.urlimg }}/{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>
+
+        <p>{{ page.widget-3.text }}</p>
+        <p><a class="button tiny radius" href="{{ page.widget-3.url }}">{{ site.data.language.more }}</a></p>
+    </div><!-- /.medium-4.columns -->
+    {% endif %}
+</div><!-- /.row -->
+
+
+{% comment %}
+*
+* First check, if there are any posts at all
+*
+{% endcomment %}
+
+{% unless site.posts == empty %}
+
+
+<!--
+            {% for post in site.posts limit:1 %}
+            {% if post.image.homepage %}
+            <p>
+                <a href="{{ site.url }}{{ post.url }}" title="{{ post.title escape_once }}"><img width="970" src="{{ site.url }}/images/{{ post.image.homepage }}" alt="{{ page.title escape_once }}"></a>
+            </p>
+
+            {% if post.image.caption_url && post.image.caption %}
+            <p class="text-right caption">
+                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
+            </p>
+            {% endif %}
+            {% elsif post.image.homepage == NULL %}
+            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            {% endif %}
+            {% endfor %}
+-->
+
+
+    <div class="row">
+
+        <div class="medium-6 columns">
+	  <p><strong>{{ site.data.language.upcoming_workshops }}</strong></p>
+	  <ul class="side-nav">
+
+	    <li class="text-left"><strong>Harvard Genomics Data Carpentry</strong>, August 19-20</li>
+	    <li class="text-left"><a href="http://datacarpentry.github.io/2015-08-24-Sloan-Kettering/"><strong>Sloan-Kettering Biology R Data Carpentry</strong></a>, August 24-25</li>
+	    <li class="text-left"><strong>Iowa State Genomics Data Carpentry</strong>, August 24-25</li>
+
+	  </ul>
+
+	</div>
+
+
+        <div class="medium-6 columns">
+            <p><strong>{{ site.data.language.more_articles }}</strong></p>
+            {% include list-posts.html entries='3' offset='1' %}
+        </div><!-- /.medium-7.columns -->
+    </div><!-- /.row -->
+{% endunless %}
+
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
