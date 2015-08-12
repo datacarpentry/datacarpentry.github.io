@@ -13,3 +13,19 @@ In many domains of research the rapid generation of large amounts of data is fun
 <p>
 Learning objectives for the workshops: Researchers should be able to retrieve, view, manipulate, analyze and store their's and other's data in an open and reproducible way. Researchers learn best when material is taught in their domain, so workshops will be domain-specific.
 
+## Staff and Governance
+
+Data Carpentry is led by a volunteer Steering Committee and the Executive Director.
+
+### Executive Director
+
+- Tracy K. Teal, PhD
+
+### Steering Committee Members
+
+- Karen Cranston, PhD, Principle Investigator, Open Tree of Life 
+- Hilmar Lapp, PhD, Director of Informatics, Duke Center for Genomic and Computational Biology
+- Aleksandra Pawlik, PhD, Training Lead, Software Sustainability Institute
+- Karthik Ram, PhD, rOpenSci co-founder, Berkeley Institute for Data Science Fellow
+- Ethan White, PhD, Associate Professor, University of Florida
+- Greg Wilson, PhD, Executive Director, Software Carpentry Foundation
