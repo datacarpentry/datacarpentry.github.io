@@ -63,5 +63,6 @@ to data analysis and visualization in R.
 
 * Project organization
 * Introduction to the command line
+* Using the command line for bioinformatics
 * Introduction to cloud computing
 * Data analysis and visualization in R
