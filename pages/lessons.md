@@ -28,10 +28,10 @@ the data management and analysis workflow.
 
 ### Biology Workshop Lessons  
 
-- [Data organization in spreadsheets](http://datacarpentry.github.io/excel-ecology/)
-- [Data cleaning with OpenRefine](https://github.com/datacarpentry/OpenRefine-ecology/blob/gh-pages/00-starting-with-OpenRefine.md)
+- [Data organization in spreadsheets](http://datacarpentry.github.io/spreadsheet-ecology-lesson/)
+- [Data cleaning with OpenRefine](http://datacarpentry.github.io/OpenRefine-ecology/)
 - [Data management with SQL](http://datacarpentry.github.io/sql-ecology/)
-- [Data analysis and visualization in R](https://github.com/datacarpentry/R-ecology)
+- [Data analysis and visualization in R](http://datacarpentry.github.io/R-ecology/)
 - [Data analysis and visualization in Python](http://datacarpentry.github.io/python-ecology/)
 
 
