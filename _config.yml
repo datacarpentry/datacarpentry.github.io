@@ -21,7 +21,7 @@ description: "»Data Carpentry« is non-profit organization that develops and pr
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://datacarpentry.github.io"
+url: "http://www.datacarpentry.org"
 #url: "http://0.0.0.0:4000/"
 baseurl: ""
 
