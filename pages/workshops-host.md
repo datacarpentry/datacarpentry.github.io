@@ -9,7 +9,7 @@ permalink: "/workshops-host/"
 
 **Information on how to request and host a Data Carpentry workshop.**
 
-Already know the details? [Request a Workshop!](http://datacarpentry.org/workshop-request.html)
+Already know the details? [Request a Workshop!](http://datacarpentry.org/workshop-request/)
 
 ### Workshop Fees
 
