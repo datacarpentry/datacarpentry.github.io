@@ -6,11 +6,28 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/about/"
 ---
-Data Carpentry is a sibling organization of [Software Carpentry](http://software-carpentry.org) designed to teach basic concepts, skills and tools for working more effectively with data.
+Data Carpentry is a sibling organization of [Software Carpentry](http://software-carpentry.org) designed to teach fundamental concepts, skills and tools for working more effectively with data.
 
-In many domains of research the rapid generation of large amounts of data is fundamentally changing how research is done. The deluge of data presents great opportunities, but also many challenges in managing, analyzing and sharing data. Data Carpentry aims to teach the skills that will enable researchers to be more effective and productive. The workshop is designed for learners with little to no prior knowledge of programming, shell scripting, or command line tools.
+From astronomy to molecular biology, our increasing capacity
+to collect data is changing science. It allows us to ask questions that previously could 
+not have been answered, and it changes the impact that science has on society.
+Although petabytes of data are now available, most scientific disciplines are 
+failing to translate this sea of data into scientific advances. The missing step between 
+data collection and research progress is a lack of training for researchers in crucial 
+skills for effectively managing and analyzing large amounts of data.
 
-Learning objectives for the workshops: Researchers should be able to retrieve, view, manipulate, analyze and store their's and other's data in an open and reproducible way. Researchers learn best when material is taught in their domain, so workshops will be domain-specific.
+Data Carpentry addresses this gap by teaching researchers the fundamental data skills they 
+need to conduct their work. Our goal is to provide researchers high-quality, domain-specific 
+training covering the full lifecycle of data-driven research. We teach hands-on workshops in 
+data organization, management, and analysis to increase data literacy and improve research 
+efficiency. Our domain-specific approach allows us to tailor the data, content, and tools 
+to reflect the specific data and analysis needs of different areas. Domain specificity also 
+allows us to build new skills on knowledge frameworks familiar to students, and to motivate 
+workshops using real scientific questions and data relevant to the students' field of study. 
+This approach allows students to see immediate value in the skills they are learning and to 
+put new techniques immediately into practice. 
+
+A workshop can't teach a researcher everything they need to know about data management and analysis, however it drastically reduces the barrier to entry and imparts the skills for continued learning and engagement. Our ultimate goal is to enable data-driven research in diverse disciplines by creating strong communities of data scientists and empowering them to conduct more innovative and effective research. 
 
 ### People
 Our staff and leadership are committed to furthering Data Carpentry's goals
@@ -34,3 +51,22 @@ welcoming and inclusive, and the organization and all its events and communicati
 adhere to a [Code of Conduct](/code-of-conduct/).
 
 [>>Read More](/governance/)
+
+
+### Founding and Support
+
+Data Carpentry was founded out of an 
+[NSF](http://www.nsf.gov) BIO Centers CollabIT meeting, where we identified a shared need for 
+training in best practices and strategies for working with data. This meeting included
+participants from 
+[BEACON](http://beacon-center.org), 
+[iDigBio](http://www.idigbio.org), 
+[iPlant](http://www.iplant.org), 
+[NEON](http://www.neon.org), 
+[NESCENT](http://www.nescent.org) and 
+[SESYNC](http://www.sesync.org).
+Those efforts and support
+to develop and disseminate a data-focused curriculum evolved in to the current
+Data Carpentry organization. 
+
+We are currently supported by a grant from the [Moore Foundation's](http://www.moore.org) [Data-Driven Discovery](https://www.moore.org/programs/science/data-driven-discovery) initiative.
