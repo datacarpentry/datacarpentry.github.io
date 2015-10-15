@@ -2,10 +2,12 @@
   url: "/"
   side: left
 
-- title: About Us
+- title: About
   url: "/about/"
   side: left
   dropdown:
+  - title: "About Us"
+    url: "/about/"
   - title: "People"
     url: "/people/"
   - title: "Code of Conduct"
