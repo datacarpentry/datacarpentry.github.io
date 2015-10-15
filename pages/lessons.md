@@ -46,3 +46,9 @@ These workshop materials are focused on working with genomics data.
 - [Introduction to the command line](https://github.com/datacarpentry/shell-genomics/blob/gh-pages/README.md)
 - [Introduction to cloud computing](https://github.com/datacarpentry/cloud-genomics/tree/master/lessons)
 - [Data analysis and visualization in R](https://github.com/datacarpentry/R-genomics/tree/master/lessons)
+
+### Semester-long Biology Course
+
+[These materials](http://www.datacarpentry.org/semester-biology/) are being used in a course at the
+Univeristy of Florida in Fall 2015. It is not currently meant to be fully comprehensible without additional
+context.
