@@ -5,6 +5,13 @@
 - title: About Us
   url: "/about/"
   side: left
+  dropdown:
+  - title: "People"
+    url: "/people/"
+  - title: "Code of Conduct"
+    url: "/code-of-conduct/"
+  - title: "Governance"
+    url: "/governance/"
 
 - title: "Workshops"
   url: "/workshops-offered/"
