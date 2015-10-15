@@ -11,14 +11,14 @@ permalink: "/workshops-host/"
 
 Already know the details? [Request a Workshop!](http://datacarpentry.org/workshop-request/)
 
+If you would like a Software Carpentry workshop, please [visit their web site](http://software-carpentry.org/workshops/request.html).
+
 ### Workshop Fees
 
 The cost of hosting a workshop is both the Workshop Administration Fee and
 travel expenses for the two instructors. 
 
-**Workshop Administration Fee:** $1250 US  
-[We're increasing our fees](http://datacarpentry.github.io/blog/workshop-fees/) to better account for the true cost of the workshops. 
-The cost will increase to $2500 for workshops requested after September 1st. 
+**Workshop Administration Fee:** $2500 US  
 Partial or full waivers for Fees will be considered on a needs basis.
 
 **Travel Expenses for Instructors:** ~$2000 US  
@@ -29,7 +29,7 @@ reimburse the instructors needs to be established when the workshop is scheduled
 
 ### Process for Requesting and Hosting a Workshop
 
-- Request a workshop through our [Workshop Request Form](http://datacarpentry.org/workshop-request.html)  
+- Request a workshop through our [Workshop Request Form](https://amy.software-carpentry.org/workshops/dc/request/)
 You will be asked to select a range of dates that will work for your workshop and for
 information about the target audience, so we know which [workshop curriculum](/workshops-offered) will be best for you.
 
