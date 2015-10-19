@@ -23,9 +23,10 @@ all spaces managed by Data Carpentry, including, but not
 limited to, workshops, email lists, online forums and on GitHub. 
 
 If you believe someone is violating the code of conduct, we ask that you report it by 
-emailing Tracy Teal, [tkteal@datacarpentry.org](mailto:tkteal@datacarpentry.org), or 
-any of the [Steering Committee members](/people/). All communication will be treated
-as confidential. 
+emailing Tracy Teal, [tkteal@datacarpentry.org](mailto:tkteal@datacarpentry.org) or
+any of the [Steering Committee members](/people/). You may also contact Gina Helfrich 
+(gina @ numfocus.org) at NumFOCUS, our sponsoring organization. All communication will 
+be treated as confidential. 
 
 <hr>
 
