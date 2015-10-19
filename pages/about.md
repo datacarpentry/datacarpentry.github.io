@@ -67,6 +67,7 @@ participants from
 [SESYNC](http://www.sesync.org).
 Those efforts and support
 to develop and disseminate a data-focused curriculum evolved in to the current
-Data Carpentry organization. 
+Data Carpentry organization, and the NSF BIO Centers continue to be actively
+involved. 
 
 We are currently supported by a grant from the [Moore Foundation's](http://www.moore.org) [Data-Driven Discovery](https://www.moore.org/programs/science/data-driven-discovery) initiative.
