@@ -26,7 +26,7 @@ Maneesha Sane
 
 <ul>
 <li>Karen Cranston, PhD, Principle Investigator, Open Tree of Life 
-<li>Hilmar Lapp, PhD, Director of Informatics, Duke Center for Genomic and Computational Biology
+<li>Hilmar Lapp, Director of Informatics, Duke Center for Genomic and Computational Biology
 <li>Aleksandra Pawlik, PhD, Training Lead, Software Sustainability Institute
 <li>Karthik Ram, PhD, rOpenSci co-founder, Berkeley Institute for Data Science Fellow
 <li>Ethan White, PhD, Associate Professor, University of Florida
