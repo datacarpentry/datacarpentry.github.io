@@ -45,7 +45,7 @@ These workshop materials are focused on working with genomics data.
 - [Know your data](https://github.com/datacarpentry/knowyourdata-genomics/tree/gh-pages/lessons)
 - [Introduction to the command line](https://github.com/datacarpentry/shell-genomics/blob/gh-pages/README.md)
 - [Introduction to cloud computing](https://github.com/datacarpentry/cloud-genomics/tree/master/lessons)
-- [Data analysis and visualization in R](https://github.com/datacarpentry/R-genomics/tree/master/lessons)
+- [Data analysis and visualization in R](https://github.com/datacarpentry/R-genomics/tree/gh-pages/lessons)
 
 ### Semester-long Biology Course
 
