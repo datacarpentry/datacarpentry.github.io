@@ -30,7 +30,7 @@ The role reports to, and collaborates closely with the Executive Director of Dat
 
 #### Qualifications
 
-We are looking for someone with a passion for training scientists in the skills needed for data-driven discovery, and who is enthusiastic about creating and growing healthy supportive communities. Being successful in this role requires a versatile individual with initiative and leadership, who can work with a diverse group of volunteers, and who can communicate effectively, both verbally and in writing, with a broad range of research communities.
+We are looking for someone with a passion for training researchers in the skills needed for data-driven discovery, and who is enthusiastic about creating and growing healthy supportive communities. Being successful in this role requires a versatile individual with initiative and leadership, who can work with a diverse group of volunteers, and who can communicate effectively, both verbally and in writing, with a broad range of research communities.
 
 In addition to the above, highly qualified applicants will meet several or most of the following specific qualifications and experiences:
 - At least a Bachelor's degree; Master’s, PhD or MBA degree preferred.
