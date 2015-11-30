@@ -19,7 +19,7 @@ Data Carpentry is a not-for-profit organization developing and teaching workshop
 
 The Associate Director position is initially funded for 2 years through a grant from the    
 Gordon and Betty Moore Foundation. They will be hired and paid as a contractor of   
-NumFOCUS, Data Carpentry’s fiscal sponsor. Review of applications will begin December 18th, 2015, and the position will remain open until filled.
+NumFOCUS, Data Carpentry’s fiscal sponsor. Position can be remote and there are not location requirements. Review of applications will begin December 18th, 2015, and the position will remain open until filled.
 
 #### Job Description
 
@@ -41,3 +41,8 @@ In addition to the above, highly qualified applicants will meet several or most 
 - Experience or interest in working on open source projects.
 
 **How to apply:** To apply, please send a cover letter, your CV, and a list of 2 or more references to [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) with 'Associate Director' in the subject line. For position-related inquiries, please contact Dr. Tracy Teal, the Executive Director of Data Carpentry, also using [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) or at [tkteal@datacarpentry.org](tkteal@datacarpentry.org).
+
+*We are committed to achieving excellence 
+through a diverse workforce and inclusive culture that encourages all people 
+to reach their full potential. We actively encourage applications from anyone 
+who is interested in the position.*  
