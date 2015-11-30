@@ -40,7 +40,7 @@ In addition to the above, highly qualified applicants will meet several or most 
 - Experience working as a researcher, or in a data-driven research environment.
 - Experience or interest in working on open source projects.
 
-**How to apply:** To apply, please send a cover letter, your CV, and a list of 2 or more references to [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) with 'Associate Director' in the subject line. For position-related inquiries, please contact Dr. Tracy Teal, the Executive Director of Data Carpentry, also using [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) or at [tkteal@datacarpentry.org](tkteal@datacarpentry.org).
+**How to apply:** To apply, please send a cover letter, your CV or resume, and a list of 2 or more references to [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) with 'Associate Director' in the subject line. For position-related inquiries, please contact Dr. Tracy Teal, the Executive Director of Data Carpentry, also using [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) or at [tkteal@datacarpentry.org](tkteal@datacarpentry.org).
 
 *We are committed to achieving excellence 
 through a diverse workforce and inclusive culture that encourages all people 
