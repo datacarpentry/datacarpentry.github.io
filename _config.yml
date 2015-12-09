@@ -18,6 +18,11 @@ distantAssetsUrl: "http://swctasks.github.io"
 # Leave empty if assets are at the root of the domain
 distantAssetsPath: "/styles/assets"
 
+# specific css
+specificSCC: "dac/styles_feeling_responsive.css"
+# to check with swc CSS
+# specificSCC: "swc/swc.css"
+
 #
 #      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
