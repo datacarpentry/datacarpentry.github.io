@@ -8,23 +8,23 @@
     <footer id="footer-content" class="bg-grau">
       <div id="footer">
         <div class="row">
-          <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
 
+          <div class="medium-5 columns">
             <p class="shadow-black">
               {{ site.description }}
               <a href="{{ site.url }}/about/">{{ site.data.language.more }}</a>
             </p>
           </div><!-- /.large-6.columns -->
 
+          <div class="medium-2 medium-offset-2 columns">
+            <ul class="inline-list social-icons">
+              {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+              {% endfor %}
+            </ul>
+          </div>
 
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            {% for service_item in site.data.services %}
-              {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
-              {% endif %}
-            {% endfor %}
-              
+          <div class="medium-2 medium-offset-1 columns">
               <ul class="no-bullet shadow-black">
               {% for service_item in site.data.services %}
                 {% if service_item.url contains 'http' %}
@@ -46,7 +46,7 @@
                 <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
               {% endif %}
             {% endfor %}
-              
+
             <ul class="no-bullet shadow-black">
             {% for network_item in site.data.network %}
               {% if network_item.url contains 'http' %}
@@ -65,7 +65,7 @@
 
       </div><!-- /#footer -->
 
-
+<!--
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="b30 small-12 medium-6 columns">
@@ -82,5 +82,7 @@
             </ul>
           </section>
         </nav>
-      </div><!-- /#subfooter -->
+      </div> -->
+
+
     </footer>
