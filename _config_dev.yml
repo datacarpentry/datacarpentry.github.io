@@ -6,6 +6,8 @@
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
 url: 'http://0.0.0.0:4000'
+baseurl: ""
+
 filesurl: 'http://0.0.0.0:4000/files'
 urlimg: 'http://0.0.0.0:4000/images/'
 
@@ -27,9 +29,9 @@ google_analytics_tracking_id:
 
 # repository url
 # NO TRAILING SLASH
-distantAssetsUrl: "http://0.0.0.0:8000"
+distantAssetsUrl: "http://swctasks.github.io"
 
 # path : "/styles"
 # NO TRAILING SLASH
 # Leave empty if assets are at the root of the domain
-distantAssetsPath: "/assets"
+distantAssetsPath: "/styles/assets"

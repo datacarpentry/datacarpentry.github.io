@@ -42,12 +42,13 @@ slogan: "Making data science more efficient"
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "»Data Carpentry« is non-profit organization that develops and provides data skills training to researchers."
 
+# Your web site url. eg: http://mysite.com
+# NO trailing slash
+url: "http://swctasks.github.io"
+# Your web site relative path from domain. eg: /folder
+# NO trailing slash
+baseurl: "/datacarpentry.github.io"
 
-# This URL is the main adresse. Don't include a slash at the end.
-#
-url: "http://www.datacarpentry.org"
-#url: "http://0.0.0.0:4000/"
-baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
