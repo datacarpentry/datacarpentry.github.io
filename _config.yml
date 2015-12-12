@@ -32,7 +32,7 @@ url: "http://gvwilson.github.io"
 
 # Your web site relative path from domain. eg: /folder
 # NO trailing slash
-baseurl: "/datacarpentry.github.io"
+baseurl: "/swctasks-datacarpentry.github.io"
 
 
 # This is for the editing function in _/includes/improve_content.html
