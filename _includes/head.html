@@ -1,11 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
-<head>{% include setup/define-assets-urls.html %}
+<head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-	<link rel="stylesheet" href="{{ assetsFullPath }}/css/{{ site.specificSCC }}">
-	<script src="{{ assetsFullPath }}/js/modernizr.min.js"></script>
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ site.specificSCC }}">
+	<script src="{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
 
   <script>
     WebFontConfig = {
@@ -33,7 +33,7 @@
 
 	{% if site.google_author %}<link rel="author" href="{{ site.google_author }}"/>{% endif %}
 
-	{% include favicon %}
+	{% include favicon.html %}
 
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}" />

@@ -4,20 +4,6 @@
 # Assets configuration
 #############################################
 
-# extensionless url allows to automatically switch
-# to current page protocol (http or https)
-# to avoid mixed content problems
-# distant-assets-url: "//swcarpentry.github.io/styles/"
-
-# repository url
-# NO TRAILING SLASH
-distantAssetsUrl: "http://swctasks.github.io"
-
-# path : "/styles"
-# NO TRAILING SLASH
-# Leave empty if assets are at the root of the domain
-distantAssetsPath: "/styles/assets"
-
 # specific css
 specificSCC: "dac/styles_feeling_responsive.css"
 # to check with swc CSS
@@ -219,8 +205,6 @@ disqus_shortname: datacarpentry
 sass:
     sass_dir: _sass
     style: :compressed
-
-#exclude: [assets]
 
 #       ___                __      __  _
 #      /   |  ____  ____ _/ /_  __/ /_(_)_________
