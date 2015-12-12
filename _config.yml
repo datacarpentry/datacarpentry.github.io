@@ -1,5 +1,3 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
-
 #############################################
 # Assets configuration
 #############################################
@@ -31,6 +29,7 @@ description: "»Data Carpentry« is non-profit organization that develops and pr
 # Your web site url. eg: http://mysite.com
 # NO trailing slash
 url: "http://swctasks.github.io"
+
 # Your web site relative path from domain. eg: /folder
 # NO trailing slash
 baseurl: "/datacarpentry.github.io"
