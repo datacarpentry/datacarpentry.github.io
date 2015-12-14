@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Lessons"
 header:
@@ -9,13 +9,13 @@ permalink: "/lessons/"
 
 Based on the [Software Carpentry](http://software-carpentry.org) strategy of collaborative development
 of hands-on, interactive lessons for workshops, we facilitate and
-develop the lessons for Data Carpentry workshops. 
+develop the lessons for Data Carpentry workshops.
 
 [Interested in helping develop lessons?](/involved-lessons/)
 
-These lessons are distributed under the [CC-BY](https://creativecommons.org/licenses/by/2.0/) and are free for re-use or adaptation, with attribution. We've had people use the lessons in courses, to build new lessons or use them for self-guided learning. 
+These lessons are distributed under the [CC-BY](https://creativecommons.org/licenses/by/2.0/) and are free for re-use or adaptation, with attribution. We've had people use the lessons in courses, to build new lessons or use them for self-guided learning.
 
-**Current workshops are designed for researchers with little to 
+**Current workshops are designed for researchers with little to
 no prior computational experience.**
 
 
@@ -23,10 +23,10 @@ no prior computational experience.**
 *Lesson formatting is currently being updated*
 
 We use a single dataset throughout the workshop to model
-the data management and analysis workflow. 
+the data management and analysis workflow.
 
 
-### Biology Workshop Lessons  
+### Biology Workshop Lessons
 
 - [Data organization in spreadsheets](http://datacarpentry.github.io/spreadsheet-ecology-lesson/)
 - [Data cleaning with OpenRefine](http://datacarpentry.github.io/OpenRefine-ecology/)
@@ -39,7 +39,7 @@ the data management and analysis workflow.
 
 
 ### Genomics Workshop
-These workshop materials are focused on working with genomics data. 
+These workshop materials are focused on working with genomics data.
 
 - [Project organization](https://github.com/datacarpentry/organization-genomics)
 - [Know your data](https://github.com/datacarpentry/knowyourdata-genomics/tree/gh-pages/lessons)
