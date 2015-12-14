@@ -42,10 +42,10 @@ improve_content: https://github.com/datacarpentry/datacarpentry.github.io/edit/g
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
 #
-# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
+# Example: <img src="{{ site.baseurl }}{{ site.urlimg }}/{{ post.image.title }}">
+# Markdown-Example for posts ![Image Text]({{ site.baseurl }}{{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://datacarpentry.github.io/images/"
+urlimg: "/images"
 
 
 # Logo size is 600x80 pixels
