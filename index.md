@@ -12,18 +12,18 @@ widget-1:
     title: "Host a Workshop"
     url: '/workshops-host/'
     text: 'Find out how to host a workshop at your institution or organization'
-    image: DC_room3.jpg
+    image: DC_room4.jpg
 widget-2:
     title: "Attend a Workshop"
     url: '/workshops-attend/'
     text: 'Most workshops are coordinated by local hosts. Find out if there
 is a workshop in your area or how to attend one.'
-    image: learners3.jpg
+    image: learners4.jpg
 widget-3:
     title: "Get Involved"
     url: '/involved/'
-    text: '<em>Data Carpentry</em> is a volunteer effort. Find out how you 
+    text: '<em>Data Carpentry</em> is a volunteer effort. Find out how you
 can be an instructor, help develop content, or support us.'
-    image: involved2.jpg
+    image: involved3.jpg
 ---
 
