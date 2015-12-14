@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Upcoming Workshops"
 header:
@@ -9,10 +9,10 @@ permalink: "/workshops-upcoming/"
 
 This is our list of upcoming workshops. Most are open primarily
 to people at the sponsoring institution, but publicly open workshops
-are noted. 
+are noted.
 
 ### August, 2015
- 
+
 - Harvard, Genomics Workshop, Aug 19-20
 - Iowa State, Genomics Workshop, Aug 24-25
 - [Sloan-Kettering, Biology R Workshop](http://datacarpentry.github.io/2015-08-24-Sloan-Kettering/), Aug 24-25

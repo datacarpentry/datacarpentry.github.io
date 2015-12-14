@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Roadmap"
 subheadline: "ToDo-List &amp; Ideas"
 teaser: "Here are some ideas and features I want to implement in the future."
