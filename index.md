@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Data Carpentry"
 header:
-   image_fullwidth: "wood_plank.jpg"
+   image_fullwidth: "wood_plank_2.jpg"
 
 widgets:
   -
