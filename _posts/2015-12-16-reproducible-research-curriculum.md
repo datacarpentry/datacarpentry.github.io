@@ -13,7 +13,7 @@ show_meta: false
 
 **by Karen Cranston**
 
-One of the missions of Data Carpentry is to encourage and enable reproducible research. The core Data Carpentry curriculum teaches researchers approaches and skills, like scripting and data management, that are fundamental to reproducible research. We are also going to be adopting a Reproducible Research curriculum that explicitly focuses on reproducible techniques and some of the next steps, including version control and data publishing. This is an update on the efforts on this curriculum so far, and soon we will have it available as a Data Carpentry workshop option.  
+Part of the mission of Data Carpentry is to encourage and enable reproducible research. The core Data Carpentry curriculum teaches researchers approaches and skills that are fundamental to reproducible research, such as scripting and data management. We are also adopting a Reproducible Research curriculum that explicitly focuses on reproducible techniques and some of the next steps, including version control and data publishing. This is an update on the efforts on this curriculum so far, and we expect to have it available soon as a Data Carpentry workshop option.  
 
 ## Reproducible Research Hackathon, Take 2
 
