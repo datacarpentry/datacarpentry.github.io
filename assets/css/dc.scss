@@ -6,8 +6,8 @@
 @import "foundation-components/normalize"; // always first
 @import "foundation-components/functions";
 
-@import "dc/settings_colors";
-@import "dc/settings_global";
+@import "dc/dc_settings_colors";
+@import "dc/dc_settings_global";
 
 /* +++++++++++++++++ Foundation icons +++++++++++++++++ */
 $icon-font-path: "../fonts/" !default;
