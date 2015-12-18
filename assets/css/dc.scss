@@ -6,8 +6,8 @@
 @import "foundation-components/normalize"; // always first
 @import "foundation-components/functions";
 
-@import "dc/dc_settings_colors";
-@import "dc/dc_settings_global";
+@import "dc/settings_colors";
+@import "dc/settings_global";
 
 /* +++++++++++++++++ Foundation icons +++++++++++++++++ */
 $icon-font-path: "../fonts/" !default;
@@ -53,6 +53,6 @@ $icon-font-path: "../fonts/" !default;
 @import "foundation-components/visibility";
 @import "foundation-components/syntax-highlighting";
 
-@import "dc/01_custom_typography";
-@import "dc/02_custom_layout";
-@import "dc/03_custom_elements";
+@import "common/01_typography";
+@import "common/02_layout";
+@import "common/03_elements";

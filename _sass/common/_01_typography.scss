@@ -144,6 +144,13 @@ img { border-radius: $global-radius;}
     img.aligncenter,
     img.center      { display: block; margin:0 auto 10px; }
 
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
 figure {
     margin: 0 0 rem-calc(30) 0;
 }
