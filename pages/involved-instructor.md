@@ -8,45 +8,52 @@ permalink: "/involved-instructor/"
 ---
 
 Data Carpentry workshops are taught by trained, peer, volunteer instructors. We
-work with the [Software Carpentry Foundation](http://software-carpentry.org) to develop and deliver a
-Train the Trainers (T3) program. This program teaches instructional pedagogy as 
-well as the practicalities of teaching a Software or Data Carpentry workshop. 
+work with the [Software Carpentry Foundation](http://software-carpentry.org) to develop and deliver an Instructors Training program. This program teaches instructional pedagogy as
+well as the practicalities of teaching a Software or Data Carpentry workshop.
 
 Instructors teach workshops in their local area or have the opportunity to travel to
-teach. We teach workshops around the world! 
+teach. We teach workshops around the world! Once you're an instructor, we'll match you with teaching opportunities that fit your
+schedule, travel interests and availability.
 
-Once you're an instructor, we'll match you with teaching opportunities that fit your
-schedule and travel interest and availability. 
+### How to become an instructor
+
+_If you are already a Software Carpentry instructor, see information on the [FastTrack](#data-carpentry-fasttrack-instructors-application) program below._
+
+The Software Carpentry Foundation runs the Instructor Training course for both Software and Data Carpentry.
+
+There are two steps to becoming an instructor.  
+
+1. **Take a Software Carpentry Foundation instructor training course**   
+This course teaches the pedagogy of instructing and provides hands-on opportunities to practice teaching.  
+[http://swcarpentry.github.io/training-course/](http://swcarpentry.github.io/training-course/)   
+ The SCF is finalizing its plans for 2016, so more information on training opportunities will be available soon.
+
+2. **Complete the Data Carpentry specific training**
+    - attend a one hour on-boarding webinar
+    - complete a guided teaching practice for one Data Carpentry lesson and pass its 5 minute teaching practicum
 
 
-### Data Carpentry 'Fast Track' Instructors Application
+---
+
+### Data Carpentry FastTrack Instructors Application
 
 There are currently
-many Software Carpentry instructors interested in being Data Carpentry instructors
-and trained educators interested in teaching workshops. To enable this 
-transition, we are developing a 'Fast Track' program. 
-
-If you are interested in teaching people new to computation and data analysis, 
+Software Carpentry instructors interested in being Data Carpentry instructors
+and trained educators interested in teaching workshops. If you are interested in teaching people new to computation and data analysis,
 have the skills to teach
 introductory R, Python or SQL and demonstrated teaching experience as a Software
 Carpentry instructor or in another capacity, we would love to have you as an instructor!
 
-We are interested in instructors in any domain of research, and are particularly 
-working to grow our instructor pool in social sciences and digital humanities. 
+If you want to also be a Data Carpentry instructor, you can go through the Fast Track program. If you missed the November opportunity, you can still apply by **February 15, 2016** and we'll let you know the status of your application by February 29th.
 
-We'll have more information on this 'Fast Track' program very soon! Follow this site,
-our [blog](/blog/), [Twitter](http://twitter.com/datacarpentry) or the discussion on 
-our [forum](http://discuss.datacarpentry.org/t/how-to-become-a-data-carpentry-instructor/33)
-
-
-
-### Information on Train the Trainer events with the Software Carpentry Foundation
-
-We will be working with Software Carpentry to provide both Software and Data
-Carpentry train-the-trainer instruction in future T3s. 
-
-[Sign up](http://software-carpentry.org/pages/register.html) to receive information
-as it becomes available. 
+- See more information in this blog post: [http://www.datacarpentry.org/blog/fasttrack/](http://www.datacarpentry.org/blog/fasttrack/)  
+- Fill out the FastTrack application:  
+ [http://www.datacarpentry.org/fasttrack/](http://www.datacarpentry.org/fasttrack/)  
 
 
 
+We have run our first round of the Fast Track program and are currently conducting onboarding meetings for those who applied.  Information and meeting times are available on the etherpad:  
+[http://pad.software-carpentry.org/data-carpentry-instructors](http://pad.software-carpentry.org/data-carpentry-instructors)  
+
+We are interested in instructors in any domain of research, and are particularly
+working to grow our instructor pool in social sciences and digital humanities.
