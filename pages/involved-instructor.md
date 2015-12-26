@@ -29,9 +29,13 @@ This course teaches the pedagogy of instructing and provides hands-on opportunit
  The SCF is finalizing its plans for 2016, so more information on training opportunities will be available soon.
 
 2. **Complete the Data Carpentry specific training**
-    - attend a one hour on-boarding webinar
-    - complete a guided teaching practice for one Data Carpentry lesson and pass its 5 minute teaching practicum
+    - Complete a guided teaching practice for one Data Carpentry lesson
+    - Submit a new exercise and pass a 5 minute teaching practicum for that lesson
+    - Attend a 1 hour on-boarding webinar that provides a general overview and lets you ask any questions you might have
 
+<!--
+If you are going through instructor training and need more information, please see [information]() in the [For Instructors]() section.
+-->
 
 ---
 
