@@ -38,7 +38,7 @@ format: blog-index
     {% for widget in page.widgets %}
         {% if widget.title %}
         <div class="medium-4 columns">
-            <h2 class="font-size-h3 t10">{{ widget.title }}</h2>
+            <h2 class="t10">{{ widget.title }}</h2>
             <a href="{{ widget.url }}">{% if widget.image %}<img src="{{ site.baseurl }}{{ site.urlimg }}/{{ widget.image }}" width="302" height="182" alt="">{% endif %}{% if widget.video %}{{ widget.video }}{% endif %}</a>
             <p>{{ widget.text }}</p>
             <p><a class="button tiny radius" href="{{ widget.url }}">{{ site.data.language.more }}</a></p>
