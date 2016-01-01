@@ -1,12 +1,3 @@
-#############################################
-# Assets configuration
-#############################################
-
-# specific css
-specificSCC: "dac/styles_feeling_responsive.css"
-# to check with swc CSS
-# specificSCC: "swc/swc.css"
-
 #
 #      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
@@ -28,11 +19,11 @@ description: "»Data Carpentry« is non-profit organization that develops and pr
 
 # Your web site url. eg: http://mysite.com
 # NO trailing slash
-url: "http://gvwilson.github.io"
+url: "http://www.datacarpentry.org"
 
 # Your web site relative path from domain. eg: /folder
 # NO trailing slash
-baseurl: "/swctasks-datacarpentry.github.io"
+baseurl: ""
 
 
 # This is for the editing function in _/includes/improve_content.html
