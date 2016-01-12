@@ -56,7 +56,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 highlight: pygments
 excerpt_separator: "\n\n"
-exclude: []
+exclude: [bin]
 include: ['.htaccess']
 
 
