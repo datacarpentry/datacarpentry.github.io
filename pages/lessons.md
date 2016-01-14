@@ -41,11 +41,14 @@ the data management and analysis workflow.
 ### Genomics Workshop
 These workshop materials are focused on working with genomics data. 
 
-- [Project organization](https://github.com/datacarpentry/organization-genomics)
+[Overview of the genomics workshop](http://www.datacarpentry.org/genomics-workshop/)
+
+- [Introduction to the workshop and dataset](http://www.datacarpentry.org/introduction-genomics/)
 - [Know your data](https://github.com/datacarpentry/knowyourdata-genomics/tree/gh-pages/lessons)
 - [Introduction to the command line](https://github.com/datacarpentry/shell-genomics/blob/gh-pages/README.md)
 - [Introduction to cloud computing](https://github.com/datacarpentry/cloud-genomics/tree/master/lessons)
-- [Data analysis and visualization in R](https://github.com/datacarpentry/R-genomics/tree/gh-pages/lessons)
+- [Data analysis in R](http://www.datacarpentry.org/R-genomics/04-dplyr.html)
+- [Data visualization in R](http://www.datacarpentry.org/R-genomics/05-data-visualization.html)
 
 ### Semester-long Biology Course
 
