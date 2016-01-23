@@ -1,8 +1,8 @@
-*~
-_site
 *.pyc
-Gemfile.lock
+*~
 .DS_Store
 .fontcustom-manifest.json
-.sass-cache
 .jekyll-metadata
+.sass-cache
+Gemfile.lock
+_site
