@@ -21,7 +21,6 @@ airports:
   name: Auckland
 - country: se
   instructors:
-  - {name: Olav Vahtras, user: vahtras.olav}
   - {name: Roman Valls Guimera, user: valls-guimera.roman}
   latitude: 59.651944
   longitude: 17.918611
@@ -90,7 +89,7 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain.areej}
   - {name: Sam Hames, user: hames.sam}
-  - {name: Paula Andrea Martinez, user: martinez.paula}
+  - {name: Paula Andrea Andrea Martinez, user: martinez.paula}
   - {name: Amanda Miotto, user: miotto.amanda}
   - {name: Mitchell Stanton-Cook, user: stanton-cook.mitchell}
   - {name: Darya Vanichkina, user: vanichkina.darya}
@@ -101,6 +100,7 @@ airports:
 - country: us
   instructors:
   - {name: Harriet Alexander, user: alexander.harriet}
+  - {name: Trevor Bekolay, user: bekolay.trevor}
   - {name: Bob Freeman, user: freeman.robert}
   - {name: Ivan Gonzalez, user: gonzalez.ivan}
   - {name: Radhika Khetani, user: khetani.radhika}
@@ -411,6 +411,7 @@ airports:
   - {name: Aaron O'Leary, user: oleary.aaron}
   - {name: Andrew Walker, user: walker.andrew}
   - {name: Jon E Mound, user: mound.je}
+  - {name: Mike Wallis, user: wallis.mike}
   - {name: Andy Evans, user: evans.andy}
   - {name: Krzysztof Poterlowicz, user: poterlowicz.krzysztof}
   - {name: Will Furnass, user: furnass.will}
@@ -420,12 +421,12 @@ airports:
 - country: gb
   instructors:
   - {name: Luis Figueira, user: figueira.l}
+  - {name: James Derrick, user: derrick.james}
   latitude: 51.505
   longitude: 0.054167
   name: London City
 - country: us
   instructors:
-  - {name: Camille Avestruz, user: avestruz.camille}
   - {name: Mike Bayer, user: bayer.m}
   - {name: Jared Camins-Esakov, user: camins-esakov.jared}
   - {name: Timothy Cerino, user: cerino.t}
@@ -456,7 +457,6 @@ airports:
   - {name: Chris Cannam, user: cannam.c}
   - {name: Rich FitzJohn, user: fitzjohn.rich}
   - {name: Philip Fowler, user: fowler.philip}
-  - {name: Laurent Gatto, user: gatto.laurent}
   - {name: Donna Henderson, user: henderson.donna}
   - {name: James Hetherington, user: hetherington.james}
   - {name: Devasena Inupakutika, user: inupakutika.devasena}
@@ -466,11 +466,12 @@ airports:
   - {name: Dan MacLean, user: maclean.dan}
   - {name: Jens Hedegaard Nielsen, user: nielsen.jens}
   - {name: David Perez-Suarez, user: perez-suarez.david}
-  - {name: Stefan Pfenninger, user: pfenninger.s}
   - {name: Florian Rathgeber, user: rathgeber.florian}
   - {name: Mark Stillwell, user: stillwell.mark}
+  - {name: Richard Tomsett, user: tomsett.richard}
   - {name: Bogdan Vera, user: vera.b}
   - {name: Ben Waugh, user: waugh.b}
+  - {name: Arfan Ahmed, user: ahmed.arfan}
   - {name: Alys Brett, user: brett.alys}
   - {name: Bethan Davies, user: davies.bethan}
   latitude: 51.4775
@@ -539,6 +540,7 @@ airports:
   - {name: Damien Irving, user: irving.d}
   - {name: Isabell Kiral-Kornek, user: kiral-kornek.isabell}
   - {name: Scott Kolbe, user: kolbe.scott}
+  - {name: Andrew Lonsdale, user: lonsdale.andrew}
   - {name: Daniel McDonald, user: mcdonald.daniel}
   - {name: Simon Michnowicz, user: michnowicz.s}
   - {name: Juan Nunez-Iglesias, user: nunez-iglesias.juan}
@@ -577,6 +579,7 @@ airports:
   - {name: Tamer Mansour, user: mansour.tamer}
   - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh.hamid}
   - {name: Ryan Williams, user: williams.ryan}
+  - {name: Jon Badalamenti, user: badalamenti.jon}
   latitude: 44.880278
   longitude: -93.216667
   name: Minneapolis St Paul, MN
@@ -632,8 +635,10 @@ airports:
   - {name: Logan Cox, user: cox.logan}
   - {name: Jonah Duckles, user: duckles.jonah}
   - {name: Mark Laufersweiler, user: laufersweiler.mark}
+  - {name: Braden Owsley, user: owsley.braden}
   - {name: Brent Shambaugh, user: shambaugh.brent}
   - {name: Mark Stacy, user: stacy.mark}
+  - {name: Blake Stamps, user: stamps.blake}
   - {name: James Adams, user: adams.james}
   - {name: Jason Sherman, user: sherman.jason}
   latitude: 35.393056
@@ -641,6 +646,7 @@ airports:
   name: Oklahoma City
 - country: us
   instructors:
+  - {name: Camille Avestruz, user: avestruz.camille}
   - {name: Dirk Eddelbuettel, user: eddelbuettel.dirk}
   latitude: 41.979444
   longitude: -87.904444
@@ -754,7 +760,6 @@ airports:
   - {name: Cody Hinchliff, user: hinchliff.cody}
   - {name: W. Trevor King, user: king.wt}
   - {name: Johnny Lin, user: lin.johnny}
-  - {name: Ben Marwick, user: marwick.ben}
   - {name: Maria McKinley, user: mckinley.maria}
   - {name: Adam Richie-Halford, user: richie-halford.adam}
   - {name: Ariel Rokem, user: rokem.a}
@@ -835,7 +840,6 @@ airports:
   - {name: Stephen Crouch, user: crouch.s}
   - {name: Ian Hawke, user: hawke.ian}
   - {name: Christian Jacobs, user: jacobs.christian}
-  - {name: Richard Tomsett, user: tomsett.richard}
   - {name: Robin Wilson, user: wilson.r}
   - {name: Olivier Philippe, user: philippe.olivier}
   - {name: Don Cruickshank, user: cruickshank.don}
@@ -857,21 +861,17 @@ airports:
   - {name: Robert Davey, user: davey.rob}
   - {name: Dureid El-Moghraby, user: el-moghraby.dureid}
   - {name: Simon Fraser, user: fraser.simon}
+  - {name: Laurent Gatto, user: gatto.laurent}
   latitude: 51.885
   longitude: 0.235
   name: Stansted
-- country: de
-  instructors:
-  - {name: Radovan Bast, user: bast.radovan}
-  latitude: 48.689722
-  longitude: 9.221944
-  name: Stuttgart
 - country: au
   instructors:
   - {name: Will Cornwell, user: cornwell.will}
   - {name: Daniel Falster, user: falster.daniel}
   - {name: Fabian Held, user: held.fabian}
   - {name: Joshua Madin, user: madin.j}
+  - {name: Ben Marwick, user: marwick.ben}
   - {name: Dan Warren, user: warren.dan}
   latitude: -33.946111
   longitude: 151.177222
@@ -996,7 +996,6 @@ airports:
   name: Victoria
 - country: ca
   instructors:
-  - {name: Trevor Bekolay, user: bekolay.trevor}
   - {name: Amy Brown, user: brown.amy}
   - {name: Arliss Collins, user: collins.arliss}
   - {name: Remi Daigle, user: daigle.remi}
@@ -1013,6 +1012,9 @@ airports:
   - {name: Greg Wilson, user: wilson.g}
   - {name: Tom Wright, user: wright.thomas}
   - {name: Brendan Smithyman, user: smithyman}
+  - {name: Sarah Meister, user: meister.sarah}
+  - {name: Ricardo Harripaul, user: harripaul.ricardo}
+  - {name: Jasmine Ren, user: jasmine.ren}
   latitude: 43.677222
   longitude: -79.630556
   name: Toronto
@@ -1030,6 +1032,7 @@ airports:
   name: Masset, BC
 - country: us
   instructors:
+  - {name: Reed Cartwright, user: cartwright.reed}
   - {name: David Dotson, user: dotson.david}
   - {name: Rachel Schwartz, user: schwartz.rachel}
   - {name: Arron Shiffer, user: shiffer.arron}
@@ -1170,6 +1173,7 @@ airports:
 - country: ca
   instructors:
   - {name: Hartmut Schmider, user: schmider.hartmut}
+  - {name: Gang Liu, user: liu.gang}
   latitude: 44.226524
   longitude: -76.595936
   name: Kingston Airport
@@ -1191,6 +1195,42 @@ airports:
   latitude: 35.213754
   longitude: -80.948194
   name: Charlotte Douglas International Airport
+- country: nl
+  instructors:
+  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz.carlos}
+  latitude: 52.309686
+  longitude: 4.767438
+  name: 'Amsterdam Airport Schiphol '
+- country: 'no'
+  instructors:
+  - {name: Radovan Bast, user: bast.radovan}
+  latitude: 69.681079
+  longitude: 18.916328
+  name: Tromsø Airport
+- country: za
+  instructors:
+  - {name: Albertus Seyffert, user: seyffert.albertus}
+  latitude: -26.138773
+  longitude: 28.241339
+  name: O. R. Tambo International Airport
+- country: ch
+  instructors:
+  - {name: Stefan Pfenninger, user: pfenninger.s}
+  latitude: 47.457767
+  longitude: 8.560132
+  name: Zurich Airport
+- country: se
+  instructors:
+  - {name: Olav Vahtras, user: vahtras.olav}
+  latitude: 58.406971
+  longitude: 15.667521
+  name: Linköping City Airport
+- country: fi
+  instructors:
+  - {name: Joona Lehtomäki, user: lehtomaki.joona}
+  latitude: 60.320659
+  longitude: 24.943162
+  name: Helsinki Airport
 badges:
 - name: creator
   persons:
@@ -1407,7 +1447,7 @@ badges:
   - {name: Dan MacLean, user: maclean.dan}
   - {name: Joshua Madin, user: madin.j}
   - {name: Tamer Mansour, user: mansour.tamer}
-  - {name: Paula Andrea Martinez, user: martinez.paula}
+  - {name: Paula Andrea Andrea Martinez, user: martinez.paula}
   - {name: Sina Masoud-Ansari, user: masoud-ansari.sina}
   - {name: Daniel McDonald, user: mcdonald.daniel}
   - {name: Steve McGough, user: mcgough.s}
@@ -1684,6 +1724,17 @@ badges:
   - {name: James Derrick, user: derrick.james}
   - {name: Joona Lehtomäki, user: lehtomaki.joona}
   - {name: Michael Levy, user: levy.michael}
+  - {name: Arfan Ahmed, user: ahmed.arfan}
+  - {name: Casey Bergman, user: bergman.casey}
+  - {name: Gerard Capes, user: capes.gerard}
+  - {name: Reed Cartwright, user: cartwright.reed}
+  - {name: Sarah Clayton, user: clayton.sarah}
+  - {name: Anne Claire Fouilloux, user: fouilloux.anne-claire}
+  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz.carlos}
+  - {name: Andrew Mellor, user: mellor.andrew}
+  - {name: Chris Norton, user: norton.chris}
+  - {name: Braden Owsley, user: owsley.braden}
+  - {name: Blake Stamps, user: stamps.blake}
 - name: member
   persons:
   - {name: Joshua Adelman, user: adelman.joshua}
@@ -1719,7 +1770,7 @@ badges:
   persons:
   - {name: Jorge Aranda, user: aranda.j}
   - {name: Clair Barrass, user: barrass.clair}
-  - {name: Casey Bergman, user: bergman.c}
+  - {name: Casey Bergman, user: bergman.casey}
   - {name: Bruce Berriman, user: berriman.b}
   - {name: Azalee Bostroem, user: bostroem.a}
   - {name: Onno Broekmans, user: broekmans.o}
@@ -1783,12 +1834,69 @@ badges:
 - name: dc-instructor
   persons: []
 flags:
-  airports: [au, br, ca, cn, de, dk, es, fr, gb, ie, il, in, it, 'no', nz, pl, ro,
-    se, sg, th, us, ve, za]
+  airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
+    nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, us]
-timestamp: 20160114T011241Z
+timestamp: 20160123T112246Z
 workshops:
 - &id002
+  - address: Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States Research
+      Center, 141 Experiment Station Road, Stoneville, MS
+    contact: op.perera@ars.usda.gov
+    country: us
+    end: 2016-01-20
+    eventbrite_id: ''
+    humandate: Jan 19-20, 2016
+    latitude: 33.420899
+    longitude: -90.909457
+    slug: 2016-01-19-usda
+    start: 2016-01-19
+    tags:
+    - {name: DC}
+    url: https://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/
+    venue: USDA-ARS
+  - address: 100 Nicolls Road, Stony Brook, NY 11790
+    contact: ''
+    country: us
+    end: 2016-01-20
+    eventbrite_id: ''
+    humandate: Jan 19-20, 2016
+    latitude: 40.916011
+    longitude: -73.1220717
+    slug: 2016-01-19-sbu
+    start: 2016-01-19
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2016-01-19-sbu/
+    venue: Wang Center - Lecture Hall 2
+  - address: Natural History Museum, Cromwell Road, London, SW7 5BD
+    contact: f.ahmed@nhm.ac.uk
+    country: gb
+    end: 2016-01-20
+    eventbrite_id: ''
+    humandate: Jan 19-20, 2016
+    latitude: 51.495933
+    longitude: -0.176367
+    slug: 2016-01-19-london-nhm
+    start: 2016-01-19
+    tags:
+    - {name: DC}
+    url: https://callaghanmt.github.io/2016-01-19-london-nhm/
+    venue: Natural History Museum
+  - address: Biomedical and Physical Sciences Building, 567 Wilson Road, Room 1441
+    contact: lsmead@msu.edu
+    country: us
+    end: 2016-01-18
+    eventbrite_id: ''
+    humandate: Jan 18-18, 2016
+    latitude: 42.701848
+    longitude: -84.4843606
+    slug: 2016-01-18-msu
+    start: 2016-01-18
+    tags:
+    - {name: DC}
+    url: https://acharbonneau.github.io/2016-01-18-MSU/
+    venue: BEACON @ MSU
   - address: Piscataway, New Jersey
     contact: janet.alder@rutgers.edu
     country: us
@@ -2169,49 +2277,6 @@ workshops:
     tags:
     - {name: DC}
     url: https://callaghanmt.github.io/2016-01-26-london-nhm/
-    venue: Natural History Museum
-  - address: Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States Research
-      Center, 141 Experiment Station Road, Stoneville, MS
-    contact: op.perera@ars.usda.gov
-    country: US
-    end: 2016-01-20
-    eventbrite_id: ''
-    humandate: Jan 19-20, 2016
-    latitude: 33.420899
-    longitude: -90.909457
-    slug: 2016-01-19-usda
-    start: 2016-01-19
-    tags:
-    - {name: DC}
-    url: https://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/
-    venue: USDA-ARS
-  - address: 100 Nicolls Road, Stony Brook, NY 11790
-    contact: ''
-    country: US
-    end: 2016-01-20
-    eventbrite_id: ''
-    humandate: Jan 19-20, 2016
-    latitude: 40.916011
-    longitude: -73.1220717
-    slug: 2016-01-19-sbu
-    start: 2016-01-19
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2016-01-19-sbu/
-    venue: Wang Center - Lecture Hall 2
-  - address: Natural History Museum, Cromwell Road, London, SW7 5BD
-    contact: f.ahmed@nhm.ac.uk
-    country: GB
-    end: 2016-01-20
-    eventbrite_id: ''
-    humandate: Jan 19-20, 2016
-    latitude: 51.495933
-    longitude: -0.176367
-    slug: 2016-01-19-london-nhm
-    start: 2016-01-19
-    tags:
-    - {name: DC}
-    url: https://callaghanmt.github.io/2016-01-19-london-nhm/
     venue: Natural History Museum
 workshops_current: *id001
 workshops_past: *id002
