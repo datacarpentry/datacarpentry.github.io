@@ -1,0 +1,32 @@
+---
+layout: page
+show_meta: false
+title: "Past Workshops"
+header:
+   image_fullwidth: "wood_plank.jpg"
+permalink: "/workshops-past/"
+---
+
+
+<div style="text-align: center; margin-bottom: 15px">
+  {% for flag in site.data.amy.flags.workshops %}
+    <img src="{{site.url}}/assets/img/flags/32/{{flag}}.png" title="{{flag | replace: '-',' '}}" alt="{{flag | replace: '-',' '}}" />
+    {% unless forloop.last %}
+      {% assign loopindex = forloop.index0 | modulo: 16 %}
+      {% if loopindex == 15 %}
+      <br/>
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+</div>
+
+
+<table class="table table-striped workshops">
+  {% for w in site.data.amy.workshops_past %}
+  <tr>
+    <td><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
+    <td class="link"><a href="{{w.url}}">{{w.venue}}</a></td>
+    <td class="date">{{w.humandate}}</td>
+  </tr>
+  {% endfor %}
+</table>
