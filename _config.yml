@@ -25,6 +25,9 @@ url: "http://www.datacarpentry.org"
 #url: "http://0.0.0.0:4000/"
 baseurl: ""
 
+# This URL is the root of files below the domain.
+filesurl: '/assets/img'
+
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/datacarpentry/datacarpentry.github.io/edit/gh-pages

@@ -1,0 +1,43 @@
+---
+layout: page
+show_meta: false
+title: "Upcoming Workshops"
+header:
+   image_fullwidth: "wood_plank.jpg"
+permalink: "/workshops-upcoming/"
+---
+
+These are the upcoming workshops. Most are first advertised to the organization running the workshop, but some are open to other participants.
+
+<hr>
+<p align=center>Don't see a workshop in your area, but wish there was one? 
+<br>Become a host and <a href=../workshops-host/>request a workshop!<a>
+
+
+<p>
+
+<!--
+<div style="text-align: center; margin-bottom: 15px">
+  {% for flag in site.data.amy.flags.workshops %}
+    <img src="{{site.filesurl}}/flags/32/{{flag}}.png" title="{{flag | replace: '-',' '}}" alt="{{flag | replace: '-',' '}}" />
+    {% unless forloop.last %}
+      {% assign loopindex = forloop.index0 | modulo: 16 %}
+      {% if loopindex == 15 %}
+      <br/>
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+</div>
+-->
+
+<hr>
+
+<table class="table table-striped workshops">
+  {% for w in site.data.amy.workshops_current reverse %}
+  <tr>
+    <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
+    <td class="link"><a href="{{w.url}}">{{w.venue}}</a></td>
+    <td class="date">{{w.humandate}}</td>
+  </tr>
+  {% endfor %}
+</table>
