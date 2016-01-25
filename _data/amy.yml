@@ -1735,6 +1735,9 @@ badges:
   - {name: Chris Norton, user: norton.chris}
   - {name: Braden Owsley, user: owsley.braden}
   - {name: Blake Stamps, user: stamps.blake}
+  - {name: Mateusz Kuzak, user: kuzak.mateusz}
+  - {name: Alexandre Manhaes Savio, user: manhaes-savio.alexandre}
+  - {name: Sergey Mashchenko, user: mashchenko.sergey}
 - name: member
   persons:
   - {name: Joshua Adelman, user: adelman.joshua}
@@ -1837,7 +1840,7 @@ flags:
   airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, us]
-timestamp: 20160123T112246Z
+timestamp: 20160123T205909Z
 workshops:
 - &id002
   - address: Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States Research

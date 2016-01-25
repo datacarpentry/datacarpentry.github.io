@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Jobs"
 header:
@@ -7,8 +7,8 @@ header:
 permalink: "/jobs/"
 ---
 
-We are currently hiring an **Associate Director** for Data Carpentry.    
-The position was posted November 30, 2015.   
+We are currently hiring an **Associate Director** for Data Carpentry.
+The position was posted November 30, 2015.
 **We will begin reviewing applications on December 18, 2015** and the position will remain open until filled.
 
 ### Associate Director, Data Carpentry
@@ -17,13 +17,13 @@ Data Carpentry seeks a full-time Associate Director to lead the organization’s
 
 Data Carpentry is a not-for-profit organization developing and teaching workshops on fundamental data skills needed to conduct research. Its mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. Data Carpentry lessons are intentionally domain specific, and span the life, physical, and social sciences. Data Carpentry workshops create an environment friendly to learners who have little to no prior computational experience, and are designed to empower researchers to apply the skills learned to data driven discovery in their own research.
 
-The Associate Director position is initially funded for 2 years through a grant from the    
-Gordon and Betty Moore Foundation. They will be hired and paid as a contractor of   
+The Associate Director position is initially funded for 2 years through a grant from the
+Gordon and Betty Moore Foundation. They will be hired and paid as a contractor of
 NumFOCUS, Data Carpentry’s fiscal sponsor. Position can be remote and there are not location requirements. Review of applications will begin December 18th, 2015, and the position will remain open until filled.
 
 #### Job Description
 
-As the Associate Director, you will have primary responsibility for leading and implementing Data Carpentry’s community engagement efforts.  You will be responsible for establishing, coordinating, and sustainably growing a healthy supportive volunteer community of contributors, instructors, and learners. In particular, you will be responsible for working with Software Carpentry to build and engage with a pool of well-trained and mentored Data  
+As the Associate Director, you will have primary responsibility for leading and implementing Data Carpentry’s community engagement efforts.  You will be responsible for establishing, coordinating, and sustainably growing a healthy supportive volunteer community of contributors, instructors, and learners. In particular, you will be responsible for working with Software Carpentry to build and engage with a pool of well-trained and mentored Data
 Carpentry instructors, a key strength of the organization. This includes serving on the mentorship subcommittee, providing guidance and oversight to mechanisms for instructor training and development, and serving as the central point of contact for instructors. You will also be responsible for creating and publishing the organization’s newsletter and promotional materials and overseeing and coordinating the organization’s social media presence. Finally, you will have ample opportunities, and be expected to contribute to lesson development and workshop efforts, and to be involved in informing and implementing Data Carpentry’s strategic plans.
 
 The role reports to, and collaborates closely with the Executive Director of Data Carpentry.
@@ -42,7 +42,7 @@ In addition to the above, highly qualified applicants will meet several or most 
 
 **How to apply:** To apply, please send a cover letter, your CV or resume, and a list of 2 or more references to [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) with 'Associate Director' in the subject line. For position-related inquiries, please contact Dr. Tracy Teal, the Executive Director of Data Carpentry, also using [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org) or at [tkteal@datacarpentry.org](tkteal@datacarpentry.org).
 
-*We are committed to achieving excellence 
-through a diverse workforce and inclusive culture that encourages all people 
-to reach their full potential. We actively encourage applications from anyone 
-who is interested in the position.*  
+*We are committed to achieving excellence
+through a diverse workforce and inclusive culture that encourages all people
+to reach their full potential. We actively encourage applications from anyone
+who is interested in the position.*

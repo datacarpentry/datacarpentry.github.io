@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Governance"
 header:
@@ -7,8 +7,8 @@ header:
 permalink: "/governance/"
 ---
 
-Data Carpentry is a Fiscally Sponsored Project of [NumFOCUS](http://www.numfocus.org), 
-a 501(c)3 organization. 
+Data Carpentry is a Fiscally Sponsored Project of [NumFOCUS](http://www.numfocus.org),
+a 501(c)3 organization.
 
 Data Carpentry is governed by a volunteer [Steering Committee](/people/)
 and run by its [Staff](/people/).
@@ -22,7 +22,7 @@ adhere to a Code of Conduct.
 
 <h3>Records</h3>
 Steering Committee Meeting activities are reported as minutes and resolutions from
-each meeting. 
+each meeting.
 
 - [Resolutions](/resolutions/)
 - [Steering Committee Meeting Minutes](/minutes/)

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Contact Us"
 meta_title: "Contact us"
 show_meta: false
