@@ -1,74 +1,74 @@
 airports:
 - country: us
   instructors:
-  - {name: Jonathan Gross, user: gross.jonathan}
+  - {name: Jonathan Gross, user: gross_jonathan}
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
 - country: nz
   instructors:
-  - {name: Prashant Gupta, user: gupta.prashant}
-  - {name: Richard Hosking, user: hosking.richard}
-  - {name: Nick Jones, user: jones.nick}
-  - {name: Sina Masoud-Ansari, user: masoud-ansari.sina}
-  - {name: Cameron McLean, user: mclean.cameron}
-  - {name: Tim McNamara, user: mcnamara.tim}
-  - {name: John Rugis, user: rugis.john}
-  - {name: Andre Geldenhuis, user: geldenhuis.andre}
-  - {name: Wolfgang Hayek, user: hayek.wolfgang}
+  - {name: Prashant Gupta, user: gupta_prashant}
+  - {name: Richard Hosking, user: hosking_richard}
+  - {name: Nick Jones, user: jones_nick}
+  - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
+  - {name: Cameron McLean, user: mclean_cameron}
+  - {name: Tim McNamara, user: mcnamara_tim}
+  - {name: John Rugis, user: rugis_john}
+  - {name: Andre Geldenhuis, user: geldenhuis_andre}
+  - {name: Wolfgang Hayek, user: hayek_wolfgang}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
 - country: se
   instructors:
-  - {name: Roman Valls Guimera, user: valls-guimera.roman}
+  - {name: Roman Valls Guimera, user: valls-guimera_roman}
   latitude: 59.651944
   longitude: 17.918611
   name: Stockholm
 - country: us
   instructors:
-  - {name: Daniel Smith, user: smith.daniel}
+  - {name: Daniel Smith, user: smith_daniel}
   latitude: 33.640278
   longitude: -84.426944
   name: Atlanta, GA
 - country: us
   instructors:
-  - {name: Nichole Bennett, user: bennett.n}
-  - {name: John Fonner, user: fonner.john}
-  - {name: Rayna Harris, user: harris.rayna}
-  - {name: Gayathri Swaminathan, user: swaminathan.gayathri}
-  - {name: Rebecca Tarvin, user: tarvin.becca}
-  - {name: April Wright, user: wright.april}
+  - {name: Nichole Bennett, user: bennett_n}
+  - {name: John Fonner, user: fonner_john}
+  - {name: Rayna Harris, user: harris_rayna}
+  - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
+  - {name: Rebecca Tarvin, user: tarvin_becca}
+  - {name: April Wright, user: wright_april}
   latitude: 30.194444
   longitude: -97.669722
   name: Austin, TX
 - country: es
   instructors:
-  - {name: Alan O'Cais, user: ocais.alan}
+  - {name: Alan O'Cais, user: ocais_alan}
   latitude: 41.296944
   longitude: 2.078333
   name: Barcelona
 - country: us
   instructors:
-  - {name: Sheldon McKay, user: mckay.sheldon}
-  - {name: R. David Murray, user: murray.david}
+  - {name: Sheldon McKay, user: mckay_sheldon}
+  - {name: R. David Murray, user: murray_david}
   latitude: 41.938889
   longitude: -72.683056
   name: Hartford, CT
 - country: gb
   instructors:
-  - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez.leonor}
-  - {name: Kate Lee, user: lee.kate}
-  - {name: Sarah Mount, user: mount.sarah}
-  - {name: Duncan Watson-Parris, user: watson-parris.duncan}
-  - {name: Sebastian Engelstaedter, user: engelstaedter.sebastian}
-  - {name: Victoria Forth, user: forth.victoria}
+  - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
+  - {name: Kate Lee, user: lee_kate}
+  - {name: Sarah Mount, user: mount_sarah}
+  - {name: Duncan Watson-Parris, user: watson-parris_duncan}
+  - {name: Sebastian Engelstaedter, user: engelstaedter_sebastian}
+  - {name: Victoria Forth, user: forth_victoria}
   latitude: 52.453611
   longitude: -1.747778
   name: Birmingham
 - country: th
   instructors:
-  - {name: Likit Preeyanon, user: preeyanon.likit}
+  - {name: Likit Preeyanon, user: preeyanon_likit}
   latitude: 13.6925
   longitude: 100.75
   name: Bangkok
@@ -80,842 +80,846 @@ airports:
   name: Bangalore
 - country: us
   instructors:
-  - {name: Scott Burns, user: burns.scott}
-  - {name: Christopher Fonnesbeck, user: fonnesbeck.chris}
+  - {name: Scott Burns, user: burns_scott}
+  - {name: Christopher Fonnesbeck, user: fonnesbeck_chris}
   latitude: 36.131312
   longitude: -86.66945
   name: Nashville, TN
 - country: au
   instructors:
-  - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain.areej}
-  - {name: Sam Hames, user: hames.sam}
-  - {name: Paula Andrea Andrea Martinez, user: martinez.paula}
-  - {name: Amanda Miotto, user: miotto.amanda}
-  - {name: Mitchell Stanton-Cook, user: stanton-cook.mitchell}
-  - {name: Darya Vanichkina, user: vanichkina.darya}
-  - {name: Belinda Weaver, user: weaver.belinda}
+  - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
+  - {name: Sam Hames, user: hames_sam}
+  - {name: Paula Andrea Andrea Martinez, user: martinez_paula}
+  - {name: Amanda Miotto, user: miotto_amanda}
+  - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
+  - {name: Darya Vanichkina, user: vanichkina_darya}
+  - {name: Belinda Weaver, user: weaver_belinda}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
 - country: us
   instructors:
-  - {name: Harriet Alexander, user: alexander.harriet}
-  - {name: Trevor Bekolay, user: bekolay.trevor}
-  - {name: Bob Freeman, user: freeman.robert}
-  - {name: Ivan Gonzalez, user: gonzalez.ivan}
-  - {name: Radhika Khetani, user: khetani.radhika}
-  - {name: Meeta Mistry, user: mistry.meeta}
-  - {name: Francisco J. J. Navarro-Brull, user: navarro.francisco}
-  - {name: Daiva Nielsen, user: nielsen.daiva}
-  - {name: Mary Piper, user: piper.mary}
-  - {name: Tom Pollard, user: pollard.tom}
-  - {name: Janet Riley, user: riley.janet}
-  - {name: Michael Selik, user: selik.m}
-  - {name: Genevieve Shattow, user: shattow.genevieve}
-  - {name: Adam Freedman, user: freedman.adam}
-  - {name: Amir Karger, user: karger.amir}
-  - {name: Andrew Marder, user: marder.andrew}
-  - {name: Ista Zahn, user: zahn.ista}
+  - {name: Harriet Alexander, user: alexander_harriet}
+  - {name: Trevor Bekolay, user: bekolay_trevor}
+  - {name: Bob Freeman, user: freeman_robert}
+  - {name: Ivan Gonzalez, user: gonzalez_ivan}
+  - {name: Radhika Khetani, user: khetani_radhika}
+  - {name: Meeta Mistry, user: mistry_meeta}
+  - {name: Francisco J. J. Navarro-Brull, user: navarro_francisco}
+  - {name: Daiva Nielsen, user: nielsen_daiva}
+  - {name: Mary Piper, user: piper_mary}
+  - {name: Tom Pollard, user: pollard_tom}
+  - {name: Janet Riley, user: riley_janet}
+  - {name: Michael Selik, user: selik_m}
+  - {name: Genevieve Shattow, user: shattow_genevieve}
+  - {name: Adam Freedman, user: freedman_adam}
+  - {name: Amir Karger, user: karger_amir}
+  - {name: Andrew Marder, user: marder_andrew}
+  - {name: Ista Zahn, user: zahn_ista}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
 - country: gb
   instructors:
-  - {name: Jeremy Metz, user: metz.jeremy}
-  - {name: Christopher Woods, user: woods.c}
+  - {name: Jeremy Metz, user: metz_jeremy}
+  - {name: Christopher Woods, user: woods_c}
   latitude: 51.3825
   longitude: -2.718889
   name: Bristol
 - country: us
   instructors:
-  - {name: Erik Bray, user: bray.e}
-  - {name: Justin Ely, user: ely.j}
-  - {name: Alex Viana, user: viana.a}
+  - {name: Erik Bray, user: bray_e}
+  - {name: Justin Ely, user: ely_j}
+  - {name: Alex Viana, user: viana_a}
   latitude: 39.175278
   longitude: -76.668333
   name: Baltimore, MD
 - country: fr
   instructors:
-  - {name: Nelle Varoquaux, user: varoquaux.n}
+  - {name: Nelle Varoquaux, user: varoquaux_n}
   latitude: 49.012778
   longitude: 2.55
   name: Paris Charles de Gaulle
 - country: nz
   instructors:
-  - {name: Sung Eun Bae, user: bae.sung}
-  - {name: Constantine Zakkaroff, user: zakkaroff.constantine}
+  - {name: Sung Eun Bae, user: bae_sung}
+  - {name: Constantine Zakkaroff, user: zakkaroff_constantine}
   latitude: -43.489167
   longitude: 172.532222
   name: Christchurch
 - country: us
   instructors:
-  - {name: Pete Alonzi, user: alonzi.pete}
-  - {name: Jessica Bonnie, user: bonnie.jessica}
-  - {name: Zhuo Fu, user: fu.zhuo}
-  - {name: Alex Koeppel, user: koeppel.alexander}
-  - {name: Sherry Lake, user: lake.sherry}
-  - {name: VP Peter Nagraj, user: nagraj.vp}
-  - {name: Courtney Soderberg, user: soderberg.courtney}
-  - {name: Stephen Turner, user: turner.s}
+  - {name: Pete Alonzi, user: alonzi_pete}
+  - {name: Jessica Bonnie, user: bonnie_jessica}
+  - {name: Zhuo Fu, user: fu_zhuo}
+  - {name: Alex Koeppel, user: koeppel_alexander}
+  - {name: Sherry Lake, user: lake_sherry}
+  - {name: VP Peter Nagraj, user: nagraj_vp}
+  - {name: Courtney Soderberg, user: soderberg_courtney}
+  - {name: Stephen Turner, user: turner_s}
   latitude: 38.139643
   longitude: -78.452342
   name: Charlottesville, VA
 - country: us
   instructors:
-  - {name: Dan McGlinn, user: mcglinn.d}
+  - {name: Dan McGlinn, user: mcglinn_d}
   latitude: 32.898611
   longitude: -80.040278
   name: Charleston, SC
 - country: us
   instructors:
-  - {name: Asela Wijeratne, user: wijeratne.asela}
+  - {name: Asela Wijeratne, user: wijeratne_asela}
   latitude: 41.411667
   longitude: -81.849722
   name: Cleveland, OH
 - country: us
   instructors:
-  - {name: Neal Davis, user: davis.neal}
-  - {name: David LeBauer, user: lebauer.david}
+  - {name: Neal Davis, user: davis_neal}
+  - {name: David LeBauer, user: lebauer_david}
   latitude: 40.039167
   longitude: -88.278056
   name: Urbana-Champaign, IL
 - country: dk
   instructors:
-  - {name: Chelsea Chisholm, user: chisholm.chelsea}
-  - {name: Johan Hjelm, user: hjelm.johan}
+  - {name: Chelsea Chisholm, user: chisholm_chelsea}
+  - {name: Johan Hjelm, user: hjelm_johan}
   latitude: 55.617778
   longitude: 12.655833
   name: Copenhagen Kastrup
 - country: za
   instructors:
-  - {name: Adrianna Pińska, user: pinska.adrianna}
-  - {name: Anelda van der Walt, user: van-der-walt.anelda}
-  - {name: Stefan van der Walt, user: vanderwalt.s}
-  - {name: Raissa Philibert, user: philibert.raissa}
+  - {name: Adrianna Pińska, user: pinska_adrianna}
+  - {name: Anelda van der Walt, user: van-der-walt_anelda}
+  - {name: Stefan van der Walt, user: vanderwalt_s}
+  - {name: Raissa Philibert, user: philibert_raissa}
   latitude: -33.964722
   longitude: 18.601667
   name: Cape Town
 - country: us
   instructors:
-  - {name: Aron Ahmadia, user: ahmadia.a}
-  - {name: Jonathan Guyer, user: guyer.jonathan}
-  - {name: Brian Miles, user: miles.brian}
-  - {name: Ian Munoz, user: munoz.ian}
-  - {name: Rosario Robinson, user: robinson.rosario}
-  - {name: Joshua Smith, user: smith.j}
-  - {name: Mike Smorul, user: smorul.mike}
-  - {name: Ryan Dale, user: dale.ryan}
+  - {name: Aron Ahmadia, user: ahmadia_a}
+  - {name: Jonathan Guyer, user: guyer_jonathan}
+  - {name: Brian Miles, user: miles_brian}
+  - {name: Ian Munoz, user: munoz_ian}
+  - {name: Rosario Robinson, user: robinson_rosario}
+  - {name: Joshua Smith, user: smith_j}
+  - {name: Mike Smorul, user: smorul_mike}
+  - {name: Ryan Dale, user: dale_ryan}
   latitude: 38.851944
   longitude: -77.0375
   name: Ronald Reagan Washington, DC
 - country: us
   instructors:
-  - {name: Matt Dickenson, user: dickenson.matt}
-  - {name: Dorota Jarecka, user: jarecka.dorota}
-  - {name: Mariela Perignon, user: perignon.mariela}
-  - {name: Natalie Robinson, user: robinson.natalie}
-  - {name: Leah Wasser, user: wasser.leah}
-  - {name: Andrew Johnson, user: johnson.andrew}
+  - {name: Matt Dickenson, user: dickenson_matt}
+  - {name: Dorota Jarecka, user: jarecka_dorota}
+  - {name: Mariela Perignon, user: perignon_mariela}
+  - {name: Natalie Robinson, user: robinson_natalie}
+  - {name: Leah Wasser, user: wasser_leah}
+  - {name: Andrew Johnson, user: johnson_andrew}
   latitude: 39.858333
   longitude: -104.666944
   name: Denver, CO
 - country: us
   instructors:
-  - {name: John Corless, user: corless.john}
-  - {name: Kate Hertweck, user: hertweck.kate}
+  - {name: John Corless, user: corless_john}
+  - {name: Kate Hertweck, user: hertweck_kate}
   latitude: 32.896389
   longitude: -97.0375
   name: Dallas-Fort Worth, TX
 - country: gb
   instructors:
-  - {name: David Martin, user: martin.david}
+  - {name: David Martin, user: martin_david}
   latitude: 56.4525
   longitude: -3.025833
   name: Dundee
 - country: de
   instructors:
-  - {name: Ian Henry, user: henry.ian}
-  - {name: Luke Lee, user: lee.luke}
-  - {name: Peter Steinbach, user: steinbach.peter}
+  - {name: Ian Henry, user: henry_ian}
+  - {name: Luke Lee, user: lee_luke}
+  - {name: Peter Steinbach, user: steinbach_peter}
   latitude: 51.1325
   longitude: 13.766944
   name: Dresden
 - country: us
   instructors:
-  - {name: Adina Howe, user: chuang-howe.a}
-  - {name: Fan Yang, user: yang.fan}
+  - {name: Adina Howe, user: chuang-howe_a}
+  - {name: Fan Yang, user: yang_fan}
   latitude: 41.533889
   longitude: -93.6625
   name: Des Moines, IA
 - country: us
   instructors:
-  - {name: Carlos Anderson, user: anderson.c}
-  - {name: Michelle Berry, user: berry.michelle}
-  - {name: Amanda Charbonneau, user: charbonneau.amanda}
-  - {name: Meghan Duffy, user: duffy.meghan}
-  - {name: Arthur Endsley, user: endsley.arthur}
-  - {name: Chris Gates, user: gates.chris}
-  - {name: Jiarong Guo, user: guo.jiarong}
-  - {name: Luiz Irber, user: irber.luiz}
-  - {name: Ben Johnson, user: johnson.ben}
-  - {name: Marian Schmidt, user: schmidt.marian}
-  - {name: Leigh Sheneman, user: sheneman.leigh}
-  - {name: Byron Smith, user: smith.byron}
-  - {name: Shawn Whitefield, user: whitefield.shawn}
+  - {name: Carlos Anderson, user: anderson_c}
+  - {name: Michelle Berry, user: berry_michelle}
+  - {name: Amanda Charbonneau, user: charbonneau_amanda}
+  - {name: Meghan Duffy, user: duffy_meghan}
+  - {name: Arthur Endsley, user: endsley_arthur}
+  - {name: Chris Gates, user: gates_chris}
+  - {name: Jiarong Guo, user: guo_jiarong}
+  - {name: Luiz Irber, user: irber_luiz}
+  - {name: Ben Johnson, user: johnson_ben}
+  - {name: Marian Schmidt, user: schmidt_marian}
+  - {name: Leigh Sheneman, user: sheneman_leigh}
+  - {name: Byron Smith, user: smith_byron}
+  - {name: Shawn Whitefield, user: whitefield_shawn}
   latitude: 42.212222
   longitude: -83.353333
   name: Detroit, MI
 - country: ie
   instructors:
-  - {name: Padraic Stack, user: stack.padraic}
+  - {name: Padraic Stack, user: stack_padraic}
   latitude: 53.421111
   longitude: -6.27
   name: Dublin
 - country: de
   instructors:
-  - {name: Tiziano Zito, user: zito.t}
+  - {name: Tiziano Zito, user: zito_t}
   latitude: 51.289444
   longitude: 6.766667
   name: Dusseldorf
 - country: gb
   instructors:
-  - {name: Mario Antonioletti, user: antonioletti.mario}
-  - {name: Evgenij Belikov, user: belikov.evgenij}
-  - {name: Neil Chue Hong, user: chue-hong.n}
-  - {name: Emmanouil Farsarakis, user: farsarakis.emmanouil}
-  - {name: Mike Jackson, user: jackson.m}
-  - {name: Martin Jones, user: jones.martin}
-  - {name: Giacomo Peru, user: peru.giacomo}
-  - {name: Leighton Pritchard, user: pritchard.leighton}
-  - {name: Sam Thomson, user: thomson.samuel}
-  - {name: Michael Torpey, user: torpey.michael}
+  - {name: Mario Antonioletti, user: antonioletti_mario}
+  - {name: Evgenij Belikov, user: belikov_evgenij}
+  - {name: Neil Chue Hong, user: chue-hong_n}
+  - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
+  - {name: Mike Jackson, user: jackson_m}
+  - {name: Martin Jones, user: jones_martin}
+  - {name: Giacomo Peru, user: peru_giacomo}
+  - {name: Leighton Pritchard, user: pritchard_leighton}
+  - {name: Sam Thomson, user: thomson_samuel}
+  - {name: Michael Torpey, user: torpey_michael}
   latitude: 55.95
   longitude: -3.3725
   name: Edinburgh
 - country: us
   instructors:
-  - {name: Jacob Levernier, user: levernier.jacob}
+  - {name: Jacob Levernier, user: levernier_jacob}
   latitude: 38.175662
   longitude: -85.736923
   name: Eugene, OR
 - country: us
   instructors:
-  - {name: Nic Hannah, user: hannah.nicholas}
-  - {name: Bror Fredrik Jonsson, user: jonsson.bf}
-  - {name: Robert Till, user: till.robert}
+  - {name: Nic Hannah, user: hannah_nicholas}
+  - {name: Bror Fredrik Jonsson, user: jonsson_bf}
+  - {name: Robert Till, user: till_robert}
   latitude: 40.692222
   longitude: -74.168611
   name: Newark, NJ
 - country: gb
   instructors:
-  - {name: James Allen, user: allen.james}
+  - {name: James Allen, user: allen_james}
   latitude: 50.734444
   longitude: -3.413889
   name: Exeter
 - country: us
   instructors:
-  - {name: Greg Caporaso, user: caporaso.greg}
-  - {name: Donald Speer, user: speer.donald}
-  - {name: Adam Perry, user: perry.adam}
+  - {name: Greg Caporaso, user: caporaso_greg}
+  - {name: Donald Speer, user: speer_donald}
+  - {name: Adam Perry, user: perry_adam}
   latitude: 35.13778
   longitude: -111.67167
   name: Flagstaff, AZ
 - country: de
   instructors:
-  - {name: Luis Pedro Coelho, user: coelho.luis}
-  - {name: Konrad Förstner, user: forstner.konrad}
-  - {name: Philipp Lies, user: lies.philipp}
-  - {name: Malvika Sharan, user: sharan.malvika}
-  - {name: Horacio Vargas Guzman, user: vargas-guzman.horacio}
+  - {name: Luis Pedro Coelho, user: coelho_luis}
+  - {name: Konrad Förstner, user: forstner_konrad}
+  - {name: Philipp Lies, user: lies_philipp}
+  - {name: Malvika Sharan, user: sharan_malvika}
+  - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
   latitude: 50.026389
   longitude: 8.543056
   name: Frankfurt
 - country: us
   instructors:
-  - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek.zbigniew}
-  - {name: Adam Thomas, user: thomas.adam}
+  - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek_zbigniew}
+  - {name: Adam Thomas, user: thomas_adam}
   latitude: 38.944444
   longitude: -77.455556
   name: Washington Dulles, DC
 - country: us
   instructors:
-  - {name: Noushin Ghaffari, user: ghaffari.noushin}
-  - {name: Saravanan Ramalingam, user: ramalingam.saravanan}
-  - {name: Scott Talafuse, user: talafuse.scott}
-  - {name: Chandler Wilkerson, user: wilkerson.chandler}
+  - {name: Noushin Ghaffari, user: ghaffari_noushin}
+  - {name: Saravanan Ramalingam, user: ramalingam_saravanan}
+  - {name: Scott Talafuse, user: talafuse_scott}
+  - {name: Chandler Wilkerson, user: wilkerson_chandler}
   latitude: 29.980278
   longitude: -95.339722
   name: Houston, TX
 - country: us
   instructors:
-  - {name: Michael Hansen, user: hansen.m}
-  - {name: David Rio, user: rio.david}
-  - {name: Jeffrey Shelton, user: shelton.j}
-  - {name: Daniel Standage, user: standage.daniel}
+  - {name: Michael Hansen, user: hansen_m}
+  - {name: David Rio, user: rio_david}
+  - {name: Jeffrey Shelton, user: shelton_j}
+  - {name: Daniel Standage, user: standage_daniel}
   latitude: 39.717222
   longitude: -86.294167
   name: Indianapolis, IN
 - country: us
   instructors:
-  - {name: Emily Davenport, user: davenport.e}
+  - {name: Emily Davenport, user: davenport_e}
   latitude: 42.491
   longitude: -76.459
   name: Ithaca, NY
 - country: us
   instructors:
-  - {name: Matthew Aiello-Lammens, user: aiello-lammens.matthew}
-  - {name: Joshua Ainsley, user: ainsley.joshua}
-  - {name: Jonathan Borrelli, user: borrelli.jonathan}
-  - {name: Laura Jane Graham, user: graham.laura}
-  - {name: Noam Ross, user: ross.noam}
-  - {name: Matthew Ruttley, user: ruttley.m}
-  - {name: Jennifer Shelton, user: shelton.jennifer}
-  - {name: Yu-Ching Shih, user: shih.yu-ching}
-  - {name: Genevieve Smith, user: smith.g}
-  - {name: Jason Williams, user: williams.jason}
+  - {name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
+  - {name: Joshua Ainsley, user: ainsley_joshua}
+  - {name: Jonathan Borrelli, user: borrelli_jonathan}
+  - {name: Laura Jane Graham, user: graham_laura}
+  - {name: Noam Ross, user: ross_noam}
+  - {name: Matthew Ruttley, user: ruttley_m}
+  - {name: Jennifer Shelton, user: shelton_jennifer}
+  - {name: Yu-Ching Shih, user: shih_yu-ching}
+  - {name: Genevieve Smith, user: smith_g}
+  - {name: Jason Williams, user: williams_jason}
   latitude: 40.639722
   longitude: -73.778889
   name: New York JFK, NY
 - country: pl
   instructors:
-  - {name: Piotr Banaszkiewicz, user: banaszkiewicz.piotr}
-  - {name: Maciej Czuchry, user: czuchry.maciej}
-  - {name: Paulina Lach, user: lach.paulina}
-  - {name: Klemens Noga, user: noga.klemens}
-  - {name: Leszek Tarkowski, user: tarkowski.leszek}
-  - {name: Katarzyna Zaczek, user: zaczek.katarzyna}
+  - {name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
+  - {name: Maciej Czuchry, user: czuchry_maciej}
+  - {name: Paulina Lach, user: lach_paulina}
+  - {name: Klemens Noga, user: noga_klemens}
+  - {name: Leszek Tarkowski, user: tarkowski_leszek}
+  - {name: Katarzyna Zaczek, user: zaczek_katarzyna}
   latitude: 50.0775
   longitude: 19.784722
   name: Krakow
 - country: us
   instructors:
-  - {name: Christie Bahlai, user: bahlai.christie}
-  - {name: Rosangela Canino-Koning, user: canino-koning.r}
-  - {name: Emily Dolson, user: dolson.emily}
-  - {name: Richard Enbody, user: enbody.r}
-  - {name: Aaron Garoutte, user: garoutte.aaron}
-  - {name: Joshua Nahum, user: nahum.josh}
-  - {name: Sean Pue, user: pue.s}
-  - {name: Jorden Schossau, user: schossau.j}
+  - {name: Christie Bahlai, user: bahlai_christie}
+  - {name: Rosangela Canino-Koning, user: canino-koning_r}
+  - {name: Emily Dolson, user: dolson_emily}
+  - {name: Richard Enbody, user: enbody_r}
+  - {name: Aaron Garoutte, user: garoutte_aaron}
+  - {name: Joshua Nahum, user: nahum_josh}
+  - {name: Sean Pue, user: pue_s}
+  - {name: Jorden Schossau, user: schossau_j}
   latitude: 42.778611
   longitude: -84.587222
   name: Lansing, MI
 - country: us
   instructors:
-  - {name: Mark Wilber, user: wilber.mark}
+  - {name: Mark Wilber, user: wilber_mark}
   latitude: 33.9415889
   longitude: -118.40853
   name: Los Angeles, CA
 - country: gb
   instructors:
-  - {name: Aaron O'Leary, user: oleary.aaron}
-  - {name: Andrew Walker, user: walker.andrew}
-  - {name: Jon E Mound, user: mound.je}
-  - {name: Mike Wallis, user: wallis.mike}
-  - {name: Andy Evans, user: evans.andy}
-  - {name: Krzysztof Poterlowicz, user: poterlowicz.krzysztof}
-  - {name: Will Furnass, user: furnass.will}
+  - {name: Aaron O'Leary, user: oleary_aaron}
+  - {name: Andrew Walker, user: walker_andrew}
+  - {name: Jon E Mound, user: mound_je}
+  - {name: Mike Wallis, user: wallis_mike}
+  - {name: Chris Norton, user: norton_chris}
+  - {name: Andy Evans, user: evans_andy}
+  - {name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
+  - {name: Will Furnass, user: furnass_will}
   latitude: 53.865833
   longitude: -1.660556
   name: Leeds
 - country: gb
   instructors:
-  - {name: Luis Figueira, user: figueira.l}
-  - {name: James Derrick, user: derrick.james}
+  - {name: Luis Figueira, user: figueira_l}
+  - {name: James Derrick, user: derrick_james}
   latitude: 51.505
   longitude: 0.054167
   name: London City
 - country: us
   instructors:
-  - {name: Mike Bayer, user: bayer.m}
-  - {name: Jared Camins-Esakov, user: camins-esakov.jared}
-  - {name: Timothy Cerino, user: cerino.t}
-  - {name: Kwasi Kwakwa, user: kwakwa.k}
-  - {name: Ian Langmore, user: langmore.i}
-  - {name: Matthew Lightman, user: lightman.matthew}
-  - {name: Jason Pell, user: pell.j}
+  - {name: Mike Bayer, user: bayer_m}
+  - {name: Jared Camins-Esakov, user: camins-esakov_jared}
+  - {name: Timothy Cerino, user: cerino_t}
+  - {name: Kwasi Kwakwa, user: kwakwa_k}
+  - {name: Ian Langmore, user: langmore_i}
+  - {name: Matthew Lightman, user: lightman_matthew}
+  - {name: Jason Pell, user: pell_j}
   latitude: 40.777222
   longitude: -73.8725
   name: New York La Guardia, NY
 - country: gb
   instructors:
-  - {name: Mark Plumbley, user: plumbley.m}
-  - {name: Will Scott-Jackson, user: scott-jackson.will}
-  - {name: Patrik Huber, user: huber.patrik}
-  - {name: John Field, user: field.john}
-  - {name: Gerard Roma, user: roma.gerard}
-  - {name: William Christmas, user: christmas.bill}
-  - {name: Helen Cooper, user: cooper.helen}
-  - {name: Chris Tomlinson, user: tomlinson.christopher}
+  - {name: Mark Plumbley, user: plumbley_m}
+  - {name: Will Scott-Jackson, user: scott-jackson_will}
+  - {name: Patrik Huber, user: huber_patrik}
+  - {name: John Field, user: field_john}
+  - {name: Gerard Roma, user: roma_gerard}
+  - {name: William Christmas, user: christmas_bill}
+  - {name: Helen Cooper, user: cooper_helen}
+  - {name: Chris Tomlinson, user: tomlinson_christopher}
   latitude: 51.148056
   longitude: -0.190278
   name: London Gatwick
 - country: gb
   instructors:
-  - {name: Rob Beagrie, user: beagrie.robert}
-  - {name: Miguel Bernabeu, user: bernabeu.miguel}
-  - {name: Chris Cannam, user: cannam.c}
-  - {name: Rich FitzJohn, user: fitzjohn.rich}
-  - {name: Philip Fowler, user: fowler.philip}
-  - {name: Donna Henderson, user: henderson.donna}
-  - {name: James Hetherington, user: hetherington.james}
-  - {name: Devasena Inupakutika, user: inupakutika.devasena}
-  - {name: Jan Kim, user: kim.jan}
-  - {name: Jinwoo Leem, user: leem.jinwoo}
-  - {name: Gary Macindoe, user: macindoe.gary}
-  - {name: Dan MacLean, user: maclean.dan}
-  - {name: Jens Hedegaard Nielsen, user: nielsen.jens}
-  - {name: David Perez-Suarez, user: perez-suarez.david}
-  - {name: Florian Rathgeber, user: rathgeber.florian}
-  - {name: Mark Stillwell, user: stillwell.mark}
-  - {name: Richard Tomsett, user: tomsett.richard}
-  - {name: Bogdan Vera, user: vera.b}
-  - {name: Ben Waugh, user: waugh.b}
-  - {name: Arfan Ahmed, user: ahmed.arfan}
-  - {name: Alys Brett, user: brett.alys}
-  - {name: Bethan Davies, user: davies.bethan}
+  - {name: Rob Beagrie, user: beagrie_robert}
+  - {name: Miguel Bernabeu, user: bernabeu_miguel}
+  - {name: Chris Cannam, user: cannam_c}
+  - {name: Rich FitzJohn, user: fitzjohn_rich}
+  - {name: Philip Fowler, user: fowler_philip}
+  - {name: Donna Henderson, user: henderson_donna}
+  - {name: James Hetherington, user: hetherington_james}
+  - {name: Devasena Inupakutika, user: inupakutika_devasena}
+  - {name: Jan Kim, user: kim_jan}
+  - {name: Jinwoo Leem, user: leem_jinwoo}
+  - {name: Gary Macindoe, user: macindoe_gary}
+  - {name: Dan MacLean, user: maclean_dan}
+  - {name: Jens Hedegaard Nielsen, user: nielsen_jens}
+  - {name: David Perez-Suarez, user: perez-suarez_david}
+  - {name: Florian Rathgeber, user: rathgeber_florian}
+  - {name: Mark Stillwell, user: stillwell_mark}
+  - {name: Richard Tomsett, user: tomsett_richard}
+  - {name: Bogdan Vera, user: vera_b}
+  - {name: Ben Waugh, user: waugh_b}
+  - {name: Arfan Ahmed, user: ahmed_arfan}
+  - {name: Alys Brett, user: brett_alys}
+  - {name: Bethan Davies, user: davies_bethan}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
 - country: fr
   instructors:
-  - {name: Rémi Emonet, user: emonet.remi}
+  - {name: Rémi Emonet, user: emonet_remi}
   latitude: 45.726111
   longitude: 5.090833
   name: Lyon Saint Exupery
 - country: es
   instructors:
-  - {name: Javier García-Algarra, user: garcia-algarra.javier}
-  - {name: JC Leyder, user: leyder.jean-christophe}
+  - {name: Javier García-Algarra, user: garcia-algarra_javier}
+  - {name: JC Leyder, user: leyder_jean-christophe}
   latitude: 40.472222
   longitude: -3.560833
   name: Madrid
 - country: gb
   instructors:
-  - {name: Martin Callaghan, user: callaghan.martin}
-  - {name: Michael Croucher, user: croucher.mike}
-  - {name: Anthony Harrison, user: harrison.anthony}
-  - {name: Dave Jones, user: jones.dave}
-  - {name: David Jones, user: jones.d}
-  - {name: Aleksandra Nenadic, user: nenadic.aleksandra}
-  - {name: Aleksandra Pawlik, user: pawlik.a}
-  - {name: Shoaib Sufi, user: sufi.s}
-  - {name: Seb James, user: james.sebastian}
+  - {name: Martin Callaghan, user: callaghan_martin}
+  - {name: Michael Croucher, user: croucher_mike}
+  - {name: Anthony Harrison, user: harrison_anthony}
+  - {name: Dave Jones, user: jones_dave}
+  - {name: David Jones, user: jones_d}
+  - {name: Aleksandra Nenadic, user: nenadic_aleksandra}
+  - {name: Aleksandra Pawlik, user: pawlik_a}
+  - {name: Shoaib Sufi, user: sufi_s}
+  - {name: Seb James, user: james_sebastian}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
 - country: us
   instructors:
-  - {name: Christopher Hamm, user: hamm.christopher}
-  - {name: Emily Jane McTavish, user: mctavish.ej}
+  - {name: Christopher Hamm, user: hamm_christopher}
+  - {name: Emily Jane McTavish, user: mctavish_ej}
   latitude: 39.2975
   longitude: -94.713889
   name: Kansas City, KS
 - country: us
   instructors:
-  - {name: David Jones, user: jones.dm}
+  - {name: David Jones, user: jones_dm}
   latitude: 40.193333
   longitude: -76.763333
   name: Harrisburg, PA
 - country: us
   instructors:
-  - {name: John Blischak, user: blischak.j}
-  - {name: Kyler Brown, user: brown.kyler}
-  - {name: Balamurugan Desinghu, user: desinghu.balamurugan}
-  - {name: Will Trimble, user: trimble.will}
+  - {name: John Blischak, user: blischak_j}
+  - {name: Kyler Brown, user: brown_kyler}
+  - {name: Balamurugan Desinghu, user: desinghu_balamurugan}
+  - {name: Will Trimble, user: trimble_will}
   latitude: 41.785833
   longitude: -87.752222
   name: Chicago Midway, IL
 - country: au
   instructors:
-  - {name: Diego Barneche Rosado, user: barneche.diego}
-  - {name: Ewan Barr, user: barr.ewan}
-  - {name: Thomas Coudrat, user: coudrat.thomas}
-  - {name: Nicholas Crouch, user: crouch.nicholas}
-  - {name: Harriet Dashnow, user: dashnow.harriet}
-  - {name: Matthew Dimmock, user: dimmock.matt}
-  - {name: Kim Doyle, user: doyle.kimberly}
-  - {name: Julian Garcia, user: garcia.julian}
-  - {name: Philippa Griffin, user: griffin.pip}
-  - {name: Damien Irving, user: irving.d}
-  - {name: Isabell Kiral-Kornek, user: kiral-kornek.isabell}
-  - {name: Scott Kolbe, user: kolbe.scott}
-  - {name: Andrew Lonsdale, user: lonsdale.andrew}
-  - {name: Daniel McDonald, user: mcdonald.daniel}
-  - {name: Simon Michnowicz, user: michnowicz.s}
-  - {name: Juan Nunez-Iglesias, user: nunez-iglesias.juan}
-  - {name: Martin Paulo, user: paulo.martin}
-  - {name: Timothy Rice, user: rice.timothy}
-  - {name: Scott Ritchie, user: ritchie.scott}
-  - {name: Clare Sloggett, user: sloggett.clare}
-  - {name: Michael Sumner, user: sumner.mike}
-  - {name: Ian Thomas, user: thomas.ian}
-  - {name: Fiona Tweedie, user: tweedie.fiona}
-  - {name: Alistair Walsh, user: walsh.alistair}
-  - {name: Jared Winton, user: winton.jared}
-  - {name: Steve Androulakis, user: androulakis.steve}
+  - {name: Diego Barneche Rosado, user: barneche_diego}
+  - {name: Ewan Barr, user: barr_ewan}
+  - {name: Thomas Coudrat, user: coudrat_thomas}
+  - {name: Nicholas Crouch, user: crouch_nicholas}
+  - {name: Harriet Dashnow, user: dashnow_harriet}
+  - {name: Matthew Dimmock, user: dimmock_matt}
+  - {name: Kim Doyle, user: doyle_kimberly}
+  - {name: Julian Garcia, user: garcia_julian}
+  - {name: Philippa Griffin, user: griffin_pip}
+  - {name: Damien Irving, user: irving_d}
+  - {name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
+  - {name: Scott Kolbe, user: kolbe_scott}
+  - {name: Andrew Lonsdale, user: lonsdale_andrew}
+  - {name: Daniel McDonald, user: mcdonald_daniel}
+  - {name: Simon Michnowicz, user: michnowicz_s}
+  - {name: Juan Nunez-Iglesias, user: nunez-iglesias_juan}
+  - {name: Martin Paulo, user: paulo_martin}
+  - {name: Timothy Rice, user: rice_timothy}
+  - {name: Scott Ritchie, user: ritchie_scott}
+  - {name: Clare Sloggett, user: sloggett_clare}
+  - {name: Michael Sumner, user: sumner_mike}
+  - {name: Ian Thomas, user: thomas_ian}
+  - {name: Fiona Tweedie, user: tweedie_fiona}
+  - {name: Alistair Walsh, user: walsh_alistair}
+  - {name: Jared Winton, user: winton_jared}
+  - {name: Steve Androulakis, user: androulakis_steve}
   latitude: -37.673333
   longitude: 144.843333
   name: Melbourne
 - country: us
   instructors:
-  - {name: Daniel Hocking, user: hocking.daniel}
+  - {name: Daniel Hocking, user: hocking_daniel}
   latitude: 42.92786
   longitude: -71.43844
   name: Manchester, New Hampshire
 - country: us
   instructors:
-  - {name: Karl Broman, user: broman.karl}
-  - {name: Christina Koch, user: koch.christina}
-  - {name: Lauren Michael, user: michael.lauren}
-  - {name: Sarah Stevens, user: stevens.sarah}
-  - {name: Sarah Supp, user: supp.s}
-  - {name: Paul Wilson, user: wilson.p}
+  - {name: Karl Broman, user: broman_karl}
+  - {name: Christina Koch, user: koch_christina}
+  - {name: Lauren Michael, user: michael_lauren}
+  - {name: Sarah Stevens, user: stevens_sarah}
+  - {name: Sarah Supp, user: supp_s}
+  - {name: Paul Wilson, user: wilson_p}
   latitude: 43.139722
   longitude: -89.3375
   name: Madison, WI
 - country: us
   instructors:
-  - {name: Tamer Mansour, user: mansour.tamer}
-  - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh.hamid}
-  - {name: Ryan Williams, user: williams.ryan}
-  - {name: Jon Badalamenti, user: badalamenti.jon}
+  - {name: Tamer Mansour, user: mansour_tamer}
+  - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh_hamid}
+  - {name: Ryan Williams, user: williams_ryan}
+  - {name: Jon Badalamenti, user: badalamenti_jon}
   latitude: 44.880278
   longitude: -93.216667
   name: Minneapolis St Paul, MN
 - country: us
   instructors:
-  - {name: Hani Nakhoul, user: nakhoul.hani}
-  - {name: Joon Ro, user: ro.j}
+  - {name: Hani Nakhoul, user: nakhoul_hani}
+  - {name: Joon Ro, user: ro_j}
   latitude: 29.993333
   longitude: -90.257778
   name: New Orleans, LA
 - country: de
   instructors:
-  - {name: Steven Koenig, user: koenig.steven}
+  - {name: Steven Koenig, user: koenig_steven}
+  - {name: Alexandre Manhães Savio, user: manhaes-savio_alexandre}
   latitude: 48.353611
   longitude: 11.785833
   name: Munich
 - country: gb
   instructors:
-  - {name: Steve McGough, user: mcgough.s}
-  - {name: Kirill Palamartchouk, user: palamartchouk.kirill}
-  - {name: Leanne Wake, user: wake.leanne}
-  - {name: Nick Loughlin, user: loughlin.nick}
+  - {name: Steve McGough, user: mcgough_s}
+  - {name: Kirill Palamartchouk, user: palamartchouk_kirill}
+  - {name: Leanne Wake, user: wake_leanne}
+  - {name: Nick Loughlin, user: loughlin_nick}
   latitude: 55.0375
   longitude: -1.691667
   name: Newcastle
 - country: gb
   instructors:
-  - {name: Graham Etherington, user: etherington.graham}
+  - {name: Graham Etherington, user: etherington_graham}
   latitude: 52.675833
   longitude: 1.282778
   name: Norwich
 - country: us
   instructors:
-  - {name: Azalee Bostroem, user: bostroem.a}
-  - {name: Shreyas Cholia, user: cholia.s}
-  - {name: Matt Davis, user: davis.m}
-  - {name: Jessica Hamrick, user: hamrick.jessica}
-  - {name: Chris Holdgraf, user: holdgraf.c}
-  - {name: Paul Ivanov, user: ivanov.p}
-  - {name: Kunal Marwaha, user: marwaha.kunal}
-  - {name: Geoff Oxberry, user: oxberry.g}
-  - {name: Fernando Perez, user: perez.f}
-  - {name: Matt Terry, user: terry.m}
-  - {name: Donny Winston, user: winston.donald}
-  - {name: Max Gerlock, user: gerlock.max}
-  - {name: Harry Bachrach, user: bachrach.harry}
+  - {name: Azalee Bostroem, user: bostroem_a}
+  - {name: Shreyas Cholia, user: cholia_s}
+  - {name: Matt Davis, user: davis_m}
+  - {name: Jessica Hamrick, user: hamrick_jessica}
+  - {name: Chris Holdgraf, user: holdgraf_c}
+  - {name: Paul Ivanov, user: ivanov_p}
+  - {name: Kunal Marwaha, user: marwaha_kunal}
+  - {name: Geoff Oxberry, user: oxberry_g}
+  - {name: Fernando Perez, user: perez_f}
+  - {name: Matt Terry, user: terry_m}
+  - {name: Donny Winston, user: winston_donald}
+  - {name: Max Gerlock, user: gerlock_max}
+  - {name: Harry Bachrach, user: bachrach_harry}
   latitude: 37.721111
   longitude: -122.220556
   name: Oakland, CA
 - country: us
   instructors:
-  - {name: Patrick Calhoun, user: calhoun.patrick}
-  - {name: Logan Cox, user: cox.logan}
-  - {name: Jonah Duckles, user: duckles.jonah}
-  - {name: Mark Laufersweiler, user: laufersweiler.mark}
-  - {name: Braden Owsley, user: owsley.braden}
-  - {name: Brent Shambaugh, user: shambaugh.brent}
-  - {name: Mark Stacy, user: stacy.mark}
-  - {name: Blake Stamps, user: stamps.blake}
-  - {name: James Adams, user: adams.james}
-  - {name: Jason Sherman, user: sherman.jason}
+  - {name: Patrick Calhoun, user: calhoun_patrick}
+  - {name: Logan Cox, user: cox_logan}
+  - {name: Jonah Duckles, user: duckles_jonah}
+  - {name: Mark Laufersweiler, user: laufersweiler_mark}
+  - {name: Braden Owsley, user: owsley_braden}
+  - {name: Brent Shambaugh, user: shambaugh_brent}
+  - {name: Mark Stacy, user: stacy_mark}
+  - {name: Blake Stamps, user: stamps_blake}
+  - {name: James Adams, user: adams_james}
+  - {name: Jason Sherman, user: sherman_jason}
+  - {name: Sarah Clayton, user: clayton_sarah}
   latitude: 35.393056
   longitude: -97.600556
   name: Oklahoma City
 - country: us
   instructors:
-  - {name: Camille Avestruz, user: avestruz.camille}
-  - {name: Dirk Eddelbuettel, user: eddelbuettel.dirk}
+  - {name: Camille Avestruz, user: avestruz_camille}
+  - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
   latitude: 41.979444
   longitude: -87.904444
   name: Chicago O'Hare, IL
 - country: fr
   instructors:
-  - {name: Alexandre Gramfort, user: gramfort.a}
-  - {name: Konrad Hinsen, user: hinsen.k}
+  - {name: Alexandre Gramfort, user: gramfort_a}
+  - {name: Konrad Hinsen, user: hinsen_k}
   latitude: 48.725278
   longitude: 2.359444
   name: Paris Orly
 - country: 'no'
   instructors:
-  - {name: Hugues Fontenelle, user: fontenelle.hugues}
-  - {name: Karin Lagesen, user: lagesen.k}
-  - {name: Lex Nederbragt, user: nederbragt.l}
-  - {name: Anne Claire Fouilloux, user: fouilloux.anne-claire}
-  - {name: Marius Bjørnstad, user: bjornstad.marius}
+  - {name: Hugues Fontenelle, user: fontenelle_hugues}
+  - {name: Karin Lagesen, user: lagesen_k}
+  - {name: Lex Nederbragt, user: nederbragt_l}
+  - {name: Anne Claire Fouilloux, user: fouilloux_anne-claire}
+  - {name: Marius Bjørnstad, user: bjornstad_marius}
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
 - country: us
   instructors:
-  - {name: Amy Boyle, user: boyle.amy}
-  - {name: Scott Chamberlain, user: chamberlain.s}
-  - {name: Adelaide Rhodes, user: rhodes.adelaide}
-  - {name: Ben Weinstein, user: weinstein.ben}
+  - {name: Amy Boyle, user: boyle_amy}
+  - {name: Scott Chamberlain, user: chamberlain_s}
+  - {name: Adelaide Rhodes, user: rhodes_adelaide}
+  - {name: Ben Weinstein, user: weinstein_ben}
   latitude: 45.588611
   longitude: -122.5975
   name: Portland, OR
 - country: au
   instructors:
-  - {name: Philipp Bayer, user: bayer.p}
-  - {name: Raffaella Demichelis, user: demichelis.raffaella}
-  - {name: Andrew Rohl, user: rohl.andrew}
+  - {name: Philipp Bayer, user: bayer_p}
+  - {name: Raffaella Demichelis, user: demichelis_raffaella}
+  - {name: Andrew Rohl, user: rohl_andrew}
   latitude: -31.940278
   longitude: 115.966944
   name: Perth
 - country: us
   instructors:
-  - {name: Dana Bauer, user: bauer.dana}
-  - {name: Randy Olson, user: olson.r}
-  - {name: Maneesha Sane, user: sane.maneesha}
+  - {name: Dana Bauer, user: bauer_dana}
+  - {name: Randy Olson, user: olson_r}
+  - {name: Maneesha Sane, user: sane_maneesha}
   latitude: 39.871944
   longitude: -75.241111
   name: Philadelphia, PA
 - country: us
   instructors:
-  - {name: Joshua Adelman, user: adelman.joshua}
+  - {name: Joshua Adelman, user: adelman_joshua}
   latitude: 40.491389
   longitude: -80.232778
   name: Pittsburgh, PA
 - country: us
   instructors:
-  - {name: Jeff Hollister, user: hollister.jeff}
+  - {name: Jeff Hollister, user: hollister_jeff}
   latitude: 41.723889
   longitude: -71.428056
   name: Providence, RI
 - country: us
   instructors:
-  - {name: Darren Boss, user: boss.darren}
-  - {name: Cliburn Chan, user: chan.cliburn}
-  - {name: Karen Cranston, user: cranston.k}
-  - {name: John Pearson, user: pearson.john}
-  - {name: John Pormann, user: pormann.john}
-  - {name: William Rowell, user: rowell.bill}
-  - {name: Alexander Whitlock, user: whitlock.a}
+  - {name: Darren Boss, user: boss_darren}
+  - {name: Cliburn Chan, user: chan_cliburn}
+  - {name: Karen Cranston, user: cranston_k}
+  - {name: John Pearson, user: pearson_john}
+  - {name: John Pormann, user: pormann_john}
+  - {name: William Rowell, user: rowell_bill}
+  - {name: Alexander Whitlock, user: whitlock_a}
   latitude: 35.8775
   longitude: -78.787222
   name: Raleigh Durham, NC
 - country: us
   instructors:
-  - {name: Chris Friedline, user: friedline.chris}
+  - {name: Chris Friedline, user: friedline_chris}
   latitude: 37.505
   longitude: -77.319444
   name: Richmond, VA
 - country: us
   instructors:
-  - {name: Chris Lasher, user: lasher.c}
-  - {name: Andrea Zonca, user: zonca.andrea}
+  - {name: Chris Lasher, user: lasher_c}
+  - {name: Andrea Zonca, user: zonca_andrea}
   latitude: 32.733333
   longitude: -117.189444
   name: San Diego, SC
 - country: us
   instructors:
-  - {name: Jonathan Frederic, user: frederic.jonathan}
+  - {name: Jonathan Frederic, user: frederic_jonathan}
   latitude: 35.236944
   longitude: -120.641944
   name: San Luis Obispo, CA
 - country: us
   instructors:
-  - {name: Bradley Taber-Thomas, user: taber-thomas.bradley}
+  - {name: Bradley Taber-Thomas, user: taber-thomas_bradley}
   latitude: 40.855881
   longitude: -77.843841
   name: State College, PA
 - country: us
   instructors:
-  - {name: Jeremiah Lant, user: lant.jeremiah}
+  - {name: Jeremiah Lant, user: lant_jeremiah}
   latitude: 38.175662
   longitude: -85.736923
   name: Louisville, KY
 - country: us
   instructors:
-  - {name: Russell Alleen Willems, user: alleen-willems.russell}
-  - {name: Rebecca Blakewood, user: blakewood.becca}
-  - {name: Sophie Clayton, user: clayton.sophie}
-  - {name: Aaron Erlich, user: erlich.aaron}
-  - {name: Jordan Fish, user: fish.jordan}
-  - {name: Emilia Gan, user: gan.emilia}
-  - {name: Tommy Guy, user: guy.t}
-  - {name: Cody Hinchliff, user: hinchliff.cody}
-  - {name: W. Trevor King, user: king.wt}
-  - {name: Johnny Lin, user: lin.johnny}
-  - {name: Maria McKinley, user: mckinley.maria}
-  - {name: Adam Richie-Halford, user: richie-halford.adam}
-  - {name: Ariel Rokem, user: rokem.a}
-  - {name: Michael Sarahan, user: sarahan.michael}
-  - {name: Rachael Tatman, user: tatman.rachael}
-  - {name: Jacob Vanderplas, user: vanderplas.jacob}
-  - {name: Jens von der Linden, user: vonderlinden.jens}
-  - {name: Samuel White, user: white.samuel}
-  - {name: Kara Woo, user: woo.kara}
-  - {name: Hsi-Kai Yang, user: yang.hsi-kai}
+  - {name: Russell Alleen Willems, user: alleen-willems_russell}
+  - {name: Rebecca Blakewood, user: blakewood_becca}
+  - {name: Sophie Clayton, user: clayton_sophie}
+  - {name: Aaron Erlich, user: erlich_aaron}
+  - {name: Jordan Fish, user: fish_jordan}
+  - {name: Emilia Gan, user: gan_emilia}
+  - {name: Tommy Guy, user: guy_t}
+  - {name: Cody Hinchliff, user: hinchliff_cody}
+  - {name: W. Trevor King, user: king_wt}
+  - {name: Johnny Lin, user: lin_johnny}
+  - {name: Maria McKinley, user: mckinley_maria}
+  - {name: Adam Richie-Halford, user: richie-halford_adam}
+  - {name: Ariel Rokem, user: rokem_a}
+  - {name: Michael Sarahan, user: sarahan_michael}
+  - {name: Rachael Tatman, user: tatman_rachael}
+  - {name: Jacob Vanderplas, user: vanderplas_jacob}
+  - {name: Jens von der Linden, user: vonderlinden_jens}
+  - {name: Samuel White, user: white_samuel}
+  - {name: Kara Woo, user: woo_kara}
+  - {name: Hsi-Kai Yang, user: yang_hsi-kai}
   latitude: 47.448889
   longitude: -122.309167
   name: Seattle, WA
 - country: us
   instructors:
-  - {name: Lukas Blakk, user: blakk.lukas}
-  - {name: Brandon Curtis, user: curtis.b}
-  - {name: Ted Hart, user: hart.t}
-  - {name: Katy Huff, user: huff.k}
-  - {name: Fatma Imamoglu, user: imamoglu.fatma}
-  - {name: Justin Kitzes, user: kitzes.j}
-  - {name: Chris Lonnen, user: lonnen.chris}
-  - {name: Jessica McKellar, user: mckellar.j}
-  - {name: Ben Morris, user: morris.b}
-  - {name: Karthik Ram, user: ram.k}
-  - {name: Ramesh Sampath, user: sampath.ramesh}
-  - {name: Rachel Slaybaugh, user: slaybaugh.rachel}
-  - {name: Daniel Turek, user: turek.daniel}
-  - {name: Daniela Ushizima, user: ushizima.daniela}
-  - {name: Ramnath Vaidyanathan, user: vaidyanathan.ramnath}
-  - {name: Qingpeng Zhang, user: zhang.qp}
-  - {name: Megan Laurance, user: laurance.megan}
+  - {name: Lukas Blakk, user: blakk_lukas}
+  - {name: Brandon Curtis, user: curtis_b}
+  - {name: Ted Hart, user: hart_t}
+  - {name: Katy Huff, user: huff_k}
+  - {name: Fatma Imamoglu, user: imamoglu_fatma}
+  - {name: Justin Kitzes, user: kitzes_j}
+  - {name: Chris Lonnen, user: lonnen_chris}
+  - {name: Jessica McKellar, user: mckellar_j}
+  - {name: Ben Morris, user: morris_b}
+  - {name: Karthik Ram, user: ram_k}
+  - {name: Ramesh Sampath, user: sampath_ramesh}
+  - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
+  - {name: Daniel Turek, user: turek_daniel}
+  - {name: Daniela Ushizima, user: ushizima_daniela}
+  - {name: Ramnath Vaidyanathan, user: vaidyanathan_ramnath}
+  - {name: Qingpeng Zhang, user: zhang_qp}
+  - {name: Megan Laurance, user: laurance_megan}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
 - country: sg
   instructors:
-  - {name: Dana Miller, user: miller.dana}
+  - {name: Dana Miller, user: miller_dana}
   latitude: 1.355556
   longitude: 103.987222
   name: Singapore
 - country: us
   instructors:
-  - {name: Steve Haddock, user: haddock.s}
-  - {name: Amy Hodge, user: hodge.amy}
+  - {name: Steve Haddock, user: haddock_s}
+  - {name: Amy Hodge, user: hodge_amy}
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
 - country: us
   instructors:
-  - {name: Martin Schilling, user: schilling.martin}
-  - {name: Gus Hart, user: hart.gus}
-  - {name: Andrew Nguyen, user: nguyen.andrew}
-  - {name: Conrad Rosenbrock, user: rosenbrock.conrad}
+  - {name: Martin Schilling, user: schilling_martin}
+  - {name: Gus Hart, user: hart_gus}
+  - {name: Andrew Nguyen, user: nguyen_andrew}
+  - {name: Conrad Rosenbrock, user: rosenbrock_conrad}
   latitude: 40.788333
   longitude: -111.9775
   name: Salt Lake City, UT
 - country: us
   instructors:
-  - {name: Carl Boettiger, user: boettiger.carl}
-  - {name: C. Titus Brown, user: brown.ct}
-  - {name: Michael Levy, user: levy.michael}
-  - {name: Jason Moore, user: moore.jason}
-  - {name: Camille Scott, user: scott.camille}
-  - {name: Tracy Teal, user: teal.t}
-  - {name: Easton White, user: white.easton}
+  - {name: Carl Boettiger, user: boettiger_carl}
+  - {name: C. Titus Brown, user: brown_ct}
+  - {name: Michael Levy, user: levy_michael}
+  - {name: Jason Moore, user: moore_jason}
+  - {name: Camille Scott, user: scott_camille}
+  - {name: Tracy Teal, user: teal_t}
+  - {name: Easton White, user: white_easton}
   latitude: 38.695278
   longitude: -121.590556
   name: Sacramento, CA
 - country: us
   instructors:
-  - {name: Susan Duncan, user: duncan.susan}
+  - {name: Susan Duncan, user: duncan_susan}
   latitude: 33.675556
   longitude: -117.868056
   name: John Wayne (Orange County), CA
 - country: gb
   instructors:
-  - {name: Stephen Crouch, user: crouch.s}
-  - {name: Ian Hawke, user: hawke.ian}
-  - {name: Christian Jacobs, user: jacobs.christian}
-  - {name: Robin Wilson, user: wilson.r}
-  - {name: Olivier Philippe, user: philippe.olivier}
-  - {name: Don Cruickshank, user: cruickshank.don}
+  - {name: Stephen Crouch, user: crouch_s}
+  - {name: Ian Hawke, user: hawke_ian}
+  - {name: Christian Jacobs, user: jacobs_christian}
+  - {name: Robin Wilson, user: wilson_r}
+  - {name: Olivier Philippe, user: philippe_olivier}
+  - {name: Don Cruickshank, user: cruickshank_don}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
 - country: us
   instructors:
-  - {name: Molly Gibson, user: gibson.molly}
-  - {name: Jessica Kerr, user: kerr.j}
-  - {name: Jeramia Ory, user: ory.j}
-  - {name: Neem Serra, user: serra.neem}
+  - {name: Molly Gibson, user: gibson_molly}
+  - {name: Jessica Kerr, user: kerr_j}
+  - {name: Jeramia Ory, user: ory_j}
+  - {name: Neem Serra, user: serra_neem}
   latitude: 38.7475
   longitude: -90.359722
   name: St. Louis, MO
 - country: gb
   instructors:
-  - {name: John Constable, user: constable.john}
-  - {name: Robert Davey, user: davey.rob}
-  - {name: Dureid El-Moghraby, user: el-moghraby.dureid}
-  - {name: Simon Fraser, user: fraser.simon}
-  - {name: Laurent Gatto, user: gatto.laurent}
+  - {name: John Constable, user: constable_john}
+  - {name: Robert Davey, user: davey_rob}
+  - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
+  - {name: Simon Fraser, user: fraser_simon}
+  - {name: Laurent Gatto, user: gatto_laurent}
   latitude: 51.885
   longitude: 0.235
   name: Stansted
 - country: au
   instructors:
-  - {name: Will Cornwell, user: cornwell.will}
-  - {name: Daniel Falster, user: falster.daniel}
-  - {name: Fabian Held, user: held.fabian}
-  - {name: Joshua Madin, user: madin.j}
-  - {name: Ben Marwick, user: marwick.ben}
-  - {name: Dan Warren, user: warren.dan}
+  - {name: Will Cornwell, user: cornwell_will}
+  - {name: Daniel Falster, user: falster_daniel}
+  - {name: Fabian Held, user: held_fabian}
+  - {name: Joshua Madin, user: madin_j}
+  - {name: Ben Marwick, user: marwick_ben}
+  - {name: Dan Warren, user: warren_dan}
   latitude: -33.946111
   longitude: 151.177222
   name: Sydney
 - country: us
   instructors:
-  - {name: Erika Mudrak, user: mudrak.erika}
+  - {name: Erika Mudrak, user: mudrak_erika}
   latitude: 43.111111
   longitude: -76.106111
   name: Syracuse, NY
 - country: il
   instructors:
-  - {name: Aur Saraf, user: saraf.aur}
+  - {name: Aur Saraf, user: saraf_aur}
   latitude: 32.009444
   longitude: 34.876667
   name: Tel Aviv
 - country: it
   instructors:
-  - {name: Stefano Cozzini, user: cozzini.s}
+  - {name: Stefano Cozzini, user: cozzini_s}
   latitude: 45.827778
   longitude: 13.466389
   name: Trieste
 - country: us
   instructors:
-  - {name: Blake Joyce, user: joyce.blake}
-  - {name: Karthik Srinivasan, user: srinivasan.karthik}
-  - {name: Jonathan Strootman, user: strootman.jonathan}
-  - {name: Philipp Von Bieberstein, user: von-bieberstein.philipp}
-  - {name: Naupaka Zimmerman, user: zimmerman.naupaka}
-  - {name: Victor Cordero, user: cordero.victor}
+  - {name: Blake Joyce, user: joyce_blake}
+  - {name: Dale Russell, user: russell_dale}
+  - {name: Karthik Srinivasan, user: srinivasan_karthik}
+  - {name: Jonathan Strootman, user: strootman_jonathan}
+  - {name: Philipp Von Bieberstein, user: von-bieberstein_philipp}
+  - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
+  - {name: Victor Cordero, user: cordero_victor}
   latitude: 32.116111
   longitude: -110.941389
   name: Tucson, AZ
 - country: us
   instructors:
-  - {name: Meg Staton, user: staton.margaret}
+  - {name: Meg Staton, user: staton_margaret}
   latitude: 35.81
   longitude: -84.0
   name: Knoxville, TN
 - country: ca
   instructors:
-  - {name: Cam Macdonell, user: macdonell.cam}
-  - {name: Vicky Varga, user: varga.vicky}
-  - {name: John Simpson, user: simpson.john}
+  - {name: Cam Macdonell, user: macdonell_cam}
+  - {name: Vicky Varga, user: varga_vicky}
+  - {name: John Simpson, user: simpson_john}
   - {name: Todd Suomela, user: suomela}
   - {name: Patrick Lloyd-Smith, user: lloydsmith}
   latitude: 53.309722
@@ -923,921 +927,925 @@ airports:
   name: Edmonton
 - country: ca
   instructors:
-  - {name: Ross Dickson, user: dickson.r}
+  - {name: Ross Dickson, user: dickson_r}
   latitude: 44.880833
   longitude: -63.508611
   name: Halifax
 - country: ca
   instructors:
-  - {name: Catherine McGoveran, user: mcgoveran.catherine}
-  - {name: Kim Moir, user: moir.kim}
-  - {name: Sarah Simpkin, user: simpkin.sarah}
+  - {name: Catherine McGoveran, user: mcgoveran_catherine}
+  - {name: Kim Moir, user: moir_kim}
+  - {name: Sarah Simpkin, user: simpkin_sarah}
   latitude: 45.3225
   longitude: -75.669167
   name: Ottawa
 - country: ca
   instructors:
-  - {name: Olivier Lafleur, user: lafleur.olivier}
-  - {name: Laurent Duchesne, user: duchesne.laurent}
-  - {name: Maxime Boissonneault, user: boissonneault.maxime}
+  - {name: Remi Daigle, user: daigle_remi}
+  - {name: Olivier Lafleur, user: lafleur_olivier}
+  - {name: Laurent Duchesne, user: duchesne_laurent}
+  - {name: Maxime Boissonneault, user: boissonneault_maxime}
   latitude: 46.788333
   longitude: -71.3975
   name: Quebec City
 - country: ca
   instructors:
-  - {name: Marianne Corvellec, user: corvellec.marianne}
-  - {name: Gabriel A. Devenyi, user: devenyi.gabriel}
-  - {name: Mahtab Ghamsari-Esfahani, user: ghamsari-esfahani.mahtab}
-  - {name: John Gosset, user: gosset.john}
-  - {name: Denis Haine, user: haine.denis}
-  - {name: Igor Kozlov, user: kozlov.igor}
-  - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe.isabelle}
-  - {name: Timothee Poisot, user: poisot.t}
-  - {name: Francoise Provencher, user: provencher.francoise}
-  - {name: Pier-Luc St-Onge, user: st-onge.pier-luc}
+  - {name: Marianne Corvellec, user: corvellec_marianne}
+  - {name: Gabriel A. Devenyi, user: devenyi_gabriel}
+  - {name: Mahtab Ghamsari-Esfahani, user: ghamsari-esfahani_mahtab}
+  - {name: John Gosset, user: gosset_john}
+  - {name: Denis Haine, user: haine_denis}
+  - {name: Igor Kozlov, user: kozlov_igor}
+  - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe_isabelle}
+  - {name: Timothee Poisot, user: poisot_t}
+  - {name: Francoise Provencher, user: provencher_francoise}
+  - {name: Pier-Luc St-Onge, user: st-onge_pier-luc}
   - {name: Jean-François St-Pierre, user: Jean-François St-Pierre}
   latitude: 45.468056
   longitude: -73.741389
   name: Montreal
 - country: ca
   instructors:
-  - {name: Dhavide Aruliah, user: aruliah.d}
-  - {name: Jennifer Bryan, user: bryan.j}
-  - {name: Kathy Chung, user: chung.kathy}
-  - {name: Julia Gustavsen, user: gustavsen.j}
-  - {name: Daisie Huang, user: huang.daisie}
-  - {name: Ted Kirkpatrick, user: kirkpatrick.ted}
-  - {name: Bernhard Konrad, user: konrad.b}
-  - {name: Doug Latornell, user: latornell.d}
-  - {name: Bill Mills, user: mills.b}
-  - {name: Ian Mitchell, user: mitchell.i}
-  - {name: Karina Ramos Musalem, user: ramos-musalem.ana-karina}
-  - {name: Nancy Soontiens, user: soontiens.nancy}
-  - {name: Tiffany Timbers, user: timbers.tiffany}
-  - {name: Lynne Williams, user: williams.l}
-  - {name: Alex Razoumov, user: razoumov.alex}
+  - {name: Dhavide Aruliah, user: aruliah_d}
+  - {name: Jennifer Bryan, user: bryan_j}
+  - {name: Kathy Chung, user: chung_kathy}
+  - {name: Julia Gustavsen, user: gustavsen_j}
+  - {name: Daisie Huang, user: huang_daisie}
+  - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
+  - {name: Bernhard Konrad, user: konrad_b}
+  - {name: Doug Latornell, user: latornell_d}
+  - {name: Bill Mills, user: mills_b}
+  - {name: Ian Mitchell, user: mitchell_i}
+  - {name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
+  - {name: Nancy Soontiens, user: soontiens_nancy}
+  - {name: Tiffany Timbers, user: timbers_tiffany}
+  - {name: Lynne Williams, user: williams_l}
+  - {name: Alex Razoumov, user: razoumov_alex}
   latitude: 49.195
   longitude: -123.181944
   name: Vancouver
 - country: ca
   instructors:
-  - {name: Pauline Barmby, user: barmby.pauline}
-  - {name: Tyson Whitehead, user: whitehead.tyson}
+  - {name: Pauline Barmby, user: barmby_pauline}
+  - {name: Tyson Whitehead, user: whitehead_tyson}
   latitude: 43.035556
   longitude: -81.153889
   name: London, Ontario
 - country: ca
   instructors:
-  - {name: Jorge Aranda, user: aranda.j}
-  - {name: James Robinson, user: robinson.james}
-  - {name: Andy Teucher, user: teucher.andrew}
+  - {name: Jorge Aranda, user: aranda_j}
+  - {name: James Robinson, user: robinson_james}
+  - {name: Andy Teucher, user: teucher_andrew}
   latitude: 48.646944
   longitude: -123.425833
   name: Victoria
 - country: ca
   instructors:
-  - {name: Amy Brown, user: brown.amy}
-  - {name: Arliss Collins, user: collins.arliss}
-  - {name: Remi Daigle, user: daigle.remi}
-  - {name: Martin Durant, user: durant.martin}
-  - {name: Jonathan Dursi, user: dursi.j}
-  - {name: Xu Fei, user: fei.xu}
-  - {name: Heather Gibling, user: gibling.heather}
-  - {name: Jeremy Gray, user: gray.jeremy}
-  - {name: Thomas Guignard, user: guignard.thomas}
-  - {name: Luke Johnston, user: johnston.luke}
-  - {name: Brenna O'Brien, user: obrien.brenna}
-  - {name: Pawel Pomorski, user: pomorski.pawel}
-  - {name: Morgan Taschuk, user: taschuk.morgan}
-  - {name: Greg Wilson, user: wilson.g}
-  - {name: Tom Wright, user: wright.thomas}
+  - {name: Amy Brown, user: brown_amy}
+  - {name: Arliss Collins, user: collins_arliss}
+  - {name: Martin Durant, user: durant_martin}
+  - {name: Jonathan Dursi, user: dursi_j}
+  - {name: Xu Fei, user: fei_xu}
+  - {name: Heather Gibling, user: gibling_heather}
+  - {name: Jeremy Gray, user: gray_jeremy}
+  - {name: Thomas Guignard, user: guignard_thomas}
+  - {name: Luke Johnston, user: johnston_luke}
+  - {name: Brenna O'Brien, user: obrien_brenna}
+  - {name: Pawel Pomorski, user: pomorski_pawel}
+  - {name: Morgan Taschuk, user: taschuk_morgan}
+  - {name: Greg Wilson, user: wilson_g}
+  - {name: Tom Wright, user: wright_thomas}
   - {name: Brendan Smithyman, user: smithyman}
-  - {name: Sarah Meister, user: meister.sarah}
-  - {name: Ricardo Harripaul, user: harripaul.ricardo}
-  - {name: Jasmine Ren, user: jasmine.ren}
+  - {name: Sarah Meister, user: meister_sarah}
+  - {name: Ricardo Harripaul, user: harripaul_ricardo}
+  - {name: Jasmine Ren, user: jasmine_ren}
   latitude: 43.677222
   longitude: -79.630556
   name: Toronto
 - country: cn
   instructors:
-  - {name: Yuxi Luo, user: luo.yuxi}
+  - {name: Yuxi Luo, user: luo_yuxi}
   latitude: 36.516667
   longitude: 103.621667
   name: Zhongchuan
 - country: ca
   instructors:
-  - {name: James Hiebert, user: hiebert.james}
+  - {name: James Hiebert, user: hiebert_james}
   latitude: 54.027972
   longitude: -132.126291
   name: Masset, BC
 - country: us
   instructors:
-  - {name: Reed Cartwright, user: cartwright.reed}
-  - {name: David Dotson, user: dotson.david}
-  - {name: Rachel Schwartz, user: schwartz.rachel}
-  - {name: Arron Shiffer, user: shiffer.arron}
-  - {name: John Chase, user: chase.john}
+  - {name: Reed Cartwright, user: cartwright_reed}
+  - {name: David Dotson, user: dotson_david}
+  - {name: Rachel Schwartz, user: schwartz_rachel}
+  - {name: Arron Shiffer, user: shiffer_arron}
+  - {name: John Chase, user: chase_john}
   latitude: 33.434167
   longitude: -112.008056
   name: Phoenix, AZ
 - country: nz
   instructors:
-  - {name: Mik Black, user: black.mik}
-  - {name: James Boocock, user: boocock.james}
-  - {name: Tom Kelly, user: kelly.tom}
+  - {name: Mik Black, user: black_mik}
+  - {name: James Boocock, user: boocock_james}
+  - {name: Tom Kelly, user: kelly_tom}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
 - country: au
   instructors:
-  - {name: Jack Simpson, user: simpson.jack}
-  - {name: Luc Small, user: small.luc}
+  - {name: Jack Simpson, user: simpson_jack}
+  - {name: Luc Small, user: small_luc}
   latitude: -35.308333
   longitude: 149.193889
   name: Canberra
 - country: br
   instructors:
-  - {name: Filipe Fernandes, user: fernandes.filipe}
+  - {name: Filipe Fernandes, user: fernandes_filipe}
   latitude: -12.910833
   longitude: -38.330833
   name: Salvador de Bahia
 - country: us
   instructors:
-  - {name: Emelie Harstad, user: harstad.emelie}
-  - {name: Joshua Herr, user: herr.joshua}
+  - {name: Emelie Harstad, user: harstad_emelie}
+  - {name: Joshua Herr, user: herr_joshua}
   latitude: 40.850833
   longitude: -96.759167
   name: Lincoln, NE
 - country: us
   instructors:
-  - {name: Mahdi Belcaid, user: belcaid.mahdi}
-  - {name: Sean Cleveland, user: cleveland.sean}
+  - {name: Mahdi Belcaid, user: belcaid_mahdi}
+  - {name: Sean Cleveland, user: cleveland_sean}
   latitude: 21.315833
   longitude: -157.926667
   name: Honolulu, HI
 - country: us
   instructors:
-  - {name: Prateek Mehta, user: mehta.prateek}
+  - {name: Prateek Mehta, user: mehta_prateek}
   latitude: 40.97833
   longitude: -85.195
   name: Fort Wayne International Airport
 - country: us
   instructors:
-  - {name: Jon Holtzman, user: holtzman.jon}
+  - {name: Jon Holtzman, user: holtzman_jon}
   latitude: 31.807222
   longitude: -106.3775
   name: El Paso International Airport
 - country: us
   instructors:
-  - {name: Pat Schloss, user: schloss.pat}
+  - {name: Pat Schloss, user: schloss_pat}
   latitude: 42.2229996
   longitude: -83.7455978
   name: Ann Arbor, MI
 - country: us
   instructors:
-  - {name: Sue McClatchy, user: mcclatchy.susan}
-  - {name: Narayanan Raghupathy, user: raghupathy.narayanan}
+  - {name: Sue McClatchy, user: mcclatchy_susan}
+  - {name: Narayanan Raghupathy, user: raghupathy_narayanan}
   latitude: 44.8073997
   longitude: -68.8281021
   name: Bangor, ME
 - country: us
   instructors:
-  - {name: Robert Flight, user: flight.r}
+  - {name: Robert Flight, user: flight_r}
   latitude: 39.0488014
   longitude: -84.6678009
   name: Cincinnati, KY
 - country: us
   instructors:
-  - {name: Catherine Devlin, user: devlin.catherine}
+  - {name: Catherine Devlin, user: devlin_catherine}
   latitude: 39.902401
   longitude: -84.2193985
   name: James M. Cox Dayton, OH
 - country: us
   instructors:
-  - {name: Matthew Collins, user: collins.matthew}
-  - {name: François Michonneau, user: michonneau.francois}
-  - {name: Ethan White, user: white.e}
+  - {name: Matthew Collins, user: collins_matthew}
+  - {name: François Michonneau, user: michonneau_francois}
+  - {name: Ethan White, user: white_e}
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
 - country: br
   instructors:
-  - {name: Raniere Silva, user: silva.raniere}
+  - {name: Raniere Silva, user: silva_raniere}
   latitude: -23.435556
   longitude: -46.473056
   name: Sao Paulo Guarulhos
 - country: us
   instructors:
-  - {name: Ashwin Trikuta Srinath, user: srinath.ashwin}
-  - {name: Patricia Carbajales-Dale, user: carbajales.patricia}
+  - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {name: Patricia Carbajales-Dale, user: carbajales_patricia}
   latitude: 34.8956985
   longitude: -82.2189026
   name: Greenville Spartanburg, SC
 - country: us
   instructors:
-  - {name: Daniel Chen, user: chen.daniel}
+  - {name: Daniel Chen, user: chen_daniel}
   latitude: 37.3255005
   longitude: -79.9754028
   name: Roanoke Blacksburg, VA
 - country: us
   instructors:
-  - {name: Auriel Fournier, user: fournier.auriel}
+  - {name: Auriel Fournier, user: fournier_auriel}
   latitude: 36.2818985
   longitude: -94.3068008
   name: Fayetteville Springdale, AR
 - country: ca
   instructors:
-  - {name: Ruth Collings, user: collings.ruth}
+  - {name: Ruth Collings, user: collings_ruth}
   latitude: 46.1122017
   longitude: -64.6785965
   name: Moncton
 - country: ca
   instructors:
-  - {name: Catalina Anghel, user: anghel.catalina}
-  - {name: Abigail Cabunoc Mayes, user: cabunoc.abigail}
+  - {name: Catalina Anghel, user: anghel_catalina}
+  - {name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
   latitude: 43.6274986
   longitude: -79.3962021
   name: Billy Bishop Toronto
 - country: ca
   instructors:
-  - {name: Hossein Pourreza, user: pourreza.hossein}
+  - {name: Hossein Pourreza, user: pourreza_hossein}
   latitude: 49.9099998
   longitude: -97.2398987
   name: Winnipeg, MB
 - country: ve
   instructors:
-  - {name: Francisco Palm, user: palm.francisco}
+  - {name: Francisco Palm, user: palm_francisco}
   latitude: 8.585952
   longitude: -71.161213
   name: A Carnevalli Airport
 - country: ca
   instructors:
-  - {name: Hartmut Schmider, user: schmider.hartmut}
-  - {name: Gang Liu, user: liu.gang}
+  - {name: Hartmut Schmider, user: schmider_hartmut}
+  - {name: Gang Liu, user: liu_gang}
   latitude: 44.226524
   longitude: -76.595936
   name: Kingston Airport
 - country: ca
   instructors:
-  - {name: James Desjardins, user: desjardins.james}
+  - {name: James Desjardins, user: desjardins_james}
   latitude: 43.165464
   longitude: -79.935375
   name: Hamilton International Airport
 - country: ro
   instructors:
-  - {name: Michael Crusoe, user: crusoe.michael}
+  - {name: Michael Crusoe, user: crusoe_michael}
   latitude: 46.783742
   longitude: 23.691562
   name: Cluj International Airport
 - country: us
   instructors:
-  - {name: Anthony Scopatz, user: scopatz.a}
+  - {name: Anthony Scopatz, user: scopatz_a}
   latitude: 35.213754
   longitude: -80.948194
   name: Charlotte Douglas International Airport
 - country: nl
   instructors:
-  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz.carlos}
+  - {name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   latitude: 52.309686
   longitude: 4.767438
   name: 'Amsterdam Airport Schiphol '
 - country: 'no'
   instructors:
-  - {name: Radovan Bast, user: bast.radovan}
+  - {name: Radovan Bast, user: bast_radovan}
   latitude: 69.681079
   longitude: 18.916328
   name: Tromsø Airport
 - country: za
   instructors:
-  - {name: Albertus Seyffert, user: seyffert.albertus}
+  - {name: Albertus Seyffert, user: seyffert_albertus}
   latitude: -26.138773
   longitude: 28.241339
   name: O. R. Tambo International Airport
 - country: ch
   instructors:
-  - {name: Stefan Pfenninger, user: pfenninger.s}
+  - {name: Stefan Pfenninger, user: pfenninger_s}
   latitude: 47.457767
   longitude: 8.560132
   name: Zurich Airport
 - country: se
   instructors:
-  - {name: Olav Vahtras, user: vahtras.olav}
+  - {name: Olav Vahtras, user: vahtras_olav}
   latitude: 58.406971
   longitude: 15.667521
   name: Linköping City Airport
 - country: fi
   instructors:
-  - {name: Joona Lehtomäki, user: lehtomaki.joona}
+  - {name: Joona Lehtomäki, user: lehtomaki_joona}
   latitude: 60.320659
   longitude: 24.943162
   name: Helsinki Airport
 badges:
 - name: creator
   persons:
-  - {name: John Blischak, user: blischak.j}
-  - {name: Jennifer Bryan, user: bryan.j}
-  - {name: Stephen Crouch, user: crouch.s}
-  - {name: Matt Davis, user: davis.m}
-  - {name: Tommy Guy, user: guy.t}
-  - {name: Michael Hansen, user: hansen.m}
-  - {name: Katy Huff, user: huff.k}
-  - {name: Mike Jackson, user: jackson.m}
-  - {name: Jason Montojo, user: montojo.j}
-  - {name: Jon Pipitone, user: pipitone.j}
-  - {name: Anthony Scopatz, user: scopatz.a}
-  - {name: Will Trimble, user: trimble.will}
-  - {name: Ethan White, user: white.e}
-  - {name: Greg Wilson, user: wilson.g}
+  - {name: John Blischak, user: blischak_j}
+  - {name: Jennifer Bryan, user: bryan_j}
+  - {name: Stephen Crouch, user: crouch_s}
+  - {name: Matt Davis, user: davis_m}
+  - {name: Tommy Guy, user: guy_t}
+  - {name: Michael Hansen, user: hansen_m}
+  - {name: Katy Huff, user: huff_k}
+  - {name: Mike Jackson, user: jackson_m}
+  - {name: Jason Montojo, user: montojo_j}
+  - {name: Jon Pipitone, user: pipitone_j}
+  - {name: Anthony Scopatz, user: scopatz_a}
+  - {name: Will Trimble, user: trimble_will}
+  - {name: Ethan White, user: white_e}
+  - {name: Greg Wilson, user: wilson_g}
 - name: swc-instructor
   persons:
-  - {name: Joshua Adelman, user: adelman.joshua}
-  - {name: Aron Ahmadia, user: ahmadia.a}
-  - {name: Matthew Aiello-Lammens, user: aiello-lammens.matthew}
-  - {name: Joshua Ainsley, user: ainsley.joshua}
-  - {name: Harriet Alexander, user: alexander.harriet}
-  - {name: Russell Alleen Willems, user: alleen-willems.russell}
-  - {name: James Allen, user: allen.james}
-  - {name: Pete Alonzi, user: alonzi.pete}
-  - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain.areej}
-  - {name: Carlos Anderson, user: anderson.c}
-  - {name: Catalina Anghel, user: anghel.catalina}
-  - {name: Mario Antonioletti, user: antonioletti.mario}
-  - {name: Dhavide Aruliah, user: aruliah.d}
-  - {name: Camille Avestruz, user: avestruz.camille}
-  - {name: Sung Eun Bae, user: bae.sung}
-  - {name: Christie Bahlai, user: bahlai.christie}
-  - {name: Piotr Banaszkiewicz, user: banaszkiewicz.piotr}
-  - {name: Pauline Barmby, user: barmby.pauline}
-  - {name: Diego Barneche Rosado, user: barneche.diego}
-  - {name: Ewan Barr, user: barr.ewan}
-  - {name: Kathryn Barrett, user: barrett.kathryn}
-  - {name: Radovan Bast, user: bast.radovan}
-  - {name: Dana Bauer, user: bauer.dana}
-  - {name: Philipp Bayer, user: bayer.p}
-  - {name: Rob Beagrie, user: beagrie.robert}
-  - {name: Trevor Bekolay, user: bekolay.trevor}
-  - {name: Nichole Bennett, user: bennett.n}
-  - {name: Miguel Bernabeu, user: bernabeu.miguel}
-  - {name: Mik Black, user: black.mik}
-  - {name: Lukas Blakk, user: blakk.lukas}
-  - {name: John Blischak, user: blischak.j}
-  - {name: Carl Boettiger, user: boettiger.carl}
-  - {name: Jessica Bonnie, user: bonnie.jessica}
-  - {name: James Boocock, user: boocock.james}
-  - {name: Darren Boss, user: boss.darren}
-  - {name: Azalee Bostroem, user: bostroem.a}
-  - {name: Erik Bray, user: bray.e}
-  - {name: C. Titus Brown, user: brown.ct}
-  - {name: Jennifer Bryan, user: bryan.j}
-  - {name: Scott Burns, user: burns.scott}
-  - {name: Abigail Cabunoc Mayes, user: cabunoc.abigail}
-  - {name: Jared Camins-Esakov, user: camins-esakov.jared}
-  - {name: Rosangela Canino-Koning, user: canino-koning.r}
-  - {name: Chris Cannam, user: cannam.c}
-  - {name: Greg Caporaso, user: caporaso.greg}
-  - {name: Timothy Cerino, user: cerino.t}
-  - {name: Scott Chamberlain, user: chamberlain.s}
-  - {name: Cliburn Chan, user: chan.cliburn}
-  - {name: Amanda Charbonneau, user: charbonneau.amanda}
-  - {name: Daniel Chen, user: chen.daniel}
-  - {name: Chelsea Chisholm, user: chisholm.chelsea}
-  - {name: Shreyas Cholia, user: cholia.s}
-  - {name: Adina Howe, user: chuang-howe.a}
-  - {name: Neil Chue Hong, user: chue-hong.n}
-  - {name: Sophie Clayton, user: clayton.sophie}
-  - {name: Luis Pedro Coelho, user: coelho.luis}
-  - {name: Ruth Collings, user: collings.ruth}
-  - {name: John Corless, user: corless.john}
-  - {name: Marianne Corvellec, user: corvellec.marianne}
-  - {name: Thomas Coudrat, user: coudrat.thomas}
-  - {name: Logan Cox, user: cox.logan}
-  - {name: Stefano Cozzini, user: cozzini.s}
-  - {name: Karen Cranston, user: cranston.k}
-  - {name: Nicholas Crouch, user: crouch.nicholas}
-  - {name: Stephen Crouch, user: crouch.s}
-  - {name: Michael Crusoe, user: crusoe.michael}
-  - {name: Maciej Czuchry, user: czuchry.maciej}
-  - {name: Harriet Dashnow, user: dashnow.harriet}
-  - {name: Emily Davenport, user: davenport.e}
-  - {name: Robert Davey, user: davey.rob}
-  - {name: Matt Davis, user: davis.m}
-  - {name: Neal Davis, user: davis.neal}
-  - {name: Raffaella Demichelis, user: demichelis.raffaella}
-  - {name: Balamurugan Desinghu, user: desinghu.balamurugan}
-  - {name: Gabriel A. Devenyi, user: devenyi.gabriel}
-  - {name: Ross Dickson, user: dickson.r}
-  - {name: Matthew Dimmock, user: dimmock.matt}
-  - {name: Kim Doyle, user: doyle.kimberly}
-  - {name: Jonah Duckles, user: duckles.jonah}
-  - {name: Martin Durant, user: durant.martin}
-  - {name: Jonathan Dursi, user: dursi.j}
-  - {name: Dureid El-Moghraby, user: el-moghraby.dureid}
-  - {name: Justin Ely, user: ely.j}
-  - {name: Rémi Emonet, user: emonet.remi}
-  - {name: Richard Enbody, user: enbody.r}
-  - {name: Aaron Erlich, user: erlich.aaron}
-  - {name: Daniel Falster, user: falster.daniel}
-  - {name: Emmanouil Farsarakis, user: farsarakis.emmanouil}
-  - {name: Xu Fei, user: fei.xu}
-  - {name: Angus Ferguson, user: ferguson.angus}
-  - {name: Luis Figueira, user: figueira.l}
-  - {name: Jordan Fish, user: fish.jordan}
-  - {name: Rich FitzJohn, user: fitzjohn.rich}
-  - {name: Robert Flight, user: flight.r}
-  - {name: John Fonner, user: fonner.john}
-  - {name: Philip Fowler, user: fowler.philip}
-  - {name: Jonathan Frederic, user: frederic.jonathan}
-  - {name: Bob Freeman, user: freeman.robert}
-  - {name: Chris Friedline, user: friedline.chris}
-  - {name: Zhuo Fu, user: fu.zhuo}
-  - {name: Emilia Gan, user: gan.emilia}
-  - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez.leonor}
-  - {name: Julian Garcia, user: garcia.julian}
-  - {name: Aaron Garoutte, user: garoutte.aaron}
-  - {name: Chris Gates, user: gates.chris}
-  - {name: Laurent Gatto, user: gatto.laurent}
-  - {name: Noushin Ghaffari, user: ghaffari.noushin}
-  - {name: Molly Gibson, user: gibson.molly}
-  - {name: Ivan Gonzalez, user: gonzalez.ivan}
-  - {name: Gerard Gorman, user: gorman.gerard}
-  - {name: John Gosset, user: gosset.john}
-  - {name: Alistair Grant, user: grant.alistair}
-  - {name: Philippa Griffin, user: griffin.pip}
-  - {name: Jonathan Gross, user: gross.jonathan}
-  - {name: Thomas Guignard, user: guignard.thomas}
-  - {name: Jiarong Guo, user: guo.jiarong}
-  - {name: Prashant Gupta, user: gupta.prashant}
-  - {name: Julia Gustavsen, user: gustavsen.j}
-  - {name: Tommy Guy, user: guy.t}
-  - {name: Jonathan Guyer, user: guyer.jonathan}
-  - {name: Steve Haddock, user: haddock.s}
-  - {name: Denis Haine, user: haine.denis}
-  - {name: Sam Hames, user: hames.sam}
-  - {name: Christopher Hamm, user: hamm.christopher}
-  - {name: Jessica Hamrick, user: hamrick.jessica}
-  - {name: Nic Hannah, user: hannah.nicholas}
-  - {name: Michael Hansen, user: hansen.m}
-  - {name: Rayna Harris, user: harris.rayna}
-  - {name: Anthony Harrison, user: harrison.anthony}
-  - {name: Emelie Harstad, user: harstad.emelie}
-  - {name: Ted Hart, user: hart.t}
-  - {name: Ian Hawke, user: hawke.ian}
-  - {name: Fabian Held, user: held.fabian}
-  - {name: Ian Henry, user: henry.ian}
-  - {name: Joshua Herr, user: herr.joshua}
-  - {name: Kate Hertweck, user: hertweck.kate}
-  - {name: James Hetherington, user: hetherington.james}
-  - {name: James Hiebert, user: hiebert.james}
-  - {name: Cody Hinchliff, user: hinchliff.cody}
-  - {name: Konrad Hinsen, user: hinsen.k}
-  - {name: Daniel Hocking, user: hocking.daniel}
-  - {name: Amy Hodge, user: hodge.amy}
-  - {name: Chris Holdgraf, user: holdgraf.c}
-  - {name: Jeff Hollister, user: hollister.jeff}
-  - {name: Richard Hosking, user: hosking.richard}
-  - {name: Daisie Huang, user: huang.daisie}
-  - {name: Katy Huff, user: huff.k}
-  - {name: Fatma Imamoglu, user: imamoglu.fatma}
-  - {name: Devasena Inupakutika, user: inupakutika.devasena}
-  - {name: Luiz Irber, user: irber.luiz}
-  - {name: Damien Irving, user: irving.d}
-  - {name: Paul Ivanov, user: ivanov.p}
-  - {name: Mike Jackson, user: jackson.m}
-  - {name: Christian Jacobs, user: jacobs.christian}
-  - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek.zbigniew}
-  - {name: Ben Johnson, user: johnson.ben}
-  - {name: David Jones, user: jones.d}
-  - {name: David Jones, user: jones.dm}
-  - {name: Martin Jones, user: jones.martin}
-  - {name: Nick Jones, user: jones.nick}
-  - {name: Tom Kelly, user: kelly.tom}
-  - {name: Jessica Kerr, user: kerr.j}
-  - {name: Jan Kim, user: kim.jan}
-  - {name: W. Trevor King, user: king.wt}
-  - {name: Isabell Kiral-Kornek, user: kiral-kornek.isabell}
-  - {name: Ted Kirkpatrick, user: kirkpatrick.ted}
-  - {name: Justin Kitzes, user: kitzes.j}
-  - {name: Christina Koch, user: koch.christina}
-  - {name: Steven Koenig, user: koenig.steven}
-  - {name: Alex Koeppel, user: koeppel.alexander}
-  - {name: Scott Kolbe, user: kolbe.scott}
-  - {name: Bernhard Konrad, user: konrad.b}
-  - {name: Igor Kozlov, user: kozlov.igor}
-  - {name: Paulina Lach, user: lach.paulina}
-  - {name: Olivier Lafleur, user: lafleur.olivier}
-  - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe.isabelle}
-  - {name: Karin Lagesen, user: lagesen.k}
-  - {name: Sherry Lake, user: lake.sherry}
-  - {name: Ian Langmore, user: langmore.i}
-  - {name: Jeremiah Lant, user: lant.jeremiah}
-  - {name: Chris Lasher, user: lasher.c}
-  - {name: Doug Latornell, user: latornell.d}
-  - {name: David LeBauer, user: lebauer.david}
-  - {name: Kate Lee, user: lee.kate}
-  - {name: Luke Lee, user: lee.luke}
-  - {name: Jacob Levernier, user: levernier.jacob}
-  - {name: JC Leyder, user: leyder.jean-christophe}
-  - {name: Matthew Lightman, user: lightman.matthew}
-  - {name: Johnny Lin, user: lin.johnny}
-  - {name: Andrew Lonsdale, user: lonsdale.andrew}
-  - {name: Elijah Lowe, user: lowe.elijah}
-  - {name: Yuxi Luo, user: luo.yuxi}
-  - {name: Cam Macdonell, user: macdonell.cam}
-  - {name: Gary Macindoe, user: macindoe.gary}
-  - {name: Dan MacLean, user: maclean.dan}
-  - {name: Joshua Madin, user: madin.j}
-  - {name: Tamer Mansour, user: mansour.tamer}
-  - {name: Paula Andrea Andrea Martinez, user: martinez.paula}
-  - {name: Sina Masoud-Ansari, user: masoud-ansari.sina}
-  - {name: Daniel McDonald, user: mcdonald.daniel}
-  - {name: Steve McGough, user: mcgough.s}
-  - {name: Catherine McGoveran, user: mcgoveran.catherine}
-  - {name: Sheldon McKay, user: mckay.sheldon}
-  - {name: Jessica McKellar, user: mckellar.j}
-  - {name: Maria McKinley, user: mckinley.maria}
-  - {name: Cameron McLean, user: mclean.cameron}
-  - {name: Emily Jane McTavish, user: mctavish.ej}
-  - {name: Jeremy Metz, user: metz.jeremy}
-  - {name: Lauren Michael, user: michael.lauren}
-  - {name: Simon Michnowicz, user: michnowicz.s}
-  - {name: François Michonneau, user: michonneau.francois}
-  - {name: Brian Miles, user: miles.brian}
-  - {name: Bill Mills, user: mills.b}
-  - {name: Amanda Miotto, user: miotto.amanda}
-  - {name: Meeta Mistry, user: mistry.meeta}
-  - {name: Ian Mitchell, user: mitchell.i}
-  - {name: Jason Moore, user: moore.jason}
-  - {name: Ben Morris, user: morris.b}
-  - {name: Erika Mudrak, user: mudrak.erika}
-  - {name: Ian Munoz, user: munoz.ian}
-  - {name: R. David Murray, user: murray.david}
-  - {name: Hani Nakhoul, user: nakhoul.hani}
-  - {name: Lex Nederbragt, user: nederbragt.l}
-  - {name: Aleksandra Nenadic, user: nenadic.aleksandra}
-  - {name: Jens Hedegaard Nielsen, user: nielsen.jens}
-  - {name: Klemens Noga, user: noga.klemens}
-  - {name: Brenna O'Brien, user: obrien.brenna}
-  - {name: Alan O'Cais, user: ocais.alan}
-  - {name: Aaron O'Leary, user: oleary.aaron}
-  - {name: Randy Olson, user: olson.r}
-  - {name: Jeramia Ory, user: ory.j}
-  - {name: Geoff Oxberry, user: oxberry.g}
-  - {name: Kirill Palamartchouk, user: palamartchouk.kirill}
-  - {name: Martin Paulo, user: paulo.martin}
-  - {name: Aleksandra Pawlik, user: pawlik.a}
-  - {name: John Pearson, user: pearson.john}
-  - {name: Jason Pell, user: pell.j}
-  - {name: David Perez-Suarez, user: perez-suarez.david}
-  - {name: Fernando Perez, user: perez.f}
-  - {name: Mariela Perignon, user: perignon.mariela}
-  - {name: Stefan Pfenninger, user: pfenninger.s}
-  - {name: Timothee Poisot, user: poisot.t}
-  - {name: Tom Pollard, user: pollard.tom}
-  - {name: Likit Preeyanon, user: preeyanon.likit}
-  - {name: Leighton Pritchard, user: pritchard.leighton}
-  - {name: Francoise Provencher, user: provencher.francoise}
-  - {name: Sean Pue, user: pue.s}
-  - {name: Karthik Ram, user: ram.k}
-  - {name: Saravanan Ramalingam, user: ramalingam.saravanan}
-  - {name: Karina Ramos Musalem, user: ramos-musalem.ana-karina}
-  - {name: Tom Remenyi, user: remenyi.tom}
-  - {name: Adelaide Rhodes, user: rhodes.adelaide}
-  - {name: Timothy Rice, user: rice.timothy}
-  - {name: Janet Riley, user: riley.janet}
-  - {name: David Rio, user: rio.david}
-  - {name: Scott Ritchie, user: ritchie.scott}
-  - {name: James Robinson, user: robinson.james}
-  - {name: Natalie Robinson, user: robinson.natalie}
-  - {name: Rosario Robinson, user: robinson.rosario}
-  - {name: Andrew Rohl, user: rohl.andrew}
-  - {name: Ariel Rokem, user: rokem.a}
-  - {name: Noam Ross, user: ross.noam}
-  - {name: William Rowell, user: rowell.bill}
-  - {name: John Rugis, user: rugis.john}
-  - {name: Dale Russell, user: russell.dale}
-  - {name: Ramesh Sampath, user: sampath.ramesh}
-  - {name: Maneesha Sane, user: sane.maneesha}
-  - {name: Martin Schilling, user: schilling.martin}
-  - {name: Jorden Schossau, user: schossau.j}
-  - {name: Rachel Schwartz, user: schwartz.rachel}
-  - {name: Anthony Scopatz, user: scopatz.a}
-  - {name: Michael Selik, user: selik.m}
-  - {name: Neem Serra, user: serra.neem}
-  - {name: Brent Shambaugh, user: shambaugh.brent}
-  - {name: Genevieve Shattow, user: shattow.genevieve}
-  - {name: Jeffrey Shelton, user: shelton.j}
-  - {name: Jennifer Shelton, user: shelton.jennifer}
-  - {name: Leigh Sheneman, user: sheneman.leigh}
-  - {name: Yu-Ching Shih, user: shih.yu-ching}
-  - {name: Raniere Silva, user: silva.raniere}
-  - {name: Sarah Simpkin, user: simpkin.sarah}
-  - {name: Jack Simpson, user: simpson.jack}
-  - {name: Rachel Slaybaugh, user: slaybaugh.rachel}
-  - {name: Clare Sloggett, user: sloggett.clare}
-  - {name: Luc Small, user: small.luc}
-  - {name: Daniel Smith, user: smith.daniel}
-  - {name: Joshua Smith, user: smith.j}
-  - {name: Mike Smorul, user: smorul.mike}
-  - {name: Nancy Soontiens, user: soontiens.nancy}
-  - {name: Ashwin Trikuta Srinath, user: srinath.ashwin}
-  - {name: Daniel Standage, user: standage.daniel}
-  - {name: Mitchell Stanton-Cook, user: stanton-cook.mitchell}
-  - {name: Meg Staton, user: staton.margaret}
-  - {name: Peter Steinbach, user: steinbach.peter}
-  - {name: Mark Stillwell, user: stillwell.mark}
-  - {name: Jonathan Strootman, user: strootman.jonathan}
-  - {name: Shoaib Sufi, user: sufi.s}
-  - {name: Michael Sumner, user: sumner.mike}
-  - {name: Sarah Supp, user: supp.s}
+  - {name: Joshua Adelman, user: adelman_joshua}
+  - {name: Aron Ahmadia, user: ahmadia_a}
+  - {name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
+  - {name: Joshua Ainsley, user: ainsley_joshua}
+  - {name: Harriet Alexander, user: alexander_harriet}
+  - {name: Russell Alleen Willems, user: alleen-willems_russell}
+  - {name: James Allen, user: allen_james}
+  - {name: Pete Alonzi, user: alonzi_pete}
+  - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
+  - {name: Carlos Anderson, user: anderson_c}
+  - {name: Catalina Anghel, user: anghel_catalina}
+  - {name: Mario Antonioletti, user: antonioletti_mario}
+  - {name: Dhavide Aruliah, user: aruliah_d}
+  - {name: Camille Avestruz, user: avestruz_camille}
+  - {name: Sung Eun Bae, user: bae_sung}
+  - {name: Christie Bahlai, user: bahlai_christie}
+  - {name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
+  - {name: Pauline Barmby, user: barmby_pauline}
+  - {name: Diego Barneche Rosado, user: barneche_diego}
+  - {name: Ewan Barr, user: barr_ewan}
+  - {name: Kathryn Barrett, user: barrett_kathryn}
+  - {name: Radovan Bast, user: bast_radovan}
+  - {name: Dana Bauer, user: bauer_dana}
+  - {name: Philipp Bayer, user: bayer_p}
+  - {name: Rob Beagrie, user: beagrie_robert}
+  - {name: Trevor Bekolay, user: bekolay_trevor}
+  - {name: Nichole Bennett, user: bennett_n}
+  - {name: Miguel Bernabeu, user: bernabeu_miguel}
+  - {name: Mik Black, user: black_mik}
+  - {name: Lukas Blakk, user: blakk_lukas}
+  - {name: John Blischak, user: blischak_j}
+  - {name: Carl Boettiger, user: boettiger_carl}
+  - {name: Jessica Bonnie, user: bonnie_jessica}
+  - {name: James Boocock, user: boocock_james}
+  - {name: Darren Boss, user: boss_darren}
+  - {name: Azalee Bostroem, user: bostroem_a}
+  - {name: Erik Bray, user: bray_e}
+  - {name: C. Titus Brown, user: brown_ct}
+  - {name: Jennifer Bryan, user: bryan_j}
+  - {name: Scott Burns, user: burns_scott}
+  - {name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
+  - {name: Jared Camins-Esakov, user: camins-esakov_jared}
+  - {name: Rosangela Canino-Koning, user: canino-koning_r}
+  - {name: Chris Cannam, user: cannam_c}
+  - {name: Greg Caporaso, user: caporaso_greg}
+  - {name: Timothy Cerino, user: cerino_t}
+  - {name: Scott Chamberlain, user: chamberlain_s}
+  - {name: Cliburn Chan, user: chan_cliburn}
+  - {name: Amanda Charbonneau, user: charbonneau_amanda}
+  - {name: Daniel Chen, user: chen_daniel}
+  - {name: Chelsea Chisholm, user: chisholm_chelsea}
+  - {name: Shreyas Cholia, user: cholia_s}
+  - {name: Adina Howe, user: chuang-howe_a}
+  - {name: Neil Chue Hong, user: chue-hong_n}
+  - {name: Sophie Clayton, user: clayton_sophie}
+  - {name: Luis Pedro Coelho, user: coelho_luis}
+  - {name: Ruth Collings, user: collings_ruth}
+  - {name: John Corless, user: corless_john}
+  - {name: Marianne Corvellec, user: corvellec_marianne}
+  - {name: Thomas Coudrat, user: coudrat_thomas}
+  - {name: Logan Cox, user: cox_logan}
+  - {name: Stefano Cozzini, user: cozzini_s}
+  - {name: Karen Cranston, user: cranston_k}
+  - {name: Nicholas Crouch, user: crouch_nicholas}
+  - {name: Stephen Crouch, user: crouch_s}
+  - {name: Michael Crusoe, user: crusoe_michael}
+  - {name: Maciej Czuchry, user: czuchry_maciej}
+  - {name: Harriet Dashnow, user: dashnow_harriet}
+  - {name: Emily Davenport, user: davenport_e}
+  - {name: Robert Davey, user: davey_rob}
+  - {name: Matt Davis, user: davis_m}
+  - {name: Neal Davis, user: davis_neal}
+  - {name: Raffaella Demichelis, user: demichelis_raffaella}
+  - {name: Balamurugan Desinghu, user: desinghu_balamurugan}
+  - {name: Gabriel A. Devenyi, user: devenyi_gabriel}
+  - {name: Ross Dickson, user: dickson_r}
+  - {name: Matthew Dimmock, user: dimmock_matt}
+  - {name: Kim Doyle, user: doyle_kimberly}
+  - {name: Jonah Duckles, user: duckles_jonah}
+  - {name: Martin Durant, user: durant_martin}
+  - {name: Jonathan Dursi, user: dursi_j}
+  - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
+  - {name: Justin Ely, user: ely_j}
+  - {name: Rémi Emonet, user: emonet_remi}
+  - {name: Richard Enbody, user: enbody_r}
+  - {name: Aaron Erlich, user: erlich_aaron}
+  - {name: Daniel Falster, user: falster_daniel}
+  - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
+  - {name: Xu Fei, user: fei_xu}
+  - {name: Angus Ferguson, user: ferguson_angus}
+  - {name: Luis Figueira, user: figueira_l}
+  - {name: Jordan Fish, user: fish_jordan}
+  - {name: Rich FitzJohn, user: fitzjohn_rich}
+  - {name: Robert Flight, user: flight_r}
+  - {name: John Fonner, user: fonner_john}
+  - {name: Philip Fowler, user: fowler_philip}
+  - {name: Jonathan Frederic, user: frederic_jonathan}
+  - {name: Bob Freeman, user: freeman_robert}
+  - {name: Chris Friedline, user: friedline_chris}
+  - {name: Zhuo Fu, user: fu_zhuo}
+  - {name: Emilia Gan, user: gan_emilia}
+  - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
+  - {name: Julian Garcia, user: garcia_julian}
+  - {name: Aaron Garoutte, user: garoutte_aaron}
+  - {name: Chris Gates, user: gates_chris}
+  - {name: Laurent Gatto, user: gatto_laurent}
+  - {name: Noushin Ghaffari, user: ghaffari_noushin}
+  - {name: Molly Gibson, user: gibson_molly}
+  - {name: Ivan Gonzalez, user: gonzalez_ivan}
+  - {name: Gerard Gorman, user: gorman_gerard}
+  - {name: John Gosset, user: gosset_john}
+  - {name: Alistair Grant, user: grant_alistair}
+  - {name: Philippa Griffin, user: griffin_pip}
+  - {name: Jonathan Gross, user: gross_jonathan}
+  - {name: Thomas Guignard, user: guignard_thomas}
+  - {name: Jiarong Guo, user: guo_jiarong}
+  - {name: Prashant Gupta, user: gupta_prashant}
+  - {name: Julia Gustavsen, user: gustavsen_j}
+  - {name: Tommy Guy, user: guy_t}
+  - {name: Jonathan Guyer, user: guyer_jonathan}
+  - {name: Steve Haddock, user: haddock_s}
+  - {name: Denis Haine, user: haine_denis}
+  - {name: Sam Hames, user: hames_sam}
+  - {name: Christopher Hamm, user: hamm_christopher}
+  - {name: Jessica Hamrick, user: hamrick_jessica}
+  - {name: Nic Hannah, user: hannah_nicholas}
+  - {name: Michael Hansen, user: hansen_m}
+  - {name: Rayna Harris, user: harris_rayna}
+  - {name: Anthony Harrison, user: harrison_anthony}
+  - {name: Emelie Harstad, user: harstad_emelie}
+  - {name: Ted Hart, user: hart_t}
+  - {name: Ian Hawke, user: hawke_ian}
+  - {name: Fabian Held, user: held_fabian}
+  - {name: Ian Henry, user: henry_ian}
+  - {name: Joshua Herr, user: herr_joshua}
+  - {name: Kate Hertweck, user: hertweck_kate}
+  - {name: James Hetherington, user: hetherington_james}
+  - {name: James Hiebert, user: hiebert_james}
+  - {name: Cody Hinchliff, user: hinchliff_cody}
+  - {name: Konrad Hinsen, user: hinsen_k}
+  - {name: Daniel Hocking, user: hocking_daniel}
+  - {name: Amy Hodge, user: hodge_amy}
+  - {name: Chris Holdgraf, user: holdgraf_c}
+  - {name: Jeff Hollister, user: hollister_jeff}
+  - {name: Richard Hosking, user: hosking_richard}
+  - {name: Daisie Huang, user: huang_daisie}
+  - {name: Katy Huff, user: huff_k}
+  - {name: Fatma Imamoglu, user: imamoglu_fatma}
+  - {name: Devasena Inupakutika, user: inupakutika_devasena}
+  - {name: Luiz Irber, user: irber_luiz}
+  - {name: Damien Irving, user: irving_d}
+  - {name: Paul Ivanov, user: ivanov_p}
+  - {name: Mike Jackson, user: jackson_m}
+  - {name: Christian Jacobs, user: jacobs_christian}
+  - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek_zbigniew}
+  - {name: Ben Johnson, user: johnson_ben}
+  - {name: David Jones, user: jones_d}
+  - {name: David Jones, user: jones_dm}
+  - {name: Martin Jones, user: jones_martin}
+  - {name: Nick Jones, user: jones_nick}
+  - {name: Tom Kelly, user: kelly_tom}
+  - {name: Jessica Kerr, user: kerr_j}
+  - {name: Jan Kim, user: kim_jan}
+  - {name: W. Trevor King, user: king_wt}
+  - {name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
+  - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
+  - {name: Justin Kitzes, user: kitzes_j}
+  - {name: Christina Koch, user: koch_christina}
+  - {name: Steven Koenig, user: koenig_steven}
+  - {name: Alex Koeppel, user: koeppel_alexander}
+  - {name: Scott Kolbe, user: kolbe_scott}
+  - {name: Bernhard Konrad, user: konrad_b}
+  - {name: Igor Kozlov, user: kozlov_igor}
+  - {name: Paulina Lach, user: lach_paulina}
+  - {name: Olivier Lafleur, user: lafleur_olivier}
+  - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe_isabelle}
+  - {name: Karin Lagesen, user: lagesen_k}
+  - {name: Sherry Lake, user: lake_sherry}
+  - {name: Ian Langmore, user: langmore_i}
+  - {name: Jeremiah Lant, user: lant_jeremiah}
+  - {name: Chris Lasher, user: lasher_c}
+  - {name: Doug Latornell, user: latornell_d}
+  - {name: David LeBauer, user: lebauer_david}
+  - {name: Kate Lee, user: lee_kate}
+  - {name: Luke Lee, user: lee_luke}
+  - {name: Jacob Levernier, user: levernier_jacob}
+  - {name: JC Leyder, user: leyder_jean-christophe}
+  - {name: Matthew Lightman, user: lightman_matthew}
+  - {name: Johnny Lin, user: lin_johnny}
+  - {name: Andrew Lonsdale, user: lonsdale_andrew}
+  - {name: Elijah Lowe, user: lowe_elijah}
+  - {name: Yuxi Luo, user: luo_yuxi}
+  - {name: Cam Macdonell, user: macdonell_cam}
+  - {name: Gary Macindoe, user: macindoe_gary}
+  - {name: Dan MacLean, user: maclean_dan}
+  - {name: Joshua Madin, user: madin_j}
+  - {name: Tamer Mansour, user: mansour_tamer}
+  - {name: Paula Andrea Andrea Martinez, user: martinez_paula}
+  - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
+  - {name: Daniel McDonald, user: mcdonald_daniel}
+  - {name: Steve McGough, user: mcgough_s}
+  - {name: Catherine McGoveran, user: mcgoveran_catherine}
+  - {name: Sheldon McKay, user: mckay_sheldon}
+  - {name: Jessica McKellar, user: mckellar_j}
+  - {name: Maria McKinley, user: mckinley_maria}
+  - {name: Cameron McLean, user: mclean_cameron}
+  - {name: Emily Jane McTavish, user: mctavish_ej}
+  - {name: Jeremy Metz, user: metz_jeremy}
+  - {name: Lauren Michael, user: michael_lauren}
+  - {name: Simon Michnowicz, user: michnowicz_s}
+  - {name: François Michonneau, user: michonneau_francois}
+  - {name: Brian Miles, user: miles_brian}
+  - {name: Bill Mills, user: mills_b}
+  - {name: Amanda Miotto, user: miotto_amanda}
+  - {name: Meeta Mistry, user: mistry_meeta}
+  - {name: Ian Mitchell, user: mitchell_i}
+  - {name: Jason Moore, user: moore_jason}
+  - {name: Ben Morris, user: morris_b}
+  - {name: Erika Mudrak, user: mudrak_erika}
+  - {name: Ian Munoz, user: munoz_ian}
+  - {name: R. David Murray, user: murray_david}
+  - {name: Hani Nakhoul, user: nakhoul_hani}
+  - {name: Lex Nederbragt, user: nederbragt_l}
+  - {name: Aleksandra Nenadic, user: nenadic_aleksandra}
+  - {name: Jens Hedegaard Nielsen, user: nielsen_jens}
+  - {name: Klemens Noga, user: noga_klemens}
+  - {name: Brenna O'Brien, user: obrien_brenna}
+  - {name: Alan O'Cais, user: ocais_alan}
+  - {name: Aaron O'Leary, user: oleary_aaron}
+  - {name: Randy Olson, user: olson_r}
+  - {name: Jeramia Ory, user: ory_j}
+  - {name: Geoff Oxberry, user: oxberry_g}
+  - {name: Kirill Palamartchouk, user: palamartchouk_kirill}
+  - {name: Martin Paulo, user: paulo_martin}
+  - {name: Aleksandra Pawlik, user: pawlik_a}
+  - {name: John Pearson, user: pearson_john}
+  - {name: Jason Pell, user: pell_j}
+  - {name: David Perez-Suarez, user: perez-suarez_david}
+  - {name: Fernando Perez, user: perez_f}
+  - {name: Mariela Perignon, user: perignon_mariela}
+  - {name: Stefan Pfenninger, user: pfenninger_s}
+  - {name: Timothee Poisot, user: poisot_t}
+  - {name: Tom Pollard, user: pollard_tom}
+  - {name: Likit Preeyanon, user: preeyanon_likit}
+  - {name: Leighton Pritchard, user: pritchard_leighton}
+  - {name: Francoise Provencher, user: provencher_francoise}
+  - {name: Sean Pue, user: pue_s}
+  - {name: Karthik Ram, user: ram_k}
+  - {name: Saravanan Ramalingam, user: ramalingam_saravanan}
+  - {name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
+  - {name: Tom Remenyi, user: remenyi_tom}
+  - {name: Adelaide Rhodes, user: rhodes_adelaide}
+  - {name: Timothy Rice, user: rice_timothy}
+  - {name: Janet Riley, user: riley_janet}
+  - {name: David Rio, user: rio_david}
+  - {name: Scott Ritchie, user: ritchie_scott}
+  - {name: James Robinson, user: robinson_james}
+  - {name: Natalie Robinson, user: robinson_natalie}
+  - {name: Rosario Robinson, user: robinson_rosario}
+  - {name: Andrew Rohl, user: rohl_andrew}
+  - {name: Ariel Rokem, user: rokem_a}
+  - {name: Noam Ross, user: ross_noam}
+  - {name: William Rowell, user: rowell_bill}
+  - {name: John Rugis, user: rugis_john}
+  - {name: Dale Russell, user: russell_dale}
+  - {name: Ramesh Sampath, user: sampath_ramesh}
+  - {name: Maneesha Sane, user: sane_maneesha}
+  - {name: Martin Schilling, user: schilling_martin}
+  - {name: Jorden Schossau, user: schossau_j}
+  - {name: Rachel Schwartz, user: schwartz_rachel}
+  - {name: Anthony Scopatz, user: scopatz_a}
+  - {name: Michael Selik, user: selik_m}
+  - {name: Neem Serra, user: serra_neem}
+  - {name: Brent Shambaugh, user: shambaugh_brent}
+  - {name: Genevieve Shattow, user: shattow_genevieve}
+  - {name: Jeffrey Shelton, user: shelton_j}
+  - {name: Jennifer Shelton, user: shelton_jennifer}
+  - {name: Leigh Sheneman, user: sheneman_leigh}
+  - {name: Yu-Ching Shih, user: shih_yu-ching}
+  - {name: Raniere Silva, user: silva_raniere}
+  - {name: Sarah Simpkin, user: simpkin_sarah}
+  - {name: Jack Simpson, user: simpson_jack}
+  - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
+  - {name: Clare Sloggett, user: sloggett_clare}
+  - {name: Luc Small, user: small_luc}
+  - {name: Daniel Smith, user: smith_daniel}
+  - {name: Joshua Smith, user: smith_j}
+  - {name: Mike Smorul, user: smorul_mike}
+  - {name: Nancy Soontiens, user: soontiens_nancy}
+  - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {name: Daniel Standage, user: standage_daniel}
+  - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
+  - {name: Meg Staton, user: staton_margaret}
+  - {name: Peter Steinbach, user: steinbach_peter}
+  - {name: Mark Stillwell, user: stillwell_mark}
+  - {name: Jonathan Strootman, user: strootman_jonathan}
+  - {name: Shoaib Sufi, user: sufi_s}
+  - {name: Michael Sumner, user: sumner_mike}
+  - {name: Sarah Supp, user: supp_s}
   - {name: SVAKSHA -, user: svaksha}
-  - {name: Gayathri Swaminathan, user: swaminathan.gayathri}
-  - {name: Bradley Taber-Thomas, user: taber-thomas.bradley}
-  - {name: Scott Talafuse, user: talafuse.scott}
-  - {name: Leszek Tarkowski, user: tarkowski.leszek}
-  - {name: Rebecca Tarvin, user: tarvin.becca}
-  - {name: Rachael Tatman, user: tatman.rachael}
-  - {name: Tracy Teal, user: teal.t}
-  - {name: Matt Terry, user: terry.m}
-  - {name: Andy Teucher, user: teucher.andrew}
-  - {name: Ian Thomas, user: thomas.ian}
-  - {name: Robert Till, user: till.robert}
-  - {name: Tiffany Timbers, user: timbers.tiffany}
-  - {name: Will Trimble, user: trimble.will}
-  - {name: Daniel Turek, user: turek.daniel}
-  - {name: Stephen Turner, user: turner.s}
-  - {name: Fiona Tweedie, user: tweedie.fiona}
-  - {name: Daniela Ushizima, user: ushizima.daniela}
-  - {name: Olav Vahtras, user: vahtras.olav}
-  - {name: Roman Valls Guimera, user: valls-guimera.roman}
-  - {name: Vicky Varga, user: varga.vicky}
-  - {name: Nelle Varoquaux, user: varoquaux.n}
-  - {name: Bogdan Vera, user: vera.b}
-  - {name: Alex Viana, user: viana.a}
-  - {name: Jens von der Linden, user: vonderlinden.jens}
-  - {name: Leanne Wake, user: wake.leanne}
-  - {name: Andrew Walker, user: walker.andrew}
-  - {name: Alistair Walsh, user: walsh.alistair}
-  - {name: Dan Warren, user: warren.dan}
-  - {name: Leah Wasser, user: wasser.leah}
-  - {name: Ben Waugh, user: waugh.b}
-  - {name: Ethan White, user: white.e}
-  - {name: Easton White, user: white.easton}
-  - {name: Samuel White, user: white.samuel}
-  - {name: Alexander Whitlock, user: whitlock.a}
-  - {name: Asela Wijeratne, user: wijeratne.asela}
-  - {name: Mark Wilber, user: wilber.mark}
-  - {name: Chandler Wilkerson, user: wilkerson.chandler}
-  - {name: Jason Williams, user: williams.jason}
-  - {name: Lynne Williams, user: williams.l}
-  - {name: Ryan Williams, user: williams.ryan}
-  - {name: Greg Wilson, user: wilson.g}
-  - {name: Donny Winston, user: winston.donald}
-  - {name: Jared Winton, user: winton.jared}
-  - {name: Kara Woo, user: woo.kara}
-  - {name: Christopher Woods, user: woods.c}
-  - {name: April Wright, user: wright.april}
-  - {name: Tom Wright, user: wright.thomas}
-  - {name: Fan Yang, user: yang.fan}
-  - {name: Constantine Zakkaroff, user: zakkaroff.constantine}
-  - {name: Qingpeng Zhang, user: zhang.qp}
-  - {name: Naupaka Zimmerman, user: zimmerman.naupaka}
-  - {name: Tiziano Zito, user: zito.t}
-  - {name: Andrea Zonca, user: zonca.andrea}
-  - {name: Mahdi Belcaid, user: belcaid.mahdi}
-  - {name: Rebecca Blakewood, user: blakewood.becca}
-  - {name: Jonathan Borrelli, user: borrelli.jonathan}
-  - {name: Amy Boyle, user: boyle.amy}
-  - {name: Karl Broman, user: broman.karl}
-  - {name: Will Cornwell, user: cornwell.will}
-  - {name: Remi Daigle, user: daigle.remi}
-  - {name: Susan Duncan, user: duncan.susan}
-  - {name: Dirk Eddelbuettel, user: eddelbuettel.dirk}
-  - {name: Filipe Fernandes, user: fernandes.filipe}
-  - {name: Konrad Förstner, user: forstner.konrad}
-  - {name: Auriel Fournier, user: fournier.auriel}
-  - {name: Javier García-Algarra, user: garcia-algarra.javier}
-  - {name: Laura Jane Graham, user: graham.laura}
-  - {name: Johan Hjelm, user: hjelm.johan}
-  - {name: Sue McClatchy, user: mcclatchy.susan}
-  - {name: Sarah Mount, user: mount.sarah}
-  - {name: Daiva Nielsen, user: nielsen.daiva}
-  - {name: Michael Sarahan, user: sarahan.michael}
-  - {name: Sarah Stevens, user: stevens.sarah}
-  - {name: Morgan Taschuk, user: taschuk.morgan}
-  - {name: Belinda Weaver, user: weaver.belinda}
-  - {name: Ben Weinstein, user: weinstein.ben}
-  - {name: Kyler Brown, user: brown.kyler}
-  - {name: Kathy Chung, user: chung.kathy}
-  - {name: Matthew Collins, user: collins.matthew}
-  - {name: Catherine Devlin, user: devlin.catherine}
-  - {name: Matt Dickenson, user: dickenson.matt}
-  - {name: Heather Gibling, user: gibling.heather}
-  - {name: Luke Johnston, user: johnston.luke}
-  - {name: Narayanan Raghupathy, user: raghupathy.narayanan}
-  - {name: Adam Richie-Halford, user: richie-halford.adam}
-  - {name: Richard Tomsett, user: tomsett.richard}
-  - {name: Hsi-Kai Yang, user: yang.hsi-kai}
-  - {name: Evgenij Belikov, user: belikov.evgenij}
-  - {name: Francisco J. J. Navarro-Brull, user: navarro.francisco}
-  - {name: Hugues Fontenelle, user: fontenelle.hugues}
-  - {name: Dorota Jarecka, user: jarecka.dorota}
-  - {name: Donna Henderson, user: henderson.donna}
-  - {name: Malvika Sharan, user: sharan.malvika}
-  - {name: Kim Moir, user: moir.kim}
-  - {name: John Constable, user: constable.john}
-  - {name: Jeremy Gray, user: gray.jeremy}
-  - {name: John Pormann, user: pormann.john}
-  - {name: Juan Nunez-Iglesias, user: nunez-iglesias.juan}
-  - {name: Byron Smith, user: smith.byron}
-  - {name: Michelle Berry, user: berry.michelle}
-  - {name: Emily Dolson, user: dolson.emily}
-  - {name: Joshua Nahum, user: nahum.josh}
-  - {name: Hossein Pourreza, user: pourreza.hossein}
-  - {name: Tyson Whitehead, user: whitehead.tyson}
-  - {name: Christopher Fonnesbeck, user: fonnesbeck.chris}
-  - {name: Courtney Soderberg, user: soderberg.courtney}
-  - {name: Adam Thomas, user: thomas.adam}
-  - {name: Meghan Duffy, user: duffy.meghan}
-  - {name: Sam Thomson, user: thomson.samuel}
-  - {name: Pat Schloss, user: schloss.pat}
-  - {name: Ben Marwick, user: marwick.ben}
-  - {name: Matthew Ruttley, user: ruttley.m}
-  - {name: Marian Schmidt, user: schmidt.marian}
-  - {name: John Chase, user: chase.john}
-  - {name: Karthik Srinivasan, user: srinivasan.karthik}
-  - {name: Philipp Von Bieberstein, user: von-bieberstein.philipp}
-  - {name: Adam Perry, user: perry.adam}
-  - {name: Kunal Marwaha, user: marwaha.kunal}
-  - {name: Mary Piper, user: piper.mary}
-  - {name: Arron Shiffer, user: shiffer.arron}
-  - {name: Anelda van der Walt, user: van-der-walt.anelda}
-  - {name: Kwasi Kwakwa, user: kwakwa.k}
-  - {name: Ryan Dale, user: dale.ryan}
-  - {name: Chris Lonnen, user: lonnen.chris}
-  - {name: Darya Vanichkina, user: vanichkina.darya}
-  - {name: Radhika Khetani, user: khetani.radhika}
-  - {name: Sean Cleveland, user: cleveland.sean}
-  - {name: Andrew Marder, user: marder.andrew}
-  - {name: Patricia Carbajales-Dale, user: carbajales.patricia}
-  - {name: Amir Karger, user: karger.amir}
-  - {name: Ista Zahn, user: zahn.ista}
-  - {name: Ryan Middleton, user: middleton.ryan}
-  - {name: Donald Speer, user: speer.donald}
-  - {name: Arthur Endsley, user: endsley.arthur}
-  - {name: Laurent Duchesne, user: duchesne.laurent}
-  - {name: Maxime Boissonneault, user: boissonneault.maxime}
-  - {name: Pawel Pomorski, user: pomorski.pawel}
-  - {name: Shawn Whitefield, user: whitefield.shawn}
-  - {name: Seb James, user: james.sebastian}
-  - {name: Arvind Sundaram, user: sundaram.arvind}
-  - {name: Camille Scott, user: scott.camille}
-  - {name: Adrianna Pińska, user: pinska.adrianna}
-  - {name: Simon Fraser, user: fraser.simon}
-  - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh.hamid}
-  - {name: VP Peter Nagraj, user: nagraj.vp}
-  - {name: Martin Callaghan, user: callaghan.martin}
-  - {name: Blake Joyce, user: joyce.blake}
-  - {name: Michael Croucher, user: croucher.mike}
-  - {name: John Simpson, user: simpson.john}
-  - {name: Albertus Seyffert, user: seyffert.albertus}
-  - {name: James Desjardins, user: desjardins.james}
-  - {name: Andy Evans, user: evans.andy}
-  - {name: Mark Laufersweiler, user: laufersweiler.mark}
-  - {name: Alex Razoumov, user: razoumov.alex}
-  - {name: Hartmut Schmider, user: schmider.hartmut}
-  - {name: Erik Spence, user: spence.erik}
-  - {name: Pier-Luc St-Onge, user: st-onge.pier-luc}
-  - {name: Mark Stacy, user: stacy.mark}
-  - {name: Horacio Vargas Guzman, user: vargas-guzman.horacio}
-  - {name: Victor Cordero, user: cordero.victor}
-  - {name: Jon Pipitone, user: pipitone.j}
-  - {name: Francisco Palm, user: palm.francisco}
-  - {name: James Adams, user: adams.james}
-  - {name: Jason Sherman, user: sherman.jason}
-  - {name: Patrick Calhoun, user: calhoun.patrick}
-  - {name: John Moreau, user: moreau.john}
-  - {name: Raissa Philibert, user: philibert.raissa}
-  - {name: Chris Tomlinson, user: tomlinson.christopher}
-  - {name: Jessica Mizzi, user: mizzi.jessica}
-  - {name: Mike Wallis, user: wallis.mike}
-  - {name: Gang Liu, user: liu.gang}
-  - {name: James Derrick, user: derrick.james}
-  - {name: Joona Lehtomäki, user: lehtomaki.joona}
-  - {name: Michael Levy, user: levy.michael}
-  - {name: Arfan Ahmed, user: ahmed.arfan}
-  - {name: Casey Bergman, user: bergman.casey}
-  - {name: Gerard Capes, user: capes.gerard}
-  - {name: Reed Cartwright, user: cartwright.reed}
-  - {name: Sarah Clayton, user: clayton.sarah}
-  - {name: Anne Claire Fouilloux, user: fouilloux.anne-claire}
-  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz.carlos}
-  - {name: Andrew Mellor, user: mellor.andrew}
-  - {name: Chris Norton, user: norton.chris}
-  - {name: Braden Owsley, user: owsley.braden}
-  - {name: Blake Stamps, user: stamps.blake}
+  - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
+  - {name: Bradley Taber-Thomas, user: taber-thomas_bradley}
+  - {name: Scott Talafuse, user: talafuse_scott}
+  - {name: Leszek Tarkowski, user: tarkowski_leszek}
+  - {name: Rebecca Tarvin, user: tarvin_becca}
+  - {name: Rachael Tatman, user: tatman_rachael}
+  - {name: Tracy Teal, user: teal_t}
+  - {name: Matt Terry, user: terry_m}
+  - {name: Andy Teucher, user: teucher_andrew}
+  - {name: Ian Thomas, user: thomas_ian}
+  - {name: Robert Till, user: till_robert}
+  - {name: Tiffany Timbers, user: timbers_tiffany}
+  - {name: Will Trimble, user: trimble_will}
+  - {name: Daniel Turek, user: turek_daniel}
+  - {name: Stephen Turner, user: turner_s}
+  - {name: Fiona Tweedie, user: tweedie_fiona}
+  - {name: Daniela Ushizima, user: ushizima_daniela}
+  - {name: Olav Vahtras, user: vahtras_olav}
+  - {name: Roman Valls Guimera, user: valls-guimera_roman}
+  - {name: Vicky Varga, user: varga_vicky}
+  - {name: Nelle Varoquaux, user: varoquaux_n}
+  - {name: Bogdan Vera, user: vera_b}
+  - {name: Alex Viana, user: viana_a}
+  - {name: Jens von der Linden, user: vonderlinden_jens}
+  - {name: Leanne Wake, user: wake_leanne}
+  - {name: Andrew Walker, user: walker_andrew}
+  - {name: Alistair Walsh, user: walsh_alistair}
+  - {name: Dan Warren, user: warren_dan}
+  - {name: Leah Wasser, user: wasser_leah}
+  - {name: Ben Waugh, user: waugh_b}
+  - {name: Ethan White, user: white_e}
+  - {name: Easton White, user: white_easton}
+  - {name: Samuel White, user: white_samuel}
+  - {name: Alexander Whitlock, user: whitlock_a}
+  - {name: Asela Wijeratne, user: wijeratne_asela}
+  - {name: Mark Wilber, user: wilber_mark}
+  - {name: Chandler Wilkerson, user: wilkerson_chandler}
+  - {name: Jason Williams, user: williams_jason}
+  - {name: Lynne Williams, user: williams_l}
+  - {name: Ryan Williams, user: williams_ryan}
+  - {name: Greg Wilson, user: wilson_g}
+  - {name: Donny Winston, user: winston_donald}
+  - {name: Jared Winton, user: winton_jared}
+  - {name: Kara Woo, user: woo_kara}
+  - {name: Christopher Woods, user: woods_c}
+  - {name: April Wright, user: wright_april}
+  - {name: Tom Wright, user: wright_thomas}
+  - {name: Fan Yang, user: yang_fan}
+  - {name: Constantine Zakkaroff, user: zakkaroff_constantine}
+  - {name: Qingpeng Zhang, user: zhang_qp}
+  - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
+  - {name: Tiziano Zito, user: zito_t}
+  - {name: Andrea Zonca, user: zonca_andrea}
+  - {name: Mahdi Belcaid, user: belcaid_mahdi}
+  - {name: Rebecca Blakewood, user: blakewood_becca}
+  - {name: Jonathan Borrelli, user: borrelli_jonathan}
+  - {name: Amy Boyle, user: boyle_amy}
+  - {name: Karl Broman, user: broman_karl}
+  - {name: Will Cornwell, user: cornwell_will}
+  - {name: Remi Daigle, user: daigle_remi}
+  - {name: Susan Duncan, user: duncan_susan}
+  - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Filipe Fernandes, user: fernandes_filipe}
+  - {name: Konrad Förstner, user: forstner_konrad}
+  - {name: Auriel Fournier, user: fournier_auriel}
+  - {name: Javier García-Algarra, user: garcia-algarra_javier}
+  - {name: Laura Jane Graham, user: graham_laura}
+  - {name: Johan Hjelm, user: hjelm_johan}
+  - {name: Sue McClatchy, user: mcclatchy_susan}
+  - {name: Sarah Mount, user: mount_sarah}
+  - {name: Daiva Nielsen, user: nielsen_daiva}
+  - {name: Michael Sarahan, user: sarahan_michael}
+  - {name: Sarah Stevens, user: stevens_sarah}
+  - {name: Morgan Taschuk, user: taschuk_morgan}
+  - {name: Belinda Weaver, user: weaver_belinda}
+  - {name: Ben Weinstein, user: weinstein_ben}
+  - {name: Kyler Brown, user: brown_kyler}
+  - {name: Kathy Chung, user: chung_kathy}
+  - {name: Matthew Collins, user: collins_matthew}
+  - {name: Catherine Devlin, user: devlin_catherine}
+  - {name: Matt Dickenson, user: dickenson_matt}
+  - {name: Heather Gibling, user: gibling_heather}
+  - {name: Luke Johnston, user: johnston_luke}
+  - {name: Narayanan Raghupathy, user: raghupathy_narayanan}
+  - {name: Adam Richie-Halford, user: richie-halford_adam}
+  - {name: Richard Tomsett, user: tomsett_richard}
+  - {name: Hsi-Kai Yang, user: yang_hsi-kai}
+  - {name: Evgenij Belikov, user: belikov_evgenij}
+  - {name: Francisco J. J. Navarro-Brull, user: navarro_francisco}
+  - {name: Hugues Fontenelle, user: fontenelle_hugues}
+  - {name: Dorota Jarecka, user: jarecka_dorota}
+  - {name: Donna Henderson, user: henderson_donna}
+  - {name: Malvika Sharan, user: sharan_malvika}
+  - {name: Kim Moir, user: moir_kim}
+  - {name: John Constable, user: constable_john}
+  - {name: Jeremy Gray, user: gray_jeremy}
+  - {name: John Pormann, user: pormann_john}
+  - {name: Juan Nunez-Iglesias, user: nunez-iglesias_juan}
+  - {name: Byron Smith, user: smith_byron}
+  - {name: Michelle Berry, user: berry_michelle}
+  - {name: Emily Dolson, user: dolson_emily}
+  - {name: Joshua Nahum, user: nahum_josh}
+  - {name: Hossein Pourreza, user: pourreza_hossein}
+  - {name: Tyson Whitehead, user: whitehead_tyson}
+  - {name: Christopher Fonnesbeck, user: fonnesbeck_chris}
+  - {name: Courtney Soderberg, user: soderberg_courtney}
+  - {name: Adam Thomas, user: thomas_adam}
+  - {name: Meghan Duffy, user: duffy_meghan}
+  - {name: Sam Thomson, user: thomson_samuel}
+  - {name: Pat Schloss, user: schloss_pat}
+  - {name: Ben Marwick, user: marwick_ben}
+  - {name: Matthew Ruttley, user: ruttley_m}
+  - {name: Marian Schmidt, user: schmidt_marian}
+  - {name: John Chase, user: chase_john}
+  - {name: Karthik Srinivasan, user: srinivasan_karthik}
+  - {name: Philipp Von Bieberstein, user: von-bieberstein_philipp}
+  - {name: Adam Perry, user: perry_adam}
+  - {name: Kunal Marwaha, user: marwaha_kunal}
+  - {name: Mary Piper, user: piper_mary}
+  - {name: Arron Shiffer, user: shiffer_arron}
+  - {name: Anelda van der Walt, user: van-der-walt_anelda}
+  - {name: Kwasi Kwakwa, user: kwakwa_k}
+  - {name: Ryan Dale, user: dale_ryan}
+  - {name: Chris Lonnen, user: lonnen_chris}
+  - {name: Darya Vanichkina, user: vanichkina_darya}
+  - {name: Radhika Khetani, user: khetani_radhika}
+  - {name: Sean Cleveland, user: cleveland_sean}
+  - {name: Andrew Marder, user: marder_andrew}
+  - {name: Patricia Carbajales-Dale, user: carbajales_patricia}
+  - {name: Amir Karger, user: karger_amir}
+  - {name: Ista Zahn, user: zahn_ista}
+  - {name: Ryan Middleton, user: middleton_ryan}
+  - {name: Donald Speer, user: speer_donald}
+  - {name: Arthur Endsley, user: endsley_arthur}
+  - {name: Laurent Duchesne, user: duchesne_laurent}
+  - {name: Maxime Boissonneault, user: boissonneault_maxime}
+  - {name: Pawel Pomorski, user: pomorski_pawel}
+  - {name: Shawn Whitefield, user: whitefield_shawn}
+  - {name: Seb James, user: james_sebastian}
+  - {name: Arvind Sundaram, user: sundaram_arvind}
+  - {name: Camille Scott, user: scott_camille}
+  - {name: Adrianna Pińska, user: pinska_adrianna}
+  - {name: Simon Fraser, user: fraser_simon}
+  - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh_hamid}
+  - {name: VP Peter Nagraj, user: nagraj_vp}
+  - {name: Martin Callaghan, user: callaghan_martin}
+  - {name: Blake Joyce, user: joyce_blake}
+  - {name: Michael Croucher, user: croucher_mike}
+  - {name: John Simpson, user: simpson_john}
+  - {name: Albertus Seyffert, user: seyffert_albertus}
+  - {name: James Desjardins, user: desjardins_james}
+  - {name: Andy Evans, user: evans_andy}
+  - {name: Mark Laufersweiler, user: laufersweiler_mark}
+  - {name: Alex Razoumov, user: razoumov_alex}
+  - {name: Hartmut Schmider, user: schmider_hartmut}
+  - {name: Erik Spence, user: spence_erik}
+  - {name: Pier-Luc St-Onge, user: st-onge_pier-luc}
+  - {name: Mark Stacy, user: stacy_mark}
+  - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
+  - {name: Victor Cordero, user: cordero_victor}
+  - {name: Jon Pipitone, user: pipitone_j}
+  - {name: Francisco Palm, user: palm_francisco}
+  - {name: James Adams, user: adams_james}
+  - {name: Jason Sherman, user: sherman_jason}
+  - {name: Patrick Calhoun, user: calhoun_patrick}
+  - {name: John Moreau, user: moreau_john}
+  - {name: Raissa Philibert, user: philibert_raissa}
+  - {name: Chris Tomlinson, user: tomlinson_christopher}
+  - {name: Jessica Mizzi, user: mizzi_jessica}
+  - {name: Mike Wallis, user: wallis_mike}
+  - {name: Gang Liu, user: liu_gang}
+  - {name: James Derrick, user: derrick_james}
+  - {name: Joona Lehtomäki, user: lehtomaki_joona}
+  - {name: Michael Levy, user: levy_michael}
+  - {name: Arfan Ahmed, user: ahmed_arfan}
+  - {name: Casey Bergman, user: bergman_casey}
+  - {name: Gerard Capes, user: capes_gerard}
+  - {name: Reed Cartwright, user: cartwright_reed}
+  - {name: Sarah Clayton, user: clayton_sarah}
+  - {name: Anne Claire Fouilloux, user: fouilloux_anne-claire}
+  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
+  - {name: Andrew Mellor, user: mellor_andrew}
+  - {name: Chris Norton, user: norton_chris}
+  - {name: Braden Owsley, user: owsley_braden}
+  - {name: Blake Stamps, user: stamps_blake}
+  - {name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {name: Alexandre Manhães Savio, user: manhaes-savio_alexandre}
+  - {name: Sergey Mashchenko, user: mashchenko_sergey}
 - name: member
   persons:
-  - {name: Joshua Adelman, user: adelman.joshua}
-  - {name: Jorge Aranda, user: aranda.j}
-  - {name: Piotr Banaszkiewicz, user: banaszkiewicz.piotr}
-  - {name: Andrew Boughton, user: boughton.andrew}
-  - {name: Amy Brown, user: brown.amy}
-  - {name: Cliburn Chan, user: chan.cliburn}
-  - {name: Neil Chue Hong, user: chue-hong.n}
-  - {name: Warren Code, user: code.w}
-  - {name: Arliss Collins, user: collins.arliss}
-  - {name: Dirk Eddelbuettel, user: eddelbuettel.dirk}
-  - {name: Rémi Emonet, user: emonet.remi}
-  - {name: Carole Goble, user: goble.c}
-  - {name: Luiz Irber, user: irber.luiz}
-  - {name: W. Trevor King, user: king.wt}
-  - {name: Isabell Kiral-Kornek, user: kiral-kornek.isabell}
-  - {name: Kwangchun Lee, user: lee.kwangchun}
-  - {name: Cindee Madison, user: madison.cindee}
-  - {name: Giacomo Peru, user: peru.giacomo}
-  - {name: Marian Petre, user: petre.m}
-  - {name: Jon Pipitone, user: pipitone.j}
-  - {name: Mark Plumbley, user: plumbley.m}
-  - {name: David Rio, user: rio.david}
-  - {name: Ashwin Trikuta Srinath, user: srinath.ashwin}
-  - {name: Adam Stone, user: stone.a}
-  - {name: Kaitlin Thaney, user: thaney.kaitlin}
-  - {name: Ramnath Vaidyanathan, user: vaidyanathan.ramnath}
-  - {name: Jason Williams, user: williams.jason}
-  - {name: Carol Willing, user: willing.carol}
-  - {name: Paul Wilson, user: wilson.p}
+  - {name: Joshua Adelman, user: adelman_joshua}
+  - {name: Jorge Aranda, user: aranda_j}
+  - {name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
+  - {name: Andrew Boughton, user: boughton_andrew}
+  - {name: Amy Brown, user: brown_amy}
+  - {name: Cliburn Chan, user: chan_cliburn}
+  - {name: Neil Chue Hong, user: chue-hong_n}
+  - {name: Warren Code, user: code_w}
+  - {name: Arliss Collins, user: collins_arliss}
+  - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Rémi Emonet, user: emonet_remi}
+  - {name: Carole Goble, user: goble_c}
+  - {name: Luiz Irber, user: irber_luiz}
+  - {name: W. Trevor King, user: king_wt}
+  - {name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
+  - {name: Kwangchun Lee, user: lee_kwangchun}
+  - {name: Cindee Madison, user: madison_cindee}
+  - {name: Giacomo Peru, user: peru_giacomo}
+  - {name: Marian Petre, user: petre_m}
+  - {name: Jon Pipitone, user: pipitone_j}
+  - {name: Mark Plumbley, user: plumbley_m}
+  - {name: David Rio, user: rio_david}
+  - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {name: Adam Stone, user: stone_a}
+  - {name: Kaitlin Thaney, user: thaney_kaitlin}
+  - {name: Ramnath Vaidyanathan, user: vaidyanathan_ramnath}
+  - {name: Jason Williams, user: williams_jason}
+  - {name: Carol Willing, user: willing_carol}
+  - {name: Paul Wilson, user: wilson_p}
 - name: organizer
   persons:
-  - {name: Jorge Aranda, user: aranda.j}
-  - {name: Clair Barrass, user: barrass.clair}
-  - {name: Casey Bergman, user: bergman.casey}
-  - {name: Bruce Berriman, user: berriman.b}
-  - {name: Azalee Bostroem, user: bostroem.a}
-  - {name: Onno Broekmans, user: broekmans.o}
-  - {name: Amy Brown, user: brown.amy}
-  - {name: C. Titus Brown, user: brown.ct}
-  - {name: Simon Burbidge, user: burbidge.simon}
-  - {name: Alex Chartier, user: chartier.a}
-  - {name: Shreyas Cholia, user: cholia.s}
-  - {name: Stefano Cozzini, user: cozzini.s}
-  - {name: Matt Davis, user: davis.m}
-  - {name: Ross Dickson, user: dickson.r}
-  - {name: Jonah Duckles, user: duckles.jonah}
-  - {name: Dan Ellis, user: ellis.dan}
-  - {name: Valerie Evans, user: evans.valerie}
-  - {name: Philip Fowler, user: fowler.philip}
-  - {name: Elise Glen, user: glen.e}
-  - {name: Carole Goble, user: goble.c}
-  - {name: Chris Gray, user: gray.c}
-  - {name: Norman Gray, user: gray.n}
-  - {name: David Henty, user: henty.d}
-  - {name: James Hetherington, user: hetherington.james}
-  - {name: Bill Howe, user: howe.b}
-  - {name: Katy Huff, user: huff.k}
-  - {name: Catherine Inglis, user: inglis.catherine}
-  - {name: Mike Jackson, user: jackson.m}
-  - {name: Bernhard Konrad, user: konrad.b}
-  - {name: Nic Kooyers, user: kooyers.n}
-  - {name: Ian Langmore, user: langmore.i}
-  - {name: Paul Lu, user: lu.p}
-  - {name: Andrew Lumsdaine, user: lumsdaine.a}
-  - {name: Joshua Madin, user: madin.j}
-  - {name: Avril Manners, user: manners.avril}
-  - {name: Damian Marchewka, user: marchewka.damian}
-  - {name: Ian Mitchell, user: mitchell.i}
-  - {name: Jason Montojo, user: montojo.j}
-  - {name: Lex Nederbragt, user: nederbragt.l}
-  - {name: Miguel Oliveira, user: oliveira.miguel}
-  - {name: Randy Olson, user: olson.r}
-  - {name: Chris Paciorek, user: paciorek.c}
-  - {name: Konrad Paszkiewicz, user: paszkiewicz.konrad}
-  - {name: Marian Petre, user: petre.m}
-  - {name: Jon Pipitone, user: pipitone.j}
-  - {name: Mark Plumbley, user: plumbley.m}
-  - {name: Michael Rezny, user: rezny.m}
-  - {name: Ariel Rokem, user: rokem.a}
-  - {name: Jorden Schossau, user: schossau.j}
-  - {name: Rachel Schutt, user: schutt.r}
-  - {name: Anthony Scopatz, user: scopatz.a}
-  - {name: Jeffrey Shelton, user: shelton.j}
-  - {name: Andrew Su, user: su.a}
-  - {name: Tracy Teal, user: teal.t}
-  - {name: Luke Tweddle, user: tweddle.l}
-  - {name: Todd Vision, user: vision.t}
-  - {name: Andrew Walker, user: walker.a}
-  - {name: Ben Waugh, user: waugh.b}
-  - {name: Ethan White, user: white.e}
-  - {name: Greg Wilson, user: wilson.g}
-  - {name: Paul Wilson, user: wilson.p}
-  - {name: Robin Wilson, user: wilson.r}
-  - {name: David Wolever, user: wolever.d}
+  - {name: Jorge Aranda, user: aranda_j}
+  - {name: Clair Barrass, user: barrass_clair}
+  - {name: Casey Bergman, user: bergman_casey}
+  - {name: Bruce Berriman, user: berriman_b}
+  - {name: Azalee Bostroem, user: bostroem_a}
+  - {name: Onno Broekmans, user: broekmans_o}
+  - {name: Amy Brown, user: brown_amy}
+  - {name: C. Titus Brown, user: brown_ct}
+  - {name: Simon Burbidge, user: burbidge_simon}
+  - {name: Alex Chartier, user: chartier_a}
+  - {name: Shreyas Cholia, user: cholia_s}
+  - {name: Stefano Cozzini, user: cozzini_s}
+  - {name: Matt Davis, user: davis_m}
+  - {name: Ross Dickson, user: dickson_r}
+  - {name: Jonah Duckles, user: duckles_jonah}
+  - {name: Dan Ellis, user: ellis_dan}
+  - {name: Valerie Evans, user: evans_valerie}
+  - {name: Philip Fowler, user: fowler_philip}
+  - {name: Elise Glen, user: glen_e}
+  - {name: Carole Goble, user: goble_c}
+  - {name: Chris Gray, user: gray_c}
+  - {name: Norman Gray, user: gray_n}
+  - {name: David Henty, user: henty_d}
+  - {name: James Hetherington, user: hetherington_james}
+  - {name: Bill Howe, user: howe_b}
+  - {name: Katy Huff, user: huff_k}
+  - {name: Catherine Inglis, user: inglis_catherine}
+  - {name: Mike Jackson, user: jackson_m}
+  - {name: Bernhard Konrad, user: konrad_b}
+  - {name: Nic Kooyers, user: kooyers_n}
+  - {name: Ian Langmore, user: langmore_i}
+  - {name: Paul Lu, user: lu_p}
+  - {name: Andrew Lumsdaine, user: lumsdaine_a}
+  - {name: Joshua Madin, user: madin_j}
+  - {name: Avril Manners, user: manners_avril}
+  - {name: Damian Marchewka, user: marchewka_damian}
+  - {name: Ian Mitchell, user: mitchell_i}
+  - {name: Jason Montojo, user: montojo_j}
+  - {name: Lex Nederbragt, user: nederbragt_l}
+  - {name: Miguel Oliveira, user: oliveira_miguel}
+  - {name: Randy Olson, user: olson_r}
+  - {name: Chris Paciorek, user: paciorek_c}
+  - {name: Konrad Paszkiewicz, user: paszkiewicz_konrad}
+  - {name: Marian Petre, user: petre_m}
+  - {name: Jon Pipitone, user: pipitone_j}
+  - {name: Mark Plumbley, user: plumbley_m}
+  - {name: Michael Rezny, user: rezny_m}
+  - {name: Ariel Rokem, user: rokem_a}
+  - {name: Jorden Schossau, user: schossau_j}
+  - {name: Rachel Schutt, user: schutt_r}
+  - {name: Anthony Scopatz, user: scopatz_a}
+  - {name: Jeffrey Shelton, user: shelton_j}
+  - {name: Andrew Su, user: su_a}
+  - {name: Tracy Teal, user: teal_t}
+  - {name: Luke Tweddle, user: tweddle_l}
+  - {name: Todd Vision, user: vision_t}
+  - {name: Andrew Walker, user: walker_a}
+  - {name: Ben Waugh, user: waugh_b}
+  - {name: Ethan White, user: white_e}
+  - {name: Greg Wilson, user: wilson_g}
+  - {name: Paul Wilson, user: wilson_p}
+  - {name: Robin Wilson, user: wilson_r}
+  - {name: David Wolever, user: wolever_d}
 - name: dc-instructor
   persons: []
 flags:
   airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, us]
-timestamp: 20160123T112246Z
+timestamp: 20160125T190209Z
 workshops:
 - &id002
   - address: Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States Research
@@ -2264,6 +2272,20 @@ workshops:
     - {name: DC}
     url: https://fmichonneau.github.io/2016-03-07-notre-dame/
     venue: Notre Dame
+  - address: Blindernveien 31, Oslo
+    contact: lex.nederbragt@ibv.uio.no
+    country: 'NO'
+    end: 2016-02-02
+    eventbrite_id: ''
+    humandate: Feb 01-02, 2016
+    latitude: 59.94012
+    longitude: 10.723464
+    slug: 2016-02-01-oslo
+    start: 2016-02-01
+    tags:
+    - {name: DC}
+    url: https://uio-carpentry.github.io/2016-02-01-Oslo/
+    venue: '''Bikuben'', Kristine Bonnevies hus'
   - address: Natural History Museum, Cromwell Road, London, SW7 5BD
     contact: f.ahmed@nhm.ac.uk
     country: GB
@@ -2278,5 +2300,20 @@ workshops:
     - {name: DC}
     url: https://callaghanmt.github.io/2016-01-26-london-nhm/
     venue: Natural History Museum
+  - address: Kantoren Hoog Overborch, Moreelsepark 48, Utrecht
+    contact: m.kuzak@esciencecenter.nl
+    country: NL
+    end: 2016-01-29
+    eventbrite_id: ''
+    humandate: Jan 25-29, 2016
+    latitude: 52.089057
+    longitude: 5.113465
+    slug: 2016-01-25-Utrecht
+    start: 2016-01-25
+    tags:
+    - {name: SWC}
+    - {name: DC}
+    url: https://mkuzak.github.io/2016-01-25-Utrecht/
+    venue: SURF
 workshops_current: *id001
 workshops_past: *id002
