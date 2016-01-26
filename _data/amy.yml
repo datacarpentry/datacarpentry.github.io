@@ -1236,6 +1236,12 @@ airports:
   latitude: 60.320659
   longitude: 24.943162
   name: Helsinki Airport
+- country: ca
+  instructors:
+  - {name: Sergey Mashchenko, user: mashchenko_sergey}
+  latitude: 43.166685
+  longitude: -79.933572
+  name: John C. Munro Hamilton International Airport
 badges:
 - name: creator
   persons:
@@ -1845,7 +1851,7 @@ flags:
   airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, us]
-timestamp: 20160125T190209Z
+timestamp: 20160126T003734Z
 workshops:
 - &id002
   - address: Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States Research
@@ -1876,7 +1882,7 @@ workshops:
     tags:
     - {name: DC}
     url: http://www.datacarpentry.org/2016-01-19-sbu/
-    venue: Wang Center - Lecture Hall 2
+    venue: Stonybrook University
   - address: Natural History Museum, Cromwell Road, London, SW7 5BD
     contact: f.ahmed@nhm.ac.uk
     country: gb
