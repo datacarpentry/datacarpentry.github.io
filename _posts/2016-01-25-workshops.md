@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Workshops"
 title: "Starting off Data Carpentry in 2016"
-teaser: "Data Carpentry workshops and instructor training starting 2016"
+teaser: "Several workshops starting off Data Carpentry in 2016"
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
