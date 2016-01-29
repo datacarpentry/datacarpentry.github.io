@@ -19,7 +19,7 @@ Part of the mission of Data Carpentry is to encourage and enable reproducible re
 
   * hashtag: [#rrhack](https://twitter.com/hashtag/rrhack)
 
-  * link: [hackthaon repo](https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-09-2015)
+  * link: [hackathon repo](https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-09-2015)
 
 In fall 2014, NESCent held an [initial hackathon] to develop a set of materials for teaching reproducible research to computational scientists. Participants in the hackathon then taught three #rrhack workshops to ~~unsuspecting guinea pigs~~ students, postdocs, faculty and staff at [Duke University], [iDigBio / University of Florida] and the [Duke Marine Lab]. A year after the initial hackathon, we re-convened people from the first event, along with a few locals from the University of Florida. This [second hackathon] aimed to expand / update the lessons based on feedback from the first three workshops.  
 
