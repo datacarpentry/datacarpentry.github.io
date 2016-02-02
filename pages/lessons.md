@@ -37,9 +37,7 @@ the data management and analysis workflow.
 
 ### Biology Semester-long Course
 
-The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/) was developed and piloted at the University of Florida in Fall 2015. Course materials include, readings, lectures, exercises and assignments 
-that expand on the material presented at workshops focusing on SQL and R. 
-The course is accessible to:
+The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/) was developed and piloted at the University of Florida in Fall 2015. Course materials include, readings, lectures, exercises and assignments that expand on the material presented at workshops focusing on SQL and R. The course is accessible to:
 
 - [Self-guided Students](http://www.datacarpentry.org/semester-biology/START-for-self-guided-students) 
 - [Instructors](http://www.datacarpentry.org/semester-biology/docs/) 
