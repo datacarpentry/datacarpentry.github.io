@@ -2064,7 +2064,7 @@ flags:
   airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160210T000058Z
+timestamp: 20160210T001239Z
 workshops:
 - &id002
   - address: Blindernveien 31, Oslo
