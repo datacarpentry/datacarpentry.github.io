@@ -22,12 +22,14 @@ airports:
 - country: se
   instructors:
   - {name: Roman Valls Guimera, user: valls-guimera_roman}
+  - {name: Matthias Nilsson, user: nilsson_matthias}
   latitude: 59.651944
   longitude: 17.918611
   name: Stockholm
 - country: us
   instructors:
   - {name: Daniel Smith, user: smith_daniel}
+  - {name: Casey Bergman, user: bergman_casey}
   latitude: 33.640278
   longitude: -84.426944
   name: Atlanta, GA
@@ -116,6 +118,7 @@ airports:
   - {name: Amir Karger, user: karger_amir}
   - {name: Andrew Marder, user: marder_andrew}
   - {name: Ista Zahn, user: zahn_ista}
+  - {name: Eric Ma, user: ma_eric}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -137,6 +140,7 @@ airports:
 - country: fr
   instructors:
   - {name: Nelle Varoquaux, user: varoquaux_n}
+  - {name: Bartosz Telenczuk, user: telenczuk_bartosz}
   - {name: Marcel Stimberg, user: stimberg_marcel}
   latitude: 49.012778
   longitude: 2.55
@@ -184,6 +188,7 @@ airports:
   instructors:
   - {name: Chelsea Chisholm, user: chisholm_chelsea}
   - {name: Johan Hjelm, user: hjelm_johan}
+  - {name: Kai Blin, user: blin_kai}
   latitude: 55.617778
   longitude: 12.655833
   name: Copenhagen Kastrup
@@ -207,6 +212,7 @@ airports:
   - {name: Joshua Smith, user: smith_j}
   - {name: Mike Smorul, user: smorul_mike}
   - {name: Ryan Dale, user: dale_ryan}
+  - {name: Denise Liberton, user: liberton_denise}
   latitude: 38.851944
   longitude: -77.0375
   name: Ronald Reagan Washington, DC
@@ -226,6 +232,8 @@ airports:
   - {name: John Corless, user: corless_john}
   - {name: Kate Hertweck, user: hertweck_kate}
   - {name: Amit Kumar, user: kumar_amit}
+  - {name: Kevin Vilbig, user: vilbig_kevin}
+  - {name: Rohit Rawat, user: rawat_rohit}
   latitude: 32.896389
   longitude: -97.0375
   name: Dallas-Fort Worth, TX
@@ -247,6 +255,7 @@ airports:
   instructors:
   - {name: Adina Howe, user: chuang-howe_a}
   - {name: Fan Yang, user: yang_fan}
+  - {name: Jinlyung(Jin) Choi, user: choi_jin}
   latitude: 41.533889
   longitude: -93.6625
   name: Des Moines, IA
@@ -484,6 +493,8 @@ airports:
   - {name: Arfan Ahmed, user: ahmed_arfan}
   - {name: Alys Brett, user: brett_alys}
   - {name: Bethan Davies, user: davies_bethan}
+  - {name: Consuelo Sendino, user: sendino_consuelo}
+  - {name: Malcom Penn, user: penn_malcom}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -512,6 +523,7 @@ airports:
   - {name: Shoaib Sufi, user: sufi_s}
   - {name: Seb James, user: james_sebastian}
   - {name: Gerard Capes, user: capes_gerard}
+  - {name: Ahmad Alam, user: alam_ahmad}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -934,7 +946,7 @@ airports:
   - {name: Cam Macdonell, user: macdonell_cam}
   - {name: Vicky Varga, user: varga_vicky}
   - {name: John Simpson, user: simpson_john}
-  - {name: Todd Suomela, user: suomela}
+  - {name: Todd Suomela, user: suomela_todd}
   - {name: Patrick Lloyd-Smith, user: lloydsmith}
   latitude: 53.309722
   longitude: -113.579722
@@ -983,6 +995,7 @@ airports:
   - {name: Dhavide Aruliah, user: aruliah_d}
   - {name: Jennifer Bryan, user: bryan_j}
   - {name: Kathy Chung, user: chung_kathy}
+  - {name: Bruno Grande, user: grande_bruno}
   - {name: Julia Gustavsen, user: gustavsen_j}
   - {name: Daisie Huang, user: huang_daisie}
   - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
@@ -1002,6 +1015,7 @@ airports:
 - country: ca
   instructors:
   - {name: Pauline Barmby, user: barmby_pauline}
+  - {name: Patrick Chapman, user: chapman_patrick}
   - {name: Tyson Whitehead, user: whitehead_tyson}
   latitude: 43.035556
   longitude: -81.153889
@@ -1087,6 +1101,7 @@ airports:
   instructors:
   - {name: Emelie Harstad, user: harstad_emelie}
   - {name: Joshua Herr, user: herr_joshua}
+  - {name: Bill McClung, user: mcclung_bill}
   latitude: 40.850833
   longitude: -96.759167
   name: Lincoln, NE
@@ -1221,6 +1236,7 @@ airports:
   instructors:
   - {name: Mateusz Kuzak, user: kuzak_mateusz}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
+  - {name: Edwin van der Helm, user: van-der-helm_edwin}
   latitude: 52.309686
   longitude: 4.767438
   name: 'Amsterdam Airport Schiphol '
@@ -1278,6 +1294,12 @@ airports:
   latitude: -42.834715
   longitude: 147.499117
   name: Hobart International Airport
+- country: gr
+  instructors:
+  - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  latitude: 40.518775
+  longitude: 22.971483
+  name: Thessaloniki Airport
 badges:
 - name: creator
   persons:
@@ -1798,7 +1820,7 @@ badges:
   - {name: Fernando Mayer, user: mayer_fernando}
   - {name: Adrianna Pińska, user: pinska_adrianna}
   - {name: Deborah Paul, user: paul_deborah}
-  - {name: Jin Choi, user: choi_jin}
+  - {name: Jinlyung(Jin) Choi, user: choi_jin}
   - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {name: Maria Teleńczuk, user: telenczuk_maria}
   - {name: Matthias Nilsson, user: nilsson_matthias}
@@ -1808,7 +1830,7 @@ badges:
   - {name: Eric Ma, user: ma_eric}
   - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Anna Williford, user: williford_anna}
-  - {name: Bartosz Teleńczuk, user: telenczuk_bartosz}
+  - {name: Bartosz Telenczuk, user: telenczuk_bartosz}
   - {name: Kai Blin, user: blin_kai}
   - {name: Kevin Vilbig, user: vilbig_kevin}
   - {name: Brendan Smithyman, user: smithyman_brendan}
@@ -1817,6 +1839,28 @@ badges:
   - {name: Rohit Rawat, user: rawat_rohit}
   - {name: Josh Waterfall, user: waterfall_josh}
   - {name: R. Burke Squires, user: squires_r_burke}
+  - {name: Madeleine Bonsma, user: bonsma_madeleine}
+  - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
+  - {name: Athanasios Kintsakis, user: kintsakis_athanasios}
+  - {name: Antonia Gogoglou, user: gogoglou_antonia}
+  - {name: Adam Obeng, user: obeng_a}
+  - {name: Camille Marini, user: marini_camille}
+  - {name: Nina Therkildsen, user: therkildsen_nina}
+  - {name: Derek Howard, user: howard_derek}
+  - {name: Ryan Neufeld, user: neufeld_ryan}
+  - {name: Kally Chung, user: chung_kally}
+  - {name: Abel Soares Siqueira, user: siqueira-soares_abel}
+  - {name: Juan Ugalde, user: ugalde_juan}
+  - {name: Natasha Pavlovikj, user: pavlovikj_natasha}
+  - {name: Florian Thöle, user: thoele_florian}
+  - {name: Lukas Weber, user: weber_lukas}
+  - {name: Tim Tröndle, user: troendle_tim}
+  - {name: Alison Appling, user: appling_alison}
+  - {name: Jingchao Zhang, user: zhang_jingchao}
+  - {name: Lina Tran, user: tran_lina}
+  - {name: Thea Van Rossum, user: van-rossum_thea}
+  - {name: Sean Aubin, user: aubin_sean}
+  - {name: Tomomi Sunayama, user: sunayama_tomomi}
 - name: member
   persons:
   - {name: Joshua Adelman, user: adelman_joshua}
@@ -2027,13 +2071,21 @@ badges:
   - {name: Jason Williams, user: williams_jason}
   - {name: Zhuo Fu, user: fu_zhuo}
   - {name: Frederik Coppens, user: coppens_frederik}
-  - {name: Ira Cooke, user: iracooke}
-  - {name: Matthew Wakefield, user: matthewwakefield}
+  - {name: Ira Cooke, user: cooke_ira}
+  - {name: Matthew Wakefield, user: wakefield_matthew}
   - {name: Fernando Mayer, user: mayer_fernando}
-  - {name: Jin Choi, user: choi_jin}
+  - {name: Jinlyung(Jin) Choi, user: choi_jin}
   - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {name: Eric Ma, user: ma_eric}
   - {name: Rohit Rawat, user: rawat_rohit}
+  - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
+  - {name: Athanasios Kintsakis, user: kintsakis_athanasios}
+  - {name: Antonia Gogoglou, user: gogoglou_antonia}
+  - {name: Adam Obeng, user: obeng_a}
+  - {name: Juan Ugalde, user: ugalde_juan}
+  - {name: Lukas Weber, user: weber_lukas}
+  - {name: Alison Appling, user: appling_alison}
+  - {name: Lindsay Carr, user: carr_lindsay}
 - name: maintainer
   persons:
   - {name: Trevor Bekolay, user: bekolay_trevor}
@@ -2061,10 +2113,10 @@ badges:
   - {name: Tracy Teal, user: teal_t}
   - {name: Stephen Crouch, user: crouch_s}
 flags:
-  airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
+  airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, gr, ie, il, in, it, nl, 'no',
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160210T001657Z
+timestamp: 20160212T192539Z
 workshops:
 - &id002
   - address: Blindernveien 31, Oslo
