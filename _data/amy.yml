@@ -1841,7 +1841,7 @@ badges:
   - {name: R. Burke Squires, user: squires_r_burke}
   - {name: Madeleine Bonsma, user: bonsma_madeleine}
   - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
-  - {name: Athanasios Kintsakis, user: kintsakis_athanasios}
+  - {name: Athanassios Kintsakis, user: kintsakis_athanassios}
   - {name: Antonia Gogoglou, user: gogoglou_antonia}
   - {name: Adam Obeng, user: obeng_a}
   - {name: Camille Marini, user: marini_camille}
@@ -1849,7 +1849,7 @@ badges:
   - {name: Derek Howard, user: howard_derek}
   - {name: Ryan Neufeld, user: neufeld_ryan}
   - {name: Kally Chung, user: chung_kally}
-  - {name: Abel Soares Siqueira, user: siqueira-soares_abel}
+  - {name: Abel Soares Siqueira, user: soares-siqueira_abel}
   - {name: Juan Ugalde, user: ugalde_juan}
   - {name: Natasha Pavlovikj, user: pavlovikj_natasha}
   - {name: Florian Thöle, user: thoele_florian}
@@ -2079,7 +2079,7 @@ badges:
   - {name: Eric Ma, user: ma_eric}
   - {name: Rohit Rawat, user: rawat_rohit}
   - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
-  - {name: Athanasios Kintsakis, user: kintsakis_athanasios}
+  - {name: Athanassios Kintsakis, user: kintsakis_athanassios}
   - {name: Antonia Gogoglou, user: gogoglou_antonia}
   - {name: Adam Obeng, user: obeng_a}
   - {name: Juan Ugalde, user: ugalde_juan}
@@ -2116,7 +2116,7 @@ flags:
   airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, gr, ie, il, in, it, nl, 'no',
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160212T192539Z
+timestamp: 20160214T182526Z
 workshops:
 - &id002
   - address: Blindernveien 31, Oslo
@@ -2586,6 +2586,20 @@ workshops:
     - {name: DC}
     url: https://fmichonneau.github.io/2016-03-07-notre-dame/
     venue: Notre Dame
+  - address: 100 Connecticut Street
+    contact: carolyn.mills@uconn.edu
+    country: US
+    end: 2016-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2016
+    latitude: 41.808477
+    longitude: -72.254259
+    slug: 2016-03-07-uconn
+    start: 2016-03-07
+    tags:
+    - {name: DC}
+    url: https://jrherr.github.io/2016-03-07-uconn/
+    venue: University of Connecticut
   - address: Boston College, Fulton Bldg. (Room 245), Chestnut Hill, MA 02467-3810
     contact: iglpdc+bc@gmail.com
     country: US
