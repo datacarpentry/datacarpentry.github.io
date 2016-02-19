@@ -22,17 +22,25 @@ no prior computational experience.**
 ## Established Lessons
 *Lesson formatting is currently being updated*
 
+
+### Biology Workshop Lessons
+
 We use a single dataset throughout the workshop to model
 the data management and analysis workflow. 
-
-
-### Biology Workshop Lessons  
 
 - [Data organization in spreadsheets](http://datacarpentry.github.io/spreadsheet-ecology-lesson/)
 - [Data cleaning with OpenRefine](http://datacarpentry.github.io/OpenRefine-ecology/)
 - [Data management with SQL](http://datacarpentry.github.io/sql-ecology/)
 - [Data analysis and visualization in R](http://datacarpentry.github.io/R-ecology/)
 - [Data analysis and visualization in Python](http://datacarpentry.github.io/python-ecology/)
+
+
+### Biology Semester-long Course
+
+The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/) was developed and piloted at the University of Florida in Fall 2015. Course materials include, readings, lectures, exercises and assignments that expand on the material presented at workshops focusing on SQL and R. The course is accessible to:
+
+- [Self-guided Students](http://www.datacarpentry.org/semester-biology/START-for-self-guided-students) 
+- [Instructors](http://www.datacarpentry.org/semester-biology/docs/) 
 
 
 ## Lessons Under Development
@@ -49,9 +57,3 @@ These workshop materials are focused on working with genomics data.
 - [Introduction to cloud computing](https://github.com/datacarpentry/cloud-genomics/tree/gh-pages/lessons)
 - [Data analysis in R](http://www.datacarpentry.org/R-genomics/04-dplyr.html)
 - [Data visualization in R](http://www.datacarpentry.org/R-genomics/05-data-visualization.html)
-
-### Semester-long Biology Course
-
-[These materials](http://www.datacarpentry.org/semester-biology/) are being used in a course at the
-Univeristy of Florida in Fall 2015. It is not currently meant to be fully comprehensible without additional
-context.
