@@ -301,6 +301,15 @@ airports:
   - {name: Leighton Pritchard, user: pritchard_leighton}
   - {name: Sam Thomson, user: thomson_samuel}
   - {name: Michael Torpey, user: torpey_michael}
+  - {name: Toni Collis, user: collis_toni}
+  - {name: Shaun Webb, user: webb_shaun}
+  - {name: Alastair Kerr, user: kerr_alastair}
+  - {name: Daniel Robertson, user: robertson_daniel}
+  - {name: Kevin Stratford, user: stratford_kevin}
+  - {name: Ioanna Lampaki, user: lampaki_ioanna}
+  - {name: Fiona Reid, user: reid_fiona}
+  - {name: Juan Rodriguez Herrera, user: rodriguez-herrera_juan}
+  - {name: Rupert Nash, user: nash_rupert}
   latitude: 55.95
   longitude: -3.3725
   name: Edinburgh
@@ -440,7 +449,7 @@ airports:
   - {name: Luis Figueira, user: figueira_l}
   - {name: James Derrick, user: derrick_james}
   - {name: Mladen Georgiev, user: georgiev_mladen}
-  - {name: Tom Dowrick, user: dowrick_tom}
+  - {name: Thomas Dowrick, user: dowrick_tom}
   latitude: 51.505
   longitude: 0.054167
   name: London City
@@ -495,6 +504,12 @@ airports:
   - {name: Bethan Davies, user: davies_bethan}
   - {name: Consuelo Sendino, user: sendino_consuelo}
   - {name: Malcom Penn, user: penn_malcom}
+  - {name: Sreekumar Balan, user: balan_sreekumar}
+  - {name: Dave Wright, user: wright_dave}
+  - {name: Daniel Buchan, user: buchan_daniel}
+  - {name: Jarek Bryk, user: bryk_jarek}
+  - {name: Martin Carr, user: carr_martin}
+  - {name: Christopher Cooper, user: cooper_christopher}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -524,6 +539,8 @@ airports:
   - {name: Seb James, user: james_sebastian}
   - {name: Gerard Capes, user: capes_gerard}
   - {name: Ahmad Alam, user: alam_ahmad}
+  - {name: Simone Di Cola, user: dicola_simone}
+  - {name: Suzanne Embury, user: embury_suzanne}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -1868,6 +1885,9 @@ badges:
   - {awarded: '2016-02-17', name: Heidi Perrett, user: perrett_heidi}
   - {awarded: '2016-02-17', name: Kim Keogh, user: keogh_kim}
   - {awarded: '2016-02-17', name: Andrew MacDonald, user: macdonald_andrew}
+  - {awarded: '2016-02-19', name: Jane Charlesworth, user: charlesworth_jane}
+  - {awarded: '2016-02-19', name: Cody Taylor, user: taylor_cody}
+  - {awarded: '2016-02-19', name: Catherine Olsson, user: olsson_catherine}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2093,6 +2113,7 @@ badges:
   - {awarded: '2016-02-11', name: Lukas Weber, user: weber_lukas}
   - {awarded: '2016-02-11', name: Alison Appling, user: appling_alison}
   - {awarded: '2016-02-12', name: Lindsay Carr, user: carr_lindsay}
+  - {awarded: '2016-02-19', name: Andrew Yan, user: yan_andrew}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2123,7 +2144,7 @@ flags:
   airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, gr, ie, il, in, it, nl, 'no',
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160218T144857Z
+timestamp: 20160223T172702Z
 workshops:
 - &id002
   - address: Blindernveien 31, Oslo
