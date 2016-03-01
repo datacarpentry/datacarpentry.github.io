@@ -8,6 +8,8 @@
   dropdown:
   - title: "About Us"
     url: "/about/"
+  - title: "Media"
+    url: "/media/"
   - title: "People"
     url: "/people/"
   - title: "Code of Conduct"

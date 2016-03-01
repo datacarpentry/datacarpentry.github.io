@@ -19,7 +19,7 @@ institutions. More information soon!
 ### What to expect if you're attending a workshop
 
 - Workshops are hands-on. Plan to bring your laptop and be prepared to work along!
-- We use the Software Carpentry [Code of Conduct](http://software-carpentry.org/conduct.html) and instructors and participants are required to follow this code to 
+- We use a [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/) and instructors and participants are required to follow this code to 
 ensure a friendly learning environment for all partipants. 
 - Workshops are typically two full days of focused instruction. Individual modules last 1.5
 to 3 hours and are separated by breaks or lunch. 

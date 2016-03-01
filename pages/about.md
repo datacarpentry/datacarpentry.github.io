@@ -71,3 +71,9 @@ Data Carpentry organization, and the NSF BIO Centers continue to be actively
 involved. 
 
 We are currently supported by a grant from the [Moore Foundation's](http://www.moore.org) [Data-Driven Discovery](https://www.moore.org/programs/science/data-driven-discovery) initiative.
+
+### References
+
+[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)  
+TK Teal, KA Cranston, H Lapp, E White, G Wilson, K Ram, A Pawlik  
+International Journal of Digital Curation 10 (1), 135-143

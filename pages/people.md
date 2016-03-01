@@ -30,5 +30,5 @@ Maneesha Sane
 <li>Aleksandra Pawlik, PhD, Training Lead, Software Sustainability Institute
 <li>Karthik Ram, PhD, rOpenSci co-founder, Berkeley Institute for Data Science Fellow
 <li>Ethan White, PhD, Associate Professor, University of Florida
-<li>Greg Wilson, PhD, Executive Director, Software Carpentry Foundation
+<li>Greg Wilson, PhD, Co-Founder and Director of Training, Software Carpentry Foundation
 </ul>
