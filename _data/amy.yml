@@ -1966,6 +1966,22 @@ badges:
   - {awarded: '2016-02-29', name: Benjamin Laken, user: laken_benjamin}
   - {awarded: '2016-02-29', name: Hannes Calitz, user: calitz_hannes}
   - {awarded: '2016-02-29', name: Louis Ranjard, user: ranjard_louis}
+  - {awarded: '2016-03-01', name: Andrew Davison, user: davison_andrew}
+  - {awarded: '2016-03-01', name: Alastair Droop, user: droop_alastair}
+  - {awarded: '2016-03-01', name: Bérénice Batut, user: batut_berenice}
+  - {awarded: '2016-03-01', name: Melissa Guzman, user: guzman_melissa}
+  - {awarded: '2016-03-01', name: Diana Marek, user: marek_diana}
+  - {awarded: '2016-03-01', name: Peter Hoyt, user: hoyt_peter}
+  - {awarded: '2016-03-01', name: Andres Diaz-Gil, user: diaz-gil_andres}
+  - {awarded: '2016-03-01', name: Stuart Mumford, user: mumford_stuart}
+  - {awarded: '2016-03-01', name: Sigrid Klerke, user: klerke_sigrid}
+  - {awarded: '2016-03-01', name: Loïc Estève, user: esteve_loic}
+  - {awarded: '2016-03-01', name: Mark Robinson, user: robinson_mark}
+  - {awarded: '2016-03-01', name: Tobias Borsdorff, user: borsdorff_tobias}
+  - {awarded: '2016-03-01', name: David Eyers, user: eyers_david}
+  - {awarded: '2016-03-01', name: Sebastian Schmeier, user: schmeier_sebastian}
+  - {awarded: '2016-03-01', name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {awarded: '2016-03-01', name: Beth Signal, user: signal_beth}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2055,7 +2071,7 @@ badges:
   - {awarded: '2013-09-15', name: Tracy Teal, user: teal_t}
   - {awarded: '2013-12-05', name: Luke Tweddle, user: tweddle_l}
   - {awarded: '2013-07-24', name: Todd Vision, user: vision_t}
-  - {awarded: '2013-09-19', name: Andrew Walker, user: walker_a}
+  - {awarded: '2013-09-19', name: Andrew Walker, user: walker_andrew}
   - {awarded: '2012-12-20', name: Ben Waugh, user: waugh_b}
   - {awarded: '2012-12-20', name: Ethan White, user: white_e}
   - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
@@ -2198,6 +2214,10 @@ badges:
   - {awarded: '2016-02-25', name: Vincenza Colonna, user: colonna_vincenza}
   - {awarded: '2016-02-25', name: Matthias Haeni, user: haeni_matthias}
   - {awarded: '2016-02-25', name: Frank Pennekamp, user: pennekamp_frank}
+  - {awarded: '2016-03-01', name: Diana Marek, user: marek_diana}
+  - {awarded: '2016-03-01', name: Mark Robinson, user: robinson_mark}
+  - {awarded: '2016-03-01', name: Tobias Borsdorff, user: borsdorff_tobias}
+  - {awarded: '2016-03-01', name: Christopher Hamm, user: hamm_christopher}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2228,7 +2248,7 @@ flags:
   airports: [au, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, ie, il, in, it, mx,
     nl, 'no', nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160301T104906Z
+timestamp: 20160303T042529Z
 workshops:
 - &id002
   - address: Louis Calder Memorial Library, Basement Room B001/B003, 1601 NW 10th
