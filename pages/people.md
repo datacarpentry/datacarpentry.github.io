@@ -25,7 +25,7 @@ Maneesha Sane
 <h4 id="sc">Steering Committee Members</h4>
 
 <ul>
-<li>Karen Cranston, PhD, Principle Investigator, Open Tree of Life 
+<li>Karen Cranston, PhD, Principal Investigator, Open Tree of Life 
 <li>Hilmar Lapp, Director of Informatics, Duke Center for Genomic and Computational Biology
 <li>Aleksandra Pawlik, PhD, Training Lead, Software Sustainability Institute
 <li>Karthik Ram, PhD, rOpenSci co-founder, Berkeley Institute for Data Science Fellow
