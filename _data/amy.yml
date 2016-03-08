@@ -2305,7 +2305,7 @@ flags:
   airports: [au, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, ie, il, in, it, mx,
     nl, 'no', nz, pl, ro, sa, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160308T201924Z
+timestamp: 20160308T211113Z
 workshops:
 - &id002
   - address: Berkeley, CA
@@ -2819,6 +2819,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Health Sciences Library Troup Learning Center G005G (http://www.libraries.uc.edu/hsl/about/directions.html)
+    contact: Kristen Burgess <kristen.burgess@uc.edu>
+    country: US
+    end: 2016-06-08
+    eventbrite_id: ''
+    humandate: Jun 07-08, 2016
+    latitude: 39.1387745
+    longitude: -84.5065134
+    slug: 2016-06-07-ucincinnati
+    start: 2016-06-07
+    tags:
+    - {name: DC}
+    url: https://qjcg.github.io/2016-06-07-ucincinnati/
+    venue: University of Cincinnati
   - address: 10 Center Dr, Bethesda, MD 20892
     contact: williams@cshl.edu
     country: US
