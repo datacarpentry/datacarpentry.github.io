@@ -12,7 +12,7 @@ amy :
 
 ## serve      : run a local server.
 serve : 
-	jekyll serve --config _config.yml,_config_dev.yml --verbose
+	jekyll serve --config _config.yml,_config_dev.yml
 
 ## site       : build files but do not run a server.
 site : 
