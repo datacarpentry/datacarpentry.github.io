@@ -16,6 +16,7 @@ airports:
   - {name: John Rugis, user: rugis_john}
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
   - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {name: Sebastian Schmeier, user: schmeier_sebastian}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
@@ -117,6 +118,7 @@ airports:
   - {name: Mary Piper, user: piper_mary}
   - {name: Tom Pollard, user: pollard_tom}
   - {name: Janet Riley, user: riley_janet}
+  - {name: Philip Rosenfield, user: rosenfield_phil}
   - {name: Michael Selik, user: selik_m}
   - {name: Genevieve Shattow, user: shattow_genevieve}
   - {name: Adam Freedman, user: freedman_adam}
@@ -628,6 +630,7 @@ airports:
   - {name: Sarah Stevens, user: stevens_sarah}
   - {name: Sarah Supp, user: supp_s}
   - {name: Paul Wilson, user: wilson_p}
+  - {name: Lindsay Carr, user: carr_lindsay}
   latitude: 43.139722
   longitude: -89.3375
   name: Madison, WI
@@ -729,6 +732,7 @@ airports:
   - {name: Karin Lagesen, user: lagesen_k}
   - {name: Lex Nederbragt, user: nederbragt_l}
   - {name: Arvind Sundaram, user: sundaram_arvind}
+  - {name: Halfdan Rydbeck, user: rydbeck_halfdan}
   - {name: Anne Claire Fouilloux, user: fouilloux_anne-claire}
   - {name: Marius Bjørnstad, user: bjornstad_marius}
   latitude: 60.193889
@@ -941,6 +945,7 @@ airports:
   - {name: Joshua Madin, user: madin_j}
   - {name: Ben Marwick, user: marwick_ben}
   - {name: Dan Warren, user: warren_dan}
+  - {name: Beth Signal, user: signal_beth}
   - {name: Louis Ranjard, user: ranjard_louis}
   latitude: -33.946111
   longitude: 151.177222
@@ -1125,6 +1130,7 @@ airports:
   - {name: David Dotson, user: dotson_david}
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Ryan Middleton, user: middleton_ryan}
+  - {name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
   - {name: Rachel Schwartz, user: schwartz_rachel}
   - {name: Stevan Earl, user: earl_stevan}
   - {name: Arron Shiffer, user: shiffer_arron}
@@ -2002,7 +2008,7 @@ badges:
   - {awarded: '2016-02-25', name: David Dotson, user: dotson_david}
   - {awarded: '2016-02-29', name: Dana Brunson, user: brunson_dana}
   - {awarded: '2016-02-29', name: Joseph Stachelek, user: stachelek_joseph}
-  - {awarded: '2016-02-29', name: Phil Rosenfield, user: rosenfield_phil}
+  - {awarded: '2016-02-29', name: Philip Rosenfield, user: rosenfield_phil}
   - {awarded: '2016-02-29', name: David Ketcheson, user: ketcheson_david}
   - {awarded: '2016-02-29', name: Daren Card, user: card_daren}
   - {awarded: '2016-02-29', name: Avishek Kumar, user: kumar_avishek}
@@ -2027,7 +2033,6 @@ badges:
   - {awarded: '2016-03-01', name: Sebastian Schmeier, user: schmeier_sebastian}
   - {awarded: '2016-03-01', name: Wolfgang Hayek, user: hayek_wolfgang}
   - {awarded: '2016-03-01', name: Beth Signal, user: signal_beth}
-  - {awarded: '2016-03-04', name: Nicky Nicolson, user: nicolson_nicky}
   - {awarded: '2016-03-04', name: Mark Dixon, user: dixon_mark}
   - {awarded: '2016-03-04', name: William Pitchers, user: pitchers_w}
   - {awarded: '2016-03-04', name: Halfdan Rydbeck, user: rydbeck_halfdan}
@@ -2035,7 +2040,7 @@ badges:
   - {awarded: '2016-03-08', name: Krzysztof Mędrela, user: mdrela_krzysztof}
   - {awarded: '2016-03-08', name: Brian Stucky, user: stucky_brian}
   - {awarded: '2016-03-08', name: Moritz Neeb, user: neeb_moritz}
-  - {awarded: '2016-03-08', name: Seyed Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
+  - {awarded: '2016-03-08', name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
   - {awarded: '2016-03-08', name: Eric Bruger, user: bruger_e}
   - {awarded: '2016-03-08', name: Elliott Sales de Andrade, user: sales_elliott}
 - name: member
@@ -2275,6 +2280,8 @@ badges:
   - {awarded: '2016-03-01', name: Tobias Borsdorff, user: borsdorff_tobias}
   - {awarded: '2016-03-01', name: Christopher Hamm, user: hamm_christopher}
   - {awarded: '2016-03-04', name: Michelle Craft, user: craft_michelle}
+  - {awarded: '2016-03-09', name: Moritz Neeb, user: neeb_moritz}
+  - {awarded: '2016-03-09', name: Nicky Nicolson, user: nicolson_nicky}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2305,9 +2312,52 @@ flags:
   airports: [au, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, ie, il, in, it, mx,
     nl, 'no', nz, pl, ro, sa, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160308T211113Z
+timestamp: 20160310T134206Z
 workshops:
 - &id002
+  - address: LaFortune Student Center
+    contact: francois.michonneau@gmail.com
+    country: us
+    end: 2016-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2016
+    latitude: 41.7019183
+    longitude: -86.2376697
+    slug: 2016-03-07-notredame
+    start: 2016-03-07
+    tags:
+    - {name: DC}
+    url: https://fmichonneau.github.io/2016-03-07-notre-dame/
+    venue: Notre Dame
+  - address: 100 Connecticut Street
+    contact: carolyn.mills@uconn.edu
+    country: us
+    end: 2016-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2016
+    latitude: 41.808477
+    longitude: -72.254259
+    slug: 2016-03-07-uconn
+    start: 2016-03-07
+    tags:
+    - {name: DC}
+    url: https://jrherr.github.io/2016-03-07-uconn/
+    venue: University of Connecticut
+  - address: Boston College, Fulton Bldg. (Room 245), Chestnut Hill, MA 02467-3810
+    contact: iglpdc+bc@gmail.com
+    country: us
+    end: 2016-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2016
+    latitude: 42.336529
+    longitude: -71.169151
+    slug: 2016-03-07-boston
+    start: 2016-03-07
+    tags:
+    - {name: DC}
+    url: https://iglpdc.github.io/2016-03-07-bc/
+    venue: Boston College Libraries, National Networks of Libraries of Medicine, New
+      England Region
   - address: Berkeley, CA
     contact: Erica Clites <eclites@berkeley.edu>
     country: us
@@ -2847,48 +2897,34 @@ workshops:
     - {name: DC}
     url: datacarpentry.github.io/2016-05-26-NIH/
     venue: National Institutes of Health
-  - address: LaFortune Student Center
-    contact: francois.michonneau@gmail.com
-    country: US
-    end: 2016-03-08
+  - address: Kristine Bonnevies Hus, room 2621, Blindernveien 31, 0851 Oslo. Entrance
+      from Moltke Moes Road.
+    contact: arnstein.orten@geo.uio.no
+    country: 'NO'
+    end: 2016-03-16
     eventbrite_id: ''
-    humandate: Mar 07-08, 2016
-    latitude: 41.7019183
-    longitude: -86.2376697
-    slug: 2016-03-07-notredame
-    start: 2016-03-07
+    humandate: Mar 15-16, 2016
+    latitude: 59.938175
+    longitude: 10.722441
+    slug: 2016-03-15-OSLOdataGeo
+    start: 2016-03-15
     tags:
     - {name: DC}
-    url: https://fmichonneau.github.io/2016-03-07-notre-dame/
-    venue: Notre Dame
-  - address: 100 Connecticut Street
-    contact: carolyn.mills@uconn.edu
-    country: US
-    end: 2016-03-08
+    url: https://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/
+    venue: University of Oslo
+  - address: Niels Henrik Abels hus, Moltke Moes vei 35, Oslo
+    contact: organizers@swcarpentry.uio.no
+    country: 'NO'
+    end: 2016-03-15
     eventbrite_id: ''
-    humandate: Mar 07-08, 2016
-    latitude: 41.808477
-    longitude: -72.254259
-    slug: 2016-03-07-uconn
-    start: 2016-03-07
+    humandate: Mar 15-15, 2016
+    latitude: 59.9396253
+    longitude: 10.7210814
+    slug: 2016-03-15-Oslo-data-bio
+    start: 2016-03-15
     tags:
     - {name: DC}
-    url: https://jrherr.github.io/2016-03-07-uconn/
-    venue: University of Connecticut
-  - address: Boston College, Fulton Bldg. (Room 245), Chestnut Hill, MA 02467-3810
-    contact: iglpdc+bc@gmail.com
-    country: US
-    end: 2016-03-08
-    eventbrite_id: ''
-    humandate: Mar 07-08, 2016
-    latitude: 42.336529
-    longitude: -71.169151
-    slug: 2016-03-07-boston
-    start: 2016-03-07
-    tags:
-    - {name: DC}
-    url: https://iglpdc.github.io/2016-03-07-bc/
-    venue: Boston College Libraries, National Networks of Libraries of Medicine, New
-      England Region
+    url: https://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/
+    venue: University of Oslo
 workshops_current: *id001
 workshops_past: *id002
