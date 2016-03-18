@@ -25,8 +25,9 @@ travel expenses for the two instructors.
 
 **Workshop Administration Fee:** $2500 US  
 *This is the fee is for non-profit organizations, such as universities and
-government labs. If you are a for-profit organization, such as a company, and are interested in a workshop, please [get in touch](mailto:admin@datacarpentry.org)*
-Partial or full waivers for Fees will be considered on a needs basis.
+government labs. If you are a for-profit organization, such as a company, and are interested in a workshop, please [get in touch](mailto:admin@datacarpentry.org).*
+
+Partial or full waivers for fees will be considered on an as-needed basis.
 
 
 
