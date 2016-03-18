@@ -30,8 +30,8 @@ This course teaches the pedagogy of instructing and provides hands-on opportunit
 
 2. **Complete the Data Carpentry specific training**
     - Complete a guided teaching practice for one Data Carpentry lesson
-    - Submit a new exercise and pass a 5 minute teaching practicum for that lesson
-    - Attend a 1 hour on-boarding webinar that provides a general overview and lets you ask any questions you might have
+    - [Submit a new exercise](/instructor-checkout-exercises/) and pass a 5 minute teaching practicum for that lesson
+
 
 <!--
 If you are going through instructor training and need more information, please see [information]() in the [For Instructors]() section.

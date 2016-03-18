@@ -18,17 +18,13 @@
     url: "/governance/"
 
 - title: "Workshops"
-  url: "/workshops-offered/"
+  url: "/lessons/"
   side: left
   dropdown:
   - title: "Host a Workshop"
     url: "/workshops-host/"
   - title: "Attend a Workshop"
     url: "/workshops-attend/"
-  - title: "Workshops Types"
-    url: "/workshops-offered/"
-  - title: "Workshops under Development"
-    url: "/workshops-development"
   - title: "Past Workshops"
     url: "/workshops-past"
   - title: "Upcoming Workshops"
