@@ -48,16 +48,13 @@ have the skills to teach
 introductory R, Python or SQL and demonstrated teaching experience as a Software
 Carpentry instructor or in another capacity, we would love to have you as an instructor!
 
-If you want to also be a Data Carpentry instructor, you can go through the Fast Track program. If you missed the November opportunity, you can still apply by **February 15, 2016** and we'll let you know the status of your application by February 29th.
+If you want to also be a Data Carpentry instructor, you can go through the Fast Track program. If you missed the November opportunity, you can still apply and go through instructor onboarding. 
+
 
 - See more information in this blog post: [http://www.datacarpentry.org/blog/fasttrack/](http://www.datacarpentry.org/blog/fasttrack/)  
 - Fill out the FastTrack application:  
  [http://www.datacarpentry.org/fasttrack/](http://www.datacarpentry.org/fasttrack/)  
-
-
-
-We have run our first round of the Fast Track program and are currently conducting onboarding meetings for those who applied.  Information and meeting times are available on the etherpad:  
-[http://pad.software-carpentry.org/data-carpentry-instructors](http://pad.software-carpentry.org/data-carpentry-instructors)  
+- Sign up for an upcoming onboarding meeting on [http://pad.software-carpentry.org/data-carpentry-instructors](http://pad.software-carpentry.org/data-carpentry-instructors)  
 
 We are interested in instructors in any domain of research, and are particularly
 working to grow our instructor pool in social sciences and digital humanities.
