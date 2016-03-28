@@ -15,7 +15,6 @@ airports:
   - {name: Tim McNamara, user: mcnamara_tim}
   - {name: John Rugis, user: rugis_john}
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
-  - {name: Wolfgang Hayek, user: hayek_wolfgang}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
   latitude: -37.008056
   longitude: 174.791667
@@ -77,7 +76,7 @@ airports:
   name: Bangkok
 - country: in
   instructors:
-  - {name: SVAKSHA -, user: svaksha}
+  - {name: Svaksha -, user: svaksha}
   latitude: 12.949722
   longitude: 77.668056
   name: Bangalore
@@ -92,14 +91,14 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
   - {name: Sam Hames, user: hames_sam}
-  - {name: Paula Andrea Andrea Martinez, user: martinez_paula}
+  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Amanda Miotto, user: miotto_amanda}
   - {name: Leah Roberts, user: roberts_leah}
   - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
   - {name: Darya Vanichkina, user: vanichkina_darya}
   - {name: Belinda Weaver, user: weaver_belinda}
   - {name: Heidi Perrett, user: perrett_heidi}
-  - {name: Nouri BEN ZAKOUR, user: ben-zakour_nouri}
+  - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {name: Kim Keogh, user: keogh_kim}
   - {name: Anup Shah, user: shah_anup}
   latitude: -27.384167
@@ -207,7 +206,6 @@ airports:
   - {name: Adrianna Pińska, user: pinska_adrianna}
   - {name: Anelda van der Walt, user: van-der-walt_anelda}
   - {name: Peter van Heusden, user: van-heusden_peter}
-  - {name: Stefan van der Walt, user: vanderwalt_s}
   - {name: Raissa Philibert, user: philibert_raissa}
   latitude: -33.964722
   longitude: 18.601667
@@ -283,6 +281,7 @@ airports:
   - {name: Jiarong Guo, user: guo_jiarong}
   - {name: Luiz Irber, user: irber_luiz}
   - {name: Ben Johnson, user: johnson_ben}
+  - {name: Will Pitchers, user: pitchers_w}
   - {name: Marian Schmidt, user: schmidt_marian}
   - {name: Leigh Sheneman, user: sheneman_leigh}
   - {name: Byron Smith, user: smith_byron}
@@ -369,6 +368,7 @@ airports:
   instructors:
   - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek_zbigniew}
   - {name: Adam Thomas, user: thomas_adam}
+  - {name: Daniel Wheeler, user: wheeler_daniel}
   - {name: Lynn Young, user: young_lynn}
   latitude: 38.944444
   longitude: -77.455556
@@ -630,7 +630,9 @@ airports:
   - {name: Sarah Stevens, user: stevens_sarah}
   - {name: Sarah Supp, user: supp_s}
   - {name: Paul Wilson, user: wilson_p}
+  - {name: Laura DeCicco, user: decicco_laura}
   - {name: Lindsay Carr, user: carr_lindsay}
+  - {name: Michelle Craft, user: craft_michelle}
   latitude: 43.139722
   longitude: -89.3375
   name: Madison, WI
@@ -685,6 +687,7 @@ airports:
   - {name: Geoff Oxberry, user: oxberry_g}
   - {name: Fernando Perez, user: perez_f}
   - {name: Matt Terry, user: terry_m}
+  - {name: Stéfan van der Walt, user: vanderwalt_s}
   - {name: Donny Winston, user: winston_donald}
   - {name: Max Gerlock, user: gerlock_max}
   - {name: Harry Bachrach, user: bachrach_harry}
@@ -715,6 +718,7 @@ airports:
   instructors:
   - {name: Camille Avestruz, user: avestruz_camille}
   - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Jackie Milhans, user: milhans_jackie}
   latitude: 41.979444
   longitude: -87.904444
   name: Chicago O'Hare, IL
@@ -1033,7 +1037,7 @@ airports:
   - {name: Timothee Poisot, user: poisot_t}
   - {name: Francoise Provencher, user: provencher_francoise}
   - {name: Pier-Luc St-Onge, user: st-onge_pier-luc}
-  - {name: Jean-François St-Pierre, user: Jean-François St-Pierre}
+  - {name: Jean-François St-Pierre, user: st-pierre_jean-francois}
   latitude: 45.468056
   longitude: -73.741389
   name: Montreal
@@ -1143,6 +1147,7 @@ airports:
   - {name: Mik Black, user: black_mik}
   - {name: James Boocock, user: boocock_james}
   - {name: Tom Kelly, user: kelly_tom}
+  - {name: David Eyers, user: eyers_david}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
@@ -1297,6 +1302,7 @@ airports:
 - country: nl
   instructors:
   - {name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {name: Philip Lijnzaad, user: lijnzaad_philip}
   - {name: Joona Lehtomäki, user: lehtomaki_joona}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {name: Edwin van der Helm, user: van-der-helm_edwin}
@@ -1389,6 +1395,7 @@ airports:
 - country: ee
   instructors:
   - {name: Dmytro Fishman, user: fishman_dmytro}
+  - {name: Elena Sügis, user: sugis_elena}
   latitude: 59.416582
   longitude: 24.80074
   name: Tallinn Airport
@@ -1428,6 +1435,44 @@ airports:
   latitude: 26.683696
   longitude: -80.092323
   name: Palm Beach International Airport
+- country: nz
+  instructors:
+  - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  latitude: -41.328932
+  longitude: 174.808049
+  name: Wellington International Airport
+- country: au
+  instructors:
+  - {name: David Beitey, user: beitey_david}
+  - {name: Steve Vandervalk, user: vandervalk_steven}
+  - {name: Jay van Schyndel, user: van-schyndel_jay}
+  latitude: -19.248454
+  longitude: 146.766907
+  name: Townsville Airport
+- country: it
+  instructors:
+  - {name: Giuseppe Profiti, user: profiti_giuseppe}
+  latitude: 44.536189
+  longitude: 11.289168
+  name: Bologna Guglielmo Marconi Airport
+- country: be
+  instructors:
+  - {name: Christof De Bo, user: debo_christof}
+  latitude: 50.902447
+  longitude: 4.487055
+  name: Brussels Airport
+- country: es
+  instructors:
+  - {name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
+  latitude: 43.300854
+  longitude: -2.907575
+  name: Bilbao Airport
+- country: us
+  instructors:
+  - {name: Alejandro Mantero, user: mantero_alejandro}
+  latitude: 25.793914
+  longitude: -80.283806
+  name: Miami International Airport
 badges:
 - name: creator
   persons:
@@ -1644,7 +1689,7 @@ badges:
   - {awarded: '2014-11-09', name: Dan MacLean, user: maclean_dan}
   - {awarded: '2015-02-27', name: Joshua Madin, user: madin_j}
   - {awarded: '2015-03-15', name: Tamer Mansour, user: mansour_tamer}
-  - {awarded: '2015-02-28', name: Paula Andrea Andrea Martinez, user: martinez_paula}
+  - {awarded: '2015-02-28', name: Paula Andrea Martinez, user: martinez_paula}
   - {awarded: '2015-03-05', name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {awarded: '2015-03-25', name: Daniel McDonald, user: mcdonald_daniel}
   - {awarded: '2013-07-20', name: Steve McGough, user: mcgough_s}
@@ -1746,7 +1791,7 @@ badges:
   - {awarded: '2013-11-17', name: Shoaib Sufi, user: sufi_s}
   - {awarded: '2015-02-28', name: Michael Sumner, user: sumner_mike}
   - {awarded: '2013-07-20', name: Sarah Supp, user: supp_s}
-  - {awarded: '2014-09-18', name: SVAKSHA -, user: svaksha}
+  - {awarded: '2014-09-18', name: Svaksha -, user: svaksha}
   - {awarded: '2013-12-05', name: Gayathri Swaminathan, user: swaminathan_gayathri}
   - {awarded: '2014-05-09', name: Bradley Taber-Thomas, user: taber-thomas_bradley}
   - {awarded: '2014-10-03', name: Scott Talafuse, user: talafuse_scott}
@@ -1989,7 +2034,7 @@ badges:
   - {awarded: '2016-02-12', name: Thea Van Rossum, user: van-rossum_thea}
   - {awarded: '2016-02-12', name: Sean Aubin, user: aubin_sean}
   - {awarded: '2016-02-12', name: Tomomi Sunayama, user: sunayama_tomomi}
-  - {awarded: '2016-02-17', name: Nouri BEN ZAKOUR, user: ben-zakour_nouri}
+  - {awarded: '2016-02-17', name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {awarded: '2016-02-17', name: Leah Roberts, user: roberts_leah}
   - {awarded: '2016-02-17', name: Selene L. Fernandez-Valverde, user: fernandez-valverde_selene}
   - {awarded: '2016-02-17', name: Anup Shah, user: shah_anup}
@@ -2034,15 +2079,41 @@ badges:
   - {awarded: '2016-03-01', name: Wolfgang Hayek, user: hayek_wolfgang}
   - {awarded: '2016-03-01', name: Beth Signal, user: signal_beth}
   - {awarded: '2016-03-04', name: Mark Dixon, user: dixon_mark}
-  - {awarded: '2016-03-04', name: William Pitchers, user: pitchers_w}
+  - {awarded: '2016-03-04', name: Will Pitchers, user: pitchers_w}
   - {awarded: '2016-03-04', name: Halfdan Rydbeck, user: rydbeck_halfdan}
   - {awarded: '2016-03-04', name: Sarah Meister, user: meister_sarah}
-  - {awarded: '2016-03-08', name: Krzysztof Mędrela, user: mdrela_krzysztof}
+  - {awarded: '2016-03-08', name: Krzysztof Mędrela, user: medrela_krzysztof}
   - {awarded: '2016-03-08', name: Brian Stucky, user: stucky_brian}
   - {awarded: '2016-03-08', name: Moritz Neeb, user: neeb_moritz}
   - {awarded: '2016-03-08', name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
   - {awarded: '2016-03-08', name: Eric Bruger, user: bruger_e}
   - {awarded: '2016-03-08', name: Elliott Sales de Andrade, user: sales_elliott}
+  - {awarded: '2016-03-15', name: Daniel Baird, user: baird_daniel}
+  - {awarded: '2016-03-15', name: Steve Vandervalk, user: vandervalk_steven}
+  - {awarded: '2016-03-15', name: Jay van Schyndel, user: van-schyndel_jay}
+  - {awarded: '2016-03-15', name: David Beitey, user: beitey_david}
+  - {awarded: '2016-03-15', name: Matthias Liffers, user: liffers_matthias}
+  - {awarded: '2016-03-15', name: Jackie Milhans, user: milhans_jackie}
+  - {awarded: '2016-03-15', name: Lindsay Coome, user: coome_lindsay}
+  - {awarded: '2016-03-15', name: Alejandro Mantero, user: mantero_alejandro}
+  - {awarded: '2016-03-15', name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
+  - {awarded: '2016-03-15', name: Daniel Wheeler, user: wheeler_daniel}
+  - {awarded: '2016-03-15', name: Stéfan van der Walt, user: vanderwalt_s}
+  - {awarded: '2016-03-15', name: Giuseppe Profiti, user: profiti_giuseppe}
+  - {awarded: '2016-03-15', name: Christof De Bo, user: debo_christof}
+  - {awarded: '2016-03-15', name: Philip Lijnzaad, user: lijnzaad_philip}
+  - {awarded: '2016-03-16', name: Martin Heroux, user: heroux_martin}
+  - {awarded: '2016-03-16', name: Peter Li, user: li_peter}
+  - {awarded: '2016-03-16', name: Jared Berghold, user: berghold_jared}
+  - {awarded: '2016-03-16', name: Ghulam Murtaza, user: murtaza_ghulam}
+  - {awarded: '2016-03-21', name: Jason Bell, user: bell_jason}
+  - {awarded: '2016-03-22', name: Matthew Brett, user: brett_matthew}
+  - {awarded: '2016-03-22', name: Jon Badalamenti, user: badalamenti_jon}
+  - {awarded: '2016-03-22', name: Keith Ma, user: ma_keith}
+  - {awarded: '2016-03-22', name: Henry Senyondo, user: senyondo_henry}
+  - {awarded: '2016-03-23', name: Rochelle Terman, user: terman_rochelle}
+  - {awarded: '2016-03-27', name: Natalia Osiecka, user: osiecka_natalia}
+  - {awarded: '2016-03-27', name: Dave Williams, user: williams_dave}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2189,7 +2260,7 @@ badges:
   - {awarded: '2016-01-27', name: Neem Serra, user: serra_neem}
   - {awarded: '2016-01-27', name: Nichole Bennett, user: bennett_n}
   - {awarded: '2016-01-27', name: Filipe Fernandes, user: fernandes_filipe}
-  - {awarded: '2016-01-27', name: Paula Andrea Andrea Martinez, user: martinez_paula}
+  - {awarded: '2016-01-27', name: Paula Andrea Martinez, user: martinez_paula}
   - {awarded: '2016-01-27', name: Pat Schloss, user: schloss_pat}
   - {awarded: '2016-01-27', name: Raniere Silva, user: silva_raniere}
   - {awarded: '2016-01-27', name: Ross Mounce, user: mounce_ross}
@@ -2244,7 +2315,7 @@ badges:
   - {awarded: '2016-01-30', name: Matthew Collins, user: collins_matthew}
   - {awarded: '2016-01-30', name: Mike Smorul, user: smorul_mike}
   - {awarded: '2016-01-30', name: Noam Ross, user: ross_noam}
-  - {awarded: '2016-01-30', name: William Pitchers, user: pitchers_w}
+  - {awarded: '2016-01-30', name: Will Pitchers, user: pitchers_w}
   - {awarded: '2016-01-30', name: Sean Pue, user: pue_s}
   - {awarded: '2016-01-30', name: Stephen Turner, user: turner_s}
   - {awarded: '2016-01-30', name: Sheldon McKay, user: mckay_sheldon}
@@ -2282,6 +2353,13 @@ badges:
   - {awarded: '2016-03-04', name: Michelle Craft, user: craft_michelle}
   - {awarded: '2016-03-09', name: Moritz Neeb, user: neeb_moritz}
   - {awarded: '2016-03-09', name: Nicky Nicolson, user: nicolson_nicky}
+  - {awarded: '2016-03-15', name: Laura DeCicco, user: decicco_laura}
+  - {awarded: '2016-03-16', name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
+  - {awarded: '2016-03-15', name: Philip Lijnzaad, user: lijnzaad_philip}
+  - {awarded: '2016-03-15', name: Christof De Bo, user: debo_christof}
+  - {awarded: '2016-03-16', name: Sebastian Schmeier, user: schmeier_sebastian}
+  - {awarded: '2016-03-22', name: Allison Jai O'Dell, user: odell_allison-jai}
+  - {awarded: '2016-03-08', name: Emily Read, user: read_emily}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2302,19 +2380,62 @@ badges:
   - {awarded: '2016-02-03', name: Ashwin Trikuta Srinath, user: srinath_ashwin}
   - {awarded: '2016-02-03', name: Tom Wright, user: wright_thomas}
   - {awarded: '2016-02-03', name: Naupaka Zimmerman, user: zimmerman_naupaka}
+  - {awarded: '2016-03-17', name: Erik Bray, user: bray_e}
+  - {awarded: '2016-03-17', name: Harriet Dashnow, user: dashnow_harriet}
+  - {awarded: '2016-03-17', name: Daniel Chen, user: chen_daniel}
+  - {awarded: '2016-03-03', name: Christie Bahlai, user: bahlai_christie}
+  - {awarded: '2016-03-03', name: Deborah Paul, user: paul_deborah}
+  - {awarded: '2016-03-03', name: Cam Macdonell, user: macdonell_cam}
+  - {awarded: '2016-03-03', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2016-03-03', name: Timothee Poisot, user: poisot_t}
+  - {awarded: '2016-03-03', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2016-03-03', name: Auriel Fournier, user: fournier_auriel}
+  - {awarded: '2016-03-03', name: John Gosset, user: gosset_john}
+  - {awarded: '2016-03-03', name: April Wright, user: wright_april}
+  - {awarded: '2016-03-03', name: Mateusz Kuzak, user: kuzak_mateusz}
 - name: trainer
   persons:
   - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
   - {awarded: '2016-02-03', name: Aleksandra Pawlik, user: pawlik_a}
   - {awarded: '2016-02-03', name: Tracy Teal, user: teal_t}
   - {awarded: '2016-02-04', name: Stephen Crouch, user: crouch_s}
+  - {awarded: '2016-03-16', name: Fiona Tweedie, user: tweedie_fiona}
 flags:
-  airports: [au, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, ie, il, in, it, mx,
-    nl, 'no', nz, pl, ro, sa, se, sg, th, us, ve, za]
+  airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, ie, il, in, it,
+    mx, nl, 'no', nz, pl, ro, sa, se, sg, th, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160310T135250Z
+timestamp: 20160328T185350Z
 workshops:
 - &id002
+  - address: Kristine Bonnevies Hus, room 2621, Blindernveien 31, 0851 Oslo. Entrance
+      from Moltke Moes Road.
+    contact: arnstein.orten@geo.uio.no
+    country: 'no'
+    end: 2016-03-16
+    eventbrite_id: ''
+    humandate: Mar 15-16, 2016
+    latitude: 59.938175
+    longitude: 10.722441
+    slug: 2016-03-15-OSLOdataGeo
+    start: 2016-03-15
+    tags:
+    - {name: DC}
+    url: https://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/
+    venue: University of Oslo
+  - address: Niels Henrik Abels hus, Moltke Moes vei 35, Oslo
+    contact: organizers@swcarpentry.uio.no
+    country: 'no'
+    end: 2016-03-15
+    eventbrite_id: ''
+    humandate: Mar 15-15, 2016
+    latitude: 59.9396253
+    longitude: 10.7210814
+    slug: 2016-03-15-Oslo-data-bio
+    start: 2016-03-15
+    tags:
+    - {name: DC}
+    url: https://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/
+    venue: University of Oslo
   - address: LaFortune Student Center
     contact: francois.michonneau@gmail.com
     country: us
@@ -2897,34 +3018,5 @@ workshops:
     - {name: DC}
     url: datacarpentry.github.io/2016-05-26-NIH/
     venue: National Institutes of Health
-  - address: Kristine Bonnevies Hus, room 2621, Blindernveien 31, 0851 Oslo. Entrance
-      from Moltke Moes Road.
-    contact: arnstein.orten@geo.uio.no
-    country: 'NO'
-    end: 2016-03-16
-    eventbrite_id: ''
-    humandate: Mar 15-16, 2016
-    latitude: 59.938175
-    longitude: 10.722441
-    slug: 2016-03-15-OSLOdataGeo
-    start: 2016-03-15
-    tags:
-    - {name: DC}
-    url: https://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/
-    venue: University of Oslo
-  - address: Niels Henrik Abels hus, Moltke Moes vei 35, Oslo
-    contact: organizers@swcarpentry.uio.no
-    country: 'NO'
-    end: 2016-03-15
-    eventbrite_id: ''
-    humandate: Mar 15-15, 2016
-    latitude: 59.9396253
-    longitude: 10.7210814
-    slug: 2016-03-15-Oslo-data-bio
-    start: 2016-03-15
-    tags:
-    - {name: DC}
-    url: https://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/
-    venue: University of Oslo
 workshops_current: *id001
 workshops_past: *id002
