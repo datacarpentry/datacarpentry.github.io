@@ -21,8 +21,8 @@ and support. Their mission is to teach researchers basic lab skills for scientif
 
 ### Gordon & Betty Moore Foundation
 
-We are extremely grateful for the support of the [Gordon & Betty Moore Foundation](http://moore.org) Data-Driven Discovery program. We have received 
-a grant as a part of their efforts to support the [Practice](https://www.moore.org/programs/science/data-driven-discovery/ddd-practices) of data driven discovery. 
+We are extremely grateful for the support of the [Gordon & Betty Moore Foundation](http://moore.org) Data-Driven Discovery program, through grant #4855 to Data Carpentry via NumFOCUS. This 
+grant is a part of their efforts to support the [Practice](https://www.moore.org/programs/science/data-driven-discovery/ddd-practices) of data driven discovery. 
 
 With more than $6.4 billion in assets, the Gordon and Betty Moore Foundation is the ninth largest foundation in the United States. The Science Program accounts for approximately 40 percent of the foundation’s annual grant making, making the foundation one of the largest private funders of science nationwide.
 
