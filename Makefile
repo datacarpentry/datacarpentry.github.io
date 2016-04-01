@@ -1,4 +1,4 @@
-PY=python3
+PY=/anaconda/bin/python3.5m
 
 all : commands
 
