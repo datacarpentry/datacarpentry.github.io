@@ -20,5 +20,7 @@ With the support of the Gordon and Betty Moore Foundation, we now have the oppor
 Mainly though, we're looking for someone who
 is passionate about education and training and its ability to empower researchers to conduct data-driven research. We expect applicants to come from a wide range of backgrounds and disciplines and encourage all applications. If you have any questions about the posting, please don't hesitate to contact us at [jobs@datacarpentry.org](mailto:jobs@datacarpentry.org).  We will begin reviewing applications **December 18, 2015** and the posting will remain open until filled.
 
+**Update: We are no longer accepting applications for this position**
+
 For full details and application information, please see the posting:  
  [http://www.datacarpentry.org/jobs/](http://www.datacarpentry.org/jobs/)
