@@ -16,6 +16,7 @@ airports:
   - {name: John Rugis, user: rugis_john}
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
+  - {name: Markus Mueller, user: mueller_markus}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
