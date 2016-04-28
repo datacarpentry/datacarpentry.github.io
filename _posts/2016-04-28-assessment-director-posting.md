@@ -16,7 +16,7 @@ Data Carpentry seeks to hire a full-time staff member to direct its assessment a
 This person will design, implement, monitor, analyse, and report on a comprehensive system of metrics
 to help the Data Carpentry project and its sibling organization, Software Carpentry,
 evaluate the impact and effectiveness of the training they offer,
-to both learners and instructors. 
+to both learners and instructors.
 
 As the [Deputy Director of Assessment](http://www.datacarpentry.org/jobs/),
 you will have primary responsibility for developing methods and standards for the evaluation of all aspects of Data Carpentry's training
@@ -25,7 +25,7 @@ You will also work with the Software Carpentry Foundation to build evaluation of
 including effectiveness of instructor training and mentorship
 and the longer term impacts of instructor training on career development for instructors.
 You will also have the opportunity to collaborate with the training coordinators from related organizations
-to coordinate strategies and initiatives. 
+to coordinate strategies and initiatives.
 
 For details,
 including a full job description and the application procedure,

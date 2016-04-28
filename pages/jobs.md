@@ -12,7 +12,7 @@ Data Carpentry seeks to hire a full-time staff member to direct its assessment a
 This person will design, implement, monitor, analyse, and report on a comprehensive system of metrics
 to help the Data Carpentry project and its sibling organization, Software Carpentry,
 evaluate the impact and effectiveness of the training they offer,
-to both learners and instructors. 
+to both learners and instructors.
 
 Data Carpentry is a not-for-profit organization developing and teaching workshops
 on fundamental data skills needed to conduct research.
@@ -22,14 +22,14 @@ Data Carpentry lessons are intentionally domain specific, and span the life, phy
 Data Carpentry workshops create an environment friendly to learners who have little to no prior computational experience,
 and are designed to empower researchers to apply the skills learned to data driven discovery in their own research.
 
-The Assessment Director position is initially funded for 2 years through a grant from the Gordon and Betty Moore Foundation.
+The Deputy Director of Assessment position is initially funded for 2 years through a grant from the Gordon and Betty Moore Foundation.
 The incumbent will be hired and paid as a contractor of NumFOCUS,
 Data Carpentry’s fiscal sponsor and grant funds administrator.
 Review of applications will begin May 20, 2016, and the position will remain open until filled.
 
-### Job Description 
+### Job Description
 
-As the Director of Assessment,
+As the Deputy Director of Assessment,
 you will have primary responsibility for developing methods and standards for the evaluation of all aspects of Data Carpentry's training
 including relevance of curriculum, learning experience, long-term adoption of tools and skills and impact on productivity and reproducibility.
 You will also work with the Software Carpentry Foundation to build evaluation of the instructor development program,
@@ -37,11 +37,11 @@ including effectiveness of instructor training and mentorship
 and the longer term impacts of instructor training on career development for instructors.
 You will also have the opportunity to collaborate with the training coordinators from related organizations,
 such as ELIXIR, GOBLET, and BD2K,
-to coordinate strategies and initiatives. 
+to coordinate strategies and initiatives.
 
 The role will involve occasional travel in Europe and North America, and possibly elsewhere.
 The role reports to the Executive Director of Data Carpentry
-and will collaborate closely with both the Executive and Associate Directors. 
+and will collaborate closely with both the Executive and Associate Directors.
 
 ### Qualifications
 
