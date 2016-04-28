@@ -18,10 +18,10 @@
     url: "/governance/"
 
 - title: "Workshops"
-  url: "/lessons/"
+  url: "/workshops/"
   side: left
   dropdown:
-  - title: "Host a Workshop"
+  - title: "Request a Workshop"
     url: "/workshops-host/"
   - title: "Attend a Workshop"
     url: "/workshops-attend/"
