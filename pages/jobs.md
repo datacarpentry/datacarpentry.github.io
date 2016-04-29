@@ -57,6 +57,13 @@ and be able to work well as part of a distributed team.
 
 Salary will be competitive and commensurate with experience.
 
+### Location
+
+Data Carpentry is a distributed organization,
+so the Deputy Director may work from any location with reliable Internet
+(though for logistical reasons,
+we would prefer someone resident in a North American-compatible timezone).
+
 ### Applications
 
 To apply,
