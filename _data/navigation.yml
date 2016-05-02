@@ -35,6 +35,8 @@
   url: "/involved/"
   side: left
   dropdown:
+  - title: "Become a Partner"
+    url: "/partnerships/"
   - title: "Discussion Forum"
     url: "http://discuss.datacarpentry.org"
   - title: "Help Develop Lessons"
@@ -58,6 +60,13 @@
     url: "/blog/"
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+- title: For instructors
+  url: "/for-instructors/"
+  side: left
+  dropdown:
+  - title: Self-organized workshops
+    url: "/self-organized-workshops/"
 
 - title: "Sponsors"
   url: "/sponsors/"
