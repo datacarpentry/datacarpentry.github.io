@@ -21,6 +21,8 @@
   url: "/workshops/"
   side: left
   dropdown:
+  - title: "About our Workshops"
+    url: /workshops/
   - title: "Request a Workshop"
     url: "/workshops-host/"
   - title: "Attend a Workshop"
