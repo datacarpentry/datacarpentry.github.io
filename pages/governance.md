@@ -24,6 +24,6 @@ adhere to a Code of Conduct.
 Steering Committee Meeting activities are reported as minutes and resolutions from
 each meeting. 
 
-- [Resolutions](/resolutions/)
+- [Resolutions](https://github.com/datacarpentry/steering-committee/tree/gh-pages/resolutions)
 - [Steering Committee Meeting Minutes](/minutes/)
 
