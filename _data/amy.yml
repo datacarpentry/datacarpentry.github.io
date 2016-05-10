@@ -2608,7 +2608,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160510T132423Z
+timestamp: 20160510T132859Z
 workshops:
 - &id002
   - address: Omni Atlanta Hotel at CNN Center, Atlanta, GA
