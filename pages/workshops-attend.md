@@ -27,7 +27,7 @@ to 3 hours and are separated by breaks or lunch.
 the workshop.
 - You will be taught by a trained Software/Data Carpentry instructor. All our instructors
 are volunteers committed to training others in these skills and approaches. They have 
-appropriate skills knowledge and have been through a Train the Trainers program.
+appropriate skills and knowledge and have been through a Train the Trainers program.
 - Before the workshop, we will send out instructions on what you need to have installed or
 set up on your computer, what tutorials will be used and a pre-workshop survey to complete for 
 us to get the best information on who will be attending. 
