@@ -26,17 +26,13 @@ There are two steps to becoming an instructor.
 1. **Take a Software Carpentry Foundation instructor training course**   
 The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching Data Carpentry and Software Carpentry materials. For a preview of materials - see the [instructor training course page](https://swcarpentry.github.io/instructor-training/).
 
+2. **Complete the Data Carpentry specific checkout process**  
+You must complete three short tasks after the course in order to complete certification. These tasks are described [here,] (https://swcarpentry.github.io/instructor-training/checkout/#rubric) and take a total of approximately 2 hours.
+
 <p align="center">
 <em>
 Registration for instructor training is currently on hold while we try to clear our backlog. If you have already applied to take part, we will keep your application in queue. Registration will reopen in Summer of 2016 - please keep an eye on our blog for announcements.
 </em></p>
-
-2. **Complete the Data Carpentry specific checkout process**
-    - Complete a guided teaching practice for one Data Carpentry lesson
-    - [Submit a new exercise](/instructor-checkout-exercises/) and pass a 5 minute teaching practicum for that lesson
-    - Attend and participate in an [instructor discussion session](http://pad.software-carpentry.org/instructor-discussion)
-
-For more details on the checkout process see the [checkout rubric.] (https://swcarpentry.github.io/instructor-training/checkout/#rubric)
 
 <!--
 If you are going through instructor training and need more information, please see [information]() in the [For Instructors]() section.
