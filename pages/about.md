@@ -22,9 +22,9 @@ training covering the full lifecycle of data-driven research. We teach hands-on 
 data organization, management, and analysis to increase data literacy and improve research 
 efficiency. Our domain-specific approach allows us to tailor the data, content, and tools 
 to reflect the specific data and analysis needs of different areas. Domain specificity also 
-allows us to build new skills on knowledge frameworks familiar to students, and to motivate 
-workshops using real scientific questions and data relevant to the students' field of study. 
-This approach allows students to see immediate value in the skills they are learning and to 
+allows us to build new skills on knowledge frameworks familiar to learners, and to motivate 
+workshops using real scientific questions and data relevant to the learners' field of study. 
+This approach allows learners to see immediate value in the skills they are learning and to 
 put new techniques immediately into practice. 
 
 A workshop can't teach a researcher everything they need to know about data management and analysis, however it drastically reduces the barrier to entry and imparts the skills for continued learning and engagement. Our ultimate goal is to enable data-driven research in diverse disciplines by creating strong communities of data scientists and empowering them to conduct more innovative and effective research. 
