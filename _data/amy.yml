@@ -295,6 +295,7 @@ airports:
   - {name: Leigh Sheneman, user: sheneman_leigh}
   - {name: Byron Smith, user: smith_byron}
   - {name: Shawn Whitefield, user: whitefield_shawn}
+  - {name: Akima George, user: george_akima}
   latitude: 42.212222
   longitude: -83.353333
   name: Detroit, MI
@@ -358,6 +359,7 @@ airports:
 - country: us
   instructors:
   - {name: Greg Caporaso, user: caporaso_greg}
+  - {name: Tara Furstenau, user: furstenau_tara}
   - {name: Donald Speer, user: speer_donald}
   - {name: Adam Perry, user: perry_adam}
   latitude: 35.13778
@@ -438,6 +440,7 @@ airports:
   - {name: Klemens Noga, user: noga_klemens}
   - {name: Leszek Tarkowski, user: tarkowski_leszek}
   - {name: Katarzyna Zaczek, user: zaczek_katarzyna}
+  - {name: Grzegorz Haranczyk, user: haranczyk_grzegorz}
   - {name: Natalia Osiecka, user: osiecka_natalia}
   - {name: Christopher Mędrela, user: medrela_krzysztof}
   latitude: 50.0775
@@ -865,6 +868,7 @@ airports:
   - {name: Sophie Clayton, user: clayton_sophie}
   - {name: Aaron Erlich, user: erlich_aaron}
   - {name: Jordan Fish, user: fish_jordan}
+  - {name: Abraham Flaxman, user: flaxman_abraham}
   - {name: Emilia Gan, user: gan_emilia}
   - {name: Tommy Guy, user: guy_t}
   - {name: Cody Hinchliff, user: hinchliff_cody}
@@ -904,6 +908,7 @@ airports:
   - {name: Ramnath Vaidyanathan, user: vaidyanathan_ramnath}
   - {name: Qingpeng Zhang, user: zhang_qp}
   - {name: Megan Laurance, user: laurance_megan}
+  - {name: Stuart Geiger, user: geiger_stuart}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -941,6 +946,7 @@ airports:
   - {name: Tracy Teal, user: teal_t}
   - {name: Easton White, user: white_easton}
   - {name: Jessica Mizzi, user: mizzi_jessica}
+  - {name: Myfanwy Johnston, user: johnston_myfanwy}
   - {name: Ryan Peek, user: peek_ryan}
   latitude: 38.695278
   longitude: -121.590556
@@ -1071,6 +1077,12 @@ airports:
   latitude: 46.788333
   longitude: -71.3975
   name: Quebec City
+- country: ca
+  instructors:
+  - {name: Lindsay Brin, user: brin_lindsay}
+  latitude: 45.329142
+  longitude: -65.890355
+  name: Saint John
 - country: ca
   instructors:
   - {name: Marianne Corvellec, user: corvellec_marianne}
@@ -1204,7 +1216,9 @@ airports:
   - {name: Stevan Earl, user: earl_stevan}
   - {name: Arron Shiffer, user: shiffer_arron}
   - {name: John Chase, user: chase_john}
-  - {name: Varda Faghir Faghir Hagh, user: faghirhagh_varda}
+  - {name: Varda F. Hagh, user: faghirhagh_varda}
+  - {name: Steven Wu, user: wu_steven}
+  - {name: Adam Orr, user: orr_adam}
   latitude: 33.434167
   longitude: -112.008056
   name: Phoenix, AZ
@@ -1235,6 +1249,7 @@ airports:
   instructors:
   - {name: Emelie Harstad, user: harstad_emelie}
   - {name: Joshua Herr, user: herr_joshua}
+  - {name: Natasha Pavlovikj, user: pavlovikj_natasha}
   - {name: Bill McClung, user: mcclung_bill}
   latitude: 40.850833
   longitude: -96.759167
@@ -1486,6 +1501,7 @@ airports:
 - country: ch
   instructors:
   - {name: Diana Marek, user: marek_diana}
+  - {name: Walid Gharib, user: gharib_walid}
   latitude: 46.236757
   longitude: 6.109113
   name: Genève Aéroport
@@ -2254,7 +2270,7 @@ badges:
   - {awarded: '2016-03-23', name: Rochelle Terman, user: terman_rochelle}
   - {awarded: '2016-03-27', name: Natalia Osiecka, user: osiecka_natalia}
   - {awarded: '2016-03-27', name: Dave Williams, user: williams_dave}
-  - {awarded: '2016-03-28', name: Grzegorz Harańczyk, user: haranczyk_grzegorz}
+  - {awarded: '2016-03-28', name: Grzegorz Haranczyk, user: haranczyk_grzegorz}
   - {awarded: '2016-03-29', name: Patrick Boyle, user: boyle_patrick}
   - {awarded: '2016-03-29', name: Jamie Hadwin, user: hadwin_jamie}
   - {awarded: '2016-03-29', name: Peter Michalák, user: michalak_peter}
@@ -2272,7 +2288,7 @@ badges:
   - {awarded: '2016-04-07', name: Oier Echaniz Beneitez, user: etxaniz_oier}
   - {awarded: '2016-04-07', name: Geoffrey Fucile, user: fucile_geoffrey}
   - {awarded: '2016-04-08', name: Jes Ford, user: ford_jes}
-  - {awarded: '2016-04-08', name: Varda Faghir Faghir Hagh, user: faghirhagh_varda}
+  - {awarded: '2016-04-08', name: Varda F. Hagh, user: faghirhagh_varda}
   - {awarded: '2016-04-08', name: Andreas Mueller, user: mueller_andreas}
   - {awarded: '2016-04-08', name: Shelley Knuth, user: knuth_shelley}
   - {awarded: '2016-04-08', name: Erin Dickie, user: dickie_e}
@@ -2301,6 +2317,14 @@ badges:
   - {awarded: '2016-04-26', name: Mary Haley, user: haley_mary}
   - {awarded: '2016-05-03', name: Reid Otsuji, user: otsuji_reid}
   - {awarded: '2016-05-03', name: Joseph Montoya, user: montoya_joseph}
+  - {awarded: '2016-05-13', name: Myfanwy Johnston, user: johnston_myfanwy}
+  - {awarded: '2016-05-13', name: Akima George, user: george_akima}
+  - {awarded: '2016-05-13', name: Abraham Flaxman, user: flaxman_abraham}
+  - {awarded: '2016-05-17', name: Rebecca Love, user: love_rebecca}
+  - {awarded: '2016-05-17', name: Tara Furstenau, user: furstenau_tara}
+  - {awarded: '2016-05-17', name: Dawn Walker, user: walker_dawn}
+  - {awarded: '2016-05-17', name: Stuart Geiger, user: geiger_stuart}
+  - {awarded: '2016-05-17', name: Adam Orr, user: orr_adam}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2547,7 +2571,7 @@ badges:
   - {awarded: '2016-03-16', name: Sebastian Schmeier, user: schmeier_sebastian}
   - {awarded: '2016-03-22', name: Allison Jai O'Dell, user: odell_allison-jai}
   - {awarded: '2016-03-08', name: Emily Read, user: read_emily}
-  - {awarded: '2016-03-28', name: Grzegorz Harańczyk, user: haranczyk_grzegorz}
+  - {awarded: '2016-03-28', name: Grzegorz Haranczyk, user: haranczyk_grzegorz}
   - {awarded: '2016-03-30', name: Claire Hardgrove, user: hardgrove_claire}
   - {awarded: '2016-04-01', name: Živa Ramšak, user: ramsak_ziva}
   - {awarded: '2016-04-01', name: Peter Juvan, user: juvan_peter}
@@ -2564,6 +2588,14 @@ badges:
   - {awarded: '2016-05-04', name: Mariela Perignon, user: perignon_mariela}
   - {awarded: '2016-05-04', name: Natalie Robinson, user: robinson_natalie}
   - {awarded: '2016-05-04', name: Leah Wasser, user: wasser_leah}
+  - {awarded: '2016-05-10', name: Bruno Grande, user: grande_bruno}
+  - {awarded: '2016-05-10', name: Catrina Loucks, user: loucks_catrina}
+  - {awarded: '2016-05-10', name: Thea Van Rossum, user: van-rossum_thea}
+  - {awarded: '2016-05-13', name: Myfanwy Johnston, user: johnston_myfanwy}
+  - {awarded: '2016-05-13', name: Akima George, user: george_akima}
+  - {awarded: '2016-05-17', name: Rebecca Love, user: love_rebecca}
+  - {awarded: '2016-05-17', name: Lindsay Brin, user: brin_lindsay}
+  - {awarded: '2016-05-17', name: Stephanie Labou, user: labou_stephanie}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2604,13 +2636,44 @@ badges:
   - {awarded: '2016-02-03', name: Tracy Teal, user: teal_t}
   - {awarded: '2016-02-04', name: Stephen Crouch, user: crouch_s}
   - {awarded: '2016-03-16', name: Fiona Tweedie, user: tweedie_fiona}
+  - {awarded: '2016-05-13', name: Neal Davis, user: davis_neal}
+  - {awarded: '2016-04-17', name: Ariel Rokem, user: rokem_a}
+  - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160510T132859Z
+timestamp: 20160519T205818Z
 workshops:
 - &id002
+  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
+    contact: Gabriella Rustici <gr231@cam.ac.uk>
+    country: gb
+    end: 2016-05-16
+    eventbrite_id: ''
+    humandate: May 16-16, 2016
+    latitude: 52.201951
+    longitude: 0.122514
+    slug: 2016-05-16-CAM
+    start: 2016-05-16
+    tags:
+    - {name: DC}
+    url: https://lgatto.github.io/2016-05-16-CAM/
+    venue: University of Cambridge
+  - address: Red 9 Building, Charles Darwin University, Casuarina NT 0810
+    contact: combine@combine.org
+    country: au
+    end: 2016-05-12
+    eventbrite_id: ''
+    humandate: May 12-12, 2016
+    latitude: -12.3722
+    longitude: 130.8689
+    slug: 2016-05-12-CharlesDarwinUni
+    start: 2016-05-12
+    tags:
+    - {name: DC}
+    url: https://combine-australia.github.io/2016-05-12-CharlesDarwinUni/
+    venue: Charles Darwin University
   - address: Omni Atlanta Hotel at CNN Center, Atlanta, GA
     contact: steve.vantuyl@oregonstate.edu
     country: us
@@ -2709,6 +2772,20 @@ workshops:
     - {name: DC}
     url: https://johnrmoreau.github.io/2016-04-07-FederalReserveBoard/
     venue: Federal Reserve Board
+  - address: Gonzaga, Office of Research Integrity
+    contact: tkteal@datacarpentry.org
+    country: us
+    end: 2016-04-07
+    eventbrite_id: ''
+    humandate: Apr 04-07, 2016
+    latitude: 47.667666
+    longitude: -117.402992
+    slug: 2016-04-04-gonzaga
+    start: 2016-04-04
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2016-04-04-gonzaga/
+    venue: Gonzaga, Office of Research Integrity
   - address: Kristine Bonnevies Hus, room 2621, Blindernveien 31, 0851 Oslo. Entrance
       from Moltke Moes Road.
     contact: arnstein.orten@geo.uio.no
@@ -3306,6 +3383,35 @@ workshops:
     - {name: DC}
     url: https://dipnet.github.io/2016-07-25-Philippines/
     venue: Philippines
+  - address: USDA/ARS/Southern Regional Research Center 1100 Robert E. Lee Blvd. New
+      Orleans, LA   70124
+    contact: O. P. Perera <op.perera@ars.usda.gov>
+    country: US
+    end: 2016-06-16
+    eventbrite_id: ''
+    humandate: Jun 15-16, 2016
+    latitude: 30.018648
+    longitude: -90.089545
+    slug: 2016-06-15-USDA-NOLA
+    start: 2016-06-15
+    tags:
+    - {name: DC}
+    url: https://aurielfournier.github.io/2016-06-15-USDA-NOLA/
+    venue: SRRC, USDA-ARS, New Orleans, LA
+  - address: Albert R. Mann Library, 237 Mann Drive, Cornell University
+    contact: Erika Mudrak <mudrak@cornell.edu>
+    country: US
+    end: 2016-06-14
+    eventbrite_id: '24927521889'
+    humandate: Jun 13-14, 2016
+    latitude: 42.448743
+    longitude: -76.47657
+    slug: 2016-06-13-cornell
+    start: 2016-06-13
+    tags:
+    - {name: DC}
+    url: https://erdavenport.github.io/2016-06-13-cornell/
+    venue: Cornell University Statistical Consulting Unit (CSCU)
   - address: Health Sciences Library Troup Learning Center G005G (http://www.libraries.uc.edu/hsl/about/directions.html)
     contact: Kristen Burgess <kristen.burgess@uc.edu>
     country: US
@@ -3320,20 +3426,20 @@ workshops:
     - {name: DC}
     url: https://qjcg.github.io/2016-06-07-ucincinnati/
     venue: University of Cincinnati
-  - address: TDB
-    contact: Catherine Hulshof De La Pena <catherine.hulshof@upr.edu>
-    country: PR
-    end: 2016-06-04
+  - address: 1709 New York Avenue NW, Washington, DC 20006
+    contact: Alice Allen
+    country: US
+    end: 2016-06-03
     eventbrite_id: ''
-    humandate: Jun 03-04, 2016
-    latitude: 18.2094459
-    longitude: -67.2105816
-    slug: 2016-06-03-puertorico
-    start: 2016-06-03
+    humandate: Jun 02-03, 2016
+    latitude: 38.896683
+    longitude: -77.040452
+    slug: 2016-06-02-frb_washingtondc
+    start: 2016-06-02
     tags:
     - {name: DC}
-    url: https://fmichonneau.github.io/2016-06-03-upr-mayaguez/
-    venue: University of Puerto Rico Mayagüez
+    url: https://johnrmoreau.github.io/2016-06-02-FederalReserveBoard/
+    venue: Federal Reserve Board
   - address: 1308 West Dayton St.
     contact: ContactACI@lists.wisc.edu
     country: US
@@ -3348,6 +3454,34 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2016-06-01-uwmadison/
     venue: University of Wisconsin - Madison
+  - address: TDB
+    contact: Catherine Hulshof De La Pena <catherine.hulshof@upr.edu>
+    country: PR
+    end: 2016-06-01
+    eventbrite_id: ''
+    humandate: May 31-Jun 01, 2016
+    latitude: 18.2094459
+    longitude: -67.2105816
+    slug: 2016-05-31-puertorico
+    start: 2016-05-31
+    tags:
+    - {name: DC}
+    url: https://fmichonneau.github.io/2016-06-03-upr-mayaguez/
+    venue: University of Puerto Rico Mayagüez
+  - address: Institute of Experimental Immunology, University of Zurich
+    contact: mark.robinson@imls.uzh.ch
+    country: CH
+    end: 2016-05-31
+    eventbrite_id: ''
+    humandate: May 30-31, 2016
+    latitude: 47.397243
+    longitude: 8.549121
+    slug: 2016-05-30-Zurich
+    start: 2016-05-30
+    tags:
+    - {name: DC}
+    url: https://lmweber.github.io/2016-05-30-Zurich/
+    venue: University of Zurich
   - address: 10 Center Dr, Bethesda, MD 20892
     contact: williams@cshl.edu
     country: US
@@ -3376,33 +3510,5 @@ workshops:
     - {name: DC}
     url: https://jsta.github.io/2016-05-26-sfwmd/
     venue: South Florida Water Management District
-  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
-    contact: Gabriella Rustici <gr231@cam.ac.uk>
-    country: GB
-    end: 2016-05-16
-    eventbrite_id: ''
-    humandate: May 16-16, 2016
-    latitude: 52.201951
-    longitude: 0.122514
-    slug: 2016-05-16-CAM
-    start: 2016-05-16
-    tags:
-    - {name: DC}
-    url: https://lgatto.github.io/2016-05-16-CAM/
-    venue: University of Cambridge
-  - address: Red 9 Building, Charles Darwin University, Casuarina NT 0810
-    contact: combine@combine.org
-    country: AU
-    end: 2016-05-12
-    eventbrite_id: ''
-    humandate: May 12-12, 2016
-    latitude: -12.3722
-    longitude: 130.8689
-    slug: 2016-05-12-CharlesDarwinUni
-    start: 2016-05-12
-    tags:
-    - {name: DC}
-    url: https://combine-australia.github.io/2016-05-12-CharlesDarwinUni/
-    venue: Charles Darwin University
 workshops_current: *id001
 workshops_past: *id002
