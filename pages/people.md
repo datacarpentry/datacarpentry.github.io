@@ -18,6 +18,9 @@ meet these goals.
 **Executive Director**  
 Tracy K. Teal, PhD
 
+**Associate Director**  
+Erin Becker, PhD
+
 **Program Coordinator**  
 Maneesha Sane
 
