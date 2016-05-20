@@ -8,21 +8,17 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 authors: ["Erin Becker"]
 ---
-
-Instructor and trainee involvement in workshops
------------------------------------------------
 
 This analysis is meant to answer questions about the extent of the
 non-teaching instructor and the non-certified trainee issues.
 
 **Analysis and Data Files**
 
-The RMarkdown that generated this document: [Completion\_rates.Rmd]()  
-The data: In
-<https://github.com/datacarpentry/metrics/tree/master/instructor_data>
+The RMarkdown that generated this document: [Completion\_rates.Rmd](https://github.com/datacarpentry/metrics/blob/master/scripts/Completion_rates.Rmd)  
+The data: In the [Data Carpentry metrics repo](https://github.com/datacarpentry/metrics/tree/master/instructor_data)
 the files
 [instructor\_data\_5\_17\_16\_no\_ids.csv](https://raw.githubusercontent.com/datacarpentry/metrics/master/instructor_data/instructor_data_5_17_16_no_ids.csv)
 and
@@ -78,7 +74,7 @@ community, issues with how training session went, or some other factor.*
 
 Summary of completion rates per event:
 
-    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
     ##   22.22   38.00   70.72   66.73   89.28  100.00
 
 Note that mean completion rate for individual events is **not** the same
@@ -112,17 +108,17 @@ Haven't taught (been over a year since training): **70**
 Total percent who didn't teach within first year: **15.36%**
 
 What is the distribution of time to first teaching?
-![](https://github.com/datacarpentry/metrics/blob/master/plots/plots-time-to-teach-1.png)
+![](https://raw.githubusercontent.com/datacarpentry/metrics/master/plots/plots-time-to-teach-1.png)
 
 Note that many (204) instructors taught their first workshop before they
 were officially certified.
 
 Excluding them:  
-![](https://github.com/datacarpentry/metrics/blob/master/plots/plots-time-to-teach-pos-1.png)
+![](https://raw.githubusercontent.com/datacarpentry/metrics/master/plots/plots-time-to-teach-pos-1.png)
 
 Summary of time to teach first workshop (non-retroactive):
 
-    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
     ##     1.0    42.0    98.0   124.6   175.8   659.0
 
 Are recently trained instructors on track to meet normal teaching
