@@ -12,7 +12,7 @@ The data: In
 the files
 [instructor\_data\_5\_17\_16\_no\_ids.csv](https://raw.githubusercontent.com/datacarpentry/metrics/master/instructor_data/instructor_data_5_17_16_no_ids.csv)
 and
-[trainee\_data\_5\_18\_16\_no\_ids.csv](%22https://raw.githubusercontent.com/datacarpentry/metrics/master/instructor_data/trainee_data_5_18_16_no_ids.csv%22)
+[trainee\_data\_5\_18\_16\_no\_ids.csv](https://raw.githubusercontent.com/datacarpentry/metrics/master/instructor_data/trainee_data_5_18_16_no_ids.csv%22)
 
 **Questions**
 
@@ -98,13 +98,13 @@ Haven't taught (been over a year since training): **70**
 Total percent who didn't teach within first year: **15.36%**
 
 What is the distribution of time to first teaching?
-![](Completion_rates_public_tkt_files/figure-markdown_strict/plots-time-to-teach-1.png)
+![](https://github.com/datacarpentry/metrics/blob/master/plots/plots-time-to-teach-1.png)
 
 Note that many (204) instructors taught their first workshop before they
 were officially certified.
 
 Excluding them:  
-![](Completion_rates_public_tkt_files/figure-markdown_strict/plots-time-to-teach-pos-1.png)
+![](https://github.com/datacarpentry/metrics/blob/master/plots/plots-time-to-teach-pos-1.png)
 
 Summary of time to teach first workshop (non-retroactive):
 
