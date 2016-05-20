@@ -22,7 +22,7 @@ The data: In the [Data Carpentry metrics repo](https://github.com/datacarpentry/
 the files
 [instructor\_data\_5\_17\_16\_no\_ids.csv](https://raw.githubusercontent.com/datacarpentry/metrics/master/instructor_data/instructor_data_5_17_16_no_ids.csv)
 and
-[trainee\_data\_5\_18\_16\_no\_ids.csv](https://raw.githubusercontent.com/datacarpentry/metrics/master/instructor_data/trainee_data_5_18_16_no_ids.csv%22)
+[trainee\_data\_5\_18\_16\_no\_ids.csv](https://raw.githubusercontent.com/datacarpentry/metrics/master/instructor_data/trainee_data_5_18_16_no_ids.csv)
 
 **Questions**
 
