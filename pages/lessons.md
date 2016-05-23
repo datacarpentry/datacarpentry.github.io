@@ -92,37 +92,44 @@ The focus of this workshop is on working with genomics data and data management 
 <table class="table table-striped">
   <tr>
     <th>Lesson</th>
-    <th>Material</th>
+    <th>Site</th>
+    <th>Repository</th>
     <th>Maintainer(s)</th>
   </tr>
   <tr>
     <td>Introduction to the workshop and dataset</td>
     <td><a href="{{site.dc_website_url}}/introduction-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/introduction-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Tracy Teal</td>
   </tr>
   <tr>
     <td>Introduction to cloud computing for genomics</td>
     <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Bob Freeman</td>
   </tr>
   <tr>
     <td>Introduction to the command line</td>
     <td><a href="{{site.dc_github_repo_url}}/shell-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Sheldon McKay, Karen Cranston</td>
   </tr>
   <tr>
     <td>Data wrangling and processing</td>
     <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Sheldon McKay, Karen Cranston</td>
   </tr>
   <tr>
     <td>Data analysis in R</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/04-dplyr.html" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Naupaka Zimmerman, Jason Williams</td>
   </tr>
   <tr>
     <td>Data visualization in R</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/05-data-visualization.html" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Meeta Mistry</td>
   </tr>
 </table>
