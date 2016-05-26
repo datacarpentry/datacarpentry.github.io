@@ -103,8 +103,8 @@ airports:
   - {name: Heidi Perrett, user: perrett_heidi}
   - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {name: Francis Gacenga, user: gacenga_francis}
-  - {name: Kim Keogh, user: keogh_kim}
   - {name: Anup Shah, user: shah_anup}
+  - {name: Kim Keogh, user: keogh_kim}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
@@ -116,7 +116,6 @@ airports:
   - {name: Ivan Gonzalez, user: gonzalez_ivan}
   - {name: Radhika Khetani, user: khetani_radhika}
   - {name: Meeta Mistry, user: mistry_meeta}
-  - {name: Francisco J. J. Navarro-Brull, user: navarro_francisco}
   - {name: Daiva Nielsen, user: nielsen_daiva}
   - {name: Mary Piper, user: piper_mary}
   - {name: Tom Pollard, user: pollard_tom}
@@ -1096,6 +1095,7 @@ airports:
   - {name: Francoise Provencher, user: provencher_francoise}
   - {name: Pier-Luc St-Onge, user: st-onge_pier-luc}
   - {name: Jean-François St-Pierre, user: st-pierre_jean-francois}
+  - {name: Patricia Campbell, user: campbell_patricia}
   latitude: 45.468056
   longitude: -73.741389
   name: Montreal
@@ -1273,6 +1273,12 @@ airports:
   latitude: 31.807222
   longitude: -106.3775
   name: El Paso International Airport
+- country: es
+  instructors:
+  - {name: Francisco J. Navarro-Brull, user: navarro_francisco}
+  latitude: 38.2821999
+  longitude: -0.558156
+  name: Alicante
 - country: us
   instructors:
   - {name: Pat Schloss, user: schloss_pat}
@@ -1629,6 +1635,12 @@ airports:
   latitude: 45.507219
   longitude: 12.342512
   name: Venice Marco Polo Airport
+- country: us
+  instructors:
+  - {name: Becca Love, user: love_rebecca}
+  latitude: 41.7085
+  longitude: -86.315833
+  name: South Bend International Airport
 badges:
 - name: creator
   persons:
@@ -2036,7 +2048,7 @@ badges:
   - {awarded: '2015-05-26', name: Richard Tomsett, user: tomsett_richard}
   - {awarded: '2015-05-26', name: Hsi-Kai Yang, user: yang_hsi-kai}
   - {awarded: '2015-05-26', name: Evgenij Belikov, user: belikov_evgenij}
-  - {awarded: '2015-05-26', name: Francisco J. J. Navarro-Brull, user: navarro_francisco}
+  - {awarded: '2015-05-26', name: Francisco J. Navarro-Brull, user: navarro_francisco}
   - {awarded: '2015-06-04', name: Hugues Fontenelle, user: fontenelle_hugues}
   - {awarded: '2015-06-12', name: Dorota Jarecka, user: jarecka_dorota}
   - {awarded: '2015-06-12', name: Donna Henderson, user: henderson_donna}
@@ -2320,7 +2332,7 @@ badges:
   - {awarded: '2016-05-13', name: Myfanwy Johnston, user: johnston_myfanwy}
   - {awarded: '2016-05-13', name: Akima George, user: george_akima}
   - {awarded: '2016-05-13', name: Abraham Flaxman, user: flaxman_abraham}
-  - {awarded: '2016-05-17', name: Rebecca Love, user: love_rebecca}
+  - {awarded: '2016-05-17', name: Becca Love, user: love_rebecca}
   - {awarded: '2016-05-17', name: Tara Furstenau, user: furstenau_tara}
   - {awarded: '2016-05-17', name: Dawn Walker, user: walker_dawn}
   - {awarded: '2016-05-17', name: Stuart Geiger, user: geiger_stuart}
@@ -2593,7 +2605,7 @@ badges:
   - {awarded: '2016-05-10', name: Thea Van Rossum, user: van-rossum_thea}
   - {awarded: '2016-05-13', name: Myfanwy Johnston, user: johnston_myfanwy}
   - {awarded: '2016-05-13', name: Akima George, user: george_akima}
-  - {awarded: '2016-05-17', name: Rebecca Love, user: love_rebecca}
+  - {awarded: '2016-05-17', name: Becca Love, user: love_rebecca}
   - {awarded: '2016-05-17', name: Lindsay Brin, user: brin_lindsay}
   - {awarded: '2016-05-17', name: Stephanie Labou, user: labou_stephanie}
 - name: maintainer
@@ -2643,7 +2655,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160519T205818Z
+timestamp: 20160526T072316Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
