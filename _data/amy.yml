@@ -2337,6 +2337,13 @@ badges:
   - {awarded: '2016-05-17', name: Dawn Walker, user: walker_dawn}
   - {awarded: '2016-05-17', name: Stuart Geiger, user: geiger_stuart}
   - {awarded: '2016-05-17', name: Adam Orr, user: orr_adam}
+  - {awarded: '2016-05-26', name: Daina Bouquin, user: bouquin_daina}
+  - {awarded: '2016-05-26', name: Elise Morrison, user: morrison_elise}
+  - {awarded: '2016-05-26', name: Allison Smith, user: smith_allison}
+  - {awarded: '2016-05-26', name: Timothy Norris, user: norris_timothy}
+  - {awarded: '2016-05-26', name: Jeffrey Oliver, user: oliver_jeffrey}
+  - {awarded: '2016-05-26', name: Richard Clare, user: clare_richard}
+  - {awarded: '2016-05-26', name: Andre Geldenhuis, user: geldenhuis_andre}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2608,6 +2615,10 @@ badges:
   - {awarded: '2016-05-17', name: Becca Love, user: love_rebecca}
   - {awarded: '2016-05-17', name: Lindsay Brin, user: brin_lindsay}
   - {awarded: '2016-05-17', name: Stephanie Labou, user: labou_stephanie}
+  - {awarded: '2016-05-26', name: Kathleen Lotterhos, user: lotterhos_kathleen}
+  - {awarded: '2016-05-26', name: Allison Smith, user: smith_allison}
+  - {awarded: '2016-05-26', name: Ryan Peek, user: peek_ryan}
+  - {awarded: '2016-05-26', name: Daina Bouquin, user: bouquin_daina}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2655,9 +2666,37 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, fi, gb, in, ke, nl, 'no', us]
-timestamp: 20160526T072316Z
+timestamp: 20160529T030730Z
 workshops:
 - &id002
+  - address: 10 Center Dr, Bethesda, MD 20892
+    contact: williams@cshl.edu
+    country: us
+    end: 2016-05-27
+    eventbrite_id: ''
+    humandate: May 26-27, 2016
+    latitude: 39.0027815
+    longitude: -77.1044218
+    slug: 2016-05-26-NIH
+    start: 2016-05-26
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2016-05-26-NIH/
+    venue: National Institutes of Health
+  - address: West Palm Beach, FL
+    contact: jstachel@sfwmd.gov
+    country: us
+    end: 2016-05-27
+    eventbrite_id: ''
+    humandate: May 26-27, 2016
+    latitude: 26.675907
+    longitude: -80.095131
+    slug: 2016-05-26-sfwmd
+    start: 2016-05-26
+    tags:
+    - {name: DC}
+    url: https://jsta.github.io/2016-05-26-sfwmd/
+    venue: South Florida Water Management District
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
     contact: Gabriella Rustici <gr231@cam.ac.uk>
     country: gb
@@ -3494,33 +3533,5 @@ workshops:
     - {name: DC}
     url: https://lmweber.github.io/2016-05-30-Zurich/
     venue: University of Zurich
-  - address: 10 Center Dr, Bethesda, MD 20892
-    contact: williams@cshl.edu
-    country: US
-    end: 2016-05-27
-    eventbrite_id: ''
-    humandate: May 26-27, 2016
-    latitude: 39.0027815
-    longitude: -77.1044218
-    slug: 2016-05-26-NIH
-    start: 2016-05-26
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2016-05-26-NIH/
-    venue: National Institutes of Health
-  - address: West Palm Beach, FL
-    contact: jstachel@sfwmd.gov
-    country: US
-    end: 2016-05-27
-    eventbrite_id: ''
-    humandate: May 26-27, 2016
-    latitude: 26.675907
-    longitude: -80.095131
-    slug: 2016-05-26-sfwmd
-    start: 2016-05-26
-    tags:
-    - {name: DC}
-    url: https://jsta.github.io/2016-05-26-sfwmd/
-    venue: South Florida Water Management District
 workshops_current: *id001
 workshops_past: *id002
