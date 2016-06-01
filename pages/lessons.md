@@ -43,36 +43,42 @@ The workshop can be taught using R or Python as the base language.
     <th>Lesson</th>
     <th>Site</th>
     <th>Repository</th>
+    <th>Instructor Guide</th>
     <th>Maintainer(s)</th>
   </tr>
   <tr>
     <td>Data Organization in Spreadsheets</td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_gihub_repo_url}}/spreadsheet-ecology-lesson/blob/gh-pages/instructor_notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Christie Bahlai, Tracy Teal</td>
   </tr>
   <tr>
     <td>Data Cleaning with OpenRefine</td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_gihub_repo_url}}/OpenRefine-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Deborah Paul, Cam Macdonell</td>
   </tr>
   <tr>
     <td>Data Management with SQL</td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_gihub_repo_url}}/sql-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Paula Andrea Martinez, Timothée Poisot</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R</td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_gihub_repo_url}}/R-ecology-lesson/blob/instructor_notes/instructor_notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>François Michonneau, Auriel Fournier</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python</td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_gihub_repo_url}}/python-ecology-lesson/blob/gh-pages/INSTRUCTORS.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>John Gosset, April Wright, Mateusz Kuzak</td>
   </tr>
 </table>
