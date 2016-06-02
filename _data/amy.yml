@@ -14,7 +14,6 @@ airports:
   - {name: Cameron McLean, user: mclean_cameron}
   - {name: Tim McNamara, user: mcnamara_tim}
   - {name: John Rugis, user: rugis_john}
-  - {name: Andre Geldenhuis, user: geldenhuis_andre}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
   - {name: Amali Thrimawithana, user: thrimawithana_amali}
   - {name: Nicolas Fauchereau, user: fauchereau_nicolas}
@@ -112,6 +111,7 @@ airports:
   instructors:
   - {name: Harriet Alexander, user: alexander_harriet}
   - {name: Trevor Bekolay, user: bekolay_trevor}
+  - {name: Daina Bouquin, user: bouquin_daina}
   - {name: Bob Freeman, user: freeman_robert}
   - {name: Ivan Gonzalez, user: gonzalez_ivan}
   - {name: Radhika Khetani, user: khetani_radhika}
@@ -128,6 +128,7 @@ airports:
   - {name: Andrew Marder, user: marder_andrew}
   - {name: Ista Zahn, user: zahn_ista}
   - {name: Eric Ma, user: ma_eric}
+  - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -160,6 +161,7 @@ airports:
   instructors:
   - {name: Sung Eun Bae, user: bae_sung}
   - {name: Constantine Zakkaroff, user: zakkaroff_constantine}
+  - {name: Richard Clare, user: clare_richard}
   latitude: -43.489167
   longitude: 172.532222
   name: Christchurch
