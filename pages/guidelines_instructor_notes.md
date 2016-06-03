@@ -14,7 +14,8 @@ Instructor notes are designed to help instructors quickly get up to speed on bes
 Below are some suggestions for productively contributing to instructor notes for lessons you’ve taught. Feel free to deviate from these guidelines as appropriate.
 
 **Do:**  
-- ***List learning objectives.*** Make these concrete and competency-based. What should your learners be able to do by the end of the lesson? Agreeing on learning objectives is important for keeping the workshop experience broadly consistent across instructors.  
+- ***Introduce motivation.*** Communicate why we are teaching these skills and perspectives. Why are they important?
+- ***List learning objectives.*** Make these concrete and competency-based. What should your learners be able to do by the end of the lesson? Agreeing on learning objectives is important for keeping the workshop experience broadly consistent across instructors. Learning objectives can also include desired changes in perspective or attitudes (e.g. appreciate the importance of reproducibility).
 - ***Describe the data.*** If the lesson uses a specific dataset, briefly describe the data structure and provide link to source.  
 - ***Provide a narrative.*** Which modules are important to cover and why? What are the main points being communicated by each module? Which can be skipped or glossed over, and under what circumstances?  
 - ***Provide alternatives.*** Give an example of an alternative way of approaching the material to help instructors see how to tweak the materials to fit their audience.  
