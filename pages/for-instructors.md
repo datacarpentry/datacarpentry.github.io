@@ -14,3 +14,12 @@ Data Carpentry is primarily a volunteer organization. We work with [Software Car
 ### Information on workshops
 
 - [Self-organized workshops](/self-organized-workshops/)
+
+### Contribute to instructor notes
+
+Instructor notes are designed to help instructors quickly get up to speed on best practices for teaching specific lessons. By drawing on the collective wisdom of all instructors, we can lower the entry barrier for new instructors, increase their comfort level with the material, and sustainably grow our instructor pool. Please take the time to contribute to the instructor notes for lessons you’ve taught. Some helpful guidelines for contributing can be found [here]({{ site.root }}/pages/guidelines_instructor_notes.md). Feel free to deviate from these guidelines as appropriate.
+
+Current instructor notes for our lessons can be found through the [lessons page](http://www.datacarpentry.org/lessons/).
+
+
+
