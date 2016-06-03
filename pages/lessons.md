@@ -111,7 +111,7 @@ The focus of this workshop is on working with genomics data and data management 
   <tr>
     <td>Introduction to cloud computing for genomics</td>
     <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Bob Freeman</td>
   </tr>
   <tr>
