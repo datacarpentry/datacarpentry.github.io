@@ -43,36 +43,42 @@ The workshop can be taught using R or Python as the base language.
     <th>Lesson</th>
     <th>Site</th>
     <th>Repository</th>
+    <th>Instructor Guide</th>
     <th>Maintainer(s)</th>
   </tr>
   <tr>
     <td>Data Organization in Spreadsheets</td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/blob/gh-pages/instructor_notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Christie Bahlai, Tracy Teal</td>
   </tr>
   <tr>
     <td>Data Cleaning with OpenRefine</td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Deborah Paul, Cam Macdonell</td>
   </tr>
   <tr>
     <td>Data Management with SQL</td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Paula Andrea Martinez, Timothée Poisot</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R</td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/blob/instructor_notes/instructor_notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>François Michonneau, Auriel Fournier</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python</td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/blob/gh-pages/INSTRUCTORS.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>John Gosset, April Wright, Mateusz Kuzak</td>
   </tr>
 </table>
@@ -92,37 +98,44 @@ The focus of this workshop is on working with genomics data and data management 
 <table class="table table-striped">
   <tr>
     <th>Lesson</th>
-    <th>Material</th>
+    <th>Site</th>
+    <th>Repository</th>
     <th>Maintainer(s)</th>
   </tr>
   <tr>
     <td>Introduction to the workshop and dataset</td>
     <td><a href="{{site.dc_website_url}}/introduction-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/introduction-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Tracy Teal</td>
   </tr>
   <tr>
     <td>Introduction to cloud computing for genomics</td>
     <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Bob Freeman</td>
   </tr>
   <tr>
     <td>Introduction to the command line</td>
     <td><a href="{{site.dc_github_repo_url}}/shell-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Sheldon McKay, Karen Cranston</td>
   </tr>
   <tr>
     <td>Data wrangling and processing</td>
     <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Sheldon McKay, Karen Cranston</td>
   </tr>
   <tr>
     <td>Data analysis in R</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/04-dplyr.html" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Naupaka Zimmerman, Jason Williams</td>
   </tr>
   <tr>
     <td>Data visualization in R</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/05-data-visualization.html" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Meeta Mistry</td>
   </tr>
 </table>
