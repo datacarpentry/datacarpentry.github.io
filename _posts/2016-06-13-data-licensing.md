@@ -14,7 +14,7 @@ authors: ["Elizabeth Wickes, Data Curation Specialist (University Library), Univ
 
 A question recently came up on the SWC Discuss mailing list about how to select a license for publicly released data.  Answering these questions without knowing the life story of the data in question can only be done in vast generalities, but there are some nearly universal issues that everyone should consider.
 
-No person will be able to tell you definitively which license is the best.  Your selection will be determined by the kind of data you are using, community standards, and your personal preference.  There are pros and cons to permissive versus restrictive licenses, which you will need to evaluate using your own preferences.  
+No person will be able to tell you definitively which license is the best.  Your selection will be determined by the kind of data you are using, community standards, and your personal preference.  There are pros and cons to permissive versus restrictive licenses, which you will need to evaluate using your own preferences.
 
 **The first step is not to select a license**
 
@@ -41,7 +41,9 @@ Looking to the larger general community of datasets published with DataCite DOIs
 
 When you select a license you (and your data users!) should understand the terms for release, access, reuse, and republication that the license grants. Creative Commons and Open Data Commons have a serious advantage here because they each focus on making ‘human readable’ versions to help authors make informed selections, but many other licensing schemes (particularly the software communities) have other canonical and well understood license types.
 
-Selecting the individual license type you’d like to release under means that you need to carefully consider how restrictive or permissive you’d like to be.  Generally, options like a public domain release or a simple attribution requirement are recommended for data.  Be sure to read about the impact of attribution stacking if you select an attribution requirement license or anything more restrictive.  The selection of a public domain license, such as CC0, does not mean that future users of the data are off the hook for citations.  You may still put in a request to be cited and suggested citation information with your data deposit in most data repositories.
+Selecting the individual license type you’d like to release under means that you need to carefully consider how restrictive or permissive you’d like to be.  Generally, options like a public domain release or a simple attribution requirement are recommended for data.  Data copyright is a complex issue that differes by country, state, and age of the content, with no brief statement doing it justice.  The legal implications of data licenses are also being sorted out and differ from country to country.  While it is true that facts and other such datums cannot be copyrighted, the assembly and selection of datasets can be (depending on the country).  Given the international audience of this blog, I find it best to leave each reader to investigate the applicable copyright law.  Be sure to read about the impact of attribution stacking if you select an attribution requirement license or anything more restrictive.  
+
+Do not be afraid of selecting a public domain license, such as CC0.  This declaration does not mean that future users of the data are off the hook for citations from a scholarship perspective, just from legal consequences of it.  You may still put in a request to be cited and suggested citation information with your data deposit in most data repositories.
 
 **Third, declare the license**
 
