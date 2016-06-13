@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-authors: ["Elizabeth Wickes"]
+authors: ["Elizabeth Wickes, Data Curation Specialist (University Library), University of Illinois at Urbana-Champaign"]
 ---
 
 A question recently came up on the SWC Discuss mailing list about how to select a license for publicly released data.  Answering these questions without knowing the life story of the data in question can only be done in vast generalities, but there are some nearly universal issues that everyone should consider.
