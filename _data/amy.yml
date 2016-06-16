@@ -152,6 +152,7 @@ airports:
   instructors:
   - {name: Nelle Varoquaux, user: varoquaux_n}
   - {name: Bartosz Telenczuk, user: telenczuk_bartosz}
+  - {name: Andrew Davison, user: davison_andrew}
   - {name: Marcel Stimberg, user: stimberg_marcel}
   - {name: Camille Marini, user: marini_camille}
   latitude: 49.012778
