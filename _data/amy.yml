@@ -18,6 +18,10 @@ airports:
   - {name: Amali Thrimawithana, user: thrimawithana_amali}
   - {name: Nicolas Fauchereau, user: fauchereau_nicolas}
   - {name: Markus Mueller, user: mueller_markus}
+  - {name: Vicky Fan, user: fan_vicky}
+  - {name: Elena Denisenko, user: denisenko_elena}
+  - {name: Ashar Malik, user: malik_ashar_2}
+  - {name: Ivan Welsh, user: welsh_ivan}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
