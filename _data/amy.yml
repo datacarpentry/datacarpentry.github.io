@@ -13,6 +13,7 @@ airports:
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {name: Cameron McLean, user: mclean_cameron}
   - {name: Tim McNamara, user: mcnamara_tim}
+  - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: John Rugis, user: rugis_john}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
   - {name: Amali Thrimawithana, user: thrimawithana_amali}
@@ -108,6 +109,7 @@ airports:
   - {name: Francis Gacenga, user: gacenga_francis}
   - {name: Anup Shah, user: shah_anup}
   - {name: Kim Keogh, user: keogh_kim}
+  - {name: Marco Fahmi, user: fahmi_marco}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
@@ -167,6 +169,9 @@ airports:
   - {name: Sung Eun Bae, user: bae_sung}
   - {name: Constantine Zakkaroff, user: zakkaroff_constantine}
   - {name: Richard Clare, user: clare_richard}
+  - {name: Viktor Polak, user: polak_viktor}
+  - {name: Christopher Thomson, user: thomson_christopher}
+  - {name: Michael Gauland, user: gauland_michael}
   latitude: -43.489167
   longitude: 172.532222
   name: Christchurch
