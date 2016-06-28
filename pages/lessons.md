@@ -146,7 +146,7 @@ The focus of this workshop is on working with genomics data and data management 
 
 #### Overview
 
-This workshop is co-developed with the National Earth Observatory Network [(NEON)](http://www.neon.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.
+This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.
 
 #### Lessons
 
