@@ -10,7 +10,7 @@ permalink: "/workshops-attend/"
 Most of our workshops our hosted at individual institutions or departments,
 and people from those departments receive priority.
 
-If you are interested in attending a workshop, keep an eye on our our [Upcoming workshops](/workshops-upcoming/) page, or look in to ways to get someone to [Host](/worksshops-host/) 
+If you are interested in attending a workshop, keep an eye on our our [Upcoming workshops](/workshops-upcoming/) page, or look in to ways to get someone to [Host](/workshops-host/) 
 a workshop at your organization. 
 
 We are also working on developing strategies to deliver workshops outside of individual
