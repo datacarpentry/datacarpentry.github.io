@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Lessons"
 title: Data Carpentry Genomics and Asssessment Hackathon
 teaser: "Announcing a Data Carpentry Genomics and Assessment Hackathon"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 Through the support of [SESYNC](https://www.sesync.org), [BEACON](http://beacon-center.org) and

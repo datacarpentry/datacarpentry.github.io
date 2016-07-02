@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Instructors"
 title: "Software and Data Carpentry Instructor Training Comes to Africa"
 teaser: "Instructor training event will take place in Potchefstroom, North-West Province, South Africa from 17 - 20 April 2016"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 **by Anelda van der Walt**

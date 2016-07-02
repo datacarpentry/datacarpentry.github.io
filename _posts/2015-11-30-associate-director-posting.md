@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Staff"
 title: "Hiring an Associate Director"
 teaser: "We're hiring an Associate Director to lead community engagement and education efforts"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 

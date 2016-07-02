@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Workshops"
 title: "Hello, Spatio-temporal Data Carpentry"
 teaser: "News from the pilot of the spatial data Data Carpentry workshop"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 **By: Leah Wasser**  

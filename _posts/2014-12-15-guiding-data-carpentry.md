@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Lessons"
 title: Guiding Data Carpentry
 teaser: "Guidelines and directions for Data Carpentry"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 ## Guiding Data Carpentry

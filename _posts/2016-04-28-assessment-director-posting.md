@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Staff"
 title: "Hiring a Deputy Director of Assessment"
 teaser: "We're hiring a Deputy Director of Assessment to study the impact we are having"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 [Data Carpentry is hiring](http://www.datacarpentry.org/jobs/)!
 

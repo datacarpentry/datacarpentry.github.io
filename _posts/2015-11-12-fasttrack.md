@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Instructors"
 title: "Data Carpentry Instructor Certification <br>for Software Carpentry Instructors"
 teaser: "Already a Software Carpentry instructor? Become a Data Carpentry instructor too!"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 Data Carpentry has been growing over the last year, and now with the addition of Maneesha Sane as Program Coordinator, we have the chance to run even more workshops in more domains. To date, we have used some great instructors from the Software Carpentry community as teachers; what we would like to do now is put that on a more regular footing.
