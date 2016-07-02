@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Curriculum"
 title: "Data Carpentry to adopt Reproducible Research Curriculum"
 teaser: "Curriculum added to Data Carpentry to further support training in reproducible research"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 **by Karen Cranston**

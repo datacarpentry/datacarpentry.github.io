@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Staff"
 title: "Welcoming our new Associate Director"
 teaser: "Dr. Erin Becker starts as the new Data Carpentry Associate Director"
@@ -8,7 +8,8 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
+authors: ["Tracy Teal", "Erin Becker"]
 ---
 
 We are excited to announce that Dr. Erin Becker has accepted the position of
