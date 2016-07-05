@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Workshops"
 title: "Starting off Data Carpentry in 2016"
 teaser: "Several workshops starting off Data Carpentry in 2016"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 In 2015 we were just starting out as an organization and ran limited workshops as we were working to scale. With many Software Carpentry instructors now certified as Data Carpentry instructors, our Program Coordinator, Maneesha Sane, coordinating workshops, a new website and an instructor database, in 2016 we're set to do a lot more!

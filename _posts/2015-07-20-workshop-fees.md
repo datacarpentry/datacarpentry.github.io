@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Administration"
 title: Data Carpentry Workshop Fees
 teaser: "Workshop fees to increase for workshops scheduled after September 1, 2015 to help
@@ -9,7 +9,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 After discussion with our Steering Committee and the Software Carpentry Foundation, 

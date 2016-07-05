@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Training"
 title: "R Instructor Training"
 teaser: "Applications are now open for R instructor training"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 authors: ["Greg Wilson"]
 ---
 Thanks to generous sponsorship from the [R Consortium](https://www.r-consortium.org/),

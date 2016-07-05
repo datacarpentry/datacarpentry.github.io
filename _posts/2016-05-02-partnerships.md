@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 subheadline: "Partnerships"
 title: "Announcing Partnerships"
 teaser: "There are now opportunities to be partners with Data Carpentry and Software Carpentry"
@@ -8,7 +8,7 @@ header:
 categories:
    - blog
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 We've been hearing of the interest of organizations to build local capacity for training  and to be able run both Data and [Software Carpentry](http://www.software-carpentry.org) workshops. **We are excited to announce that Data Carpentry and Software Carpentry are now offering joint partnerships!** These partnerships will give member organizations the benefits of running workshops from either the Software Carpentry or Data Carpentry community. At the Silver and above tiers there will also be instructor training and capacity building services provided.
