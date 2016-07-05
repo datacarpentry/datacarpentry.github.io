@@ -16,6 +16,7 @@ airports:
   - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: John Rugis, user: rugis_john}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
+  - {name: Elsie Jacobson, user: jacobson_elsie}
   - {name: Amali Thrimawithana, user: thrimawithana_amali}
   - {name: Nicolas Fauchereau, user: fauchereau_nicolas}
   - {name: Markus Mueller, user: mueller_markus}
@@ -61,6 +62,7 @@ airports:
   instructors:
   - {name: Sheldon McKay, user: mckay_sheldon}
   - {name: R. David Murray, user: murray_david}
+  - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Saira Kazmi, user: kazmi_saira}
   latitude: 41.938889
   longitude: -72.683056
@@ -207,6 +209,7 @@ airports:
 - country: us
   instructors:
   - {name: Neal Davis, user: davis_neal}
+  - {name: Kathryn Huff, user: huff_k}
   - {name: David LeBauer, user: lebauer_david}
   latitude: 40.039167
   longitude: -88.278056
