@@ -39,7 +39,7 @@ urlimg: "http://datacarpentry.github.io/images/"
 
 
 # Logo size is 600x80 pixels
-logo: "DC2_logo_small.png"
+logo: "DC3_logo_small.png"
 
 # Flag size for workshop display is 16x16 pixels
 flag_size       : 16
