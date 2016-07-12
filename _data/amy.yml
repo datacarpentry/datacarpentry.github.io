@@ -61,6 +61,7 @@ airports:
 - country: us
   instructors:
   - {name: Sheldon McKay, user: mckay_sheldon}
+  - {name: James Mickley, user: mickley_james}
   - {name: R. David Murray, user: murray_david}
   - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Saira Kazmi, user: kazmi_saira}
