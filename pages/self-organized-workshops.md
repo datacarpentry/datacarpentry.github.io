@@ -9,7 +9,15 @@ permalink: "/self-organized-workshops/"
 
 Are you a Data Carpentry instructor interested in running a workshop for your group or organization?  In hosted workshops, to ensure dependable pre and and post-workshop logistics and communication, the Data Carpentry staff handles all non-local logistics including registration, setting the curriculum, corresponding with participants, distributing surveys, and recruiting teachers. A **self-organized workshop** is a workshop for which there is a lead instructor who is willing and able to carry out these and other workshop logistics so that support from Data Carpentry staff is not needed. Self-organized workshops must still be registered with Data Carpentry in advance.
 
-Already know the details and requirements? [Request a self-organized workshop](https://amy.software-carpentry.org/workshops/dc/request/)
+Already know the details and requirements? [Request a self-organized workshop](https://amy.software-carpentry.org/workshops/dc/request/)  
+
+Want more details to help you plan your workshop? Check out these resources:  
+- [Responsibilities of the lead instructor/host](/self-org-lead/)  
+- [Responsibilities of the instructors](/instructor-checklist/)  
+- [Equipment you will need](/equipment-checklist/)  
+- [Accessibility](/accessibility/)  
+- [Email templates](/email-templates/)  
+- [Troubleshooting and helpful resources](/troubleshooting/) 
 
 If you are not able to handle the logistics for a workshop, or if you do not meet the self-organized workshop requirements, please request a [workshop coordinated by Data Carpentry](/workshops-host/).
 
