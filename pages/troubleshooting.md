@@ -8,7 +8,7 @@ permalink: "/troubleshooting/"
 ---
 
 ** Code of Conduct violations **
-If you believe someone is violating the [Code of Conduct](/code-of-conduct/), please contact the event host so that they can take any appropriate immediate response. If you believe anyone is in physical danger, please notify appropriate law enforcement first. **All reports will be kept confidential.** For more details on reporting Code of Conduct violations, please see our [reporting guide](/CoC_reporting/).
+If you believe someone is violating the [Code of Conduct](/code-of-conduct/), please contact the event host so that they can take any appropriate immediate response. **All reports will be kept confidential.** If you believe anyone is in physical danger, please notify appropriate law enforcement first. For more details on reporting Code of Conduct violations, please see our [reporting guide](/CoC_reporting/).
 
 
 ** Configuration problems ** 
