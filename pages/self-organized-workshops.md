@@ -17,7 +17,7 @@ Want more details to help you plan your workshop? Check out these resources:
 - [Equipment you will need](/equipment-checklist/)  
 - [Accessibility](/accessibility/)  
 - [Email templates](/email-templates/)  
-- [Troubleshooting and helpful resources](/troubleshooting/) 
+- [Troubleshooting and helpful resources](/troubleshooting/)  
 Keep in mind that the workshop organizer (whether that be the lead instructor or a non-instructor host) is ultimately reponsible for ensuring that all of the tasks detailed above are completed.
 
 If you are not able to handle the logistics for a workshop, or if you do not meet the self-organized workshop requirements, please request a [workshop coordinated by Data Carpentry](/workshops-host/).
