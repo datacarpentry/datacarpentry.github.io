@@ -53,6 +53,11 @@
 - title: Lessons
   url: "/lessons/"
   side: left
+  dropdown:
+  - title: "Overview of Lessons"
+    url: "/lessons/"
+  - title: "Roadmap for Lesson Development"
+    url: "/lessons-incubation/"
 
 - title: Blog
   url: "/blog/"
