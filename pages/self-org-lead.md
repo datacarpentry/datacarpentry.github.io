@@ -11,11 +11,12 @@ Usually for a self-organized workshop, the lead instructor is also the host. For
 
 
 - [ ] Make sure that you meet all of the [requirements](/self-organized-workshops/#self-organized-workshop-requirements) to run a self-organized workshop
-- [ ] Decide on your [curriculum](http://www.datacarpentry.org/workshops/)  
+- [ ] Decide on your [curriculum](/workshops/)  
 - [ ] [Recruit co-instructor(s)](/email-templates/#recruiting-co-instructors)  
 - [ ] [Request a self-organized workshop](https://amy.software-carpentry.org/workshops/dc/request/)  
 - [ ] Find and book a venue  
-- [ ] Ensure venue is [accessible](/accessibility/)  
+- [ ] Ensure your venue is [accessible](/accessibility/)  
+- [ ] Create an Etherpad for your workshop at http://pad.software-carpentry.org/YYYY-MM-DD-site (where "YYYY-MM-DD-site" is the ID of your workshop)
 - [ ] [Set up your workshop website](https://github.com/datacarpentry/workshop-template)  
 - [ ] Set up your workshop registration page  
 - [ ] Send your website repository’s URL to the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  
@@ -27,5 +28,5 @@ Usually for a self-organized workshop, the lead instructor is also the host. For
 - [ ] [Remind learners](/email-templates/#email-learners-before-workshop) about workshop location, timing and installation requirements and send out the pre-workshop survey  
 - [ ] Gather [required materials](/equipment-checklist/)  
 - [ ] Collect attendee names and emails at workshop  
-- [ ] Send out the [post-workshop survey](/email-templates/#email-learners-after-workshop)  
-- [ ] Send information on workshop attendance to [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org)  
+- [ ] Send out the [post-workshop survey](/email-templates/#email-learners-after-workshop) (it's best to do this at the very end of the workshop)  
+- [ ] Send information on workshop attendance to [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  

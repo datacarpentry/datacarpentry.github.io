@@ -10,7 +10,18 @@ permalink: "/workshops-host/"
 **Information on how to request and host a Data Carpentry workshop.**
 
 
-Already know the details? [Request a Workshop!](https://amy.software-carpentry.org/workshops/dc/request/)
+Already know the details? [Request a Workshop!](https://amy.software-carpentry.org/workshops/dc/request/)  
+
+Want more details to help you plan your workshop? Check out these resources:
+- [Responsibilities of the host](/host-checklist/)
+- [Responsibilities of the lead instructor]{/hosted-lead/)  
+- [Responsibilities of the instructors](/instructor-checklist/)  
+- [Equipment you will need](/equipment-checklist/)  
+- [Accessibility](/accessibility/)  
+- [Email templates](/email-templates/)  
+- [Troubleshooting and helpful resources](/troubleshooting/)  
+
+Data Carpentry administration will take care of all non-local logistical details. You can see a list of what we take care of [here](/admin/). If you have special needs for any of these pieces of the workshop, please contact the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org).  
 
 For information on what we teach, see our [Lessons](/lessons/).
 
