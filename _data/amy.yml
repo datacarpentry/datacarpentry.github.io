@@ -61,6 +61,7 @@ airports:
 - country: us
   instructors:
   - {name: Sheldon McKay, user: mckay_sheldon}
+  - {name: James Mickley, user: mickley_james}
   - {name: R. David Murray, user: murray_david}
   - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Saira Kazmi, user: kazmi_saira}
@@ -618,6 +619,12 @@ airports:
   name: Kansas City, KS
 - country: us
   instructors:
+  - {name: Sergio Marconi, user: marconi_sergio}
+  latitude: 28.428889
+  longitude: -81.315833
+  name: Orlando, FL
+- country: us
+  instructors:
   - {name: David Jones, user: jones_dm}
   - {name: Alex Bajcz, user: bajcz_alex}
   latitude: 40.193333
@@ -765,6 +772,7 @@ airports:
   - {name: Blake Stamps, user: stamps_blake}
   - {name: Jason Sherman, user: sherman_jason}
   - {name: Sarah Clayton, user: clayton_sarah}
+  - {name: Jamie Hadwin, user: hadwin_jamie}
   - {name: Peter Hoyt, user: hoyt_peter}
   - {name: Phillip Doehle, user: doehle_phillip}
   - {name: Patrick Boyle, user: boyle_patrick}
@@ -1202,6 +1210,7 @@ airports:
   - {name: Tom Wright, user: wright_thomas}
   - {name: Brendan Smithyman, user: smithyman_brendan}
   - {name: Madeleine Bonsma, user: bonsma_madeleine}
+  - {name: Lindsay Coome, user: coome_lindsay}
   - {name: Sarah Meister, user: meister_sarah}
   - {name: Elliott Sales de Andrade, user: sales_elliott}
   - {name: Ricardo Harripaul, user: harripaul_ricardo}
@@ -1403,6 +1412,7 @@ airports:
   name: A Carnevalli Airport
 - country: ca
   instructors:
+  - {name: Jeff Stafford, user: stafford_jeff}
   - {name: Hartmut Schmider, user: schmider_hartmut}
   - {name: Gang Liu, user: liu_gang}
   latitude: 44.226524
@@ -1569,6 +1579,7 @@ airports:
   instructors:
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
   - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {name: Ben Jolly, user: jolly_ben}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -2740,13 +2751,29 @@ badges:
   - {awarded: '2016-05-13', name: Neal Davis, user: davis_neal}
   - {awarded: '2016-04-17', name: Ariel Rokem, user: rokem_a}
   - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
+  - {awarded: '2016-07-12', name: Lex Nederbragt, user: nederbragt_l}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', pr, us]
-timestamp: 20160711T100738Z
+timestamp: 20160719T134027Z
 workshops:
 - &id002
+  - address: Dr Chau Chak Wing Building, UTS Building 8, 14-28 Ultimo Road, Ultimo,
+      NSW
+    contact: ''
+    country: au
+    end: 2016-07-14
+    eventbrite_id: ''
+    humandate: Jul 12-14, 2016
+    latitude: -33.880842
+    longitude: 151.202238
+    slug: 2016-07-20-UTS_Library_Data_Carpentry
+    start: 2016-07-12
+    tags:
+    - {name: DC}
+    url: https://alistairwalsh.github.io/2016-07-20-UTS_Library_Data_Carpentry/
+    venue: University of Technology Sydney
   - address: 1-07 Humanities Centre
     contact: john.simpson@computecanada.ca
     country: ca
@@ -3625,6 +3652,34 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 'Wang Center, Lecture Hall #2'
+    contact: William Thornton <wsttiger@gmail.com>
+    country: US
+    end: 2016-08-20
+    eventbrite_id: '26034937198'
+    humandate: Aug 19-20, 2016
+    latitude: 30.512958
+    longitude: -96.29399
+    slug: 2016-08-19-stonybrook
+    start: 2016-08-19
+    tags:
+    - {name: DC}
+    url: https://hnakhoul.github.io/2016-08-18-stonybrook/
+    venue: Stony Brook University
+  - address: 72 E Concord St, Boston, MA, Room L203
+    contact: crepler@bu.edu
+    country: US
+    end: 2016-07-27
+    eventbrite_id: ''
+    humandate: Jul 26-27, 2016
+    latitude: 42.336389
+    longitude: -71.072403
+    slug: 2016-07-26-BU
+    start: 2016-07-26
+    tags:
+    - {name: DC}
+    url: jhollist.github.io/2016-07-26-boston-university/
+    venue: Boston University School of Medicine
   - address: Philippines, Quezon City
     contact: michellergaither@gmail.com, ecrandall@csumb.edu, maneesha@software-carpentry.org
     country: PH
