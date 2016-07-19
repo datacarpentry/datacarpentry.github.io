@@ -22,7 +22,7 @@ Usually for a self-organized workshop, the lead instructor is also the host. For
 - [ ] [Recruit helpers](/email-templates/#recruiting-helpers) (at least 1 per 12 participants)  
 - [ ] [Advertise](/email-templates/#advertising-your-workshop) your workshop  
 - [ ] Pay the [self-organized workshop fee](/self-organized-workshops/#fees-for-self-organized-workshops)  
-- [ ] Train your co-instructors [how to use Data Carpentry practices](https://swcarpentry.github.io/instructor-training/16-practices/) to teach  
+- [ ] Train your co-instructors [how to use Data Carpentry practices](http://swcarpentry.github.io/instructor-training/16-practices/) to teach  
 - [ ] [Prepare to teach your material](/instructor-checklist/)  
 - [ ] [Remind learners](/email-templates/#email-learners-before-workshop) about workshop location, timing and installation requirements and send out the pre-workshop survey  
 - [ ] Gather [required materials](/equipment-checklist/)  
