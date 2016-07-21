@@ -3,13 +3,13 @@ layout: page-fullwidth
 show_meta: false
 title: "Host checklist"
 header:
-image_fullwidth: "wood_plank.jpg"
+    image_fullwidth: "wood_plank.jpg"
 permalink: "/host-checklist/"
 ---
 
 Hosts are reponsible for all local workshop logistics. The Data Carpentry workshop coordinator supports workshop hosts by taking care of all non-local workshop logistics. For more details on the workshop coordinator's role, see the [administrative checklist](/admin/).
 
-- [ ] Decide on the [curriculum](/workshops/} that would best serve your learners  
+- [ ] Decide on the [curriculum](/workshops/) that would best serve your learners  
 - [ ] Fill out the [workshop request form](https://amy.software-carpentry.org/workshops/dc/request/)  
 - [ ] Work with the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) to set the time and location for your workshop  
 - [ ] Book your venue  
