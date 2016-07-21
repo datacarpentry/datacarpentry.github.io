@@ -7,9 +7,13 @@ header:
 permalink: "/admin/"
 ---
 
-The Data Carpentry workshop coordinator supports workshop hosts by taking care of all non-local workshop logistics. Hosts are reponsible for local logistics. For more details on the host's responsibilities, see the [host checklist](/host-checklist/).  
+**Information on Data Carpentry's responsibilities for centrally-organized workshops.**
 
-For hosted workshops, the Data Carpentry workshop coordinator:  
+For centrally-organized workshops, the Data Carpentry workshop coordinator supports workshop hosts by taking care of all non-local workshop logistics. Hosts are reponsible for local logistics. For more details on the host's responsibilities, see the [host checklist](/host-checklist/).  
+
+*If your workshop is self-organized, the host is responsible for <u>all</u> logistics. See the [self-organized host/lead-instructor checklist](/self-org-lead/) for hosting responsibilities for self-organized workshops.*
+
+For centrally-organized workshops, our workshop coordinator:  
 
 - [ ] Assists hosts in selecting an appropriate time and location for their workshop and provides other guidance on local logistics.  
 - [ ] Recruits and selects instructors meeting the host's requirements.  
@@ -20,7 +24,7 @@ For hosted workshops, the Data Carpentry workshop coordinator:
 - [ ] Maintains records of workshop details in Data Carpentry's internal database.  
 - [ ] Helps advertise the workshop on the Data Carpentry Twitter feed and discussion list (if requested).  
 - [ ] Follows up with instructors to participate in post-workshop debriefing sessions and assists with debriefing.  
-- [ ] Coordinates sharing of pre- and post-workshop survey answers with hosts and instructors.  
+- [ ] Coordinates sharing of pre- and post-workshop survey responses with hosts and instructors.  
 - [ ] Serves as the point of contact for hosts and instructors to answer questions and provide additional resources as needed.  
 
-The Data Carpentry workshop coordinator helps ensure that your workshop provides a high-quality learning experience targeted to your institutions' needs. If you have any questions about the workshop coordinator's role or would like to make specialized arrangements for any of these pieces of your workshop, please contact the [Data Carpentry admin](mailto:admin@datacarpentry.org) (admin@datacarpentry.org). 
+The Data Carpentry workshop coordinator helps ensure that your workshop provides a high-quality learning experience targeted to your institutions' needs. If you have any questions about the workshop coordinator's role or would like to make specialized arrangements for any of these pieces of your workshop, please contact the [coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org). 

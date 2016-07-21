@@ -17,18 +17,19 @@ The lead instructor is also responsible for preparing to teach the material - se
 *If your workshop is self-organized, the lead instructor is often also the host and is responsible for <u>all</u> logistics. See the [self-organized host/lead-instructor checklist](/self-org-lead/) for hosting responsibilities for self-organized workshops.*
 
 ## Before the workshop:  
-- [ ] With the workshop host and your co-instructors, decide on your [curriculum](/workshops/}, the order of lessons and who will teach each lesson  
+- [ ] With the workshop host and your co-instructors, decide on your [curriculum](/workshops/), the order of lessons and who will teach each lesson  
 - [ ] Create an Etherpad for your workshop at http://pad.software-carpentry.org/YYYY-MM-DD-site (where "YYYY-MM-DD-site" is the ID of your workshop)
 - [ ] [Set up your workshop website](https://github.com/datacarpentry/workshop-template)  
 - [ ] Send your website repository’s URL to the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  
 - [ ] Assist the workshop host with [recruiting helpers](/email-templates/#recruiting-helpers) (at least 1 per 12 participants)  
 - [ ] Coordinate with the host to ensure the workshop is [accessible](/accessibility/)  
 - [ ] [Prepare to teach your material](/instructor-checklist/) 
+- [ ] [Remind learners](/email-templates/#email-learners-before-workshop) about workshop location, timing and installation requirements and send out the pre-workshop survey  
 
 ## During the workshop:  
-- [ ] Ensure that attendee names and emails are collected at workshop
+- [ ] Ensure that attendee names and emails are collected at your workshop
 - [ ] Send out the [post-workshop survey](/email-templates/#email-learners-after-workshop) (it's best to do this at the very end of the workshop)  
 
 ## After the workshop:  
-- [ ] Coordinate with the host to send information on workshop attendance to [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  
+- [ ] Coordinate with the host to send information on workshop attendance to the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  
 - [ ] Complete the same post-workshop instructor tasks as the [other instructors](/instructor-checklist/)
