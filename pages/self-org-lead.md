@@ -1,14 +1,17 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Lead instructor checklist"
+title: "Lead instructor/Host checklist"
 header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/self-org-lead/"
 ---
 
+**Information on hosting responsibilities for self-organized workshops.**
+
 Usually for a self-organized workshop, the lead instructor is also the host. For instances where this is not the case, the lead instructor and host should decide together how to split these responsibilities. The lead instructor is also responsible for preparing to teach the material - see the [Instructor checklist](/instructor-checklist/) for details.
 
+*If your workshop is centrally-organized, the Data Carpentry workshop coordinator supports workshop hosts by taking care of all non-local workshop logistics. See the [centrally-organized host checklist](/host-checklist/) for hosting responsibilities for centrally-organized workshops.*
 
 - [ ] Make sure that you meet all of the [requirements](/self-organized-workshops/#self-organized-workshop-requirements) to run a self-organized workshop
 - [ ] Decide on your [curriculum](/workshops/)  

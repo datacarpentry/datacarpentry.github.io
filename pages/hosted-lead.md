@@ -7,10 +7,14 @@ header:
 permalink: "/hosted-lead/"
 ---
 
+**Information on lead instructor responsibilities for centrally-organized workshops.**
+
 Lead instructors are responsible for co-ordinating with co-instructors and the host about the curriculum. They are also responsible for setting up the workshop's web page and for distributing learner surveys. All of these duties can be delegated, but it's the lead instructor's responsibility to make sure they are done. If you've been assigned the lead instructor role, but aren't comfortable with it, or find that you don't have the time, let the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) know as soon as possible (admin@datacarpentry.org).
 
 
 The lead instructor is also responsible for preparing to teach the material - see the [Instructor checklist](/instructor-checklist/) for details.
+
+*If your workshop is self-organized, the lead instructor is often also the host and is responsible for <u>all</u> logistics. See the [self-organized host/lead-instructor checklist](/self-org-lead/) for hosting responsibilities for self-organized workshops.*
 
 ## Before the workshop:  
 - [ ] With the workshop host and your co-instructors, decide on your [curriculum](/workshops/}, the order of lessons and who will teach each lesson  

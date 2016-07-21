@@ -7,7 +7,11 @@ header:
 permalink: "/host-checklist/"
 ---
 
-Hosts are reponsible for all local workshop logistics. The Data Carpentry workshop coordinator supports workshop hosts by taking care of all non-local workshop logistics. For more details on the workshop coordinator's role, see the [administrative checklist](/admin/).
+**Information on host responsibilities for centrally-organized workshops.**
+
+For centrally-organized workshops, hosts are reponsible for all local workshop logistics. The Data Carpentry workshop coordinator supports workshop hosts by taking care of all non-local workshop logistics. For more details on the workshop coordinator's role, see the [administrative checklist](/admin/).
+
+*If your workshop is self-organized, the host is responsible for <u>all</u> logistics. See the [self-organized host/lead-instructor checklist](/self-org-lead/) for hosting responsibilities for self-organized workshops.*
 
 - [ ] Decide on the [curriculum](/workshops/) that would best serve your learners  
 - [ ] Fill out the [workshop request form](https://amy.software-carpentry.org/workshops/dc/request/)  
