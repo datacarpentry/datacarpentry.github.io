@@ -24,7 +24,8 @@ The lead instructor is also responsible for preparing to teach the material - se
 - [ ] Assist the workshop host with [recruiting helpers](/email-templates/#recruiting-helpers) (at least 1 per 12 participants)  
 - [ ] Coordinate with the host to ensure the workshop is [accessible](/accessibility/)  
 - [ ] [Prepare to teach your material](/instructor-checklist/) 
-- [ ] [Remind learners](/email-templates/#email-learners-before-workshop) about workshop location, timing and installation requirements and send out the pre-workshop survey  
+- [ ] [Email learners](/email-templates/#email-learners-before-workshop) to remind them about workshop location, timing and installation requirements and send out the pre-workshop survey 
+- [ ] Check with the host to make sure they have the necessary [equipment](/equipment-checklist/), especially sticky notes
 
 ## During the workshop:  
 - [ ] Ensure that attendee names and emails are collected at your workshop

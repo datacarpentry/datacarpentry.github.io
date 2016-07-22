@@ -38,7 +38,7 @@ In order to ensure that self-organized workshops are consistent in quality and c
 <br>
 If your university or organization is a Partner of Data Carpentry or a current Partner or Affiliate of the Software Carpentry Foundation, self-organized workshops are free.
 
-For non-affiliated organizations, the cost for self-organized workshops is either $500 (paid up front by the organization) or $25/participant (paid by the participant when registering). This fee helps cover the central costs that keep Data Carpentry running, including infrastructure, instructor training and continued lesson development. The flat fee can be paid directly using a credit card or can be invoiced. The per participant fee can be set up as part of the registration form.
+For non-affiliated organizations, the cost for self-organized workshops is either $500 (paid directly by the organization) or $25/participant (paid by the participant when registering). This fee helps cover the central costs that keep Data Carpentry running, including infrastructure, instructor training and continued lesson development. The flat fee can be paid directly using a credit card or can be invoiced. The per participant fee can be set up as part of the registration form.
 
 If your organization or your learners cannot afford these fees, waivers are available to certified instructors. We never want a lack of funds to prevent researchers from learning these crucial skills and since our instructors volunteer their time we don't want to get in their way when they want to teach. Please keep in mind, though, that the long-term sustainability of Data Carpentry depends on support from the learners and organizations that benefit from this training.
 <!--

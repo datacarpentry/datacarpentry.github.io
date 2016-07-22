@@ -20,16 +20,17 @@ Usually for a self-organized workshop, the lead instructor is also the host. For
 - [ ] Find and book a venue  
 - [ ] Ensure your venue is [accessible](/accessibility/)  
 - [ ] Create an Etherpad for your workshop at http://pad.software-carpentry.org/YYYY-MM-DD-site (where "YYYY-MM-DD-site" is the ID of your workshop)
-- [ ] [Set up your workshop website](https://github.com/datacarpentry/workshop-template)  
 - [ ] Set up your workshop registration page  
+- [ ] [Set up your workshop website](https://github.com/datacarpentry/workshop-template)  
 - [ ] Send your website repository’s URL to the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  
 - [ ] [Recruit helpers](/email-templates/#recruiting-helpers) (at least 1 per 12 participants)  
 - [ ] [Advertise](/email-templates/#advertising-your-workshop) your workshop  
 - [ ] Pay the [self-organized workshop fee](/self-organized-workshops/#fees-for-self-organized-workshops)  
 - [ ] Train your co-instructors [how to use Data Carpentry practices](http://swcarpentry.github.io/instructor-training/16-practices/) to teach  
 - [ ] [Prepare to teach your material](/instructor-checklist/)  
-- [ ] [Remind learners](/email-templates/#email-learners-before-workshop) about workshop location, timing and installation requirements and send out the pre-workshop survey  
+- [ ] [Email learners](/email-templates/#email-learners-before-workshop) to remind them about workshop location, timing and installation requirements and send out the pre-workshop survey  
 - [ ] Gather [required materials](/equipment-checklist/)  
+- [ ] Arrange for coffee and snacks if desired (learners do appreciate this!)  
 - [ ] Collect attendee names and emails at workshop  
 - [ ] Send out the [post-workshop survey](/email-templates/#email-learners-after-workshop) (it's best to do this at the very end of the workshop)  
 - [ ] Send information on workshop attendance to [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  

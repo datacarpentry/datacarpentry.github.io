@@ -24,5 +24,6 @@ For centrally-organized workshops, hosts are reponsible for all local workshop l
 - [ ] Make sure instructors know how to submit their travel reimursement forms
 - [ ] Get emergency contact information for instructors and helpers in case of last-minute changes
 - [ ] Gather [required materials](/equipment-checklist/)  
+- [ ] Arrange for coffee and snacks if desired (learners do appreciate this!)  
 - [ ] Collect workshop attendance sheet and photo release forms (if needed)
 - [ ] Send information on workshop attendance and any feedback you have to the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)  
