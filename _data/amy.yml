@@ -1579,7 +1579,9 @@ airports:
   instructors:
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
   - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {name: Silvia Canessa, user: canessa_silvia}
   - {name: Ben Jolly, user: jolly_ben}
+  - {name: Leo Browning, user: browning_leo}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -2765,7 +2767,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', pr, us]
-timestamp: 20160723T145727Z
+timestamp: 20160725T150239Z
 workshops:
 - &id002
   - address: West Palm Beach, FL
