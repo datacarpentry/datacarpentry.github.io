@@ -24,9 +24,11 @@ for its instructor training program:
 
 They have made a lot of progress on all three,
 and are therefore now able to offer instructor training once again
-to people who aren't affiliated with our partner organizations.
+to people who aren't affiliated with our partner organizations,
+but would like to teach Data Carpentry, Software Carpentry, or both
+(as the course is shared by both organizations).
 If you wish to apply to take part
-in one of the two open-enrollment classes we will offer this fall,
+in one of the two open-enrollment classes they will offer this fall,
 please fill in the form at:
 
 <https://amy.software-carpentry.org/workshops/request_training/>
@@ -38,6 +40,14 @@ They will notify applicants as spaces become available.
 If you have any questions,
 please mail
 [training@software-carpentry.org](mailto:training@software-carpentry.org).
+
+If you would like to accelerate the process,
+check out our [Partnership program](http://www.datacarpentry.org/partnerships/).
+Organizational partners make ongoing commitments to supporting our organization
+and are prioritized for instructor training.
+If you need help making the case at your organization,
+please [mail us](mailto:partnerships@software-carpentry.org):
+we'd be happy to chat.
 
 Please note that as a condition of taking this training, you must:
 
@@ -53,14 +63,6 @@ Please note that as a condition of taking this training, you must:
     The tasks take a total of approximately 8-10 hours,
     and are described at
     <http://swcarpentry.github.io/instructor-training/checkout/>.
-
-If you would like to accelerate the process,
-check out our [Partnership program](http://www.datacarpentry.org/partnerships/).
-Organizational partners make ongoing commitments to supporting our organization
-and are prioritized for instructor training.
-If you need help making the case at your organization,
-please [mail us](mailto:partnerships@software-carpentry.org):
-we'd be happy to chat.
 
 For more information on instructor training,
 please see the course material at:
