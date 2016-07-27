@@ -68,3 +68,5 @@ For more information on instructor training,
 please see the course material at:
 
 <http://swcarpentry.github.io/instructor-training/>
+
+Please also see [this additional post](http://software-carpentry.org/blog/2016/07/more-on-instructor-training.html), which answers some frequently-asked questions about this training.
