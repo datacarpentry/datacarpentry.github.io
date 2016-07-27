@@ -24,6 +24,6 @@ Instructors contribute to the community in numerous ways, including teaching wor
 
 If you currently are or anticipate being involved in Data Carpentry in any capacity, we want to learn more about your interest and support for teaching for for-profit organizations! Please fill out [this survey](http://tinyurl.com/datacarpentry-survey1) and help guide Data Carpentry.
 
-<p align=center>
-[-- Data Carpentry community survey about workshops for for-profit organizations -- ](http://tinyurl.com/datacarpentry-survey1)
+<p style="text-align: center;">
+[-- Data Carpentry community survey about workshops for for-profit organizations --](http://tinyurl.com/datacarpentry-survey1)
 </p>
