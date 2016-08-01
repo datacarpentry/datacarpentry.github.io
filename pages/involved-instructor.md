@@ -31,7 +31,7 @@ You must complete three short tasks after the course in order to complete certif
 
 <p align="center">
 <em>
-Registration for instructor training is currently on hold while we try to clear our backlog. If you have already applied to take part, we will keep your application in queue. Registration will reopen in Summer of 2016 - please keep an eye on our blog for announcements.
+We are currently accepting applications for instructor training. Please see our blog posts [here](http://www.datacarpentry.org/blog/reopening-instructor-training/) and [here](http://software-carpentry.org/blog/2016/07/more-on-instructor-training.html) for details. 
 </em></p>
 
 <!--
