@@ -39,7 +39,7 @@ urlimg: "http://datacarpentry.github.io/images/"
 
 
 # Logo size is 600x80 pixels
-logo: "DC2_logo_small.png"
+logo: "DC_logo_vision.png"
 
 # Flag size for workshop display is 16x16 pixels
 flag_size       : 16
@@ -107,7 +107,6 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "your_author_name"
-
 
 
 #       _   __            _             __  _           

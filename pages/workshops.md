@@ -25,4 +25,4 @@ We currently have curriculum in:
 
 Interested in learning more? See our [Lessons](../lessons/) page with links to all our lessons and information about topics and domains under development.
 
-[Request a workshop](../workshops-host/)  |   [Attend a workshop](../workshops-attend/)
+[Request a workshop](../workshops-host/)  |   [Attend a workshop](../workshops-attend/) | [Organize a workshop](../self-organized-workshops/)

@@ -31,7 +31,19 @@ format: page-fullwidth
 			</p>
 			{% endif %}
 			
-			{{ content }}
+            <div class="post-content markdown-body" itemprop="articleBody">
+            
+            <style>
+            li.a {list-style-type: none;}
+            </style>
+            
+            {{ content | replace: '<li>[ ]',
+            '<li class="a">
+            <input type="checkbox" class="task-list-item-checkbox" disabled>' |
+            replace: '<li>[x]',
+            '<li class="a">
+            <input type="checkbox" class="task-list-item-checkbox" value="on" disabled checked>'  }}
+            </div>
 
                         {% if page.comments == true %}
                         {% include comments.html %}
@@ -43,5 +55,4 @@ format: page-fullwidth
 
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
-
 
