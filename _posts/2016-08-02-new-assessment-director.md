@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline: "Staff"
-title: "Announing our new Deputy Director of Assessment"
+title: "Announcing our new Deputy Director of Assessment"
 teaser: "Dr. Kari L. Jordan joins Data Carpentry as the new Deputy Director of Assessment"
 header:
   image_fullwidth: "light-blue-wood-texture.jpg"
