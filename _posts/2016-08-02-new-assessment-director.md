@@ -4,9 +4,9 @@ subheadline: "Staff"
 title: "Announing our new Deputy Director of Assessment"
 teaser: "Dr. Kari L. Jordan joins Data Carpentry as the new Deputy Director of Assessment"
 header:
-image_fullwidth: "light-blue-wood-texture.jpg"
+  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
-- blog
+  - blog
 comments: true
 show_meta: true
 authors: ["Erin Becker", "Kari L. Jordan"]
