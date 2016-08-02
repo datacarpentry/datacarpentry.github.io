@@ -29,10 +29,7 @@ The training course runs over two full days and covers the basics of educational
 2. **Complete the Data Carpentry specific checkout process**  
 You must complete three short tasks after the course in order to complete certification. These tasks are described [here](http://swcarpentry.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours.
 
-<p align="center">
-<em>
-Registration for instructor training is currently on hold while we try to clear our backlog. If you have already applied to take part, we will keep your application in queue. Registration will reopen in Summer of 2016 - please keep an eye on our blog for announcements.
-</em></p>
+We are currently accepting applications for instructor training. Please see our blog posts [here](http://www.datacarpentry.org/blog/reopening-instructor-training/) and [here](http://software-carpentry.org/blog/2016/07/more-on-instructor-training.html) for details. 
 
 <!--
 If you are going through instructor training and need more information, please see [information]() in the [For Instructors]() section.
