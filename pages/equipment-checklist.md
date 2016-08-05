@@ -17,6 +17,7 @@ You will usually need:
 - [ ] Extension cords and power strips  
 - [ ] Guest log-ins and passwords for wifi if needed  
 - [ ] Sticky notes (two colors) - see description of how these are used [here](http://swcarpentry.github.io/instructor-training/16-practices/)  
+- [ ] Name tags and pens
 - [ ] Sign-in forms  
 - [ ] Photo release forms (if required by your institution)  
 - [ ] Name badges or stickers  
