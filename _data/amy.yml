@@ -63,6 +63,7 @@ airports:
   - {name: Sheldon McKay, user: mckay_sheldon}
   - {name: James Mickley, user: mickley_james}
   - {name: R. David Murray, user: murray_david}
+  - {name: Timothy Moore, user: moore_timothy}
   - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Saira Kazmi, user: kazmi_saira}
   latitude: 41.938889
@@ -111,6 +112,7 @@ airports:
   - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {name: Francis Gacenga, user: gacenga_francis}
   - {name: Anup Shah, user: shah_anup}
+  - {name: Joshua Thia, user: thia_joshua}
   - {name: Kim Keogh, user: keogh_kim}
   - {name: Marco Fahmi, user: fahmi_marco}
   latitude: -27.384167
@@ -399,6 +401,7 @@ airports:
   name: Frankfurt
 - country: us
   instructors:
+  - {name: Evan Peter Williamson, user: williamson_evan}
   - {name: Stephanie Labou, user: labou_stephanie}
   latitude: 47.619722
   longitude: -117.533611
@@ -450,6 +453,7 @@ airports:
   - {name: Genevieve Smith, user: smith_g}
   - {name: Jason Williams, user: williams_jason}
   - {name: Andreas Mueller, user: mueller_andreas}
+  - {name: Joslynn Lee, user: lee_joslynn}
   latitude: 40.639722
   longitude: -73.778889
   name: New York JFK, NY
@@ -619,6 +623,7 @@ airports:
   name: Kansas City, KS
 - country: us
   instructors:
+  - {name: Shawn Taylor, user: taylor_shawn}
   - {name: Sergio Marconi, user: marconi_sergio}
   latitude: 28.428889
   longitude: -81.315833
@@ -648,6 +653,7 @@ airports:
   - {name: Harriet Dashnow, user: dashnow_harriet}
   - {name: Matthew Dimmock, user: dimmock_matt}
   - {name: Kim Doyle, user: doyle_kimberly}
+  - {name: Talitha Ford, user: ford_talitha}
   - {name: Julian Garcia, user: garcia_julian}
   - {name: Philippa Griffin, user: griffin_pip}
   - {name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
@@ -666,6 +672,7 @@ airports:
   - {name: Alistair Walsh, user: walsh_alistair}
   - {name: Jared Winton, user: winton_jared}
   - {name: Steve Androulakis, user: androulakis_steve}
+  - {name: Xavier Ho, user: ho_xavier}
   - {name: Yuandra Ismiraldi, user: ismiraldi_yuandra}
   - {name: Ghulam Murtaza, user: murtaza_ghulam}
   - {name: Marek Cmero, user: cmero_marek}
@@ -754,6 +761,7 @@ airports:
   - {name: Donny Winston, user: winston_donald}
   - {name: Max Gerlock, user: gerlock_max}
   - {name: Harry Bachrach, user: bachrach_harry}
+  - {name: Garret Christensen, user: christensen_garret}
   - {name: Joseph Montoya, user: montoya_joseph}
   latitude: 37.721111
   longitude: -122.220556
@@ -934,6 +942,7 @@ airports:
   - {name: Chris Lonnen, user: lonnen_chris}
   - {name: Jessica McKellar, user: mckellar_j}
   - {name: Ben Morris, user: morris_b}
+  - {name: Madicken Munk, user: munk_madicken}
   - {name: Karthik Ram, user: ram_k}
   - {name: Ramesh Sampath, user: sampath_ramesh}
   - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
@@ -1160,6 +1169,7 @@ airports:
   - {name: Lynne Williams, user: williams_l}
   - {name: Alex Razoumov, user: razoumov_alex}
   - {name: Melissa Guzman, user: guzman_melissa}
+  - {name: Alireza Hojjati, user: hojjati_alireza}
   - {name: Steven Wu, user: swu}
   - {name: Jessica Walsh, user: jwalsh}
   - {name: Michelle Jones, user: mjones}
@@ -1176,6 +1186,7 @@ airports:
   - {name: Pauline Barmby, user: barmby_pauline}
   - {name: Patrick Chapman, user: chapman_patrick}
   - {name: Tyson Whitehead, user: whitehead_tyson}
+  - {name: Jose Nandez, user: nandez_jose}
   latitude: 43.035556
   longitude: -81.153889
   name: London, Ontario
@@ -1455,6 +1466,8 @@ airports:
 - country: za
   instructors:
   - {name: Albertus Seyffert, user: seyffert_albertus}
+  - {name: Bianca Peterson, user: peterson_bianca}
+  - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   latitude: -26.138773
   longitude: 28.241339
   name: O. R. Tambo International Airport
@@ -1579,7 +1592,9 @@ airports:
   instructors:
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
   - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {name: Silvia Canessa, user: canessa_silvia}
   - {name: Ben Jolly, user: jolly_ben}
+  - {name: Leo Browning, user: browning_leo}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -1696,6 +1711,12 @@ airports:
   latitude: 46.95923
   longitude: 6.867796
   name: Neuchatel Airport
+- country: za
+  instructors:
+  - {name: Naudene Maree, user: maree_naudene}
+  latitude: -23.855227
+  longitude: 29.455323
+  name: Polokwane International Airport
 badges:
 - name: creator
   persons:
@@ -2423,6 +2444,19 @@ badges:
   - {awarded: '2016-07-08', name: Sergio Marconi, user: marconi_sergio}
   - {awarded: '2016-07-08', name: Jeff Stafford, user: stafford_jeff}
   - {awarded: '2016-07-08', name: Saira Kazmi, user: kazmi_saira}
+  - {awarded: '2016-07-19', name: Timothy Moore, user: moore_timothy}
+  - {awarded: '2016-07-19', name: Joslynn Lee, user: lee_joslynn}
+  - {awarded: '2016-07-19', name: Jessica Upani, user: upani_jessica}
+  - {awarded: '2016-07-19', name: Xavier Ho, user: ho_xavier}
+  - {awarded: '2016-07-19', name: Evan Peter Williamson, user: williamson_evan}
+  - {awarded: '2016-07-19', name: Alireza Hojjati, user: hojjati_alireza}
+  - {awarded: '2016-07-19', name: Talitha Ford, user: ford_talitha}
+  - {awarded: '2016-07-19', name: Joshua Thia, user: thia_joshua}
+  - {awarded: '2016-07-25', name: Naudene Maree, user: maree_naudene}
+  - {awarded: '2016-07-25', name: Jose Nandez, user: nandez_jose}
+  - {awarded: '2016-07-25', name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
+  - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
+  - {awarded: '2016-07-26', name: Madicken Munk, user: munk_madicken}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2708,6 +2742,10 @@ badges:
   - {awarded: '2016-06-30', name: Elizabeth Permina, user: permina_elizabeth}
   - {awarded: '2016-06-30', name: Nora Mitchell, user: mitchell_nora}
   - {awarded: '2016-07-08', name: Rudiger Brauning, user: brauning_rudiger}
+  - {awarded: '2016-07-19', name: Shawn Taylor, user: taylor_shawn}
+  - {awarded: '2016-07-25', name: Bianca Peterson, user: peterson_bianca}
+  - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
+  - {awarded: '2016-07-26', name: Naudene Maree, user: maree_naudene}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2755,10 +2793,66 @@ badges:
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', pr, us]
-timestamp: 20160719T134027Z
+  workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us]
+timestamp: 20160802T172425Z
 workshops:
 - &id002
+  - address: 72 E Concord St, Boston, MA, Room L203
+    contact: crepler@bu.edu
+    country: us
+    end: 2016-07-27
+    eventbrite_id: ''
+    humandate: Jul 26-27, 2016
+    latitude: 42.336389
+    longitude: -71.072403
+    slug: 2016-07-26-BU
+    start: 2016-07-26
+    tags:
+    - {name: DC}
+    url: https://jhollist.github.io/2016-07-26-boston-university/
+    venue: Boston University School of Medicine
+  - address: Philippines, Quezon City
+    contact: michellergaither@gmail.com, ecrandall@csumb.edu, maneesha@software-carpentry.org
+    country: ph
+    end: 2016-07-26
+    eventbrite_id: ''
+    humandate: Jul 25-26, 2016
+    latitude: 14.701128
+    longitude: 121.044617
+    slug: 2016-07-25-philippines
+    start: 2016-07-25
+    tags:
+    - {name: DC}
+    url: https://dipnet.github.io/2016-07-25-Philippines/
+    venue: Philippines
+  - address: West Palm Beach, FL
+    contact: jstachel@sfwmd.gov
+    country: us
+    end: 2016-07-22
+    eventbrite_id: ''
+    humandate: Jul 21-22, 2016
+    latitude: 26.675907
+    longitude: -80.095131
+    slug: 2016-07-21-sfwmd
+    start: 2016-07-21
+    tags:
+    - {name: DC}
+    url: https://jsta.github.io/2016-07-21-sfwmd/
+    venue: South Florida Water Management District
+  - address: Winterthurerstrasse 190 (Irchel campus), Room Y34-J-01
+    contact: mark.robinson@imls.uzh.ch
+    country: ch
+    end: 2016-07-19
+    eventbrite_id: '26170096463'
+    humandate: Jul 18-19, 2016
+    latitude: 47.397817
+    longitude: 8.550574
+    slug: 2016-07-18-zurich
+    start: 2016-07-18
+    tags:
+    - {name: DC}
+    url: https://markrobinsonuzh.github.io/2016-07-18-zurich/
+    venue: University of Zurich
   - address: Dr Chau Chak Wing Building, UTS Building 8, 14-28 Ultimo Road, Ultimo,
       NSW
     contact: ''
@@ -3652,6 +3746,34 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 210 South Ferry Road, Saunderstown, RI 02874
+    contact: hollister.jeff@epa.ogv
+    country: US
+    end: 2016-08-30
+    eventbrite_id: ''
+    humandate: Aug 29-30, 2016
+    latitude: 41.492985
+    longitude: -71.422119
+    slug: 2016-08-29-uri
+    start: 2016-08-29
+    tags:
+    - {name: DC}
+    url: https://rhodyrstats.github.io/2016-08-29-uri/
+    venue: University of Rhode Island, Coastal Institute
+  - address: Main Library at 30 George Square, Edinburgh EH8 9LJ
+    contact: r.rice@ed.ac.uk
+    country: GB
+    end: 2016-08-23
+    eventbrite_id: ''
+    humandate: Aug 22-23, 2016
+    latitude: 55.942828
+    longitude: -3.189147
+    slug: 2016-08-22-edinburgh
+    start: 2016-08-22
+    tags:
+    - {name: DC}
+    url: https://rgaiacs.github.io/2016-08-22-edinburgh/
+    venue: University of Edinburgh
   - address: 'Wang Center, Lecture Hall #2'
     contact: William Thornton <wsttiger@gmail.com>
     country: US
@@ -3666,61 +3788,5 @@ workshops:
     - {name: DC}
     url: https://hnakhoul.github.io/2016-08-18-stonybrook/
     venue: Stony Brook University
-  - address: 72 E Concord St, Boston, MA, Room L203
-    contact: crepler@bu.edu
-    country: US
-    end: 2016-07-27
-    eventbrite_id: ''
-    humandate: Jul 26-27, 2016
-    latitude: 42.336389
-    longitude: -71.072403
-    slug: 2016-07-26-BU
-    start: 2016-07-26
-    tags:
-    - {name: DC}
-    url: jhollist.github.io/2016-07-26-boston-university/
-    venue: Boston University School of Medicine
-  - address: Philippines, Quezon City
-    contact: michellergaither@gmail.com, ecrandall@csumb.edu, maneesha@software-carpentry.org
-    country: PH
-    end: 2016-07-26
-    eventbrite_id: ''
-    humandate: Jul 25-26, 2016
-    latitude: 14.701128
-    longitude: 121.044617
-    slug: 2016-07-25-philippines
-    start: 2016-07-25
-    tags:
-    - {name: DC}
-    url: https://dipnet.github.io/2016-07-25-Philippines/
-    venue: Philippines
-  - address: West Palm Beach, FL
-    contact: jstachel@sfwmd.gov
-    country: US
-    end: 2016-07-22
-    eventbrite_id: ''
-    humandate: Jul 21-22, 2016
-    latitude: 26.675907
-    longitude: -80.095131
-    slug: 2016-07-21-sfwmd
-    start: 2016-07-21
-    tags:
-    - {name: DC}
-    url: https://jsta.github.io/2016-07-21-sfwmd/
-    venue: South Florida Water Management District
-  - address: Winterthurerstrasse 190 (Irchel campus), Room Y34-J-01
-    contact: mark.robinson@imls.uzh.ch
-    country: CH
-    end: 2016-07-19
-    eventbrite_id: '26170096463'
-    humandate: Jul 18-19, 2016
-    latitude: 47.397817
-    longitude: 8.550574
-    slug: 2016-07-18-zurich
-    start: 2016-07-18
-    tags:
-    - {name: DC}
-    url: https://markrobinsonuzh.github.io/2016-07-18-zurich/
-    venue: University of Zurich
 workshops_current: *id001
 workshops_past: *id002
