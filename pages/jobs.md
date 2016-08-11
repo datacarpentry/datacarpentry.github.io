@@ -7,5 +7,4 @@ header:
 permalink: "/jobs/"
 ---
 
-May 25, 2016  
-**We are currently reviewing the applications for the Deputy Director of Assessment position**
+There are currently no active job postings. Please check back in future for career opportunities with Data Carpentry.

@@ -109,7 +109,6 @@ airports:
   - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
   - {name: Belinda Katherine Weaver, user: weaver_belinda}
   - {name: Heidi Perrett, user: perrett_heidi}
-  - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {name: Francis Gacenga, user: gacenga_francis}
   - {name: Anup Shah, user: shah_anup}
   - {name: Joshua Thia, user: thia_joshua}
@@ -1047,6 +1046,7 @@ airports:
   - {name: Jared Berghold, user: berghold_jared}
   - {name: Joanna Diong, user: diong_joanna}
   - {name: Louis Ranjard, user: ranjard_louis}
+  - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {name: Claire Hardgrove, user: hardgrove_claire}
   latitude: -33.946111
   longitude: 151.177222
@@ -1272,7 +1272,7 @@ airports:
   - {name: Stevan Earl, user: earl_stevan}
   - {name: Arron Shiffer, user: shiffer_arron}
   - {name: John Chase, user: chase_john}
-  - {name: Varda F. Hagh, user: faghirhagh_varda}
+  - {name: Varda Faghir Hagh, user: faghirhagh_varda}
   - {name: Steven Wu, user: wu_steven}
   - {name: Adam Orr, user: orr_adam}
   latitude: 33.434167
@@ -2375,7 +2375,7 @@ badges:
   - {awarded: '2016-04-07', name: Oier Echaniz Beneitez, user: etxaniz_oier}
   - {awarded: '2016-04-07', name: Geoffrey Fucile, user: fucile_geoffrey}
   - {awarded: '2016-04-08', name: Jes Ford, user: ford_jes}
-  - {awarded: '2016-04-08', name: Varda F. Hagh, user: faghirhagh_varda}
+  - {awarded: '2016-04-08', name: Varda Faghir Hagh, user: faghirhagh_varda}
   - {awarded: '2016-04-08', name: Andreas Mueller, user: mueller_andreas}
   - {awarded: '2016-04-08', name: Shelley Knuth, user: knuth_shelley}
   - {awarded: '2016-04-08', name: Erin Dickie, user: dickie_e}
@@ -2457,6 +2457,11 @@ badges:
   - {awarded: '2016-07-25', name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
   - {awarded: '2016-07-26', name: Madicken Munk, user: munk_madicken}
+  - {awarded: '2016-08-03', name: John Didion, user: didion_john}
+  - {awarded: '2016-08-03', name: Asher Baltzell, user: baltzell_asher}
+  - {awarded: '2016-08-03', name: Jordan Masakuna, user: masakuna_jordan}
+  - {awarded: '2016-08-03', name: Markus Ankenbrand, user: ankenbrand_markus}
+  - {awarded: '2016-08-03', name: Shane Sanders, user: sanders_shane}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2746,6 +2751,7 @@ badges:
   - {awarded: '2016-07-25', name: Bianca Peterson, user: peterson_bianca}
   - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
   - {awarded: '2016-07-26', name: Naudene Maree, user: maree_naudene}
+  - {awarded: '2016-08-03', name: Markus Ankenbrand, user: ankenbrand_markus}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2794,7 +2800,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us]
-timestamp: 20160802T172425Z
+timestamp: 20160808T153659Z
 workshops:
 - &id002
   - address: 72 E Concord St, Boston, MA, Room L203
@@ -3574,6 +3580,7 @@ workshops:
     start: 2015-08-24
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: http://www.datacarpentry.org/2015-08-24-ISU/
     venue: Iowa State University
   - address: Minneapolis, Minnesota
@@ -3746,6 +3753,21 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Room G18, Building G23, Potchefstroom Campus, NWU, Gerrit Dekker Street,
+      Potchefstroom
+    contact: eresearch@nwu.ac.za
+    country: ZA
+    end: 2016-09-29
+    eventbrite_id: ''
+    humandate: Sep 26-29, 2016
+    latitude: -26.685508
+    longitude: 27.094909
+    slug: 2016-09-26-nwu-genomics
+    start: 2016-09-26
+    tags:
+    - {name: DC}
+    url: https://nwu-eresearch.github.io/2016-09-26-nwu-genomics/
+    venue: North-West University
   - address: 210 South Ferry Road, Saunderstown, RI 02874
     contact: hollister.jeff@epa.ogv
     country: US
@@ -3760,6 +3782,51 @@ workshops:
     - {name: DC}
     url: https://rhodyrstats.github.io/2016-08-29-uri/
     venue: University of Rhode Island, Coastal Institute
+  - address: Mafikeng Campus, Albert Luthuli & University Drive, Mmabatho, Mahikeng,
+      2790, South Africa
+    contact: eresearch@nwu.ac.za
+    country: ZA
+    end: 2016-09-01
+    eventbrite_id: ''
+    humandate: Aug 29-Sep 01, 2016
+    latitude: -25.829108
+    longitude: 25.608657
+    slug: 2016-08-29-nwu-social-sciences
+    start: 2016-08-29
+    tags:
+    - {name: DC}
+    url: https://nwu-eresearch.github.io/2016-08-29-nwu-social-sciences/
+    venue: North-West University
+  - address: Mafikeng Campus, Albert Luthuli & University Drive, Mmabatho, Mahikeng,
+      2790, South Africa
+    contact: eresearch@nwu.ac.za
+    country: ZA
+    end: 2016-09-01
+    eventbrite_id: ''
+    humandate: Aug 29-Sep 01, 2016
+    latitude: -25.829108
+    longitude: 25.608657
+    slug: 2016-08-29-nwu-biological-sciences
+    start: 2016-08-29
+    tags:
+    - {name: DC}
+    url: https://nwu-eresearch.github.io/2016-08-29-nwu-biological-sciences/
+    venue: North-West University
+  - address: Wisconsin Institutes for Discovery, 3rd Floor Teaching Lab, 330 North
+      Orchard St., Madison, WI 53715
+    contact: Christina Koch <christina.koch@wisc.edu>
+    country: US
+    end: 2016-08-24
+    eventbrite_id: '26430778169'
+    humandate: Aug 23-24, 2016
+    latitude: 43.072834
+    longitude: -89.408136
+    slug: 2016-08-23-uw_madison
+    start: 2016-08-23
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2016-08-23-uwmadison/
+    venue: University of Wisconsin, Madison
   - address: Main Library at 30 George Square, Edinburgh EH8 9LJ
     contact: r.rice@ed.ac.uk
     country: GB
@@ -3788,5 +3855,19 @@ workshops:
     - {name: DC}
     url: https://hnakhoul.github.io/2016-08-18-stonybrook/
     venue: Stony Brook University
+  - address: Seminar room at Lab 14, 700 Swanson St, Carlton, Victoria
+    contact: ''
+    country: AU
+    end: 2016-08-11
+    eventbrite_id: '26962252824'
+    humandate: Aug 10-11, 2016
+    latitude: -37.8001462
+    longitude: 144.9643461
+    slug: 2016-08-10-Pre-Pycon_Data_Carpentry_Workshop
+    start: 2016-08-10
+    tags:
+    - {name: DC}
+    url: https://alistairwalsh.github.io/2016-08-10-Pre-Pycon_Data_Carpentry_Workshop/
+    venue: VLSCI
 workshops_current: *id001
 workshops_past: *id002
