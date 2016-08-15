@@ -21,6 +21,9 @@ Tracy K. Teal, PhD
 **Associate Director**  
 Erin Becker, PhD
 
+**Deputy Director of Assessment**  
+Kari L. Jordan, PhD
+
 **Program Coordinator**  
 Maneesha Sane
 
