@@ -4,7 +4,7 @@ show_meta: false
 title: "People"
 header:
    image_fullwidth: "wood_plank.jpg"
-permalink: "/people/"
+#permalink: "/people/"
 ---
 
 Our staff and leadership are committed to furthering Data Carpentry's goals
