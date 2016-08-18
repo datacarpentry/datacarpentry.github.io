@@ -26,4 +26,5 @@ each meeting.
 
 - [Resolutions](https://github.com/datacarpentry/steering-committee/tree/gh-pages/resolutions)
 - [Steering Committee Meeting Minutes](/minutes/)
+- [Data and Software Carpentry Bridge Subcommittee Meeting Minutes](/bridge/)
 
