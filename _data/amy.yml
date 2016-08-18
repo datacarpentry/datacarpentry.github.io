@@ -65,6 +65,7 @@ airports:
   - {name: R. David Murray, user: murray_david}
   - {name: Timothy Moore, user: moore_timothy}
   - {name: Nora Mitchell, user: mitchell_nora}
+  - {name: Shane Sanders, user: sanders_shane}
   - {name: Saira Kazmi, user: kazmi_saira}
   latitude: 41.938889
   longitude: -72.683056
@@ -155,6 +156,7 @@ airports:
   - {name: Justin Ely, user: ely_j}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
+  - {name: John Didion, user: didion_john}
   latitude: 39.175278
   longitude: -76.668333
   name: Baltimore, MD
@@ -231,6 +233,7 @@ airports:
   - {name: Anelda van der Walt, user: van-der-walt_anelda}
   - {name: Peter van Heusden, user: van-heusden_peter}
   - {name: Raissa Philibert, user: philibert_raissa}
+  - {name: Jordan Masakuna, user: masakuna_jordan}
   latitude: -33.964722
   longitude: 18.601667
   name: Cape Town
@@ -239,7 +242,6 @@ airports:
   - {name: Aron Ahmadia, user: ahmadia_a}
   - {name: Jonathan Guyer, user: guyer_jonathan}
   - {name: Brian Miles, user: miles_brian}
-  - {name: Ian Munoz, user: munoz_ian}
   - {name: Rosario Robinson, user: robinson_rosario}
   - {name: Joshua Smith, user: smith_j}
   - {name: Mike Smorul, user: smorul_mike}
@@ -395,6 +397,7 @@ airports:
   - {name: Malvika Sharan, user: sharan_malvika}
   - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
   - {name: Toby Hodges, user: hodges_toby}
+  - {name: Markus Ankenbrand, user: ankenbrand_markus}
   latitude: 50.026389
   longitude: 8.543056
   name: Frankfurt
@@ -820,6 +823,7 @@ airports:
   instructors:
   - {name: Amy Boyle, user: boyle_amy}
   - {name: Scott Chamberlain, user: chamberlain_s}
+  - {name: Ian Munoz, user: munoz_ian}
   - {name: Adelaide Rhodes, user: rhodes_adelaide}
   - {name: Ben Weinstein, user: weinstein_ben}
   - {name: Steve Van Tuyl, user: van-tuyl_steve}
@@ -1079,6 +1083,7 @@ airports:
   - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {name: Victor Cordero, user: cordero_victor}
   - {name: Alison Appling, user: appling_alison}
+  - {name: Asher Baltzell, user: baltzell_asher}
   - {name: Jeffrey Oliver, user: oliver_jeffrey}
   latitude: 32.116111
   longitude: -110.941389
@@ -2454,7 +2459,6 @@ badges:
   - {awarded: '2016-07-19', name: Joshua Thia, user: thia_joshua}
   - {awarded: '2016-07-25', name: Naudene Maree, user: maree_naudene}
   - {awarded: '2016-07-25', name: Jose Nandez, user: nandez_jose}
-  - {awarded: '2016-07-25', name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
   - {awarded: '2016-07-26', name: Madicken Munk, user: munk_madicken}
   - {awarded: '2016-08-03', name: John Didion, user: didion_john}
@@ -2462,6 +2466,10 @@ badges:
   - {awarded: '2016-08-03', name: Jordan Masakuna, user: masakuna_jordan}
   - {awarded: '2016-08-03', name: Markus Ankenbrand, user: ankenbrand_markus}
   - {awarded: '2016-08-03', name: Shane Sanders, user: sanders_shane}
+  - {awarded: '2016-06-30', name: Nora Mitchell, user: mitchell_nora}
+  - {awarded: '2016-08-10', name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
+  - {awarded: '2016-08-10', name: Aidan Wilson, user: wilson_aidan}
+  - {awarded: '2016-08-10', name: Thomas Ballinger, user: ballinger_thomas}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2745,13 +2753,15 @@ badges:
   - {awarded: '2016-06-29', name: James Mickley, user: mickley_james}
   - {awarded: '2016-06-29', name: Alix Keener, user: keener_alix}
   - {awarded: '2016-06-30', name: Elizabeth Permina, user: permina_elizabeth}
-  - {awarded: '2016-06-30', name: Nora Mitchell, user: mitchell_nora}
   - {awarded: '2016-07-08', name: Rudiger Brauning, user: brauning_rudiger}
   - {awarded: '2016-07-19', name: Shawn Taylor, user: taylor_shawn}
   - {awarded: '2016-07-25', name: Bianca Peterson, user: peterson_bianca}
   - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
   - {awarded: '2016-07-26', name: Naudene Maree, user: maree_naudene}
   - {awarded: '2016-08-03', name: Markus Ankenbrand, user: ankenbrand_markus}
+  - {awarded: '2016-08-10', name: Marcin Adamski, user: adamski_marcin}
+  - {awarded: '2016-07-25', name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
+  - {awarded: '2016-02-11', name: Natasha Pavlovikj, user: pavlovikj_natasha}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2800,9 +2810,23 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us]
-timestamp: 20160808T153659Z
+timestamp: 20160812T114047Z
 workshops:
 - &id002
+  - address: Seminar room at Lab 14, 700 Swanson St, Carlton, Victoria
+    contact: ''
+    country: au
+    end: 2016-08-11
+    eventbrite_id: '26962252824'
+    humandate: Aug 10-11, 2016
+    latitude: -37.8001462
+    longitude: 144.9643461
+    slug: 2016-08-10-Pre-Pycon_Data_Carpentry_Workshop
+    start: 2016-08-10
+    tags:
+    - {name: DC}
+    url: https://alistairwalsh.github.io/2016-08-10-Pre-Pycon_Data_Carpentry_Workshop/
+    venue: VLSCI
   - address: 72 E Concord St, Boston, MA, Room L203
     contact: crepler@bu.edu
     country: us
@@ -3768,6 +3792,21 @@ workshops:
     - {name: DC}
     url: https://nwu-eresearch.github.io/2016-09-26-nwu-genomics/
     venue: North-West University
+  - address: 2030 Marine Science Drive, Newport, OR 97365
+    contact: steve.vantuyl@oregonstate.edu
+    country: US
+    end: 2016-09-07
+    eventbrite_id: ''
+    humandate: Sep 06-07, 2016
+    latitude: 44.6220974
+    longitude: -124.045127
+    slug: 2016-09-06-OSUHMSC
+    start: 2016-09-06
+    tags:
+    - {name: DC}
+    url: https://vantuyls.github.io/2016-09-06-OSUHMSC/
+    venue: Oregon State University - Hatfield Marine Science Center - Guin Library
+      Seminar Room
   - address: 210 South Ferry Road, Saunderstown, RI 02874
     contact: hollister.jeff@epa.ogv
     country: US
@@ -3855,19 +3894,5 @@ workshops:
     - {name: DC}
     url: https://hnakhoul.github.io/2016-08-18-stonybrook/
     venue: Stony Brook University
-  - address: Seminar room at Lab 14, 700 Swanson St, Carlton, Victoria
-    contact: ''
-    country: AU
-    end: 2016-08-11
-    eventbrite_id: '26962252824'
-    humandate: Aug 10-11, 2016
-    latitude: -37.8001462
-    longitude: 144.9643461
-    slug: 2016-08-10-Pre-Pycon_Data_Carpentry_Workshop
-    start: 2016-08-10
-    tags:
-    - {name: DC}
-    url: https://alistairwalsh.github.io/2016-08-10-Pre-Pycon_Data_Carpentry_Workshop/
-    venue: VLSCI
 workshops_current: *id001
 workshops_past: *id002
