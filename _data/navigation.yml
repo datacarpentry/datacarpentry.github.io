@@ -72,10 +72,10 @@
   url: "/for-instructors/"
   side: left
   dropdown:
-  - title: Self-organized workshops
-    url: "/self-organized-workshops/"
   - title: Instructor training checkout
     url: "/checkout/"
+  - title: Self-organized workshops
+    url: "/self-organized-workshops/"
 
 - title: "Sponsors"
   url: "/sponsors/"
