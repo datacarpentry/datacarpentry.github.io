@@ -218,3 +218,4 @@ google_analytics_tracking_id: UA-68320080-1
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
