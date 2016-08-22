@@ -160,19 +160,19 @@ This workshop is co-developed with the National Ecological Observatory Network [
   <tr>
     <td>Working with vector data in R</td>
     <td><a href="http://neondataskills.org/tutorial-series/vector-data-series/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td>&nbsp;</td>
+    <td><a href="{{site.dc_github_repo_url}}/NEON-R-Spatial-Vector" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Leah Wasser, Joseph Stachelek</td>
   </tr>
   <tr>
     <td>Working with raster data in R</td>
     <td><a href="http://neondataskills.org/tutorial-series/raster-data-series/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td>&nbsp;</td>
+    <td><a href="{{site.dc_github_repo_url}}/NEON-R-Spatial-Raster" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Leah Wasser, Joseph Stachelek</td>
   </tr>
   <tr>
     <td>Introduction to Geospatial data</td>
     <td><a href="http://neon-workwithdata.github.io/NEON-R-Spatio-Temporal-Data-and-Management-Intro/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="https://github.com/NEON-WorkWithData/NEON-R-Spatio-Temporal-Data-and-Management-Intro" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/NEON-R-Spatio-Temporal-Data-and-Management-Intro" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Leah Wasser, Joseph Stachelek</td>
   </tr>
 
