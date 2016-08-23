@@ -27,7 +27,7 @@ There are two steps to becoming an instructor.
 The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching Data Carpentry and Software Carpentry materials. For a preview of materials - see the [instructor training course page](http://swcarpentry.github.io/instructor-training/).
 
 2. **Complete the Data Carpentry specific checkout process**  
-You must complete three short tasks after the course in order to complete certification. These tasks are described [here](http://swcarpentry.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours.
+You must complete three short tasks after the course in order to complete certification. These tasks are described in detail [here](http://swcarpentry.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the detailed instructions, please use our [simplified checklist](/checkout/) to keep track of your progress.
 
 *Registration for the Fall 2016 training courses is now closed, but we are still accepting applications for subsequent courses. If you
 would like to apply, or are taking the course through one of our partner organizations and have been asked to provide information,
