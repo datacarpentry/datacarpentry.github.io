@@ -2836,7 +2836,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us]
-timestamp: 20160824T231449Z
+timestamp: 20160824T232111Z
 workshops:
 - &id002
   - address: Main Library at 30 George Square, Edinburgh EH8 9LJ
@@ -3889,21 +3889,6 @@ workshops:
     tags:
     - {name: DC}
     url: https://nwu-eresearch.github.io/2016-08-29-nwu-mafikeng/
-    venue: North-West University
-  - address: Mafikeng Campus, Albert Luthuli & University Drive, Mmabatho, Mahikeng,
-      2790, South Africa
-    contact: eresearch@nwu.ac.za
-    country: ZA
-    end: 2016-09-01
-    eventbrite_id: ''
-    humandate: Aug 29-Sep 01, 2016
-    latitude: -25.829108
-    longitude: 25.608657
-    slug: 2016-08-29-nwu-biological-sciences
-    start: 2016-08-29
-    tags:
-    - {name: DC}
-    url: https://nwu-eresearch.github.io/2016-08-29-nwu-biological-sciences/
     venue: North-West University
   - address: Wisconsin Institutes for Discovery, 3rd Floor Teaching Lab, 330 North
       Orchard St., Madison, WI 53715
