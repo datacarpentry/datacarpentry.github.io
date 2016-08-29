@@ -74,8 +74,8 @@
   dropdown:
   - title: Instructor training checkout
     url: "/checkout/"
-  - title: Self-organized workshops
-    url: "/self-organized-workshops/"
+  - title: Information on Workshops
+    url: "/for-instructors/#information-on-workshops"
 
 - title: "Sponsors"
   url: "/sponsors/"

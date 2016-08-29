@@ -17,7 +17,11 @@ If you have gone through the instructor training course, but haven't yet complet
 see our [checkout checklist](/checkout/) to help streamline your progress towards becoming a fully certified
 Data Carpentry instructor!
 
-### Information on workshops
+### Information on workshops  
+
+There are two types of Data Carpentry workshops - those that are locally organized (self-organized) and those
+organized by Data Carpentry administrative staff (centrally-organized). You can find information about
+each workshop type, including checklists to help you plan your workshop, at the links below:
 
 - [Self-organized workshops](/self-organized-workshops/)
 - [Centrally-organized workshops](/workshops-host/)
