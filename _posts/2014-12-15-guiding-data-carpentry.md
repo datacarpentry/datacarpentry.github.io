@@ -9,6 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+authors: ["Tracy Teal"]
 ---
 
 ## Guiding Data Carpentry

@@ -1,6 +1,6 @@
 ---
 layout: post
-subheadline: ""
+subheadline: "Practices"
 title: "How to approach selecting a license for data release"
 teaser: "Suggstions and perspectives on how to select a license for your data publication"
 header:

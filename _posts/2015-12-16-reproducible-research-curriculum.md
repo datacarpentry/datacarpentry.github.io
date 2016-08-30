@@ -9,6 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+authors: ["Karen Cranston"]
 ---
 
 **by Karen Cranston**

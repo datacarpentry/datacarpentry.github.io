@@ -10,6 +10,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+authors: ["Tracy Teal"]
 ---
 
 After discussion with our Steering Committee and the Software Carpentry Foundation, 

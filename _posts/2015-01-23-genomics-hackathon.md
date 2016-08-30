@@ -9,6 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+authors: ["Tracy Teal"]
 ---
 
 Through the support of [SESYNC](https://www.sesync.org), [BEACON](http://beacon-center.org) and

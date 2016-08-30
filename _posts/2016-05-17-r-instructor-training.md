@@ -1,6 +1,6 @@
 ---
 layout: post
-subheadline: "Training"
+subheadline: "Instructors"
 title: "R Instructor Training"
 teaser: "Applications are now open for R instructor training"
 header:
