@@ -45,7 +45,17 @@ format: page-fullwidth
       {{ content }}
       </span>
 
-      {% if page.comments == true %}
+    {% if page.previous %}
+        <a class="radius button small" href="{{ page.previous.url }}"
+        title="{{ site.data.language.previous.posts }}">&laquo; {{ site.data.language.previous }}</a>
+    {% endif %}
+    
+    {% if page.next %}
+        <a class="radius button small" href="{{ page.next.url }}"
+            title="{{ site.data.language.next_posts }}">{{ site.data.language.next }} &raquo;</a>
+    {% endif %}
+      
+    {% if page.comments == true %}
       {% include comments.html %}
       {% endif %}
     </article>
