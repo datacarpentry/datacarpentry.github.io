@@ -9,6 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+authors: ["Anelda van der Walt"]
 ---
 
 **by Anelda van der Walt**

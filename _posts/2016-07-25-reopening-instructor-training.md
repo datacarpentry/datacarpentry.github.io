@@ -1,8 +1,8 @@
 ---
 layout: post
-subheadline: "Two open instructor training classes this fall"
+subheadline: "Instructors"
 title: "Reopening Instructor Training"
-teaser: ""
+teaser: "Two open instructor training classes this fall"
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
