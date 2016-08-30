@@ -76,6 +76,8 @@
     url: "/checkout/"
   - title: Information on Workshops
     url: "/for-instructors/#information-on-workshops"
+  - title: Workshop Checklists
+    url: "/checklists/"
 
 - title: "Sponsors"
   url: "/sponsors/"
