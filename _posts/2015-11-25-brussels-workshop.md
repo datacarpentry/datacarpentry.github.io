@@ -1,6 +1,6 @@
 ---
 layout: post
-subheadline: ""
+subheadline: "Workshops"
 title: "Workshop in Brussels, 2-3 Nov 2015"
 teaser: "At the beginning of November, Belgium held its first Data Carpentry workshop."
 header:
@@ -9,6 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+authors: ["Tracy Teal"]
 ---
 
 Belgium has a flourishing biological research community and skills in data handling have become an essential tool for anyone conducting biodiversity science.
