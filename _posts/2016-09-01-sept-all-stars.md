@@ -2,7 +2,7 @@
 layout: post
 subheadline: "Community"
 title: "September Data Carpentry All-Stars!"
-teaser: "Recognizing outstanding work from our volunteer community."
+teaser: "Recognizing volunteers for their outstanding work in the community."
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
