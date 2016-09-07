@@ -121,6 +121,7 @@ airports:
 - country: us
   instructors:
   - {name: Harriet Alexander, user: alexander_harriet}
+  - {name: Thomas Ballinger, user: ballinger_thomas}
   - {name: Trevor Bekolay, user: bekolay_trevor}
   - {name: Daina Bouquin, user: bouquin_daina}
   - {name: Bob Freeman, user: freeman_robert}
@@ -819,6 +820,7 @@ airports:
   - {name: Halfdan Rydbeck, user: rydbeck_halfdan}
   - {name: Anne Fouilloux, user: fouilloux_anne}
   - {name: Marius Bjørnstad, user: bjornstad_marius}
+  - {name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
@@ -1055,6 +1057,7 @@ airports:
   - {name: Louis Ranjard, user: ranjard_louis}
   - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {name: Claire Hardgrove, user: hardgrove_claire}
+  - {name: Aidan Wilson, user: wilson_aidan}
   latitude: -33.946111
   longitude: 151.177222
   name: Sydney
@@ -1563,12 +1566,6 @@ airports:
   latitude: 40.882264
   longitude: 14.285442
   name: Naples International Airport
-- country: fr
-  instructors:
-  - {name: Bérénice Batut, user: batut_berenice}
-  latitude: 45.789918
-  longitude: 3.158258
-  name: Clermont-Ferrand Auvergne Airport
 - country: ch
   instructors:
   - {name: Diana Marek, user: marek_diana}
@@ -1679,6 +1676,7 @@ airports:
   name: Taoyuan International Airport
 - country: ch
   instructors:
+  - {name: Bérénice Batut, user: batut_berenice}
   - {name: Geoffrey Fucile, user: fucile_geoffrey}
   latitude: 47.595156
   longitude: 7.530066
@@ -1725,6 +1723,12 @@ airports:
   latitude: -23.855227
   longitude: 29.455323
   name: Polokwane International Airport
+- country: na
+  instructors:
+  - {name: Jessica Upani, user: upani_jessica}
+  latitude: -22.480752
+  longitude: 17.476238
+  name: Hosea Kutako International Airport
 badges:
 - name: creator
   persons:
@@ -2848,9 +2852,9 @@ badges:
   - {awarded: '2016-07-12', name: Lex Nederbragt, user: nederbragt_l}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
-    it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
+    it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160906T210206Z
+timestamp: 20160907T175753Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Saunderstown, RI 02874
@@ -3889,6 +3893,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 600 Main Street, Bar Harbor, Maine
+    contact: susan.mcclatchy@jax.org
+    country: ''
+    end: 2016-09-30
+    eventbrite_id: '26528524531'
+    humandate: Sep 29-30, 2016
+    latitude: 44.366245
+    longitude: -68.196586
+    slug: 2016-09-29-jackson
+    start: 2016-09-29
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2016-09-29-jackson/
+    venue: The Jackson Laboratory
   - address: IFOM-IEO Campus, Via Adamello 16, 20139 Milan Italy
     contact: endre.sebestyen@ifom.eu
     country: IT
