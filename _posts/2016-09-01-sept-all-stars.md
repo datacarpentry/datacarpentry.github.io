@@ -28,6 +28,7 @@ Every one of these Data Carpentry badged instructors has taught at least three w
 - Christopher Hamm
 - Christina Koch
 - Mateusz Kuzak
+- Paula Andrea Martinez
 - François Michonneau
 - John Moreau
 - Hani Nakhoul
