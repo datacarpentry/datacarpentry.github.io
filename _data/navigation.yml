@@ -2,15 +2,13 @@
   url: "/"
   side: left
 
-- title: About
+- title: About Us
   url: "/about/"
   side: left
   dropdown:
-  - title: "About Us"
-    url: "/about/"
-  - title: "Media"
-    url: "/media/"
-  - title: "People"
+  - title: "Mission, Vision"
+    url: "/mission/"
+  - title: "Our Team"
     url: "/people/"
   - title: "Code of Conduct"
     url: "/code-of-conduct/"
@@ -58,6 +56,17 @@
     url: "/lessons/"
   - title: "Roadmap for Lesson Development"
     url: "/lessons-incubation/"
+
+- title: Communications
+  url: "/communications/"
+  side: left
+  dropdown:
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Presentations"
+    url: "/presentations/"
+  - title: "In the News"
+    url: "/inthenews/"
 
 - title: Blog
   url: "/blog/"
