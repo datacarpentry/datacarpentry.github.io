@@ -2854,7 +2854,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160907T175753Z
+timestamp: 20160907T175958Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Saunderstown, RI 02874
@@ -3895,7 +3895,7 @@ workshops:
 - &id001
   - address: 600 Main Street, Bar Harbor, Maine
     contact: susan.mcclatchy@jax.org
-    country: ''
+    country: US
     end: 2016-09-30
     eventbrite_id: '26528524531'
     humandate: Sep 29-30, 2016
