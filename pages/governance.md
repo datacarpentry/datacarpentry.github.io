@@ -7,8 +7,8 @@ header:
 permalink: "/governance/"
 ---
 
-Data Carpentry is a Fiscally Sponsored Project of [NumFOCUS](http://www.numfocus.org), 
-a 501(c)3 organization. 
+Data Carpentry is a Fiscally Sponsored Project of [NumFOCUS](http://www.numfocus.org),
+a 501(c)3 organization.
 
 Data Carpentry is governed by a volunteer [Steering Committee](/people/)
 and run by its [Staff](/people/).
@@ -20,11 +20,23 @@ adhere to a Code of Conduct.
 
 - [Code of Conduct](/code-of-conduct/)
 
-<h3>Records</h3>
-Steering Committee Meeting activities are reported as minutes and resolutions from
-each meeting. 
+### Steering Committee
 
-- [Resolutions](https://github.com/datacarpentry/steering-committee/tree/gh-pages/resolutions)
-- [Steering Committee Meeting Minutes](/minutes/)
-- [Subcommittee Meeting Minutes](/subcommittees/)
+The Steering Committee provides strategic vision and oversight of Data Carpentry.
 
+Current Steering Committee members: Karen Cranston, Hilmar Lapp, Aleksandra Pawlik, Karthik Ram, Ethan White
+<br>See more about our Steering Committee members on our [people](/people/) page.
+
+- [Steering Committee meeting reports](/minutes/)
+
+### Subcommittees
+
+There are several joint Software and Data Carpentry Subcommittees
+
+- [Mentoring Subcommittee](http://software-carpentry.org/join/subcom/mentoring/) - The Mentoring Subcommittee mentors instructors and runs discussion sections.
+- [Maintainers Subcommittee](http://software-carpentry.org/join/subcom/maintainers/) - The Maintainers Subcommittee is responsible for maintaining and publishing our core lessons and for overseeing development of the workshop and lesson templates.
+- Instructor Trainers Subcommittee - Provides communication and coordination between Instructor Trainers.
+- Bridge Subcommittee - Staff and Steering Committee members working to align activities between Software and Data Carpentry
+
+
+- [Subcommittee Meeting Reports](/subcommittees/)
