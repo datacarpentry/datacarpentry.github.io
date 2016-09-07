@@ -9,6 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+authors: ["Tracy Teal"]
 ---
 [Data Carpentry is hiring](http://www.datacarpentry.org/jobs/)!
 

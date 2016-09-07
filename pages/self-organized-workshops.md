@@ -9,7 +9,7 @@ permalink: "/self-organized-workshops/"
 
 Are you a Data Carpentry instructor interested in running a workshop for your group or organization?  In hosted workshops, to ensure dependable pre and and post-workshop logistics and communication, the Data Carpentry staff handles all non-local logistics including registration, setting the curriculum, corresponding with participants, distributing surveys, and recruiting teachers. A **self-organized workshop** is a workshop for which there is a local organizer who is willing and able to carry out these and other workshop logistics so that support from Data Carpentry staff is not needed. Self-organized workshops must still be registered with Data Carpentry in advance.
 
-Already know the details and requirements? [Request a self-organized workshop](https://amy.software-carpentry.org/workshops/dc/request/)  
+Already know the details and requirements? [Request a self-organized workshop](https://amy.software-carpentry.org/workshops/dc/request_selforganized/)  
 
 Want more details to help you plan your workshop? Check out these resources:  
 
@@ -32,7 +32,7 @@ In order to ensure that self-organized workshops are consistent in quality and c
 - A self-organized workshop request must be submitted at least 4 weeks before the workshop.
 - The workshop fee is $500/workshop or $25/participant (whichever you prefer), or a fee waiver must be requested
 - The workshop curriculum must meet the [requirements for a Data Carpentry workshop](/workshops/). Any planned curriculum components that are not currently among our official lessons must be submitted for review and approval at the time the workshop is requested.
-- The lead instructor/host is responsible for distributing surveys, and for fulfilling workshop reporting requirements to the Data Carpentry Program Coordinator [admin@datacarpenty.org](mailto:admin@datacarpentry.org), including reporting the number of participants.
+- The lead instructor/host is responsible for distributing surveys, and for fulfilling workshop reporting requirements to the Data Carpentry Program Coordinator at [admin@datacarpenty.org](mailto:admin@datacarpentry.org), including reporting the number of participants.
 
 ### Fees for self-organized workshops
 <br>

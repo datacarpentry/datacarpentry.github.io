@@ -526,6 +526,7 @@ airports:
   - {name: Ian Langmore, user: langmore_i}
   - {name: Matthew Lightman, user: lightman_matthew}
   - {name: Jason Pell, user: pell_j}
+  - {name: Lisa Rhody, user: rhody_lisa}
   latitude: 40.777222
   longitude: -73.8725
   name: New York La Guardia, NY
@@ -627,6 +628,7 @@ airports:
   instructors:
   - {name: Shawn Taylor, user: taylor_shawn}
   - {name: Sergio Marconi, user: marconi_sergio}
+  - {name: Kari L Jordan, user: jordan_kari}
   latitude: 28.428889
   longitude: -81.315833
   name: Orlando, FL
@@ -701,6 +703,7 @@ airports:
   - {name: Laura DeCicco, user: decicco_laura}
   - {name: Lindsay Carr, user: carr_lindsay}
   - {name: Michelle Craft, user: craft_michelle}
+  - {name: Zachary Brym, user: brym_zachary}
   latitude: 43.139722
   longitude: -89.3375
   name: Madison, WI
@@ -2470,6 +2473,30 @@ badges:
   - {awarded: '2016-08-10', name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
   - {awarded: '2016-08-10', name: Aidan Wilson, user: wilson_aidan}
   - {awarded: '2016-08-10', name: Thomas Ballinger, user: ballinger_thomas}
+  - {awarded: '2016-08-11', name: Upendra Kumar Devisetty, user: devisetty_upendra-kumar}
+  - {awarded: '2016-08-11', name: Chris Bording, user: bording_chris}
+  - {awarded: '2016-08-12', name: Oliver Stueker, user: stueker_oliver}
+  - {awarded: '2016-08-12', name: Alexey Shiklomanov, user: shiklomanov_alexey}
+  - {awarded: '2016-08-12', name: Sandeep Namburi, user: namburi_sandeep}
+  - {awarded: '2016-08-12', name: David McGaughey, user: mcgaughey_david}
+  - {awarded: '2016-08-12', name: Nikolai Sergueev, user: sergueev_nikolai}
+  - {awarded: '2016-08-12', name: Ryan May, user: may_ryan}
+  - {awarded: '2016-08-16', name: Paul Gardner, user: gardner_paul}
+  - {awarded: '2016-08-16', name: Baolai Ge, user: ge_baolai}
+  - {awarded: '2016-08-17', name: Andrew Schoenrock, user: schoenrock_andrew}
+  - {awarded: '2016-08-17', name: Stefan Wyder, user: wyder_stefan}
+  - {awarded: '2016-08-17', name: Xiao Xiao, user: xiao_xiao}
+  - {awarded: '2016-08-17', name: Isaac Ye, user: ye_isaac}
+  - {awarded: '2016-08-16', name: Steve Bond, user: bond_s}
+  - {awarded: '2016-08-29', name: Carrie Andrew, user: andrew_carrie}
+  - {awarded: '2016-08-29', name: Nick James, user: james_nick}
+  - {awarded: '2016-08-30', name: Megan Meredith-Lobay, user: meredith-lobay_megan}
+  - {awarded: '2016-08-30', name: Jamie Rosner, user: rosner_jamie}
+  - {awarded: '2016-08-30', name: Prateek Mehta, user: mehta_prateek}
+  - {awarded: '2016-09-01', name: Megan Jones, user: jones_megan}
+  - {awarded: '2016-09-01', name: Jessica Gallinger, user: gallinger_jessica}
+  - {awarded: '2016-09-01', name: Pariksheet Nanda, user: nanda_pariksheet}
+  - {awarded: '2016-09-03', name: Zachary Brym, user: brym_zachary}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2762,6 +2789,19 @@ badges:
   - {awarded: '2016-08-10', name: Marcin Adamski, user: adamski_marcin}
   - {awarded: '2016-07-25', name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   - {awarded: '2016-02-11', name: Natasha Pavlovikj, user: pavlovikj_natasha}
+  - {awarded: '2016-08-11', name: Jose Nandez, user: nandez_jose}
+  - {awarded: '2016-08-11', name: Anne Fouilloux, user: fouilloux_anne}
+  - {awarded: '2016-08-11', name: Upendra Kumar Devisetty, user: devisetty_upendra-kumar}
+  - {awarded: '2016-08-12', name: Sandeep Namburi, user: namburi_sandeep}
+  - {awarded: '2016-08-12', name: Nora Mitchell, user: mitchell_nora}
+  - {awarded: '2016-08-16', name: Sean Barberie, user: barberie_sean}
+  - {awarded: '2016-08-17', name: Gabriel Nhinda, user: nhinda_gabriel}
+  - {awarded: '2016-08-17', name: Stefan Wyder, user: wyder_stefan}
+  - {awarded: '2016-08-27', name: Megan Jones, user: jones_megan}
+  - {awarded: '2016-08-29', name: Carrie Andrew, user: andrew_carrie}
+  - {awarded: '2016-08-29', name: Andrew Schoenrock, user: schoenrock_andrew}
+  - {awarded: '2016-09-01', name: Murray Cadzow, user: cadzow_murray}
+  - {awarded: '2016-09-03', name: Zachary Brym, user: brym_zachary}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2809,10 +2849,82 @@ badges:
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us]
-timestamp: 20160812T114047Z
+  workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
+timestamp: 20160906T210206Z
 workshops:
 - &id002
+  - address: 210 South Ferry Road, Saunderstown, RI 02874
+    contact: hollister.jeff@epa.ogv
+    country: us
+    end: 2016-08-30
+    eventbrite_id: ''
+    humandate: Aug 29-30, 2016
+    latitude: 41.492985
+    longitude: -71.422119
+    slug: 2016-08-29-uri
+    start: 2016-08-29
+    tags:
+    - {name: DC}
+    url: https://rhodyrstats.github.io/2016-08-29-uri/
+    venue: University of Rhode Island, Coastal Institute
+  - address: Mafikeng Campus, Albert Luthuli & University Drive, Mmabatho, Mahikeng,
+      2790, South Africa
+    contact: eresearch@nwu.ac.za
+    country: za
+    end: 2016-09-01
+    eventbrite_id: ''
+    humandate: Aug 29-Sep 01, 2016
+    latitude: -25.829108
+    longitude: 25.608657
+    slug: 2016-08-29-nwu-social-sciences
+    start: 2016-08-29
+    tags:
+    - {name: DC}
+    url: https://nwu-eresearch.github.io/2016-08-29-nwu-mafikeng/
+    venue: North-West University
+  - address: Wisconsin Institutes for Discovery, 3rd Floor Teaching Lab, 330 North
+      Orchard St., Madison, WI 53715
+    contact: Christina Koch <christina.koch@wisc.edu>
+    country: us
+    end: 2016-08-24
+    eventbrite_id: '26430778169'
+    humandate: Aug 23-24, 2016
+    latitude: 43.072834
+    longitude: -89.408136
+    slug: 2016-08-23-uw_madison
+    start: 2016-08-23
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2016-08-23-uwmadison/
+    venue: University of Wisconsin, Madison
+  - address: Main Library at 30 George Square, Edinburgh EH8 9LJ
+    contact: r.rice@ed.ac.uk
+    country: gb
+    end: 2016-08-23
+    eventbrite_id: ''
+    humandate: Aug 22-23, 2016
+    latitude: 55.942828
+    longitude: -3.189147
+    slug: 2016-08-22-edinburgh
+    start: 2016-08-22
+    tags:
+    - {name: DC}
+    url: https://rgaiacs.github.io/2016-08-22-edinburgh/
+    venue: University of Edinburgh
+  - address: 'Wang Center, Lecture Hall #2'
+    contact: William Thornton <wsttiger@gmail.com>
+    country: us
+    end: 2016-08-20
+    eventbrite_id: '26034937198'
+    humandate: Aug 19-20, 2016
+    latitude: 30.512958
+    longitude: -96.29399
+    slug: 2016-08-19-stonybrook
+    start: 2016-08-19
+    tags:
+    - {name: DC}
+    url: https://hnakhoul.github.io/2016-08-18-stonybrook/
+    venue: Stony Brook University
   - address: Seminar room at Lab 14, 700 Swanson St, Carlton, Victoria
     contact: ''
     country: au
@@ -3777,6 +3889,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: IFOM-IEO Campus, Via Adamello 16, 20139 Milan Italy
+    contact: endre.sebestyen@ifom.eu
+    country: IT
+    end: 2016-09-28
+    eventbrite_id: '27482777728'
+    humandate: Sep 27-28, 2016
+    latitude: 45.441765
+    longitude: 9.203042
+    slug: 2016-09-27-milan
+    start: 2016-09-27
+    tags:
+    - {name: DC}
+    url: https://arcleeds.github.io/2016-09-27-milan/
+    venue: IFOM - Istituto FIRC di Oncologia Molecolare
   - address: Room G18, Building G23, Potchefstroom Campus, NWU, Gerrit Dekker Street,
       Potchefstroom
     contact: eresearch@nwu.ac.za
@@ -3807,92 +3933,5 @@ workshops:
     url: https://vantuyls.github.io/2016-09-06-OSUHMSC/
     venue: Oregon State University - Hatfield Marine Science Center - Guin Library
       Seminar Room
-  - address: 210 South Ferry Road, Saunderstown, RI 02874
-    contact: hollister.jeff@epa.ogv
-    country: US
-    end: 2016-08-30
-    eventbrite_id: ''
-    humandate: Aug 29-30, 2016
-    latitude: 41.492985
-    longitude: -71.422119
-    slug: 2016-08-29-uri
-    start: 2016-08-29
-    tags:
-    - {name: DC}
-    url: https://rhodyrstats.github.io/2016-08-29-uri/
-    venue: University of Rhode Island, Coastal Institute
-  - address: Mafikeng Campus, Albert Luthuli & University Drive, Mmabatho, Mahikeng,
-      2790, South Africa
-    contact: eresearch@nwu.ac.za
-    country: ZA
-    end: 2016-09-01
-    eventbrite_id: ''
-    humandate: Aug 29-Sep 01, 2016
-    latitude: -25.829108
-    longitude: 25.608657
-    slug: 2016-08-29-nwu-social-sciences
-    start: 2016-08-29
-    tags:
-    - {name: DC}
-    url: https://nwu-eresearch.github.io/2016-08-29-nwu-social-sciences/
-    venue: North-West University
-  - address: Mafikeng Campus, Albert Luthuli & University Drive, Mmabatho, Mahikeng,
-      2790, South Africa
-    contact: eresearch@nwu.ac.za
-    country: ZA
-    end: 2016-09-01
-    eventbrite_id: ''
-    humandate: Aug 29-Sep 01, 2016
-    latitude: -25.829108
-    longitude: 25.608657
-    slug: 2016-08-29-nwu-biological-sciences
-    start: 2016-08-29
-    tags:
-    - {name: DC}
-    url: https://nwu-eresearch.github.io/2016-08-29-nwu-biological-sciences/
-    venue: North-West University
-  - address: Wisconsin Institutes for Discovery, 3rd Floor Teaching Lab, 330 North
-      Orchard St., Madison, WI 53715
-    contact: Christina Koch <christina.koch@wisc.edu>
-    country: US
-    end: 2016-08-24
-    eventbrite_id: '26430778169'
-    humandate: Aug 23-24, 2016
-    latitude: 43.072834
-    longitude: -89.408136
-    slug: 2016-08-23-uw_madison
-    start: 2016-08-23
-    tags:
-    - {name: DC}
-    url: https://uw-madison-aci.github.io/2016-08-23-uwmadison/
-    venue: University of Wisconsin, Madison
-  - address: Main Library at 30 George Square, Edinburgh EH8 9LJ
-    contact: r.rice@ed.ac.uk
-    country: GB
-    end: 2016-08-23
-    eventbrite_id: ''
-    humandate: Aug 22-23, 2016
-    latitude: 55.942828
-    longitude: -3.189147
-    slug: 2016-08-22-edinburgh
-    start: 2016-08-22
-    tags:
-    - {name: DC}
-    url: https://rgaiacs.github.io/2016-08-22-edinburgh/
-    venue: University of Edinburgh
-  - address: 'Wang Center, Lecture Hall #2'
-    contact: William Thornton <wsttiger@gmail.com>
-    country: US
-    end: 2016-08-20
-    eventbrite_id: '26034937198'
-    humandate: Aug 19-20, 2016
-    latitude: 30.512958
-    longitude: -96.29399
-    slug: 2016-08-19-stonybrook
-    start: 2016-08-19
-    tags:
-    - {name: DC}
-    url: https://hnakhoul.github.io/2016-08-18-stonybrook/
-    venue: Stony Brook University
 workshops_current: *id001
 workshops_past: *id002
