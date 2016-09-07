@@ -28,6 +28,8 @@ Current Steering Committee members: Karen Cranston, Hilmar Lapp, Aleksandra Pawl
 <br>See more about our Steering Committee members on our [people](/people/) page.
 
 - [Steering Committee meeting reports](/minutes/)
+- Moore Progress Updates 2016: [Report](https://github.com/datacarpentry/practices/blob/datacarpentry/datacarpentry/Moore_DataCarpentry_progress_report.pdf) and [Activities (Excel file)](https://github.com/datacarpentry/practices/blob/datacarpentry/datacarpentry/Data-Carpentry_Practices-Data-Collection.xlsx?raw=true)
+
 
 ### Subcommittees
 
