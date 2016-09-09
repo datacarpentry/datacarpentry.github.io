@@ -6,11 +6,11 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "About Us"
-    url: "/about/"
+  - title: "Mission & Vision"
+    url: "/mission/"
   - title: "Media"
     url: "/media/"
-  - title: "People"
+  - title: "Our Team"
     url: "/people/"
   - title: "Code of Conduct"
     url: "/code-of-conduct/"
