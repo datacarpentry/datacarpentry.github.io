@@ -1,10 +1,15 @@
 ---
 layout: post
+subheadline: "Community"
 authors: ["Tracy Teal", "Kate Hertweck"]
 title: "September Carpentries Community Call"
-date: 2016-09-12
-time: "00:16:00"
-category: ["Community"]
+teaser: "Join the community call to connect with other instructors & get activity updates"
+header:
+    image_fullwidth: "light-blue-wood-texture.jpg"
+categories:
+    - blog
+comments: true
+show_meta: true
 ---
 
 Our next Carpentries Community Call (formerly called Lab Meeting or 
@@ -15,10 +20,12 @@ other Carpentry instructors and get updates and information on
 important and interesting topics for the community. 
 
 Times: 
+
 * 7am Pacific / 10am Eastern / 2pm UTC / 12am (Sept 16th) Sydney
 * 4pm Pacific / 7pm Eastern / 11pm UTC / 9am (Sept 16th) Sydney
 
 Topics this month will include:
+
 * New lesson template
 * Policy committee and update on CoC
 * IRB approval and updates on assessment 
