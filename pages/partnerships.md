@@ -27,8 +27,8 @@ We offer several levels of Partnerships, based on training activities expected a
 |Seat on the <br>SCF Advisory Board|No|Yes|Yes|Yes|
 |Train an in-house instructor <br>trainer at partner org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
-|Joint Fee (annual)|[$5,000](mailto:partnerships@datacarpentry.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:partnerships@datacarpentry.org?subject=Interested in Silver Partnership)|[$15,000](mailto:partnerships@datacarpentry.org?subject=Interested in Gold Partnership)|[Contact us](mailto:partnerships@datacarpentry.org?subject=Interested in Platinum Partnership)|
-|SC or DC Only (annual)|[$4,000](mailto:partnerships@datacarpentry.org?subject=Interested in Data Carpentry Bronze Partnership)|[$6,500](mailto:partnerships@datacarpentry.org?subject=Interested in Data Carpentry Silver Partnership)|[$12,500](mailto:partnerships@datacarpentry.org?subject=Interested in Data Carpentry Gold Partnership)|[Contact us](mailto:partnerships@datacarpentry.org?subject=Interested in Data Carpentry only Partnership)|
+|Joint Fee (annual)|[$5,000](mailto:partnerships@carpentries.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:partnerships@carpentries.org?subject=Interested in Silver Partnership)|[$15,000](mailto:partnerships@carpentries.org?subject=Interested in Gold Partnership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Platinum Partnership)|
+|SC or DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Partnership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Partnership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Partnership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Partnership)|
 
 
 #### Notes
@@ -41,4 +41,4 @@ We offer several levels of Partnerships, based on training activities expected a
 
 ^ in-person instructor trainings require an available trainer and travel funds to support instructor trainer(s) travel.
 
-We are always interested in developing new partnerships, and in participating in grants and other proposals. To reach us, or to find out more, [please send us email](mailto:partnerships@datacarpentry.org)
+We are always interested in developing new partnerships, and in participating in grants and other proposals. To reach us, or to find out more, [please send us email](mailto:partnerships@carpentries.orgOB)
