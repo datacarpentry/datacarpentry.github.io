@@ -1611,6 +1611,7 @@ airports:
   - {name: Silvia Canessa, user: canessa_silvia}
   - {name: Ben Jolly, user: jolly_ben}
   - {name: Leo Browning, user: browning_leo}
+  - {name: Michael Fincham, user: fincham_michael}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -2880,7 +2881,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160913T230006Z
+timestamp: 20160914T000007Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
