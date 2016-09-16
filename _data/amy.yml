@@ -2527,6 +2527,9 @@ badges:
   - {awarded: '2016-09-01', name: Pariksheet Nanda, user: nanda_pariksheet}
   - {awarded: '2016-09-03', name: Zack Brym, user: brym_zachary}
   - {awarded: '2016-09-13', name: Tania Hernandez, user: hernandez_tania}
+  - {awarded: '2016-09-16', name: Chris Geroux, user: geroux_chris}
+  - {awarded: '2016-09-16', name: Dan Russo, user: russo_dan}
+  - {awarded: '2016-09-16', name: John Leeman, user: leeman_john}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2881,7 +2884,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160916T130008Z
+timestamp: 20160916T140008Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
