@@ -620,6 +620,7 @@ airports:
   - {name: Simone Di Cola, user: dicola_simone}
   - {name: Suzanne Embury, user: embury_suzanne}
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
+  - {name: Nick James, user: james_nick}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -856,6 +857,7 @@ airports:
   - {name: Randy Olson, user: olson_r}
   - {name: Maneesha Sane, user: sane_maneesha}
   - {name: Sunil Shende, user: shende_sunil}
+  - {name: Daniel Russo, user: russo_dan}
   latitude: 39.871944
   longitude: -75.241111
   name: Philadelphia, PA
@@ -908,6 +910,7 @@ airports:
 - country: us
   instructors:
   - {name: Bradley Taber-Thomas, user: taber-thomas_bradley}
+  - {name: John Leeman, user: leeman_john}
   latitude: 40.855881
   longitude: -77.843841
   name: State College, PA
@@ -2528,7 +2531,7 @@ badges:
   - {awarded: '2016-09-03', name: Zack Brym, user: brym_zachary}
   - {awarded: '2016-09-13', name: Tania Hernandez, user: hernandez_tania}
   - {awarded: '2016-09-16', name: Chris Geroux, user: geroux_chris}
-  - {awarded: '2016-09-16', name: Dan Russo, user: russo_dan}
+  - {awarded: '2016-09-16', name: Daniel Russo, user: russo_dan}
   - {awarded: '2016-09-16', name: John Leeman, user: leeman_john}
 - name: member
   persons:
@@ -2885,7 +2888,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160918T200005Z
+timestamp: 20160918T210006Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
