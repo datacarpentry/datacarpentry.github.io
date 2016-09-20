@@ -6,7 +6,7 @@ teaser: "Linking self-efficacy to learner success in carpentry workshops."
 header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
- 	- blog
+   - blog
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
