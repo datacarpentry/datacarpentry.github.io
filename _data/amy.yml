@@ -19,6 +19,7 @@ airports:
   - {name: Elsie Jacobson, user: jacobson_elsie}
   - {name: Amali Thrimawithana, user: thrimawithana_amali}
   - {name: Nicolas Fauchereau, user: fauchereau_nicolas}
+  - {name: Dan Jones, user: jones_dan}
   - {name: Markus Mueller, user: mueller_markus}
   - {name: Vicky Fan, user: fan_vicky}
   - {name: Elena Denisenko, user: denisenko_elena}
@@ -2889,7 +2890,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160920T220006Z
+timestamp: 20160920T230005Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
