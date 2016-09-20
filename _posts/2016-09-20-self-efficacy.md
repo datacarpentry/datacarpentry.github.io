@@ -46,7 +46,7 @@ My anxiety about the course content was stronger than my will to see the course 
 **Finally**:  
 I had never seen the material before, or anything like it for that matter.
 
-*Mastery* or enactive attainment is probably the most important factor that determines your self-efficacy. Completing a task time and time again (i.e. if becoming a “master”), raises your self-efficacy; failure lowers it.
+*Mastery*, or enactive attainment, is probably the most important factor that determines your self-efficacy. Completing a task time and time again (i.e. if becoming a “master”), raises your self-efficacy; failure lowers it.
 
 So what does this mean for the carpentry learner and how we (should) structure our workshops? Here are a few thoughts and recommendations, and my hope is that you’ll comment below and give us more.
 1. Encourage learners to invite a friend to join them in the workshop. We all could use a little *social persuasion* every now and then.
