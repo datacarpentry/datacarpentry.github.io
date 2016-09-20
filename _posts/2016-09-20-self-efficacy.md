@@ -35,7 +35,7 @@ I didn’t even know anyone at the university who had taken (and passed) this co
 
 This is referred to as *vicarious experiences*, or “if she can do it, so can I.” How many times have you pushed yourself to complete a task solely because you saw someone else do it?
 
-![alt text] (https://github.com/kariljordan/datacarpentry.github.io/blob/master/images/NEON_hackathon/DSC_1056.JPG?raw=true "Data Carpentry Hackathon")
+![alt text](https://github.com/kariljordan/datacarpentry.github.io/blob/master/images/NEON_hackathon/DSC_1056.JPG?raw=TRUE)
 
 **Third**:     
 My anxiety about the course content was stronger than my will to see the course through to finish.
