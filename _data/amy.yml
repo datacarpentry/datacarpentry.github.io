@@ -2888,8 +2888,8 @@ badges:
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160921T080004Z
+  workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
+timestamp: 20160921T090004Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
@@ -3802,6 +3802,22 @@ workshops:
     - {name: DC}
     url: http://www.datacarpentry.org/2015-07-22-JamesMadison/
     venue: James Madison University
+  - address: Institute for Biostatistics and Medical Informatics, Faculty of Medicine,
+      Vrazov trg 2, Ljubljana
+    contact: tanja.dreo@nib.si, peter.juvan@mf.uni-lj.si
+    country: sl
+    end: 2015-07-21
+    eventbrite_id: '16911357325'
+    humandate: Jul 20-21, 2015
+    latitude: 46.051213
+    longitude: 14.518528
+    slug: 2015-07-22-ljubljana
+    start: 2015-07-20
+    tags:
+    - {name: DC}
+    url: https://anenadic.github.io/2015-07-22-ljubljana/
+    venue: Faculty of Medicine, University of Ljubljana<br>National Institute of Biology,
+      Ljubljana
   - address: Utrecht, Netherlands
     contact: data-carpentry@software-carpentry.org
     country: nl
