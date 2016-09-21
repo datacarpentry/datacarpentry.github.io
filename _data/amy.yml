@@ -8,8 +8,8 @@ airports:
 - country: nz
   instructors:
   - {name: Prashant Gupta, user: gupta_prashant}
-  - {name: Richard Hosking, user: hosking_richard}
   - {name: Nick Jones, user: jones_nick}
+  - {name: Kate Lee, user: lee_kate}
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {name: Cameron McLean, user: mclean_cameron}
   - {name: Tim McNamara, user: mcnamara_tim}
@@ -75,7 +75,6 @@ airports:
 - country: gb
   instructors:
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
-  - {name: Kate Lee, user: lee_kate}
   - {name: Sarah Mount, user: mount_sarah}
   - {name: Duncan Watson-Parris, user: watson-parris_duncan}
   - {name: Sebastian Engelstaedter, user: engelstaedter_sebastian}
@@ -2890,7 +2889,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, us, za]
-timestamp: 20160920T230005Z
+timestamp: 20160921T000007Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
