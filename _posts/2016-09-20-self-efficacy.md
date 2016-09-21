@@ -15,14 +15,16 @@ authors: ["Kari L. Jordan"]
 The *Little Engine* that Could had it absolutely right. Thinking you can is one of the best ways to succeed at a host of activities ranging from public speaking and bungee jumping to cooking a souffle and learning *R*. What the *Little Engine* didn’t know, however, is that this concept of “thinking I can” is actually a theory known as **self-efficacy**, and plays a major role in how we approach our goals.
 
 Self-efficacy is simply our belief in our ability to accomplish a task. That task can be anything you can imagine:
-* Riding a bike
-* Doing visualizations in R
-* Singing karaoke
-* Starting and populating a repository
+
+*   Riding a bike
+*   Doing visualizations in R
+*   Singing karaoke
+*   Starting and populating a repository
 
 No matter the task, awareness of your self-efficacy relates to your achievement.
 
-I’ll be transparent. In my first Optimization class session in graduate school I looked around the room and thought to myself, “I don’t belong here.” I had no friends or colleagues in the course, and none of the other students looked like me. I didn’t even know anyone at the university who had taken (and passed) this course. My anxiety about the course content was stronger than my will to see the course through to finish. Lastly, I had never seen the material before, or anything like it for that matter. Needless to say I dropped the course immediately. 
+I’ll be transparent. In my first Optimization class session in graduate school I looked around the room and thought to myself, “I don’t belong here.” I had no friends or colleagues in the course, and none of the other students looked like me. I didn’t even know anyone at the university who had taken (and passed) this course. My anxiety about the course content was stronger than my will to see the course through to finish. Lastly, I had never seen the material before, or anything like it for that matter. Needless to say I dropped the course immediately.
+
 What would have happened had I been aware of how my *self-efficacy* for completing the Optimization course linked to my success? Let’s examine what happened in the classroom that day.
 
 **First**:   
