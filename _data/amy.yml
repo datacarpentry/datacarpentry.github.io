@@ -1705,6 +1705,7 @@ airports:
 - country: gb
   instructors:
   - {name: Ardita Shkurti, user: shkurti_ardita}
+  - {name: Andrew Warry, user: warry_andrew}
   latitude: 2.828194
   longitude: -1.334258
   name: East Midlands Airport
@@ -2889,7 +2890,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160921T100005Z
+timestamp: 20160921T110004Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
@@ -3206,6 +3207,20 @@ workshops:
     - {name: DC}
     url: https://lmweber.github.io/2016-05-30-Zurich/
     venue: University of Zurich
+  - address: Oregon Convention Center
+    contact: tkteal@datacarpentry.org
+    country: us
+    end: 2016-05-29
+    eventbrite_id: ''
+    humandate: May 29-29, 2016
+    latitude: 45.5282
+    longitude: -122.6632
+    slug: 2016-05-29-PyCon
+    start: 2016-05-29
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2016-05-29-PyCon/
+    venue: PyCon 2016
   - address: 10 Center Dr, Bethesda, MD 20892
     contact: williams@cshl.edu
     country: us
@@ -4002,6 +4017,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: University of Oxford, South Parks Road, Oxford OX1 3PL, UK
+    contact: ''
+    country: GB
+    end: 2016-11-25
+    eventbrite_id: ''
+    humandate: Nov 23-25, 2016
+    latitude: 51.76442
+    longitude: -1.219455
+    slug: 2016-11-23-oxford
+    start: 2016-11-23
+    tags:
+    - {name: DC}
+    url: https://anenadic.github.io/2016-11-23-oxford/
+    venue: Medical Sciences Teaching Centre
   - address: JCMB, Peter Guthrie Tait Road, Edinburgh, EH9 3FD
     contact: support@archer.ac.uk
     country: GB
