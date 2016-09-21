@@ -8,8 +8,8 @@ airports:
 - country: nz
   instructors:
   - {name: Prashant Gupta, user: gupta_prashant}
-  - {name: Richard Hosking, user: hosking_richard}
   - {name: Nick Jones, user: jones_nick}
+  - {name: Kate Lee, user: lee_kate}
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {name: Cameron McLean, user: mclean_cameron}
   - {name: Tim McNamara, user: mcnamara_tim}
@@ -19,6 +19,7 @@ airports:
   - {name: Elsie Jacobson, user: jacobson_elsie}
   - {name: Amali Thrimawithana, user: thrimawithana_amali}
   - {name: Nicolas Fauchereau, user: fauchereau_nicolas}
+  - {name: Dan Jones, user: jones_dan}
   - {name: Markus Mueller, user: mueller_markus}
   - {name: Vicky Fan, user: fan_vicky}
   - {name: Elena Denisenko, user: denisenko_elena}
@@ -74,7 +75,6 @@ airports:
 - country: gb
   instructors:
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
-  - {name: Kate Lee, user: lee_kate}
   - {name: Sarah Mount, user: mount_sarah}
   - {name: Duncan Watson-Parris, user: watson-parris_duncan}
   - {name: Sebastian Engelstaedter, user: engelstaedter_sebastian}
