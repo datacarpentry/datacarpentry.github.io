@@ -1111,6 +1111,12 @@ airports:
   latitude: 35.81
   longitude: -84.0
   name: Knoxville, TN
+- country: br
+  instructors:
+  - {name: Felipe Bocca, user: ferreira-bocca_felipe}
+  latitude: -23.008056
+  longitude: -47.134444
+  name: Viracopos
 - country: ca
   instructors:
   - {name: Cam Macdonell, user: macdonell_cam}
@@ -2485,7 +2491,7 @@ badges:
   - {awarded: '2016-06-29', name: Alix Keener, user: keener_alix}
   - {awarded: '2016-06-29', name: Daniel Stubbs, user: stubbs_daniel}
   - {awarded: '2016-06-30', name: Eric Giguère, user: gigure_eric}
-  - {awarded: '2016-06-30', name: Felipe Ferreira Bocca, user: ferreira-bocca_felipe}
+  - {awarded: '2016-06-30', name: Felipe Bocca, user: ferreira-bocca_felipe}
   - {awarded: '2016-06-30', name: Ross Bowman, user: bowman_ross}
   - {awarded: '2016-07-08', name: Rudiger Brauning, user: brauning_rudiger}
   - {awarded: '2016-07-08', name: Sean Barberie, user: barberie_sean}
@@ -2851,6 +2857,15 @@ badges:
   - {awarded: '2016-09-19', name: Arthur Endsley, user: endsley_arthur}
   - {awarded: '2016-09-21', name: Joona Lehtomäki, user: lehtomaki_joona}
   - {awarded: '2016-09-21', name: Kunal Marwaha, user: marwaha_kunal}
+  - {awarded: '2015-12-17', name: Ariel Rokem, user: rokem_a}
+  - {awarded: '2016-01-06', name: Karen Cranston, user: cranston_k}
+  - {awarded: '2016-04-14', name: Tiffany Timbers, user: timbers_tiffany}
+  - {awarded: '2016-04-14', name: David Dotson, user: dotson_david}
+  - {awarded: '2016-04-14', name: Kathy Chung, user: chung_kathy}
+  - {awarded: '2016-04-14', name: Chris Holdgraf, user: holdgraf_c}
+  - {awarded: '2016-04-12', name: Philipp Bayer, user: bayer_p}
+  - {awarded: '2016-04-12', name: Anna Williford, user: williford_anna}
+  - {awarded: '2016-04-12', name: Kevin Vilbig, user: vilbig_kevin}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2899,7 +2914,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160922T140007Z
+timestamp: 20160922T150004Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
