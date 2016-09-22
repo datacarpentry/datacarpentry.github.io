@@ -1162,7 +1162,7 @@ airports:
   - {name: Denis Haine, user: haine_denis}
   - {name: Igor Kozlov, user: kozlov_igor}
   - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe_isabelle}
-  - {name: Timothee Poisot, user: poisot_t}
+  - {name: Timothée Poisot, user: poisot_t}
   - {name: Francoise Provencher, user: provencher_francoise}
   - {name: Pier-Luc St-Onge, user: st-onge_pier-luc}
   - {name: Jean-François St-Pierre, user: st-pierre_jean-francois}
@@ -2025,7 +2025,7 @@ badges:
   - {awarded: '2012-12-20', name: Fernando Perez, user: perez_f}
   - {awarded: '2014-12-23', name: Mariela Perignon, user: perignon_mariela}
   - {awarded: '2014-09-18', name: Stefan Pfenninger, user: pfenninger_s}
-  - {awarded: '2014-12-23', name: Timothee Poisot, user: poisot_t}
+  - {awarded: '2014-12-23', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2014-11-20', name: Tom Pollard, user: pollard_tom}
   - {awarded: '2014-05-09', name: Likit Preeyanon, user: preeyanon_likit}
   - {awarded: '2015-01-07', name: Leighton Pritchard, user: pritchard_leighton}
@@ -2697,7 +2697,7 @@ badges:
   - {awarded: '2016-01-27', name: Sherry Lake, user: lake_sherry}
   - {awarded: '2016-01-27', name: Sarah Stevens, user: stevens_sarah}
   - {awarded: '2016-01-27', name: Sue McClatchy, user: mcclatchy_susan}
-  - {awarded: '2016-01-27', name: Timothee Poisot, user: poisot_t}
+  - {awarded: '2016-01-27', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2016-01-27', name: Trevor Bekolay, user: bekolay_trevor}
   - {awarded: '2016-01-27', name: Tom Kelly, user: kelly_tom}
   - {awarded: '2016-01-27', name: Olav Vahtras, user: vahtras_olav}
@@ -2878,7 +2878,7 @@ badges:
   - {awarded: '2016-03-03', name: Deborah Paul, user: paul_deborah}
   - {awarded: '2016-03-03', name: Cam Macdonell, user: macdonell_cam}
   - {awarded: '2016-03-03', name: Paula Andrea Martinez, user: martinez_paula}
-  - {awarded: '2016-03-03', name: Timothee Poisot, user: poisot_t}
+  - {awarded: '2016-03-03', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2016-03-03', name: François Michonneau, user: michonneau_francois}
   - {awarded: '2016-03-03', name: Auriel Fournier, user: fournier_auriel}
   - {awarded: '2016-03-03', name: John Gosset, user: gosset_john}
@@ -2899,7 +2899,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160922T130004Z
+timestamp: 20160922T140007Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
