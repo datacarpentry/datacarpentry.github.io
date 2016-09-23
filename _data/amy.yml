@@ -182,6 +182,7 @@ airports:
   - {name: Francois Bissey, user: bissey_francois}
   - {name: Fatemeh Ashari Ghomi, user: ghomi_fatemeh}
   - {name: Richard Clare, user: clare_richard}
+  - {name: Tim Millar, user: millar_tim}
   - {name: Viktor Polak, user: polak_viktor}
   - {name: Christopher Thomson, user: thomson_christopher}
   - {name: Michael Gauland, user: gauland_michael}
@@ -1602,7 +1603,6 @@ airports:
 - country: nz
   instructors:
   - {name: Hannes Calitz, user: calitz_hannes}
-  - {name: Tim Millar, user: millar_tim}
   - {name: Matt Wilkins, user: wilkins_matt}
   latitude: -40.323854
   longitude: 175.621829
@@ -2914,7 +2914,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160923T030005Z
+timestamp: 20160923T040006Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
