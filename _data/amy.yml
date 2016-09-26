@@ -2915,11 +2915,13 @@ badges:
   - {awarded: '2016-04-17', name: Ariel Rokem, user: rokem_a}
   - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
   - {awarded: '2016-07-12', name: Lex Nederbragt, user: nederbragt_l}
+  - {awarded: '2016-09-26', name: Karin Lagesen, user: lagesen_k}
+  - {awarded: '2016-09-26', name: Anelda van der Walt, user: van-der-walt_anelda}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160926T200007Z
+timestamp: 20160926T210004Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
