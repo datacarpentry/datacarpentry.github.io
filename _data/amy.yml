@@ -2847,7 +2847,6 @@ badges:
   - {awarded: '2016-08-12', name: Sandeep Namburi, user: namburi_sandeep}
   - {awarded: '2016-08-12', name: Nora Mitchell, user: mitchell_nora}
   - {awarded: '2016-08-16', name: Sean Barberie, user: barberie_sean}
-  - {awarded: '2016-08-17', name: Gabriel Nhinda, user: nhinda_gabriel}
   - {awarded: '2016-08-17', name: Stefan Wyder, user: wyder_stefan}
   - {awarded: '2016-08-27', name: Megan A. Jones, user: jones_megan}
   - {awarded: '2016-08-29', name: Carrie Andrew, user: andrew_carrie}
@@ -2921,7 +2920,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160927T110005Z
+timestamp: 20160927T120006Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
