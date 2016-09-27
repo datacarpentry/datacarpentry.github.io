@@ -46,7 +46,7 @@ airports:
   instructors:
   - {name: Nichole Bennett, user: bennett_n}
   - {name: John Fonner, user: fonner_john}
-  - {name: Rayna Michelle Harris, user: raynamharris}
+  - {name: Rayna Michelle Harris, user: harris_rayna}
   - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
   - {name: Rebecca Tarvin, user: tarvin_becca}
   - {name: April Wright, user: wright_april}
@@ -1917,7 +1917,7 @@ badges:
   - {awarded: '2014-05-09', name: Jessica Hamrick, user: hamrick_jessica}
   - {awarded: '2015-04-20', name: Nic Hannah, user: hannah_nicholas}
   - {awarded: '2012-12-20', name: Michael Hansen, user: hansen_m}
-  - {awarded: '2015-01-21', name: Rayna Michelle Harris, user: raynamharris}
+  - {awarded: '2015-01-21', name: Rayna Michelle Harris, user: harris_rayna}
   - {awarded: '2014-12-23', name: Anthony Harrison, user: harrison_anthony}
   - {awarded: '2015-04-20', name: Emelie Harstad, user: harstad_emelie}
   - {awarded: '2012-12-20', name: Ted Hart, user: hart_t}
@@ -2920,7 +2920,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160927T140005Z
+timestamp: 20160927T150005Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
