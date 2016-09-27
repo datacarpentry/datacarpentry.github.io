@@ -364,6 +364,7 @@ airports:
   - {name: Fiona Reid, user: reid_fiona}
   - {name: Juan Rodriguez Herrera, user: rodriguez-herrera_juan}
   - {name: Rupert Nash, user: nash_rupert}
+  - {name: Alexey Tarutin, user: tarutin_alexey}
   latitude: 55.95
   longitude: -3.3725
   name: Edinburgh
@@ -750,10 +751,12 @@ airports:
   name: Newcastle
 - country: gb
   instructors:
+  - {name: Robert Davey, user: davey_rob}
   - {name: Graham Etherington, user: etherington_graham}
   - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Katie Barr, user: barr_katie}
   - {name: Anthony Etuk, user: etuk_anthony}
+  - {name: Matt Drew, user: drew_matt}
   latitude: 52.675833
   longitude: 1.282778
   name: Norwich
@@ -1042,7 +1045,6 @@ airports:
 - country: gb
   instructors:
   - {name: John Constable, user: constable_john}
-  - {name: Robert Davey, user: davey_rob}
   - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
@@ -2870,6 +2872,7 @@ badges:
   - {awarded: '2016-02-01', name: John Gosset, user: gosset_john}
   - {awarded: '2014-05-09', name: Ethan White, user: white_e}
   - {awarded: '2014-05-09', name: Hilmar Lapp, user: lapp_hilmar}
+  - {awarded: '2016-09-27', name: Kara Woo, user: woo_kara}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2920,7 +2923,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160927T150005Z
+timestamp: 20160927T160007Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
