@@ -2923,7 +2923,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160928T140005Z
+timestamp: 20160928T150004Z
 workshops:
 - &id002
   - address: 2030 Marine Science Drive, Newport, OR 97365
