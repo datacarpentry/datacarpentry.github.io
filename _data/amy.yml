@@ -2925,10 +2925,24 @@ badges:
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, fi, gb, in, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160929T040004Z
+  workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
+timestamp: 20160929T050006Z
 workshops:
 - &id002
+  - address: IFOM-IEO Campus, Via Adamello 16, 20139 Milan Italy
+    contact: endre.sebestyen@ifom.eu
+    country: it
+    end: 2016-09-28
+    eventbrite_id: '27482777728'
+    humandate: Sep 27-28, 2016
+    latitude: 45.441765
+    longitude: 9.203042
+    slug: 2016-09-27-milan
+    start: 2016-09-27
+    tags:
+    - {name: DC}
+    url: https://arcleeds.github.io/2016-09-27-milan/
+    venue: IFOM - Istituto FIRC di Oncologia Molecolare
   - address: 2030 Marine Science Drive, Newport, OR 97365
     contact: steve.vantuyl@oregonstate.edu
     country: us
@@ -4152,20 +4166,6 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2016-09-29-jackson/
     venue: The Jackson Laboratory
-  - address: IFOM-IEO Campus, Via Adamello 16, 20139 Milan Italy
-    contact: endre.sebestyen@ifom.eu
-    country: IT
-    end: 2016-09-28
-    eventbrite_id: '27482777728'
-    humandate: Sep 27-28, 2016
-    latitude: 45.441765
-    longitude: 9.203042
-    slug: 2016-09-27-milan
-    start: 2016-09-27
-    tags:
-    - {name: DC}
-    url: https://arcleeds.github.io/2016-09-27-milan/
-    venue: IFOM - Istituto FIRC di Oncologia Molecolare
   - address: Room G18, Building G23, Potchefstroom Campus, NWU, Gerrit Dekker Street,
       Potchefstroom
     contact: eresearch@nwu.ac.za
