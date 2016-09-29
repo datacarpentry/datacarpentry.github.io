@@ -2926,7 +2926,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160929T110006Z
+timestamp: 20160929T120005Z
 workshops:
 - &id002
   - address: IFOM-IEO Campus, Via Adamello 16, 20139 Milan Italy
