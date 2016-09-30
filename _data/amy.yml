@@ -136,6 +136,7 @@ airports:
   - {name: Philip Rosenfield, user: rosenfield_phil}
   - {name: Michael Selik, user: selik_m}
   - {name: Genevieve Shattow, user: shattow_genevieve}
+  - {name: Brian Teague, user: teague_brian}
   - {name: Adam Freedman, user: freedman_adam}
   - {name: Amir Karger, user: karger_amir}
   - {name: Andrew Marder, user: marder_andrew}
@@ -412,6 +413,7 @@ airports:
   name: Frankfurt
 - country: us
   instructors:
+  - {name: Jennifer Hinds, user: hinds_jennifer}
   - {name: Evan Peter Williamson, user: williamson_evan}
   - {name: Stephanie Labou, user: labou_stephanie}
   latitude: 47.619722
@@ -1305,6 +1307,7 @@ airports:
   instructors:
   - {name: Reed Cartwright, user: cartwright_reed}
   - {name: David Dotson, user: dotson_david}
+  - {name: Tania Hernandez, user: hernandez_tania}
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Ryan Middleton, user: middleton_ryan}
   - {name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
@@ -2926,7 +2929,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20160930T190006Z
+timestamp: 20160930T200004Z
 workshops:
 - &id002
   - address: Biomedical and Physical Sciences Building, 567 Wilson Road
