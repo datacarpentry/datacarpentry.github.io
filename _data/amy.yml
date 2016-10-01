@@ -2929,9 +2929,23 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161001T040005Z
+timestamp: 20161001T050004Z
 workshops:
 - &id002
+  - address: 600 Main Street, Bar Harbor, Maine
+    contact: susan.mcclatchy@jax.org
+    country: us
+    end: 2016-09-30
+    eventbrite_id: '26528524531'
+    humandate: Sep 29-30, 2016
+    latitude: 44.366245
+    longitude: -68.196586
+    slug: 2016-09-29-jackson
+    start: 2016-09-29
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2016-09-29-jackson/
+    venue: The Jackson Laboratory
   - address: Biomedical and Physical Sciences Building, 567 Wilson Road
     contact: archerc5@msu.edu
     country: us
@@ -4184,19 +4198,5 @@ workshops:
     - {name: DC}
     url: https://adamobeng.github.io/2016-10-03-Uni-Neuchatel/
     venue: University of Neuchâtel
-  - address: 600 Main Street, Bar Harbor, Maine
-    contact: susan.mcclatchy@jax.org
-    country: US
-    end: 2016-09-30
-    eventbrite_id: '26528524531'
-    humandate: Sep 29-30, 2016
-    latitude: 44.366245
-    longitude: -68.196586
-    slug: 2016-09-29-jackson
-    start: 2016-09-29
-    tags:
-    - {name: DC}
-    url: https://smcclatchy.github.io/2016-09-29-jackson/
-    venue: The Jackson Laboratory
 workshops_current: *id001
 workshops_past: *id002
