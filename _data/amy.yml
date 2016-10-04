@@ -2929,7 +2929,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161004T020004Z
+timestamp: 20161004T030004Z
 workshops:
 - &id002
   - address: 600 Main Street, Bar Harbor, Maine
@@ -4141,6 +4141,20 @@ workshops:
     - {name: DC}
     url: https://hpcarcher.github.io/2016-11-02-EPCC/
     venue: EPCC - The University of Edinburgh
+  - address: Learning Suite, Ground Floor Reid Library, UWA
+    contact: philipp.bayer@uwa.edu.au
+    country: AU
+    end: 2016-10-26
+    eventbrite_id: ''
+    humandate: Oct 25-26, 2016
+    latitude: -31.979177
+    longitude: 115.817742
+    slug: 2016-10-25-uwa
+    start: 2016-10-25
+    tags:
+    - {name: DC}
+    url: https://philippbayer.github.io/2016-10-25-uwa/
+    venue: University of Western Australia
   - address: Room 150, Physics & Astronomy Building, University of Western Ontario,
       1151 Richmond St, London, ON N6A 3K7
     contact: jnandez@sharcnet.ca
