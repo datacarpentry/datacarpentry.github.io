@@ -2882,6 +2882,16 @@ badges:
   - {awarded: '2016-09-28', name: Maryke Schoonen, user: schoonen_maryke}
   - {awarded: '2016-10-04', name: Juan Steyn, user: steyn_juan}
   - {awarded: '2016-10-04', name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
+  - {awarded: '2016-10-05', name: Karthik Srinivasan, user: srinivasan_karthik}
+  - {awarded: '2016-10-05', name: Blake Joyce, user: joyce_blake}
+  - {awarded: '2016-10-05', name: Pawel Pomorski, user: pomorski_pawel}
+  - {awarded: '2016-10-05', name: Dan Warren, user: warren_dan}
+  - {awarded: '2016-10-05', name: Jacob Levernier, user: levernier_jacob}
+  - {awarded: '2016-10-05', name: Mark Wilber, user: wilber_mark}
+  - {awarded: '2016-10-05', name: Cameron McLean, user: mclean_cameron}
+  - {awarded: '2016-10-05', name: William Rowell, user: rowell_bill}
+  - {awarded: '2016-10-05', name: Qingpeng Zhang, user: zhang_qp}
+  - {awarded: '2016-10-05', name: Donny Winston, user: winston_donald}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2932,7 +2942,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161006T000006Z
+timestamp: 20161006T010006Z
 workshops:
 - &id002
   - address: University of Neuchâtel, UniMail, room B013
