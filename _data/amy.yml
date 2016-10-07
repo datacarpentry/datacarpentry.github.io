@@ -2942,7 +2942,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161006T230005Z
+timestamp: 20161007T000007Z
 workshops:
 - &id002
   - address: University of Neuchâtel, UniMail, room B013
@@ -4154,6 +4154,20 @@ workshops:
     - {name: DC}
     url: https://anenadic.github.io/2016-11-23-oxford/
     venue: Medical Sciences Teaching Centre
+  - address: 20 Rue Berbier du Mets, 75013 Paris
+    contact: the FRB team
+    country: FR
+    end: 2016-11-15
+    eventbrite_id: ''
+    humandate: Nov 14-15, 2016
+    latitude: 48.835467
+    longitude: 2.350376
+    slug: 2016-11-14-CESAB
+    start: 2016-11-14
+    tags:
+    - {name: DC}
+    url: https://zormit.github.io/2016-11-14-FRB/
+    venue: Fondation pour la Recherche sur la Biodiversité
   - address: JCMB, Peter Guthrie Tait Road, Edinburgh, EH9 3FD
     contact: support@archer.ac.uk
     country: GB
