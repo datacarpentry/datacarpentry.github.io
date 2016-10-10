@@ -2942,7 +2942,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161010T130003Z
+timestamp: 20161010T140006Z
 workshops:
 - &id002
   - address: University of Neuchâtel, UniMail, room B013
@@ -4143,16 +4143,16 @@ workshops:
   - address: University of Oxford, South Parks Road, Oxford OX1 3PL, UK
     contact: ''
     country: GB
-    end: 2016-11-25
+    end: 2016-12-06
     eventbrite_id: ''
-    humandate: Nov 23-25, 2016
+    humandate: Dec 05-06, 2016
     latitude: 51.76442
     longitude: -1.219455
-    slug: 2016-11-23-oxford
-    start: 2016-11-23
+    slug: 2016-12-05-oxford
+    start: 2016-12-05
     tags:
     - {name: DC}
-    url: https://anenadic.github.io/2016-11-23-oxford/
+    url: https://anenadic.github.io/2016-12-05-oxford/
     venue: Medical Sciences Teaching Centre
   - address: 20 Rue Berbier du Mets, 75013 Paris
     contact: the FRB team
