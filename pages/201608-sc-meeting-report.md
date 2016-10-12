@@ -4,7 +4,7 @@ show_meta: false
 title: "August 2016 Steering Committee Report"
 header:
    image_fullwidth: "wood_plank.jpg"
-permalink: "/2016-08-17-sc-meeting-report/"
+permalink: "/201608-sc-meeting-report/"
 ---
 
 ### Data Carpentry Steering Committee Meeting Report

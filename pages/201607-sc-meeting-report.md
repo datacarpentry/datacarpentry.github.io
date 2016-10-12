@@ -4,7 +4,7 @@ show_meta: false
 title: "July 2016 Steering Committee Report"
 header:
    image_fullwidth: "wood_plank.jpg"
-permalink: "/2016-07-14-sc-meeting-report/"
+permalink: "/201607-sc-meeting-report/"
 ---
 
 
