@@ -1,4 +1,4 @@
-## Data Carpentry Steering Committee Meeting Update
+## Data Carpentry Steering Committee Meeting Report
 July 14, 2016
 1pm Pacific/4pm Eastern
 
