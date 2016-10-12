@@ -11,8 +11,8 @@ Data Carpentry Steering Committee Meeting Reports
 
 ### 2016
 
-- [17 August 2016](/2016-08-17-sc-meeting-report/)
-- [14 July 2016](/2016-07-14-sc-meeting-report/)
+- [17 August 2016](/201608-sc-meeting-report/)
+- [14 July 2016](/201607-sc-meeting-report/)
 
 Still to come:
 - 26 May 2016
