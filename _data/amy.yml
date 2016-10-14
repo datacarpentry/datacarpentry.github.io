@@ -2949,9 +2949,25 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161014T190006Z
+timestamp: 20161014T200003Z
 workshops:
 - &id002
+  - address: 190 Doe Library
+    contact: Scott Peterson <speterso@library.berkeley.edu>
+    country: us
+    end: 2016-10-11
+    eventbrite_id: '27361822949'
+    humandate: Oct 10-11, 2016
+    latitude: 37.872318
+    longitude: -122.259487
+    slug: 2016-10-10-UCB
+    start: 2016-10-10
+    tags:
+    - {name: SWC}
+    - {name: DC}
+    - {name: LC}
+    url: https://jt14den.github.io/2016-10-10-UCB/
+    venue: UC Berkeley Library - Library Carpentry
   - address: University of Neuchâtel, UniMail, room B013
     contact: dominique.roche@unine.ch
     country: ch
