@@ -2945,11 +2945,13 @@ badges:
   - {awarded: '2016-07-12', name: Lex Nederbragt, user: nederbragt_l}
   - {awarded: '2016-09-26', name: Karin Lagesen, user: lagesen_k}
   - {awarded: '2016-09-26', name: Anelda van der Walt, user: van-der-walt_anelda}
+  - {awarded: '2016-10-17', name: Erin Becker, user: becker_erin}
+  - {awarded: '2016-10-17', name: Rayna Michelle Harris, user: harris_rayna}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161017T130006Z
+timestamp: 20161017T140005Z
 workshops:
 - &id002
   - address: 190 Doe Library
