@@ -467,6 +467,7 @@ airports:
   - {name: Jason Williams, user: williams_jason}
   - {name: Andreas Mueller, user: mueller_andreas}
   - {name: Joslynn Lee, user: lee_joslynn}
+  - {name: Afrah Shafquat, user: shafquat_afrah}
   latitude: 40.639722
   longitude: -73.778889
   name: New York JFK, NY
@@ -1054,6 +1055,7 @@ airports:
   - {name: Laurent Gatto, user: gatto_laurent}
   - {name: Tim Tröndle, user: troendle_tim}
   - {name: Mark Wheelhouse, user: wheelhouse_mark}
+  - {name: Marco Chiapello, user: chiapello_marco}
   latitude: 51.885
   longitude: 0.235
   name: Stansted
@@ -1492,6 +1494,7 @@ airports:
   - {name: Joona Lehtomäki, user: lehtomaki_joona}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {name: Edwin van der Helm, user: van-der-helm_edwin}
+  - {name: Anit Schürch, user: schurch_anita}
   latitude: 52.309686
   longitude: 4.767438
   name: 'Amsterdam Airport Schiphol '
@@ -1503,6 +1506,7 @@ airports:
   name: Tromsø Airport
 - country: za
   instructors:
+  - {name: Maryke Schoonen, user: schoonen_maryke}
   - {name: Albertus Seyffert, user: seyffert_albertus}
   - {name: Bianca Peterson, user: peterson_bianca}
   - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
@@ -1778,6 +1782,12 @@ airports:
   latitude: 41.7998868
   longitude: 12.246238414
   name: Leonardo da Vinci–Fiumicino Airport
+- country: ca
+  instructors:
+  - {name: Dmitri Rozmanov, user: rozmanov_dmitri}
+  latitude: 51.128778
+  longitude: -114.012405
+  name: Calgary International Airport
 badges:
 - name: creator
   persons:
@@ -2557,7 +2567,7 @@ badges:
   - {awarded: '2016-09-25', name: Jennifer Hinds, user: hinds_jennifer}
   - {awarded: '2016-09-25', name: Brian Teague, user: teague_brian}
   - {awarded: '2016-10-04', name: Dmitri Rozmanov, user: rozmanov_dmitri}
-  - {awarded: '2016-10-11', name: Anita Schürch, user: schurch_anita}
+  - {awarded: '2016-10-11', name: Anit Schürch, user: schurch_anita}
   - {awarded: '2016-10-11', name: Bianca Peterson, user: peterson_bianca}
   - {awarded: '2016-10-11', name: Marco Chiapello, user: chiapello_marco}
   - {awarded: '2016-10-14', name: Afrah Shafquat, user: shafquat_afrah}
@@ -2951,7 +2961,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161017T190004Z
+timestamp: 20161017T200006Z
 workshops:
 - &id002
   - address: 190 Doe Library
