@@ -1,18 +1,18 @@
 ---
 layout: page
 show_meta: false
-title: "Steering Committee Minutes"
+title: "Steering Committee Reports"
 header:
    image_fullwidth: "wood_plank.jpg"
-permalink: "/minutes/"
+permalink: "/meeting-reports/"
 ---
 
 Data Carpentry Steering Committee Meeting Reports
 
 ### 2016
 
-- [17 August 2016]
-- [14 July 2016]
+- [17 August 2016](/201608-sc-meeting-report/)
+- [14 July 2016](/201607-sc-meeting-report/)
 
 Still to come:
 - 26 May 2016

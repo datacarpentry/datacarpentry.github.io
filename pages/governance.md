@@ -27,7 +27,7 @@ The Steering Committee provides strategic vision and oversight of Data Carpentry
 Current Steering Committee members: Karen Cranston, Hilmar Lapp, Aleksandra Pawlik, Karthik Ram, Ethan White
 <br>See more about our Steering Committee members on our [people](/people/) page.
 
-- [Steering Committee meeting reports](/minutes/)
+- [Steering Committee meeting reports](/meeting-reports/)
 - Moore Progress Updates 2016: [Report](https://github.com/datacarpentry/practices/blob/datacarpentry/datacarpentry/Moore_DataCarpentry_progress_report.pdf) and [Activities (Excel file)](https://github.com/datacarpentry/practices/blob/datacarpentry/datacarpentry/Data-Carpentry_Practices-Data-Collection.xlsx?raw=true)
 
 

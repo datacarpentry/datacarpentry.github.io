@@ -41,4 +41,4 @@ We offer several levels of Partnerships, based on training activities expected a
 
 ^ in-person instructor trainings require an available trainer and travel funds to support instructor trainer(s) travel.
 
-We are always interested in developing new partnerships, and in participating in grants and other proposals. To reach us, or to find out more, [please send us email](mailto:partnerships@carpentries.orgOB)
+We are always interested in developing new partnerships, and in participating in grants and other proposals. To reach us, or to find out more, [please send us an email](mailto:partnerships@carpentries.org).
