@@ -2963,9 +2963,23 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161019T040006Z
+timestamp: 20161019T050005Z
 workshops:
 - &id002
+  - address: 432 Newell Drive, CISE Bldg E251
+    contact: ethanwhite@ufl.edu
+    country: us
+    end: 2016-10-18
+    eventbrite_id: ''
+    humandate: Oct 17-18, 2016
+    latitude: 29.648248
+    longitude: -82.344031
+    slug: 2016-10-17-uf
+    start: 2016-10-17
+    tags:
+    - {name: DC}
+    url: https://weecology.github.io/2016-10-17-uf/
+    venue: University of Florida Informatics Institute
   - address: 190 Doe Library
     contact: Scott Peterson <speterso@library.berkeley.edu>
     country: us
@@ -4276,19 +4290,5 @@ workshops:
     - {name: DC}
     url: https://tgac.github.io/2016-10-18-EI/
     venue: Earlham Institute - Darwin Room
-  - address: 432 Newell Drive, CISE Bldg E251
-    contact: ethanwhite@ufl.edu
-    country: US
-    end: 2016-10-18
-    eventbrite_id: ''
-    humandate: Oct 17-18, 2016
-    latitude: 29.648248
-    longitude: -82.344031
-    slug: 2016-10-17-uf
-    start: 2016-10-17
-    tags:
-    - {name: DC}
-    url: https://weecology.github.io/2016-10-17-uf/
-    venue: University of Florida Informatics Institute
 workshops_current: *id001
 workshops_past: *id002
