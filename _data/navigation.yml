@@ -16,6 +16,8 @@
     url: "/code-of-conduct/"
   - title: "Governance"
     url: "/governance/"
+  - title: "Assessment"
+    url: "/assessment/"
 
 - title: "Workshops"
   url: "/workshops/"
