@@ -2980,7 +2980,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161022T210004Z
+timestamp: 20161022T220005Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UG
