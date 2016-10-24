@@ -2980,7 +2980,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161024T130003Z
+timestamp: 20161024T140003Z
 workshops:
 - &id002
   - address: Room 150, Physics & Astronomy Building, University of Western Ontario,
@@ -4273,7 +4273,7 @@ workshops:
     humandate: Nov 03-04, 2016
     latitude: 33.640728
     longitude: -84.4277
-    slug: 2016-11-03-nsbe_norfolk
+    slug: 2016-11-03-nsbe_atlanta
     start: 2016-11-03
     tags:
     - {name: DC}
