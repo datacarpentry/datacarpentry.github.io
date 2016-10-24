@@ -2980,9 +2980,24 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161024T040004Z
+timestamp: 20161024T050005Z
 workshops:
 - &id002
+  - address: Room 150, Physics & Astronomy Building, University of Western Ontario,
+      1151 Richmond St, London, ON N6A 3K7
+    contact: jnandez@sharcnet.ca
+    country: ca
+    end: 2016-10-23
+    eventbrite_id: '28049121678'
+    humandate: Oct 22-23, 2016
+    latitude: 43.009834
+    longitude: -81.27266
+    slug: 2016-10-22-uwo
+    start: 2016-10-22
+    tags:
+    - {name: DC}
+    url: https://jnandez.github.io/2016-10-22-uwo/
+    venue: Western University, PAB 150
   - address: Norwich Research Park, Norwich, NR4 7UG
     contact: training@earlham.ac.uk
     country: gb
@@ -4292,20 +4307,5 @@ workshops:
     - {name: DC}
     url: https://philippbayer.github.io/2016-10-25-uwa/
     venue: University of Western Australia
-  - address: Room 150, Physics & Astronomy Building, University of Western Ontario,
-      1151 Richmond St, London, ON N6A 3K7
-    contact: jnandez@sharcnet.ca
-    country: CA
-    end: 2016-10-23
-    eventbrite_id: '28049121678'
-    humandate: Oct 22-23, 2016
-    latitude: 43.009834
-    longitude: -81.27266
-    slug: 2016-10-22-uwo
-    start: 2016-10-22
-    tags:
-    - {name: DC}
-    url: https://jnandez.github.io/2016-10-22-uwo/
-    venue: Western University, PAB 150
 workshops_current: *id001
 workshops_past: *id002
