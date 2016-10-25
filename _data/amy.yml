@@ -2984,7 +2984,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161025T180007Z
+timestamp: 20161025T190004Z
 workshops:
 - &id002
   - address: Room 150, Physics & Astronomy Building, University of Western Ontario,
@@ -4269,6 +4269,20 @@ workshops:
     - {name: DC}
     url: https://zormit.github.io/2016-11-14-FRB/
     venue: Fondation pour la Recherche sur la Biodiversité
+  - address: 서울특별시 마포구 백범로 35 (신수동) 서강대학교 K관(김대건관) 101호
+    contact: kwangchun.lee.7@gmail.com
+    country: KR
+    end: 2016-11-07
+    eventbrite_id: '27560162187'
+    humandate: Nov 06-07, 2016
+    latitude: 37.550024
+    longitude: 126.939991
+    slug: 2016-11-06-sogang
+    start: 2016-11-06
+    tags:
+    - {name: DC}
+    url: https://statkclee.github.io/2016-11-06-sogang/
+    venue: 서강대학교
   - address: 1900 Sullivan Rd, Atlanta, GA 30337
     contact: aguzman@nsbe.org
     country: US
