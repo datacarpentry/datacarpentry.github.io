@@ -328,6 +328,7 @@ airports:
   - {name: Byron Smith, user: smith_byron}
   - {name: Shawn Whitefield, user: whitefield_shawn}
   - {name: Akima George, user: george_akima}
+  - {name: Alix Keener, user: keener_alix}
   - {name: Ry4an Brase, user: brase_ry4an}
   latitude: 42.212222
   longitude: -83.353333
@@ -2985,7 +2986,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161026T140003Z
+timestamp: 20161026T150004Z
 workshops:
 - &id002
   - address: Room 150, Physics & Astronomy Building, University of Western Ontario,
