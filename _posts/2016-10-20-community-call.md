@@ -1,6 +1,6 @@
 ---
 layout: post
-subheadline:
+subheadline: "Community"
 title: "Community Call on Assessment"
 teaser: "Discussion of our workshop survey results"
 header:
