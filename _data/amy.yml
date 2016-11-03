@@ -190,6 +190,7 @@ airports:
   - {name: Viktor Polak, user: polak_viktor}
   - {name: Christopher Thomson, user: thomson_christopher}
   - {name: Michael Gauland, user: gauland_michael}
+  - {name: Ben Roberts, user: roberts_ben}
   latitude: -43.489167
   longitude: 172.532222
   name: Christchurch
@@ -1337,6 +1338,9 @@ airports:
   - {name: Tanya Flynn, user: flynn_tanya}
   - {name: Kim Rutherford, user: rutherford_kim}
   - {name: Nick Burns, user: burns_nick}
+  - {name: Albert Savary, user: savary_albert}
+  - {name: Matt Healey, user: healey_matt}
+  - {name: Matt Bixley, user: bixley_matt}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
@@ -1637,6 +1641,8 @@ airports:
   - {name: Craig Stanton, user: stanton_craig}
   - {name: Leo Browning, user: browning_leo}
   - {name: Michael Fincham, user: fincham_michael}
+  - {name: Jose Higino, user: higino_jose}
+  - {name: Fabrice Cantos, user: cantos_fabrice}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -2989,7 +2995,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161103T000006Z
+timestamp: 20161103T010004Z
 workshops:
 - &id002
   - address: Learning Suite, Ground Floor Reid Library, UWA
