@@ -2997,9 +2997,38 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161104T040003Z
+timestamp: 20161104T050006Z
 workshops:
 - &id002
+  - address: JCMB, Peter Guthrie Tait Road, Edinburgh, EH9 3FD
+    contact: support@archer.ac.uk
+    country: gb
+    end: 2016-11-03
+    eventbrite_id: ''
+    humandate: Nov 02-03, 2016
+    latitude: 55.92155
+    longitude: -3.174546
+    slug: 2016-11-02-EPCC
+    start: 2016-11-02
+    tags:
+    - {name: DC}
+    url: https://hpcarcher.github.io/2016-11-02-EPCC/
+    venue: EPCC - The University of Edinburgh
+  - address: CAD Lab, School of Environmental Sciences, University of Venda, University
+      Street
+    contact: arreyves@gmail.com
+    country: za
+    end: 2016-11-03
+    eventbrite_id: ''
+    humandate: Nov 01-03, 2016
+    latitude: 22.9761
+    longitude: 30.4465
+    slug: 2016-10-31-univenda
+    start: 2016-11-01
+    tags:
+    - {name: DC}
+    url: https://arreyves.github.io/2016-10-31-univenda/
+    venue: University of Venda
   - address: Learning Suite, Ground Floor Reid Library, UWA
     contact: philipp.bayer@uwa.edu.au
     country: au
@@ -4324,34 +4353,5 @@ workshops:
     - {name: DC}
     url: https://teamneem.github.io/2016-11-03-nsbe/
     venue: NSBE Fall Regional Conference - Sheraton Atlanta Airport Hotel
-  - address: JCMB, Peter Guthrie Tait Road, Edinburgh, EH9 3FD
-    contact: support@archer.ac.uk
-    country: GB
-    end: 2016-11-03
-    eventbrite_id: ''
-    humandate: Nov 02-03, 2016
-    latitude: 55.92155
-    longitude: -3.174546
-    slug: 2016-11-02-EPCC
-    start: 2016-11-02
-    tags:
-    - {name: DC}
-    url: https://hpcarcher.github.io/2016-11-02-EPCC/
-    venue: EPCC - The University of Edinburgh
-  - address: CAD Lab, School of Environmental Sciences, University of Venda, University
-      Street
-    contact: arreyves@gmail.com
-    country: ZA
-    end: 2016-11-03
-    eventbrite_id: ''
-    humandate: Nov 01-03, 2016
-    latitude: 22.9761
-    longitude: 30.4465
-    slug: 2016-10-31-univenda
-    start: 2016-11-01
-    tags:
-    - {name: DC}
-    url: https://arreyves.github.io/2016-10-31-univenda/
-    venue: University of Venda
 workshops_current: *id001
 workshops_past: *id002
