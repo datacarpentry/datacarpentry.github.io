@@ -25,7 +25,7 @@ We conduct pre and post workshop surveys for each workshop
  
 We will be releasing regular reports from our survey results.
 
-[Assessment report 2016-10-20]({{ site.urlimg }}/images/Data-Carpentry-Assessment-Report-Published.pdf)
+[Assessment report 2016-10-20]({{ site.urlimg }}/Data-Carpentry-Assessment-Report-Published.pdf)
 
 The analysis in this report serves the following purposes:
 
