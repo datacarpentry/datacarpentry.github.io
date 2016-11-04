@@ -2,7 +2,7 @@
 layout: post
 subheadline: "Assessment"
 title: "Analysis of Data Carpentry Workshop Impact"
-teaser: "Data Carpentry workshops have a significant impact on learners."
+teaser: "Data Carpentry workshops have made a meaningful impact on the way learners view their ability to complete computational tasks."
 header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
