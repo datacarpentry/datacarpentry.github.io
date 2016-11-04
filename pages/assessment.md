@@ -25,7 +25,8 @@ We conduct pre and post workshop surveys for each workshop
  
 We will be releasing regular reports from our survey results.
 
-[Assessment report 2016-10-20](https://docs.google.com/document/d/1qafzCWZ7-9TgDhU5Hd5Gr2QLOpsQPjBDsfzdtg2mU40/edit)  
+[Assessment report 2016-10-20]({{ site.urlimg }}/images/Data-Carpentry-Assessment-Report-Published.pdf)
+
 The analysis in this report serves the following purposes:
 
 - To inform the community of the impact Data Carpentry workshops have made on its learners.
