@@ -25,6 +25,9 @@ airports:
   - {name: Elena Denisenko, user: denisenko_elena}
   - {name: Ashar Malik, user: malik_ashar_2}
   - {name: Ivan Welsh, user: welsh_ivan}
+  - {name: Gene Soudlenkov, user: soudlenkov_gene}
+  - {name: Chris Scott, user: scott_chris}
+  - {name: Mike Ladd, user: ladd_mike}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
@@ -187,6 +190,7 @@ airports:
   - {name: Viktor Polak, user: polak_viktor}
   - {name: Christopher Thomson, user: thomson_christopher}
   - {name: Michael Gauland, user: gauland_michael}
+  - {name: Ben Roberts, user: roberts_ben}
   latitude: -43.489167
   longitude: 172.532222
   name: Christchurch
@@ -1334,6 +1338,9 @@ airports:
   - {name: Tanya Flynn, user: flynn_tanya}
   - {name: Kim Rutherford, user: rutherford_kim}
   - {name: Nick Burns, user: burns_nick}
+  - {name: Albert Savary, user: savary_albert}
+  - {name: Matt Healey, user: healey_matt}
+  - {name: Matt Bixley, user: bixley_matt}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
@@ -1634,6 +1641,8 @@ airports:
   - {name: Craig Stanton, user: stanton_craig}
   - {name: Leo Browning, user: browning_leo}
   - {name: Michael Fincham, user: fincham_michael}
+  - {name: Jose Higino, user: higino_jose}
+  - {name: Fabrice Cantos, user: cantos_fabrice}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -2578,6 +2587,7 @@ badges:
   - {awarded: '2016-10-25', name: Kyrre Traavik Låberg, user: traavik-lberg_kyrre}
   - {awarded: '2016-10-25', name: Juan Carlos Zuniga, user: zuniga_juan-carlos}
   - {awarded: '2016-10-25', name: Félix-Antoine Fortin, user: fortin_flix-antoine}
+  - {awarded: '2016-11-03', name: Raoul Wolf, user: wolf_raoul}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2934,6 +2944,7 @@ badges:
   - {awarded: '2016-10-06', name: Logan Cox, user: cox_logan}
   - {awarded: '2016-10-06', name: Remi Daigle, user: daigle_remi}
   - {awarded: '2016-10-25', name: Christian Barra, user: barra_christian}
+  - {awarded: '2016-11-03', name: Raoul Wolf, user: wolf_raoul}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2986,9 +2997,52 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161102T160006Z
+timestamp: 20161107T190006Z
 workshops:
 - &id002
+  - address: 1900 Sullivan Rd, Atlanta, GA 30337
+    contact: aguzman@nsbe.org
+    country: us
+    end: 2016-11-04
+    eventbrite_id: ''
+    humandate: Nov 03-04, 2016
+    latitude: 33.640728
+    longitude: -84.4277
+    slug: 2016-11-03-nsbe_atlanta
+    start: 2016-11-03
+    tags:
+    - {name: DC}
+    url: https://teamneem.github.io/2016-11-03-nsbe/
+    venue: NSBE Fall Regional Conference - Sheraton Atlanta Airport Hotel
+  - address: JCMB, Peter Guthrie Tait Road, Edinburgh, EH9 3FD
+    contact: support@archer.ac.uk
+    country: gb
+    end: 2016-11-03
+    eventbrite_id: ''
+    humandate: Nov 02-03, 2016
+    latitude: 55.92155
+    longitude: -3.174546
+    slug: 2016-11-02-EPCC
+    start: 2016-11-02
+    tags:
+    - {name: DC}
+    url: https://hpcarcher.github.io/2016-11-02-EPCC/
+    venue: EPCC - The University of Edinburgh
+  - address: CAD Lab, School of Environmental Sciences, University of Venda, University
+      Street
+    contact: arreyves@gmail.com
+    country: za
+    end: 2016-11-03
+    eventbrite_id: ''
+    humandate: Nov 01-03, 2016
+    latitude: 22.9761
+    longitude: 30.4465
+    slug: 2016-10-31-univenda
+    start: 2016-11-01
+    tags:
+    - {name: DC}
+    url: https://arreyves.github.io/2016-10-31-univenda/
+    venue: University of Venda
   - address: Learning Suite, Ground Floor Reid Library, UWA
     contact: philipp.bayer@uwa.edu.au
     country: au
@@ -4271,6 +4325,20 @@ workshops:
     - {name: DC}
     url: https://anenadic.github.io/2016-12-05-oxford/
     venue: Medical Sciences Teaching Centre
+  - address: IT Services Building, Room 8.03b (IT Meeting Room 1)
+    contact: h.ford@leeds.ac.uk
+    country: GB
+    end: 2016-11-22
+    eventbrite_id: '28449314666'
+    humandate: Nov 21-22, 2016
+    latitude: 53.805658
+    longitude: -1.554303
+    slug: 2016-11-21-leeds
+    start: 2016-11-21
+    tags:
+    - {name: DC}
+    url: https://arcleeds.github.io/2016-11-21-leeds/
+    venue: The University of Leeds
   - address: 20 Rue Berbier du Mets, 75013 Paris
     contact: the FRB team
     country: FR
@@ -4299,48 +4367,5 @@ workshops:
     - {name: DC}
     url: https://statkclee.github.io/2016-11-06-sogang/
     venue: 서강대학교
-  - address: 1900 Sullivan Rd, Atlanta, GA 30337
-    contact: aguzman@nsbe.org
-    country: US
-    end: 2016-11-04
-    eventbrite_id: ''
-    humandate: Nov 03-04, 2016
-    latitude: 33.640728
-    longitude: -84.4277
-    slug: 2016-11-03-nsbe_atlanta
-    start: 2016-11-03
-    tags:
-    - {name: DC}
-    url: https://teamneem.github.io/2016-11-03-nsbe/
-    venue: NSBE Fall Regional Conference - Sheraton Atlanta Airport Hotel
-  - address: JCMB, Peter Guthrie Tait Road, Edinburgh, EH9 3FD
-    contact: support@archer.ac.uk
-    country: GB
-    end: 2016-11-03
-    eventbrite_id: ''
-    humandate: Nov 02-03, 2016
-    latitude: 55.92155
-    longitude: -3.174546
-    slug: 2016-11-02-EPCC
-    start: 2016-11-02
-    tags:
-    - {name: DC}
-    url: https://hpcarcher.github.io/2016-11-02-EPCC/
-    venue: EPCC - The University of Edinburgh
-  - address: CAD Lab, School of Environmental Sciences, University of Venda, University
-      Street
-    contact: arreyves@gmail.com
-    country: ZA
-    end: 2016-11-03
-    eventbrite_id: ''
-    humandate: Nov 01-03, 2016
-    latitude: 22.9761
-    longitude: 30.4465
-    slug: 2016-10-31-univenda
-    start: 2016-11-01
-    tags:
-    - {name: DC}
-    url: https://arreyves.github.io/2016-10-31-univenda/
-    venue: University of Venda
 workshops_current: *id001
 workshops_past: *id002
