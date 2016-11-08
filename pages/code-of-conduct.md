@@ -7,57 +7,65 @@ header:
 permalink: "/code-of-conduct/"
 ---
 
-Data Carpentry is a community organization. We value the involvement of every one
-in this community - learners, instructors, hosts, developers, steering committee
-members and staff. We are committed to creating a friendly and respectful place for learning, 
-teaching and contributing. All participants in Data Carpentry events or communications
-are expected to show respect and courtesy to others. 
+Data Carpentry and Software Carpentry are community organizations. 
+We value the involvement of everyone in this community - learners, instructors, hosts, developers, steering
+committee members and staff. We are committed to creating a friendly and respectful place for learning, 
+teaching and contributing. All participants in our events and communications are expected to show respect 
+and courtesy to others.  
+ 
+To make clear what is expected, everyone participating in Data Carpentry and Software Carpentry activities 
+is required to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by
+Data Carpentry and Software Carpentry including, but not limited to, workshops, email lists, online forums and 
+on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.  
 
-This isn’t an exhaustive list of things that you can and can’t do. Rather, take it in the spirit 
-in which it’s intended - a guide to make it easier to enrich all of us and the 
-communities in which we participate.
-
-To make clear what is expected, everyone participating in Data Carpentry activities is
-required to conform to the following Code of Conduct. This code of conduct applies to 
-all spaces managed by Data Carpentry, including, but not
-limited to, workshops, email lists, online forums and on GitHub. 
-
-If you believe someone is violating the code of conduct, we ask that you report it by 
-emailing Tracy Teal, [tkteal@datacarpentry.org](mailto:tkteal@datacarpentry.org) or
-any of the [Steering Committee members](/people/). You may also contact Gina Helfrich 
-(gina @ numfocus.org) at NumFOCUS, our sponsoring organization. All communication will 
-be treated as confidential. 
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing
+[confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a
+workshop or other in-person event,
+by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow
+the reporting guidelines detailed [here](/CoC-reporting/). All reports will be reviewed by the Conduct Policy
+subcommittee. A detailed enforcement policy can be found [here](/CoC-enforcement/).  
 
 <hr>
 
 ### Code of Conduct
 
-Data Carpentry is dedicated to providing a harassment-free experience for everyone, 
-regardless of gender, sexual orientation, disability, physical appearance, body size, race, 
-nationality, religion, or choice of text editor. We do not tolerate harassment of 
-participants in any form.
+Data Carpentry and Software Carpentry are dedicated to providing a welcoming and supportive environment for all
+people, regardless of background or identity. However, we recognise that some groups in our community are subject
+to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific
+group can be on the basis of characteristics such as such as gender, sexual orientation, disability, physical
+appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial
+status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a
+national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants
+on the basis of these categories, or for any other reason.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, 
-disability, physical appearance, body size, race, religion, sexual images in public spaces, 
-deliberate intimidation, stalking, following, harassing photography or recording, sustained 
-disruption of talks or other events, inappropriate physical contact, and unwelcome sexual 
-attention.
+Harassment is any form of behaviour intended to exclude, intimidate, or cause discomfort. Because we are a
+diverse community, we may have different ways of communicating and of understanding the intent behind actions.
+Therefore we have chosen to prohibit certain forms of behaviour in our community, regardless of intent.
+Prohibited harassing behaviour includes but is not limited to:  
 
-- All communication should be appropriate for a professional audience including people of many 
-different backgrounds. Sexual language and imagery is not appropriate for any event or
-communication.
+- written or verbal comments which have the effect of excluding people on the basis of membership of a specific group listed above  
+- causing someone to fear for their safety, such as through stalking, following, or intimidation  
+- the display of sexual or violent images  
+- unwelcome sexual attention  
+- nonconsensual or unwelcome physical contact  
+- sustained disruption of talks, events or communications  
+- incitement to violence, suicide, or self-harm  
+- continuing to initiate interaction (including photography or recording) with someone after being asked to stop  
+- publication of private communication without consent  
 
-- Be kind to others. Do not insult or put down other participants.
+Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as
+exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we
+participate. All Carpentry interactions should be professional regardless of location: harassment is prohibited
+whether it occurs on- or offline, and the same standards apply to both.  
 
-- Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes 
-are not appropriate.
+Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors.  
 
-- Participants asked to stop any harassing behavior are expected to comply immediately. 
-Participants violating these rules may be asked to leave the event or cease corresponding 
-with the community at the sole discretion of 
-the organizers without a refund of any charge that may have been levied.
+Thank you for helping make this a welcoming, friendly community for all.  
 
-Thank you for helping make this a welcoming, friendly community for all.
+This code of conduct is an adaptation of the one used by the Software Carpentry Foundation and is a modified
+version of that used by PyCon, which in turn is forked from a template written by the Ada Initiative and hosted
+on the Geek Feminism Wiki. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol
+Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy
+Teal.
 
-This code of conduct is an adaptation of the one used by the [Software Carpentry Foundation](http://www.software-carpentry.org) and is a modified version of that used by [PyCon](https://us.pycon.org/2015/about/code-of-conduct/), which in turn is forked from a template written by the Ada Initiative and hosted on the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
