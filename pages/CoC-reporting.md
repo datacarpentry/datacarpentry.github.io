@@ -16,7 +16,7 @@ individuals instruct us otherwise.
 
 If the violation occurred at an in-person event, please contact the event host and/or coordinator so that they
 can take any appropriate immediate response, as well as contacting the subcommittee. You can also contact
-Carpentry executive staff by telephone at 1-XXX-XXX-XXXX (Tracy Teal - Data Carpentry) or 1-XXX-XXX-XXXX (Jonah Duckles - Software Carpentry).  
+Carpentry executive staff by telephone at 1-530-341-3230 (Tracy Teal - Data Carpentry) or 1-XXX-XXX-XXXX (Jonah Duckles - Software Carpentry).  
 
 **If you believe anyone is in physical danger, please notify appropriate law enforcement first.** If you are unsure
 which law enforcement agency is appropriate, please include this in your report and we will attempt to notify
