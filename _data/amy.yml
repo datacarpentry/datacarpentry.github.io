@@ -1252,6 +1252,7 @@ airports:
   - {name: Martin Durant, user: durant_martin}
   - {name: Jonathan Dursi, user: dursi_j}
   - {name: Xu Fei, user: fei_xu}
+  - {name: Nancy Fong, user: fong_nancy}
   - {name: Heather Gibling, user: gibling_heather}
   - {name: Jeremy Gray, user: gray_jeremy}
   - {name: Thomas Guignard, user: guignard_thomas}
@@ -1295,6 +1296,8 @@ airports:
   - {name: Yulia Rubanova, user: rubanova_yulia}
   - {name: Sarah Mahallati, user: mahallati_sarah}
   - {name: Stuart Williams, user: williams_stuart}
+  - {name: Ted Belke, user: belke_ted}
+  - {name: Cindy Chen, user: chen_cindy}
   latitude: 43.677222
   longitude: -79.630556
   name: Toronto
@@ -2997,7 +3000,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161109T120005Z
+timestamp: 20161109T130004Z
 workshops:
 - &id002
   - address: 서울특별시 마포구 백범로 35 (신수동) 서강대학교 K관(김대건관) 101호
