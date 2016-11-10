@@ -16,7 +16,7 @@ It’s funny. When I first started working for Data Carpentry, I had never heard
 
 I even confessed to my colleagues that the data I left behind for up and coming grad students is so disorganized, I sent them an e-mail to apologize! This community has made a believer out of me, and for good reason: Our workshops work. 
 
-See for yourself. Read the [report](https://docs.google.com/document/d/1qafzCWZ7-9TgDhU5Hd5Gr2QLOpsQPjBDsfzdtg2mU40/edit) of the recent analysis of Data Carpentry’s post-workshop surveys. 
+See for yourself. Read the [report]({{ site.urlimg }}/Data-Carpentry-Assessment-Report-Published.pdf) of the recent analysis of Data Carpentry’s post-workshop surveys. 
 
 You can run your own analysis, too! The data is available in the [assessment repo](https://github.com/datacarpentry/workshop-survey-data) on GitHub.
 
