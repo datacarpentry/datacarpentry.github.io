@@ -29,9 +29,10 @@ We conduct pre and post workshop surveys for each workshop
 
 ### Assessment results
  
-We will be releasing regular reports from our survey results.
+We will be releasing regular reports from our survey results. These reports are published through Zenodo and can
+be accessed through the links below.
 
-[Assessment report 2016-10-20]({{ site.urlimg }}/Data-Carpentry-Assessment-Report-Published.pdf)
+[Assessment report 2016-10-20](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
 
 The analysis in this report serves the following purposes:
 
