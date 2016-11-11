@@ -13,7 +13,7 @@ considered an internal document, but we're publishing it publicly in the interes
 of the [Code of Conduct](/code-of-conduct/) should be respectful and not include any harassing behaviors.  
 
 **The Policy Subcommittee**  
-All responses to reports of conduct violations will be managed by a [Policy Subcommittee](link to committee page)
+All responses to reports of conduct violations will be managed by a Policy Subcommittee
 ("the committee"). The Carpentry steering committees will jointly establish this committee, comprised of at least
 three members. One member will be designated chair of the group and will be responsible for all reports back to
 the steering committees. The steering committees will review membership on an annual basis.  
