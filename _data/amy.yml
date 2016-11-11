@@ -3000,7 +3000,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161111T210004Z
+timestamp: 20161111T220003Z
 workshops:
 - &id002
   - address: 서울특별시 마포구 백범로 35 (신수동) 서강대학교 K관(김대건관) 101호
