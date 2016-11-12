@@ -2595,6 +2595,7 @@ badges:
   - {awarded: '2016-11-11', name: Lisa Breckels, user: breckels_lisa}
   - {awarded: '2016-11-11', name: Billy Charlton, user: charlton_william}
   - {awarded: '2016-11-11', name: Joey Bernard, user: bernard_joey}
+  - {awarded: '2016-11-11', name: Warren Jacobus, user: jacobus_warren}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2953,6 +2954,9 @@ badges:
   - {awarded: '2016-10-25', name: Christian Barra, user: barra_christian}
   - {awarded: '2016-11-03', name: Raoul Wolf, user: wolf_raoul}
   - {awarded: '2016-11-11', name: Lisa Breckels, user: breckels_lisa}
+  - {awarded: '2016-11-11', name: Hugo Tavares, user: tavares_hugo}
+  - {awarded: '2016-11-11', name: Eilis Hannon, user: hannon_eilis}
+  - {awarded: '2016-11-11', name: Clara Shaw, user: shaw_clara}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3005,7 +3009,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161112T190003Z
+timestamp: 20161112T200004Z
 workshops:
 - &id002
   - address: 서울특별시 마포구 백범로 35 (신수동) 서강대학교 K관(김대건관) 101호
