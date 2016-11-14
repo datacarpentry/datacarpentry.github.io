@@ -44,7 +44,7 @@ What are your thoughts about these two metaphors as it relates to our learners, 
 
 *When did you realize you belonged to the carpentry community?*
 
-Comment below, and tweet us your thoughts @datacarpentry and @drkariljordan.
+Comment below, and tweet us your thoughts @datacarpentry and @drkariljordan.   
 ***    
 
 **Reference:** Sfard, A. (1998). On two metaphors for learning and the dangers of choosing just one. Educational researcher, 27(2), 4-13.
