@@ -23,14 +23,16 @@ In the Carpentry community, we develop our workshops around the participation me
 
 In the late 1990s, Anna Sfard published an [article](http://www.colorado.edu/physics/phys4810/phys4810_fa08/4810_readings/Sfard.pdf) discussing the implications of these two metaphors (acquisition vs. participation). Here is a succinct mapping adapted from Sfard’s article.
 
-Learning | Acquisition metaphor  | Participation metaphor
---- | --- | ---
-Definition| Acquisition of something | Becoming a participant
-Goal | Individual enrichment | Community building
-Student | Recipient | Apprentice
-Teacher | Facilitator | Expert participant
-Knowledge | Property | Activity
-Knowing is | Having | **Belonging**
+
+Learning | Acquisition metaphor  | Participation metaphor  
+--- | --- | ---  
+Definition| Acquisition of something | Becoming a participant  
+Goal | Individual enrichment | Community building  
+Student | Recipient | Apprentice  
+Teacher | Facilitator | Expert participant  
+Knowledge | Property | Activity  
+Knowing is | Having | **Belonging**  
+
 In short, the acquisition metaphor views knowledge as property that one acquires, whereas the participation metaphor views knowledge as being active in a community.
 
 I, like many others in educational research, wrestle with whether or not one has to choose one metaphor over the other. Am I #teamaquisition or #teamparticipation? 
