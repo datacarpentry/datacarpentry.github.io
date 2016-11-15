@@ -82,6 +82,8 @@
     url: "/for-instructors/#information-on-workshops"
   - title: Workshop Checklists
     url: "/checklists/"
+  - title: Self-organized Workshops
+    url: "/self-organized-workshops/"
 
 - title: "Sponsors"
   url: "/sponsors/"
