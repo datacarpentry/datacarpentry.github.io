@@ -2962,6 +2962,49 @@ badges:
   - {awarded: '2016-03-01', name: Janet Riley, user: riley_janet}
   - {awarded: '2016-03-01', name: Maneesha Sane, user: sane_maneesha}
   - {awarded: '2016-03-01', name: Marian Schmidt, user: schmidt_marian}
+  - {awarded: '2016-11-15', name: Aaron Erlich, user: erlich_aaron}
+  - {awarded: '2016-11-15', name: Catalina Anghel, user: anghel_catalina}
+  - {awarded: '2016-11-15', name: Daniel Smith, user: smith_daniel}
+  - {awarded: '2016-11-15', name: Emily Dolson, user: dolson_emily}
+  - {awarded: '2016-11-15', name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
+  - {awarded: '2016-11-15', name: Ian Henry, user: henry_ian}
+  - {awarded: '2016-11-15', name: Isaac Ye, user: ye_isaac}
+  - {awarded: '2016-11-15', name: James Adams, user: adams_james}
+  - {awarded: '2016-11-15', name: Jonathan Borrelli, user: borrelli_jonathan}
+  - {awarded: '2016-11-15', name: Morgan Taschuk, user: taschuk_morgan}
+  - {awarded: '2016-11-15', name: Peter Steinbach, user: steinbach_peter}
+  - {awarded: '2016-11-15', name: Rayna Michelle Harris, user: harris_rayna}
+  - {awarded: '2016-11-15', name: Stefan Pfenninger, user: pfenninger_s}
+  - {awarded: '2016-11-15', name: Susan Duncan, user: duncan_susan}
+  - {awarded: '2016-11-15', name: Justin Kitzes, user: kitzes_j}
+  - {awarded: '2016-11-15', name: Marianne Corvellec, user: corvellec_marianne}
+  - {awarded: '2016-11-15', name: James Robinson, user: robinson_james}
+  - {awarded: '2016-11-15', name: Gary Macindoe, user: macindoe_gary}
+  - {awarded: '2016-11-15', name: Diego Barneche Rosado, user: barneche_diego}
+  - {awarded: '2016-11-15', name: Sean Cleveland, user: cleveland_sean}
+  - {awarded: '2016-11-15', name: Michelle Berry, user: berry_michelle}
+  - {awarded: '2016-11-15', name: Francisco Palm, user: palm_francisco}
+  - {awarded: '2016-11-15', name: Hamid Mokhtarzadeh, user: mokhtarzadeh_hamid}
+  - {awarded: '2016-11-15', name: Jiarong Guo, user: guo_jiarong}
+  - {awarded: '2016-11-15', name: Ben Waugh, user: waugh_b}
+  - {awarded: '2016-11-15', name: Bob Freeman, user: freeman_robert}
+  - {awarded: '2016-11-15', name: Johan Hjelm, user: hjelm_johan}
+  - {awarded: '2016-11-15', name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {awarded: '2016-11-15', name: Steven Koenig, user: koenig_steven}
+  - {awarded: '2016-11-15', name: Andrew Rohl, user: rohl_andrew}
+  - {awarded: '2016-11-15', name: Aleksandra Nenadic, user: nenadic_aleksandra}
+  - {awarded: '2016-11-15', name: Thomas Guignard, user: guignard_thomas}
+  - {awarded: '2016-11-15', name: Luke Johnston, user: johnston_luke}
+  - {awarded: '2016-11-15', name: Rémi Emonet, user: emonet_remi}
+  - {awarded: '2016-11-15', name: Tyson Whitehead, user: whitehead_tyson}
+  - {awarded: '2016-11-15', name: Rob Beagrie, user: beagrie_robert}
+  - {awarded: '2016-11-15', name: Jonathan Guyer, user: guyer_jonathan}
+  - {awarded: '2016-11-15', name: Luis Pedro Coelho, user: coelho_luis}
+  - {awarded: '2016-11-15', name: Yu-Ching Shih, user: shih_yu-ching}
+  - {awarded: '2016-11-15', name: John Simpson, user: simpson_john}
+  - {awarded: '2016-11-15', name: Kirill Palamartchouk, user: palamartchouk_kirill}
+  - {awarded: '2016-11-15', name: Dhavide Aruliah, user: aruliah_d}
+  - {awarded: '2016-11-15', name: Adam Richie-Halford, user: richie-halford_adam}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3014,7 +3057,7 @@ flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161115T060005Z
+timestamp: 20161115T070003Z
 workshops:
 - &id002
   - address: 서울특별시 마포구 백범로 35 (신수동) 서강대학교 K관(김대건관) 101호
