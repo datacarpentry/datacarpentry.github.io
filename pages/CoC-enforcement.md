@@ -31,7 +31,9 @@ behaviour that, taken as a whole over a long time period, is disrupting or haras
 **Urgent Situations: Acting Unilaterally**  
 If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any
 member of the committee may -- and should -- act unilaterally to protect safety. This can include contacting law
-enforcement (or other local personnel) and speaking on behalf of the Carpentries. If the act is ongoing, any 
+enforcement (or other local personnel) and speaking on behalf of the Carpentries.  
+
+If the act is ongoing, any 
 committee member may act immediately, before reaching consensus, to diffuse the situation. In ongoing situations,
 any member may at their discretion employ any of the tools available to the committee, including bans and blocks.
 In situations where an individual committee member acts unilaterally, they must inform the other committee
