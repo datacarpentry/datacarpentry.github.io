@@ -27,6 +27,12 @@ We conduct pre and post workshop surveys for each workshop
 
 - [Post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=20aY_2FxKwi4RcNMTonEV1fJU4BPERgmL_2FWtZKq6Zrehggy5OOe3BxYzyxwVgbbZfr)
 
+### Data
+
+Data sets to go along with assessment reports are provided as csv files in a GitHub repository, along with the version of the surveys that were in use at time of analysis.  
+
+[Data for Assessment report 2016-10-20](https://github.com/datacarpentry/workshop-survey-data)
+
 ### Assessment results
  
 We will be releasing regular reports from our survey results. These reports are published through Zenodo and can
