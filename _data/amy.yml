@@ -3005,6 +3005,8 @@ badges:
   - {awarded: '2016-11-15', name: Kirill Palamartchouk, user: palamartchouk_kirill}
   - {awarded: '2016-11-15', name: Dhavide Aruliah, user: aruliah_d}
   - {awarded: '2016-11-15', name: Adam Richie-Halford, user: richie-halford_adam}
+  - {awarded: '2016-11-18', name: Andrew Walker, user: walker_andrew}
+  - {awarded: '2016-11-18', name: Pauline Barmby, user: barmby_pauline}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3058,7 +3060,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161118T160005Z
+timestamp: 20161118T170004Z
 workshops:
 - &id002
   - address: 20 Rue Berbier du Mets, 75013 Paris
@@ -4400,6 +4402,34 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 136 Harrison Avenue, Boston, Massachusetts
+    contact: Brigitte.Huber@tufts.edu
+    country: US
+    end: 2017-01-27
+    eventbrite_id: '10609823497'
+    humandate: Jan 26-27, 2017
+    latitude: 42.35013
+    longitude: -71.061511
+    slug: 2017-01-26-tufts
+    start: 2017-01-26
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2017-01-26-tufts/
+    venue: Tufts University Sackler School of Graduate Biomedical Sciences
+  - address: Chao Center, Room 120
+    contact: research@hbs.edu
+    country: US
+    end: 2016-12-02
+    eventbrite_id: '29309566703'
+    humandate: Dec 01-02, 2016
+    latitude: 42.366524
+    longitude: -71.1200943
+    slug: 2016-12-01-DC-Social-Sciences
+    start: 2016-12-01
+    tags:
+    - {name: DC}
+    url: https://hbs-rcs.github.io/2016-12-01-DC-Social-Sciences/
+    venue: Harvard Business School
   - address: IT Services Building, Room 8.03b (IT Meeting Room 1)
     contact: h.ford@leeds.ac.uk
     country: GB
