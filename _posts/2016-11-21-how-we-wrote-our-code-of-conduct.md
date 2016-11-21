@@ -1,6 +1,6 @@
 ---
 layout: post
-subheadline: ""
+subheadline: "Community"
 title: "Forming a Community-Developed Code of Conduct: What we learned."
 teaser: ""
 header:
@@ -26,7 +26,7 @@ to provide clear boundaries without writing a comprehensive rule book?
 
 The Code of Conduct has always been important to the Carpentries, but a
 few incidents this past spring made it evident that we needed clearer 
-guidelines and processes for handling incidents.There was significant discussion around
+guidelines and processes for handling incidents. There was significant discussion around
 these issues and some community members were also concerned about the way incidents were
 handled, calling for a closer look at how reports of Code of Conduct violations are 
 adjudicated and what sorts of penalties are appropriate.  
