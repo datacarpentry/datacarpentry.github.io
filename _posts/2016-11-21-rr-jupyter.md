@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-authors: ["Hilmar Lapp (RRHack & Data Carpentry)", "Tracy Teal (Data Carpentry & RRHack)", "François Michonneau (RRHack & Data Carpentry)", "Kellie Ottoboni (Jupyter)", "Jamie Whitacre (Jupyter)", "Jasmine Nirody (Jupyter)"]
+authors: ["Hilmar Lapp", "Tracy Teal", "François Michonneau", "Kellie Ottoboni", "Jamie Whitacre", "Jasmine Nirody"]
 ---
 
 **Goal:** Develop the content of a two-day Data Carpentry workshop teaching how to conduct research reproducibly using the Jupyter notebook  
