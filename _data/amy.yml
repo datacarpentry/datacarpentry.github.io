@@ -3075,7 +3075,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161121T060003Z
+timestamp: 20161121T070004Z
 workshops:
 - &id002
   - address: 20 Rue Berbier du Mets, 75013 Paris
