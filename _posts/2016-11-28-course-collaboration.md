@@ -1,8 +1,8 @@
 ---
 layout: post
 subheadline: "Curriculum"
-title: "Data Carpentry Expanding Collaborative Lesson Development to Semester-long Courses"
-teaser: "Let's build on Data Carpentry's core strength of collaborative lesson development."
+title: "Collaborative Lesson Development for Semester-long Courses"
+teaser: "Building on Data Carpentry's core strength of collaborative lesson development."
 header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
@@ -12,18 +12,20 @@ show_meta: true
 authors: ["Zack Brym"]
 ---
 
-> [When did you realize you belonged to the Carpentry community?][belonging]
+*[When did you realize you belonged to the Carpentry community?][belonging]*
 
 My first encounter with the Carpentry community was early in my PhD training,
 *way back when* Software Carpentry was teaching programming lessons using
 [brilliantly narrated videos][swc-shell-video]. I knew then that a basic
-understanding of computers was an important part of a strong career in science.
-What I didn't expect was to get inspired by a community of scientists and
-teachers that promotes openness and collaboration throughout their work. 
+understanding of computer programming was an important part of a strong career
+in science. What I didn't expect was to get inspired by a community of
+scientists and teachers that promotes openness and collaboration throughout
+their work. 
 
 Fast forward to the present... having just accepted my first faculty position
-in agroecology (*read big data scientist in agriculture*), I am very glad that I
-got involved in the Carpentry community.
+in agroecology (read, big data scientist in agriculture), I am very glad that I
+got involved in the Carpentry community. The Carpentries active and open
+approach to science and teaching has become my own.
 
 I taught laboratory courses throughout my PhD and quickly realized that the
 Carpentry model of active-learning resonated with my preference for teaching
@@ -41,7 +43,7 @@ and just formally [announced the first semester-long Data Carpentry Course][fork
 It doesn't take much to get involved. Instructors and students are encouraged to
 [provide feedback][feedback-contribute] for the course to help improve the content and clarity of the existing curriculum. Instructors are also welcome to
 [fork the course][fork-our-course] and use the general site structure and
-templates to develop their own course to expand the domains represented by the
+templates to develop their own course and expand the domains represented by the
 Carpentry community resources. 
 
 To get the collaborative course development rolling, instructors are encouraged
