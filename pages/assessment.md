@@ -29,7 +29,8 @@ We conduct pre and post workshop surveys for each workshop
 
 ### Data
 
-Data sets to go along with assessment reports are provided as csv files in a GitHub repository, along with the version of the surveys that were in use at time of analysis.  
+Data sets to go along with assessment reports are provided as csv files in a 
+[GitHub repository](https://github.com/datacarpentry/workshop-survey-data), along with the version of the surveys that were in use at time of analysis.  
 
 [Data for Assessment report 2016-10-20](https://github.com/datacarpentry/workshop-survey-data)
 
