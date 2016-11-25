@@ -3079,7 +3079,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161125T200005Z
+timestamp: 20161125T210002Z
 workshops:
 - &id002
   - address: IT Services Building, Room 8.03b (IT Meeting Room 1)
