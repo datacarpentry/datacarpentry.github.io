@@ -1,8 +1,8 @@
 ---
 layout: post
-subheadline: "The Python ecology lessons"
+subheadline: "Why we teach what we teach"
 authors: ["April Wright"]
-title: "Why we teach what we teach, and where do we go from here?"
+title: "The Python ecology lessons"
 teaser: ""
 date: 2016-11-28
 header:
