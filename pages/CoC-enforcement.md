@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Code of Conduct Enforcement Manual"
 header:
@@ -13,7 +13,7 @@ considered an internal document, but we're publishing it publicly in the interes
 of the [Code of Conduct](/code-of-conduct/) should be respectful and not include any harassing behaviors.  
 
 **The Policy Subcommittee**  
-All responses to reports of conduct violations will be managed by a [Policy Subcommittee](link to committee page)
+All responses to reports of conduct violations will be managed by a Policy Subcommittee
 ("the committee"). The Carpentry steering committees will jointly establish this committee, comprised of at least
 three members. One member will be designated chair of the group and will be responsible for all reports back to
 the steering committees. The steering committees will review membership on an annual basis.  
@@ -31,7 +31,9 @@ behaviour that, taken as a whole over a long time period, is disrupting or haras
 **Urgent Situations: Acting Unilaterally**  
 If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any
 member of the committee may -- and should -- act unilaterally to protect safety. This can include contacting law
-enforcement (or other local personnel) and speaking on behalf of the Carpentries. If the act is ongoing, any 
+enforcement (or other local personnel) and speaking on behalf of the Carpentries.  
+
+If the act is ongoing, any 
 committee member may act immediately, before reaching consensus, to diffuse the situation. In ongoing situations,
 any member may at their discretion employ any of the tools available to the committee, including bans and blocks.
 In situations where an individual committee member acts unilaterally, they must inform the other committee

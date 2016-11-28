@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "About Our Code of Conduct"
 header:
@@ -18,8 +18,8 @@ is required to conform to the following Code of Conduct. This code of conduct ap
 Data Carpentry and Software Carpentry including, but not limited to, workshops, email lists, online forums and 
 on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.  
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing
-[confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a
+If you believe someone is violating the Code of Conduct we ask that you report it to the joint Data/Software Carpentry (“the Carpentries”) Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or 
+C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a
 workshop or other in-person event,
 by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow
 the reporting guidelines detailed [here](/CoC-reporting/). All reports will be reviewed by the Conduct Policy

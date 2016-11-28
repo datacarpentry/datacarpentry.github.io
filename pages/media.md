@@ -9,6 +9,10 @@ permalink: "/media/"
 
 For more information on Data Carpentry, see some of our articles, podcasts and publications.
 
+Our presentations and anything we publish is available through our Zotero group.
+
+[Data Carpentry publications and presentations](https://www.zotero.org/groups/datacarpentry)
+
 **Articles**
 
 [Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)  

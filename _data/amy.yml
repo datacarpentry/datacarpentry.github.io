@@ -239,7 +239,6 @@ airports:
 - country: za
   instructors:
   - {name: Adrianna Pińska, user: pinska_adrianna}
-  - {name: Anelda van der Walt, user: van-der-walt_anelda}
   - {name: Peter van Heusden, user: van-heusden_peter}
   - {name: Raissa Philibert, user: philibert_raissa}
   - {name: Jordan Masakuna, user: masakuna_jordan}
@@ -1518,6 +1517,7 @@ airports:
 - country: za
   instructors:
   - {name: Maryke Schoonen, user: schoonen_maryke}
+  - {name: Anelda van der Walt, user: van-der-walt_anelda}
   - {name: Albertus Seyffert, user: seyffert_albertus}
   - {name: Bianca Peterson, user: peterson_bianca}
   - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
@@ -1737,7 +1737,7 @@ airports:
   instructors:
   - {name: Ardita Shkurti, user: shkurti_ardita}
   - {name: Andrew Warry, user: warry_andrew}
-  latitude: 2.828194
+  latitude: 52.828194
   longitude: -1.334258
   name: East Midlands Airport
 - country: es
@@ -2587,10 +2587,26 @@ badges:
   - {awarded: '2016-10-17', name: Ron Merrill, user: merrill_ron}
   - {awarded: '2016-10-18', name: Tessa Pierce, user: pierce_tessa}
   - {awarded: '2016-10-25', name: Christian Barra, user: barra_christian}
-  - {awarded: '2016-10-25', name: Kyrre Traavik Låberg, user: traavik-lberg_kyrre}
+  - {awarded: '2016-10-25', name: Kyrre Traavik Låberg, user: traavik-laberg_kyrre}
   - {awarded: '2016-10-25', name: Juan Carlos Zuniga, user: zuniga_juan-carlos}
-  - {awarded: '2016-10-25', name: Félix-Antoine Fortin, user: fortin_flix-antoine}
+  - {awarded: '2016-10-25', name: Félix-Antoine Fortin, user: fortin_felix-antoine}
   - {awarded: '2016-11-03', name: Raoul Wolf, user: wolf_raoul}
+  - {awarded: '2016-11-11', name: Michael Connell, user: connell_michael}
+  - {awarded: '2016-11-11', name: Lisa Breckels, user: breckels_lisa}
+  - {awarded: '2016-11-11', name: Billy Charlton, user: charlton_william}
+  - {awarded: '2016-11-11', name: Joey Bernard, user: bernard_joey}
+  - {awarded: '2016-11-18', name: Jaime Ashander, user: ashander_jaime}
+  - {awarded: '2016-11-18', name: Lachlan Deer, user: deer_lachlan}
+  - {awarded: '2016-11-18', name: Daniel Deveau, user: deveau_daniel}
+  - {awarded: '2016-11-19', name: Valentina Staneva, user: staneva_valentina}
+  - {awarded: '2016-11-19', name: Marius Bjørnstad, user: bjornstad_marius}
+  - {awarded: '2016-11-19', name: Ian Carroll, user: carroll_ian}
+  - {awarded: '2016-11-11', name: Warren Jacobus, user: jacobus_warren}
+  - {awarded: '2016-11-24', name: Eilis Hannon, user: hannon_eilis}
+  - {awarded: '2016-11-24', name: Devendra Umbrajkar, user: umbrajkar_devendra}
+  - {awarded: '2016-11-24', name: Kivan Polimis, user: polimis_kivan}
+  - {awarded: '2016-11-24', name: Simon Nderitu, user: nderitu_simon}
+  - {awarded: '2016-11-28', name: Sumana Harihareswara, user: harihareswara_sumana}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -2948,6 +2964,70 @@ badges:
   - {awarded: '2016-10-06', name: Remi Daigle, user: daigle_remi}
   - {awarded: '2016-10-25', name: Christian Barra, user: barra_christian}
   - {awarded: '2016-11-03', name: Raoul Wolf, user: wolf_raoul}
+  - {awarded: '2016-11-11', name: Lisa Breckels, user: breckels_lisa}
+  - {awarded: '2016-03-01', name: Neal Davis, user: davis_neal}
+  - {awarded: '2016-03-01', name: David LeBauer, user: lebauer_david}
+  - {awarded: '2016-03-01', name: Janet Riley, user: riley_janet}
+  - {awarded: '2016-03-01', name: Maneesha Sane, user: sane_maneesha}
+  - {awarded: '2016-03-01', name: Marian Schmidt, user: schmidt_marian}
+  - {awarded: '2016-11-15', name: Aaron Erlich, user: erlich_aaron}
+  - {awarded: '2016-11-15', name: Catalina Anghel, user: anghel_catalina}
+  - {awarded: '2016-11-15', name: Daniel Smith, user: smith_daniel}
+  - {awarded: '2016-11-15', name: Emily Dolson, user: dolson_emily}
+  - {awarded: '2016-11-15', name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
+  - {awarded: '2016-11-15', name: Ian Henry, user: henry_ian}
+  - {awarded: '2016-11-15', name: Isaac Ye, user: ye_isaac}
+  - {awarded: '2016-11-15', name: James Adams, user: adams_james}
+  - {awarded: '2016-11-15', name: Jonathan Borrelli, user: borrelli_jonathan}
+  - {awarded: '2016-11-15', name: Morgan Taschuk, user: taschuk_morgan}
+  - {awarded: '2016-11-15', name: Peter Steinbach, user: steinbach_peter}
+  - {awarded: '2016-11-15', name: Rayna Michelle Harris, user: harris_rayna}
+  - {awarded: '2016-11-15', name: Stefan Pfenninger, user: pfenninger_s}
+  - {awarded: '2016-11-15', name: Susan Duncan, user: duncan_susan}
+  - {awarded: '2016-11-15', name: Justin Kitzes, user: kitzes_j}
+  - {awarded: '2016-11-15', name: Marianne Corvellec, user: corvellec_marianne}
+  - {awarded: '2016-11-15', name: James Robinson, user: robinson_james}
+  - {awarded: '2016-11-15', name: Gary Macindoe, user: macindoe_gary}
+  - {awarded: '2016-11-15', name: Diego Barneche Rosado, user: barneche_diego}
+  - {awarded: '2016-11-15', name: Sean Cleveland, user: cleveland_sean}
+  - {awarded: '2016-11-15', name: Michelle Berry, user: berry_michelle}
+  - {awarded: '2016-11-15', name: Francisco Palm, user: palm_francisco}
+  - {awarded: '2016-11-15', name: Hamid Mokhtarzadeh, user: mokhtarzadeh_hamid}
+  - {awarded: '2016-11-15', name: Jiarong Guo, user: guo_jiarong}
+  - {awarded: '2016-11-15', name: Ben Waugh, user: waugh_b}
+  - {awarded: '2016-11-15', name: Bob Freeman, user: freeman_robert}
+  - {awarded: '2016-11-15', name: Johan Hjelm, user: hjelm_johan}
+  - {awarded: '2016-11-15', name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {awarded: '2016-11-15', name: Steven Koenig, user: koenig_steven}
+  - {awarded: '2016-11-15', name: Andrew Rohl, user: rohl_andrew}
+  - {awarded: '2016-11-15', name: Aleksandra Nenadic, user: nenadic_aleksandra}
+  - {awarded: '2016-11-15', name: Thomas Guignard, user: guignard_thomas}
+  - {awarded: '2016-11-15', name: Luke Johnston, user: johnston_luke}
+  - {awarded: '2016-11-15', name: Rémi Emonet, user: emonet_remi}
+  - {awarded: '2016-11-15', name: Tyson Whitehead, user: whitehead_tyson}
+  - {awarded: '2016-11-15', name: Rob Beagrie, user: beagrie_robert}
+  - {awarded: '2016-11-15', name: Jonathan Guyer, user: guyer_jonathan}
+  - {awarded: '2016-11-15', name: Luis Pedro Coelho, user: coelho_luis}
+  - {awarded: '2016-11-15', name: Yu-Ching Shih, user: shih_yu-ching}
+  - {awarded: '2016-11-15', name: John Simpson, user: simpson_john}
+  - {awarded: '2016-11-15', name: Kirill Palamartchouk, user: palamartchouk_kirill}
+  - {awarded: '2016-11-15', name: Dhavide Aruliah, user: aruliah_d}
+  - {awarded: '2016-11-15', name: Adam Richie-Halford, user: richie-halford_adam}
+  - {awarded: '2016-11-18', name: Andrew Walker, user: walker_andrew}
+  - {awarded: '2016-11-18', name: Pauline Barmby, user: barmby_pauline}
+  - {awarded: '2016-11-18', name: Benjamin Laken, user: laken_benjamin}
+  - {awarded: '2016-11-18', name: Tom Pollard, user: pollard_tom}
+  - {awarded: '2016-11-18', name: Heather Gibling, user: gibling_heather}
+  - {awarded: '2016-11-18', name: Will Trimble, user: trimble_will}
+  - {awarded: '2016-11-18', name: Baolai Ge, user: ge_baolai}
+  - {awarded: '2016-11-18', name: Alex Razoumov, user: razoumov_alex}
+  - {awarded: '2016-11-18', name: Jaime Ashander, user: ashander_jaime}
+  - {awarded: '2016-11-18', name: Lachlan Deer, user: deer_lachlan}
+  - {awarded: '2016-11-11', name: Eilis Hannon, user: hannon_eilis}
+  - {awarded: '2016-11-11', name: Clara Shaw, user: shaw_clara}
+  - {awarded: '2016-11-11', name: Hugo Tavares, user: tavares_hugo}
+  - {awarded: '2016-11-19', name: Kivan Polimis, user: polimis_kivan}
+  - {awarded: '2016-11-28', name: Willem Ligtenberg, user: ligtenberg_willem}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -2999,10 +3079,39 @@ badges:
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, fi, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us, za]
-timestamp: 20161110T180003Z
+  workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
+    za]
+timestamp: 20161128T210003Z
 workshops:
 - &id002
+  - address: IT Services Building, Room 8.03b (IT Meeting Room 1)
+    contact: h.ford@leeds.ac.uk
+    country: gb
+    end: 2016-11-22
+    eventbrite_id: '28449314666'
+    humandate: Nov 21-22, 2016
+    latitude: 53.805658
+    longitude: -1.554303
+    slug: 2016-11-21-leeds
+    start: 2016-11-21
+    tags:
+    - {name: DC}
+    url: https://arcleeds.github.io/2016-11-21-leeds/
+    venue: The University of Leeds
+  - address: 20 Rue Berbier du Mets, 75013 Paris
+    contact: the FRB team
+    country: fr
+    end: 2016-11-15
+    eventbrite_id: ''
+    humandate: Nov 14-15, 2016
+    latitude: 48.835467
+    longitude: 2.350376
+    slug: 2016-11-14-CESAB
+    start: 2016-11-14
+    tags:
+    - {name: DC}
+    url: https://zormit.github.io/2016-11-14-FRB/
+    venue: Fondation pour la Recherche sur la Biodiversité
   - address: 서울특별시 마포구 백범로 35 (신수동) 서강대학교 K관(김대건관) 101호
     contact: kwangchun.lee.7@gmail.com
     country: kr
@@ -3017,6 +3126,20 @@ workshops:
     - {name: DC}
     url: https://statkclee.github.io/2016-11-06-sogang/
     venue: 서강대학교
+  - address: Norfolk,VA
+    contact: aguzman@nsbe.org
+    country: us
+    end: 2016-11-04
+    eventbrite_id: ''
+    humandate: Nov 03-04, 2016
+    latitude: 36.845601
+    longitude: -76.290971
+    slug: 2016-11-03-nsbe_norfolk
+    start: 2016-11-03
+    tags:
+    - {name: DC}
+    url: https://chendaniely.github.io/2016-11-03-nsbe/
+    venue: 'National Society of Black Engineers: Region II Fall Regional Conference'
   - address: 1900 Sullivan Rd, Atlanta, GA 30337
     contact: aguzman@nsbe.org
     country: us
@@ -4328,47 +4451,33 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
-  - address: University of Oxford, South Parks Road, Oxford OX1 3PL, UK
-    contact: ''
-    country: GB
-    end: 2016-12-06
-    eventbrite_id: ''
-    humandate: Dec 05-06, 2016
-    latitude: 51.76442
-    longitude: -1.219455
-    slug: 2016-12-05-oxford
-    start: 2016-12-05
+  - address: 136 Harrison Avenue, Boston, Massachusetts
+    contact: Brigitte.Huber@tufts.edu
+    country: US
+    end: 2017-01-27
+    eventbrite_id: '10609823497'
+    humandate: Jan 26-27, 2017
+    latitude: 42.35013
+    longitude: -71.061511
+    slug: 2017-01-26-tufts
+    start: 2017-01-26
     tags:
     - {name: DC}
-    url: https://anenadic.github.io/2016-12-05-oxford/
-    venue: Medical Sciences Teaching Centre
-  - address: IT Services Building, Room 8.03b (IT Meeting Room 1)
-    contact: h.ford@leeds.ac.uk
-    country: GB
-    end: 2016-11-22
-    eventbrite_id: '28449314666'
-    humandate: Nov 21-22, 2016
-    latitude: 53.805658
-    longitude: -1.554303
-    slug: 2016-11-21-leeds
-    start: 2016-11-21
+    url: https://smcclatchy.github.io/2017-01-26-tufts/
+    venue: Tufts University Sackler School of Graduate Biomedical Sciences
+  - address: Chao Center, Room 120
+    contact: research@hbs.edu
+    country: US
+    end: 2016-12-02
+    eventbrite_id: '29309566703'
+    humandate: Dec 01-02, 2016
+    latitude: 42.366524
+    longitude: -71.1200943
+    slug: 2016-12-01-DC-Social-Sciences
+    start: 2016-12-01
     tags:
     - {name: DC}
-    url: https://arcleeds.github.io/2016-11-21-leeds/
-    venue: The University of Leeds
-  - address: 20 Rue Berbier du Mets, 75013 Paris
-    contact: the FRB team
-    country: FR
-    end: 2016-11-15
-    eventbrite_id: ''
-    humandate: Nov 14-15, 2016
-    latitude: 48.835467
-    longitude: 2.350376
-    slug: 2016-11-14-CESAB
-    start: 2016-11-14
-    tags:
-    - {name: DC}
-    url: https://zormit.github.io/2016-11-14-FRB/
-    venue: Fondation pour la Recherche sur la Biodiversité
+    url: https://hbs-rcs.github.io/2016-12-01-DC-Social-Sciences/
+    venue: Harvard Business School
 workshops_current: *id001
 workshops_past: *id002
