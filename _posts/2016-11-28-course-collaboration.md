@@ -38,7 +38,7 @@ veteran Carpentry community members alike, now's an exciting time to be
 involved.
 
 Data Carpentry is working to expand their collaborative workshop development to
-include [curriculum innovation for college and university courses][curriculum-innovation]
+include curriculum innovation for college and university courses
 and just formally [announced the first semester-long Data Carpentry Course][fork-our-course].
 It doesn't take much to get involved. Instructors and students are encouraged to
 [provide feedback][feedback-contribute] for the course to help improve the content and clarity of the existing curriculum. Instructors are also welcome to
@@ -59,8 +59,7 @@ participation. Let us know how we can help you get involved.
 
 [belonging]: http://www.datacarpentry.org/blog/belonging/
 [swc-shell-video]: https://www.youtube.com/watch?v=U3iNcBtycaQ&list=PLUQy4zfrctjH-FsjpIZDZ0NBznvF4FdNP
-[collaborative-dev]: https://jabberwocky.weecology.org
-[curriculum-innovation]: https://docs.google.com/document/d/1Xf6k3KOj9Joyubum_p465YH198JPGlG09F9_r00Mmcw/edit
+[collaborative-dev]: https://jabberwocky.weecology.org/2016/11/28/the-potential-for-collaborative-open-lesson-development-for-college-coursework/
 [fork-our-course]: https://jabberwocky.weecology.org/2016/11/14/fork-our-course-a-semester-long-data-carpentry-course-for-biologists/
 [feedback-contribute]: http://www.datacarpentry.org/semester-biology/docs/course/contributing/
 [lesson-training]: https://swcarpentry.github.io/instructor-training/19-lessons/
