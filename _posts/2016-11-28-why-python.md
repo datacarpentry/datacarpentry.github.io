@@ -1,17 +1,17 @@
-+---
-+layout: post
-+subheadline: "The Python ecology lessons"
-+authors: ["April Wright"]
-+title: "Why we teach what we teach, and where do we go from here?"
-+teaser: ""
-+date: 2016-11-28
-+header:
-+    image_fullwidth: "light-blue-wood-texture.jpg"
-+categories:
-+    - blog
-+comments: true
-+show_meta: true
-+---
+---
+layout: post
+subheadline: "The Python ecology lessons"
+authors: ["April Wright"]
+title: "Why we teach what we teach, and where do we go from here?"
+teaser: ""
+date: 2016-11-28
+header:
+    image_fullwidth: "light-blue-wood-texture.jpg"
+categories:
+    - blog
+comments: true
+show_meta: true
+---
 
 #Why We Teach It
 
