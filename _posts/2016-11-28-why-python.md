@@ -13,9 +13,9 @@ comments: true
 show_meta: true
 ---
 
-#Why We Teach It
+# Why We Teach It
 
-##In the Beginning
+## In the Beginning
 
 A lot of what are now the Python materials came out of a Software Carpentry Hackathon in 2014 when Software Carpentry was under the Mozilla Science Labs umbrella. At the time, Data Carpentry was a fledgling organization and really only had a small amount of materials on R and Excel. As you [can see](https://old.etherpad-mozilla.org/sciencelab-2014summersprint-data-carpentry) from the Etherpad from that hackathon, people were pretty excited about getting some of those materials translated to Python.
 
@@ -23,13 +23,13 @@ Way back in those days, the materials were a lot more information dense, and lac
 
 The current generation materials strikes a better balance: there is enough content in the lessons that you absolutely can go through them on your own, or with a small group, without an instructor. But we've also developed a better narrative for the lessons by using an empirical ecological dataset ([Ernst et al. 2009](http://www.esapubs.org/archive/ecol/E090/118/default.htm)). 
 
-##Why we teach what we teach
+## Why we teach what we teach
 
 If you look at the way the lessons are structured, we start broad: just getting a look at your data, making a couple plots. Part of the goal of Data Carpentry is to get learners doing open, reproducible science. But I think we can all think of times when we just opened our data in a spreadsheet program and explored it. A lot of science happens in those little moments of exploration ... and a lot of science gets lost when you can't remember what you clicked on to get that cool plot. By starting with a broad view, we emphasize to learners that they can still do the exploration that they want to do in a reproducible way.
 
 From there, we get more into the nitty-gritty. How do I subset my data? How can I restructure my data into useful groups? Our developers and maintainers are biologists - the functionality that we cover comes from biologists thinking hard about what is useful to know. In the first pass of the materials, I added content based on things I had done recently, and things I wanted to be able to do, but didn't know how. We can see the biases of biologists in what is covered --  and in what isn't.
 
-#Where do we go from here?
+# Where do we go from here?
 
 There are a few immediate things that are on my TODO, for now. If you're a new instructor looking to make your check-out PR, any of these things would be great.
 
