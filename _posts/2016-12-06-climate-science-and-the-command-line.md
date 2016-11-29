@@ -13,9 +13,9 @@ comments: true
 show_meta: true
 ---
 
-Climate science has a pretty high profile these days, particularly in the area of climate attribution
-(the science of quantifying the role humans have played in climate change). 
-Behind the glamorous media coverage and international meetings, however, research in this area centers
+Climate science has a pretty high profile these days, particularly in my personal area of research,
+which involves quantifying the role humans have played in climate change (otherwise known as "climate attribution").
+Behind the glamorous media coverage and international meetings, however, research in this field centers
 around the most unglamorous tool of all: the command line. From data management and workflow coordination
 to remotely accessing supercomputing facilities and backing up code, the command line is the most critical
 part of my toolbox. Let me explain...  
@@ -25,19 +25,20 @@ Over 30 research groups from around the world submit data to the international c
 such as those produced by the Intergovernmental Panel on Climate Change (IPCC). Couple that with the multiple experiments that each of
 these groups run with their models and the wide variety of variables they provide data for, and climate scientists quickly find
 themselves dealing with hundreds (if not thousands) of data files. Managing these files with Finder or Windows Explorer would clearly
-be a nightmare, but at the command line it’s a breeze. By using a strict data reference syntax for naming my files (see my blog post
-on the topic here), I can quickly and easily locate the data I need using the find command and/or a combination of the ls command and
+be a nightmare, but at the command line it’s a breeze. By using a strict data reference syntax for naming my files
+(see my blog post on the topic [here](https://drclimate.wordpress.com/2015/09/04/managing-your-data/)),
+I can quickly and easily locate the data I need using the `find` command and/or a combination of the `ls` command and
 wildcards.
 
 **Workflow coordination**  
 Climate models break the world up into a series of grid boxes, which means the data that these models provide (e.g. temperature, humidity,
 atmospheric pressure, ocean salinity) are typically multi-dimensional arrays indexed by time, latitude, longitude and elevation
-(or depth). The Earth is a big place and climate models are using increasingly higher resolution grids, so these arrays can be very
+(or depth). The Earth is a big place and climate models are using increasingly fine resolution grids, so these arrays can be very
 large. To keep the required time and/or memory required to process these arrays to a manageable level, I usually split my workflows
 into a number of data processing steps, with the output from each step saved as a series of intermediate files. Keeping track of all
 the data processing steps can be tricky, which is where the command line comes in. By making each step executable at the command line
 (e.g. all my Python scripts can be executed at the command line), I can chain them all together in a shell script. If one or more of the
-steps takes a particularly long time to run (i.e. I’d rather not run it unless absolutely necessary!), I use a Makefile to manage the
+steps takes a particularly long time to run (i.e. I’d rather not run it unless absolutely necessary), I use a Makefile to manage the
 process instead. Whenever I make an update to my code or data, Make is able to figure out which intermediate files need to be regenerated
 and which don’t, allowing me to avoid re-running time consuming parts of the workflow that haven’t changed.   
 
@@ -56,7 +57,8 @@ computers, which have direct access to the data. The way to access these remote 
 
 **Version control**  
 Last but not least, I use the command line when backing up my code. There are graphical user interfaces available for Git,
-but setting these up seems more trouble than it’s worth. Most days I only use four commands (git add, git commit, git push, git pull),
+but setting these up seems more trouble than it’s worth. Most days I only use four commands (`git add`, `git commit`, 
+`git push`, `git pull`),
 so it’s easier just to type those into the command line.  
 
 I [blog](https://drclimate.wordpress.com/) and [tweet](https://twitter.com/DrClimate) 
