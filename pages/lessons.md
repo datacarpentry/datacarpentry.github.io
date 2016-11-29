@@ -116,7 +116,7 @@ The focus of this workshop is on working with genomics data and data management 
   </tr>
   <tr>
     <td>Introduction to the command line</td>
-    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_website_url}}/shell-genomics/lessons/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Sheldon McKay, Karen Cranston</td>
   </tr>
