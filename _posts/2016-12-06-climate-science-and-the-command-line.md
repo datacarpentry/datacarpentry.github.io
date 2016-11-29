@@ -27,7 +27,7 @@ these groups run with their models and the wide variety of variables they provid
 themselves dealing with hundreds (if not thousands) of data files. Managing these files with Finder or Windows Explorer would clearly
 be a nightmare, but at the command line it’s a breeze. By using a strict data reference syntax for naming my files
 (see my blog post on the topic [here](https://drclimate.wordpress.com/2015/09/04/managing-your-data/)),
-I can quickly and easily locate the data I need using the find command and/or a combination of the ls command and
+I can quickly and easily locate the data I need using the `find` command and/or a combination of the `ls` command and
 wildcards.
 
 **Workflow coordination**  
@@ -57,7 +57,8 @@ computers, which have direct access to the data. The way to access these remote 
 
 **Version control**  
 Last but not least, I use the command line when backing up my code. There are graphical user interfaces available for Git,
-but setting these up seems more trouble than it’s worth. Most days I only use four commands (git add, git commit, git push, git pull),
+but setting these up seems more trouble than it’s worth. Most days I only use four commands (`git add`, `git commit`, 
+`git push`, `git pull`),
 so it’s easier just to type those into the command line.  
 
 I [blog](https://drclimate.wordpress.com/) and [tweet](https://twitter.com/DrClimate) 
