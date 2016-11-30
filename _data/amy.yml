@@ -152,6 +152,7 @@ airports:
   name: Boston, MA
 - country: gb
   instructors:
+  - {name: Eilis Hannon, user: hannon_eilis}
   - {name: Jeremy Metz, user: metz_jeremy}
   - {name: Christopher Woods, user: woods_c}
   latitude: 51.3825
@@ -164,6 +165,7 @@ airports:
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
   - {name: John Didion, user: didion_john}
+  - {name: Ian Carroll, user: carroll_ian}
   latitude: 39.175278
   longitude: -76.668333
   name: Baltimore, MD
@@ -242,6 +244,7 @@ airports:
   - {name: Peter van Heusden, user: van-heusden_peter}
   - {name: Raissa Philibert, user: philibert_raissa}
   - {name: Jordan Masakuna, user: masakuna_jordan}
+  - {name: Warren Morne' Jacobus, user: jacobus_warren}
   latitude: -33.964722
   longitude: 18.601667
   name: Cape Town
@@ -285,6 +288,7 @@ airports:
   - {name: John Corless, user: corless_john}
   - {name: Kate Hertweck, user: hertweck_kate}
   - {name: Amit Kumar, user: kumar_amit}
+  - {name: Devendra Dattatraya Umbrajkar, user: umbrajkar_devendra}
   - {name: Kevin Vilbig, user: vilbig_kevin}
   - {name: Rohit Rawat, user: rawat_rohit}
   - {name: Anna Williford, user: williford_anna}
@@ -327,6 +331,7 @@ airports:
   - {name: Ben Johnson, user: johnson_ben}
   - {name: Will Pitchers, user: pitchers_w}
   - {name: Marian Schmidt, user: schmidt_marian}
+  - {name: Clara Louise Shaw, user: shaw_clara}
   - {name: Leigh Sheneman, user: sheneman_leigh}
   - {name: Byron Smith, user: smith_byron}
   - {name: Shawn Whitefield, user: whitefield_shawn}
@@ -840,6 +845,7 @@ airports:
   - {name: Anne Fouilloux, user: fouilloux_anne}
   - {name: Marius Bjørnstad, user: bjornstad_marius}
   - {name: Carrie Andrew, user: andrew_carrie}
+  - {name: Kyrre Traavik Låberg, user: traavik-laberg_kyrre}
   - {name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
   latitude: 60.193889
   longitude: 11.100278
@@ -907,6 +913,7 @@ airports:
 - country: us
   instructors:
   - {name: Chris Lasher, user: lasher_c}
+  - {name: Tessa Pierce, user: pierce_tessa}
   - {name: Juliane Schneider, user: schneider_juliane}
   - {name: Andrea Zonca, user: zonca_andrea}
   - {name: Tim Dennis, user: dennis_tim}
@@ -983,6 +990,7 @@ airports:
   - {name: Qingpeng Zhang, user: zhang_qp}
   - {name: Megan Laurance, user: laurance_megan}
   - {name: Stuart Geiger, user: geiger_stuart}
+  - {name: Lachlan Deer, user: deer_lachlan}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -1021,6 +1029,7 @@ airports:
   - {name: Easton White, user: white_easton}
   - {name: Jessica Mizzi, user: mizzi_jessica}
   - {name: Myfanwy Johnston, user: johnston_myfanwy}
+  - {name: Jaime Ashander, user: ashander_jaime}
   - {name: Ryan Peek, user: peek_ryan}
   latitude: 38.695278
   longitude: -121.590556
@@ -1053,6 +1062,7 @@ airports:
   name: St. Louis, MO
 - country: gb
   instructors:
+  - {name: Lisa Breckels, user: breckels_lisa}
   - {name: John Constable, user: constable_john}
   - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
   - {name: Simon Fraser, user: fraser_simon}
@@ -1801,6 +1811,18 @@ airports:
   latitude: 51.128778
   longitude: -114.012405
   name: Calgary International Airport
+- country: ca
+  instructors:
+  - {name: Joey Bernard, user: bernard_joey}
+  latitude: 45.871104
+  longitude: -66.527212
+  name: Fredericton International Airport
+- country: ca
+  instructors:
+  - {name: Juan Carlos Zuniga, user: zuniga_juan-carlos}
+  latitude: 52.169496
+  longitude: -106.698101
+  name: Saskatoon International Airport
 badges:
 - name: creator
   persons:
@@ -2601,9 +2623,9 @@ badges:
   - {awarded: '2016-11-19', name: Valentina Staneva, user: staneva_valentina}
   - {awarded: '2016-11-19', name: Marius Bjørnstad, user: bjornstad_marius}
   - {awarded: '2016-11-19', name: Ian Carroll, user: carroll_ian}
-  - {awarded: '2016-11-11', name: Warren Jacobus, user: jacobus_warren}
+  - {awarded: '2016-11-11', name: Warren Morne' Jacobus, user: jacobus_warren}
   - {awarded: '2016-11-24', name: Eilis Hannon, user: hannon_eilis}
-  - {awarded: '2016-11-24', name: Devendra Umbrajkar, user: umbrajkar_devendra}
+  - {awarded: '2016-11-24', name: Devendra Dattatraya Umbrajkar, user: umbrajkar_devendra}
   - {awarded: '2016-11-24', name: Kivan Polimis, user: polimis_kivan}
   - {awarded: '2016-11-24', name: Simon Nderitu, user: nderitu_simon}
   - {awarded: '2016-11-28', name: Sumana Harihareswara, user: harihareswara_sumana}
@@ -3024,7 +3046,7 @@ badges:
   - {awarded: '2016-11-18', name: Jaime Ashander, user: ashander_jaime}
   - {awarded: '2016-11-18', name: Lachlan Deer, user: deer_lachlan}
   - {awarded: '2016-11-11', name: Eilis Hannon, user: hannon_eilis}
-  - {awarded: '2016-11-11', name: Clara Shaw, user: shaw_clara}
+  - {awarded: '2016-11-11', name: Clara Louise Shaw, user: shaw_clara}
   - {awarded: '2016-11-11', name: Hugo Tavares, user: tavares_hugo}
   - {awarded: '2016-11-19', name: Kivan Polimis, user: polimis_kivan}
   - {awarded: '2016-11-28', name: Willem Ligtenberg, user: ligtenberg_willem}
@@ -3081,7 +3103,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161130T010003Z
+timestamp: 20161130T020003Z
 workshops:
 - &id002
   - address: IT Services Building, Room 8.03b (IT Meeting Room 1)
