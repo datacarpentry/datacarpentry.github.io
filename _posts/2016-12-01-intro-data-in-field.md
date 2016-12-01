@@ -40,7 +40,7 @@ We’re excited to learn about how the diverse members of our community use comp
 a new series titled “Data in the Field” to highlight the many ways in which our community members integrate
 [“good enough” practices](https://arxiv.org/abs/1609.00037) for data management and analysis into their research. 
 
-Stay tuned for posts in this series every Monday. Upcoming contributors include:
+Stay tuned for posts in this series every Monday. Upcoming contributors include:  
 - Naupaka Zimmerman, Asst. Professor of Biology at University of San Francisco  
 - Damien Irving, Postdoctoral Research Fellow, CSIRO Oceans and Atmosphere  
 - Marian Schmidt, PhD student in Ecology and Evolutionary Biology at the University of Michigan  
