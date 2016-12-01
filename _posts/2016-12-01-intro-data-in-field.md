@@ -44,7 +44,7 @@ Stay tuned for posts in this series every Monday. Upcoming contributors include:
 - Naupaka Zimmerman, Asst. Professor of Biology at University of San Francisco  
 - Damien Irving, Postdoctoral Research Fellow, CSIRO Oceans and Atmosphere  
 - Marian Schmidt, PhD student in Ecology and Evolutionary Biology at the University of Michigan  
-- Monday Christie Bahlai, Professor of Integrative Biology at Michigan State University  
+- Christie Bahlai, Professor of Integrative Biology at Michigan State University  
 - Sean Pue, Professor of Linguistics at Michigan State University  
 
 We’d love to hear from you! If you’re interested in contributing a post in this series please contact
