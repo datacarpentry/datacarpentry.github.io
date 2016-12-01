@@ -38,10 +38,14 @@ that you do efficient and reproducible.
 We’re excited to learn about how the diverse members of our community use computational tools, particularly those in the
 [Data Carpentry curriculum](http://www.datacarpentry.org/lessons/), in their daily work. The Data Carpentry blog will be running
 a new series titled “Data in the Field” to highlight the many ways in which our community members integrate
-[“good enough” practices](https://arxiv.org/abs/1609.00037) for data management and analysis into their research.
-Stay tuned for upcoming posts from researchers in climate science, microbial ecology, entomology, ecology and evolution
-and the digital humanities!  
+[“good enough” practices](https://arxiv.org/abs/1609.00037) for data management and analysis into their research. 
 
+Stay tuned for posts in this series every Monday. Upcoming contributors include:
+- Naupaka Zimmerman, [position title]
+- Damien Irving, Postdoctoral Research Fellow, CSIRO Oceans and Atmosphere
+- Marian Schmidt, PhD student in Ecology and Evolutionary Biology at the University of Michigan
+- Monday Christie Bahlai, Professor of Integrative Biology at Michigan State University
+- Sean Pue, Professor of Linguistics at Michigan State University
 
 We’d love to hear from you! If you’re interested in contributing a post in this series please contact
 [ebecker@datacarpentry.org](mailto: ebecker@datacarpentry.org).  
