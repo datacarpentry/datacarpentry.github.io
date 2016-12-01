@@ -41,11 +41,11 @@ a new series titled “Data in the Field” to highlight the many ways in which 
 [“good enough” practices](https://arxiv.org/abs/1609.00037) for data management and analysis into their research. 
 
 Stay tuned for posts in this series every Monday. Upcoming contributors include:
-- Naupaka Zimmerman, Asst. Professor of Biology at University of San Francisco
-- Damien Irving, Postdoctoral Research Fellow, CSIRO Oceans and Atmosphere
-- Marian Schmidt, PhD student in Ecology and Evolutionary Biology at the University of Michigan
-- Monday Christie Bahlai, Professor of Integrative Biology at Michigan State University
-- Sean Pue, Professor of Linguistics at Michigan State University
+- Naupaka Zimmerman, Asst. Professor of Biology at University of San Francisco  
+- Damien Irving, Postdoctoral Research Fellow, CSIRO Oceans and Atmosphere  
+- Marian Schmidt, PhD student in Ecology and Evolutionary Biology at the University of Michigan  
+- Monday Christie Bahlai, Professor of Integrative Biology at Michigan State University  
+- Sean Pue, Professor of Linguistics at Michigan State University  
 
 We’d love to hear from you! If you’re interested in contributing a post in this series please contact
 [ebecker@datacarpentry.org](mailto: ebecker@datacarpentry.org).  
