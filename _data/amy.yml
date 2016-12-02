@@ -543,6 +543,7 @@ airports:
   - {name: Mike Bayer, user: bayer_m}
   - {name: Jared Camins-Esakov, user: camins-esakov_jared}
   - {name: Timothy Cerino, user: cerino_t}
+  - {name: Sumana Harihareswara, user: harihareswara_sumana}
   - {name: Kwasi Kwakwa, user: kwakwa_k}
   - {name: Ian Langmore, user: langmore_i}
   - {name: Matthew Lightman, user: lightman_matthew}
@@ -3050,6 +3051,14 @@ badges:
   - {awarded: '2016-11-11', name: Hugo Tavares, user: tavares_hugo}
   - {awarded: '2016-11-19', name: Kivan Polimis, user: polimis_kivan}
   - {awarded: '2016-11-28', name: Willem Ligtenberg, user: ligtenberg_willem}
+  - {awarded: '2016-12-01', name: Bradley Taber-Thomas, user: taber-thomas_bradley}
+  - {awarded: '2016-12-01', name: Hartmut Schmider, user: schmider_hartmut}
+  - {awarded: '2016-12-01', name: Dan MacLean, user: maclean_dan}
+  - {awarded: '2016-12-01', name: James Hetherington, user: hetherington_james}
+  - {awarded: '2016-12-01', name: David Perez-Suarez, user: perez-suarez_david}
+  - {awarded: '2016-12-01', name: Jens Hedegaard Nielsen, user: nielsen_jens}
+  - {awarded: '2016-12-01', name: Francisco J. Navarro-Brull, user: navarro_francisco}
+  - {awarded: '2016-12-01', name: Pier-Luc St-Onge, user: st-onge_pier-luc}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3103,7 +3112,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161202T020004Z
+timestamp: 20161202T030003Z
 workshops:
 - &id002
   - address: IT Services Building, Room 8.03b (IT Meeting Room 1)
