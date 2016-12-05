@@ -2638,6 +2638,9 @@ badges:
   - {awarded: '2016-11-24', name: Simon Nderitu, user: nderitu_simon}
   - {awarded: '2016-11-28', name: Sumana Harihareswara, user: harihareswara_sumana}
   - {awarded: '2016-12-02', name: Brook T Moyers, user: moyers_brook}
+  - {awarded: '2016-12-05', name: Clara Llebot, user: llebot_clara}
+  - {awarded: '2016-12-05', name: Ben Best, user: best_ben}
+  - {awarded: '2016-12-05', name: Arjun Biddanda, user: biddanda_arjun}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3069,6 +3072,7 @@ badges:
   - {awarded: '2016-12-01', name: Pier-Luc St-Onge, user: st-onge_pier-luc}
   - {awarded: '2016-12-01', name: Sumana Harihareswara, user: harihareswara_sumana}
   - {awarded: '2016-12-02', name: Brook T Moyers, user: moyers_brook}
+  - {awarded: '2016-12-05', name: Ian Carroll, user: carroll_ian}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3122,7 +3126,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161205T190005Z
+timestamp: 20161205T200004Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
