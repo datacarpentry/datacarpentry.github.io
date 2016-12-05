@@ -48,7 +48,7 @@ workshop was worth their time and led to improvements in their data management a
 
 #### Instructors  
 - With Software Carpentry we have run over 30 instructor training events.  
-- We have over 200 officially badged Data Carpentry instructors.  
+- We have over 350 officially badged Data Carpentry instructors.  
 - With Software Carpentry we were involved in forming a [Mentoring Subcommittee](http://software-carpentry.org/join/subcom/mentoring/)
 who have developed and run [discussion sessions](http://pad.software-carpentry.org/instructor-discussion)  
 
