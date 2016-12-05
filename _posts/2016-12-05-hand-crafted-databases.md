@@ -69,7 +69,7 @@ metadata (see for
 example
 [Figure 1 here](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097#pcbi-1005097-g001)).
 Not all tables have to be for tracking physical objects (e.g. plant
-samples, fungal cultures) though. One of conventions I found useful
+samples, fungal cultures) though. One of the conventions I found useful
 was to have a table to track the events or actions that occurred to
 objects. So for example, there was one table for fungal cultures, and
 another for culture events. In the events table, I logged
@@ -103,7 +103,7 @@ a [SQLite](https://sqlite.org/) database. The primary rationale was
 that SQLite is non-proprietary, file-based (don't need a server), and
 could easily be transitioned into a more complex relational database
 system (e.g. [PostgreSQL](https://www.postgresql.org/)) in the future
-if needed. Plus SQLite plays really nicely with R and python, which
+if needed. Plus SQLite plays really nicely with R and Python, which
 made scripting custom interfaces much more straightforward, and as a
 bonus is used
 in
@@ -117,7 +117,7 @@ interface to automate particular types of occurrence (returning from a
 field sample collection expedition, for example). In
 R,
 [dplyr works directly with SQLite](https://cran.r-project.org/web/packages/dplyr/vignettes/databases.html) so
-you can write queries in native dplyr syntax. In python, I've had good
+you can write queries in native dplyr syntax. In Python, I've had good
 success with
 the [sqlite3 library](https://docs.python.org/2/library/sqlite3.html).
 
