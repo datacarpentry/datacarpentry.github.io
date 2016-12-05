@@ -34,7 +34,7 @@ Foundation.
 
 #### Workshops  
 
-- Since August, 2015 we have run 58 workshops in ten countries, serving approximately 1,100 learners  
+- Since August, 2015 we have run 93 workshops in ten countries, serving approximately 1,700 learners  
 - We have over 600 completed surveys that show the demographics of our audience as well as workshop outcomes.
 Workshop attendees are primarily graduate students (31%), but there is also research staff (25%) and postdoctoral researchers
 (12%) and PIs (12%). Workshop attendees were primarily from the life sciences (45%), with other (21%) and social sciences and
