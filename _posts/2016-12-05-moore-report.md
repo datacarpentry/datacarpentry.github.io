@@ -17,7 +17,7 @@ A year ago we were fortunate enough to receive a grant from the
 [Gordon and Betty Moore Foundation](https://www.moore.org/article-detail?newsUrlName=the-gordon-and-betty-moore-foundation-selects-awardees-for-$21-million-in-grants-to-stimulate-data-driven-discovery) 
 Data-Driven Discovery initiative to support Data Carpentry to develop and deliver data skills training to researchers in the life and 
 physical sciences. [See our original proposal here.](https://figshare.com/articles/Data_Carpentry_Moore_Foundation_Grant_Proposal/1507552)
-Thanks to the Moore Foundation, this support has allowed us to run more workshops, develop new materials, 
+Thanks to the Moore Foundation, this support has allowed us as a community to run more workshops, develop new materials, 
 develop infrastructure and advocate for the importance of data skills training for more effective and reproducible research.  
 
 
