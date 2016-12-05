@@ -7,15 +7,15 @@ header:
 permalink: "/lessons-incubation/"
 ---
 
- [Data Carpentry](htttp://www.datacarpentry.org) and [Software Carpentry](http://www.software-carpentry.org)
- are committed to developing and supporting lessons in new domains, and
- to helping Carpentry community members do so as well. The development
- and maintenance of lessons requires significant resources, both up
- front and over the long term; this document outlines the requirements
- and procedures we have put in place to ensure success and
- sustainability.
+[Data Carpentry](htttp://www.datacarpentry.org) and [Software Carpentry](http://www.software-carpentry.org)
+are committed to developing and supporting lessons in new domains, and
+to helping Carpentry community members do so as well. The development
+and maintenance of lessons requires significant resources, both up
+front and over the long term; this document outlines the requirements
+and procedures we have put in place to ensure success and
+sustainability.
 
-### 1. How We Determine Which Lessons to Develop
+## 1. How We Determine Which Lessons to Develop
 
  We use the term *lesson* to mean a single teaching module, typically
  half a day in length; we use the term *workshop* to refer to an entire
@@ -66,7 +66,7 @@ permalink: "/lessons-incubation/"
  exceptions to these requirements in special cases, but such exceptions
  will be rare.
 
-###  2. What New Lesson Proposals Need
+##  2. What New Lesson Proposals Need
 
  As per point 4 above, proposals for new lessons or workshops must be
  backed by concrete statements of support for initial development,
@@ -101,7 +101,7 @@ permalink: "/lessons-incubation/"
      entire material for early adopters to observe. Based on Data
      Carpentry’s experience, such a hackathon costs roughly US$20,000.
 
-### 3. Roadmap
+## 3. Roadmap
 
  Our process for new lessons is:
 
@@ -168,7 +168,7 @@ permalink: "/lessons-incubation/"
  use the Data Carpentry or Software Carpentry lesson template, but not
  their logos.
 
-### 4. Retirement
+## 4. Retirement
 
  If no-one updates or teaches a lesson in a 12-month period, Data and
  Software Carpentry may decide to retire it. The community may continue
@@ -176,7 +176,7 @@ permalink: "/lessons-incubation/"
  included in published releases or discussed during instructor
  training.
 
-### 5. Lesson Development Proposal Template
+## 5. Lesson Development Proposal Template
 
  Lesson proposals must include the items listed below.  We expect that
  proposals will be developed in conjunction with Software and/or Data
@@ -184,23 +184,23 @@ permalink: "/lessons-incubation/"
  through Software and Data Carpentry instructor training, and be
  familiar with our teaching and lesson design methods.
 
-#### 1. Short Description
+### 1. Short Description
 
  This should be at most 140 characters, e.g., "Tabular Data for
  Phylogeneticists" or "Data Management for Digital Humanities".
 
-#### 2. Development Lead(s)s
+### 2. Development Lead(s)s
 
  Names and contact information of 1–2 lead developers, along with a
  one-paragraph biography for each outlining both their expertise in the
  domain and their teaching and curriculum development experience.
 
-#### 3. Target Audience
+### 3. Target Audience
 
  Who this lesson will target, e.g., "Graduate-level researchers in
  ecology".
 
-#### 4. Lesson Outline
+### 4. Lesson Outline
 
  A brief description of what will be taught. Each half day of material
  should have:
@@ -212,14 +212,14 @@ permalink: "/lessons-incubation/"
  *   A point-form learning plan.
  *   A brief comparison with existing open-access lessons on the subject.
 
-#### 5. Evidence of Need
+### 5. Evidence of Need
 
  Summarize evidence that researchers need this lesson. This summary may
  include links to online discussions (mailing lists, twitter, etc) or
  publications (e.g., descriptions of practices that are not yet widely
  adopted), results of surveys, etc.
 
-#### 6. Development Plan
+### 6. Development Plan
 
  Explain who is going to write and teach what, and when. The
  development plan must include a timeline that makes specific people
@@ -229,10 +229,22 @@ permalink: "/lessons-incubation/"
  change as lesson development progress, but the more specific it is,
  the more credible the proposal will be.
 
-#### 7. Support
+### 7. Support
 
  Explain who will support lesson development and how. If you have
  secured funding, attach details. If you have not, but intend to seek
  it, describe any planned or submitted funding requests. If the work is
  not being funded, explain how development and delivery will be
  supported.
+
+## 6. Translations
+
+As inclusive international organizations, we fully endorse instructors
+who wish to teach in the languages of their choice.  While we would
+like to aid this by supporting translations of lessons into languages
+other than English, our experience is that doing this is comparable in
+effort to creating a lesson in the first place.  In particular,
+maintaining a translated lesson as material evolves requires
+significant long-term commitment.  We are therefore only able to aid
+such efforts if they are backed by the kind of resources described
+above for new lessons.
