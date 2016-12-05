@@ -21,8 +21,7 @@ Thanks to the Moore Foundation, this support has allowed us as a community to ru
 develop infrastructure and advocate for the importance of data skills training for more effective and reproducible research.  
 
 
-We wanted to share the outputs and outcomes of Data Carpentry activities over this last year from our annual report to the Moore 
-Foundation.  
+The work of the community has made this possible and we wanted to share our Moore annual report to highlight all the work that has been done in the last year!  
 
 
 - [Annual Report](https://github.com/datacarpentry/practices/blob/datacarpentry/datacarpentry/Moore_DataCarpentry_progress_report.pdf)  
@@ -61,7 +60,7 @@ resources
 [vector data](http://neondataskills.org/tutorial-series/vector-data-series/).  
 
 #### Strategic Planning, Sustainability, Communication and Advocacy  
-- Hired our Program Coordinator, [Associate Director](http://www.datacarpentry.org/blog/new-associate-director/)
+- Hired a Program Coordinator, [Associate Director](http://www.datacarpentry.org/blog/new-associate-director/)
 and [Deputy Director of Assessment](http://www.datacarpentry.org/blog/new-assessment-director/).  
 - Developed a [Lesson Development Roadmap](http://www.datacarpentry.org/lessons-incubation/) to guide the development
 of new curriculum  
@@ -72,9 +71,9 @@ of new curriculum
 effective and reproducible research.  
 
 
-In year one we focused on building the foundation to scale to run more workshops and train instructors, develop materials in new domains,
+In year one the focus was on building the foundation to scale to run more workshops and train instructors, develop materials in new domains,
 maintain existing lessons and support our instructor community. We also are working to establish Data Carpentry with Software Carpentry
-as sustainable organizations. We'll continue these activities in year two and and also work on scaling to reach more learners throughout
+as sustainable organizations. We'll continue these activities in year two and and also work on scaling to reach and engage with more learners and instructors throughout
 the world!  
 
 
