@@ -3144,7 +3144,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161208T170004Z
+timestamp: 20161208T180006Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
@@ -3175,6 +3175,20 @@ workshops:
     - {name: DC}
     url: https://arcleeds.github.io/2016-11-21-leeds/
     venue: The University of Leeds
+  - address: 1500 Gortner Avenue, St. Paul, MN 55108
+    contact: tkteal@datacarpentry.org
+    country: us
+    end: 2016-11-22
+    eventbrite_id: ''
+    humandate: Nov 21-22, 2016
+    latitude: 44.974425
+    longitude: -93.22807
+    slug: 2016-11-21-genomics-unm
+    start: 2016-11-21
+    tags:
+    - {name: DC}
+    url: https://tracykteal.github.io/2016-11-21-genomics-unm/
+    venue: 105 Cargill Building, University of Minnesota
   - address: 20 Rue Berbier du Mets, 75013 Paris
     contact: the FRB team
     country: fr
