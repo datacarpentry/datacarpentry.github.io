@@ -1,3 +1,18 @@
+---
+layout: post
+subheadline: "Community"
+title: Feedback on Communications
+teaser: "Creating a transparent and community-driven communications strategy."
+header:
+   image_fullwidth: "light-blue-wood-texture.jpg"
+categories:
+   - blog
+comments: true
+show_meta: true
+authors: ["Tracy Teal"]
+---
+
+
 Software and Data Carpentry have at their core a collaboration-driven ethos, and communication is key to that collaboration. 
 We’re reaffirming our commitment to open and transparent communication, because we know we can do better! We want to give community 
 members opportunities to talk to each other, staff and Steering Committees, to get updates on efforts and activities and to generate ideas 
