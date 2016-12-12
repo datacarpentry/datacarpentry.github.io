@@ -4,7 +4,7 @@ subheadline: "Data in the Field"
 authors: ["Damien Irving - Postdoctoral Research Fellow, CSIRO Oceans and Atmosphere"]
 title: "Climate Science and the Command Line"
 teaser: ""
-date: 2016-12-06
+date: 2016-12-12
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
