@@ -3098,6 +3098,7 @@ badges:
   - {awarded: '2016-12-08', name: Michael Heeremans, user: heeremans_m}
   - {awarded: '2016-12-08', name: Kenan Direk, user: direk_kenan}
   - {awarded: '2016-12-12', name: Todd Krause, user: krause_todd}
+  - {awarded: '2016-12-13', name: Adelaide Rhodes, user: rhodes_adelaide}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3151,7 +3152,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161213T160004Z
+timestamp: 20161213T170003Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
