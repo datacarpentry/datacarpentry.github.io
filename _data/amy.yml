@@ -363,6 +363,7 @@ airports:
   - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
   - {name: Mike Jackson, user: jackson_m}
   - {name: Martin Jones, user: jones_martin}
+  - {name: Alexander Konovalov, user: konovalov_alexander}
   - {name: Giacomo Peru, user: peru_giacomo}
   - {name: Leighton Pritchard, user: pritchard_leighton}
   - {name: Sam Thomson, user: thomson_samuel}
@@ -603,6 +604,7 @@ airports:
   - {name: Martin Carr, user: carr_martin}
   - {name: Christopher Cooper, user: cooper_christopher}
   - {name: Katerina Michalickova, user: michalickova_katerina}
+  - {name: Simon Thelwall, user: thelwall_simon}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -738,13 +740,13 @@ airports:
   - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh_hamid}
   - {name: Ryan Williams, user: williams_ryan}
   - {name: Jon Badalamenti, user: badalamenti_jon}
+  - {name: Nathan Thomas Moore, user: moore_nathan}
   latitude: 44.880278
   longitude: -93.216667
   name: Minneapolis St Paul, MN
 - country: us
   instructors:
   - {name: Hani Nakhoul, user: nakhoul_hani}
-  - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Joon Ro, user: ro_j}
   latitude: 29.993333
   longitude: -90.257778
@@ -827,6 +829,8 @@ airports:
   - {name: Camille Avestruz, user: avestruz_camille}
   - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
   - {name: Jackie Milhans, user: milhans_jackie}
+  - {name: Danielle Nielsen, user: nielsen_danielle}
+  - {name: Arjun A Biddanda, user: biddanda_arjun}
   latitude: 41.979444
   longitude: -87.904444
   name: Chicago O'Hare, IL
@@ -842,6 +846,7 @@ airports:
 - country: 'no'
   instructors:
   - {name: Hugues Fontenelle, user: fontenelle_hugues}
+  - {name: Michael Heeremans, user: heeremans_m}
   - {name: Karin Lagesen, user: lagesen_k}
   - {name: Lex Nederbragt, user: nederbragt_l}
   - {name: Arvind Sundaram, user: sundaram_arvind}
@@ -1073,6 +1078,7 @@ airports:
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
   - {name: Tim Tröndle, user: troendle_tim}
+  - {name: Hugo Tavares, user: tavares_hugo}
   - {name: Mark Wheelhouse, user: wheelhouse_mark}
   - {name: Marco Chiapello, user: chiapello_marco}
   latitude: 51.885
@@ -1680,6 +1686,7 @@ airports:
   name: Bologna Guglielmo Marconi Airport
 - country: be
   instructors:
+  - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Christof De Bo, user: debo_christof}
   latitude: 50.902447
   longitude: 4.487055
@@ -1725,6 +1732,7 @@ airports:
   name: Auckland Airport
 - country: si
   instructors:
+  - {name: Ziva Ramsak, user: ramsak_ziva}
   - {name: Peter Juvan, user: juvan_peter}
   latitude: 46.225275
   longitude: 14.454863
@@ -2489,7 +2497,7 @@ badges:
   - {awarded: '2016-03-29', name: Westa Domanova, user: domanova_westa}
   - {awarded: '2016-03-30', name: Claire Hardgrove, user: hardgrove_claire}
   - {awarded: '2016-03-30', name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
-  - {awarded: '2016-04-01', name: Živa Ramšak, user: ramsak_ziva}
+  - {awarded: '2016-04-01', name: Ziva Ramsak, user: ramsak_ziva}
   - {awarded: '2016-04-01', name: Peter Juvan, user: juvan_peter}
   - {awarded: '2016-04-01', name: Marcin Adamski, user: adamski_marcin}
   - {awarded: '2016-04-07', name: Steven Wu, user: wu_steven}
@@ -2649,12 +2657,12 @@ badges:
   - {awarded: '2016-12-02', name: Brook T Moyers, user: moyers_brook}
   - {awarded: '2016-12-05', name: Clara Llebot Lorente, user: llebot_clara}
   - {awarded: '2016-12-05', name: Ben Best, user: best_ben}
-  - {awarded: '2016-12-05', name: Arjun Biddanda, user: biddanda_arjun}
+  - {awarded: '2016-12-05', name: Arjun A Biddanda, user: biddanda_arjun}
   - {awarded: '2016-12-06', name: Alexander Konovalov, user: konovalov_alexander}
   - {awarded: '2016-12-06', name: Danielle Nielsen, user: nielsen_danielle}
   - {awarded: '2016-12-08', name: Michael Heeremans, user: heeremans_m}
   - {awarded: '2016-12-08', name: Simon Thelwall, user: thelwall_simon}
-  - {awarded: '2016-12-08', name: Nathan Moore, user: moore_nathan}
+  - {awarded: '2016-12-08', name: Nathan Thomas Moore, user: moore_nathan}
   - {awarded: '2016-12-08', name: Kenan Direk, user: direk_kenan}
   - {awarded: '2016-12-12', name: Todd Krause, user: krause_todd}
   - {awarded: '2016-12-12', name: Armin Sobhani, user: sobhani_armin}
@@ -2909,7 +2917,7 @@ badges:
   - {awarded: '2016-03-08', name: Emily Read, user: read_emily}
   - {awarded: '2016-03-28', name: Grzegorz Haranczyk, user: haranczyk_grzegorz}
   - {awarded: '2016-03-30', name: Claire Hardgrove, user: hardgrove_claire}
-  - {awarded: '2016-04-01', name: Živa Ramšak, user: ramsak_ziva}
+  - {awarded: '2016-04-01', name: Ziva Ramsak, user: ramsak_ziva}
   - {awarded: '2016-04-01', name: Peter Juvan, user: juvan_peter}
   - {awarded: '2016-04-07', name: Geoffrey Fucile, user: fucile_geoffrey}
   - {awarded: '2016-04-08', name: Steve Van Tuyl, user: van-tuyl_steve}
@@ -3153,7 +3161,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161215T140005Z
+timestamp: 20161215T150003Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
