@@ -1001,6 +1001,7 @@ airports:
   - {name: Megan Laurance, user: laurance_megan}
   - {name: Stuart Geiger, user: geiger_stuart}
   - {name: Lachlan Deer, user: deer_lachlan}
+  - {name: Miriam B Goodman, user: goodman_miriam}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -3161,7 +3162,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161215T200003Z
+timestamp: 20161215T210004Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
