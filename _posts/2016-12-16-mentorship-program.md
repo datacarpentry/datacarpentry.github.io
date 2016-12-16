@@ -9,7 +9,7 @@ categories:
  - blog
 comments: true
 show_meta: true
-authors: ["Christina Koch”, “Erin Becker"]
+authors: ["Christina Koch, Erin Becker"]
 ---
 
 The Carpentry community is growing quickly! Over a hundred new instructors have been trained in the past two months. 
