@@ -6,7 +6,7 @@ teaser: ""
 header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
- 	- blog
+ - blog
 comments: true
 show_meta: true
 authors: ["Christina Koch”, “Erin Becker"]
@@ -14,8 +14,8 @@ authors: ["Christina Koch”, “Erin Becker"]
 
 The Carpentry community is growing quickly! Over a hundred new instructors have been trained in the past two months. 
 These new instructors join our community because they’re excited to help fellow researchers who are struggling to analyze their data and 
-because they share our commitment to reproducibility and open access. In spite of these shared values, however, **a third of our 
-instructors [never go on to teach](http://www.datacarpentry.org/blog/instructor-metrics/)** with us.     
+because they share our commitment to reproducibility and open access. In spite of these shared values, however, **[a third of our 
+instructors never go on to teach with us.](http://www.datacarpentry.org/blog/instructor-metrics/)**     
 
 The Carpentry community has a strong tradition of supporting our instructors. We hold weekly live discussion sessions where those who are 
 new to our community can benefit from the collective wisdom of more experienced instructors. However, we know that it helps to get some 
