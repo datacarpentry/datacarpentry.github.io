@@ -22,7 +22,7 @@ new to our community can benefit from the collective wisdom of more experienced 
 more support when starting out as an instructor. We as a community can mentor and provide that support to help the Carpentry community 
 stay strong as we continue to grow.   
 
-The Data and Software Carpentry Mentorship subcommittee is piloting a Mentorship Program in the new year. This program will support 
+Data Carpentry, in collaboration with the Data/Software Carpentry mentoring committee is piloting a Mentorship Program in the new year. This program will support 
 instructors who are new to our community by matching them with a personal Mentor - instructors who have volunteered their time to help 
 new instructors gain the confidence, technical skills, and teaching skills they need to successfully certify as an instructor and teach 
 their first workshop.   
