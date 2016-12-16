@@ -13,6 +13,47 @@ Previously published newsletters are also available below.
 
 
 ********
+### November 2016 
+
+Share your thoughts on Twitter @swcarpentry and @datacarpentry.  
+
+#### Highlights from the Community Calendar  
+**November Community Call** - At the November Community Call we had an active discussion in both sessions about the opportunities and challenges of teaching undergraduates. Look at [the Etherpad](http://software-carpentry.us14.list-manage2.com/track/click?u=46d7513c798c6bd41e5f58f4a&id=071c8dcac7&e=e1503871b3) for a summary of the topics we discussed. We are canceling the December meeting as it falls during a very busy time for most in the Northern Hemisphere. Look for the [January 20th call](http://software-carpentry.us14.list-manage.com/track/click?u=46d7513c798c6bd41e5f58f4a&id=29ad64ba80&e=e1503871b3) with an open conversation with Steering Committee Candidates.  
+
+**Virtual Assessment Network Meeting** - The Virtual Assessment Network will have their second meeting on Monday, December 12th at 5pm UTC. To learn more about this network read the [notes](http://software-carpentry.us14.list-manage2.com/track/click?u=46d7513c798c6bd41e5f58f4a&id=39876c4d2d&e=e1503871b3) from their first meeting. To participate send an email to DC’s Deputy Director of Assessment, Kari L. Jordan, at [kariljordan@carpentries.org](mailto:kariljordan@carpentries.org).  
+
+#### Community News  
+**Run for steering committee** - If you are interested in taking your community participation to the next level, please consider running for Steering Committee. Details about [how to write your candidate blog post](http://software-carpentry.us14.list-manage1.com/track/click?u=46d7513c798c6bd41e5f58f4a&id=d343fb3135&e=e1503871b3). The deadline is fast approaching! So get those posts in soon.  
+
+**In July the Software Carpentry Steering Committee was invited to be a signatory of the** [Python 3 Statement](http://software-carpentry.us14.list-manage.com/track/click?u=46d7513c798c6bd41e5f58f4a&id=82d6d93c2a&e=e1503871b3) - As our Python lessons are now advocating for teaching Python 3 and more and more communities are moving that way, the steering committee felt it was good to be a part of this aspirational statement about the future of Python in research and science. Get your project to sign as well, all it takes is a [GitHub Pull request](http://software-carpentry.us14.list-manage1.com/track/click?u=46d7513c798c6bd41e5f58f4a&id=77576c8545&e=e1503871b3).    
+
+**RStudio Consultant Directory** - Are you considering ways you can get your name out there as an expert in the R Community. Take your Software Carpentry teaching experience and let companies know that you’d be willing to help develop custom lesosns and workshops for them. RStudio has invited experienced instructors in our community to add their name to [their consultant directory](http://software-carpentry.us14.list-manage.com/track/click?u=46d7513c798c6bd41e5f58f4a&id=5f5f96e479&e=e1503871b3).  
+
+#### Papers & manuscripts from the community  
+**Top ten reading list in Reproducibility** - What are the top papers to read in reproducibility? Lorena Barba has [put together a list](https://hackernoon.com/barba-group-reproducibility-syllabus-e3757ee635cf#.bwflyymam). Is there anything you’d add. Join the conversation in the comments of Lorena’s post.  
+
+#### Subcommittee Activity  
+The Mentoring subcommittee is working on creating new pathways for experienced instructors to help mentor those who are new to teaching for the Carpentries. Please stay tuned for news on how you can be involved!  
+
+#### What you may have missed on the blog and mailing lists  
+[Belonging: Developing a Community of Practice among Data Carpentry Learners](http://www.datacarpentry.org/blog/belonging/) - DC Blog Post  
+[Python live coding](http://lists.software-carpentry.org/pipermail/discuss/2016-November/004866.html) - active discussion of approaches to live coding with Python.  
+[top down vs. bottom up teaching python?](http://lists.software-carpentry.org/pipermail/discuss/2016-November/004882.html)  - a discussion of the merits of teaching a language’s rigorous elements first, or demonstrating a problem from the field of the learner.  
+
+#### Community Job postings
+[R Programmer for Conservation Biology](http://lists.software-carpentry.org/pipermail/discuss/2016-November/004893.html) 
+
+#### Other places to connect  
+Going to a workshop or conference, add the details to our [events etherpad](http://pad.software-carpentry.org/swc-events-meetup) and meet other carpenters.  
+Twitter - [Software Carpentry](https://twitter.com/swcarpentry) / [Data Carpentry](https://twitter.com/datacarpentry)  
+[Slack](https://swc-slack-invite.herokuapp.com/)  
+GitHub - [Software Carpentry](https://github.com/swcarpentry) / [Data Carpentry](https://github.com/datacarpentry)  
+[LinkedIn](https://www.linkedin.com/groups/8279689/profile)  
+[Facebook](https://www.facebook.com/carpentries/)  
+
+Have something you’d like to have included send it to [newsletter@carpentries.org](mailto:newsletter@carpentries.org).  
+
+*******
 
 ### October 2016
 

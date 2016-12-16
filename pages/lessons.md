@@ -116,7 +116,7 @@ The focus of this workshop is on working with genomics data and data management 
   </tr>
   <tr>
     <td>Introduction to the command line</td>
-    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_website_url}}/shell-genomics/lessons/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Sheldon McKay, Karen Cranston</td>
   </tr>
@@ -127,16 +127,10 @@ The focus of this workshop is on working with genomics data and data management 
     <td>Sheldon McKay, Karen Cranston</td>
   </tr>
   <tr>
-    <td>Data analysis in R</td>
+    <td>Data analysis and visualization in R</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>Naupaka Zimmerman, Jason Williams</td>
-  </tr>
-  <tr>
-    <td>Data visualization in R</td>
-    <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-   <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>Meeta Mistry</td>
+    <td>Naupaka Zimmerman, Jason Williams, Meeta Mistry</td>
   </tr>
 </table>
 
