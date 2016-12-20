@@ -54,6 +54,7 @@ airports:
   - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
   - {name: Rebecca Tarvin, user: tarvin_becca}
   - {name: April Wright, user: wright_april}
+  - {name: Todd Krause, user: krause_todd}
   latitude: 30.194444
   longitude: -97.669722
   name: Austin, TX
@@ -3174,7 +3175,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161220T220003Z
+timestamp: 20161220T230003Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
