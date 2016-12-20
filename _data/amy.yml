@@ -28,6 +28,7 @@ airports:
   - {name: Gene Soudlenkov, user: soudlenkov_gene}
   - {name: Chris Scott, user: scott_chris}
   - {name: Mike Ladd, user: ladd_mike}
+  - {name: Kirsten Brown, user: brown_kirsten}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
