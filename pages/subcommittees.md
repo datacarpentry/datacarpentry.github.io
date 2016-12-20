@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Subcommittee Minutes"
+title: "Subcommittee Meeting Reports"
 header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/subcommittees/"
@@ -12,6 +12,9 @@ Minutes of the joint Data and Software Carpentry Subcommittees
 ### Bridge Subcommittee
 
 - [05 August 2016](https://github.com/carpentries/bridge/blob/gh-pages/minutes/2016-08-05-minutes.md)
+- [02 September 2016](https://github.com/carpentries/bridge/blob/master/minutes/2016-09-02-minutes.md)  
+- [21 September 2016](https://github.com/carpentries/bridge/blob/master/minutes/2016-09-21-minutes.md)  
+- [07 December 2016](https://github.com/carpentries/bridge/blob/master/minutes/2016-12-07-minutes.md)   
 
 
 ### Mentoring Subcommittee
