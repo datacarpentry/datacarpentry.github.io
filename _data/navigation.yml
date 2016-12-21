@@ -39,7 +39,7 @@
   url: "/involved/"
   side: left
   dropdown:
-  - title: "Become a Partner"
+  - title: "Become an Organizational Member"
     url: "/partnerships/"
   - title: "Become an Instructor"
     url: "/involved-instructor/"
@@ -78,8 +78,6 @@
   dropdown:
   - title: Instructor training checkout
     url: "/checkout/"
-  - title: Information on Workshops
-    url: "/for-instructors/#information-on-workshops"
   - title: Workshop Checklists
     url: "/checklists/"
   - title: Self-organized Workshops

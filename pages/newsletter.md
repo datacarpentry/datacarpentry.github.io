@@ -13,6 +13,7 @@ Previously published newsletters are also available below.
 
 
 ********
+
 ### November 2016 
 
 Share your thoughts on Twitter @swcarpentry and @datacarpentry.  
