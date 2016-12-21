@@ -3175,7 +3175,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161221T140004Z
+timestamp: 20161221T150004Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
@@ -4573,6 +4573,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 10 Discovery Drive, Farmington, Connecticut
+    contact: susan.mcclatchy@jax.org
+    country: US
+    end: 2017-02-10
+    eventbrite_id: '30503865884'
+    humandate: Feb 09-10, 2017
+    latitude: 41.731941
+    longitude: -72.793415
+    slug: 2017-02-09-jax
+    start: 2017-02-09
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2017-02-09-farmington/
+    venue: The Jackson Laboratory for Genomic Medicine
   - address: 136 Harrison Avenue, Boston, Massachusetts
     contact: Brigitte.Huber@tufts.edu
     country: US
