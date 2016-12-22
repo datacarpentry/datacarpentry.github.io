@@ -149,6 +149,7 @@ airports:
   - {name: Eric Ma, user: ma_eric}
   - {name: Shiklomanov Alexey, user: shiklomanov_alexey}
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
+  - {name: Michael Connell, user: connell_michael}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -387,6 +388,7 @@ airports:
   instructors:
   - {name: Jacob Levernier, user: levernier_jacob}
   - {name: Jim Stapleton, user: stapleton_jim}
+  - {name: Matthew Peterson, user: peterson_matthew}
   latitude: 38.175662
   longitude: -85.736923
   name: Eugene, OR
@@ -724,6 +726,7 @@ airports:
 - country: us
   instructors:
   - {name: Karl Broman, user: broman_karl}
+  - {name: Kalin Rose Kiesling, user: kiesling_kalin}
   - {name: Christina Koch, user: koch_christina}
   - {name: Lauren Michael, user: michael_lauren}
   - {name: Emily Read, user: read_emily}
@@ -822,7 +825,7 @@ airports:
   - {name: Peter Hoyt, user: hoyt_peter}
   - {name: Phillip Doehle, user: doehle_phillip}
   - {name: Patrick Boyle, user: boyle_patrick}
-  - {name: Ross Bowman, user: bowman_ross}
+  - {name: Ross Allen Bowman, user: bowman_ross}
   latitude: 35.393056
   longitude: -97.600556
   name: Oklahoma City
@@ -858,6 +861,7 @@ airports:
   - {name: Carrie Andrew, user: andrew_carrie}
   - {name: Kyrre Traavik Låberg, user: traavik-laberg_kyrre}
   - {name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
+  - {name: William Brynildsen Reinar, user: brynildsen-reinar_william}
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
@@ -965,6 +969,7 @@ airports:
   - {name: Cody Hinchliff, user: hinchliff_cody}
   - {name: W. Trevor King, user: king_wt}
   - {name: Johnny Lin, user: lin_johnny}
+  - {name: Daniel McCloy, user: mccloy_daniel}
   - {name: Maria McKinley, user: mckinley_maria}
   - {name: Adam Richie-Halford, user: richie-halford_adam}
   - {name: Ariel Rokem, user: rokem_a}
@@ -1853,6 +1858,12 @@ airports:
   latitude: 51.104055
   longitude: 16.881597
   name: Wrocław Nicolaus Copernicus Airport
+- country: us
+  instructors:
+  - {name: Patrick Clare Shriwise, user: shriwise_patrick}
+  latitude: 42.950161
+  longitude: -87.899629
+  name: General Mitchell International Airport
 badges:
 - name: creator
   persons:
@@ -2574,7 +2585,7 @@ badges:
   - {awarded: '2016-06-29', name: Daniel Stubbs, user: stubbs_daniel}
   - {awarded: '2016-06-30', name: Eric Giguère, user: gigure_eric}
   - {awarded: '2016-06-30', name: Felipe Bocca, user: ferreira-bocca_felipe}
-  - {awarded: '2016-06-30', name: Ross Bowman, user: bowman_ross}
+  - {awarded: '2016-06-30', name: Ross Allen Bowman, user: bowman_ross}
   - {awarded: '2016-07-08', name: Rudiger Brauning, user: brauning_rudiger}
   - {awarded: '2016-07-08', name: Sean Barberie, user: barberie_sean}
   - {awarded: '2016-07-08', name: Sergio Marconi, user: marconi_sergio}
@@ -2673,8 +2684,8 @@ badges:
   - {awarded: '2016-12-12', name: Armin Sobhani, user: sobhani_armin}
   - {awarded: '2016-12-12', name: Daniel McCloy, user: mccloy_daniel}
   - {awarded: '2016-12-12', name: William Brynildsen Reinar, user: brynildsen-reinar_william}
-  - {awarded: '2016-12-17', name: Patrick Shriwise, user: shriwise_patrick}
-  - {awarded: '2016-12-17', name: Kalin Kiesling, user: kiesling_kalin}
+  - {awarded: '2016-12-17', name: Patrick Clare Shriwise, user: shriwise_patrick}
+  - {awarded: '2016-12-17', name: Kalin Rose Kiesling, user: kiesling_kalin}
   - {awarded: '2016-12-20', name: Matthew Peterson, user: peterson_matthew}
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
 - name: member
@@ -3119,7 +3130,7 @@ badges:
   - {awarded: '2016-12-13', name: Adelaide Rhodes, user: rhodes_adelaide}
   - {awarded: '2016-12-17', name: Bo Ji, user: ji_bo_2}
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
-  - {awarded: '2016-12-20', name: Ross Bowman, user: bowman_ross}
+  - {awarded: '2016-12-20', name: Ross Allen Bowman, user: bowman_ross}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3175,7 +3186,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161222T160003Z
+timestamp: 20161222T170005Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
