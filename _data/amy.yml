@@ -149,6 +149,7 @@ airports:
   - {name: Eric Ma, user: ma_eric}
   - {name: Shiklomanov Alexey, user: shiklomanov_alexey}
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
+  - {name: Michael Connell, user: connell_michael}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
