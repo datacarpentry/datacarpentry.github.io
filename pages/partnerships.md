@@ -4,15 +4,15 @@ show_meta: false
 header:
    image_fullwidth: "wood_plank.jpg"
 permalink: /partnerships/
-title: "Become a Partner"
+title: "Become an Member Organization"
 ---
 
-A Partner is an organization that has made a commitment to the growth and spread
-of Data Carpentry. Partners receive annual access to instructor training and guidance with capacity building at their organization. Partners are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Partnerships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
+A Member Organization is an organization that has made a commitment to the growth and spread
+of Data Carpentry. Members receive annual access to instructor training and guidance with capacity building at their organization. Members are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
 
-**If you are already a Software Carpentry Foundation Partner or Affiliate** you are also considered a Data Carpentry Partner under the same terms through the end of your contract. 
+**If you are already a Software Carpentry Foundation Partner or Affiliate** you are also considered a Data Carpentry Member under the same terms through the end of your contract. 
 
-We offer several levels of Partnerships, based on training activities expected annually.
+We offer several levels of Memberships, based on training activities expected annually.
 
 ### Tiers
 
@@ -22,13 +22,13 @@ We offer several levels of Partnerships, based on training activities expected a
 | ------|:------:|:------:|:------:|:------:|
 |# of Coordinated Workshops|2|4|6|negotiable|
 |Discount for additional <br>coordinated workshops|20%|33%|50%|negotiable|
-|Self-organized workshops<br> at partner organization **|no-charge|no-charge|no-charge|no-charge|
+|Self-organized workshops<br> at member organization **|no-charge|no-charge|no-charge|no-charge|
 |Number of instructors <br>trained ***|0|6 online|15 with possibility <br>for in-person^<br>training event|negotiable|
 |Seat on the <br>SCF Advisory Board|No|Yes|Yes|Yes|
-|Train an in-house instructor <br>trainer at partner org|No|No|No|Available|
+|Train an in-house instructor <br>trainer at member org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
-|Joint Fee (annual)|[$5,000](mailto:partnerships@carpentries.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:partnerships@carpentries.org?subject=Interested in Silver Partnership)|[$15,000](mailto:partnerships@carpentries.org?subject=Interested in Gold Partnership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Platinum Partnership)|
-|SC or DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Partnership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Partnership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Partnership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Partnership)|
+|Joint Fee (annual)|[$5,000](mailto:partnerships@carpentries.org?subject=Interested in Bronze Membership)|[$7,500](mailto:partnerships@carpentries.org?subject=Interested in Silver Membership)|[$15,000](mailto:partnerships@carpentries.org?subject=Interested in Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Platinum Membership)|
+|SC or DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Membership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Membership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Membership)|
 
 
 #### Notes
