@@ -39,7 +39,7 @@
   url: "/involved/"
   side: left
   dropdown:
-  - title: "Become an Organizational Member"
+  - title: "Become a Member Organization"
     url: "/partnerships/"
   - title: "Become an Instructor"
     url: "/involved-instructor/"
