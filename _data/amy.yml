@@ -3187,7 +3187,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20161231T170005Z
+timestamp: 20161231T180005Z
 workshops:
 - &id002
   - address: Chao Center, Room 120
