@@ -3134,6 +3134,14 @@ badges:
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
   - {awarded: '2016-12-20', name: Ross Allen Bowman, user: bowman_ross}
   - {awarded: '2016-12-22', name: Kari Jordan, user: jordan_kari}
+  - {awarded: '2017-01-16', name: Jens von der Linden, user: vonderlinden_jens}
+  - {awarded: '2017-01-16', name: Andrew Marder, user: marder_andrew}
+  - {awarded: '2017-01-16', name: Meg Staton, user: staton_margaret}
+  - {awarded: '2017-01-16', name: Paulina Lach, user: lach_paulina}
+  - {awarded: '2017-01-16', name: Nick Jones, user: jones_nick}
+  - {awarded: '2017-01-16', name: Catherine McGoveran, user: mcgoveran_catherine}
+  - {awarded: '2017-01-16', name: Konrad Förstner, user: forstner_konrad}
+  - {awarded: '2017-01-16', name: Tamer Mansour, user: mansour_tamer}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3189,7 +3197,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170116T090004Z
+timestamp: 20170116T100003Z
 workshops:
 - &id002
   - address: Orchard View Room, Wisconsin Institutes for Discovery
