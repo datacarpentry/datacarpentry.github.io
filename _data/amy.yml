@@ -609,6 +609,7 @@ airports:
   - {name: Christopher Cooper, user: cooper_christopher}
   - {name: Katerina Michalickova, user: michalickova_katerina}
   - {name: Simon Thelwall, user: thelwall_simon}
+  - {name: Laura Fortunato, user: fortunato_laura}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -3257,7 +3258,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170116T190002Z
+timestamp: 20170116T200003Z
 workshops:
 - &id002
   - address: Orchard View Room, Wisconsin Institutes for Discovery
