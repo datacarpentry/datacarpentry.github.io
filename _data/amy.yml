@@ -585,7 +585,6 @@ airports:
   - {name: Philip Fowler, user: fowler_philip}
   - {name: Donna Henderson, user: henderson_donna}
   - {name: James Hetherington, user: hetherington_james}
-  - {name: Devasena Inupakutika, user: inupakutika_devasena}
   - {name: Jan Kim, user: kim_jan}
   - {name: Jinwoo Leem, user: leem_jinwoo}
   - {name: Gary Macindoe, user: macindoe_gary}
@@ -1865,6 +1864,12 @@ airports:
   latitude: 42.950161
   longitude: -87.899629
   name: General Mitchell International Airport
+- country: us
+  instructors:
+  - {name: Devasena Inupakutika, user: inupakutika_devasena}
+  latitude: 29.533958
+  longitude: -98.4690571
+  name: San Antonio International Airport
 badges:
 - name: creator
   persons:
@@ -3142,6 +3147,60 @@ badges:
   - {awarded: '2017-01-16', name: Catherine McGoveran, user: mcgoveran_catherine}
   - {awarded: '2017-01-16', name: Konrad Förstner, user: forstner_konrad}
   - {awarded: '2017-01-16', name: Tamer Mansour, user: mansour_tamer}
+  - {awarded: '2017-01-16', name: Johnny Lin, user: lin_johnny}
+  - {awarded: '2017-01-16', name: Saravanan Ramalingam, user: ramalingam_saravanan}
+  - {awarded: '2017-01-16', name: Radovan Bast, user: bast_radovan}
+  - {awarded: '2017-01-16', name: Mark Stacy, user: stacy_mark}
+  - {awarded: '2017-01-16', name: Neil Chue Hong, user: chue-hong_n}
+  - {awarded: '2017-01-16', name: Emilia Gan, user: gan_emilia}
+  - {awarded: '2017-01-16', name: Albertus Seyffert, user: seyffert_albertus}
+  - {awarded: '2017-01-16', name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
+  - {awarded: '2017-01-16', name: Patricia Carbajales-Dale, user: carbajales_patricia}
+  - {awarded: '2017-01-16', name: Kwasi Kwakwa, user: kwakwa_k}
+  - {awarded: '2017-01-16', name: Erik Bray, user: bray_e}
+  - {awarded: '2017-01-16', name: Ron Merrill, user: merrill_ron}
+  - {awarded: '2017-01-16', name: Jeremiah Lant, user: lant_jeremiah}
+  - {awarded: '2017-01-16', name: Matthew Ruttley, user: ruttley_m}
+  - {awarded: '2017-01-16', name: Arron Shiffer, user: shiffer_arron}
+  - {awarded: '2017-01-16', name: James Hiebert, user: hiebert_james}
+  - {awarded: '2017-01-16', name: Michael Croucher, user: croucher_mike}
+  - {awarded: '2017-01-16', name: Daniel Standage, user: standage_daniel}
+  - {awarded: '2017-01-16', name: Justin Ely, user: ely_j}
+  - {awarded: '2017-01-16', name: Lauren Michael, user: michael_lauren}
+  - {awarded: '2017-01-16', name: Vicky Varga, user: varga_vicky}
+  - {awarded: '2017-01-16', name: Stephen Crouch, user: crouch_s}
+  - {awarded: '2017-01-16', name: Laura Jane Graham, user: graham_laura}
+  - {awarded: '2017-01-16', name: Alistair Grant, user: grant_alistair}
+  - {awarded: '2017-01-16', name: Rosario Robinson, user: robinson_rosario}
+  - {awarded: '2017-01-16', name: Mike Wallis, user: wallis_mike}
+  - {awarded: '2017-01-16', name: Anelda van der Walt, user: van-der-walt_anelda}
+  - {awarded: '2017-01-16', name: Sarah Simpkin, user: simpkin_sarah}
+  - {awarded: '2017-01-16', name: Andy Teucher, user: teucher_andrew}
+  - {awarded: '2017-01-16', name: Rebecca Tarvin, user: tarvin_becca}
+  - {awarded: '2017-01-16', name: Daiva Nielsen, user: nielsen_daiva}
+  - {awarded: '2017-01-16', name: Daniel Turek, user: turek_daniel}
+  - {awarded: '2017-01-16', name: Joshua Nahum, user: nahum_josh}
+  - {awarded: '2017-01-16', name: Matthew Lightman, user: lightman_matthew}
+  - {awarded: '2017-01-16', name: Camille Avestruz, user: avestruz_camille}
+  - {awarded: '2017-01-16', name: Rachel Slaybaugh, user: slaybaugh_rachel}
+  - {awarded: '2017-01-16', name: Sina Masoud-Ansari, user: masoud-ansari_sina}
+  - {awarded: '2017-01-16', name: Daniel Falster, user: falster_daniel}
+  - {awarded: '2017-01-16', name: Amanda Miotto, user: miotto_amanda}
+  - {awarded: '2017-01-16', name: Heidi Perrett, user: perrett_heidi}
+  - {awarded: '2017-01-16', name: Luc Small, user: small_luc}
+  - {awarded: '2017-01-16', name: Juan Nunez-Iglesias, user: nunez-iglesias_juan}
+  - {awarded: '2017-01-16', name: Shreyas Cholia, user: cholia_s}
+  - {awarded: '2017-01-16', name: Russell Alleen Willems, user: alleen-willems_russell}
+  - {awarded: '2017-01-16', name: Emily Jane McTavish, user: mctavish_ej}
+  - {awarded: '2017-01-16', name: Tom Remenyi, user: remenyi_tom}
+  - {awarded: '2017-01-16', name: Damien Irving, user: irving_d}
+  - {awarded: '2017-01-16', name: Michael Sumner, user: sumner_mike}
+  - {awarded: '2017-01-16', name: Martin Cuma, user: cuma_martin}
+  - {awarded: '2017-01-16', name: Alistair Walsh, user: walsh_alistair}
+  - {awarded: '2017-01-16', name: Scott Ritchie, user: ritchie_scott}
+  - {awarded: '2017-01-16', name: Daisie Huang, user: huang_daisie}
+  - {awarded: '2017-01-16', name: Xu Fei, user: fei_xu}
+  - {awarded: '2017-01-16', name: Daniela Ushizima, user: ushizima_daniela}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3197,7 +3256,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170116T100003Z
+timestamp: 20170116T110003Z
 workshops:
 - &id002
   - address: Orchard View Room, Wisconsin Institutes for Discovery
