@@ -3266,7 +3266,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170118T190001Z
+timestamp: 20170118T200003Z
 workshops:
 - &id002
   - address: Orchard View Room, Wisconsin Institutes for Discovery
@@ -4692,20 +4692,6 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
-  - address: 600 Main Street, Bar Harbor, Maine
-    contact: susan.mcclatchy@jax.org
-    country: US
-    end: 2017-02-17
-    eventbrite_id: ''
-    humandate: Feb 16-17, 2017
-    latitude: 44.369665
-    longitude: -68.190025
-    slug: 2017-02-16-barHarbor
-    start: 2017-02-16
-    tags:
-    - {name: DC}
-    url: https://smcclatchy.github.io/2017-02-16-barHarbor/
-    venue: The Jackson Laboratory
   - address: 10 Discovery Drive, Farmington, Connecticut
     contact: susan.mcclatchy@jax.org
     country: US
