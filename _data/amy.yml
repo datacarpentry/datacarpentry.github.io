@@ -2700,6 +2700,8 @@ badges:
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
   - {awarded: '2017-01-04', name: Fanie Riekert, user: riekert_fanie}
   - {awarded: '2017-01-16', name: Laura Fortunato, user: fortunato_laura}
+  - {awarded: '2017-01-18', name: Nicholas Panchy, user: panchy_nicholas}
+  - {awarded: '2017-01-18', name: Yuka Takemon, user: takemon_yuka}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3208,6 +3210,7 @@ badges:
   - {awarded: '2017-01-16', name: Daniela Ushizima, user: ushizima_daniela}
   - {awarded: '2017-01-16', name: Harriet Alexander, user: alexander_harriet}
   - {awarded: '2017-01-16', name: Laura Fortunato, user: fortunato_laura}
+  - {awarded: '2017-01-18', name: Yuka Takemon, user: takemon_yuka}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3263,7 +3266,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170118T150002Z
+timestamp: 20170118T160003Z
 workshops:
 - &id002
   - address: Orchard View Room, Wisconsin Institutes for Discovery
