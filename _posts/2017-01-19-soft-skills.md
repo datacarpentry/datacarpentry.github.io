@@ -22,8 +22,7 @@ manually manipulating data until it was in a form that I could query it and look
 I became interested in using legacy data to understand ecological patterns as a matter of profession. During my grad work, I used data 
 collected by others to answer questions of scale- like identifying environmental patterns inducing [migratory behavior in an invasive 
 species](http://onlinelibrary.wiley.com/doi/10.1111/afe.12051/full), and building 
-[tritrophic population models](http://www.sciencedirect.com/science/article/pii/S0304380013000410) to understand seasonal dynamics.  
-And then in my first postdoc, I joined the [Long Term Ecological Research](https://lternet.edu/) network, and that basically blew up 
+[tritrophic population models](http://www.sciencedirect.com/science/article/pii/S0304380013000410) to understand seasonal dynamics. And then in my first postdoc, I joined the [Long Term Ecological Research](https://lternet.edu/) network, and that basically blew up 
 my brain- I suddenly had access[1] to a whole world of data documenting various ecosystem metrics over long periods of time. I spent several 
 of my years working on a 30-year insect observation database- and I was able to uncover previously unobserved patterns in how 
 [communities of similar organisms respond to invasions](http://link.springer.com/article/10.1007/s10530-014-0772-4).  Through all this, 
@@ -43,11 +42,10 @@ I’ll admit, [I found this frustrating](https://practicaldatamanagement.wordpre
 And I wanted to fix it. So I started writing about my data management struggles, tips, and tricks.  This was how I got involved in the 
 data management training and reproducible research community, and through that fell in with this rag-tag group of misfits here at DC and 
 SWC. What I love about this community is its commitment to inclusiveness- **it’s about helping individuals, wherever they come from and 
-whatever skills they start with, to become better at what they do.**  And now I’m in pretty deep- last year I developed a 
+whatever skills they start with, to become better at what they do.** And now I’m in pretty deep- last year I developed a 
 [semester long course](https://cbahlai.github.io/rqm-template/) that takes students through the DC and SWC curricula, 
 with some reproducible research philosophy mixed in there, and apply the principles to real data- essentially offering a 
-guided experience in making the post-data-collection part of the scientific workflow happen, and heck, even fun!  
-And I’ve learned so much in the process. But moreover, I recently had an epiphany about technology in science. So often, 
+guided experience in making the post-data-collection part of the scientific workflow happen, and heck, even fun! And I’ve learned so much in the process. But moreover, I recently had an epiphany about technology in science. So often, 
 teachers of technology and computational methods frame things as hard skills. But we learn these skills not (just) so we can put the 
 bullet points on our CVs- we learn so we can work better together. So we can communicate our science better. So we can be better at 
 answering the whys of our science.  
