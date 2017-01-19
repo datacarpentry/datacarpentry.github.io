@@ -2,7 +2,7 @@
 layout: post
 subheadline: "Data in the Field"
 title: "Soft(ware) Skills"
-teaser: ”"
+teaser: 
 header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
