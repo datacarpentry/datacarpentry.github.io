@@ -22,13 +22,13 @@ At the end of 2016 the NWU entered into a gold partnership with Software and Dat
 
 We look forward to continue our collaboration with Software and Data Carpentry and with you, our community!
 
-[1] [https://software-carpentry.org/blog/2014/12/cape-town-swc.html]
-[2] [http://eresearch.ac.za/]
-[3] [https://software-carpentry.org/blog/2016/01/a-year-of-swc-in-south-africa.html]
-[4] [http://www.datacarpentry.org/blog/genomics-nwu/]
-[5] [https://cmacdonell.github.io/2016-08-25-CSIR/]
-[6] [http://www.nwu.ac.za]
+[1] [https://software-carpentry.org/blog/2014/12/cape-town-swc.html]  
+[2] [http://eresearch.ac.za/]  
+[3] [https://software-carpentry.org/blog/2016/01/a-year-of-swc-in-south-africa.html]  
+[4] [http://www.datacarpentry.org/blog/genomics-nwu/]  
+[5] [https://cmacdonell.github.io/2016-08-25-CSIR/]  
+[6] [http://www.nwu.ac.za]  
 
-[9] [https://figshare.com/articles/A_Programme_for_the_Development_of_Computational_and_Digital_Research_Capacity_in_South_Africa_and_Africa_-_phase_1/3382168]
-[10] [https://software-carpentry.org/blog/2016/04/south-africa-instructor-training.html]
-[11] [http://www.nwu.ac.za/eresearch]
+[9] [https://figshare.com/articles/A_Programme_for_the_Development_of_Computational_and_Digital_Research_Capacity_in_South_Africa_and_Africa_-_phase_1/3382168]  
+[10] [https://software-carpentry.org/blog/2016/04/south-africa-instructor-training.html]  
+[11] [http://www.nwu.ac.za/eresearch]  
