@@ -2,7 +2,7 @@
 layout: post
 subheadline: "Why we teach what we teach"
 title: "The SQL Ecology Lessons"
-teaser: ”"
+teaser:
 header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
