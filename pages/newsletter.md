@@ -47,8 +47,56 @@ Have something you’d like to have included send it to [newsletter@carpentries.
 
 -->
 
+### January 2017
+Share your thoughts on Twitter @swcarpentry and @datacarpentry.  
+
+#### Community News  
+**Thank you Greg!** - We want to express our sincere thank you to Greg Wilson for his tireless work toward making Software and Data Carpentry what they are today. We’ve come a long way from the initial idea back when Greg was a post-doctoral researcher to a global network of hundreds of certified instructors. We’re now a global movement of researchers striving better the way data-driven research is done. We want to express our deepest thanks to Greg as he [moves on to new opportunities and challenges](https://software-carpentry.org/blog/2016/12/next-steps.html) at Shopify. We hope to still see you around now and again Greg.  
+
+**Software Carpentry Election Underway** - The Software Carpentry 2017 Steering Committee election is underway. Look for ballots from electionbuddy in your email inbox. The polls close on Friday January 27th, so get your vote in. We have an [amazing slate of candidates](https://software-carpentry.org/blog/2017/01/election-update.html).  
+
+**New mentors/mentees program** - A huge thanks to the many Carpentry instructors who have signed up as mentors for the new Mentoring Program. We now have 38 mentors ready to share their experience with new instructors and help them prepare for their first few workshops. If you’re a Carpentry instructor who has taught one or fewer workshops and would like to join the program as a mentee, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSepZJL1oD3GPbNCBJeU0hsWJ_hokxMHMQ0bsd1o0V8uSeWKgg/viewform). Space is limited, so sign up soon!  
+
+**Learning Objectives for Ecology Lessons** - Maintainers and collaborators for Data Carpentry’s Ecology Lessons participated in a discussion to determine which of the learning objectives are of top priority for assessment. Contributors provided feedback via this [document](https://docs.google.com/document/d/1uAP6wZ_m_gihOlSGsNurwSDq8SrTRCFYVyCerl2whHw/edit), and met virtually on Friday, January 13th. The conversation is not over, so if you’d like to be a part of the conversation, provide your input on the [document](https://docs.google.com/document/d/1uAP6wZ_m_gihOlSGsNurwSDq8SrTRCFYVyCerl2whHw/edit), and/or create an issue on GitHub by January 31st. 
+
+#### Subcommittee Activity  
+**Mentoring Subcommittee Update**  
+The mentoring committee is looking for new members and volunteers! In the new year, we're restarting our weekly discussion sessions for recent/upcoming workshops and new instructors. Erin Becker (of Data Carpentry) is organizing a pilot mentorship program.  We're also looking for new ideas to help instructors grow.  If you like talking with other Software/Data Carpentry instructors, sharing your own Software/Data Carpentry experience, or are looking to learn more from others, there's a place for you. To learn more, email Christina (ckoch5@wisc.edu), Erin (ebecker@datacarpentry.org) or hop on our next [Mentoring Subcommittee call](http://pad.software-carpentry.org/scf-mentoring).    
+
+**Assessment Subcommittee Update**  
+If you missed the second meeting for the Virtual Assessment Network, you’ll find the notes [here](https://docs.google.com/document/d/1bgT0Fhmwe6LlplGq_3MwZ4YTfysxUJ8E-s9F1HulMdo/edit). Highlights include:
+Discussion around difficulties with data management for assessment
+Collaborations for transitioning from SPSS to R (see this [repo](https://github.com/mkcor/assmtrepr))  
+
+If you are interested in getting involved with the Virtual Assessment Network, e-mail Kari L. Jordan at [kariljordan@carpentries.org](mailto:kariljordan@carpentries.org). 
+
+**Lesson Maintainers Subcommittee Update**  
+The Software Carpentry Steering Committee recently approved a [revision to the Lesson Maintainers Subcommittee](https://github.com/swcarpentry/board/issues/154) and creation of a [new Lesson Infrastructure Subcommittee](https://github.com/swcarpentry/board/issues/155). We're actively working to document our processes and are excited to help the community demystify the lesson maintenance and development process. If you are interested in participating in the Lesson Infrastructure Subcommittee and decision-making associated with how lessons are maintained and appear, please contact Kate Hertweck (k8hertweck@gmail.com).  
+
+#### What you may have missed on the blog and mailing lists  
+**CarpentryCon Planning Underway**  
+We've held multiple meetings for a pilot CarpentryCon event, and we're excited at the enthusiastic turnout! The next meetings will be on Monday February 6 at 10:00 EST and 17:00 EST (sign up on the [etherpad](http://pad.software-carpentry.org/2017carpentrycontaskforce)). Several subgroups were formed, including a Local Organizers committee, Program Development committee, and a Fundraising committee. Beyond those who volunteered, we've heard that many are excited at the prospect of a community CarpentryCon event; this first event will serve as a pilot to help launch other events across the globe. You can find our [meeting minutes from previous calls here](https://github.com/swcarpentry/board/tree/ce0a3817c52dfb0f1b5c626a47337ed849e9cfef/TaskForces/2017-CarpentryCon/minutes).  
+
+**Library Carpentry Instructor Training**  
+We are pleased to announce that we are partnering with [csv,conf](https://csvconf.com/) (a community conference for data makers everywhere) to run an instructor training class specifically geared for people interested in Library Carpentry. The class will take place in Portland, Oregon, on May 4-5, 2017; for details, please see [the full announcement](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/).  
+
+#### Community Job postings  
+Scionics Computer Innovation in Germany is looking for a Bioinformatics Data Analyist. (https://www.scionics.com/jobs.html)
+
+[The University of Miami Miller School of Medicine Institute for Bioethics and Health Policy](https://um.hodesiq.com/job_detail.asp?JobID=5123395&user_id=&ViewAll) is looking for a postdoctoral fellow for research and curriculum development in ethics and health information technology.  
+
+#### Other places to connect  
+Going to a workshop or conference, add the details to our [events etherpad](http://pad.software-carpentry.org/swc-events-meetup) and meet other carpenters.  
+Twitter - [Software Carpentry](https://twitter.com/swcarpentry) / [Data Carpentry](https://twitter.com/datacarpentry)  
+[Slack](https://swc-slack-invite.herokuapp.com/)  
+GitHub - [Software Carpentry](https://github.com/swcarpentry) / [Data Carpentry](https://github.com/datacarpentry)  
+[LinkedIn](https://www.linkedin.com/groups/8279689/profile)  
+[Facebook](https://www.facebook.com/carpentries/)  
+
+Have something you’d like to have included send it to [newsletter@carpentries.org](mailto:newsletter@carpentries.org).  
 
 ********
+
 ### December 2016
 Share your thoughts on Twitter @swcarpentry and @datacarpentry.  
 
