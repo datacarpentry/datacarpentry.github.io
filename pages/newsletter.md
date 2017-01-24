@@ -11,8 +11,114 @@ Data Carpentry and Software Carpentry put out a joint newsletter each month high
 
 Previously published newsletters are also available below.
 
+<!-- Template
+
+### Month Year
+Share your thoughts on Twitter @swcarpentry and @datacarpentry.  
+
+#### Highlights from the Community Calendar  
+**Text** -  
+
+**Text** - 
+
+#### Community News  
+**Text** - 
+
+**Text** -
+
+#### Papers & manuscripts from the community  
+**Text** - 
+
+#### Subcommittee Activity  
+
+#### What you may have missed on the blog and mailing lists  
+
+#### Community Job postings
+
+#### Other places to connect  
+Going to a workshop or conference, add the details to our [events etherpad](http://pad.software-carpentry.org/swc-events-meetup) and meet other carpenters.  
+Twitter - [Software Carpentry](https://twitter.com/swcarpentry) / [Data Carpentry](https://twitter.com/datacarpentry)  
+[Slack](https://swc-slack-invite.herokuapp.com/)  
+GitHub - [Software Carpentry](https://github.com/swcarpentry) / [Data Carpentry](https://github.com/datacarpentry)  
+[LinkedIn](https://www.linkedin.com/groups/8279689/profile)  
+[Facebook](https://www.facebook.com/carpentries/)  
+
+Have something you’d like to have included send it to [newsletter@carpentries.org](mailto:newsletter@carpentries.org).  
+
+-->
+
 
 ********
+### December 2016
+Share your thoughts on Twitter @swcarpentry and @datacarpentry.  
+
+#### Highlights from the Community Calendar  
+**Upcoming Community Calls**  
+[January 19th](http://pad.software-carpentry.org/community-call-2017-01-19) - 2pm and 11pm UTC - Hear from candidates for the new SWC Steering Committee.    
+February 15th - 11pm UTC/16th 2pm UTC - Discuss mentorship opportunities with SWC/DC.    
+We’d like to hear your ideas as we plan future Community Calls! [Please share your thoughts!](https://github.com/carpentries/conversations/issues/7)    
+
+#### Community News  
+**Run for the Software Carpentry Steering Committee** - If you are interested in taking your community participation to the next level, please consider running for Steering Committee. Details about [how to write your candidate blog post](http://software-carpentry.org/blog/2016/10/Call-for-candidates-SC-2017.html). The deadline of December 23rd is fast approaching! So get those posts in soon.  
+
+**Greg Wilson steps down as Director of Instructor Training** - [A new opportunity](https://software-carpentry.org/blog/2016/12/next-steps.html) has come up for Greg Wilson in Toronto that will require less travel, and after a great deal of thought, he has decided to pursue it. At the end of January 2017, he will step down as Director of Instructor Training to take a position as a Computer Science Education Lead at Shopify, where he will help with their CS education partnerships. He's excited to have a chance to work for change locally, but also looks forward to continuing to be involved in the Carpentries as a volunteer, and to many more discussions of teaching, open science, and how awful Git truly is.  
+
+**Feedback on Communications** - What ideas do you have about communication? What do you want to hear from us? We’re going to be working on communication channels and strategies to promote and support these ideas, and continue to make the Carpentries a community that you are excited to be a part of, so [please let us know what you think!](https://github.com/carpentries/conversations/issues/1)
+
+#### Subcommittee Activity  
+The newly organized **[Lesson Infrastructure subcommittee](http://lists.software-carpentry.org/pipermail/maintainers/2016-November/000349.html)** is working on a December 2016 publication of SWC lessons. DC lessons are scheduled for initial publication in February 2017.  
+
+An effort is underway to revise our lessons’ learning objectives to enable better post-workshop skills assessment. DC staff and a SWC SC representative will meet in-person in January to organize this **assessment** effort. Please contact [kariljordan@carpentries.org](mailto:kariljordan@carpentries.org) if you’re interested in being involved.  
+
+The **Instructor Trainers** have been hard at work! The past two months have seen nine instructor training events on three continents and online with over a hundred new instructors joining the SWC and DC community! There is a vibrant discussion in the issues and PRs of the Github repo [swcarpentry/instructor-training](https://github.com/swcarpentry/instructor-training) if you’d like to get involved.  
+
+The **Mentoring subcommittee** is in need of co-hosts for [weekly discussion sessions](http://pad.software-carpentry.org/scf-mentoring). Co-hosts help lead discussions with a member of the Mentoring subcommittee. If you’ve taught for SWC/DC, you’re qualified to be a discussion co-host! Please contact Christina Koch (ckoch5@wisc.edu) for more information or to sign up! We’re also starting a new [Mentorship program](http://www.datacarpentry.org/blog/mentorship-program/) for more individual mentoring. [Attend an info session](http://pad.software-carpentry.org/mentorship-info) to learn more about the program and share your thoughts on how we can best support our instructor community.  
+
+#### What you may have missed on the blog and mailing lists  
+**The Data Carpentry Blog** has debuted four new series in the past two months. We’re very excited about the guest posts from community members and are looking forward to new community contributions! Please contact [ebecker@datacarpentry.org](mailto: ebecker@datacarpentry.org) if you’d like to contribute.
+
+- **Data in the Field**
+    - [Making use of data skills](http://www.datacarpentry.org/blog/intro-data-in-field/)  
+    - [Hand-crafted relational databases for fun and science](http://www.datacarpentry.org/blog/hand-crafted-databases/)  
+    - [Climate Science and the Command Line](http://www.datacarpentry.org/blog/climate-science-and-the-command-line/)  
+    - [How I Developed a Workflow for Success in Graduate School](http://www.datacarpentry.org/blog/schmidt/)  
+    - Look for upcoming posts from Carpentry community members about how they use data skills in their work.
+- **Building Community**
+    - [Building Genomics Data Analysis Capacity at NWU](http://www.datacarpentry.org/blog/genomics-nwu/)  
+    - [Discovering the data science community, becoming part of it, and expanding it](http://www.datacarpentry.org/blog/discovering/)  
+- **Science of Learning**
+    - [Responding to your learners](http://www.datacarpentry.org/blog/formative-assessment/)  
+    - [I think I can - Self-efficacy and the Carpentry Learner](http://www.datacarpentry.org/blog/self-efficacy/)  
+    - [Belonging: Developing a Community of Practice among Data Carpentry Learners](http://www.datacarpentry.org/blog/belonging/)  
+    - [Growth Mindset](http://www.datacarpentry.org/blog/growth-mindset/)  
+- **Why We Teach What We Teach**
+    - [R Ecology Lessons](http://www.datacarpentry.org/blog/rlesson/)  
+    - [Python Ecology Lessons](http://www.datacarpentry.org/blog/why-python/)  
+
+[Making art with Python.](https://software-carpentry.org/blog/2016/12/art-with-python.html)  
+[Community Service Awards 2016.](https://software-carpentry.org/blog/2016/12/community-service-awards.html)  
+[How to assess learners in programming classes?](http://lists.software-carpentry.org/pipermail/discuss/2016-December/004924.html)  
+[Developing HPC lessons for novices.](http://lists.software-carpentry.org/pipermail/discuss/2016-December/004912.html)  
+[Python installers for Windows.](http://lists.software-carpentry.org/pipermail/discuss/2016-December/004905.html)  
+[Research in Action podcast with Tracy Teal](http://ecampus.oregonstate.edu/research/podcast/e31/)  
+
+#### Community Job postings  
+- The UCSF Library Data Science Initiative is hiring a [Scientific Lead](https://software-carpentry.org/blog/2016/11/ucsf-is-hiring.html).  
+- The Jackson Laboratory is hiring a [software engineer](https://software-carpentry.org/blog/2016/11/jackson-software-eng.html), [research scientist](https://software-carpentry.org/blog/2016/11/jackson-carter-res-sci.html), [a systems biology postdoc](https://software-carpentry.org/blog/2016/11/jackson-churchill-postdoc.html), and a [computational genetics postdoc](https://software-carpentry.org/blog/2016/11/jackson-carter-postdoc.html).  
+- RStudio maintains a [directory](https://software-carpentry.org/blog/2016/11/rstudio-instructors.html) of people who provide training and consulting for R.  
+- University College London is hiring a [systems manager](https://software-carpentry.org/blog/2016/12/ucl-sysadmin-job.html) to work in the Department of Physics and Astronomy.  
+
+#### Other places to connect  
+Going to a workshop or conference, add the details to our [events etherpad](http://pad.software-carpentry.org/swc-events-meetup) and meet other carpenters.  
+Twitter - [Software Carpentry](https://twitter.com/swcarpentry) / [Data Carpentry](https://twitter.com/datacarpentry)  
+[Slack](https://swc-slack-invite.herokuapp.com/)  
+GitHub - [Software Carpentry](https://github.com/swcarpentry) / [Data Carpentry](https://github.com/datacarpentry)  
+[LinkedIn](https://www.linkedin.com/groups/8279689/profile)  
+[Facebook](https://www.facebook.com/carpentries/)  
+
+Have something you’d like to have included send it to [newsletter@carpentries.org](mailto:newsletter@carpentries.org).  
+
+*******
 
 ### November 2016 
 
