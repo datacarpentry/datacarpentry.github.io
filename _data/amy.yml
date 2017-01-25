@@ -2708,6 +2708,16 @@ badges:
   - {awarded: '2017-01-24', name: Helen Lindsay, user: lindsay_helen}
   - {awarded: '2017-01-24', name: Jarek Bryk, user: bryk_jarek}
   - {awarded: '2017-01-24', name: Tom Hohenstein, user: hohenstein_tom}
+  - {awarded: '2017-01-25', name: Liz Ing-Simmons, user: ing-simmons_liz}
+  - {awarded: '2017-01-25', name: Maxim Belkin, user: belkin_maxim}
+  - {awarded: '2017-01-25', name: Rob Burnap, user: burnap_rob}
+  - {awarded: '2017-01-25', name: Linh Ngo, user: ngo_linh}
+  - {awarded: '2017-01-25', name: Carolyn Voter, user: voter_carolyn}
+  - {awarded: '2017-01-25', name: Andrew Fraser, user: fraser_andrew}
+  - {awarded: '2017-01-25', name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
+  - {awarded: '2017-01-25', name: Lauren Ko, user: ko_lauren}
+  - {awarded: '2017-01-25', name: Thomas Morrell, user: morrell_thomas}
+  - {awarded: '2017-01-25', name: Jeremy Zucker, user: zucker_jeremy}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3226,6 +3236,11 @@ badges:
   - {awarded: '2017-01-25', name: Kathryn Huff, user: huff_k}
   - {awarded: '2017-01-25', name: Jon Pipitone, user: pipitone_j}
   - {awarded: '2017-01-25', name: Noushin Ghaffari, user: ghaffari_noushin}
+  - {awarded: '2017-01-25', name: Marianna Foos, user: foos_marianna}
+  - {awarded: '2017-01-25', name: Pariksheet Nanda, user: nanda_pariksheet}
+  - {awarded: '2017-01-25', name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
+  - {awarded: '2017-01-25', name: Thomas Morrell, user: morrell_thomas}
+  - {awarded: '2017-01-25', name: Jeremy Zucker, user: zucker_jeremy}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3281,7 +3296,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170125T220003Z
+timestamp: 20170125T230002Z
 workshops:
 - &id002
   - address: Li Ka Shing Center for Learning and Knowledge Room LK120, 291 Campus
