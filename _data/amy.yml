@@ -3278,7 +3278,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170125T180002Z
+timestamp: 20170125T190003Z
 workshops:
 - &id002
   - address: Li Ka Shing Center for Learning and Knowledge Room LK120, 291 Campus
