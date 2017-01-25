@@ -3223,6 +3223,9 @@ badges:
   - {awarded: '2016-12-20', name: Constantine Zakkaroff, user: zakkaroff_constantine}
   - {awarded: '2017-01-24', name: Helen Lindsay, user: lindsay_helen}
   - {awarded: '2017-01-24', name: Tara Webster, user: webster_tara}
+  - {awarded: '2017-01-25', name: Kathryn Huff, user: huff_k}
+  - {awarded: '2017-01-25', name: Jon Pipitone, user: pipitone_j}
+  - {awarded: '2017-01-25', name: Noushin Ghaffari, user: ghaffari_noushin}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3278,7 +3281,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170125T210002Z
+timestamp: 20170125T220003Z
 workshops:
 - &id002
   - address: Li Ka Shing Center for Learning and Knowledge Room LK120, 291 Campus
