@@ -2,7 +2,7 @@
 layout: post
 subheadline: "Building Community"
 title: "The Community of Carpentry Enthusiasts at the University of Wisconsin"
-teaser: ”"
+teaser:
 header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
