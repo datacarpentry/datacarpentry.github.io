@@ -38,12 +38,11 @@ work focused on frequentist approaches.
 **Ann:**  I first appreciated statisticians when I brought a difficult experimental result to a university statistics consulting
 department and the statistician both solved the problem and taught me to do bootstrapping in SAS (back then it it was a new tool, 
 biologists had not heard of this). I then convinced my advisor
-that this was the right analysis. Gail, I salute you!  http://www.une.edu/people/gail-e-tudor. Then Susan Simmons and the
+that this was the right analysis. [Gail, I salute you!](http://www.une.edu/people/gail-e-tudor). Then Susan Simmons and the
 other statistics faculty at UNCW continued to educate me...I especially remember learning about Bayes’ theorem from Ed and Susan,
-and Susan explaining known-truth simulations and validation to me (which has let to an ongoing cyberinfrastructure project with
-many great students from computer science and statistics, http://www.cyverse.org/news/passing-big-data-test). I am now working 
-toward understanding causal calculus, tensors, and U-statistics with patient tutelage from Yishi Wang and Cuixian Chen
-(https://arxiv.org/abs/1611.04619). There is always more fun stuff to learn. I have no intention of being an expert --
+and Susan explaining known-truth simulations and validation to me (which has let to an [ongoing cyberinfrastructure project](http://www.cyverse.org/news/passing-big-data-test) with
+many great students from computer science and statistics). I am now working 
+toward understanding causal calculus, tensors, and U-statistics with patient tutelage from [Yishi Wang and Cuixian Chen](https://arxiv.org/abs/1611.04619). There is always more fun stuff to learn. I have no intention of being an expert --
 and I don’t have enough formal math -- but I can bring lots of disparate and interesting data and methods to the table.  
 
 ## What should you expect as you start down this path?  
