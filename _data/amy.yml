@@ -3296,9 +3296,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170128T050002Z
+timestamp: 20170128T060004Z
 workshops:
 - &id002
+  - address: 136 Harrison Avenue, Boston, Massachusetts
+    contact: Brigitte.Huber@tufts.edu
+    country: us
+    end: 2017-01-27
+    eventbrite_id: '10609823497'
+    humandate: Jan 26-27, 2017
+    latitude: 42.35013
+    longitude: -71.061511
+    slug: 2017-01-26-tufts
+    start: 2017-01-26
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2017-01-26-tufts/
+    venue: Tufts University Sackler School of Graduate Biomedical Sciences
   - address: Li Ka Shing Center for Learning and Knowledge Room LK120, 291 Campus
       Drive, Stanford, California, 94305
     contact: mcyert@stanford.edu
@@ -4765,19 +4779,5 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2017-02-09-farmington/
     venue: The Jackson Laboratory for Genomic Medicine
-  - address: 136 Harrison Avenue, Boston, Massachusetts
-    contact: Brigitte.Huber@tufts.edu
-    country: US
-    end: 2017-01-27
-    eventbrite_id: '10609823497'
-    humandate: Jan 26-27, 2017
-    latitude: 42.35013
-    longitude: -71.061511
-    slug: 2017-01-26-tufts
-    start: 2017-01-26
-    tags:
-    - {name: DC}
-    url: https://smcclatchy.github.io/2017-01-26-tufts/
-    venue: Tufts University Sackler School of Graduate Biomedical Sciences
 workshops_current: *id001
 workshops_past: *id002
