@@ -1,6 +1,6 @@
 ---
 layout: post  
-subheadline: “Instructor Training"  
+subheadline: Instructor Training   
 title: "Moving Forward"  
 teaser:  
 header:  
