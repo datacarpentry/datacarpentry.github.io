@@ -176,25 +176,6 @@ This workshop is co-developed with the National Ecological Observatory Network [
 
 <hr>
 
-### Social Science Materials
-
-This is not yet a full workshop, but we have a lesson focused on text mining in R
-
-<table class="table table-striped">
-  <tr>
-    <th>Lesson</th>
-    <th>Material</th>
-    <th>Maintainer(s)</th>
-  </tr>
-  <tr>
-    <td>Social sciences text mining</td>
-    <td><a href="{{site.dc_github_repo_url}}/textmining-socialsci" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td>Ben Marwick</td>
-  </tr>
-</table>
-
-<hr>
-
 ### Biology Semester-long Course
 
 The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/)
