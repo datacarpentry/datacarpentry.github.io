@@ -3303,7 +3303,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170203T220003Z
+timestamp: 20170203T230005Z
 workshops:
 - &id002
   - address: 136 Harrison Avenue, Boston, Massachusetts
