@@ -3303,7 +3303,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170206T150003Z
+timestamp: 20170206T160005Z
 workshops:
 - &id002
   - address: 136 Harrison Avenue, Boston, Massachusetts
@@ -4772,6 +4772,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
+    contact: likit.pre@mahidol.edu
+    country: TH
+    end: 2017-02-13
+    eventbrite_id: '31734712379'
+    humandate: Feb 12-13, 2017
+    latitude: 18.808277
+    longitude: 98.954987
+    slug: 2017-02-12-Chiangmai-data
+    start: 2017-02-12
+    tags:
+    - {name: DC}
+    url: https://likit.github.io/2017-02-12-Chiangmai-data/
+    venue: Chiangmai University
   - address: 10 Discovery Drive, Farmington, Connecticut
     contact: susan.mcclatchy@jax.org
     country: US
