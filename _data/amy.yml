@@ -991,6 +991,7 @@ airports:
   name: Seattle, WA
 - country: us
   instructors:
+  - {name: Erin Alison Becker, user: becker_erin}
   - {name: Lukas Blakk, user: blakk_lukas}
   - {name: Matthew Brett, user: brett_matthew}
   - {name: Brandon Curtis, user: curtis_b}
@@ -3294,7 +3295,7 @@ badges:
   - {awarded: '2016-07-12', name: Lex Nederbragt, user: nederbragt_l}
   - {awarded: '2016-09-26', name: Karin Lagesen, user: lagesen_k}
   - {awarded: '2016-09-26', name: Anelda van der Walt, user: van-der-walt_anelda}
-  - {awarded: '2016-10-17', name: Erin Becker, user: becker_erin}
+  - {awarded: '2016-10-17', name: Erin Alison Becker, user: becker_erin}
   - {awarded: '2016-10-17', name: Rayna Michelle Harris, user: harris_rayna}
   - {awarded: '2016-12-16', name: Belinda Katherine Weaver, user: weaver_belinda}
   - {awarded: '2016-12-16', name: Alistair Walsh, user: walsh_alistair}
@@ -3303,7 +3304,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170207T160002Z
+timestamp: 20170207T170004Z
 workshops:
 - &id002
   - address: 136 Harrison Avenue, Boston, Massachusetts
