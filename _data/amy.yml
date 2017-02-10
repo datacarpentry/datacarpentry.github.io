@@ -2,6 +2,7 @@ airports:
 - country: us
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
+  - {name: Andrew McLeod Fraser, user: fraser_andrew}
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
@@ -69,6 +70,7 @@ airports:
   - {name: Sheldon McKay, user: mckay_sheldon}
   - {name: James Mickley, user: mickley_james}
   - {name: R. David Murray, user: murray_david}
+  - {name: Pariksheet Nanda, user: nanda_pariksheet}
   - {name: Timothy Moore, user: moore_timothy}
   - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Sandeep Namburi, user: namburi_sandeep}
@@ -130,6 +132,7 @@ airports:
   - {name: Thomas Ballinger, user: ballinger_thomas}
   - {name: Trevor Bekolay, user: bekolay_trevor}
   - {name: Daina Bouquin, user: bouquin_daina}
+  - {name: Marianna Foos, user: foos_marianna}
   - {name: Bob Freeman, user: freeman_robert}
   - {name: Ivan Gonzalez, user: gonzalez_ivan}
   - {name: Radhika Khetani, user: khetani_radhika}
@@ -150,6 +153,7 @@ airports:
   - {name: Shiklomanov Alexey, user: shiklomanov_alexey}
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
   - {name: Michael Connell, user: connell_michael}
+  - {name: Tom Hohenstein, user: hohenstein_tom}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -163,7 +167,6 @@ airports:
   name: Bristol
 - country: us
   instructors:
-  - {name: Erik Bray, user: bray_e}
   - {name: Justin Ely, user: ely_j}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
@@ -228,6 +231,8 @@ airports:
   - {name: Neal Davis, user: davis_neal}
   - {name: Kathryn Huff, user: huff_k}
   - {name: David LeBauer, user: lebauer_david}
+  - {name: Maxim Belkin, user: belkin_maxim}
+  - {name: Dena Lynn Strong, user: strong_dena}
   latitude: 40.039167
   longitude: -88.278056
   name: Urbana-Champaign, IL
@@ -296,6 +301,7 @@ airports:
   - {name: Kevin Vilbig, user: vilbig_kevin}
   - {name: Rohit Rawat, user: rawat_rohit}
   - {name: Anna Williford, user: williford_anna}
+  - {name: Lauren Ko, user: ko_lauren}
   latitude: 32.896389
   longitude: -97.0375
   name: Dallas-Fort Worth, TX
@@ -389,6 +395,7 @@ airports:
   - {name: Jacob Levernier, user: levernier_jacob}
   - {name: Jim Stapleton, user: stapleton_jim}
   - {name: Matthew Peterson, user: peterson_matthew}
+  - {name: Shawn Thomas O'Neil, user: oneil_shawn}
   latitude: 38.175662
   longitude: -85.736923
   name: Eugene, OR
@@ -483,6 +490,7 @@ airports:
   - {name: Jason Williams, user: williams_jason}
   - {name: Andreas Mueller, user: mueller_andreas}
   - {name: Joslynn Lee, user: lee_joslynn}
+  - {name: Lingling Jiang, user: jiang_lingling}
   - {name: Afrah Shafquat, user: shafquat_afrah}
   - {name: Jeremy Zucker, user: zucker_jeremy}
   latitude: 40.639722
@@ -512,6 +520,8 @@ airports:
   - {name: Joshua Nahum, user: nahum_josh}
   - {name: Sean Pue, user: pue_s}
   - {name: Jorden Schossau, user: schossau_j}
+  - {name: Nicholas Louis Panchy, user: panchy_nicholas}
+  - {name: Scott Allen Funkhouser, user: funkhouser_scott}
   latitude: 42.778611
   longitude: -84.587222
   name: Lansing, MI
@@ -605,7 +615,6 @@ airports:
   - {name: Sreekumar Balan, user: balan_sreekumar}
   - {name: Dave Wright, user: wright_dave}
   - {name: Daniel Buchan, user: buchan_daniel}
-  - {name: Jarek Bryk, user: bryk_jarek}
   - {name: Martin Carr, user: carr_martin}
   - {name: Christopher Cooper, user: cooper_christopher}
   - {name: Katerina Michalickova, user: michalickova_katerina}
@@ -645,6 +654,7 @@ airports:
   - {name: Ahmad Alam, user: alam_ahmad}
   - {name: Simone Di Cola, user: dicola_simone}
   - {name: Suzanne Embury, user: embury_suzanne}
+  - {name: Jarek Bryk, user: bryk_jarek}
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
   - {name: Nick James, user: james_nick}
   latitude: 53.353611
@@ -738,6 +748,7 @@ airports:
   - {name: Laura DeCicco, user: decicco_laura}
   - {name: Lindsay Carr, user: carr_lindsay}
   - {name: Michelle Craft, user: craft_michelle}
+  - {name: Carolyn Breden Voter, user: voter_carolyn}
   latitude: 43.139722
   longitude: -89.3375
   name: Madison, WI
@@ -844,6 +855,7 @@ airports:
   name: Chicago O'Hare, IL
 - country: fr
   instructors:
+  - {name: Erik Bray, user: bray_e}
   - {name: Alexandre Gramfort, user: gramfort_a}
   - {name: Konrad Hinsen, user: hinsen_k}
   - {name: Maria Teleńczuk, user: telenczuk_maria}
@@ -985,6 +997,7 @@ airports:
   - {name: Hsi-Kai Yang, user: yang_hsi-kai}
   - {name: Allison Smith, user: smith_allison}
   - {name: Jes Ford, user: ford_jes}
+  - {name: Meredith Rawls, user: rawls_meredith}
   - {name: Jeffrey Arnold, user: arnold_jeffrey}
   latitude: 47.448889
   longitude: -122.309167
@@ -1012,6 +1025,7 @@ airports:
   - {name: Megan Laurance, user: laurance_megan}
   - {name: Stuart Geiger, user: geiger_stuart}
   - {name: Lachlan Deer, user: deer_lachlan}
+  - {name: Geoffrey Boushey, user: boushey_geoffrey}
   - {name: Miriam B Goodman, user: goodman_miriam}
   latitude: 37.618889
   longitude: -122.374722
@@ -1080,6 +1094,7 @@ airports:
   - {name: Jessica Kerr, user: kerr_j}
   - {name: Jeramia Ory, user: ory_j}
   - {name: Neem Serra, user: serra_neem}
+  - {name: Bo Ji, user: ji_bo_2}
   latitude: 38.7475
   longitude: -90.359722
   name: St. Louis, MO
@@ -1179,6 +1194,7 @@ airports:
   instructors:
   - {name: Ross Dickson, user: dickson_r}
   - {name: Chris Matthew Geroux, user: geroux_chris}
+  - {name: Daniel Deveau, user: deveau_daniel}
   latitude: 44.880833
   longitude: -63.508611
   name: Halifax
@@ -1466,6 +1482,7 @@ airports:
   instructors:
   - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
   - {name: Patricia Carbajales-Dale, user: carbajales_patricia}
+  - {name: Linh B Ngo, user: ngo_linh}
   latitude: 34.8956985
   longitude: -82.2189026
   name: Greenville Spartanburg, SC
@@ -2701,27 +2718,27 @@ badges:
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
   - {awarded: '2017-01-04', name: Fanie Riekert, user: riekert_fanie}
   - {awarded: '2017-01-16', name: Laura Fortunato, user: fortunato_laura}
-  - {awarded: '2017-01-18', name: Nicholas Panchy, user: panchy_nicholas}
+  - {awarded: '2017-01-18', name: Nicholas Louis Panchy, user: panchy_nicholas}
   - {awarded: '2017-01-18', name: Yuka Takemon, user: takemon_yuka}
-  - {awarded: '2017-01-20', name: Dena Strong, user: strong_dena}
+  - {awarded: '2017-01-20', name: Dena Lynn Strong, user: strong_dena}
   - {awarded: '2017-01-20', name: Katherine Todd-Brown, user: todd-brown_katherine}
-  - {awarded: '2017-01-20', name: Shawn O'Neil, user: oneil_shawn}
+  - {awarded: '2017-01-20', name: Shawn Thomas O'Neil, user: oneil_shawn}
   - {awarded: '2017-01-24', name: Helen Lindsay, user: lindsay_helen}
   - {awarded: '2017-01-24', name: Jarek Bryk, user: bryk_jarek}
   - {awarded: '2017-01-24', name: Tom Hohenstein, user: hohenstein_tom}
   - {awarded: '2017-01-25', name: Liz Ing-Simmons, user: ing-simmons_liz}
   - {awarded: '2017-01-25', name: Maxim Belkin, user: belkin_maxim}
   - {awarded: '2017-01-25', name: Rob Burnap, user: burnap_rob}
-  - {awarded: '2017-01-25', name: Linh Ngo, user: ngo_linh}
-  - {awarded: '2017-01-25', name: Carolyn Voter, user: voter_carolyn}
-  - {awarded: '2017-01-25', name: Andrew Fraser, user: fraser_andrew}
+  - {awarded: '2017-01-25', name: Linh B Ngo, user: ngo_linh}
+  - {awarded: '2017-01-25', name: Carolyn Breden Voter, user: voter_carolyn}
+  - {awarded: '2017-01-25', name: Andrew McLeod Fraser, user: fraser_andrew}
   - {awarded: '2017-01-25', name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {awarded: '2017-01-25', name: Lauren Ko, user: ko_lauren}
   - {awarded: '2017-01-25', name: Thomas Morrell, user: morrell_thomas}
   - {awarded: '2017-01-25', name: Jeremy Zucker, user: zucker_jeremy}
   - {awarded: '2017-02-02', name: Mary Shelley, user: shelley_mary}
   - {awarded: '2017-02-02', name: Jarrett Byrnes, user: byrnes_jarrett}
-  - {awarded: '2017-02-03', name: Scott Funkhouser, user: funkhouser_scott}
+  - {awarded: '2017-02-03', name: Scott Allen Funkhouser, user: funkhouser_scott}
   - {awarded: '2017-02-07', name: Geoffrey Boushey, user: boushey_geoffrey}
   - {awarded: '2017-02-07', name: Meredith Rawls, user: rawls_meredith}
   - {awarded: '2017-02-07', name: Nicholas Knoblauch, user: knoblauch_nicholas}
@@ -3235,7 +3252,7 @@ badges:
   - {awarded: '2017-01-16', name: Harriet Alexander, user: alexander_harriet}
   - {awarded: '2017-01-16', name: Laura Fortunato, user: fortunato_laura}
   - {awarded: '2017-01-18', name: Yuka Takemon, user: takemon_yuka}
-  - {awarded: '2017-01-20', name: Dena Strong, user: strong_dena}
+  - {awarded: '2017-01-20', name: Dena Lynn Strong, user: strong_dena}
   - {awarded: '2017-01-20', name: Katherine Todd-Brown, user: todd-brown_katherine}
   - {awarded: '2016-12-20', name: Likit Preeyanon, user: preeyanon_likit}
   - {awarded: '2016-12-20', name: Constantine Zakkaroff, user: zakkaroff_constantine}
@@ -3310,7 +3327,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170210T190004Z
+timestamp: 20170210T200005Z
 workshops:
 - &id002
   - address: 136 Harrison Avenue, Boston, Massachusetts
