@@ -3327,7 +3327,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, us,
     za]
-timestamp: 20170213T170005Z
+timestamp: 20170213T180003Z
 workshops:
 - &id002
   - address: 10 Discovery Drive, Farmington, Connecticut
@@ -4810,6 +4810,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: PACCAR 202, Pullman, WA
+    contact: stephanie.labou@wsu.edu
+    country: US
+    end: 2017-03-21
+    eventbrite_id: ''
+    humandate: Mar 20-21, 2017
+    latitude: 46.7298
+    longitude: -117.1817
+    slug: 2017-03-20-wsu
+    start: 2017-03-20
+    tags:
+    - {name: DC}
+    url: https://stephlabou.github.io/2017-03-20-wsu/
+    venue: Washington State University
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
     contact: likit.pre@mahidol.edu
     country: TH
