@@ -29,5 +29,5 @@ Now, let’s think about how we teach Data Carpentry lessons. Ultimately, all le
 Recognizing how transfer of learning can be used to teach our lessons can also improve our ability to assess learner’s skills and confidence. As learning is an active and dynamic process, learners have the ability to improve their learning by participating in dynamic assessment (i.e. the challenges throughout our lessons). These challenges promote metacognition, or, awareness and understanding of one’s thought process.
 
 Think about your own learning. What are some examples of past experiences that have affected your learning or performing in a new situation? In particular, can you think of a time when you were able to transfer knowledge from either near or far? Did that help you learn programming? Teach programming? Share your experience below--you may just help someone.
-___   
+
 [1]  Cleary; Brown, AS; Sawyer, BD; Nomi, JS; Ajoku, AC; Ryals, AJ; et al. (2012). "Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation". Consciousness and Cognition. 21 (2): 969–975. DOI: [10.1016/j.concog.2011.12.010](http://www.sciencedirect.com/science/article/pii/S1053810012000049). PMID: [22322010](https://www.ncbi.nlm.nih.gov/pubmed/22322010). 
