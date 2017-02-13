@@ -16,10 +16,10 @@ Have you ever experienced [déja vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A
 Déja vu is a *feeling* of recollection--the feeling that you lived through an experience already. Studies have shown that similar spatial layouts between the new scene and the scene in your memory may contribute to the experience [1]. This idea of linking past and present experiences can be applied to teaching and learning. One theory, [Transfer of Learning](https://en.wikipedia.org/wiki/Transfer_of_learning), describes how past experiences (transfer tasks) affect performing in new situations (learning tasks). 
 
 Transfer of learning depends on how similar the tasks (learning vs. transfer) are:
- ```
-Near transfer: Transfer of knowledge between similar contexts.
+
+Near transfer: Transfer of knowledge between similar contexts.   
 Far transfer: Transfer of knowledge between dissimilar contexts.
-```
+
 For example, when I took my first MATLAB course in college, I relied on my previous high school experience programming in [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)): *near transfer*.
 
 When I learned to do [clean and jerks](https://en.wikipedia.org/wiki/Clean_and_jerk) in my weightlifting class, I relied on my knowledge of vectors from geometry to visualize where the barbell should go: *far transfer*.
