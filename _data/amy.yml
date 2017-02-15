@@ -2,6 +2,7 @@ airports:
 - country: us
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
+  - {name: Andrew McLeod Fraser, user: fraser_andrew}
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
@@ -69,6 +70,7 @@ airports:
   - {name: Sheldon McKay, user: mckay_sheldon}
   - {name: James Mickley, user: mickley_james}
   - {name: R. David Murray, user: murray_david}
+  - {name: Pariksheet Nanda, user: nanda_pariksheet}
   - {name: Timothy Moore, user: moore_timothy}
   - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Sandeep Namburi, user: namburi_sandeep}
@@ -130,6 +132,7 @@ airports:
   - {name: Thomas Ballinger, user: ballinger_thomas}
   - {name: Trevor Bekolay, user: bekolay_trevor}
   - {name: Daina Bouquin, user: bouquin_daina}
+  - {name: Marianna Foos, user: foos_marianna}
   - {name: Bob Freeman, user: freeman_robert}
   - {name: Ivan Gonzalez, user: gonzalez_ivan}
   - {name: Radhika Khetani, user: khetani_radhika}
@@ -150,6 +153,7 @@ airports:
   - {name: Shiklomanov Alexey, user: shiklomanov_alexey}
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
   - {name: Michael Connell, user: connell_michael}
+  - {name: Tom Hohenstein, user: hohenstein_tom}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -163,7 +167,6 @@ airports:
   name: Bristol
 - country: us
   instructors:
-  - {name: Erik Bray, user: bray_e}
   - {name: Justin Ely, user: ely_j}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
@@ -228,6 +231,8 @@ airports:
   - {name: Neal Davis, user: davis_neal}
   - {name: Kathryn Huff, user: huff_k}
   - {name: David LeBauer, user: lebauer_david}
+  - {name: Maxim Belkin, user: belkin_maxim}
+  - {name: Dena Lynn Strong, user: strong_dena}
   latitude: 40.039167
   longitude: -88.278056
   name: Urbana-Champaign, IL
