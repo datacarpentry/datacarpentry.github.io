@@ -21,8 +21,8 @@ complete them in any order.
 - [ ] Read the lesson carefully and work through the examples and exercises.
 - [ ] On the lesson's GitHub repository (linked from the [lessons](/lessons/) page), look at existing issues and pull requests.
 - [ ] Choose an existing issue or pull request to make a substantive comment on *or* identify a new issue or potential improvement.
-- [ ] Submit your comment or issue on GitHub or by [email](mailto:lessons@software-carpentry.org).
-- [ ] If you make your contribution through GitHub, send an email to [lessons@software-carpentry.org](mailto:lessons@software-carpentry.org) with a link to your contribution.
+- [ ] Submit your comment or issue on GitHub or by [email](mailto:checkout@carpentries.org).
+- [ ] If you make your contribution through GitHub, send an email to [checkout@carpentries.org](mailto:checkout@carpentries.org) with a link to your contribution.
 
 ### Participate in an Online Discussion Session
 - [ ] Sign up for a discussion session on [this Etherpad](http://pad.software-carpentry.org/instructor-discussion).
@@ -40,4 +40,4 @@ information about how to add yourself to our teaching roster and how to be conta
 We are excited to have you on the team and look forward to teaching with you!
 
 If you have any questions about the checkout process, please contact us at
-[lessons@software-carpentry.org](mailto:lessons@software-carpentry.org).
+[checkout@carpentries.org](checkout@carpentries.org).
