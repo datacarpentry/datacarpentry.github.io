@@ -1550,7 +1550,7 @@ airports:
   - {name: Joona Lehtomäki, user: lehtomaki_joona}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {name: Edwin van der Helm, user: van-der-helm_edwin}
-  - {name: Anit Schürch, user: schurch_anita}
+  - {name: Anita Schürch, user: schurch_anita}
   latitude: 52.309686
   longitude: 4.767438
   name: 'Amsterdam Airport Schiphol '
@@ -2697,7 +2697,7 @@ badges:
   - {awarded: '2016-09-25', name: Jennifer Hinds, user: hinds_jennifer}
   - {awarded: '2016-09-25', name: Brian Teague, user: teague_brian}
   - {awarded: '2016-10-04', name: Dmitri Rozmanov, user: rozmanov_dmitri}
-  - {awarded: '2016-10-11', name: Anit Schürch, user: schurch_anita}
+  - {awarded: '2016-10-11', name: Anita Schürch, user: schurch_anita}
   - {awarded: '2016-10-11', name: Bianca Peterson, user: peterson_bianca}
   - {awarded: '2016-10-11', name: Marco Chiapello, user: chiapello_marco}
   - {awarded: '2016-10-14', name: Afrah Shafquat, user: shafquat_afrah}
@@ -3362,7 +3362,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170216T200005Z
+timestamp: 20170216T210002Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
