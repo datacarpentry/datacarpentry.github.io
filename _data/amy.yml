@@ -2770,6 +2770,10 @@ badges:
   - {awarded: '2017-02-07', name: Nicholas Knoblauch, user: knoblauch_nicholas}
   - {awarded: '2017-02-08', name: Benjamin Stuermer, user: stuermer_benjamin}
   - {awarded: '2017-02-15', name: Clinton Roy, user: roy_clinton}
+  - {awarded: '2017-02-16', name: Eric Jankowski, user: jankowski_eric}
+  - {awarded: '2017-02-16', name: Raphaël Grolimund, user: grolimund_raphal}
+  - {awarded: '2017-02-16', name: Nicholas Marino, user: marino_nicholas}
+  - {awarded: '2017-02-16', name: Wei Le, user: le_wei}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3298,6 +3302,10 @@ badges:
   - {awarded: '2017-02-02', name: Jarrett Byrnes, user: byrnes_jarrett}
   - {awarded: '2017-02-02', name: Jessica Trelogan, user: trelogan_jessica}
   - {awarded: '2017-02-07', name: Geoffrey Boushey, user: boushey_geoffrey}
+  - {awarded: '2017-02-16', name: Nicholas Marino, user: marino_nicholas}
+  - {awarded: '2017-02-16', name: Jethro Johnson, user: johnson_jethro}
+  - {awarded: '2017-02-16', name: Wei Le, user: le_wei}
+  - {awarded: '2017-02-16', name: Erin Alison Becker, user: becker_erin}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3354,7 +3362,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170216T190004Z
+timestamp: 20170216T200005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
