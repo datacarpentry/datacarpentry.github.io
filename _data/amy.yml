@@ -2768,6 +2768,7 @@ badges:
   - {awarded: '2017-02-07', name: Meredith Rawls, user: rawls_meredith}
   - {awarded: '2017-02-07', name: Nicholas Knoblauch, user: knoblauch_nicholas}
   - {awarded: '2017-02-08', name: Benjamin Stuermer, user: stuermer_benjamin}
+  - {awarded: '2017-02-15', name: Clinton Roy, user: roy_clinton}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3352,7 +3353,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170216T000002Z
+timestamp: 20170216T010005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
