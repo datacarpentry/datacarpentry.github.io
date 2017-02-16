@@ -4,7 +4,7 @@ subheadline:
 title: "How we’re getting things done"
 teaser:
 Header:
-image_fullwidth: "light-blue-wood-texture.jpg"
+  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
   - blog
 comments: true
@@ -32,7 +32,7 @@ We’re still working out some of the details of how working in cycles will work
 first round. If there’s something you’re excited about for the next round, let us know! If you’d like to join (or organize) a team for 
 one of the next few cycles, let us know! Please post an issue on our 
 [conversations repo](https://github.com/carpentries/conversations/issues) or 
-email (ebecker@datacarpentry.org)[mailto:ebecker@datacarpentry.org].  
+email [ebecker@datacarpentry.org](mailto:ebecker@datacarpentry.org).  
 
 # Our first cycle - Cycle Prometheus (January 23rd - March 17th)    
 Our first cycle started at the end of January and goes through the middle of March. Here’s what we’re hoping to accomplish in our 
@@ -41,7 +41,7 @@ first cycle.
 ## Planning for Data Carpentry Ecology Lessons Release  
 Tracy, François Michonneau, and Erin are working on Data Carpentry’s first lesson release! In addition to starting the process for 
 releasing our Ecology lessons, we’re also working on setting up a process for future lesson releases. Based on Software Carpentry’s 
-success with the (Bug BBQ)[https://software-carpentry.org/blog/2016/05/bug-bbq-blog-post.html] last year, we’re planning an 
+success with the [Bug BBQ](https://software-carpentry.org/blog/2016/05/bug-bbq-blog-post.html) last year, we’re planning an 
 **Issue Bonanza** to coordinate community effort on preparing the lessons for release. Keep your eyes peeled for announcements and 
 ways you can contribute!  
 
@@ -51,7 +51,7 @@ organizing training events and tracking trainee progress from training through c
 training events and putting together resources for instructor trainers. We’re also streamlining the process of tracking instructor 
 trainees to make more efficient use of our staff and volunteer time. Lastly, we’re exploring our needs for new instructor trainers and 
 planning the recruitment and training process. If you’re interested in becoming an instructor trainer, please email 
-(Erin)[mailto:ebecker@datacarpentry.org] so we can keep you in the loop about future plans.  
+[Erin](mailto:ebecker@datacarpentry.org) so we can keep you in the loop about future plans.  
 
 ## New hire  
 Tracy, Jonah and Kari are working a new hire for Software and Data Carpentry. Posting coming Monday, February 20th, so keep your eye out
@@ -63,7 +63,7 @@ and post-workshop surveys for learners at Data Carpentry workshops that will be 
 assessment for learners from previous workshops to be piloted by mid-March. She’s also cleaning up code and formalizing a template for 
 regular quarterly data releases on assessment efforts. We need more Data Carpentry workshops to pilot our new surveys! Please consider 
 organizing a workshop at your institution in April. Let us know what we can do to support you in getting a workshop set-up. 
-Please email (Maneesha)[admin@datacarpentry.org].  
+Please email [Maneesha](admin@datacarpentry.org).  
 
 ## Lesson Contribution Guidelines  
 Erin, Mateusz Kuzak, Aleksandra Nenadic, Raniere Silva and Kate Hertweck are working on making it easier for new instructors and other 
@@ -87,7 +87,7 @@ We’re also continuing to work on our many ongoing projects, including (but not
 
 If you’re interested in helping with any of this ongoing work, or would like to make suggestions about what to tackle in our next cycle,
 let us know! Please post an issue on our [conversations repo](https://github.com/carpentries/conversations/issues) or 
-email (ebecker@datacarpentry.org)[mailto:ebecker@datacarpentry.org].  
+email [ebecker@datacarpentry.org](mailto:ebecker@datacarpentry.org).  
 
 Our next two cycles will be:  
 Cycle Deimos - March 20th through May 12th    
