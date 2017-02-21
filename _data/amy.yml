@@ -3379,7 +3379,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170221T190003Z
+timestamp: 20170221T200003Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
@@ -4876,6 +4876,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 1098 XG Amsterdam
+    contact: a.c.schurch@umcutrecht.nl
+    country: TH
+    end: 2017-03-23
+    eventbrite_id: '32226804239'
+    humandate: Mar 22-23, 2017
+    latitude: 52.355235
+    longitude: 4.952676
+    slug: 2017-03-22-amsterdam
+    start: 2017-03-22
+    tags:
+    - {name: DC}
+    url: https://aschuerch.github.io/2017-03-22-amsterdam/
+    venue: Amsterdam Science park
   - address: PACCAR 202, Pullman, WA
     contact: stephanie.labou@wsu.edu
     country: US
