@@ -55,5 +55,6 @@ Minutes of the joint Data and Software Carpentry Subcommittees
 
 ### Trainer Subcommittee
 
+- [17 February 2017](https://github.com/carpentries/trainers/blob/master/minutes/2017-02-17-minutes.md)  
 - [24 August 2016](https://github.com/carpentries/trainers/blob/master/minutes/2016-08-24.md)  
 - [10 August 2016](https://github.com/carpentries/trainers/blob/master/minutes/2016-08-10.md)  
