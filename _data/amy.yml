@@ -3372,12 +3372,14 @@ badges:
   - {awarded: '2017-02-09', name: Kari Jordan, user: jordan_kari}
   - {awarded: '2017-02-21', name: Jason Williams, user: williams_jason}
   - {awarded: '2017-02-21', name: Karen Cranston, user: cranston_k}
+  - {awarded: '2017-02-21', name: Allegra Via, user: via_allegra}
+  - {awarded: '2017-02-21', name: Mateusz Kuzak, user: kuzak_mateusz}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170221T170003Z
+timestamp: 20170221T180005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
