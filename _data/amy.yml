@@ -389,6 +389,7 @@ airports:
   - {name: Rupert Nash, user: nash_rupert}
   - {name: Alexey Tarutin, user: tarutin_alexey}
   - {name: Adrian Jackson, user: jackson_adrian}
+  - {name: Robin Rice, user: rice_robin}
   latitude: 55.95
   longitude: -3.3725
   name: Edinburgh
@@ -1081,6 +1082,7 @@ airports:
   - {name: Robin Wilson, user: wilson_r}
   - {name: Olivier Philippe, user: philippe_olivier}
   - {name: Don Cruickshank, user: cruickshank_don}
+  - {name: Priyanka Singh, user: singh_priyanka}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
@@ -3381,7 +3383,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170222T180007Z
+timestamp: 20170222T190005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
