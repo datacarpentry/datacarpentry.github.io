@@ -654,6 +654,7 @@ airports:
   - {name: Stuart Mumford, user: mumford_stuart}
   - {name: Seb James, user: james_sebastian}
   - {name: Gerard Capes, user: capes_gerard}
+  - {name: Ardita Shkurti, user: shkurti_ardita}
   - {name: Ahmad Alam, user: alam_ahmad}
   - {name: Simone Di Cola, user: dicola_simone}
   - {name: Suzanne Embury, user: embury_suzanne}
@@ -1788,7 +1789,6 @@ airports:
   name: Santa Barbara Municipal Airport
 - country: gb
   instructors:
-  - {name: Ardita Shkurti, user: shkurti_ardita}
   - {name: Andrew Warry, user: warry_andrew}
   latitude: 52.828194
   longitude: -1.334258
@@ -3388,7 +3388,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170224T120005Z
+timestamp: 20170224T130003Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
