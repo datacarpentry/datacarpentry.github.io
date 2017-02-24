@@ -1,6 +1,6 @@
 ---
 layout: post
-subheadline: "Workshops"
+subheadline: "Community"
 title: "Run a workshop this Spring!"
 teaser: "Attend our new ‘Run a Workshop!’ office hours."
 header:
