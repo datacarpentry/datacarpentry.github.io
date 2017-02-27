@@ -1,17 +1,16 @@
 ---
 layout: post
-subheadline:
-title: "A Year to Build a Software and Data Carpentry Community at the University of Florida - The Impact of a Local Instructor Training Workshop on Building Computing Capacity"
-teaser:
+subheadline: "Building Community"  
+title: A Year to Build a Software and Data Carpentry Community at the University of Florida - The Impact of a Local Instructor Training Workshop on Building Computing Capacity
+teaser: 
 header:
   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
   - blog
 comments: true
 show_meta: true
-authors: ["Matthew Collins", "François Michonneau", "Brian Stucky", "Ethan White"]
-date: 2017-02-22
-time: 14:50
+authors: ["Matthew Collins, François Michonneau, Brian Stucky, Ethan White"]
+date: 2017-02-27
 ---
 
 This January was the one year anniversary of our effort to bring regular
