@@ -4,9 +4,9 @@ subheadline:
 title: Ecology Issue Bonanza!!!
 teaser: We’re planning our first lesson release - learn how you can contribute!
 header:
-image_fullwidth: "light-blue-wood-texture.jpg"
+  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
-- blog
+  - blog
 comments: true
 show_meta: true
 authors: [Erin Becker, Francois Michonneau, Tracy Teal]
