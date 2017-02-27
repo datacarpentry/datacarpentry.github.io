@@ -3,7 +3,7 @@ layout: post
 subheadline:
 title: Ecology Issue Bonanza!!!
 teaser: We’re planning our first lesson release - learn how you can contribute!
-Header:
+header:
 image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
 - blog
