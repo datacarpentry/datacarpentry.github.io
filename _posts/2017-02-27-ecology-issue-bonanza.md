@@ -51,7 +51,7 @@ and typos too! We strongly encourage folks to form local or distributed working 
 BlueJeans rooms for you to join in the effort along with a checklist of the types of issues to look for. We’ll also send a packet of 
 Data Carpentry swag to any group of five or more who collectively create at least twenty meaningful issues. 
 
-If you’re planning on joining the Issue Bonanza - add your name to the event Etherpad. Stay tuned for updates about Bonanza events and 
+If you’re planning on joining the Issue Bonanza - add your name to the [event Etherpad](http://pad.software-carpentry.org/ecology-issue-bonanza). Stay tuned for updates about Bonanza events and 
 how to organize your working group!  
 
 ## Bug BBQ  
