@@ -46,7 +46,7 @@ Click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data
 to see the event in your local time.  
 
 Join the community in a hacky-day dedicated to creating issues and simple PRs for cleaning up the Ecology lessons. Issues to focus on 
-are in the lesson release checklist. You don’t need to be an expert in the materials - we need people to help search for broken links 
+are in the [lesson release checklist](https://github.com/datacarpentry/lesson-release/blob/master/release-checklist.md). You don’t need to be an expert in the materials - we need people to help search for broken links 
 and typos too! We strongly encourage folks to form local or distributed working groups to catalyze activity. We’ll provide Etherpads and 
 BlueJeans rooms for you to join in the effort along with a checklist of the types of issues to look for. We’ll also send a packet of 
 Data Carpentry swag to any group of five or more who collectively create at least twenty meaningful issues. 
