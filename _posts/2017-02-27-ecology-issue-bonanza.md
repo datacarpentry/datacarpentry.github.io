@@ -18,13 +18,13 @@ We’re excited to announce our first lesson release! Data Carpentry is preparin
 lessons. This enables referenced discussions of the lesson materials and gives contributors a verifiable product to cite on their CVs 
 or resumes.  
 
-This lesson release will include the following repos:
-[Ecology Workshop Overview](https://github.com/datacarpentry/ecology-workshop)
-[Ecology Spreadsheets Lesson](https://github.com/datacarpentry/spreadsheet-ecology-lesson/)
-[Ecology OpenRefine Lesson](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)
-[Ecology SQL Lesson](https://github.com/datacarpentry/sql-ecology-lesson)
-[Ecology R Lesson](https://github.com/datacarpentry/R-ecology-lesson)
-[Ecology Python Lesson](https://github.com/datacarpentry/python-ecology-lesson/)
+This lesson release will include the following repos:  
+- [Ecology Workshop Overview](https://github.com/datacarpentry/ecology-workshop)  
+- [Ecology Spreadsheets Lesson](https://github.com/datacarpentry/spreadsheet-ecology-lesson/)  
+- [Ecology OpenRefine Lesson](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)  
+- [Ecology SQL Lesson](https://github.com/datacarpentry/sql-ecology-lesson)  
+- [Ecology R Lesson](https://github.com/datacarpentry/R-ecology-lesson)  
+- [Ecology Python Lesson](https://github.com/datacarpentry/python-ecology-lesson/)  
 
 # Get involved!  
 If you’ve made a contribution to one of the Data Carpentry Ecology lessons, you’re already an author. Help make sure the final product 
