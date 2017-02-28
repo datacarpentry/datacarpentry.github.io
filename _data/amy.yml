@@ -3389,7 +3389,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170228T160003Z
+timestamp: 20170228T170003Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
@@ -4903,7 +4903,7 @@ workshops:
     venue: Cathie Marsh Institute for Social Reseach, University of Manchester
   - address: 1098 XG Amsterdam
     contact: a.c.schurch@umcutrecht.nl
-    country: TH
+    country: NL
     end: 2017-03-23
     eventbrite_id: '32226804239'
     humandate: Mar 22-23, 2017
