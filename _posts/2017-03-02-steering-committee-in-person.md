@@ -31,7 +31,7 @@ We are excited for future opportunities and want to continue to focus on the com
 **Motion: We will begin a discussion with the Software Carpentry steering committee
 about a merger into a joint organization.**
 
-*Software Carpentry and Data Carpentry are two independently established and operated organizations, but we share a common goal of promoting education in reproducible science skills, both in data literacy (DC) and software development (SWC) and values of community. We work together to implement shared policies, memberships and coordinate staff and leadership. Given the increasing levels of integration between DC and SWC, the Data Carpentry Steering Committee passed this motion to begin discussions.*
+*Software Carpentry and Data Carpentry are two independently established and operated organizations, but we share a common goal of promoting education in reproducible science skills, both in data literacy (DC) and software development (SWC) and values of community. We work together to implement shared policies, memberships and coordinate staff and leadership. Given the increasing levels of integration between DC and SWC, the Data Carpentry Steering Committee passed this motion to begin discussions. Software Carpentry has [passed the same motion](https://software-carpentry.org/blog/2017/02/merger-discussion.html).*
 
 **Motion: A major focus of staff effort over over the next 6 months will be to finalize the
 existing Ecology, Genomics and Geospatial lessons.**
