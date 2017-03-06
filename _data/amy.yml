@@ -3394,7 +3394,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170306T180005Z
+timestamp: 20170306T190005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
@@ -4891,6 +4891,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 10 Discovery Drive, Farmington, Connecticut
+    contact: susan.mcclatchy@jax.org
+    country: US
+    end: 2017-04-07
+    eventbrite_id: '32553018956'
+    humandate: Apr 06-07, 2017
+    latitude: 41.732284
+    longitude: -72.793404
+    slug: 2017-04-06-farmington
+    start: 2017-04-06
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2017-04-06-farmington/
+    venue: The Jackson Laboratory for Genomic Medicine
   - address: School of Social Sciences, University of Manchester, Humanities Bridgeford
       St Building, Manchester, M13 9PL
     contact: Rachel.Gibson@manchester.ac.uka.nenadic@manchester.ac.uk
