@@ -2784,6 +2784,8 @@ badges:
   - {awarded: '2017-02-23', name: Hamish Steptoe, user: steptoe_hamish}
   - {awarded: '2017-03-01', name: Ethan Nelson, user: nelson_ethan}
   - {awarded: '2017-03-02', name: Luke Zappia, user: zappia_luke}
+  - {awarded: '2017-03-08', name: Thomas Voigt, user: voigt_thomas_2}
+  - {awarded: '2017-03-08', name: Elena Denisenko, user: denisenko_elena}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3394,7 +3396,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170308T220005Z
+timestamp: 20170308T230004Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
