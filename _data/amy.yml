@@ -124,6 +124,7 @@ airports:
   - {name: Joshua Thia, user: thia_joshua}
   - {name: Kim Keogh, user: keogh_kim}
   - {name: Marco Fahmi, user: fahmi_marco}
+  - {name: Michal Kotrbcik, user: kotrbcik_michal}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
