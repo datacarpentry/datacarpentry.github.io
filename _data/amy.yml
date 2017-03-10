@@ -1215,6 +1215,7 @@ airports:
   - {name: Olivier Lafleur, user: lafleur_olivier}
   - {name: Laurent Duchesne, user: duchesne_laurent}
   - {name: Maxime Boissonneault, user: boissonneault_maxime}
+  - {name: Félix-Antoine Fortin, user: fortin_felix-antoine}
   - {name: Julie Faure-Lacroix, user: faure-lacroix_julie}
   latitude: 46.788333
   longitude: -71.3975
@@ -3398,7 +3399,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170310T200005Z
+timestamp: 20170310T210005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
