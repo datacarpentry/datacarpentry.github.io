@@ -3399,7 +3399,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170314T200005Z
+timestamp: 20170314T210004Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
@@ -4896,6 +4896,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Millikan 9th Floor
+    contact: FIXME
+    country: US
+    end: 2017-04-27
+    eventbrite_id: ''
+    humandate: Apr 26-27, 2017
+    latitude: 34.136859
+    longitude: -118.126089
+    slug: 2017-04-26-caltech
+    start: 2017-04-26
+    tags:
+    - {name: DC}
+    url: https://caltechlibrary.github.io/2017-04-26-caltech/
+    venue: Caltech
   - address: 10 Discovery Drive, Farmington, Connecticut
     contact: susan.mcclatchy@jax.org
     country: US
