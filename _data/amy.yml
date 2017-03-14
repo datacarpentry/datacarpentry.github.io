@@ -269,7 +269,6 @@ airports:
   - {name: Ryan Dale, user: dale_ryan}
   - {name: Denise Liberton, user: liberton_denise}
   - {name: David McGaughey, user: mcgaughey_david}
-  - {name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
   - {name: Steve Bond, user: bond_s}
   - {name: Ian Carroll, user: carroll_ian}
   latitude: 38.851944
@@ -414,6 +413,7 @@ airports:
 - country: gb
   instructors:
   - {name: James Allen, user: allen_james}
+  - {name: Hamish Steptoe, user: steptoe_hamish}
   latitude: 50.734444
   longitude: -3.413889
   name: Exeter
@@ -452,6 +452,7 @@ airports:
   - {name: Adam Thomas, user: thomas_adam}
   - {name: Daniel Wheeler, user: wheeler_daniel}
   - {name: Lynn Young, user: young_lynn}
+  - {name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
   latitude: 38.944444
   longitude: -77.455556
   name: Washington Dulles, DC
@@ -1927,6 +1928,18 @@ airports:
   latitude: 44.445041
   longitude: -68.362081
   name: Hancock County-Bar Harbor Airport
+- country: de
+  instructors:
+  - {name: Liz Ing-Simmons, user: ing-simmons_liz}
+  latitude: 51.5182991
+  longitude: 7.6122398
+  name: Dortmund Airport
+- country: za
+  instructors:
+  - {name: Fanie Riekert, user: riekert_fanie}
+  latitude: -29.0926991
+  longitude: 26.3024006
+  name: J B M Hertzog International Airport
 badges:
 - name: creator
   persons:
@@ -3399,7 +3412,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170314T210004Z
+timestamp: 20170314T220005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
