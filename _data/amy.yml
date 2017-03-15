@@ -3424,7 +3424,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170315T150007Z
+timestamp: 20170315T160006Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
@@ -4964,6 +4964,20 @@ workshops:
     - {name: DC}
     url: https://anenadic.github.io/2017-03-30-manchester/
     venue: Cathie Marsh Institute for Social Reseach, University of Manchester
+  - address: Biotechnology Institute Room 102, 15 Innovation Way, Newark, DE 19711
+    contact: irem@udel.edu
+    country: US
+    end: 2017-03-30
+    eventbrite_id: '32731062489'
+    humandate: Mar 29-30, 2017
+    latitude: 39.677976
+    longitude: -75.734856
+    slug: 2017-03-29-delaware
+    start: 2017-03-29
+    tags:
+    - {name: DC}
+    url: https://udel-dc-2017.github.io/2017-03-29-udel/
+    venue: University of Delaware
   - address: 5108 Fourth Ave, Marina, California 93933
     contact: njue@csumb.edu
     country: US
