@@ -154,6 +154,7 @@ airports:
   - {name: Eric Ma, user: ma_eric}
   - {name: Shiklomanov Alexey, user: shiklomanov_alexey}
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
+  - {name: Jarrett Byrnes, user: byrnes_jarrett}
   - {name: Michael Connell, user: connell_michael}
   - {name: Tom Hohenstein, user: hohenstein_tom}
   latitude: 42.364167
@@ -231,7 +232,7 @@ airports:
 - country: us
   instructors:
   - {name: Neal Davis, user: davis_neal}
-  - {name: Kathryn Huff, user: huff_k}
+  - {name: Kathryn Dorsey Huff, user: huff_k}
   - {name: David LeBauer, user: lebauer_david}
   - {name: Maxim Belkin, user: belkin_maxim}
   - {name: Dena Lynn Strong, user: strong_dena}
