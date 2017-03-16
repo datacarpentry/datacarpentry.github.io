@@ -2816,6 +2816,7 @@ badges:
   - {awarded: '2017-03-08', name: Elena Denisenko, user: denisenko_elena}
   - {awarded: '2017-03-16', name: Stephen Childs, user: childs_stephen}
   - {awarded: '2017-03-16', name: Jim Summers, user: summers_jim}
+  - {awarded: '2017-03-16', name: Stephen Haddad, user: haddad_stephen}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3426,7 +3427,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170316T200006Z
+timestamp: 20170316T210005Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
