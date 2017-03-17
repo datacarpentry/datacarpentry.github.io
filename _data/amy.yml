@@ -924,6 +924,7 @@ airports:
 - country: us
   instructors:
   - {name: Joshua Adelman, user: adelman_joshua}
+  - {name: Lisa Zilinski, user: zilinski_lisa}
   latitude: 40.491389
   longitude: -80.232778
   name: Pittsburgh, PA
@@ -3427,7 +3428,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170317T180007Z
+timestamp: 20170317T190007Z
 workshops:
 - &id002
   - address: Su Thep, Mueang Chiang Mai District, Chiang Mai 50200
