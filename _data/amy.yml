@@ -3428,7 +3428,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, sl, th,
     us, za]
-timestamp: 20170322T160004Z
+timestamp: 20170322T170007Z
 workshops:
 - &id002
   - address: PACCAR 202, Pullman, WA
@@ -4939,6 +4939,21 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Room 3217, James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh,
+      EH9 3FD
+    contact: g.peru@epcc.ed.ac.uk; support@archer.ac.uk
+    country: GB
+    end: 2017-05-12
+    eventbrite_id: ''
+    humandate: May 11-12, 2017
+    latitude: 55.9215522
+    longitude: -3.1749893
+    slug: 2017-05-11-edinburgh
+    start: 2017-05-11
+    tags:
+    - {name: DC}
+    url: https://hpcarcher.github.io/2017-05-11-edinburgh/
+    venue: University of Edinburgh, King's Buildings, JCMB
   - address: Millikan 9th Floor
     contact: FIXME
     country: US
