@@ -8,16 +8,20 @@ permalink: "/checkout/"
 ---
 
 After finishing the two day instructor training course, you will complete three short tasks in order to become a
-certified Data Carpentry instructor. Detailed information about these tasks can be found on the [instructor
+certified Carpentry instructor. Detailed information about these tasks can be found on the [instructor
 training website](http://swcarpentry.github.io/instructor-training/checkout/). Please use the checklist below
 as a quick reference, but be sure to read the detailed instructions first.
+
+Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of 
+March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry 
+are now considered Carpentry instructors and can teach either set of curricula.
 
 Tasks are listed in the order most of our instructor trainees complete the checkout process, but you can
 complete them in any order.
 
 
 ### Submit a Lesson Contribution
-- [ ] Choose one of the Data Carpentry [lessons](/lessons/) to read in detail.
+- [ ] Choose one of our [lessons](/lessons/) to read in detail.
 - [ ] Read the lesson carefully and work through the examples and exercises.
 - [ ] On the lesson's GitHub repository (linked from the [lessons](/lessons/) page), look at existing issues and pull requests.
 - [ ] Choose an existing issue or pull request to make a substantive comment on *or* identify a new issue or potential improvement.
@@ -26,13 +30,13 @@ complete them in any order.
 
 ### Participate in an Online Discussion Session
 - [ ] Sign up for a discussion session on [this Etherpad](http://pad.software-carpentry.org/instructor-discussion).
-- [ ] Prepare to ask questions about lessons, workshop logistics, or anything you would like to know about teaching with Data Carpentry.
+- [ ] Prepare to ask questions about lessons, workshop logistics, or anything you would like to know about teaching with the Carpentries.
 - [ ] Attend your selected session and actively participate in the discussion.
 
 ### Teach a Short Demonstration Lesson
 - [ ] Sign up for a teaching demonstration session on [this Etherpad](http://pad.software-carpentry.org/teaching-demos).
 - [ ] Ensure you have [BlueJeans installed](https://www.bluejeans.com/downloads) and that it is working properly.
-- [ ] Be prepared to teach any 5-minute section of your selected lesson module from the Data Carpentry [curriculum](/lessons/).
+- [ ] Be prepared to teach any 5-minute section of your selected lesson module from the our [curriculum](/lessons/).
 - [ ] Attend your selected session and actively participate in giving feedback to other instructors.
 
 After you complete your lesson contribution, online discussion and teaching demonstration, we will send you
