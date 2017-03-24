@@ -3,7 +3,7 @@ layout: post
 subheadline:
 title: "Our first work cycle, Prometheus"
 teaser: “Here’s what we accomplished.”
-Header:
+header:
   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
   - blog
