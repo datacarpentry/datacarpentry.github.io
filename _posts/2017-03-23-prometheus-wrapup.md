@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline:
-title: "Our first work cycle - Prometheus"
+title: "Our first work cycle, Prometheus"
 teaser: “Here’s what we accomplished.”
 Header:
   image_fullwidth: "light-blue-wood-texture.jpg"
