@@ -1314,7 +1314,7 @@ airports:
   - {name: Heather Gibling, user: gibling_heather}
   - {name: Jeremy Gray, user: gray_jeremy}
   - {name: Thomas Guignard, user: guignard_thomas}
-  - {name: Luke Johnston, user: johnston_luke}
+  - {name: Luke William Johnston, user: johnston_luke}
   - {name: Ryan Neufeld, user: neufeld_ryan}
   - {name: Brenna O'Brien, user: obrien_brenna}
   - {name: Jon Pipitone, user: pipitone_j}
@@ -2354,7 +2354,7 @@ badges:
   - {awarded: '2015-05-26', name: Catherine Devlin, user: devlin_catherine}
   - {awarded: '2015-05-26', name: Matt Dickenson, user: dickenson_matt}
   - {awarded: '2015-05-26', name: Heather Gibling, user: gibling_heather}
-  - {awarded: '2015-05-26', name: Luke Johnston, user: johnston_luke}
+  - {awarded: '2015-05-26', name: Luke William Johnston, user: johnston_luke}
   - {awarded: '2015-05-26', name: Narayanan Raghupathy, user: raghupathy_narayanan}
   - {awarded: '2015-05-26', name: Adam Richie-Halford, user: richie-halford_adam}
   - {awarded: '2015-05-26', name: Richard Tomsett, user: tomsett_richard}
@@ -3220,7 +3220,7 @@ badges:
   - {awarded: '2016-11-15', name: Andrew Rohl, user: rohl_andrew}
   - {awarded: '2016-11-15', name: Aleksandra Nenadic, user: nenadic_aleksandra}
   - {awarded: '2016-11-15', name: Thomas Guignard, user: guignard_thomas}
-  - {awarded: '2016-11-15', name: Luke Johnston, user: johnston_luke}
+  - {awarded: '2016-11-15', name: Luke William Johnston, user: johnston_luke}
   - {awarded: '2016-11-15', name: Rémi Emonet, user: emonet_remi}
   - {awarded: '2016-11-15', name: Tyson Whitehead, user: whitehead_tyson}
   - {awarded: '2016-11-15', name: Rob Beagrie, user: beagrie_robert}
@@ -3438,7 +3438,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170324T160008Z
+timestamp: 20170324T170006Z
 workshops:
 - &id002
   - address: 5108 Fourth Ave, Marina, California 93933
