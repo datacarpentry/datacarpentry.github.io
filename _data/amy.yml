@@ -1580,6 +1580,7 @@ airports:
   - {name: Anelda van der Walt, user: van-der-walt_anelda}
   - {name: Albertus Seyffert, user: seyffert_albertus}
   - {name: Bianca Peterson, user: peterson_bianca}
+  - {name: Hannes Calitz, user: calitz_hannes}
   - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   latitude: -26.138773
   longitude: 28.241339
@@ -1687,7 +1688,6 @@ airports:
   name: King Abdulaziz International Airport
 - country: nz
   instructors:
-  - {name: Hannes Calitz, user: calitz_hannes}
   - {name: Matt Wilkins, user: wilkins_matt}
   latitude: -40.323854
   longitude: 175.621829
@@ -3438,7 +3438,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170327T200006Z
+timestamp: 20170327T210006Z
 workshops:
 - &id002
   - address: 5108 Fourth Ave, Marina, California 93933
