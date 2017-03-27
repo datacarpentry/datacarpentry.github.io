@@ -20,7 +20,6 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Ecology materials](#ecology-workshop)
 - [Genomics materials](#genomics-workshop)
 - [Geospatial data materials](#geospatial-data-workshop)
-- [Social science materials](#social-science-materials)
 - [Biology semester long materials](#biology-semester-long-course)
 
 <hr>
