@@ -572,6 +572,7 @@ airports:
   - {name: Ian Langmore, user: langmore_i}
   - {name: Matthew Lightman, user: lightman_matthew}
   - {name: Jason Pell, user: pell_j}
+  - {name: Nick Carchedi, user: carchedi_nick}
   - {name: Lisa Rhody, user: rhody_lisa}
   latitude: 40.777222
   longitude: -73.8725
@@ -848,6 +849,7 @@ airports:
   - {name: Phillip Doehle, user: doehle_phillip}
   - {name: Patrick Boyle, user: boyle_patrick}
   - {name: Ross Allen Bowman, user: bowman_ross}
+  - {name: Jim Summers, user: summers_jim}
   latitude: 35.393056
   longitude: -97.600556
   name: Oklahoma City
@@ -1319,6 +1321,7 @@ airports:
   - {name: Brenna O'Brien, user: obrien_brenna}
   - {name: Jon Pipitone, user: pipitone_j}
   - {name: Pawel Pomorski, user: pomorski_pawel}
+  - {name: Jake Cowper Szamosi, user: szamosi_jake}
   - {name: Morgan Taschuk, user: taschuk_morgan}
   - {name: Lina Tran, user: tran_lina}
   - {name: Dawn Walker, user: walker_dawn}
@@ -1905,6 +1908,7 @@ airports:
   name: Baton Rouge Metropolitan Airport
 - country: us
   instructors:
+  - {name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
   - {name: Kathe Todd-Brown, user: todd-brown_katherine}
   - {name: Benjamin Stuermer, user: stuermer_benjamin}
   - {name: Jeremy Daniel Zucker, user: zucker_jeremy}
@@ -1953,6 +1957,12 @@ airports:
   latitude: -22.8099995
   longitude: -43.2505569
   name: Galeão - Antônio Carlos Jobim International Airport
+- country: us
+  instructors:
+  - {name: Susie Meloro, user: meloro_susie}
+  latitude: 38.8181
+  longitude: -92.2195969
+  name: Columbia Regional Airport
 badges:
 - name: creator
   persons:
@@ -2823,7 +2833,7 @@ badges:
   - {awarded: '2017-03-23', name: Nick Carchedi, user: carchedi_nick}
   - {awarded: '2017-03-23', name: Susie Meloro, user: meloro_susie}
   - {awarded: '2017-03-23', name: Jason Henderson, user: henderson_jason}
-  - {awarded: '2017-03-23', name: Carlos Ortiz Marrero, user: ortiz-marrero_carlos}
+  - {awarded: '2017-03-23', name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
   - {awarded: '2017-03-30', name: Dustin Lang, user: lang_dustin}
   - {awarded: '2017-03-30', name: Allen Lee, user: lee_allen}
 - name: member
@@ -3379,7 +3389,7 @@ badges:
   - {awarded: '2017-03-23', name: Nick Carchedi, user: carchedi_nick}
   - {awarded: '2017-03-23', name: Donna Wrublewski, user: wrublewski_donna}
   - {awarded: '2017-03-23', name: Susie Meloro, user: meloro_susie}
-  - {awarded: '2017-03-23', name: Carlos Ortiz Marrero, user: ortiz-marrero_carlos}
+  - {awarded: '2017-03-23', name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
   - {awarded: '2017-03-30', name: Betty Rozum, user: rozum_betty}
 - name: maintainer
   persons:
@@ -3441,7 +3451,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170331T140005Z
+timestamp: 20170331T150003Z
 workshops:
 - &id002
   - address: Biotechnology Institute Room 102, 15 Innovation Way, Newark, DE 19711
