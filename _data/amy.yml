@@ -3451,7 +3451,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170331T180005Z
+timestamp: 20170331T190005Z
 workshops:
 - &id002
   - address: Biotechnology Institute Room 102, 15 Innovation Way, Newark, DE 19711
@@ -5034,6 +5034,20 @@ workshops:
     - {name: DC}
     url: https://hpcarcher.github.io/2017-05-11-edinburgh/
     venue: University of Edinburgh, King's Buildings, JCMB
+  - address: 1709 New York Avenue NW, Washington, DC 20006
+    contact: alice.allen@frb.gov, lachlan.deer@gmail.com
+    country: US
+    end: 2017-05-02
+    eventbrite_id: ''
+    humandate: May 01-02, 2017
+    latitude: 38.893403
+    longitude: -77.044948
+    slug: 2017-05-01-frb_datacarp
+    start: 2017-05-01
+    tags:
+    - {name: DC}
+    url: https://lachlandeer.github.io/2017-05-01-dc-frb/
+    venue: Federal Reserve Board of Governors
   - address: Millikan 9th Floor
     contact: FIXME
     country: US
