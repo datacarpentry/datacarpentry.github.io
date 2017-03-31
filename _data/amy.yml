@@ -3441,7 +3441,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170331T100005Z
+timestamp: 20170331T110005Z
 workshops:
 - &id002
   - address: Biotechnology Institute Room 102, 15 Innovation Way, Newark, DE 19711
