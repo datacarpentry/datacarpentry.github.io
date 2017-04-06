@@ -30,6 +30,7 @@ airports:
   - {name: Chris Scott, user: scott_chris}
   - {name: Mike Ladd, user: ladd_mike}
   - {name: Kirsten Brown, user: brown_kirsten}
+  - {name: Tina Visnovska, user: ''}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
@@ -1063,6 +1064,7 @@ airports:
   - {name: Andrew Nguyen, user: nguyen_andrew}
   - {name: Conrad Rosenbrock, user: rosenbrock_conrad}
   - {name: Anita Orendt, user: orendt_anita}
+  - {name: Betty Rozum, user: rozum_betty}
   latitude: 40.788333
   longitude: -111.9775
   name: Salt Lake City, UT
@@ -1357,6 +1359,7 @@ airports:
   - {name: Yulia Rubanova, user: rubanova_yulia}
   - {name: Sarah Mahallati, user: mahallati_sarah}
   - {name: Stuart Williams, user: williams_stuart}
+  - {name: Dustin Lang, user: lang_dustin}
   - {name: Ted Belke, user: belke_ted}
   - {name: Cindy Chen, user: chen_cindy}
   latitude: 43.677222
@@ -1389,6 +1392,7 @@ airports:
   - {name: Varda Faghir Hagh, user: faghirhagh_varda}
   - {name: Steven Wu, user: wu_steven}
   - {name: Adam Orr, user: orr_adam}
+  - {name: Allen Lee, user: lee_allen}
   latitude: 33.434167
   longitude: -112.008056
   name: Phoenix, AZ
@@ -2836,6 +2840,8 @@ badges:
   - {awarded: '2017-03-23', name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
   - {awarded: '2017-03-30', name: Dustin Lang, user: lang_dustin}
   - {awarded: '2017-03-30', name: Allen Lee, user: lee_allen}
+  - {awarded: '2017-04-06', name: Sean Matheny, user: matheny_sean}
+  - {awarded: '2017-04-06', name: Megan Fritz, user: fritz_megan}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3451,7 +3457,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170406T170004Z
+timestamp: 20170406T180006Z
 workshops:
 - &id002
   - address: HBS Basement Lab, School of Social Sciences, Humanities Bridgeford St.
