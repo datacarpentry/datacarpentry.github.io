@@ -3458,9 +3458,37 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170408T040004Z
+timestamp: 20170408T050004Z
 workshops:
 - &id002
+  - address: 10 Discovery Drive, Farmington, Connecticut
+    contact: susan.mcclatchy@jax.org
+    country: us
+    end: 2017-04-07
+    eventbrite_id: '32553018956'
+    humandate: Apr 06-07, 2017
+    latitude: 41.732284
+    longitude: -72.793404
+    slug: 2017-04-06-farmington
+    start: 2017-04-06
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2017-04-06-farmington/
+    venue: The Jackson Laboratory for Genomic Medicine
+  - address: 373 Flinders Street East, Townsville City Campus
+    contact: ''
+    country: au
+    end: 2017-04-07
+    eventbrite_id: ''
+    humandate: Apr 06-07, 2017
+    latitude: -19.260262
+    longitude: 146.815951
+    slug: 2017-04-06-DataCarpentry-Genomics-TSV
+    start: 2017-04-06
+    tags:
+    - {name: DC}
+    url: https://jcu-eresearch.github.io/2017-04-06-DataCarpentry-Genomics-TSV/
+    venue: Room 306
   - address: HBS Basement Lab, School of Social Sciences, Humanities Bridgeford St.
       Building, Manchester, M13 9PL
     contact: Rachel.Gibson@manchester.ac.uka.nenadic@manchester.ac.uk
@@ -5098,33 +5126,5 @@ workshops:
     - {name: DC}
     url: https://mikblack.github.io/2017-04-20-otago/
     venue: University of Otago
-  - address: 10 Discovery Drive, Farmington, Connecticut
-    contact: susan.mcclatchy@jax.org
-    country: US
-    end: 2017-04-07
-    eventbrite_id: '32553018956'
-    humandate: Apr 06-07, 2017
-    latitude: 41.732284
-    longitude: -72.793404
-    slug: 2017-04-06-farmington
-    start: 2017-04-06
-    tags:
-    - {name: DC}
-    url: https://smcclatchy.github.io/2017-04-06-farmington/
-    venue: The Jackson Laboratory for Genomic Medicine
-  - address: 373 Flinders Street East, Townsville City Campus
-    contact: ''
-    country: AU
-    end: 2017-04-07
-    eventbrite_id: ''
-    humandate: Apr 06-07, 2017
-    latitude: -19.260262
-    longitude: 146.815951
-    slug: 2017-04-06-DataCarpentry-Genomics-TSV
-    start: 2017-04-06
-    tags:
-    - {name: DC}
-    url: https://jcu-eresearch.github.io/2017-04-06-DataCarpentry-Genomics-TSV/
-    venue: Room 306
 workshops_current: *id001
 workshops_past: *id002
