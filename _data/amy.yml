@@ -836,7 +836,6 @@ airports:
   - {name: Dana Brunson, user: brunson_dana}
   - {name: Patrick Calhoun, user: calhoun_patrick}
   - {name: Logan Cox, user: cox_logan}
-  - {name: Jonah Duckles, user: duckles_jonah}
   - {name: Mark Laufersweiler, user: laufersweiler_mark}
   - {name: Braden Owsley, user: owsley_braden}
   - {name: Brent Shambaugh, user: shambaugh_brent}
@@ -1400,6 +1399,7 @@ airports:
   instructors:
   - {name: Mik Black, user: black_mik}
   - {name: James Boocock, user: boocock_james}
+  - {name: Jonah Duckles, user: duckles_jonah}
   - {name: Tom Kelly, user: kelly_tom}
   - {name: Murray Cadzow, user: cadzow_murray}
   - {name: David Eyers, user: eyers_david}
@@ -3458,7 +3458,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170409T220005Z
+timestamp: 20170409T230004Z
 workshops:
 - &id002
   - address: 10 Discovery Drive, Farmington, Connecticut
