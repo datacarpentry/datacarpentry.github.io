@@ -63,7 +63,7 @@ The workshop can be taught using R or Python as the base language.
     <td>Data Management with SQL</td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/blob/gh-pages/_extras/guide.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Paula Andrea Martinez, Timothée Poisot</td>
   </tr>
   <tr>
