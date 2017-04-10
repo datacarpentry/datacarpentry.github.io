@@ -3458,7 +3458,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170410T130005Z
+timestamp: 20170410T140006Z
 workshops:
 - &id002
   - address: 10 Discovery Drive, Farmington, Connecticut
@@ -5069,6 +5069,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 210 South Ferry Road, Narragansett, RI
+    contact: hollister.jeff@epa.gov
+    country: US
+    end: 2017-06-08
+    eventbrite_id: ''
+    humandate: Jun 07-08, 2017
+    latitude: 41.492985
+    longitude: -71.422119
+    slug: 2017-06-07-uri
+    start: 2017-06-07
+    tags:
+    - {name: DC}
+    url: http://rhodyrstats.org/2017-06-07-uri/
+    venue: University of Rhode Island - Coastal Institute
   - address: Room 3217, James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh,
       EH9 3FD
     contact: g.peru@epcc.ed.ac.uk; support@archer.ac.uk
