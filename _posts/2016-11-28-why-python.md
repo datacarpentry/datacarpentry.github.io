@@ -17,7 +17,7 @@ show_meta: true
 
 ## In the Beginning
 
-A lot of what are now the Python materials came out of a Software Carpentry Hackathon in 2014 when Software Carpentry was under the Mozilla Science Labs umbrella. At the time, Data Carpentry was a fledgling organization and really only had a small amount of materials on R and Excel. As you [can see](https://old.etherpad-mozilla.org/sciencelab-2014summersprint-data-carpentry) from the Etherpad from that hackathon, people were pretty excited about getting some of those materials translated to Python.
+A lot of what are now the Python materials came out of a Data Carpentry Hackathon in 2014 when Software Carpentry was under the Mozilla Science Labs umbrella. At the time, Data Carpentry was a fledgling organization and really only had a small amount of materials on R and Excel. As you [can see](https://old.etherpad-mozilla.org/sciencelab-2014summersprint-data-carpentry) from the Etherpad from that hackathon, people were pretty excited about getting some of those materials translated to Python.
 
 Way back in those days, the materials were a lot more information dense, and lacked a real narrative threading through. In practice, that set of lessons was probably better for self-guided learning than classroom practice.
 
