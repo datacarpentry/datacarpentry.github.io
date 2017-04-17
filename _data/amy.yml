@@ -2854,6 +2854,7 @@ badges:
   - {awarded: '2017-04-17', name: Nick Young, user: young_nick}
   - {awarded: '2017-04-17', name: Christoph Junghans, user: junghans_christoph}
   - {awarded: '2017-04-17', name: Dan Mønster, user: mnster_dan}
+  - {awarded: '2017-04-17', name: Patrick Smyth, user: smyth_patrick}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3471,7 +3472,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170417T210005Z
+timestamp: 20170417T220005Z
 workshops:
 - &id002
   - address: 10 Discovery Drive, Farmington, Connecticut
