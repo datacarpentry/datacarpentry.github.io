@@ -2848,6 +2848,12 @@ badges:
   - {awarded: '2017-04-12', name: Alex Underwood, user: underwood_alex}
   - {awarded: '2017-04-12', name: Martin Dreyer, user: dreyer_martin}
   - {awarded: '2017-04-12', name: Martin Feller, user: feller_martin}
+  - {awarded: '2017-04-17', name: Paul Wolf, user: wolf_paul}
+  - {awarded: '2017-04-17', name: Martin Skarzynski, user: skarzynski_martin}
+  - {awarded: '2017-04-17', name: Kristian Tylén, user: tyln_kristian}
+  - {awarded: '2017-04-17', name: Nick Young, user: young_nick}
+  - {awarded: '2017-04-17', name: Christoph Junghans, user: junghans_christoph}
+  - {awarded: '2017-04-17', name: Dan Mønster, user: mnster_dan}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3465,7 +3471,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170417T200005Z
+timestamp: 20170417T210005Z
 workshops:
 - &id002
   - address: 10 Discovery Drive, Farmington, Connecticut
