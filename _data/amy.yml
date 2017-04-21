@@ -3,6 +3,7 @@ airports:
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
   - {name: Andrew McLeod Fraser, user: fraser_andrew}
+  - {name: Christoph Junghans, user: junghans_christoph}
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
@@ -30,6 +31,8 @@ airports:
   - {name: Chris Scott, user: scott_chris}
   - {name: Mike Ladd, user: ladd_mike}
   - {name: Kirsten Brown, user: brown_kirsten}
+  - {name: Nick Young, user: young_nick}
+  - {name: Sean Marshall Matheny, user: matheny_sean}
   - {name: Tina Visnovska, user: ''}
   latitude: -37.008056
   longitude: 174.791667
@@ -172,6 +175,7 @@ airports:
 - country: us
   instructors:
   - {name: Justin Ely, user: ely_j}
+  - {name: Megan Fritz, user: fritz_megan}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
   - {name: John Didion, user: didion_john}
