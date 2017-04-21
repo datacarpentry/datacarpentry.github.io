@@ -11,7 +11,7 @@ permalink: "/assessment/"
 Data Carpentry values a culture of assessment, and we are consistently evaluating 
 our workshops to understand the impact workshops have and how we can improve.
 
-Dr. Kari Jordan, our Deputy Director of Assessment, leads our assessment efforts.
+Dr. Kari L. Jordan, our Deputy Director of Assessment, leads our assessment efforts.
 
 Dr. Erin Becker, our Associate Director serves as Principle Investigator for our research efforts related to assessing the
 effectiveness of our workshops. This work is carried out under supervison of the Institutional Review Board at University of California, Davis. Our faculty sponsor at UC Davis is Dr. Megan Welsh, Assistant Professor within the UC Davis School of Education.
@@ -27,14 +27,18 @@ We conduct pre and post workshop surveys for each workshop
 
 - [Post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=20aY_2FxKwi4RcNMTonEV1fJU4BPERgmL_2FWtZKq6Zrehggy5OOe3BxYzyxwVgbbZfr)
 
+Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentry Long-Term Feedback Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data will be collected every 6 months.
+
+- [Carpentry Long-Term Feedback Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei)
+
 ### Data
 
 Data sets to go along with assessment reports are provided as csv files in a 
-[GitHub repository](https://github.com/datacarpentry/workshop-survey-data), along with the version of the surveys that were in use at time of analysis.  
+[GitHub repository](https://github.com/carpentries/public-survey-info), along with the version of the surveys that were in use at time of analysis.  
 
-[Data for Assessment report 2016-10-20](https://github.com/datacarpentry/workshop-survey-data)
+[Data for Assessment report 2016-10-20](https://github.com/carpentries/public-survey-info/blob/master/documents/reports/Data-Carpentry-Reports/2016-11-04-DC-post-workshop-survey-data-archived.csv)
 
-### Assessment results
+### Assessment Results
  
 We will be releasing regular reports from our survey results. These reports are published through Zenodo and can
 be accessed through the links below.
