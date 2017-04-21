@@ -3,6 +3,7 @@ airports:
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
   - {name: Andrew McLeod Fraser, user: fraser_andrew}
+  - {name: Christoph Junghans, user: junghans_christoph}
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
@@ -30,6 +31,8 @@ airports:
   - {name: Chris Scott, user: scott_chris}
   - {name: Mike Ladd, user: ladd_mike}
   - {name: Kirsten Brown, user: brown_kirsten}
+  - {name: Nick Young, user: young_nick}
+  - {name: Sean Marshall Matheny, user: matheny_sean}
   - {name: Tina Visnovska, user: ''}
   latitude: -37.008056
   longitude: 174.791667
@@ -172,6 +175,7 @@ airports:
 - country: us
   instructors:
   - {name: Justin Ely, user: ely_j}
+  - {name: Megan Fritz, user: fritz_megan}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
   - {name: John Didion, user: didion_john}
@@ -455,13 +459,14 @@ airports:
   - {name: Daniel Wheeler, user: wheeler_daniel}
   - {name: Lynn Young, user: young_lynn}
   - {name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
+  - {name: Martin Skarzynski, user: skarzynski_martin}
   latitude: 38.944444
   longitude: -77.455556
   name: Washington Dulles, DC
 - country: us
   instructors:
   - {name: Noushin Ghaffari, user: ghaffari_noushin}
-  - {name: Saravanan Ramalingam, user: ramalingam_saravanan}
+  - {name: Ramalingam Saravanan, user: ramalingam_saravanan}
   - {name: Scott Talafuse, user: talafuse_scott}
   - {name: Chandler Wilkerson, user: wilkerson_chandler}
   latitude: 29.980278
@@ -499,6 +504,7 @@ airports:
   - {name: Lingling Jiang, user: jiang_lingling}
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {name: Afrah Shafquat, user: shafquat_afrah}
+  - {name: Mary Catherine Kinniburgh, user: kinniburgh_mary-catherine}
   latitude: 40.639722
   longitude: -73.778889
   name: New York JFK, NY
@@ -1061,6 +1067,7 @@ airports:
 - country: us
   instructors:
   - {name: Martin Schilling, user: schilling_martin}
+  - {name: Paul G. Wolf, user: wolf_paul}
   - {name: Gus Hart, user: hart_gus}
   - {name: Andrew Nguyen, user: nguyen_andrew}
   - {name: Conrad Rosenbrock, user: rosenbrock_conrad}
@@ -2236,7 +2243,7 @@ badges:
   - {awarded: '2014-09-18', name: Francoise Provencher, user: provencher_francoise}
   - {awarded: '2015-01-21', name: Sean Pue, user: pue_s}
   - {awarded: '2013-07-20', name: Karthik Ram, user: ram_k}
-  - {awarded: '2014-12-08', name: Saravanan Ramalingam, user: ramalingam_saravanan}
+  - {awarded: '2014-12-08', name: Ramalingam Saravanan, user: ramalingam_saravanan}
   - {awarded: '2015-03-11', name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
   - {awarded: '2015-02-28', name: Tom Remenyi, user: remenyi_tom}
   - {awarded: '2015-03-12', name: Adelaide Rhodes, user: rhodes_adelaide}
@@ -2842,13 +2849,13 @@ badges:
   - {awarded: '2017-03-23', name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
   - {awarded: '2017-03-30', name: Dustin Lang, user: lang_dustin}
   - {awarded: '2017-03-30', name: Allen Lee, user: lee_allen}
-  - {awarded: '2017-04-06', name: Sean Matheny, user: matheny_sean}
+  - {awarded: '2017-04-06', name: Sean Marshall Matheny, user: matheny_sean}
   - {awarded: '2017-04-06', name: Megan Fritz, user: fritz_megan}
   - {awarded: '2017-04-12', name: Mary Catherine Kinniburgh, user: kinniburgh_mary-catherine}
   - {awarded: '2017-04-12', name: Alex Underwood, user: underwood_alex}
   - {awarded: '2017-04-12', name: Martin Dreyer, user: dreyer_martin}
   - {awarded: '2017-04-12', name: Martin Feller, user: feller_martin}
-  - {awarded: '2017-04-17', name: Paul Wolf, user: wolf_paul}
+  - {awarded: '2017-04-17', name: Paul G. Wolf, user: wolf_paul}
   - {awarded: '2017-04-17', name: Martin Skarzynski, user: skarzynski_martin}
   - {awarded: '2017-04-17', name: Kristian Tylén, user: tyln_kristian}
   - {awarded: '2017-04-17', name: Nick Young, user: young_nick}
@@ -3308,7 +3315,7 @@ badges:
   - {awarded: '2017-01-16', name: Konrad Förstner, user: forstner_konrad}
   - {awarded: '2017-01-16', name: Tamer Mansour, user: mansour_tamer}
   - {awarded: '2017-01-16', name: Johnny Wei-Bing Lin, user: lin_johnny}
-  - {awarded: '2017-01-16', name: Saravanan Ramalingam, user: ramalingam_saravanan}
+  - {awarded: '2017-01-16', name: Ramalingam Saravanan, user: ramalingam_saravanan}
   - {awarded: '2017-01-16', name: Radovan Bast, user: bast_radovan}
   - {awarded: '2017-01-16', name: Mark Stacy, user: stacy_mark}
   - {awarded: '2017-01-16', name: Neil Chue Hong, user: chue-hong_n}
@@ -3472,7 +3479,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', ph, pr, si, th,
     us, za]
-timestamp: 20170421T020004Z
+timestamp: 20170421T030005Z
 workshops:
 - &id002
   - address: 10 Discovery Drive, Farmington, Connecticut
