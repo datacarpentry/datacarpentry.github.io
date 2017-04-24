@@ -2867,6 +2867,7 @@ badges:
   - {awarded: '2017-04-21', name: Vasileios Lenis, user: lenis_vasileios}
   - {awarded: '2017-04-24', name: Mike Heroux, user: heroux_mike}
   - {awarded: '2017-04-24', name: Sean Fortney, user: fortney_sean}
+  - {awarded: '2017-04-24', name: Liz Cooper-Williams, user: cooper-williams_liz}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3484,7 +3485,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170424T170004Z
+timestamp: 20170424T180006Z
 workshops:
 - &id002
   - address: Department of Biochemistry, 710 Cumberland Street, Dunedin
