@@ -3485,7 +3485,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170425T060005Z
+timestamp: 20170425T070004Z
 workshops:
 - &id002
   - address: Department of Biochemistry, 710 Cumberland Street, Dunedin
