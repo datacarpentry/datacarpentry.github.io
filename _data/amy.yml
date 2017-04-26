@@ -3486,7 +3486,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170426T120004Z
+timestamp: 20170426T130005Z
 workshops:
 - &id002
   - address: Department of Biochemistry, 710 Cumberland Street, Dunedin
@@ -5125,6 +5125,20 @@ workshops:
     - {name: DC}
     url: http://rhodyrstats.org/2017-06-07-uri/
     venue: University of Rhode Island - Coastal Institute
+  - address: 430 Nahant Road, Nahant, MA 01908
+    contact: je.bowen@northeastern.edu
+    country: US
+    end: 2017-05-19
+    eventbrite_id: ''
+    humandate: May 18-19, 2017
+    latitude: 42.418577
+    longitude: -70.906186
+    slug: 2017-05-18-northeastern
+    start: 2017-05-18
+    tags:
+    - {name: DC}
+    url: https://drk-lo.github.io/2017-05-18-NahantNUMSC/
+    venue: Northeastern University Marine Science Center
   - address: Room 3217, James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh,
       EH9 3FD
     contact: g.peru@epcc.ed.ac.uk; support@archer.ac.uk
@@ -5140,6 +5154,20 @@ workshops:
     - {name: DC}
     url: https://hpcarcher.github.io/2017-05-11-edinburgh/
     venue: University of Edinburgh, King's Buildings, JCMB
+  - address: Syracuse, NY
+    contact: daren.card@gmail.com
+    country: US
+    end: 2017-05-05
+    eventbrite_id: '33346433079'
+    humandate: May 04-05, 2017
+    latitude: 43.040197
+    longitude: -76.138991
+    slug: 2017-05-04-upstate_medical_university
+    start: 2017-05-04
+    tags:
+    - {name: DC}
+    url: https://darencard.github.io/2017-05-04-SUNY-Upstate/
+    venue: SUNY Upstate Medical University
   - address: 1709 New York Avenue NW, Washington, DC 20006
     contact: alice.allen@frb.gov, lachlan.deer@gmail.com
     country: US
