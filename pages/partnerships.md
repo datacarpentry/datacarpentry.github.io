@@ -4,7 +4,7 @@ show_meta: false
 header:
    image_fullwidth: "wood_plank.jpg"
 permalink: /partnerships/
-title: "Become an Member Organization"
+title: "Become a Member Organization"
 ---
 
 A Member Organization is an organization that has made a commitment to the growth and spread
