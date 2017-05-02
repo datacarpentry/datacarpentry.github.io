@@ -83,6 +83,12 @@ airports:
   latitude: 41.938889
   longitude: -72.683056
   name: Hartford, CT
+- country: us
+  instructors:
+  - {name: Vasileios Panagiotis Lenis, user: lenis_vasileios}
+  latitude: 33.562778
+  longitude: -86.753333
+  name: Birmingham AL
 - country: gb
   instructors:
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
@@ -836,6 +842,7 @@ airports:
   - {name: Joseph Montoya, user: montoya_joseph}
   - {name: Shyam Dwaraknath, user: dwaraknath_shyam}
   - {name: Murat Aykol, user: aykol_murat}
+  - {name: Thomas Sandmann, user: sandmann_thomas}
   latitude: 37.721111
   longitude: -122.220556
   name: Oakland, CA
@@ -3486,7 +3493,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170502T190005Z
+timestamp: 20170502T200006Z
 workshops:
 - &id002
   - address: Millikan 9th Floor
