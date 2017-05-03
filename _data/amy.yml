@@ -3493,9 +3493,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170503T040004Z
+timestamp: 20170503T050004Z
 workshops:
 - &id002
+  - address: 1709 New York Avenue NW, Washington, DC 20006
+    contact: alice.allen@frb.gov, lachlan.deer@gmail.com
+    country: us
+    end: 2017-05-02
+    eventbrite_id: ''
+    humandate: May 01-02, 2017
+    latitude: 38.893403
+    longitude: -77.044948
+    slug: 2017-05-01-frb_datacarp
+    start: 2017-05-01
+    tags:
+    - {name: DC}
+    url: https://lachlandeer.github.io/2017-05-01-dc-frb/
+    venue: Federal Reserve Board of Governors
   - address: Millikan 9th Floor
     contact: FIXME
     country: us
@@ -5203,19 +5217,5 @@ workshops:
     - {name: DC}
     url: https://darencard.github.io/2017-05-04-SUNY-Upstate/
     venue: SUNY Upstate Medical University
-  - address: 1709 New York Avenue NW, Washington, DC 20006
-    contact: alice.allen@frb.gov, lachlan.deer@gmail.com
-    country: US
-    end: 2017-05-02
-    eventbrite_id: ''
-    humandate: May 01-02, 2017
-    latitude: 38.893403
-    longitude: -77.044948
-    slug: 2017-05-01-frb_datacarp
-    start: 2017-05-01
-    tags:
-    - {name: DC}
-    url: https://lachlandeer.github.io/2017-05-01-dc-frb/
-    venue: Federal Reserve Board of Governors
 workshops_current: *id001
 workshops_past: *id002
