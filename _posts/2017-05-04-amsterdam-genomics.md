@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline:
-title: "Call for Contributions: Moving Ahead with Genomics Data Carpentry"
+title: "First Data Carpentry Genomics workshop in Europe"
 teaser: “The Netherlands eScience Center in collaboration with University Medical Center Utrecht, SURFsara and DTL/ELIXIR-NL organized the first Data Carpentry Genomics workshop in Europe.
 ” 
 header:
