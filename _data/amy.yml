@@ -3433,6 +3433,7 @@ badges:
   - {awarded: '2017-04-06', name: Yvette Wharton, user: wharton_yvette}
   - {awarded: '2017-04-12', name: Martin Dreyer, user: dreyer_martin}
   - {awarded: '2017-04-25', name: Thomas Sandmann, user: sandmann_thomas}
+  - {awarded: '2017-05-05', name: Jez Cope, user: cope_jez}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3493,7 +3494,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170505T150004Z
+timestamp: 20170505T160005Z
 workshops:
 - &id002
   - address: 1709 New York Avenue NW, Washington, DC 20006
