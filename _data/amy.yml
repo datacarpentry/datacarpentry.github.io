@@ -3494,9 +3494,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170506T040005Z
+timestamp: 20170506T050004Z
 workshops:
 - &id002
+  - address: Syracuse, NY
+    contact: daren.card@gmail.com
+    country: us
+    end: 2017-05-05
+    eventbrite_id: '33346433079'
+    humandate: May 04-05, 2017
+    latitude: 43.040197
+    longitude: -76.138991
+    slug: 2017-05-04-upstate_medical_university
+    start: 2017-05-04
+    tags:
+    - {name: DC}
+    url: https://darencard.github.io/2017-05-04-SUNY-Upstate/
+    venue: SUNY Upstate Medical University
   - address: 1709 New York Avenue NW, Washington, DC 20006
     contact: alice.allen@frb.gov, lachlan.deer@gmail.com
     country: us
@@ -5204,19 +5218,5 @@ workshops:
     - {name: DC}
     url: https://hpcarcher.github.io/2017-05-11-edinburgh/
     venue: University of Edinburgh, King's Buildings, JCMB
-  - address: Syracuse, NY
-    contact: daren.card@gmail.com
-    country: US
-    end: 2017-05-05
-    eventbrite_id: '33346433079'
-    humandate: May 04-05, 2017
-    latitude: 43.040197
-    longitude: -76.138991
-    slug: 2017-05-04-upstate_medical_university
-    start: 2017-05-04
-    tags:
-    - {name: DC}
-    url: https://darencard.github.io/2017-05-04-SUNY-Upstate/
-    venue: SUNY Upstate Medical University
 workshops_current: *id001
 workshops_past: *id002
