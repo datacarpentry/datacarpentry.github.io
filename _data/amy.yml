@@ -83,6 +83,12 @@ airports:
   latitude: 41.938889
   longitude: -72.683056
   name: Hartford, CT
+- country: us
+  instructors:
+  - {name: Vasileios Panagiotis Lenis, user: lenis_vasileios}
+  latitude: 33.562778
+  longitude: -86.753333
+  name: Birmingham AL
 - country: gb
   instructors:
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
@@ -128,6 +134,7 @@ airports:
   - {name: Joshua Thia, user: thia_joshua}
   - {name: Kim Keogh, user: keogh_kim}
   - {name: Marco Fahmi, user: fahmi_marco}
+  - {name: Liz Cooper-Williams, user: cooper-williams_liz}
   - {name: Michal Kotrbcik, user: kotrbcik_michal}
   latitude: -27.384167
   longitude: 153.1175

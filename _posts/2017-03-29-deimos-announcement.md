@@ -61,7 +61,7 @@ We’re also continuing to work on our many ongoing projects, including (but not
 
 If you’re interested in helping with any of this ongoing work, or would like to make suggestions about what to tackle in our next 
 cycle, let us know! Please post an issue on our [conversations repo](https://github.com/carpentries/conversations/issues) or email 
-(ebecker@carpentries.org)[mailto:ebecker@carpentries.org].
+[ebecker@carpentries.org](mailto:ebecker@carpentries.org).
 
 Our next two cycles will be:
 Cycle Phobos - May 22nd through June 30th
