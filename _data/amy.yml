@@ -3491,12 +3491,15 @@ badges:
   - {awarded: '2017-02-21', name: Karen Cranston, user: cranston_k}
   - {awarded: '2017-02-21', name: Allegra Via, user: via_allegra}
   - {awarded: '2017-02-21', name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {awarded: '2017-05-08', name: Sue McClatchy, user: mcclatchy_susan}
+  - {awarded: '2017-05-08', name: Tim Dennis, user: dennis_tim}
+  - {awarded: '2017-05-08', name: Karen Word, user: word_karen}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170508T230005Z
+timestamp: 20170509T000004Z
 workshops:
 - &id002
   - address: Syracuse, NY
