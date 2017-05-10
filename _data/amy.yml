@@ -2877,6 +2877,9 @@ badges:
   - {awarded: '2017-04-24', name: Mike Heroux, user: heroux_mike}
   - {awarded: '2017-04-24', name: Sean Fortney, user: fortney_sean}
   - {awarded: '2017-04-24', name: Liz Cooper-Williams, user: cooper-williams_liz}
+  - {awarded: '2017-05-10', name: Alexander Pletzer, user: pletzer_alexander}
+  - {awarded: '2017-05-10', name: Dave Lampert, user: lampert_dave}
+  - {awarded: '2017-05-10', name: Stefania Bertazzoni, user: bertazzoni_stefania}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3436,6 +3439,7 @@ badges:
   - {awarded: '2017-04-12', name: Martin Dreyer, user: dreyer_martin}
   - {awarded: '2017-04-25', name: Thomas Sandmann, user: sandmann_thomas}
   - {awarded: '2017-05-05', name: Jez Cope, user: cope_jez}
+  - {awarded: '2017-05-10', name: Alexander Pletzer, user: pletzer_alexander}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3499,7 +3503,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170510T180006Z
+timestamp: 20170510T190004Z
 workshops:
 - &id002
   - address: Syracuse, NY
