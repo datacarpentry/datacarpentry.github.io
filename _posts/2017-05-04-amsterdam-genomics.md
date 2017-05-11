@@ -55,5 +55,4 @@ The event closed with drinks and snacks at nearby Maslov Cafe.
 We are just at the beginning of the journey. More work needs to be
 done on improving genomics lesson, and Data Carpentry is looking
 forward to contributions from everyone interested in providing help.
-You can read more about it in the recent [Data Carpentry blog post]
-(http://www.datacarpentry.org/blog/genomics-lessons/)
+You can read more about it in the recent [Data Carpentry blog post](http://www.datacarpentry.org/blog/genomics-lessons/)
