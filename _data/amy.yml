@@ -3503,7 +3503,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170512T120004Z
+timestamp: 20170512T130005Z
 workshops:
 - &id002
   - address: Syracuse, NY
