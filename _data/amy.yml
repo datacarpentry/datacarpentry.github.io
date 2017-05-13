@@ -3504,9 +3504,24 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170513T040004Z
+timestamp: 20170513T050005Z
 workshops:
 - &id002
+  - address: Room 3217, James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh,
+      EH9 3FD
+    contact: g.peru@epcc.ed.ac.uk; support@archer.ac.uk
+    country: gb
+    end: 2017-05-12
+    eventbrite_id: ''
+    humandate: May 11-12, 2017
+    latitude: 55.9215522
+    longitude: -3.1749893
+    slug: 2017-05-11-edinburgh
+    start: 2017-05-11
+    tags:
+    - {name: DC}
+    url: https://hpcarcher.github.io/2017-05-11-edinburgh/
+    venue: University of Edinburgh, King's Buildings, JCMB
   - address: Syracuse, NY
     contact: daren.card@gmail.com
     country: us
@@ -5228,20 +5243,5 @@ workshops:
     url: https://arreyves.github.io/2017-05-15-UNIVENDA/
     venue: CAD Lab, School of Environmental Sciences, University of Venda, University
       Street
-  - address: Room 3217, James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh,
-      EH9 3FD
-    contact: g.peru@epcc.ed.ac.uk; support@archer.ac.uk
-    country: GB
-    end: 2017-05-12
-    eventbrite_id: ''
-    humandate: May 11-12, 2017
-    latitude: 55.9215522
-    longitude: -3.1749893
-    slug: 2017-05-11-edinburgh
-    start: 2017-05-11
-    tags:
-    - {name: DC}
-    url: https://hpcarcher.github.io/2017-05-11-edinburgh/
-    venue: University of Edinburgh, King's Buildings, JCMB
 workshops_current: *id001
 workshops_past: *id002
