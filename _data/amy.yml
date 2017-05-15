@@ -2883,6 +2883,7 @@ badges:
   - {awarded: '2017-05-12', name: Will Pearse, user: pearse_will}
   - {awarded: '2017-05-04', name: Ben Roberts, user: roberts_ben}
   - {awarded: '2017-05-04', name: Guilherme Castelão, user: castelao_guilherme}
+  - {awarded: '2017-05-04', name: Louis Vernon, user: vernon_louis}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3506,7 +3507,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170515T160007Z
+timestamp: 20170515T170004Z
 workshops:
 - &id002
   - address: Room 3217, James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh,
