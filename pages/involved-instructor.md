@@ -29,7 +29,7 @@ The training course runs over two full days and covers the basics of educational
 2. **Complete the checkout process**  
 You must complete three short tasks after the course in order to complete certification. These tasks are described in detail [here](http://swcarpentry.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the detailed instructions, please use our [simplified checklist](/checkout/) to keep track of your progress.
 
-*Most of our instructors are trained through organizational agreements with affiliated institutions. If you have been asked to provide information associated with this type of training, please fill in [this form](https://amy.software-carpentry.org/workshops/request_training/). If you are not affiliated with one of our partner organizations, we offer limited scholarships to attend online instructor training. Please fill out the form above to indicate your interest in participating in an upcoming instructor training.
+*Most of our instructors are trained through organizational agreements with affiliated institutions. If you have been asked to provide information associated with this type of training, please fill in [this form](https://amy.software-carpentry.org/workshops/request_training/). If you are not affiliated with one of our partner organizations, we offer limited scholarships to attend online instructor training. Please fill out the form above to indicate your interest in participating in an upcoming instructor training.*
 
 <!--
 If you are going through instructor training and need more information, please see [information]() in the [For Instructors]() section.
