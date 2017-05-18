@@ -46,7 +46,6 @@ airports:
   name: Stockholm
 - country: us
   instructors:
-  - {name: Daniel Smith, user: smith_daniel}
   - {name: Casey Bergman, user: bergman_casey}
   latitude: 33.640278
   longitude: -84.426944
