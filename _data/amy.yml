@@ -3514,9 +3514,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170520T040005Z
+timestamp: 20170520T050005Z
 workshops:
 - &id002
+  - address: 430 Nahant Road, Nahant, MA 01908
+    contact: je.bowen@northeastern.edu
+    country: us
+    end: 2017-05-19
+    eventbrite_id: ''
+    humandate: May 18-19, 2017
+    latitude: 42.418577
+    longitude: -70.906186
+    slug: 2017-05-18-northeastern
+    start: 2017-05-18
+    tags:
+    - {name: DC}
+    url: https://drk-lo.github.io/2017-05-18-NahantNUMSC/
+    venue: Northeastern University Marine Science Center
   - address: University Street, P/Bag X5050, Thohoyandou, 0950, South Africa
     contact: arreyves@gmail.com
     country: za
@@ -5239,19 +5253,5 @@ workshops:
     - {name: DC}
     url: http://rhodyrstats.org/2017-06-07-uri/
     venue: University of Rhode Island - Coastal Institute
-  - address: 430 Nahant Road, Nahant, MA 01908
-    contact: je.bowen@northeastern.edu
-    country: US
-    end: 2017-05-19
-    eventbrite_id: ''
-    humandate: May 18-19, 2017
-    latitude: 42.418577
-    longitude: -70.906186
-    slug: 2017-05-18-northeastern
-    start: 2017-05-18
-    tags:
-    - {name: DC}
-    url: https://drk-lo.github.io/2017-05-18-NahantNUMSC/
-    venue: Northeastern University Marine Science Center
 workshops_current: *id001
 workshops_past: *id002
