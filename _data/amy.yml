@@ -3522,7 +3522,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170523T200007Z
+timestamp: 20170523T210005Z
 workshops:
 - &id002
   - address: 430 Nahant Road, Nahant, MA 01908
@@ -5275,5 +5275,20 @@ workshops:
     - {name: DC}
     url: https://hpcarcher.github.io/2017-06-01-Belfast/
     venue: Queen's University Belfast
+  - address: Optentia Indaba Room, Building 7, Vaal Triangle Campus, Hendrick Van
+      Eck Boulevard, Vanderbijlpark, 1900, South Africa
+    contact: juan.steyn@nwu.ac.za
+    country: ZA
+    end: 2017-06-01
+    eventbrite_id: ''
+    humandate: May 31-Jun 01, 2017
+    latitude: -26.725771
+    longitude: 27.880881
+    slug: 2017-05-31-Vaal
+    start: 2017-05-31
+    tags:
+    - {name: DC}
+    url: https://nwu-digitalhumanities.github.io/2017-05-31-Vaal/
+    venue: North-West University
 workshops_current: *id001
 workshops_past: *id002
