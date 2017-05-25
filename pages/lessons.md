@@ -20,7 +20,6 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Ecology materials](#ecology-workshop)
 - [Genomics materials](#genomics-workshop)
 - [Geospatial data materials](#geospatial-data-workshop)
-- [Social science materials](#social-science-materials)
 - [Biology semester long materials](#biology-semester-long-course)
 
 <hr>
@@ -50,35 +49,35 @@ The workshop can be taught using R or Python as the base language.
     <td>Data Organization in Spreadsheets</td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/blob/gh-pages/instructor_notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
     <td>Christie Bahlai, Tracy Teal</td>
   </tr>
   <tr>
     <td>Data Cleaning with OpenRefine</td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
     <td>Deborah Paul, Cam Macdonell</td>
   </tr>
   <tr>
     <td>Data Management with SQL</td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
     <td>Paula Andrea Martinez, Timothée Poisot</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R</td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/blob/instructor_notes/instructor_notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>François Michonneau, Auriel Fournier</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python</td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/blob/gh-pages/INSTRUCTORS.md" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
     <td>John Gosset, April Wright, Mateusz Kuzak</td>
   </tr>
 </table>
@@ -110,7 +109,7 @@ The focus of this workshop is on working with genomics data and data management 
   </tr>
   <tr>
     <td>Introduction to cloud computing for genomics</td>
-    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/tree/gh-pages/lessons" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Bob Freeman</td>
   </tr>
@@ -140,7 +139,7 @@ The focus of this workshop is on working with genomics data and data management 
 
 #### Overview
 
-This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.
+This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.  This assumes intermediate R skills, for people who have the basics of R down but haven’t worked with spatial data in R before.
 
 #### Lessons
 
@@ -173,25 +172,6 @@ This workshop is co-developed with the National Ecological Observatory Network [
 
   </table>
 
-
-<hr>
-
-### Social Science Materials
-
-This is not yet a full workshop, but we have a lesson focused on text mining in R
-
-<table class="table table-striped">
-  <tr>
-    <th>Lesson</th>
-    <th>Material</th>
-    <th>Maintainer(s)</th>
-  </tr>
-  <tr>
-    <td>Social sciences text mining</td>
-    <td><a href="{{site.dc_github_repo_url}}/textmining-socialsci" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td>Ben Marwick</td>
-  </tr>
-</table>
 
 <hr>
 
