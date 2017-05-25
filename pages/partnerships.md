@@ -28,7 +28,7 @@ We offer several levels of Memberships, based on training activities expected an
 |Train an in-house instructor <br>trainer at member org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
 |Joint Fee (annual)|[$5,000](mailto:partnerships@carpentries.org?subject=Interested in Bronze Membership)|[$7,500](mailto:partnerships@carpentries.org?subject=Interested in Silver Membership)|[$15,000](mailto:partnerships@carpentries.org?subject=Interested in Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Platinum Membership)|
-|SC or DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Membership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Membership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Membership)|
+|DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Membership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Membership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Membership)|
 
 
 #### Notes
