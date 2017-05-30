@@ -3524,7 +3524,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170529T230005Z
+timestamp: 20170530T000005Z
 workshops:
 - &id002
   - address: 430 Nahant Road, Nahant, MA 01908
@@ -5263,6 +5263,20 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/
     venue: University of Wisconsin-Madison
+  - address: Builing 43-G01 (STF)
+    contact: bmarwick@uow.edu.au
+    country: AU
+    end: 2017-06-16
+    eventbrite_id: '34839691455'
+    humandate: Jun 15-16, 2017
+    latitude: -34.40571
+    longitude: 150.881288
+    slug: 2017-06-15-uow
+    start: 2017-06-15
+    tags:
+    - {name: DC}
+    url: https://benmarwick.github.io/2017-06-15-uow/
+    venue: University of Wollongong
   - address: Albert R. Mann Library Room B30A, 237 Mann Drive, Cornell University
     contact: cscu@cornell.edu
     country: US
