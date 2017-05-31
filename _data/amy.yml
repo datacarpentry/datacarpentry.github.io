@@ -924,6 +924,7 @@ airports:
   - {name: Chris Bording, user: bording_chris}
   - {name: Raffaella Demichelis, user: demichelis_raffaella}
   - {name: Andrew Rohl, user: rohl_andrew}
+  - {name: Stefania Bertazzoni, user: bertazzoni_stefania}
   latitude: -31.940278
   longitude: 115.966944
   name: Perth
@@ -1871,6 +1872,7 @@ airports:
   name: Appleton International Airport
 - country: ca
   instructors:
+  - {name: Danielle Quinn, user: quinn_danielle}
   - {name: Oliver Stueker, user: stueker_oliver}
   latitude: 47.6211888
   longitude: -52.8124826
@@ -3522,7 +3524,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170525T190005Z
+timestamp: 20170531T150005Z
 workshops:
 - &id002
   - address: 430 Nahant Road, Nahant, MA 01908
@@ -5247,6 +5249,34 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Health Sciences Learning Center, 750 Highland Ave, Madison, WI 53705
+    contact: adamus@wisc.edu
+    country: US
+    end: 2017-06-20
+    eventbrite_id: '34081730373'
+    humandate: Jun 19-20, 2017
+    latitude: 43.077319
+    longitude: -89.430135
+    slug: 2017-06-19-uwmadison-dc
+    start: 2017-06-19
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/
+    venue: University of Wisconsin-Madison
+  - address: Builing 43-G01 (STF)
+    contact: bmarwick@uow.edu.au
+    country: AU
+    end: 2017-06-16
+    eventbrite_id: '34839691455'
+    humandate: Jun 15-16, 2017
+    latitude: -34.40571
+    longitude: 150.881288
+    slug: 2017-06-15-uow
+    start: 2017-06-15
+    tags:
+    - {name: DC}
+    url: https://benmarwick.github.io/2017-06-15-uow/
+    venue: University of Wollongong
   - address: Albert R. Mann Library Room B30A, 237 Mann Drive, Cornell University
     contact: cscu@cornell.edu
     country: US
@@ -5261,6 +5291,20 @@ workshops:
     - {name: DC}
     url: https://emudrak.github.io/2017-06-14-cornell/
     venue: Cornell University
+  - address: PACCAR 202, Pullman, WA
+    contact: stephanie.labou@wsu.edu
+    country: US
+    end: 2017-06-12
+    eventbrite_id: ''
+    humandate: Jun 08-12, 2017
+    latitude: 46.7298
+    longitude: -117.1817
+    slug: 2017-06-08-wsu
+    start: 2017-06-08
+    tags:
+    - {name: DC}
+    url: https://stephlabou.github.io/2017-06-08-wsu/
+    venue: Washington State University
   - address: 210 South Ferry Road, Narragansett, RI
     contact: hollister.jeff@epa.gov
     country: US
