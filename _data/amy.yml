@@ -3524,7 +3524,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170601T150004Z
+timestamp: 20170601T160005Z
 workshops:
 - &id002
   - address: 430 Nahant Road, Nahant, MA 01908
@@ -5249,6 +5249,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 116 Honors Way Tallahassee, FL 32306
+    contact: rsmart@fsu.edu
+    country: US
+    end: 2017-06-30
+    eventbrite_id: '34822507056'
+    humandate: Jun 29-30, 2017
+    latitude: 30.443059
+    longitude: -84.294984
+    slug: 2017-06-29-fsu
+    start: 2017-06-29
+    tags:
+    - {name: DC}
+    url: https://fsulib.github.io/2017-06-29-fsu/
+    venue: Florida State University
   - address: Health Sciences Learning Center, 750 Highland Ave, Madison, WI 53705
     contact: adamus@wisc.edu
     country: US
