@@ -2894,6 +2894,13 @@ badges:
   - {awarded: '2017-05-22', name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
   - {awarded: '2017-05-22', name: Stefan Lüdtke, user: ldtke_stefan}
   - {awarded: '2017-05-22', name: Marvin Reich, user: reich_marvin}
+  - {awarded: '2017-06-01', name: Thomas Dowrick, user: dowrick_tom}
+  - {awarded: '2017-06-01', name: Tanya Flynn, user: flynn_tanya}
+  - {awarded: '2017-06-01', name: Leo Browning, user: browning_leo}
+  - {awarded: '2017-06-01', name: Stephen Davison, user: davison_stephen}
+  - {awarded: '2017-06-01', name: Todd Gamblin, user: gamblin_todd}
+  - {awarded: '2017-06-01', name: Hannah Kronenberg, user: kronenberg_hannah}
+  - {awarded: '2017-06-01', name: Vinai Roopchansingh, user: roopchansingh_vinai}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3456,6 +3463,8 @@ badges:
   - {awarded: '2017-05-10', name: Alexander Pletzer, user: pletzer_alexander}
   - {awarded: '2017-05-22', name: Danielle Quinn, user: quinn_danielle}
   - {awarded: '2017-05-22', name: Jieming Chen, user: chen_jieming}
+  - {awarded: '2017-06-01', name: Angelique Van Rensburg, user: van-rensburg_angelique}
+  - {awarded: '2017-06-01', name: Jacqueline Muller, user: muller_jacqueline}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3489,6 +3498,7 @@ badges:
   - {awarded: '2016-03-03', name: John Gosset, user: gosset_john}
   - {awarded: '2016-03-03', name: April Wright, user: wright_april}
   - {awarded: '2016-03-03', name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {awarded: '2017-06-01', name: Erin Alison Becker, user: becker_erin}
 - name: trainer
   persons:
   - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
@@ -3519,7 +3529,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170601T180005Z
+timestamp: 20170601T190004Z
 workshops:
 - &id002
   - address: 430 Nahant Road, Nahant, MA 01908
