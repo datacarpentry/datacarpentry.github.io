@@ -2901,6 +2901,8 @@ badges:
   - {awarded: '2017-06-01', name: Todd Gamblin, user: gamblin_todd}
   - {awarded: '2017-06-01', name: Hannah Kronenberg, user: kronenberg_hannah}
   - {awarded: '2017-06-01', name: Vinai Roopchansingh, user: roopchansingh_vinai}
+  - {awarded: '2017-06-01', name: Matthew Whitlock, user: whitlock_matthew}
+  - {awarded: '2017-06-01', name: Olivia Burge, user: burge_olivia}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3465,6 +3467,7 @@ badges:
   - {awarded: '2017-05-22', name: Jieming Chen, user: chen_jieming}
   - {awarded: '2017-06-01', name: Angelique Van Rensburg, user: van-rensburg_angelique}
   - {awarded: '2017-06-01', name: Jacqueline Muller, user: muller_jacqueline}
+  - {awarded: '2017-06-01', name: Beth Hellen, user: hellen_beth}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3529,7 +3532,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170601T200006Z
+timestamp: 20170601T210006Z
 workshops:
 - &id002
   - address: 430 Nahant Road, Nahant, MA 01908
