@@ -282,6 +282,7 @@ airports:
   - {name: Denise Liberton, user: liberton_denise}
   - {name: David McGaughey, user: mcgaughey_david}
   - {name: Steve Bond, user: bond_s}
+  - {name: Vinai Roopchansingh, user: roopchansingh_vinai}
   - {name: Ian Carroll, user: carroll_ian}
   latitude: 38.851944
   longitude: -77.0375
@@ -511,6 +512,7 @@ airports:
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {name: Afrah Shafquat, user: shafquat_afrah}
   - {name: Mary Catherine Kinniburgh, user: kinniburgh_mary-catherine}
+  - {name: Hannah Akemi Kronenberg, user: kronenberg_hannah}
   latitude: 40.639722
   longitude: -73.778889
   name: New York JFK, NY
@@ -679,6 +681,7 @@ airports:
   - {name: Jarek Bryk, user: bryk_jarek}
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
   - {name: Nick James, user: james_nick}
+  - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -1058,6 +1061,7 @@ airports:
   - {name: Lachlan Deer, user: deer_lachlan}
   - {name: Geoffrey Boushey, user: boushey_geoffrey}
   - {name: Miriam B Goodman, user: goodman_miriam}
+  - {name: Todd Gamblin, user: gamblin_todd}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -1604,6 +1608,7 @@ airports:
   - {name: Bianca Peterson, user: peterson_bianca}
   - {name: Hannes Calitz, user: calitz_hannes}
   - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
+  - {name: Jacqueline Muller, user: muller_jacqueline}
   latitude: -26.138773
   longitude: 28.241339
   name: O. R. Tambo International Airport
@@ -1989,6 +1994,12 @@ airports:
   latitude: 36.1666667
   longitude: -97.0833333
   name: Searcy Fld Airport
+- country: my
+  instructors:
+  - {name: Angelique van Rensburg, user: van-rensburg_angelique}
+  latitude: 1.64131
+  longitude: 103.6699982
+  name: Senai International Airport
 badges:
 - name: creator
   persons:
@@ -2899,7 +2910,7 @@ badges:
   - {awarded: '2017-06-01', name: Leo Browning, user: browning_leo}
   - {awarded: '2017-06-01', name: Stephen Davison, user: davison_stephen}
   - {awarded: '2017-06-01', name: Todd Gamblin, user: gamblin_todd}
-  - {awarded: '2017-06-01', name: Hannah Kronenberg, user: kronenberg_hannah}
+  - {awarded: '2017-06-01', name: Hannah Akemi Kronenberg, user: kronenberg_hannah}
   - {awarded: '2017-06-01', name: Vinai Roopchansingh, user: roopchansingh_vinai}
   - {awarded: '2017-06-01', name: Matthew Whitlock, user: whitlock_matthew}
   - {awarded: '2017-06-01', name: Olivia Burge, user: burge_olivia}
@@ -3465,7 +3476,7 @@ badges:
   - {awarded: '2017-05-10', name: Alexander Pletzer, user: pletzer_alexander}
   - {awarded: '2017-05-22', name: Danielle Quinn, user: quinn_danielle}
   - {awarded: '2017-05-22', name: Jieming Chen, user: chen_jieming}
-  - {awarded: '2017-06-01', name: Angelique Van Rensburg, user: van-rensburg_angelique}
+  - {awarded: '2017-06-01', name: Angelique van Rensburg, user: van-rensburg_angelique}
   - {awarded: '2017-06-01', name: Jacqueline Muller, user: muller_jacqueline}
   - {awarded: '2017-06-01', name: Beth Hellen, user: hellen_beth}
 - name: maintainer
@@ -3529,10 +3540,10 @@ badges:
   - {awarded: '2017-05-08', name: Karen Word, user: word_karen}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
-    it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
+    it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170605T000004Z
+timestamp: 20170605T010005Z
 workshops:
 - &id002
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
