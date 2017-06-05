@@ -3543,7 +3543,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170605T120006Z
+timestamp: 20170605T130005Z
 workshops:
 - &id002
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
@@ -5297,6 +5297,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Room 206, Library, Oklahoma State University
+    contact: doehle@okstate.edu
+    country: US
+    end: 2017-07-28
+    eventbrite_id: '35020119119'
+    humandate: Jul 27-28, 2017
+    latitude: 36.123021
+    longitude: -97.069724
+    slug: 2017-07-27-okstate
+    start: 2017-07-27
+    tags:
+    - {name: DC}
+    url: https://osu-carpentry.github.io/2017-07-27-okstate/
+    venue: Oklahoma State University
   - address: 116 Honors Way Tallahassee, FL 32306
     contact: rsmart@fsu.edu
     country: US
