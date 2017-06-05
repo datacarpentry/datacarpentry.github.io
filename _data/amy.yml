@@ -1385,6 +1385,7 @@ airports:
   - {name: Dustin Lang, user: lang_dustin}
   - {name: Ted Belke, user: belke_ted}
   - {name: Cindy Chen, user: chen_cindy}
+  - {name: Elaine Wong, user: wong_elaine}
   latitude: 43.677222
   longitude: -79.630556
   name: Toronto
@@ -3543,7 +3544,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170605T150005Z
+timestamp: 20170605T160004Z
 workshops:
 - &id002
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
