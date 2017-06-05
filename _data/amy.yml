@@ -3539,12 +3539,20 @@ badges:
   - {awarded: '2017-05-08', name: Sue McClatchy, user: mcclatchy_susan}
   - {awarded: '2017-05-08', name: Tim Dennis, user: dennis_tim}
   - {awarded: '2017-05-08', name: Karen Word, user: word_karen}
+  - {awarded: '2017-06-05', name: Christopher Hamm, user: hamm_christopher}
+  - {awarded: '2017-06-05', name: Naupaka Zimmerman, user: zimmerman_naupaka}
+  - {awarded: '2017-06-05', name: Jeffrey Oliver, user: oliver_jeffrey}
+  - {awarded: '2017-06-05', name: Aleksandra Nenadic, user: nenadic_aleksandra}
+  - {awarded: '2017-06-05', name: Martin Callaghan, user: callaghan_martin}
+  - {awarded: '2017-06-05', name: Jonah Duckles, user: duckles_jonah}
+  - {awarded: '2017-06-05', name: Maneesha Sane, user: sane_maneesha}
+  - {awarded: '2017-06-05', name: Mark Laufersweiler, user: laufersweiler_mark}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170605T160004Z
+timestamp: 20170605T170004Z
 workshops:
 - &id002
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
