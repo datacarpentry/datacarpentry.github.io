@@ -682,6 +682,7 @@ airports:
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
   - {name: Nick James, user: james_nick}
   - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
+  - {name: Beth Montague-Hellen, user: hellen_beth}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -994,7 +995,6 @@ airports:
   name: San Luis Obispo, CA
 - country: us
   instructors:
-  - {name: Bradley Taber-Thomas, user: taber-thomas_bradley}
   - {name: John Leeman, user: leeman_john}
   latitude: 40.855881
   longitude: -77.843841
@@ -1010,7 +1010,6 @@ airports:
   - {name: Russell Alleen-Willems, user: alleen-willems_russell}
   - {name: Rebecca Blakewood, user: blakewood_becca}
   - {name: Sophie Clayton, user: clayton_sophie}
-  - {name: Aaron Erlich, user: erlich_aaron}
   - {name: Jordan Fish, user: fish_jordan}
   - {name: Abraham Flaxman, user: flaxman_abraham}
   - {name: Emilia Gan, user: gan_emilia}
@@ -1056,6 +1055,7 @@ airports:
   - {name: Daniela M Ushizima, user: ushizima_daniela}
   - {name: Ramnath Vaidyanathan, user: vaidyanathan_ramnath}
   - {name: Qingpeng Zhang, user: zhang_qp}
+  - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {name: Megan Laurance, user: laurance_megan}
   - {name: Stuart Geiger, user: geiger_stuart}
   - {name: Lachlan Deer, user: deer_lachlan}
@@ -1192,7 +1192,6 @@ airports:
   - {name: Karthik Srinivasan, user: srinivasan_karthik}
   - {name: Jonathan Strootman, user: strootman_jonathan}
   - {name: Philipp Von Bieberstein, user: von-bieberstein_philipp}
-  - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {name: Victor Cordero, user: cordero_victor}
   - {name: Alison Appling, user: appling_alison}
   - {name: Asher Baltzell, user: baltzell_asher}
@@ -1226,6 +1225,7 @@ airports:
   name: Edmonton
 - country: ca
   instructors:
+  - {name: Remi M Daigle, user: daigle_remi}
   - {name: Ross Dickson, user: dickson_r}
   - {name: Chris Matthew Geroux, user: geroux_chris}
   - {name: Daniel Deveau, user: deveau_daniel}
@@ -1243,7 +1243,6 @@ airports:
   name: Ottawa
 - country: ca
   instructors:
-  - {name: Remi Daigle, user: daigle_remi}
   - {name: Olivier Lafleur, user: lafleur_olivier}
   - {name: Laurent Duchesne, user: duchesne_laurent}
   - {name: Maxime Boissonneault, user: boissonneault_maxime}
@@ -1262,6 +1261,7 @@ airports:
   instructors:
   - {name: Marianne Corvellec, user: corvellec_marianne}
   - {name: Gabriel A. Devenyi, user: devenyi_gabriel}
+  - {name: Aaron Erlich, user: erlich_aaron}
   - {name: Mahtab Ghamsari-Esfahani, user: ghamsari-esfahani_mahtab}
   - {name: John Gosset, user: gosset_john}
   - {name: Denis Haine, user: haine_denis}
@@ -2001,6 +2001,12 @@ airports:
   latitude: 1.64131
   longitude: 103.6699982
   name: Senai International Airport
+- country: us
+  instructors:
+  - {name: Brad Taber-Thomas, user: taber-thomas_bradley}
+  latitude: 42.9404984
+  longitude: -78.7322006
+  name: Buffalo Niagara International Airport
 badges:
 - name: creator
   persons:
@@ -2321,7 +2327,7 @@ badges:
   - {awarded: '2013-07-20', name: Sarah Supp, user: supp_s}
   - {awarded: '2014-09-18', name: Svaksha -, user: svaksha}
   - {awarded: '2013-12-05', name: Gayathri Swaminathan, user: swaminathan_gayathri}
-  - {awarded: '2014-05-09', name: Bradley Taber-Thomas, user: taber-thomas_bradley}
+  - {awarded: '2014-05-09', name: Brad Taber-Thomas, user: taber-thomas_bradley}
   - {awarded: '2014-10-03', name: Scott Talafuse, user: talafuse_scott}
   - {awarded: '2014-05-04', name: Leszek Tarkowski, user: tarkowski_leszek}
   - {awarded: '2015-03-12', name: Rebecca Tarvin, user: tarvin_becca}
@@ -2379,7 +2385,7 @@ badges:
   - {awarded: '2015-05-05', name: Amy Boyle, user: boyle_amy}
   - {awarded: '2015-05-05', name: Karl Broman, user: broman_karl}
   - {awarded: '2015-05-14', name: Will Cornwell, user: cornwell_will}
-  - {awarded: '2015-05-05', name: Remi Daigle, user: daigle_remi}
+  - {awarded: '2015-05-05', name: Remi M Daigle, user: daigle_remi}
   - {awarded: '2015-05-05', name: Susan Duncan, user: duncan_susan}
   - {awarded: '2015-05-05', name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
   - {awarded: '2015-05-05', name: Filipe Fernandes, user: fernandes_filipe}
@@ -3270,7 +3276,7 @@ badges:
   - {awarded: '2016-10-06', name: Sergey Mashchenko, user: mashchenko_sergey}
   - {awarded: '2016-10-06', name: Klemens Noga, user: noga_klemens}
   - {awarded: '2016-10-06', name: Logan Cox, user: cox_logan}
-  - {awarded: '2016-10-06', name: Remi Daigle, user: daigle_remi}
+  - {awarded: '2016-10-06', name: Remi M Daigle, user: daigle_remi}
   - {awarded: '2016-10-25', name: Christian Barra, user: barra_christian}
   - {awarded: '2016-11-03', name: Raoul Wolf, user: wolf_raoul}
   - {awarded: '2016-11-11', name: Lisa Breckels, user: breckels_lisa}
@@ -3337,7 +3343,7 @@ badges:
   - {awarded: '2016-11-11', name: Hugo Tavares, user: tavares_hugo}
   - {awarded: '2016-11-19', name: Kivan Polimis, user: polimis_kivan}
   - {awarded: '2016-11-28', name: Willem Ligtenberg, user: ligtenberg_willem}
-  - {awarded: '2016-12-01', name: Bradley Taber-Thomas, user: taber-thomas_bradley}
+  - {awarded: '2016-12-01', name: Brad Taber-Thomas, user: taber-thomas_bradley}
   - {awarded: '2016-12-01', name: Hartmut Schmider, user: schmider_hartmut}
   - {awarded: '2016-12-01', name: Dan MacLean, user: maclean_dan}
   - {awarded: '2016-12-01', name: James Hetherington, user: hetherington_james}
@@ -3479,7 +3485,7 @@ badges:
   - {awarded: '2017-05-22', name: Jieming Chen, user: chen_jieming}
   - {awarded: '2017-06-01', name: Angelique van Rensburg, user: van-rensburg_angelique}
   - {awarded: '2017-06-01', name: Jacqueline Muller, user: muller_jacqueline}
-  - {awarded: '2017-06-01', name: Beth Hellen, user: hellen_beth}
+  - {awarded: '2017-06-01', name: Beth Montague-Hellen, user: hellen_beth}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3552,7 +3558,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170606T170004Z
+timestamp: 20170606T180007Z
 workshops:
 - &id002
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
