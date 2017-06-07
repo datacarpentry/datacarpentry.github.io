@@ -5,7 +5,7 @@ title: "Instructor Access to Workshops"
 teaser: "Working with hosts and instructors on workshop access"
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
-Categories:
+categories:
    - blog
 comments: true
 show_meta: true
