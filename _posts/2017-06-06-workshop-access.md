@@ -4,9 +4,9 @@ subheadline:
 title: "Instructor Access to Workshops"
 teaser: "Working with hosts and instructors on workshop access"
 header:
-image_fullwidth: "light-blue-wood-texture.jpg"
+   image_fullwidth: "light-blue-wood-texture.jpg"
 Categories:
-- blog
+   - blog
 comments: true
 show_meta: true
 authors: ["Erin Becker", "Jonah Duckles", "Kari L. Jordan", "Maneesha Sane", "Tracy Teal"]
