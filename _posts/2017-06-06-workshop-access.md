@@ -9,7 +9,7 @@ Categories:
 - blog
 comments: true
 show_meta: true
-authors: ["Erin Becker, Jonah Duckles, Kari L. Jordan, Maneesha Sane, Tracy Teal"]
+authors: ["Erin Becker", "Jonah Duckles", "Kari L. Jordan", "Maneesha Sane", "Tracy Teal"]
 ---
 
 Software and Data Carpentry share a mission to spread computational and data literacy to the broader research community at a wide range of institutional types across the world. We also share core community values of openness and inclusiveness.
