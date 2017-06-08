@@ -211,6 +211,7 @@ airports:
   - {name: Viktor Polak, user: polak_viktor}
   - {name: Christopher Thomson, user: thomson_christopher}
   - {name: Michael Gauland, user: gauland_michael}
+  - {name: Olivia Rata Burge, user: burge_olivia}
   - {name: Ben Roberts, user: roberts_ben}
   latitude: -43.489167
   longitude: 172.532222
@@ -611,7 +612,7 @@ airports:
   name: London Gatwick
 - country: gb
   instructors:
-  - {name: Rob Beagrie, user: beagrie_robert}
+  - {name: Robert A Beagrie, user: beagrie_robert}
   - {name: Miguel Bernabeu, user: bernabeu_miguel}
   - {name: Chris Cannam, user: cannam_c}
   - {name: Rich FitzJohn, user: fitzjohn_rich}
@@ -1101,7 +1102,7 @@ airports:
   - {name: Daniel Standage, user: standage_daniel}
   - {name: Tracy Teal, user: teal_t}
   - {name: Easton White, user: white_easton}
-  - {name: Jessica Mizzi, user: mizzi_jessica}
+  - {name: Jessica Elizabeth Mizzi, user: mizzi_jessica}
   - {name: Myfanwy Johnston, user: johnston_myfanwy}
   - {name: Jaime Ashander, user: ashander_jaime}
   - {name: Ryan Peek, user: peek_ryan}
@@ -1609,6 +1610,7 @@ airports:
   - {name: Bianca Peterson, user: peterson_bianca}
   - {name: Hannes Calitz, user: calitz_hannes}
   - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
+  - {name: Martin Dreyer, user: dreyer_martin}
   - {name: Jacqueline Muller, user: muller_jacqueline}
   latitude: -26.138773
   longitude: 28.241339
@@ -2050,7 +2052,7 @@ badges:
   - {awarded: '2014-11-27', name: Radovan Bast, user: bast_radovan}
   - {awarded: '2014-11-05', name: Dana Bauer, user: bauer_dana}
   - {awarded: '2013-11-17', name: Philipp Bayer, user: bayer_p}
-  - {awarded: '2014-05-09', name: Rob Beagrie, user: beagrie_robert}
+  - {awarded: '2014-05-09', name: Robert A Beagrie, user: beagrie_robert}
   - {awarded: '2014-05-04', name: Trevor Bekolay, user: bekolay_trevor}
   - {awarded: '2013-11-17', name: Nichole Bennett, user: bennett_n}
   - {awarded: '2014-07-22', name: Miguel Bernabeu, user: bernabeu_miguel}
@@ -2493,7 +2495,7 @@ badges:
   - {awarded: '2015-10-22', name: John Moreau, user: moreau_john}
   - {awarded: '2015-10-22', name: Raissa Philibert, user: philibert_raissa}
   - {awarded: '2015-10-22', name: Chris Tomlinson, user: tomlinson_christopher}
-  - {awarded: '2015-11-25', name: Jessica Mizzi, user: mizzi_jessica}
+  - {awarded: '2015-11-25', name: Jessica Elizabeth Mizzi, user: mizzi_jessica}
   - {awarded: '2015-12-08', name: Mike Wallis, user: wallis_mike}
   - {awarded: '2015-12-08', name: Gang Liu, user: liu_gang}
   - {awarded: '2015-12-08', name: James Derrick, user: derrick_james}
@@ -2920,7 +2922,7 @@ badges:
   - {awarded: '2017-06-01', name: Hannah Akemi Kronenberg, user: kronenberg_hannah}
   - {awarded: '2017-06-01', name: Vinai Roopchansingh, user: roopchansingh_vinai}
   - {awarded: '2017-06-01', name: Matthew Whitlock, user: whitlock_matthew}
-  - {awarded: '2017-06-01', name: Olivia Burge, user: burge_olivia}
+  - {awarded: '2017-06-01', name: Olivia Rata Burge, user: burge_olivia}
   - {awarded: '2017-06-08', name: Jonathan Cooper, user: cooper_jonathan}
   - {awarded: '2017-06-08', name: Jojo Karlin, user: karlin_jojo}
 - name: member
@@ -3262,7 +3264,7 @@ badges:
   - {awarded: '2016-10-11', name: Marco Chiapello, user: chiapello_marco}
   - {awarded: '2016-10-14', name: Christopher Mędrela, user: medrela_krzysztof}
   - {awarded: '2016-10-14', name: Afrah Shafquat, user: shafquat_afrah}
-  - {awarded: '2016-10-06', name: Jessica Mizzi, user: mizzi_jessica}
+  - {awarded: '2016-10-06', name: Jessica Elizabeth Mizzi, user: mizzi_jessica}
   - {awarded: '2016-10-06', name: VP Peter Nagraj, user: nagraj_vp}
   - {awarded: '2016-10-06', name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {awarded: '2016-10-06', name: Dana Bauer, user: bauer_dana}
@@ -3322,7 +3324,7 @@ badges:
   - {awarded: '2016-11-15', name: Luke William Johnston, user: johnston_luke}
   - {awarded: '2016-11-15', name: Rémi Emonet, user: emonet_remi}
   - {awarded: '2016-11-15', name: Tyson Whitehead, user: whitehead_tyson}
-  - {awarded: '2016-11-15', name: Rob Beagrie, user: beagrie_robert}
+  - {awarded: '2016-11-15', name: Robert A Beagrie, user: beagrie_robert}
   - {awarded: '2016-11-15', name: Jonathan Guyer, user: guyer_jonathan}
   - {awarded: '2016-11-15', name: Luis Pedro Coelho, user: coelho_luis}
   - {awarded: '2016-11-15', name: Yu-Ching Shih, user: shih_yu-ching}
@@ -3561,7 +3563,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170608T200005Z
+timestamp: 20170608T210005Z
 workshops:
 - &id002
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
