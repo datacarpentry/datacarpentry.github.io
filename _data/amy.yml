@@ -2921,6 +2921,8 @@ badges:
   - {awarded: '2017-06-01', name: Vinai Roopchansingh, user: roopchansingh_vinai}
   - {awarded: '2017-06-01', name: Matthew Whitlock, user: whitlock_matthew}
   - {awarded: '2017-06-01', name: Olivia Burge, user: burge_olivia}
+  - {awarded: '2017-06-08', name: Jonathan Cooper, user: cooper_jonathan}
+  - {awarded: '2017-06-08', name: Jojo Karlin, user: karlin_jojo}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3486,6 +3488,7 @@ badges:
   - {awarded: '2017-06-01', name: Angelique van Rensburg, user: van-rensburg_angelique}
   - {awarded: '2017-06-01', name: Jacqueline Muller, user: muller_jacqueline}
   - {awarded: '2017-06-01', name: Beth Montague-Hellen, user: hellen_beth}
+  - {awarded: '2017-06-08', name: James Baker, user: baker_james_2}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3558,7 +3561,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170608T180005Z
+timestamp: 20170608T190004Z
 workshops:
 - &id002
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
