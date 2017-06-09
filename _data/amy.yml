@@ -359,7 +359,7 @@ airports:
   - {name: Marian Schmidt, user: schmidt_marian}
   - {name: Clara Louise Shaw, user: shaw_clara}
   - {name: Leigh Sheneman, user: sheneman_leigh}
-  - {name: Byron Smith, user: smith_byron}
+  - {name: Byron Jacob Smith, user: smith_byron}
   - {name: Shawn Whitefield, user: whitefield_shawn}
   - {name: Akima George, user: george_akima}
   - {name: Alix Keener, user: keener_alix}
@@ -2425,7 +2425,7 @@ badges:
   - {awarded: '2015-06-12', name: Jeremy Gray, user: gray_jeremy}
   - {awarded: '2015-06-12', name: John Pormann, user: pormann_john}
   - {awarded: '2015-06-12', name: Juan Nunez-Iglesias, user: nunez-iglesias_juan}
-  - {awarded: '2015-06-12', name: Byron Smith, user: smith_byron}
+  - {awarded: '2015-06-12', name: Byron Jacob Smith, user: smith_byron}
   - {awarded: '2015-06-12', name: Michelle Berry, user: berry_michelle}
   - {awarded: '2015-06-12', name: Emily Dolson, user: dolson_emily}
   - {awarded: '2015-06-12', name: Joshua Nahum, user: nahum_josh}
@@ -3032,7 +3032,7 @@ badges:
   - {awarded: '2016-01-27', name: Ben Marwick, user: marwick_ben}
   - {awarded: '2016-01-27', name: Bernhard Konrad, user: konrad_b}
   - {awarded: '2016-01-27', name: Roman Valls Guimera, user: valls-guimera_roman}
-  - {awarded: '2016-01-27', name: Byron Smith, user: smith_byron}
+  - {awarded: '2016-01-27', name: Byron Jacob Smith, user: smith_byron}
   - {awarded: '2016-01-27', name: C. Titus Brown, user: brown_ct}
   - {awarded: '2016-01-27', name: Devasena Inupakutika, user: inupakutika_devasena}
   - {awarded: '2016-01-27', name: Darya Vanichkina, user: vanichkina_darya}
@@ -3562,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T190003Z
+timestamp: 20170609T200004Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
