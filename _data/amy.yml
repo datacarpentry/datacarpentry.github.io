@@ -3563,9 +3563,23 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T040005Z
+timestamp: 20170609T050005Z
 workshops:
 - &id002
+  - address: 210 South Ferry Road, Narragansett, RI
+    contact: hollister.jeff@epa.gov
+    country: us
+    end: 2017-06-08
+    eventbrite_id: ''
+    humandate: Jun 07-08, 2017
+    latitude: 41.492985
+    longitude: -71.422119
+    slug: 2017-06-07-uri
+    start: 2017-06-07
+    tags:
+    - {name: DC}
+    url: http://rhodyrstats.org/2017-06-07-uri/
+    venue: University of Rhode Island - Coastal Institute
   - address: Room MAP.01.004, Mathematics and Physics Teaching Centre, QUB
     contact: support@archer.ac.uk
     country: gb
@@ -5401,19 +5415,5 @@ workshops:
     - {name: DC}
     url: https://stephlabou.github.io/2017-06-08-wsu/
     venue: Washington State University
-  - address: 210 South Ferry Road, Narragansett, RI
-    contact: hollister.jeff@epa.gov
-    country: US
-    end: 2017-06-08
-    eventbrite_id: ''
-    humandate: Jun 07-08, 2017
-    latitude: 41.492985
-    longitude: -71.422119
-    slug: 2017-06-07-uri
-    start: 2017-06-07
-    tags:
-    - {name: DC}
-    url: http://rhodyrstats.org/2017-06-07-uri/
-    venue: University of Rhode Island - Coastal Institute
 workshops_current: *id001
 workshops_past: *id002
