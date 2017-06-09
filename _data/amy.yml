@@ -190,7 +190,6 @@ airports:
   name: Baltimore, MD
 - country: fr
   instructors:
-  - {name: Nelle Varoquaux, user: varoquaux_n}
   - {name: Bartosz Telenczuk, user: telenczuk_bartosz}
   - {name: Andrew Davison, user: davison_andrew}
   - {name: Marcel Stimberg, user: stimberg_marcel}
@@ -211,6 +210,7 @@ airports:
   - {name: Viktor Polak, user: polak_viktor}
   - {name: Christopher Thomson, user: thomson_christopher}
   - {name: Michael Gauland, user: gauland_michael}
+  - {name: Olivia Rata Burge, user: burge_olivia}
   - {name: Ben Roberts, user: roberts_ben}
   latitude: -43.489167
   longitude: 172.532222
@@ -254,6 +254,7 @@ airports:
   instructors:
   - {name: Chelsea Chisholm, user: chisholm_chelsea}
   - {name: Johan Hjelm, user: hjelm_johan}
+  - {name: Jens Hedegaard Nielsen, user: nielsen_jens}
   - {name: Kai Blin, user: blin_kai}
   - {name: Sigrid Klerke, user: klerke_sigrid}
   latitude: 55.617778
