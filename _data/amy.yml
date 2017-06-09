@@ -1359,7 +1359,7 @@ airports:
   - {name: Erik Spence, user: spence_erik}
   - {name: Baolai Ge, user: ge_baolai}
   - {name: Brendan Smithyman, user: smithyman_brendan}
-  - {name: Madeleine Bonsma, user: bonsma_madeleine}
+  - {name: Madeleine Bonsma-Fisher, user: bonsma_madeleine}
   - {name: Lindsay Coome, user: coome_lindsay}
   - {name: Sarah Meister, user: meister_sarah}
   - {name: Elliott Sales de Andrade, user: sales_elliott}
@@ -2547,7 +2547,7 @@ badges:
   - {awarded: '2016-02-08', name: Rohit Rawat, user: rawat_rohit}
   - {awarded: '2016-02-09', name: Josh Waterfall, user: waterfall_josh}
   - {awarded: '2016-02-09', name: R. Burke Burke Squires, user: squires_r_burke}
-  - {awarded: '2016-02-11', name: Madeleine Bonsma, user: bonsma_madeleine}
+  - {awarded: '2016-02-11', name: Madeleine Bonsma-Fisher, user: bonsma_madeleine}
   - {awarded: '2016-02-11', name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
   - {awarded: '2016-02-11', name: Athanassios Kintsakis, user: kintsakis_athanassios}
   - {awarded: '2016-02-11', name: Antonia Gogoglou, user: gogoglou_antonia}
@@ -3562,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T200004Z
+timestamp: 20170609T210006Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
