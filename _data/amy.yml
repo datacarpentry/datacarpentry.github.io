@@ -549,6 +549,7 @@ airports:
 - country: us
   instructors:
   - {name: Mark Wilber, user: wilber_mark}
+  - {name: Tim Dennis, user: dennis_tim}
   latitude: 33.9415889
   longitude: -118.40853
   name: Los Angeles, CA
@@ -691,7 +692,6 @@ airports:
 - country: us
   instructors:
   - {name: Christopher Hamm, user: hamm_christopher}
-  - {name: Emily Jane McTavish, user: mctavish_ej}
   - {name: John Moreau, user: moreau_john}
   latitude: 39.2975
   longitude: -94.713889
@@ -772,7 +772,6 @@ airports:
   - {name: Lauren Michael, user: michael_lauren}
   - {name: Emily Read, user: read_emily}
   - {name: Sarah Stevens, user: stevens_sarah}
-  - {name: Sarah Supp, user: supp_s}
   - {name: Paul Wilson, user: wilson_p}
   - {name: Laura DeCicco, user: decicco_laura}
   - {name: Lindsay Carr, user: carr_lindsay}
@@ -867,7 +866,7 @@ airports:
   - {name: Jason Sherman, user: sherman_jason}
   - {name: Sarah Clayton, user: clayton_sarah}
   - {name: Jamie Hadwin, user: hadwin_jamie}
-  - {name: Peter Hoyt, user: hoyt_peter}
+  - {name: Peter R. Hoyt, user: hoyt_peter}
   - {name: Phillip Doehle, user: doehle_phillip}
   - {name: Patrick Boyle, user: boyle_patrick}
   - {name: Ross Allen Bowman, user: bowman_ross}
@@ -985,7 +984,6 @@ airports:
   - {name: Tessa Pierce, user: pierce_tessa}
   - {name: Juliane Schneider, user: schneider_juliane}
   - {name: Andrea Zonca, user: zonca_andrea}
-  - {name: Tim Dennis, user: dennis_tim}
   - {name: Reid Otsuji, user: otsuji_reid}
   latitude: 32.733333
   longitude: -117.189444
@@ -1065,6 +1063,7 @@ airports:
   - {name: Geoffrey Boushey, user: boushey_geoffrey}
   - {name: Miriam B Goodman, user: goodman_miriam}
   - {name: Todd Gamblin, user: gamblin_todd}
+  - {name: Claudia Engel, user: engel_claudia}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -1078,6 +1077,7 @@ airports:
   instructors:
   - {name: Steve Haddock, user: haddock_s}
   - {name: Amy E. Hodge, user: hodge_amy}
+  - {name: Emily Jane McTavish, user: mctavish_ej}
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
@@ -1498,6 +1498,7 @@ airports:
 - country: us
   instructors:
   - {name: Robert Flight, user: flight_r}
+  - {name: Sarah Supp, user: supp_s}
   latitude: 39.0488014
   longitude: -84.6678009
   name: Cincinnati, KY
@@ -2605,7 +2606,7 @@ badges:
   - {awarded: '2016-03-01', name: Bérénice Batut, user: batut_berenice}
   - {awarded: '2016-03-01', name: Melissa Guzman, user: guzman_melissa}
   - {awarded: '2016-03-01', name: Diana Marek, user: marek_diana}
-  - {awarded: '2016-03-01', name: Peter Hoyt, user: hoyt_peter}
+  - {awarded: '2016-03-01', name: Peter R. Hoyt, user: hoyt_peter}
   - {awarded: '2016-03-01', name: Andrés Díaz-Gil, user: diaz-gil_andres}
   - {awarded: '2016-03-01', name: Stuart Mumford, user: mumford_stuart}
   - {awarded: '2016-03-01', name: Sigrid Klerke, user: klerke_sigrid}
@@ -3566,7 +3567,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T170005Z
+timestamp: 20170609T180006Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
