@@ -442,7 +442,7 @@ airports:
 - country: de
   instructors:
   - {name: Luis Pedro Coelho, user: coelho_luis}
-  - {name: Konrad Förstner, user: forstner_konrad}
+  - {name: Konrad U. Förstner, user: forstner_konrad}
   - {name: Philipp Lies, user: lies_philipp}
   - {name: Malvika Sharan, user: sharan_malvika}
   - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
@@ -2390,7 +2390,7 @@ badges:
   - {awarded: '2015-05-05', name: Susan Duncan, user: duncan_susan}
   - {awarded: '2015-05-05', name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
   - {awarded: '2015-05-05', name: Filipe Fernandes, user: fernandes_filipe}
-  - {awarded: '2015-05-05', name: Konrad Förstner, user: forstner_konrad}
+  - {awarded: '2015-05-05', name: Konrad U. Förstner, user: forstner_konrad}
   - {awarded: '2015-05-05', name: Auriel Fournier, user: fournier_auriel}
   - {awarded: '2015-05-14', name: Javier García-Algarra, user: garcia-algarra_javier}
   - {awarded: '2015-05-14', name: Laura Jane Graham, user: graham_laura}
@@ -3374,7 +3374,7 @@ badges:
   - {awarded: '2017-01-16', name: Paulina Lach, user: lach_paulina}
   - {awarded: '2017-01-16', name: Nick Jones, user: jones_nick}
   - {awarded: '2017-01-16', name: Catherine McGoveran, user: mcgoveran_catherine}
-  - {awarded: '2017-01-16', name: Konrad Förstner, user: forstner_konrad}
+  - {awarded: '2017-01-16', name: Konrad U. Förstner, user: forstner_konrad}
   - {awarded: '2017-01-16', name: Tamer Mansour, user: mansour_tamer}
   - {awarded: '2017-01-16', name: Johnny Wei-Bing Lin, user: lin_johnny}
   - {awarded: '2017-01-16', name: Ramalingam Saravanan, user: ramalingam_saravanan}
@@ -3562,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T210006Z
+timestamp: 20170609T220005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
