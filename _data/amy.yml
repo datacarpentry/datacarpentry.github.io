@@ -1122,6 +1122,7 @@ airports:
   - {name: Olivier Philippe, user: philippe_olivier}
   - {name: Don Cruickshank, user: cruickshank_don}
   - {name: Priyanka Singh, user: singh_priyanka}
+  - {name: Eilidh Troup, user: troup_eilidh}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
@@ -3565,7 +3566,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T100004Z
+timestamp: 20170609T110004Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
