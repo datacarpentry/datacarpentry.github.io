@@ -3563,7 +3563,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T080004Z
+timestamp: 20170609T090005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
