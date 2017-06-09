@@ -354,7 +354,6 @@ airports:
   - {name: Bennet Fauber, user: fauber_bennet}
   - {name: Chris Gates, user: gates_chris}
   - {name: Jiarong Guo, user: guo_jiarong}
-  - {name: Luiz Irber, user: irber_luiz}
   - {name: Ben Johnson, user: johnson_ben}
   - {name: Will Pitchers, user: pitchers_w}
   - {name: Marian Schmidt, user: schmidt_marian}
@@ -1097,6 +1096,7 @@ airports:
   instructors:
   - {name: Carl Boettiger, user: boettiger_carl}
   - {name: C. Titus Brown, user: brown_ct}
+  - {name: Luiz Irber, user: irber_luiz}
   - {name: Michael Koontz, user: koontz_michael}
   - {name: Michael Levy, user: levy_michael}
   - {name: Jason Moore, user: moore_jason}
@@ -1288,6 +1288,7 @@ airports:
   - {name: Kathy Chung, user: chung_kathy}
   - {name: Jessica Gallinger, user: gallinger_jessica}
   - {name: Bruno Grande, user: grande_bruno}
+  - {name: James Hiebert, user: hiebert_james}
   - {name: Daisie Huang, user: huang_daisie}
   - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
   - {name: Bernhard Konrad, user: konrad_b}
@@ -1398,12 +1399,6 @@ airports:
   latitude: 36.516667
   longitude: 103.621667
   name: Zhongchuan
-- country: ca
-  instructors:
-  - {name: James Hiebert, user: hiebert_james}
-  latitude: 54.027972
-  longitude: -132.126291
-  name: Masset, BC
 - country: us
   instructors:
   - {name: Reed Cartwright, user: cartwright_reed}
@@ -3567,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T180006Z
+timestamp: 20170609T190003Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
