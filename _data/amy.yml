@@ -190,7 +190,6 @@ airports:
   name: Baltimore, MD
 - country: fr
   instructors:
-  - {name: Nelle Varoquaux, user: varoquaux_n}
   - {name: Bartosz Telenczuk, user: telenczuk_bartosz}
   - {name: Andrew Davison, user: davison_andrew}
   - {name: Marcel Stimberg, user: stimberg_marcel}
@@ -255,6 +254,7 @@ airports:
   instructors:
   - {name: Chelsea Chisholm, user: chisholm_chelsea}
   - {name: Johan Hjelm, user: hjelm_johan}
+  - {name: Jens Hedegaard Nielsen, user: nielsen_jens}
   - {name: Kai Blin, user: blin_kai}
   - {name: Sigrid Klerke, user: klerke_sigrid}
   latitude: 55.617778
@@ -625,7 +625,6 @@ airports:
   - {name: Jinwoo Leem, user: leem_jinwoo}
   - {name: Gary Macindoe, user: macindoe_gary}
   - {name: Dan MacLean, user: maclean_dan}
-  - {name: Jens Hedegaard Nielsen, user: nielsen_jens}
   - {name: David Perez-Suarez, user: perez-suarez_david}
   - {name: Florian Rathgeber, user: rathgeber_florian}
   - {name: Mark Stillwell, user: stillwell_mark}
@@ -842,6 +841,7 @@ airports:
   - {name: Rochelle Terman, user: terman_rochelle}
   - {name: Matt Terry, user: terry_m}
   - {name: Stéfan van der Walt, user: vanderwalt_s}
+  - {name: Nelle Varoquaux, user: varoquaux_n}
   - {name: Donny Winston, user: winston_donald}
   - {name: Max Gerlock, user: gerlock_max}
   - {name: Harry Bachrach, user: bachrach_harry}
@@ -1077,7 +1077,7 @@ airports:
 - country: us
   instructors:
   - {name: Steve Haddock, user: haddock_s}
-  - {name: Amy Hodge, user: hodge_amy}
+  - {name: Amy E. Hodge, user: hodge_amy}
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
@@ -2172,7 +2172,7 @@ badges:
   - {awarded: '2014-12-23', name: Cody Hinchliff, user: hinchliff_cody}
   - {awarded: '2012-12-20', name: Konrad Hinsen, user: hinsen_k}
   - {awarded: '2014-05-04', name: Daniel Hocking, user: hocking_daniel}
-  - {awarded: '2015-03-12', name: Amy Hodge, user: hodge_amy}
+  - {awarded: '2015-03-12', name: Amy E. Hodge, user: hodge_amy}
   - {awarded: '2013-11-17', name: Chris Holdgraf, user: holdgraf_c}
   - {awarded: '2014-10-16', name: Jeff Hollister, user: hollister_jeff}
   - {awarded: '2015-03-05', name: Richard Hosking, user: hosking_richard}
@@ -3096,7 +3096,7 @@ badges:
   - {awarded: '2016-01-30', name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
   - {awarded: '2016-01-30', name: Adina Howe, user: chuang-howe_a}
   - {awarded: '2016-01-30', name: Aleksandra Natalia Pawlik, user: pawlik_a}
-  - {awarded: '2016-01-30', name: Amy Hodge, user: hodge_amy}
+  - {awarded: '2016-01-30', name: Amy E. Hodge, user: hodge_amy}
   - {awarded: '2016-01-30', name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {awarded: '2016-01-30', name: Christie Bahlai, user: bahlai_christie}
   - {awarded: '2016-01-30', name: Chris Friedline, user: friedline_chris}
@@ -3566,7 +3566,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170609T160006Z
+timestamp: 20170609T170005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
