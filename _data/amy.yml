@@ -877,6 +877,7 @@ airports:
   instructors:
   - {name: Camille Avestruz, user: avestruz_camille}
   - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Jackie Milhans, user: milhans_jackie}
   - {name: Danielle Nielsen, user: nielsen_danielle}
   - {name: Hossein Pourreza, user: pourreza_hossein}
@@ -1404,7 +1405,6 @@ airports:
   - {name: Reed Cartwright, user: cartwright_reed}
   - {name: David Dotson, user: dotson_david}
   - {name: Tania Hernandez, user: hernandez_tania}
-  - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Ryan Middleton, user: middleton_ryan}
   - {name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
   - {name: Rachel Schwartz, user: schwartz_rachel}
@@ -3562,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170610T140005Z
+timestamp: 20170610T150005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
