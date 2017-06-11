@@ -443,6 +443,7 @@ airports:
   instructors:
   - {name: Luis Pedro Coelho, user: coelho_luis}
   - {name: Konrad U. Förstner, user: forstner_konrad}
+  - {name: Steven Koenig, user: koenig_steven}
   - {name: Philipp Lies, user: lies_philipp}
   - {name: Malvika Sharan, user: sharan_malvika}
   - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
@@ -799,7 +800,6 @@ airports:
   name: New Orleans, LA
 - country: de
   instructors:
-  - {name: Steven Koenig, user: koenig_steven}
   - {name: Alexandre Manhães Savio, user: manhaes-savio_alexandre}
   latitude: 48.353611
   longitude: 11.785833
@@ -3562,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170611T080005Z
+timestamp: 20170611T090004Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
