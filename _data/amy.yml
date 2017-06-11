@@ -1286,7 +1286,6 @@ airports:
   instructors:
   - {name: Dhavide Aruliah, user: aruliah_d}
   - {name: Jennifer Bryan, user: bryan_j}
-  - {name: Kathy Chung, user: chung_kathy}
   - {name: Jessica Gallinger, user: gallinger_jessica}
   - {name: Bruno Grande, user: grande_bruno}
   - {name: James Hiebert, user: hiebert_james}
@@ -1338,6 +1337,7 @@ airports:
   instructors:
   - {name: Sean Aubin, user: aubin_sean}
   - {name: Amy Brown, user: brown_amy}
+  - {name: Kathy Chung, user: chung_kathy}
   - {name: Arliss Collins, user: collins_arliss}
   - {name: Martin Durant, user: durant_martin}
   - {name: Jonathan Dursi, user: dursi_j}
@@ -3562,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170611T210004Z
+timestamp: 20170611T220004Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
