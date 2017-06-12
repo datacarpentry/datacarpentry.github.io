@@ -692,7 +692,6 @@ airports:
   name: Manchester
 - country: us
   instructors:
-  - {name: Christopher Hamm, user: hamm_christopher}
   - {name: John Moreau, user: moreau_john}
   latitude: 39.2975
   longitude: -94.713889
@@ -2151,7 +2150,7 @@ badges:
   - {awarded: '2012-12-20', name: Steve Haddock, user: haddock_s}
   - {awarded: '2014-05-04', name: Denis Haine, user: haine_denis}
   - {awarded: '2015-03-12', name: Sam Hames, user: hames_sam}
-  - {awarded: '2015-01-21', name: Christopher Hamm, user: hamm_christopher}
+  - {awarded: '2015-01-21', name: Chris Hamm, user: hamm_chris}
   - {awarded: '2014-05-09', name: Jessica Hamrick, user: hamrick_jessica}
   - {awarded: '2015-04-20', name: Nic Hannah, user: hannah_nicholas}
   - {awarded: '2012-12-20', name: Michael Hansen, user: hansen_m}
@@ -3161,7 +3160,7 @@ badges:
   - {awarded: '2016-03-01', name: Diana Marek, user: marek_diana}
   - {awarded: '2016-03-01', name: Mark Robinson, user: robinson_mark}
   - {awarded: '2016-03-01', name: Tobias Borsdorff, user: borsdorff_tobias}
-  - {awarded: '2016-03-01', name: Christopher Hamm, user: hamm_christopher}
+  - {awarded: '2016-03-01', name: Chris Hamm, user: hamm_chris}
   - {awarded: '2016-03-04', name: Michelle Craft, user: craft_michelle}
   - {awarded: '2016-03-09', name: Moritz Neeb, user: neeb_moritz}
   - {awarded: '2016-03-09', name: Nicky Nicolson, user: nicolson_nicky}
@@ -3550,7 +3549,7 @@ badges:
   - {awarded: '2017-05-08', name: Sue McClatchy, user: mcclatchy_susan}
   - {awarded: '2017-05-08', name: Tim Dennis, user: dennis_tim}
   - {awarded: '2017-05-08', name: Karen Word, user: word_karen}
-  - {awarded: '2017-06-05', name: Christopher Hamm, user: hamm_christopher}
+  - {awarded: '2017-06-05', name: Chris Hamm, user: hamm_chris}
   - {awarded: '2017-06-05', name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {awarded: '2017-06-05', name: Jeffrey Oliver, user: oliver_jeffrey}
   - {awarded: '2017-06-05', name: Aleksandra Nenadic, user: nenadic_aleksandra}
@@ -3563,7 +3562,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170612T120005Z
+timestamp: 20170612T130005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
@@ -5373,6 +5372,34 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/
     venue: University of Wisconsin-Madison
+  - address: Saturday LK005/Sunday LK120, 291 Campus Drive, Palo Alto, CA
+    contact: amyhodge@stanford.edu
+    country: US
+    end: 2017-06-18
+    eventbrite_id: ''
+    humandate: Jun 17-18, 2017
+    latitude: 37.43181
+    longitude: -122.175758
+    slug: 2017-06-17-stanford
+    start: 2017-06-17
+    tags:
+    - {name: DC}
+    url: https://naupaka.github.io/2017-06-17-stanford/
+    venue: Stanford University
+  - address: 1709 New York Avenue NW, Washington, DC 20006
+    contact: alice.allen@frb.gov
+    country: US
+    end: 2017-06-16
+    eventbrite_id: ''
+    humandate: Jun 15-16, 2017
+    latitude: 38.896683
+    longitude: -77.040452
+    slug: 2017-06-15-frb_washingtondc
+    start: 2017-06-15
+    tags:
+    - {name: DC}
+    url: https://butterflyology.github.io/2017-06-15-FRB/
+    venue: Federal Reserve Board
   - address: Builing 43-G01 (STF)
     contact: bmarwick@uow.edu.au
     country: AU
