@@ -24,6 +24,7 @@ airports:
   - {name: Dan Jones, user: jones_dan}
   - {name: Markus Mueller, user: mueller_markus}
   - {name: Vicky Fan, user: fan_vicky}
+  - {name: Martina Visnovska, user: visnovska_martina}
   - {name: Elena Denisenko, user: denisenko_elena}
   - {name: Ashar Malik, user: malik_ashar_2}
   - {name: Ivan Welsh, user: welsh_ivan}
@@ -33,7 +34,6 @@ airports:
   - {name: Kirsten Brown, user: brown_kirsten}
   - {name: Nick Young, user: young_nick}
   - {name: Sean Marshall Matheny, user: matheny_sean}
-  - {name: Tina Visnovska, user: ''}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
@@ -540,6 +540,7 @@ airports:
   - {name: Joshua Nahum, user: nahum_josh}
   - {name: Sean Pue, user: pue_s}
   - {name: Jorden Schossau, user: schossau_j}
+  - {name: Joseph Stachelek, user: stachelek_joseph}
   - {name: Nicholas Louis Panchy, user: panchy_nicholas}
   - {name: Scott Allen Funkhouser, user: funkhouser_scott}
   latitude: 42.778611
@@ -554,7 +555,6 @@ airports:
   name: Los Angeles, CA
 - country: gb
   instructors:
-  - {name: Grace Cox, user: cox_grace}
   - {name: Aaron O'Leary, user: oleary_aaron}
   - {name: Andrew Walker, user: walker_andrew}
   - {name: Jon E Mound, user: mound_je}
@@ -666,6 +666,7 @@ airports:
 - country: gb
   instructors:
   - {name: Martin Callaghan, user: callaghan_martin}
+  - {name: Grace Cox, user: cox_grace}
   - {name: Michael Croucher, user: croucher_mike}
   - {name: Anthony Harrison, user: harrison_anthony}
   - {name: Dave Jones, user: jones_dave}
@@ -1722,12 +1723,6 @@ airports:
   latitude: -40.323854
   longitude: 175.621829
   name: Palmerston North Airport
-- country: us
-  instructors:
-  - {name: Joseph Stachelek, user: stachelek_joseph}
-  latitude: 26.683696
-  longitude: -80.092323
-  name: Palm Beach International Airport
 - country: nz
   instructors:
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
@@ -3559,7 +3554,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170612T190006Z
+timestamp: 20170612T200004Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
