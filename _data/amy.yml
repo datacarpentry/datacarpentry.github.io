@@ -567,6 +567,7 @@ airports:
   - {name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
   - {name: Will Furnass, user: furnass_will}
   - {name: Hugh Smith, user: smith_hugh}
+  - {name: Jez Cope, user: cope_jez}
   - {name: Fernando Zapata, user: zapata_fernando}
   - {name: Lee Etchels, user: etchels_lee}
   latitude: 53.865833
@@ -3562,7 +3563,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170612T080004Z
+timestamp: 20170612T090005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
