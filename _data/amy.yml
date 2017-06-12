@@ -1337,6 +1337,7 @@ airports:
   instructors:
   - {name: Sean Aubin, user: aubin_sean}
   - {name: Amy Brown, user: brown_amy}
+  - {name: Stephen Edward Childs, user: childs_stephen}
   - {name: Kathy Chung, user: chung_kathy}
   - {name: Arliss Collins, user: collins_arliss}
   - {name: Martin Durant, user: durant_martin}
@@ -2870,7 +2871,7 @@ badges:
   - {awarded: '2017-03-02', name: Luke Zappia, user: zappia_luke}
   - {awarded: '2017-03-08', name: Thomas Voigt, user: voigt_thomas_2}
   - {awarded: '2017-03-08', name: Elena Denisenko, user: denisenko_elena}
-  - {awarded: '2017-03-16', name: Stephen Childs, user: childs_stephen}
+  - {awarded: '2017-03-16', name: Stephen Edward Childs, user: childs_stephen}
   - {awarded: '2017-03-16', name: Jim Summers, user: summers_jim}
   - {awarded: '2017-03-16', name: Stephen Haddad, user: haddad_stephen}
   - {awarded: '2017-03-23', name: Jake Cowper Szamosi, user: szamosi_jake}
@@ -3562,7 +3563,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170612T130005Z
+timestamp: 20170612T140005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
