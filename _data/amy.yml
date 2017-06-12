@@ -1775,6 +1775,7 @@ airports:
   instructors:
   - {name: Alejandro Mantero, user: mantero_alejandro}
   - {name: Timothy Norris, user: norris_timothy}
+  - {name: Zack Brym, user: brym_zachary}
   latitude: 25.793914
   longitude: -80.283806
   name: Miami International Airport
@@ -1866,12 +1867,6 @@ airports:
   latitude: -22.480752
   longitude: 17.476238
   name: Hosea Kutako International Airport
-- country: us
-  instructors:
-  - {name: Zack Brym, user: brym_zachary}
-  latitude: 44.2603242
-  longitude: -88.5110454
-  name: Appleton International Airport
 - country: ca
   instructors:
   - {name: Danielle Quinn, user: quinn_danielle}
@@ -3563,7 +3558,7 @@ flags:
     it, mx, my, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170612T140005Z
+timestamp: 20170612T150005Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
