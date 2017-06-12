@@ -1290,7 +1290,6 @@ airports:
   - {name: Jennifer Bryan, user: bryan_j}
   - {name: Jessica Gallinger, user: gallinger_jessica}
   - {name: Bruno Grande, user: grande_bruno}
-  - {name: James Hiebert, user: hiebert_james}
   - {name: Daisie Huang, user: huang_daisie}
   - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
   - {name: Bernhard Konrad, user: konrad_b}
@@ -2000,6 +1999,12 @@ airports:
   latitude: 42.9404984
   longitude: -78.7322006
   name: Buffalo Niagara International Airport
+- country: ca
+  instructors:
+  - {name: James Hiebert, user: hiebert_james}
+  latitude: 49.296744
+  longitude: -117.636366
+  name: West Kootenay Regional Airport
 badges:
 - name: creator
   persons:
@@ -3554,7 +3559,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170612T180004Z
+timestamp: 20170612T190006Z
 workshops:
 - &id002
   - address: 210 South Ferry Road, Narragansett, RI
