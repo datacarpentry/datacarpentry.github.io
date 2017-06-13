@@ -498,7 +498,6 @@ airports:
   - {name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
   - {name: Joshua Ainsley, user: ainsley_joshua}
   - {name: Jonathan Borrelli, user: borrelli_jonathan}
-  - {name: Laura Jane Graham, user: graham_laura}
   - {name: Catherine Olsson, user: olsson_catherine}
   - {name: Noam Ross, user: ross_noam}
   - {name: Matthew Ruttley, user: ruttley_m}
@@ -598,6 +597,7 @@ airports:
   name: New York La Guardia, NY
 - country: gb
   instructors:
+  - {name: Laura Jane Graham, user: graham_laura}
   - {name: Mark Plumbley, user: plumbley_m}
   - {name: Will Scott-Jackson, user: scott-jackson_will}
   - {name: Patrik Huber, user: huber_patrik}
@@ -3554,7 +3554,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170613T140005Z
+timestamp: 20170613T150006Z
 workshops:
 - &id002
   - address: PACCAR 202, Pullman, WA
