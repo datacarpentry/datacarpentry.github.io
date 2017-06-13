@@ -3554,9 +3554,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170613T040004Z
+timestamp: 20170613T050005Z
 workshops:
 - &id002
+  - address: PACCAR 202, Pullman, WA
+    contact: stephanie.labou@wsu.edu
+    country: us
+    end: 2017-06-12
+    eventbrite_id: ''
+    humandate: Jun 08-12, 2017
+    latitude: 46.7298
+    longitude: -117.1817
+    slug: 2017-06-08-wsu
+    start: 2017-06-08
+    tags:
+    - {name: DC}
+    url: https://stephlabou.github.io/2017-06-08-wsu/
+    venue: Washington State University
   - address: 210 South Ferry Road, Narragansett, RI
     contact: hollister.jeff@epa.gov
     country: us
@@ -5420,19 +5434,5 @@ workshops:
     - {name: DC}
     url: https://emudrak.github.io/2017-06-14-cornell/
     venue: Cornell University
-  - address: PACCAR 202, Pullman, WA
-    contact: stephanie.labou@wsu.edu
-    country: US
-    end: 2017-06-12
-    eventbrite_id: ''
-    humandate: Jun 08-12, 2017
-    latitude: 46.7298
-    longitude: -117.1817
-    slug: 2017-06-08-wsu
-    start: 2017-06-08
-    tags:
-    - {name: DC}
-    url: https://stephlabou.github.io/2017-06-08-wsu/
-    venue: Washington State University
 workshops_current: *id001
 workshops_past: *id002
