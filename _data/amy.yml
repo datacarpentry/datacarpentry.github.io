@@ -1085,6 +1085,7 @@ airports:
   name: San Jose, CA
 - country: us
   instructors:
+  - {name: Michael Levy, user: levy_michael}
   - {name: Martin Schilling, user: schilling_martin}
   - {name: Paul G. Wolf, user: wolf_paul}
   - {name: Gus Hart, user: hart_gus}
@@ -1101,7 +1102,6 @@ airports:
   - {name: C. Titus Brown, user: brown_ct}
   - {name: Luiz Irber, user: irber_luiz}
   - {name: Michael Koontz, user: koontz_michael}
-  - {name: Michael Levy, user: levy_michael}
   - {name: Jason Moore, user: moore_jason}
   - {name: Camille Scott, user: scott_camille}
   - {name: Daniel Standage, user: standage_daniel}
@@ -2916,6 +2916,15 @@ badges:
   - {awarded: '2017-06-01', name: Olivia Rata Burge, user: burge_olivia}
   - {awarded: '2017-06-08', name: Jonathan Cooper, user: cooper_jonathan}
   - {awarded: '2017-06-08', name: Jojo Karlin, user: karlin_jojo}
+  - {awarded: '2017-06-15', name: Cortney Buffington, user: buffington_cortney}
+  - {awarded: '2017-06-15', name: Peter Evans, user: evans_peter}
+  - {awarded: '2017-06-15', name: Elaine Wong, user: wong_elaine}
+  - {awarded: '2017-06-15', name: Will Usher, user: usher_w}
+  - {awarded: '2017-06-15', name: Will Furnass, user: furnass_will}
+  - {awarded: '2017-06-15', name: Ben Bolker, user: bolker_ben}
+  - {awarded: '2017-06-15', name: Kathleen Moore, user: moore_kathleen_2}
+  - {awarded: '2017-06-15', name: Julian Jordan, user: jordan_julian}
+  - {awarded: '2017-06-15', name: Jonathan Bradley, user: bradley_jonathan}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3482,6 +3491,9 @@ badges:
   - {awarded: '2017-06-01', name: Jacqueline Muller, user: muller_jacqueline}
   - {awarded: '2017-06-01', name: Beth Montague-Hellen, user: hellen_beth}
   - {awarded: '2017-06-08', name: James Baker, user: baker_james_2}
+  - {awarded: '2017-06-15', name: Claudia Engel, user: engel_claudia}
+  - {awarded: '2017-06-15', name: Tania Allard, user: allard_tania}
+  - {awarded: '2017-06-15', name: Christopher DeBoever, user: deboever_christopher}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3554,7 +3566,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170615T160004Z
+timestamp: 20170615T170005Z
 workshops:
 - &id002
   - address: PACCAR 202, Pullman, WA
