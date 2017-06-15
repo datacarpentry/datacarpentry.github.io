@@ -2926,6 +2926,7 @@ badges:
   - {awarded: '2017-06-15', name: Julian Jordan, user: jordan_julian}
   - {awarded: '2017-06-15', name: Jonathan Bradley, user: bradley_jonathan}
   - {awarded: '2017-06-15', name: Javier de la Rosa, user: de-la-rosa_javier}
+  - {awarded: '2017-06-15', name: Abhijit Dasgupta, user: dasgupta_abhijit}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3567,7 +3568,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170615T220006Z
+timestamp: 20170615T230005Z
 workshops:
 - &id002
   - address: PACCAR 202, Pullman, WA
