@@ -24,6 +24,7 @@ airports:
   - {name: Dan Jones, user: jones_dan}
   - {name: Markus Mueller, user: mueller_markus}
   - {name: Vicky Fan, user: fan_vicky}
+  - {name: Martina Visnovska, user: visnovska_martina}
   - {name: Elena Denisenko, user: denisenko_elena}
   - {name: Ashar Malik, user: malik_ashar_2}
   - {name: Ivan Welsh, user: welsh_ivan}
@@ -33,7 +34,6 @@ airports:
   - {name: Kirsten Brown, user: brown_kirsten}
   - {name: Nick Young, user: young_nick}
   - {name: Sean Marshall Matheny, user: matheny_sean}
-  - {name: Tina Visnovska, user: ''}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
