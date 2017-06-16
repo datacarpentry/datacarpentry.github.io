@@ -1903,7 +1903,7 @@ airports:
   name: Eindhoven Airport
 - country: pl
   instructors:
-  - {name: Christian Barra, user: barra_christian}
+  - {name: Christian Calogero Barra, user: barra_christian}
   latitude: 51.104055
   longitude: 16.881597
   name: Wrocław Nicolaus Copernicus Airport
@@ -2785,7 +2785,7 @@ badges:
   - {awarded: '2016-10-14', name: Afrah Shafquat, user: shafquat_afrah}
   - {awarded: '2016-10-17', name: Ron Merrill, user: merrill_ron}
   - {awarded: '2016-10-18', name: Tessa Pierce, user: pierce_tessa}
-  - {awarded: '2016-10-25', name: Christian Barra, user: barra_christian}
+  - {awarded: '2016-10-25', name: Christian Calogero Barra, user: barra_christian}
   - {awarded: '2016-10-25', name: Kyrre Traavik Låberg, user: traavik-laberg_kyrre}
   - {awarded: '2016-10-25', name: Juan Carlos Zuniga, user: zuniga_juan-carlos}
   - {awarded: '2016-10-25', name: Félix-Antoine Fortin, user: fortin_felix-antoine}
@@ -3283,7 +3283,7 @@ badges:
   - {awarded: '2016-10-06', name: Klemens Noga, user: noga_klemens}
   - {awarded: '2016-10-06', name: Logan Cox, user: cox_logan}
   - {awarded: '2016-10-06', name: Remi M Daigle, user: daigle_remi}
-  - {awarded: '2016-10-25', name: Christian Barra, user: barra_christian}
+  - {awarded: '2016-10-25', name: Christian Calogero Barra, user: barra_christian}
   - {awarded: '2016-11-03', name: Raoul Wolf, user: wolf_raoul}
   - {awarded: '2016-11-11', name: Lisa Breckels, user: breckels_lisa}
   - {awarded: '2016-03-01', name: Neal Davis, user: davis_neal}
@@ -3568,7 +3568,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170616T130006Z
+timestamp: 20170616T140006Z
 workshops:
 - &id002
   - address: Albert R. Mann Library Room B30A, 237 Mann Drive, Cornell University
