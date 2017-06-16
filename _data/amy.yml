@@ -2927,6 +2927,7 @@ badges:
   - {awarded: '2017-06-15', name: Jonathan Bradley, user: bradley_jonathan}
   - {awarded: '2017-06-15', name: Javier de la Rosa, user: de-la-rosa_javier}
   - {awarded: '2017-06-15', name: Abhijit Dasgupta, user: dasgupta_abhijit}
+  - {awarded: '2017-06-16', name: Owen Stephens, user: stephens_owen}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3568,7 +3569,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170616T150004Z
+timestamp: 20170616T160004Z
 workshops:
 - &id002
   - address: Albert R. Mann Library Room B30A, 237 Mann Drive, Cornell University
