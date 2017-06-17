@@ -273,6 +273,7 @@ airports:
   instructors:
   - {name: Aron Ahmadia, user: ahmadia_a}
   - {name: Jonathan Guyer, user: guyer_jonathan}
+  - {name: Kunal Marwaha, user: marwaha_kunal}
   - {name: Brian Miles, user: miles_brian}
   - {name: Rosario Robinson, user: robinson_rosario}
   - {name: Joshua Smith, user: smith_j}
@@ -834,7 +835,6 @@ airports:
   - {name: Jessica Hamrick, user: hamrick_jessica}
   - {name: Chris Holdgraf, user: holdgraf_c}
   - {name: Paul Ivanov, user: ivanov_p}
-  - {name: Kunal Marwaha, user: marwaha_kunal}
   - {name: Geoff Oxberry, user: oxberry_g}
   - {name: Fernando Perez, user: perez_f}
   - {name: Rochelle Terman, user: terman_rochelle}
@@ -3569,7 +3569,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170617T010006Z
+timestamp: 20170617T020004Z
 workshops:
 - &id002
   - address: Albert R. Mann Library Room B30A, 237 Mann Drive, Cornell University
