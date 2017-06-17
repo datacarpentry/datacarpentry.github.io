@@ -3569,9 +3569,37 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170617T040005Z
+timestamp: 20170617T050005Z
 workshops:
 - &id002
+  - address: 1709 New York Avenue NW, Washington, DC 20006
+    contact: alice.allen@frb.gov
+    country: us
+    end: 2017-06-16
+    eventbrite_id: ''
+    humandate: Jun 15-16, 2017
+    latitude: 38.896683
+    longitude: -77.040452
+    slug: 2017-06-15-frb_washingtondc
+    start: 2017-06-15
+    tags:
+    - {name: DC}
+    url: https://butterflyology.github.io/2017-06-15-FRB/
+    venue: Federal Reserve Board
+  - address: Builing 43-G01 (STF)
+    contact: bmarwick@uow.edu.au
+    country: au
+    end: 2017-06-16
+    eventbrite_id: '34839691455'
+    humandate: Jun 15-16, 2017
+    latitude: -34.40571
+    longitude: 150.881288
+    slug: 2017-06-15-uow
+    start: 2017-06-15
+    tags:
+    - {name: DC}
+    url: https://benmarwick.github.io/2017-06-15-uow/
+    venue: University of Wollongong
   - address: Albert R. Mann Library Room B30A, 237 Mann Drive, Cornell University
     contact: cscu@cornell.edu
     country: us
@@ -5421,33 +5449,5 @@ workshops:
     - {name: DC}
     url: https://naupaka.github.io/2017-06-17-stanford/
     venue: Stanford University
-  - address: 1709 New York Avenue NW, Washington, DC 20006
-    contact: alice.allen@frb.gov
-    country: US
-    end: 2017-06-16
-    eventbrite_id: ''
-    humandate: Jun 15-16, 2017
-    latitude: 38.896683
-    longitude: -77.040452
-    slug: 2017-06-15-frb_washingtondc
-    start: 2017-06-15
-    tags:
-    - {name: DC}
-    url: https://butterflyology.github.io/2017-06-15-FRB/
-    venue: Federal Reserve Board
-  - address: Builing 43-G01 (STF)
-    contact: bmarwick@uow.edu.au
-    country: AU
-    end: 2017-06-16
-    eventbrite_id: '34839691455'
-    humandate: Jun 15-16, 2017
-    latitude: -34.40571
-    longitude: 150.881288
-    slug: 2017-06-15-uow
-    start: 2017-06-15
-    tags:
-    - {name: DC}
-    url: https://benmarwick.github.io/2017-06-15-uow/
-    venue: University of Wollongong
 workshops_current: *id001
 workshops_past: *id002
