@@ -3569,9 +3569,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170619T040004Z
+timestamp: 20170619T050004Z
 workshops:
 - &id002
+  - address: Saturday LK005/Sunday LK120, 291 Campus Drive, Palo Alto, CA
+    contact: amyhodge@stanford.edu
+    country: us
+    end: 2017-06-18
+    eventbrite_id: ''
+    humandate: Jun 17-18, 2017
+    latitude: 37.43181
+    longitude: -122.175758
+    slug: 2017-06-17-stanford
+    start: 2017-06-17
+    tags:
+    - {name: DC}
+    url: https://naupaka.github.io/2017-06-17-stanford/
+    venue: Stanford University
   - address: 1709 New York Avenue NW, Washington, DC 20006
     contact: alice.allen@frb.gov
     country: us
@@ -5435,19 +5449,5 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/
     venue: University of Wisconsin-Madison
-  - address: Saturday LK005/Sunday LK120, 291 Campus Drive, Palo Alto, CA
-    contact: amyhodge@stanford.edu
-    country: US
-    end: 2017-06-18
-    eventbrite_id: ''
-    humandate: Jun 17-18, 2017
-    latitude: 37.43181
-    longitude: -122.175758
-    slug: 2017-06-17-stanford
-    start: 2017-06-17
-    tags:
-    - {name: DC}
-    url: https://naupaka.github.io/2017-06-17-stanford/
-    venue: Stanford University
 workshops_current: *id001
 workshops_past: *id002
