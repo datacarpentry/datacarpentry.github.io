@@ -607,7 +607,6 @@ airports:
   - {name: William Christmas, user: christmas_bill}
   - {name: Helen Cooper, user: cooper_helen}
   - {name: Chris Tomlinson, user: tomlinson_christopher}
-  - {name: Benjamin Laken, user: laken_benjamin}
   - {name: Iwona Sobieraj, user: sobieraj_iwona}
   - {name: Kenan Direk, user: direk_kenan}
   - {name: Martin R. Albrecht, user: albrecht_martin}
@@ -660,6 +659,7 @@ airports:
   instructors:
   - {name: Javier García-Algarra, user: garcia-algarra_javier}
   - {name: JC Leyder, user: leyder_jean-christophe}
+  - {name: Benjamin Laken, user: laken_benjamin}
   - {name: Andrés Díaz-Gil, user: diaz-gil_andres}
   latitude: 40.472222
   longitude: -3.560833
@@ -976,6 +976,7 @@ airports:
 - country: us
   instructors:
   - {name: Chris Friedline, user: friedline_chris}
+  - {name: Katie D. Moore, user: moore_kathleen_2}
   latitude: 37.505
   longitude: -77.319444
   name: Richmond, VA
@@ -1390,6 +1391,7 @@ airports:
   - {name: Yulia Rubanova, user: rubanova_yulia}
   - {name: Sarah Mahallati, user: mahallati_sarah}
   - {name: Stuart Williams, user: williams_stuart}
+  - {name: Ben Bolker, user: bolker_ben}
   - {name: Dustin Lang, user: lang_dustin}
   - {name: Ted Belke, user: belke_ted}
   - {name: Cindy Chen, user: chen_cindy}
@@ -2000,6 +2002,12 @@ airports:
   latitude: 49.296744
   longitude: -117.636366
   name: West Kootenay Regional Airport
+- country: us
+  instructors:
+  - {name: Tommy Keswick, user: keswick_thomas}
+  latitude: 34.2006989
+  longitude: -118.3590012
+  name: Bob Hope Airport
 badges:
 - name: creator
   persons:
@@ -2900,7 +2908,7 @@ badges:
   - {awarded: '2017-05-04', name: Guilherme Castelão, user: castelao_guilherme}
   - {awarded: '2017-05-04', name: Louis Vernon, user: vernon_louis}
   - {awarded: '2017-05-22', name: Kelley O'Neal, user: oneal_kelley}
-  - {awarded: '2017-05-22', name: Thomas Keswick, user: keswick_thomas}
+  - {awarded: '2017-05-22', name: Tommy Keswick, user: keswick_thomas}
   - {awarded: '2017-05-22', name: Jieming Chen, user: chen_jieming}
   - {awarded: '2017-05-22', name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
   - {awarded: '2017-05-22', name: Stefan Lüdtke, user: ldtke_stefan}
@@ -2922,7 +2930,7 @@ badges:
   - {awarded: '2017-06-15', name: Will Usher, user: usher_w}
   - {awarded: '2017-06-15', name: Will Furnass, user: furnass_will}
   - {awarded: '2017-06-15', name: Ben Bolker, user: bolker_ben}
-  - {awarded: '2017-06-15', name: Kathleen Moore, user: moore_kathleen_2}
+  - {awarded: '2017-06-15', name: Katie D. Moore, user: moore_kathleen_2}
   - {awarded: '2017-06-15', name: Julian Jordan, user: jordan_julian}
   - {awarded: '2017-06-15', name: Jonathan Bradley, user: bradley_jonathan}
   - {awarded: '2017-06-15', name: Javier de la Rosa, user: de-la-rosa_javier}
@@ -3569,7 +3577,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170619T160005Z
+timestamp: 20170619T170005Z
 workshops:
 - &id002
   - address: Saturday LK005/Sunday LK120, 291 Campus Drive, Palo Alto, CA
