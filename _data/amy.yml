@@ -99,6 +99,7 @@ airports:
   name: Birmingham
 - country: th
   instructors:
+  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Likit Preeyanon, user: preeyanon_likit}
   latitude: 13.6925
   longitude: 100.75
@@ -120,7 +121,6 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
   - {name: Sam Hames, user: hames_sam}
-  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Amanda Miotto, user: miotto_amanda}
   - {name: Leah Roberts, user: roberts_leah}
   - {name: Clinton Roy, user: roy_clinton}
@@ -3578,7 +3578,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170621T150005Z
+timestamp: 20170621T160005Z
 workshops:
 - &id002
   - address: Health Sciences Learning Center, 750 Highland Ave, Madison, WI 53705
@@ -5430,6 +5430,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Room 2207/2209, Building 85 (Biological Sciences Building)
+    contact: s.hettrick@software.ac.uk
+    country: GB
+    end: 2017-08-02
+    eventbrite_id: '12334'
+    humandate: Aug 01-02, 2017
+    latitude: 50.936484
+    longitude: -1.395341
+    slug: 2017-08-01-southampton-dc
+    start: 2017-08-01
+    tags:
+    - {name: DC}
+    url: https://southampton-rsg.github.io/2017-08-01-southampton-dc/
+    venue: University of Southampton
   - address: Room 206, Library, Oklahoma State University
     contact: doehle@okstate.edu
     country: US
