@@ -99,6 +99,7 @@ airports:
   name: Birmingham
 - country: th
   instructors:
+  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Likit Preeyanon, user: preeyanon_likit}
   latitude: 13.6925
   longitude: 100.75
@@ -120,7 +121,6 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
   - {name: Sam Hames, user: hames_sam}
-  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Amanda Miotto, user: miotto_amanda}
   - {name: Leah Roberts, user: roberts_leah}
   - {name: Clinton Roy, user: roy_clinton}
