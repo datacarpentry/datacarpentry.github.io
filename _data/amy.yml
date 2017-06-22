@@ -125,7 +125,7 @@ airports:
   - {name: Leah Roberts, user: roberts_leah}
   - {name: Clinton Roy, user: roy_clinton}
   - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
-  - {name: Belinda Katherine Weaver, user: weaver_belinda}
+  - {name: Belinda Weaver, user: weaver_belinda}
   - {name: Heidi Perrett, user: perrett_heidi}
   - {name: Francis Gacenga, user: gacenga_francis}
   - {name: Anup Shah, user: shah_anup}
@@ -2402,7 +2402,7 @@ badges:
   - {awarded: '2015-05-05', name: Michael Sarahan, user: sarahan_michael}
   - {awarded: '2015-05-05', name: Sarah Stevens, user: stevens_sarah}
   - {awarded: '2015-05-14', name: Morgan Taschuk, user: taschuk_morgan}
-  - {awarded: '2015-05-05', name: Belinda Katherine Weaver, user: weaver_belinda}
+  - {awarded: '2015-05-05', name: Belinda Weaver, user: weaver_belinda}
   - {awarded: '2015-05-14', name: Ben Weinstein, user: weinstein_ben}
   - {awarded: '2015-05-26', name: Kyler Brown, user: brown_kyler}
   - {awarded: '2015-05-26', name: Kathy Chung, user: chung_kathy}
@@ -3041,7 +3041,7 @@ badges:
   - {awarded: '2016-01-27', name: Adam Thomas, user: thomas_adam}
   - {awarded: '2016-01-27', name: Andrew Lonsdale, user: lonsdale_andrew}
   - {awarded: '2016-01-27', name: Auriel Fournier, user: fournier_auriel}
-  - {awarded: '2016-01-27', name: Belinda Katherine Weaver, user: weaver_belinda}
+  - {awarded: '2016-01-27', name: Belinda Weaver, user: weaver_belinda}
   - {awarded: '2016-01-27', name: Ben Marwick, user: marwick_ben}
   - {awarded: '2016-01-27', name: Bernhard Konrad, user: konrad_b}
   - {awarded: '2016-01-27', name: Roman Valls Guimera, user: valls-guimera_roman}
@@ -3555,7 +3555,7 @@ badges:
   - {awarded: '2016-09-26', name: Anelda van der Walt, user: van-der-walt_anelda}
   - {awarded: '2016-10-17', name: Erin Alison Becker, user: becker_erin}
   - {awarded: '2016-10-17', name: Rayna Michelle Harris, user: harris_rayna}
-  - {awarded: '2016-12-16', name: Belinda Katherine Weaver, user: weaver_belinda}
+  - {awarded: '2016-12-16', name: Belinda Weaver, user: weaver_belinda}
   - {awarded: '2016-12-16', name: Alistair Walsh, user: walsh_alistair}
   - {awarded: '2017-02-09', name: Kari Jordan, user: jordan_kari}
   - {awarded: '2017-02-21', name: Jason Williams, user: williams_jason}
@@ -3578,7 +3578,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170622T080005Z
+timestamp: 20170622T090005Z
 workshops:
 - &id002
   - address: Health Sciences Learning Center, 750 Highland Ave, Madison, WI 53705
