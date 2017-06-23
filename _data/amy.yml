@@ -3578,9 +3578,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170623T040005Z
+timestamp: 20170623T050005Z
 workshops:
 - &id002
+  - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
+    contact: David Hudson <david.hudson@crick.ac.uk>
+    country: gb
+    end: 2017-06-22
+    eventbrite_id: ''
+    humandate: Jun 21-22, 2017
+    latitude: 51.5318302
+    longitude: -0.1304385
+    slug: 2017-06-21-Crick
+    start: 2017-06-21
+    tags:
+    - {name: DC}
+    url: https://lgatto.github.io/2017-06-21-Crick/
+    venue: The Francis Crick Institute
   - address: Health Sciences Learning Center, 750 Highland Ave, Madison, WI 53705
     contact: adamus@wisc.edu
     country: us
@@ -5500,19 +5514,5 @@ workshops:
     - {name: DC}
     url: https://fsulib.github.io/2017-06-29-fsu/
     venue: Florida State University
-  - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
-    contact: David Hudson <david.hudson@crick.ac.uk>
-    country: GB
-    end: 2017-06-22
-    eventbrite_id: ''
-    humandate: Jun 21-22, 2017
-    latitude: 51.5318302
-    longitude: -0.1304385
-    slug: 2017-06-21-Crick
-    start: 2017-06-21
-    tags:
-    - {name: DC}
-    url: https://lgatto.github.io/2017-06-21-Crick/
-    venue: The Francis Crick Institute
 workshops_current: *id001
 workshops_past: *id002
