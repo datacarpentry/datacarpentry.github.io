@@ -841,6 +841,7 @@ airports:
   - {name: Paul Ivanov, user: ivanov_p}
   - {name: Geoff Oxberry, user: oxberry_g}
   - {name: Fernando Perez, user: perez_f}
+  - {name: William Rowell, user: rowell_bill}
   - {name: Rochelle Terman, user: terman_rochelle}
   - {name: Matt Terry, user: terry_m}
   - {name: Stéfan van der Walt, user: vanderwalt_s}
@@ -972,7 +973,6 @@ airports:
   - {name: Cliburn Chan, user: chan_cliburn}
   - {name: John Pearson, user: pearson_john}
   - {name: John Pormann, user: pormann_john}
-  - {name: William Rowell, user: rowell_bill}
   - {name: Alexander Whitlock, user: whitlock_a}
   latitude: 35.8775
   longitude: -78.787222
@@ -3509,6 +3509,8 @@ badges:
   - {awarded: '2017-06-15', name: Claudia Engel, user: engel_claudia}
   - {awarded: '2017-06-15', name: Tania Allard, user: allard_tania}
   - {awarded: '2017-06-15', name: Christopher DeBoever, user: deboever_christopher}
+  - {awarded: '2017-06-23', name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
+  - {awarded: '2017-06-23', name: Geoff LaFlair, user: laflair_geoff}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3581,7 +3583,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170623T180006Z
+timestamp: 20170626T190005Z
 workshops:
 - &id002
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
