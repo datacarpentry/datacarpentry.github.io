@@ -261,9 +261,6 @@ airports:
   name: Copenhagen Kastrup
 - country: za
   instructors:
-<<<<<<< HEAD
-  - {name: Adrianna 
-=======
   - {name: Adrianna Pińska, user: pinska_adrianna}
   - {name: Peter van Heusden, user: van-heusden_peter}
   - {name: Raissa Philibert, user: philibert_raissa}
@@ -3583,7 +3580,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170627T000005Z
+timestamp: 20170627T001455Z
 workshops:
 - &id002
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
@@ -5521,4 +5518,3 @@ workshops:
     venue: Florida State University
 workshops_current: *id001
 workshops_past: *id002
->>>>>>> ab0736962a63712fb8663b0cb5f0850caa9b8f16
