@@ -32,7 +32,7 @@ We offer several levels of Memberships, based on training activities expected an
 |DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Membership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Membership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Membership)|
 
 Fees listed are for not-for-profit organizations. We also provide these and 
-Platinum Memberships for for-profit organizations. Please [contact us](mailto:partnerships@carpentries.org) for information. 
+Platinum Memberships for for-profit organizations. Please [contact us](mailto:partnerships@carpentries.org) for more information. 
 
 #### Notes
 
