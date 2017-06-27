@@ -588,7 +588,6 @@ airports:
   - {name: Jared Camins-Esakov, user: camins-esakov_jared}
   - {name: Timothy Cerino, user: cerino_t}
   - {name: Sumana Harihareswara, user: harihareswara_sumana}
-  - {name: Kwasi Kwakwa, user: kwakwa_k}
   - {name: Ian Langmore, user: langmore_i}
   - {name: Matthew Lightman, user: lightman_matthew}
   - {name: Jason Pell, user: pell_j}
@@ -600,6 +599,7 @@ airports:
 - country: gb
   instructors:
   - {name: Laura Jane Graham, user: graham_laura}
+  - {name: Kwasi Amoako Kwakwa, user: kwakwa_k}
   - {name: Mark Plumbley, user: plumbley_m}
   - {name: Will Scott-Jackson, user: scott-jackson_will}
   - {name: Patrik Huber, user: huber_patrik}
@@ -1177,6 +1177,19 @@ airports:
   - {name: Vince Polito, user: polito_vince}
   - {name: Adela Sobotkova, user: sobotkova_adela}
   - {name: Brian Ballsun-Stanton, user: ballsun-stanton_brian}
+  - {name: William Tong, user: tong_william}
+  - {name: Ina Geedicke, user: geedicke_ina}
+  - {name: Rene Heim, user: heim_rene}
+  - {name: Kaja Wierucka, user: wierucka_kaja}
+  - {name: James Tocknell, user: tocknell_james}
+  - {name: Colin Navin, user: navin_colin}
+  - {name: Luke Mills, user: mills_luke}
+  - {name: Ingrid Tarr, user: tarr_ingrid}
+  - {name: Peter Ha, user: ha_peter}
+  - {name: Gerard Reed, user: reed_gerard}
+  - {name: Richard Miller, user: miller_richard}
+  - {name: Andrew Ferris, user: ferris_andrew}
+  - {name: Jake Surman, user: surman_jake}
   latitude: -33.946111
   longitude: 151.177222
   name: Sydney
@@ -2452,7 +2465,7 @@ badges:
   - {awarded: '2015-06-27', name: Mary Piper, user: piper_mary}
   - {awarded: '2015-07-03', name: Arron Shiffer, user: shiffer_arron}
   - {awarded: '2015-07-03', name: Anelda van der Walt, user: van-der-walt_anelda}
-  - {awarded: '2015-07-05', name: Kwasi Kwakwa, user: kwakwa_k}
+  - {awarded: '2015-07-05', name: Kwasi Amoako Kwakwa, user: kwakwa_k}
   - {awarded: '2015-07-05', name: Ryan Dale, user: dale_ryan}
   - {awarded: '2015-07-05', name: Chris Lonnen, user: lonnen_chris}
   - {awarded: '2015-07-05', name: Darya Vanichkina, user: vanichkina_darya}
@@ -3401,7 +3414,7 @@ badges:
   - {awarded: '2017-01-16', name: Albertus Seyffert, user: seyffert_albertus}
   - {awarded: '2017-01-16', name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
   - {awarded: '2017-01-16', name: Patricia Carbajales-Dale, user: carbajales_patricia}
-  - {awarded: '2017-01-16', name: Kwasi Kwakwa, user: kwakwa_k}
+  - {awarded: '2017-01-16', name: Kwasi Amoako Kwakwa, user: kwakwa_k}
   - {awarded: '2017-01-16', name: Erik Bray, user: bray_e}
   - {awarded: '2017-01-16', name: Ron Merrill, user: merrill_ron}
   - {awarded: '2017-01-16', name: Jeremiah Lant, user: lant_jeremiah}
@@ -3583,7 +3596,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170627T100004Z
+timestamp: 20170627T110004Z
 workshops:
 - &id002
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
