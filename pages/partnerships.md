@@ -12,7 +12,8 @@ of Data Carpentry. Members receive annual access to instructor training and guid
 
 **If you are already a Software Carpentry Foundation Partner or Affiliate** you are also considered a Data Carpentry Member under the same terms through the end of your contract. 
 
-We offer several levels of Memberships, based on training activities expected annually.
+We offer several levels of Memberships, based on training activities expected annually.  
+
 
 ### Tiers
 
@@ -30,10 +31,13 @@ We offer several levels of Memberships, based on training activities expected an
 |Joint Fee (annual)|[$5,000](mailto:partnerships@carpentries.org?subject=Interested in Bronze Membership)|[$7,500](mailto:partnerships@carpentries.org?subject=Interested in Silver Membership)|[$15,000](mailto:partnerships@carpentries.org?subject=Interested in Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Platinum Membership)|
 |DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Membership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Membership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Membership)|
 
+Fees listed are for not-for-profit organizations. We also provide these and 
+Platinum Memberships for for-profit organizations.  
+Please [contact us](mailto:partnerships@carpentries.org) for more information. 
 
 #### Notes
 
-\* For [Coordinated workshops](/workshops-host/), we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the Partner organization. A designated contact approves coordinated workshop requests for that organization. Instructor travel expenses are the responsibility of the partner and are not covered in Partnership fees.
+\* For [Coordinated workshops](/workshops-host/), we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the Member organization. A designated contact approves coordinated workshop requests for that organization. Instructor travel expenses are the responsibility of the member and are not covered in Membership fees.
 
 \*\* For [Self-organized workshops](/self-organized-workshops/) the organization is responsible for finding local instructors and handling the logistics of the workshop coordination, including registration and registering the workshop with Software and Data Carpentry. As long at least one instructor is certified and the Software or Data Carpentry content is taught, it can be labeled a Carpentry workshop.
 

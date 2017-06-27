@@ -30,11 +30,11 @@ More detailed information about what Trainers do can be found [here](https://git
 Trainers-in-training meet one hour a week for eight weeks to engage in a series of discussions around teaching
 pedagogy and creating welcoming classroom environments. After completing this part of the training, new Trainers
 shadow a teaching demonstration and part of an online instructor training event. Trainers-in-training also attend 
-regular meetings of the Trainer community. This group of Trainers will start meeting in July and be eligable to
+regular meetings of the Trainer community. This group of Trainers will start meeting in July and be eligible to
 teach instructor trainings by September.  
 
 If you're interested in joining the Trainer community, please 
 [apply here](https://goo.gl/forms/yTx9yJzdWy6OAPtS2)! Applications will be open until June 14th.
 
 If you have any questions about the training process or the 
-expecations for being a Trainer, please get in touch with [Erin](ebecker@carpentries.org).
+expectations for being a Trainer, please get in touch with [Erin](ebecker@carpentries.org).
