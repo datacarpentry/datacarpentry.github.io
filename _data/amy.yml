@@ -2,6 +2,7 @@ airports:
 - country: us
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
+  - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Andrew McLeod Fraser, user: fraser_andrew}
   - {name: Christoph Junghans, user: junghans_christoph}
   latitude: 35.048665
@@ -74,7 +75,6 @@ airports:
   - {name: R. David Murray, user: murray_david}
   - {name: Pariksheet Nanda, user: nanda_pariksheet}
   - {name: Timothy Moore, user: moore_timothy}
-  - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Sandeep Namburi, user: namburi_sandeep}
   - {name: Shane Sanders, user: sanders_shane}
   - {name: Saira Kazmi, user: kazmi_saira}
@@ -91,6 +91,7 @@ airports:
   instructors:
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
   - {name: Sarah Mount, user: mount_sarah}
+  - {name: Owen Stephens, user: stephens_owen}
   - {name: Duncan Watson-Parris, user: watson-parris_duncan}
   - {name: Sebastian Engelstaedter, user: engelstaedter_sebastian}
   - {name: Victoria Forth, user: forth_victoria}
