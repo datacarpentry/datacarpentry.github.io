@@ -285,6 +285,7 @@ airports:
   - {name: David McGaughey, user: mcgaughey_david}
   - {name: Steve Bond, user: bond_s}
   - {name: Vinai Roopchansingh, user: roopchansingh_vinai}
+  - {name: Abhijit Dasgupta, user: dasgupta_abhijit}
   - {name: Ian Carroll, user: carroll_ian}
   latitude: 38.851944
   longitude: -77.0375
@@ -557,6 +558,7 @@ airports:
   - {name: Mark Wilber, user: wilber_mark}
   - {name: Tim Dennis, user: dennis_tim}
   - {name: Gail Clement, user: gail_clement}
+  - {name: Stephen Davison, user: davison_stephen}
   latitude: 33.9415889
   longitude: -118.40853
   name: Los Angeles, CA
@@ -1087,6 +1089,7 @@ airports:
   - {name: Jieming Chen, user: chen_jieming}
   - {name: Miriam B Goodman, user: goodman_miriam}
   - {name: Todd Gamblin, user: gamblin_todd}
+  - {name: Christopher Mark DeBoever, user: deboever_christopher}
   - {name: Claudia Engel, user: engel_claudia}
   latitude: 37.618889
   longitude: -122.374722
@@ -1384,6 +1387,7 @@ airports:
   - {name: Stephen Edward Childs, user: childs_stephen}
   - {name: Kathy Chung, user: chung_kathy}
   - {name: Arliss Collins, user: collins_arliss}
+  - {name: Erin Dickie, user: dickie_e}
   - {name: Martin Durant, user: durant_martin}
   - {name: Jonathan Dursi, user: dursi_j}
   - {name: Xu Fei, user: fei_xu}
@@ -3564,7 +3568,7 @@ badges:
   - {awarded: '2017-06-08', name: James Baker, user: baker_james_2}
   - {awarded: '2017-06-15', name: Claudia Engel, user: engel_claudia}
   - {awarded: '2017-06-15', name: Tania Allard, user: allard_tania}
-  - {awarded: '2017-06-15', name: Christopher DeBoever, user: deboever_christopher}
+  - {awarded: '2017-06-15', name: Christopher Mark DeBoever, user: deboever_christopher}
   - {awarded: '2017-06-23', name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   - {awarded: '2017-06-23', name: Geoff LaFlair, user: laflair_geoff}
 - name: maintainer
@@ -3639,7 +3643,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170628T140005Z
+timestamp: 20170628T150004Z
 workshops:
 - &id002
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
