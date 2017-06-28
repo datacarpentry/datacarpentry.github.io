@@ -91,6 +91,7 @@ airports:
   instructors:
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
   - {name: Sarah Mount, user: mount_sarah}
+  - {name: Owen Stephens, user: stephens_owen}
   - {name: Duncan Watson-Parris, user: watson-parris_duncan}
   - {name: Sebastian Engelstaedter, user: engelstaedter_sebastian}
   - {name: Victoria Forth, user: forth_victoria}
@@ -385,6 +386,7 @@ airports:
   - {name: Evgenij Belikov, user: belikov_evgenij}
   - {name: Neil Chue Hong, user: chue-hong_n}
   - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
+  - {name: Alistair Grant, user: grant_alistair}
   - {name: Mike Jackson, user: jackson_m}
   - {name: Martin Jones, user: jones_martin}
   - {name: Alexander Konovalov, user: konovalov_alexander}
@@ -427,7 +429,9 @@ airports:
 - country: gb
   instructors:
   - {name: James Allen, user: allen_james}
+  - {name: Stephen Haddad, user: haddad_stephen}
   - {name: Hamish Steptoe, user: steptoe_hamish}
+  - {name: Thomas Voigt, user: voigt_thomas_2}
   latitude: 50.734444
   longitude: -3.413889
   name: Exeter
@@ -559,6 +563,7 @@ airports:
   - {name: Aaron O'Leary, user: oleary_aaron}
   - {name: Andrew Walker, user: walker_andrew}
   - {name: Jon E Mound, user: mound_je}
+  - {name: Mark Dixon, user: dixon_mark}
   - {name: Mike Wallis, user: wallis_mike}
   - {name: Alastair Droop, user: droop_alastair}
   - {name: Chris Norton, user: norton_chris}
@@ -598,6 +603,7 @@ airports:
   name: New York La Guardia, NY
 - country: gb
   instructors:
+  - {name: James Baker, user: baker_james_2}
   - {name: Laura Jane Graham, user: graham_laura}
   - {name: Kwasi Amoako Kwakwa, user: kwakwa_k}
   - {name: Mark Plumbley, user: plumbley_m}
@@ -619,8 +625,10 @@ airports:
   - {name: Robert A Beagrie, user: beagrie_robert}
   - {name: Miguel Bernabeu, user: bernabeu_miguel}
   - {name: Chris Cannam, user: cannam_c}
+  - {name: Jonathan Cooper, user: cooper_jonathan}
   - {name: Rich FitzJohn, user: fitzjohn_rich}
   - {name: Philip Fowler, user: fowler_philip}
+  - {name: Gerard Gorman, user: gorman_gerard}
   - {name: Donna Henderson, user: henderson_donna}
   - {name: James Hetherington, user: hetherington_james}
   - {name: Jan Kim, user: kim_jan}
@@ -631,11 +639,14 @@ airports:
   - {name: Florian Rathgeber, user: rathgeber_florian}
   - {name: Mark Stillwell, user: stillwell_mark}
   - {name: Richard Tomsett, user: tomsett_richard}
+  - {name: Will Usher, user: usher_w}
   - {name: Bogdan Vera, user: vera_b}
   - {name: Ben Waugh, user: waugh_b}
   - {name: Arfan Ahmed, user: ahmed_arfan}
   - {name: Alys Brett, user: brett_alys}
   - {name: Bethan Davies, user: davies_bethan}
+  - {name: Nicky Nicolson, user: nicolson_nicky}
+  - {name: Jane Charlesworth, user: charlesworth_jane}
   - {name: Consuelo Sendino, user: sendino_consuelo}
   - {name: Malcom Penn, user: penn_malcom}
   - {name: Sreekumar Balan, user: balan_sreekumar}
@@ -647,6 +658,7 @@ airports:
   - {name: Simon Thelwall, user: thelwall_simon}
   - {name: Laura Fortunato, user: fortunato_laura}
   - {name: Kesson Magid, user: magid_kesson}
+  - {name: Julian Jordan, user: jordan_julian}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -688,6 +700,7 @@ airports:
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
   - {name: Nick James, user: james_nick}
   - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
+  - {name: Tania Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
   latitude: 53.353611
   longitude: -2.274722
@@ -812,6 +825,7 @@ airports:
   - {name: Steve McGough, user: mcgough_s}
   - {name: Kirill Palamartchouk, user: palamartchouk_kirill}
   - {name: Leanne Wake, user: wake_leanne}
+  - {name: Peter Michalák, user: michalak_peter}
   - {name: Nick Loughlin, user: loughlin_nick}
   latitude: 55.0375
   longitude: -1.691667
@@ -1149,6 +1163,7 @@ airports:
   - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
+  - {name: Ross Mounce, user: mounce_ross}
   - {name: Tim Tröndle, user: troendle_tim}
   - {name: Hugo Tavares, user: tavares_hugo}
   - {name: Mark Wheelhouse, user: wheelhouse_mark}
@@ -1460,6 +1475,7 @@ airports:
   instructors:
   - {name: Jack Simpson, user: simpson_jack}
   - {name: Luc Small, user: small_luc}
+  - {name: Marcin Adamski, user: adamski_marcin}
   latitude: -35.308333
   longitude: 149.193889
   name: Canberra
@@ -1759,6 +1775,7 @@ airports:
   name: Wellington International Airport
 - country: au
   instructors:
+  - {name: Daniel Baird, user: baird_daniel}
   - {name: David Beitey, user: beitey_david}
   - {name: Steve Vandervalk, user: vandervalk_steven}
   - {name: Jay van Schyndel, user: van-schyndel_jay}
@@ -2025,6 +2042,12 @@ airports:
   latitude: 34.2006989
   longitude: -118.3590012
   name: Bob Hope Airport
+- country: fr
+  instructors:
+  - {name: Jan Antolik, user: antolik_jan}
+  latitude: 48.7518997
+  longitude: 2.10619
+  name: Toussus-le-Noble Airport
 badges:
 - name: creator
   persons:
@@ -3596,7 +3619,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170628T110005Z
+timestamp: 20170628T120005Z
 workshops:
 - &id002
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
