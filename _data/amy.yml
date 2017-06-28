@@ -538,6 +538,7 @@ airports:
 - country: us
   instructors:
   - {name: Christie Bahlai, user: bahlai_christie}
+  - {name: Eric Bruger, user: bruger_e}
   - {name: Rosangela Canino-Koning, user: canino-koning_r}
   - {name: Emily Dolson, user: dolson_emily}
   - {name: Richard Enbody, user: enbody_r}
@@ -555,6 +556,7 @@ airports:
   instructors:
   - {name: Mark Wilber, user: wilber_mark}
   - {name: Tim Dennis, user: dennis_tim}
+  - {name: Gail Clement, user: gail_clement}
   latitude: 33.9415889
   longitude: -118.40853
   name: Los Angeles, CA
@@ -884,6 +886,7 @@ airports:
   - {name: Sarah Clayton, user: clayton_sarah}
   - {name: Jamie Hadwin, user: hadwin_jamie}
   - {name: Peter R. Hoyt, user: hoyt_peter}
+  - {name: Rob Burnap, user: burnap_rob}
   - {name: Phillip Doehle, user: doehle_phillip}
   - {name: Patrick Boyle, user: boyle_patrick}
   - {name: Ross Allen Bowman, user: bowman_ross}
@@ -1028,6 +1031,7 @@ airports:
   instructors:
   - {name: Russell Alleen-Willems, user: alleen-willems_russell}
   - {name: Rebecca Blakewood, user: blakewood_becca}
+  - {name: Billy Charlton, user: charlton_william}
   - {name: Sophie Clayton, user: clayton_sophie}
   - {name: Jordan Fish, user: fish_jordan}
   - {name: Abraham Flaxman, user: flaxman_abraham}
@@ -1080,6 +1084,7 @@ airports:
   - {name: Stuart Geiger, user: geiger_stuart}
   - {name: Lachlan Deer, user: deer_lachlan}
   - {name: Geoffrey Boushey, user: boushey_geoffrey}
+  - {name: Jieming Chen, user: chen_jieming}
   - {name: Miriam B Goodman, user: goodman_miriam}
   - {name: Todd Gamblin, user: gamblin_todd}
   - {name: Claudia Engel, user: engel_claudia}
@@ -1108,6 +1113,7 @@ airports:
   - {name: Gus Hart, user: hart_gus}
   - {name: Andrew Nguyen, user: nguyen_andrew}
   - {name: Conrad Rosenbrock, user: rosenbrock_conrad}
+  - {name: Martin Cuma, user: cuma_martin}
   - {name: Anita Orendt, user: orendt_anita}
   - {name: Betty Rozum, user: rozum_betty}
   latitude: 40.788333
@@ -1349,6 +1355,7 @@ airports:
   - {name: Johannes Rebane, user: rebane_johannes}
   - {name: Patrick Walls, user: walls_patrick}
   - {name: Jamie Rosner, user: rosner_jamie}
+  - {name: May Chan, user: chan_may}
   latitude: 49.195
   longitude: -123.181944
   name: Vancouver
@@ -1372,6 +1379,7 @@ airports:
 - country: ca
   instructors:
   - {name: Sean Aubin, user: aubin_sean}
+  - {name: Kathryn Barrett, user: barrett_kathryn}
   - {name: Amy Brown, user: brown_amy}
   - {name: Stephen Edward Childs, user: childs_stephen}
   - {name: Kathy Chung, user: chung_kathy}
@@ -1566,6 +1574,7 @@ airports:
   instructors:
   - {name: Daniel Chen, user: chen_daniel}
   - {name: Daniel Smith, user: smith_daniel}
+  - {name: Jonathan Bradley, user: bradley_jonathan}
   latitude: 37.3255005
   longitude: -79.9754028
   name: Roanoke Blacksburg, VA
@@ -1605,6 +1614,7 @@ airports:
 - country: ca
   instructors:
   - {name: James Desjardins, user: desjardins_james}
+  - {name: Rudiger Brauning, user: brauning_rudiger}
   latitude: 43.165464
   longitude: -79.935375
   name: Hamilton International Airport
@@ -1627,6 +1637,7 @@ airports:
   - {name: Joona Lehtomäki, user: lehtomaki_joona}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {name: Edwin van der Helm, user: van-der-helm_edwin}
+  - {name: Tobias Borsdorff, user: borsdorff_tobias}
   - {name: Anita Schürch, user: schurch_anita}
   latitude: 52.309686
   longitude: 4.767438
@@ -1778,6 +1789,7 @@ airports:
   - {name: Daniel Baird, user: baird_daniel}
   - {name: David Beitey, user: beitey_david}
   - {name: Steve Vandervalk, user: vandervalk_steven}
+  - {name: Ira Cooke, user: cooke_ira}
   - {name: Jay van Schyndel, user: van-schyndel_jay}
   - {name: Collin Storlie, user: storlie_collin}
   latitude: -19.248454
@@ -1792,6 +1804,7 @@ airports:
 - country: be
   instructors:
   - {name: Tina O'Grady, user: ogrady_tina}
+  - {name: Frederik Coppens, user: coppens_frederik}
   - {name: Christof De Bo, user: debo_christof}
   latitude: 50.902447
   longitude: 4.487055
@@ -1859,6 +1872,7 @@ airports:
 - country: us
   instructors:
   - {name: Julie Lowndes, user: lowndes_julia}
+  - {name: Ben Best, user: best_ben}
   latitude: 34.429689
   longitude: -119.837459
   name: Santa Barbara Municipal Airport
@@ -2048,6 +2062,12 @@ airports:
   latitude: 48.7518997
   longitude: 2.10619
   name: Toussus-le-Noble Airport
+- country: us
+  instructors:
+  - {name: Cortney Buffington, user: buffington_cortney}
+  latitude: 39.0158333
+  longitude: -95.2163889
+  name: Lawrence Municipal Airport
 badges:
 - name: creator
   persons:
@@ -3619,7 +3639,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170628T130005Z
+timestamp: 20170628T140005Z
 workshops:
 - &id002
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
