@@ -1875,7 +1875,7 @@ airports:
   name: EuroAirport Basel-Mulhouse-Freiburg
 - country: us
   instructors:
-  - {name: Julie Lowndes, user: lowndes_julia}
+  - {name: Julie Stewart Lowndes, user: lowndes_julia}
   - {name: Ben Best, user: best_ben}
   latitude: 34.429689
   longitude: -119.837459
@@ -2744,7 +2744,7 @@ badges:
   - {awarded: '2016-04-19', name: Stephanie Labou, user: labou_stephanie}
   - {awarded: '2016-04-19', name: Mark Wheelhouse, user: wheelhouse_mark}
   - {awarded: '2016-04-19', name: Kristina Riemer, user: riemer_kristina}
-  - {awarded: '2016-04-19', name: Julie Lowndes, user: lowndes_julia}
+  - {awarded: '2016-04-19', name: Julie Stewart Lowndes, user: lowndes_julia}
   - {awarded: '2016-04-19', name: Yuandra Ismiraldi, user: ismiraldi_yuandra}
   - {awarded: '2016-04-19', name: Murray Cadzow, user: cadzow_murray}
   - {awarded: '2016-04-19', name: Jim Stapleton, user: stapleton_jim}
@@ -3643,7 +3643,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170628T230005Z
+timestamp: 20170629T000005Z
 workshops:
 - &id002
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
