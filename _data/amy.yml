@@ -2072,6 +2072,12 @@ airports:
   latitude: 39.0158333
   longitude: -95.2163889
   name: Lawrence Municipal Airport
+- country: de
+  instructors:
+  - {name: Peter Evans, user: evans_peter}
+  latitude: 52.5597
+  longitude: 13.2876997
+  name: Berlin-Tegel International Airport
 badges:
 - name: creator
   persons:
@@ -3643,7 +3649,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170629T100005Z
+timestamp: 20170629T110004Z
 workshops:
 - &id002
   - address: 1 Cyclotron Rd, Berkeley, CA 94720
