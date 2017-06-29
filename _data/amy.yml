@@ -349,6 +349,7 @@ airports:
 - country: us
   instructors:
   - {name: Carlos Anderson, user: anderson_c}
+  - {name: Christie Bahlai, user: bahlai_christie}
   - {name: Michelle Berry, user: berry_michelle}
   - {name: Amanda Charbonneau, user: charbonneau_amanda}
   - {name: Meghan Duffy, user: duffy_meghan}
@@ -538,7 +539,6 @@ airports:
   name: Krakow
 - country: us
   instructors:
-  - {name: Christie Bahlai, user: bahlai_christie}
   - {name: Eric Bruger, user: bruger_e}
   - {name: Rosangela Canino-Koning, user: canino-koning_r}
   - {name: Emily Dolson, user: dolson_emily}
@@ -3649,7 +3649,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170629T120004Z
+timestamp: 20170629T130005Z
 workshops:
 - &id002
   - address: 1 Cyclotron Rd, Berkeley, CA 94720
