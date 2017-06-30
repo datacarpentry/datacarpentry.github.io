@@ -3651,7 +3651,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170630T210005Z
+timestamp: 20170630T220004Z
 workshops:
 - &id002
   - address: 1 Cyclotron Rd, Berkeley, CA 94720
