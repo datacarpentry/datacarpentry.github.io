@@ -267,6 +267,7 @@ airports:
   - {name: Raissa Philibert, user: philibert_raissa}
   - {name: Jordan Masakuna, user: masakuna_jordan}
   - {name: Warren Morne' Jacobus, user: jacobus_warren}
+  - {name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   latitude: -33.964722
   longitude: 18.601667
   name: Cape Town
@@ -1089,7 +1090,6 @@ airports:
   - {name: Jieming Chen, user: chen_jieming}
   - {name: Miriam B Goodman, user: goodman_miriam}
   - {name: Todd Gamblin, user: gamblin_todd}
-  - {name: Christopher Mark DeBoever, user: deboever_christopher}
   - {name: Claudia Engel, user: engel_claudia}
   latitude: 37.618889
   longitude: -122.374722
@@ -1105,6 +1105,7 @@ airports:
   - {name: Steve Haddock, user: haddock_s}
   - {name: Amy E. Hodge, user: hodge_amy}
   - {name: Emily Jane McTavish, user: mctavish_ej}
+  - {name: Chris DeBoever, user: deboever_christopher}
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
@@ -1510,6 +1511,7 @@ airports:
   instructors:
   - {name: Mahdi Belcaid, user: belcaid_mahdi}
   - {name: Sean Cleveland, user: cleveland_sean}
+  - {name: Geoff LaFlair, user: laflair_geoff}
   latitude: 21.315833
   longitude: -157.926667
   name: Honolulu, HI
@@ -3574,7 +3576,7 @@ badges:
   - {awarded: '2017-06-08', name: James Baker, user: baker_james_2}
   - {awarded: '2017-06-15', name: Claudia Engel, user: engel_claudia}
   - {awarded: '2017-06-15', name: Tania Allard, user: allard_tania}
-  - {awarded: '2017-06-15', name: Christopher Mark DeBoever, user: deboever_christopher}
+  - {awarded: '2017-06-15', name: Chris DeBoever, user: deboever_christopher}
   - {awarded: '2017-06-23', name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   - {awarded: '2017-06-23', name: Geoff LaFlair, user: laflair_geoff}
 - name: maintainer
@@ -3649,7 +3651,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170630T140005Z
+timestamp: 20170630T150005Z
 workshops:
 - &id002
   - address: 1 Cyclotron Rd, Berkeley, CA 94720
