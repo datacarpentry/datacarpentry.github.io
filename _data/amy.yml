@@ -3651,9 +3651,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170701T040004Z
+timestamp: 20170701T050004Z
 workshops:
 - &id002
+  - address: 116 Honors Way Tallahassee, FL 32306
+    contact: rsmart@fsu.edu
+    country: us
+    end: 2017-06-30
+    eventbrite_id: '34822507056'
+    humandate: Jun 29-30, 2017
+    latitude: 30.443059
+    longitude: -84.294984
+    slug: 2017-06-29-fsu
+    start: 2017-06-29
+    tags:
+    - {name: DC}
+    url: https://fsulib.github.io/2017-06-29-fsu/
+    venue: Florida State University
   - address: 1 Cyclotron Rd, Berkeley, CA 94720
     contact: ecscharfstein@lbl.gov
     country: us
@@ -5616,19 +5630,5 @@ workshops:
     - {name: DC}
     url: https://mkuzak.github.io/2017-07-17-imperial/
     venue: Imperial College London
-  - address: 116 Honors Way Tallahassee, FL 32306
-    contact: rsmart@fsu.edu
-    country: US
-    end: 2017-06-30
-    eventbrite_id: '34822507056'
-    humandate: Jun 29-30, 2017
-    latitude: 30.443059
-    longitude: -84.294984
-    slug: 2017-06-29-fsu
-    start: 2017-06-29
-    tags:
-    - {name: DC}
-    url: https://fsulib.github.io/2017-06-29-fsu/
-    venue: Florida State University
 workshops_current: *id001
 workshops_past: *id002
