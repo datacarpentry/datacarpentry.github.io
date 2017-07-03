@@ -32,6 +32,8 @@ they go out for lunch or leave the workshop. Feedback is hand-written on the not
 (For online instructor training events, we 
 collect this feedback through a Google form). 
 
+![Negative and positive feedback]({{ site.urlimg }}/images/stickynote.jpg "Minute cards")
+
 # How to use minute cards during workshops
 
 So, you get all this valuable feedback. Now what? With your co-instructor, go through the notes. Pull out the awesome or funny ones and smile. 
