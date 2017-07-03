@@ -34,6 +34,7 @@ airports:
   - {name: Mike Ladd, user: ladd_mike}
   - {name: Kirsten Brown, user: brown_kirsten}
   - {name: Nick Young, user: young_nick}
+  - {name: Martin Feller, user: feller_martin}
   - {name: Sean Marshall Matheny, user: matheny_sean}
   latitude: -37.008056
   longitude: 174.791667
@@ -750,6 +751,7 @@ airports:
   - {name: Harriet Dashnow, user: dashnow_harriet}
   - {name: Matthew Dimmock, user: dimmock_matt}
   - {name: Kim Doyle, user: doyle_kimberly}
+  - {name: Angus Ferguson, user: ferguson_angus}
   - {name: Talitha Ford, user: ford_talitha}
   - {name: Julian Garcia, user: garcia_julian}
   - {name: Philippa Griffin, user: griffin_pip}
@@ -883,6 +885,7 @@ airports:
   - {name: Braden Owsley, user: owsley_braden}
   - {name: Brent Shambaugh, user: shambaugh_brent}
   - {name: Mark Stacy, user: stacy_mark}
+  - {name: Sean Fortney, user: fortney_sean}
   - {name: Cody Taylor, user: taylor_cody}
   - {name: Blake Stamps, user: stamps_blake}
   - {name: Jason Sherman, user: sherman_jason}
@@ -2080,6 +2083,12 @@ airports:
   latitude: 52.5597
   longitude: 13.2876997
   name: Berlin-Tegel International Airport
+- country: 'no'
+  instructors:
+  - {name: David Fredman, user: fredman_david}
+  latitude: 60.2933998
+  longitude: 5.2181401
+  name: Bergen Flesland Airport
 badges:
 - name: creator
   persons:
@@ -3651,7 +3660,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170703T080004Z
+timestamp: 20170703T090005Z
 workshops:
 - &id002
   - address: 116 Honors Way Tallahassee, FL 32306
