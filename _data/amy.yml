@@ -4,6 +4,7 @@ airports:
   - {name: Jonathan Gross, user: gross_jonathan}
   - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Andrew McLeod Fraser, user: fraser_andrew}
+  - {name: Mike Heroux, user: heroux_mike}
   - {name: Christoph Junghans, user: junghans_christoph}
   latitude: 35.048665
   longitude: -106.616704
@@ -11,6 +12,7 @@ airports:
 - country: nz
   instructors:
   - {name: Prashant Gupta, user: gupta_prashant}
+  - {name: Richard Hosking, user: hosking_richard}
   - {name: Nick Jones, user: jones_nick}
   - {name: Kate Lee, user: lee_kate}
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
@@ -34,6 +36,8 @@ airports:
   - {name: Mike Ladd, user: ladd_mike}
   - {name: Kirsten Brown, user: brown_kirsten}
   - {name: Nick Young, user: young_nick}
+  - {name: Yvette Wharton, user: wharton_yvette}
+  - {name: Martin Feller, user: feller_martin}
   - {name: Sean Marshall Matheny, user: matheny_sean}
   latitude: -37.008056
   longitude: 174.791667
@@ -59,6 +63,7 @@ airports:
   - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
   - {name: Rebecca Tarvin, user: tarvin_becca}
   - {name: Todd Krause, user: krause_todd}
+  - {name: Jessica Trelogan, user: trelogan_jessica}
   latitude: 30.194444
   longitude: -97.669722
   name: Austin, TX
@@ -148,6 +153,7 @@ airports:
   - {name: Bob Freeman, user: freeman_robert}
   - {name: Ivan Gonzalez, user: gonzalez_ivan}
   - {name: Radhika Khetani, user: khetani_radhika}
+  - {name: Keith Ma, user: ma_keith}
   - {name: Meeta Mistry, user: mistry_meeta}
   - {name: Daiva Nielsen, user: nielsen_daiva}
   - {name: Mary Piper, user: piper_mary}
@@ -162,6 +168,7 @@ airports:
   - {name: Andrew Marder, user: marder_andrew}
   - {name: Ista Zahn, user: zahn_ista}
   - {name: Eric Ma, user: ma_eric}
+  - {name: Christopher Holden, user: holden_christopher}
   - {name: Shiklomanov Alexey, user: shiklomanov_alexey}
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
   - {name: Jarrett Byrnes, user: byrnes_jarrett}
@@ -182,9 +189,11 @@ airports:
   instructors:
   - {name: Justin Ely, user: ely_j}
   - {name: Megan Fritz, user: fritz_megan}
+  - {name: Mary Shelley, user: shelley_mary}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
   - {name: John Didion, user: didion_john}
+  - {name: Kelley O'Neal, user: oneal_kelley}
   latitude: 39.175278
   longitude: -76.668333
   name: Baltimore, MD
@@ -245,6 +254,7 @@ airports:
   - {name: Neal Davis, user: davis_neal}
   - {name: Kathryn Dorsey Huff, user: huff_k}
   - {name: David LeBauer, user: lebauer_david}
+  - {name: Elizabeth Wickes, user: wickes_elizabeth}
   - {name: Maxim Belkin, user: belkin_maxim}
   - {name: Dena Lynn Strong, user: strong_dena}
   latitude: 40.039167
