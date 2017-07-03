@@ -3744,7 +3744,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170703T180004Z
+timestamp: 20170703T190004Z
 workshops:
 - &id002
   - address: 116 Honors Way Tallahassee, FL 32306
@@ -5675,7 +5675,7 @@ workshops:
     humandate: Aug 01-02, 2017
     latitude: 37.875928
     longitude: -122.250027
-    slug: 2017-08-01-berkeleylab
+    slug: 2017-08-01-LBNL
     start: 2017-08-01
     tags:
     - {name: DC}
