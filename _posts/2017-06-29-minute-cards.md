@@ -32,7 +32,7 @@ they go out for lunch or leave the workshop. Feedback is hand-written on the not
 (For online instructor training events, we 
 collect this feedback through a Google form). 
 
-![Negative and positive feedback]({{ site.urlimg }}/images/stickynote.jpg "Minute cards")
+![Negative and positive feedback](/images/stickynote.jpg "Minute cards")
 
 # How to use minute cards during workshops
 
