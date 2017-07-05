@@ -3108,6 +3108,9 @@ badges:
   - {awarded: '2017-06-15', name: Javier de la Rosa, user: de-la-rosa_javier}
   - {awarded: '2017-06-15', name: Abhijit Dasgupta, user: dasgupta_abhijit}
   - {awarded: '2017-06-16', name: Owen Stephens, user: stephens_owen}
+  - {awarded: '2017-07-05', name: Jamene Brooks-Kieffer, user: brooks-kieffer_jamene}
+  - {awarded: '2017-07-05', name: Rebel Cummings-Sauls Cummings, user: cummings_rebel-cummings-sauls}
+  - {awarded: '2017-07-05', name: Maria Alejandra Arias, user: arias_maria-alejandra}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3679,6 +3682,7 @@ badges:
   - {awarded: '2017-06-15', name: Chris DeBoever, user: deboever_christopher}
   - {awarded: '2017-06-23', name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   - {awarded: '2017-06-23', name: Geoff LaFlair, user: laflair_geoff}
+  - {awarded: '2017-07-05', name: Samar Elsheikh, user: elsheikh_samar}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3751,7 +3755,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170705T160005Z
+timestamp: 20170705T170006Z
 workshops:
 - &id002
   - address: 116 Honors Way Tallahassee, FL 32306
@@ -5730,5 +5734,19 @@ workshops:
     - {name: DC}
     url: https://mkuzak.github.io/2017-07-17-imperial/
     venue: Imperial College London
+  - address: Natural Resources Engineering (NRE) 2-125
+    contact: john.simpson@computecanada.ca
+    country: CA
+    end: 2017-07-13
+    eventbrite_id: '35794086075'
+    humandate: Jul 12-13, 2017
+    latitude: 53.526942
+    longitude: -113.52955
+    slug: 2017-07-12-ualberta-DC
+    start: 2017-07-12
+    tags:
+    - {name: DC}
+    url: https://computecanada.github.io/2017-07-12-ualberta-DC/
+    venue: University of Alberta
 workshops_current: *id001
 workshops_past: *id002
