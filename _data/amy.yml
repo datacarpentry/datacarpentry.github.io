@@ -583,6 +583,7 @@ airports:
   name: Los Angeles, CA
 - country: gb
   instructors:
+  - {name: Marlene Mengoni, user: mengoni_marlene}
   - {name: Aaron O'Leary, user: oleary_aaron}
   - {name: Andrew Walker, user: walker_andrew}
   - {name: Jon E Mound, user: mound_je}
@@ -598,6 +599,7 @@ airports:
   - {name: Jez Cope, user: cope_jez}
   - {name: Fernando Zapata, user: zapata_fernando}
   - {name: Lee Etchels, user: etchels_lee}
+  - {name: Heather Ford, user: ford_heather}
   latitude: 53.865833
   longitude: -1.660556
   name: Leeds
@@ -662,6 +664,7 @@ airports:
   - {name: Gary Macindoe, user: macindoe_gary}
   - {name: Dan MacLean, user: maclean_dan}
   - {name: David Perez-Suarez, user: perez-suarez_david}
+  - {name: David Pugh, user: pugh_david}
   - {name: Florian Rathgeber, user: rathgeber_florian}
   - {name: Mark Stillwell, user: stillwell_mark}
   - {name: Richard Tomsett, user: tomsett_richard}
@@ -669,6 +672,7 @@ airports:
   - {name: Bogdan Vera, user: vera_b}
   - {name: Ben Waugh, user: waugh_b}
   - {name: Arfan Ahmed, user: ahmed_arfan}
+  - {name: Tom Couch, user: couch_tom}
   - {name: Alys Brett, user: brett_alys}
   - {name: Bethan Davies, user: davies_bethan}
   - {name: Nicky Nicolson, user: nicolson_nicky}
@@ -684,7 +688,9 @@ airports:
   - {name: Simon Thelwall, user: thelwall_simon}
   - {name: Laura Fortunato, user: fortunato_laura}
   - {name: Kesson Magid, user: magid_kesson}
+  - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Julian Jordan, user: jordan_julian}
+  - {name: David Wright, user: wright_david}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -2180,6 +2186,12 @@ airports:
   latitude: 54.509201
   longitude: -1.42941
   name: Durham Tees Valley Airport
+- country: gb
+  instructors:
+  - {name: Norman Gray, user: gray_n}
+  latitude: 55.8646
+  longitude: 4.43234
+  name: Glasgow International Airport
 badges:
 - name: creator
   persons:
@@ -3755,7 +3767,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170706T090004Z
+timestamp: 20170706T100003Z
 workshops:
 - &id002
   - address: 116 Honors Way Tallahassee, FL 32306
