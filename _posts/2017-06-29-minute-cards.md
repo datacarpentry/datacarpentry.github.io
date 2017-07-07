@@ -46,7 +46,7 @@ Framing it as 'many people raised this' reassures people that they're not alone 
 Sometimes there might be issues that only one person raises, but it's a fundamental enough concept that is is worth 
 addressing for the class as a whole. 
 
-Where a single question is intertesting but is outside the workshop scope,answer it in the workshop etherpad. 
+Where a single question is interesting but is outside the workshop scope, answer it in the workshop etherpad. 
 
 Overall, minute cards are a great way to make sure you're on track with your teaching during the workshop. 
 You also get to hear about the things people are excited about learning. Tapping into their enthusiasm keeps your own enthusiasm levels high. 
