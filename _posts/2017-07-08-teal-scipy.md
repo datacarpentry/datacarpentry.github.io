@@ -12,10 +12,9 @@ show_meta: true
 authors: ["Belinda Weaver"]
 ---
 
-Conferences can be lonely places, especially for first-timers who don't yet have solid networks in place. The bigger the event, the worse the problem. With so many people milling around, how do you find like-minded people?
+Conferences can be lonely places, especially for first-timers who don't yet have solid networks in place. The bigger the event, the worse the problem. With so many people milling around, how do you find like-minded people, much less start a conversation?
 
-The issue is compounded if you're in a minority, which often happens to women attending tech conferences. Are you *really* the only female in the room?
-Or maybe you're from some other under-represented group, which can make conferences appear a little intimidating.
+The issue can be compounded if you're in a minority. When you're from an under-represented group, conferences can seem even more intimidating.
 
 At the upcoming [SciPy 2017](https://scipy2017.scipy.org/), Tracy Teal from [Data Carpentry](http://datacarpentry.org) will address that and other issues around inclusivity when she speaks at the Diversity Luncheon on July 13.
 
