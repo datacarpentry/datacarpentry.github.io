@@ -281,6 +281,7 @@ airports:
   - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Frederik Coppens, user: coppens_frederik}
   - {name: Christof De Bo, user: debo_christof}
+  - {name: Stijn Van Hoey, user: van-hoey_stijn}
   latitude: 50.902447
   longitude: 4.487055
   name: Brussels Airport
@@ -3772,7 +3773,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170711T130004Z
+timestamp: 20170711T140004Z
 workshops:
 - &id002
   - address: 116 Honors Way Tallahassee, FL 32306
