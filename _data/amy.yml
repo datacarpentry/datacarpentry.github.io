@@ -1705,6 +1705,7 @@ airports:
   - {name: Olivier Philippe, user: philippe_olivier}
   - {name: Don Cruickshank, user: cruickshank_don}
   - {name: Priyanka Singh, user: singh_priyanka}
+  - {name: Alistair Bailey, user: bailey_alistair}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
@@ -3775,7 +3776,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170712T090006Z
+timestamp: 20170712T100004Z
 workshops:
 - &id002
   - address: 116 Honors Way Tallahassee, FL 32306
