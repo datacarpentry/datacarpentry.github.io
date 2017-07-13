@@ -227,6 +227,10 @@ airports:
   - {name: Michal Kotrbcik, user: kotrbcik_michal}
   - {name: Thom Cuddihy, user: cuddihy_thom}
   - {name: Conrad Leonard, user: leonard_conrad}
+  - {name: Scott Wood, user: wood_scott}
+  - {name: Stephen McGregor, user: mcgregor_stephen}
+  - {name: Richard Vankoningsveld, user: vankoningsveld_richard}
+  - {name: James Lefevre, user: lefevre_james}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
@@ -3776,7 +3780,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170713T060005Z
+timestamp: 20170713T070004Z
 workshops:
 - &id002
   - address: 116 Honors Way Tallahassee, FL 32306
