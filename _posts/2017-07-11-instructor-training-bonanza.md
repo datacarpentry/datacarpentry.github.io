@@ -18,10 +18,8 @@ Carpentry pedagogical model and evidence-based teaching practices around the wor
 
 We last published this curriculum in [February](https://zenodo.org/record/278229#.WWUUZtPyuEI). Since then,
 we've taught over 150 new instructors at a dozen training events. We've also welcomed ten new Instructor 
-Trainers to our community, with fifteen more to join in September. 
-
-We've learned a lot over the past six months and want to incorporate what we've learned before our next
-publication (scheduled for August 10th). Please help the Trainer community update these lessons!
+Trainers to our community, with fifteen more to join in September. We've learned a lot over the past six months and want to incorporate what we've learned before our next
+publication (scheduled for August 10th). Please join the Trainer community in updating these lessons!
 
 # Get involved!  
 If you’ve made a contribution to the Instructor Training materials, you’re already an author. Help make 
