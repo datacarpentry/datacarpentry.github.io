@@ -3135,6 +3135,13 @@ badges:
   - {awarded: '2017-07-06', name: Arnstein Orten, user: orten_arnstein}
   - {awarded: '2017-07-06', name: Jim Willenbring, user: willenbring_jim}
   - {awarded: '2017-07-06', name: David Yakobovitch, user: yakobovitch_david}
+  - {awarded: '2017-07-14', name: Eleanor Lutz, user: lutz_eleanor}
+  - {awarded: '2017-07-14', name: Ilektra-Athanasia Christidi, user: christidi_ilektra-athanasia}
+  - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
+  - {awarded: '2017-07-14', name: Scott Peterson, user: peterson_scott}
+  - {awarded: '2017-07-14', name: Martin Hadley, user: hadley_martin}
+  - {awarded: '2017-07-14', name: Meghan Sinclair-Black, user: sinclair-black_meghan}
+  - {awarded: '2017-07-14', name: Rene Heim, user: heim_rene}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3708,6 +3715,10 @@ badges:
   - {awarded: '2017-06-23', name: Geoff LaFlair, user: laflair_geoff}
   - {awarded: '2017-07-05', name: Samar Elsheikh, user: elsheikh_samar}
   - {awarded: '2017-07-06', name: Jonathan Petters, user: petters_jonathan}
+  - {awarded: '2017-07-14', name: BJ Lougee, user: lougee_bj}
+  - {awarded: '2017-07-14', name: Hadrien Gourlé, user: gourl_hadrien}
+  - {awarded: '2017-07-14', name: Brittany Lasseigne, user: lasseigne_brittany}
+  - {awarded: '2017-07-14', name: Jeffrey Miller, user: miller_jeffrey}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3780,7 +3791,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170714T170005Z
+timestamp: 20170714T180009Z
 workshops:
 - &id002
   - address: Natural Resources Engineering (NRE) 2-125
