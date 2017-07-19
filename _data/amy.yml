@@ -167,6 +167,7 @@ airports:
   - {name: Duncan Watson-Parris, user: watson-parris_duncan}
   - {name: Sebastian Engelstaedter, user: engelstaedter_sebastian}
   - {name: Victoria Forth, user: forth_victoria}
+  - {name: Colin Sauze, user: sauze_colin}
   latitude: 52.453611
   longitude: -1.747778
   name: Birmingham
@@ -3792,7 +3793,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170719T140005Z
+timestamp: 20170719T150005Z
 workshops:
 - &id002
   - address: Royal School of Mines 3.38, South Kensington campus, London
