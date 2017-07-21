@@ -806,6 +806,7 @@ airports:
   - {name: Ramalingam Saravanan, user: ramalingam_saravanan}
   - {name: Scott Talafuse, user: talafuse_scott}
   - {name: Chandler Wilkerson, user: wilkerson_chandler}
+  - {name: Ming Tang, user: tang_ming_2}
   latitude: 29.980278
   longitude: -95.339722
   name: Houston, TX
@@ -990,7 +991,6 @@ airports:
   - {name: Gary Macindoe, user: macindoe_gary}
   - {name: Dan MacLean, user: maclean_dan}
   - {name: David Perez-Suarez, user: perez-suarez_david}
-  - {name: David Pugh, user: pugh_david}
   - {name: Florian Rathgeber, user: rathgeber_florian}
   - {name: Mark Stillwell, user: stillwell_mark}
   - {name: Richard Tomsett, user: tomsett_richard}
@@ -1166,6 +1166,12 @@ airports:
   latitude: -37.673333
   longitude: 144.843333
   name: Melbourne
+- country: us
+  instructors:
+  - {name: Rebel Cummings-Sauls, user: cummings_rebel-cummings-sauls}
+  latitude: 39.1409988
+  longitude: -96.6707993
+  name: Manhattan Regional Airport
 - country: us
   instructors:
   - {name: Daniel Hocking, user: hocking_daniel}
@@ -1474,6 +1480,7 @@ airports:
   - {name: John Pearson, user: pearson_john}
   - {name: John Pormann, user: pormann_john}
   - {name: Alexander Whitlock, user: whitlock_a}
+  - {name: Tristan De Buysscher, user: de-buysscher_tristan}
   latitude: 35.8775
   longitude: -78.787222
   name: Raleigh Durham, NC
@@ -1505,6 +1512,12 @@ airports:
   latitude: -23.392273
   longitude: 150.468179
   name: Rockhampton Airport
+- country: sa
+  instructors:
+  - {name: David Pugh, user: pugh_david}
+  latitude: 24.9575996
+  longitude: 46.6987991
+  name: King Khaled International
 - country: us
   instructors:
   - {name: Louis Vernon, user: vernon_louis}
@@ -1693,6 +1706,7 @@ airports:
   - {name: Karen Word, user: word_karen}
   - {name: Mark C Miller, user: miller_mark}
   - {name: Chris Hamm, user: hamm_chris}
+  - {name: Jeffrey Thomas Miller, user: miller_jeffrey}
   latitude: 38.695278
   longitude: -121.590556
   name: Sacramento, CA
@@ -3131,7 +3145,7 @@ badges:
   - {awarded: '2017-06-15', name: Abhijit Dasgupta, user: dasgupta_abhijit}
   - {awarded: '2017-06-16', name: Owen Stephens, user: stephens_owen}
   - {awarded: '2017-07-05', name: Jamene Brooks-Kieffer, user: brooks-kieffer_jamene}
-  - {awarded: '2017-07-05', name: Rebel Cummings-Sauls Cummings, user: cummings_rebel-cummings-sauls}
+  - {awarded: '2017-07-05', name: Rebel Cummings-Sauls, user: cummings_rebel-cummings-sauls}
   - {awarded: '2017-07-05', name: Maria Alejandra Arias, user: arias_maria-alejandra}
   - {awarded: '2017-07-06', name: Daniel Buchan, user: buchan_daniel}
   - {awarded: '2017-07-06', name: Arnstein Orten, user: orten_arnstein}
@@ -3725,7 +3739,7 @@ badges:
   - {awarded: '2017-07-14', name: BJ Lougee, user: lougee_bj}
   - {awarded: '2017-07-14', name: Hadrien Gourlé, user: gourl_hadrien}
   - {awarded: '2017-07-14', name: Brittany Lasseigne, user: lasseigne_brittany}
-  - {awarded: '2017-07-14', name: Jeffrey Miller, user: miller_jeffrey}
+  - {awarded: '2017-07-14', name: Jeffrey Thomas Miller, user: miller_jeffrey}
   - {awarded: '2017-07-19', name: Luis Avila Bolivar, user: avila-bolivar_luis}
   - {awarded: '2017-07-19', name: Tristan De Buysscher, user: de-buysscher_tristan}
   - {awarded: '2017-07-19', name: Ming Tang, user: tang_ming_2}
@@ -3801,7 +3815,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170721T130005Z
+timestamp: 20170721T140004Z
 workshops:
 - &id002
   - address: Royal School of Mines 3.38, South Kensington campus, London
