@@ -3820,9 +3820,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170722T040003Z
+timestamp: 20170722T050004Z
 workshops:
 - &id002
+  - address: Sherman Fairchild Library 3rd floor Multimedia Conference Room (MCR)
+    contact: library@caltech.edu
+    country: us
+    end: 2017-07-21
+    eventbrite_id: ''
+    humandate: Jul 20-21, 2017
+    latitude: 34.137263
+    longitude: -118.1247
+    slug: 2017-07-20-caltech
+    start: 2017-07-20
+    tags:
+    - {name: DC}
+    url: https://caltechlibrary.github.io/2017-07-20-caltech/
+    venue: Caltech
   - address: Royal School of Mines 3.38, South Kensington campus, London
     contact: kmichali@imperial.ac.uk
     country: gb
@@ -5856,19 +5870,5 @@ workshops:
     - {name: DC}
     url: https://alfawolf140.github.io/2017-07-26-Sheffield/
     venue: University of Sheffield
-  - address: Sherman Fairchild Library 3rd floor Multimedia Conference Room (MCR)
-    contact: library@caltech.edu
-    country: US
-    end: 2017-07-21
-    eventbrite_id: ''
-    humandate: Jul 20-21, 2017
-    latitude: 34.137263
-    longitude: -118.1247
-    slug: 2017-07-20-caltech
-    start: 2017-07-20
-    tags:
-    - {name: DC}
-    url: https://caltechlibrary.github.io/2017-07-20-caltech/
-    venue: Caltech
 workshops_current: *id001
 workshops_past: *id002
