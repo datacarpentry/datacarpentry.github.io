@@ -24,7 +24,7 @@ Erin Becker, PhD
 **Deputy Director of Assessment**  
 Kari L. Jordan, PhD
 
-**Program Coordinator**  
+**Program Manager**  
 Maneesha Sane
 
 **Community Development Lead**  
