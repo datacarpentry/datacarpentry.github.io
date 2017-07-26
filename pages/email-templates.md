@@ -81,6 +81,8 @@ Getting to the workshop: [add directions to your workshop location]
 
 Please read the Data Carpentry Code of Conduct [http://www.datacarpentry.org/code-of-conduct/] so that we all are aware of how to treat each other respectfully.  
 
+We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
+
 Let us know if you have any questions, otherwise we will see you [day of week] morning!  
 
 Looking forward to seeing you soon,  
