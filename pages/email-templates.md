@@ -97,7 +97,7 @@ Thank you for attending our Data Carpentry workshop. We hope that you had fun an
 
 Please be sure to complete our post-workshop survey [link to survey]. Your answers are essential to allow us to continuously improve our workshops for future learners. 
 
-If you have any other feedback about the workshop, or would like to get involved in the Data Carpentry community, please contact us (mailto:admin@datacarpentry.org). You can also join the Data Carpentry mailing list [link to http://lists.software-carpentry.org/listinfo/discuss], follow us on Twitter (@DataCarpentry), and get involved with lesson development on GitHub [link to https://github.com/datacarpentry]. 
+If you have any other feedback about the workshop, or would like to get involved in the Data Carpentry community, please contact us (mailto:team@carpentries.org). You can also join the Data Carpentry mailing list [link to http://lists.software-carpentry.org/listinfo/discuss], follow us on Twitter (@DataCarpentry), and get involved with lesson development on GitHub [link to https://github.com/datacarpentry]. 
 
 We hope to see more of you as you continue to develop your data analysis skills!
 
