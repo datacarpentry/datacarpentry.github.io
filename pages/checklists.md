@@ -15,7 +15,7 @@ Please use these
 checklists as simplified guides for putting together your workshop. If you need more information about the
 different types of workshops, check out our [self-organized](/self-organized-workshops/) and 
 [centrally-organized](/workshops-host/) workshop pages or contact the Data Carpentry workshop coordinator 
-at [admin@datacarpentry.org](mailto:admin@datacarpentry.org).  
+at [team@carpentries.org](mailto:team@carpentries.org).  
 
 ### Self-organized workshop checklists
 - [Responsibilities of the lead instructor/host](/self-org-lead/)  
