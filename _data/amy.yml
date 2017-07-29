@@ -3823,9 +3823,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170729T040004Z
+timestamp: 20170729T050004Z
 workshops:
 - &id002
+  - address: Room 206, Library, Oklahoma State University
+    contact: doehle@okstate.edu
+    country: us
+    end: 2017-07-28
+    eventbrite_id: '35020119119'
+    humandate: Jul 27-28, 2017
+    latitude: 36.123021
+    longitude: -97.069724
+    slug: 2017-07-27-okstate
+    start: 2017-07-27
+    tags:
+    - {name: DC}
+    url: https://osu-carpentry.github.io/2017-07-27-okstate/
+    venue: Oklahoma State University
   - address: Bartolomé House, Winter Street, Sheffield, S3
     contact: rdm@sheffield.ac.uk
     country: gb
@@ -5859,19 +5873,5 @@ workshops:
     - {name: DC}
     url: https://dh-southernafrica.github.io/2017-08-01-Potch/
     venue: North-West University
-  - address: Room 206, Library, Oklahoma State University
-    contact: doehle@okstate.edu
-    country: US
-    end: 2017-07-28
-    eventbrite_id: '35020119119'
-    humandate: Jul 27-28, 2017
-    latitude: 36.123021
-    longitude: -97.069724
-    slug: 2017-07-27-okstate
-    start: 2017-07-27
-    tags:
-    - {name: DC}
-    url: https://osu-carpentry.github.io/2017-07-27-okstate/
-    venue: Oklahoma State University
 workshops_current: *id001
 workshops_past: *id002
