@@ -416,6 +416,7 @@ airports:
 - country: us
   instructors:
   - {name: Susie Meloro, user: meloro_susie}
+  - {name: Jose Pedro Silva, user: silva_jose-pedro}
   latitude: 38.8181
   longitude: -92.2195969
   name: Columbia Regional Airport
@@ -3755,6 +3756,7 @@ badges:
   - {awarded: '2017-07-27', name: Robert Clark, user: clark_robert}
   - {awarded: '2017-07-27', name: Kate Crosby, user: crosby_kate}
   - {awarded: '2017-07-31', name: Carolina Johnson, user: johnson_carolina}
+  - {awarded: '2017-08-01', name: Nicole Kingsley, user: kingsley_nicole}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3827,7 +3829,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170801T210004Z
+timestamp: 20170801T220004Z
 workshops:
 - &id002
   - address: Room 206, Library, Oklahoma State University
