@@ -1757,7 +1757,6 @@ airports:
   - {name: Laurent Gatto, user: gatto_laurent}
   - {name: Ross Mounce, user: mounce_ross}
   - {name: Krzysztof Strug, user: strug_krzysztof}
-  - {name: Tim Tröndle, user: troendle_tim}
   - {name: Hugo Tavares, user: tavares_hugo}
   - {name: Mark Wheelhouse, user: wheelhouse_mark}
   - {name: Marco Chiapello, user: chiapello_marco}
@@ -2213,6 +2212,7 @@ airports:
   - {name: Stefan Pfenninger, user: pfenninger_s}
   - {name: Mark Robinson, user: robinson_mark}
   - {name: Florian Thöle, user: thoele_florian}
+  - {name: Tim Tröndle, user: troendle_tim}
   - {name: Stefan Wyder, user: wyder_stefan}
   - {name: Lukas Weber, user: weber_lukas}
   - {name: Matthias Haeni, user: haeni_matthias}
@@ -3829,7 +3829,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170804T080004Z
+timestamp: 20170804T090003Z
 workshops:
 - &id002
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
