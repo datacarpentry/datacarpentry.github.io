@@ -37,12 +37,12 @@ format: page-fullwidth
             li.a {list-style-type: none;}
             </style>
             
-            {{ content | replace: '<li>[ ]',
+            { { content | replace: '<li>[ ]',
             '<li class="a">
             <input type="checkbox" class="task-list-item-checkbox" disabled>' |
             replace: '<li>[x]',
             '<li class="a">
-            <input type="checkbox" class="task-list-item-checkbox" value="on" disabled checked>'  }}
+            <input type="checkbox" class="task-list-item-checkbox" value="on" disabled checked>'  } }
             </div>
 
                         {% if page.comments == true %}
