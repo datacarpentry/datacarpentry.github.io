@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline:
-title: "Motions approved for Data Carpentry & Software Carpentry Mergern"
+title: "Motions approved for Data Carpentry & Software Carpentry Merger"
 teaser:
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
