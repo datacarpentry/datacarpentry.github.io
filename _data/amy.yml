@@ -50,6 +50,12 @@ airports:
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
+- country: us
+  instructors:
+  - {name: Greg Watson, user: watson_greg}
+  latitude: 42.7482986
+  longitude: -73.8016968
+  name: Albany International Airport
 - country: es
   instructors:
   - {name: Francisco J. Navarro-Brull, user: navarro_francisco}
@@ -1109,7 +1115,7 @@ airports:
   instructors:
   - {name: Shawn Taylor, user: taylor_shawn}
   - {name: Sergio Marconi, user: marconi_sergio}
-  - {name: Kari Jordan, user: jordan_kari}
+  - {name: Kari L Jordan, user: jordan_kari}
   latitude: 28.428889
   longitude: -81.315833
   name: Orlando, FL
@@ -1641,6 +1647,7 @@ airports:
   - {name: Stuart Geiger, user: geiger_stuart}
   - {name: Lachlan Deer, user: deer_lachlan}
   - {name: Geoffrey Boushey, user: boushey_geoffrey}
+  - {name: John Borghi, user: borghi_john}
   - {name: Jieming Chen, user: chen_jieming}
   - {name: Miriam B Goodman, user: goodman_miriam}
   - {name: Todd Gamblin, user: gamblin_todd}
@@ -1713,6 +1720,13 @@ airports:
   latitude: 38.695278
   longitude: -121.590556
   name: Sacramento, CA
+- country: us
+  instructors:
+  - {name: Danielle Kane, user: kane_danielle}
+  - {name: Joshua Steele, user: steele_joshua}
+  latitude: 33.675556
+  longitude: -117.868056
+  name: John Wayne (Orange County), CA
 - country: ie
   instructors:
   - {name: Holly Dawn Murray, user: murray_holly}
@@ -3620,7 +3634,7 @@ badges:
   - {awarded: '2016-12-17', name: Bo Ji, user: ji_bo_2}
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
   - {awarded: '2016-12-20', name: Ross Allen Bowman, user: bowman_ross}
-  - {awarded: '2016-12-22', name: Kari Jordan, user: jordan_kari}
+  - {awarded: '2016-12-22', name: Kari L Jordan, user: jordan_kari}
   - {awarded: '2017-01-16', name: Jens von der Linden, user: vonderlinden_jens}
   - {awarded: '2017-01-16', name: Andrew Marder, user: marder_andrew}
   - {awarded: '2017-01-16', name: Meg Staton, user: staton_margaret}
@@ -3814,7 +3828,7 @@ badges:
   - {awarded: '2016-10-17', name: Rayna Michelle Harris, user: harris_rayna}
   - {awarded: '2016-12-16', name: Belinda Weaver, user: weaver_belinda}
   - {awarded: '2016-12-16', name: Alistair Walsh, user: walsh_alistair}
-  - {awarded: '2017-02-09', name: Kari Jordan, user: jordan_kari}
+  - {awarded: '2017-02-09', name: Kari L Jordan, user: jordan_kari}
   - {awarded: '2017-02-21', name: Jason Williams, user: williams_jason}
   - {awarded: '2017-02-21', name: Karen Cranston, user: cranston_k}
   - {awarded: '2017-02-21', name: Allegra Via, user: via_allegra}
@@ -3835,7 +3849,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170808T010005Z
+timestamp: 20170808T020005Z
 workshops:
 - &id002
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
