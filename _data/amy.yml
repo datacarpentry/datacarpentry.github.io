@@ -3857,7 +3857,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170809T030003Z
+timestamp: 20170809T040003Z
 workshops:
 - &id002
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
@@ -5878,6 +5878,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 1780 E University Ave, Las Cruces, NM 88003
+    contact: williams@cshl.edu
+    country: US
+    end: 2017-08-29
+    eventbrite_id: ''
+    humandate: Aug 28-29, 2017
+    latitude: 32.2787745
+    longitude: -106.7479059
+    slug: 2017-08-28-nmsu
+    start: 2017-08-28
+    tags:
+    - {name: DC}
+    url: https://jasonjwilliamsny.github.io/2017-08-28-nmsu/
+    venue: New Mexico State University
   - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
       St., Madison, WI
     contact: ckoch5@wisc.edu
