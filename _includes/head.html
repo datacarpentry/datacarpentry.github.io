@@ -33,7 +33,7 @@
 	<meta name="twitter:title" content="{{ page.title }}">
 	<meta name="twitter:site" content="{{ site.twitter_name }}">
 	<meta name="twitter:domain" content="{{ site.baseurl }}">
-	{% if page.excerpt %}
+	{% if page.teaser %}
 	<meta name="twitter:description" content="{{ page.teaser | markdownify | strip_html | truncate: 200 | remove: '<p>' | remove: '</p>' }}">
 	{% else %}
 	<meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate: 200 | remove: '<p>' | remove: '</p>' }}">
