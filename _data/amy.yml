@@ -3195,6 +3195,7 @@ badges:
   - {awarded: '2017-08-08', name: Alicia Clark, user: clark_alicia}
   - {awarded: '2017-08-08', name: Sarah Munro, user: munro_sarah}
   - {awarded: '2017-08-08', name: Kirsty Pringle, user: pringle_kirsty}
+  - {awarded: '2017-08-09', name: Andrew Collier, user: collier_andrew}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3857,7 +3858,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170809T170003Z
+timestamp: 20170809T180003Z
 workshops:
 - &id002
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
