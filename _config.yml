@@ -25,7 +25,7 @@ url: "http://www.datacarpentry.org"
 #url: "http://0.0.0.0:4000/"
 baseurl: ""
 
-twitter_name: @datacarpentry
+twitter_name: "@datacarpentry"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
