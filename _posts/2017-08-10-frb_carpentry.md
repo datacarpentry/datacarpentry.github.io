@@ -161,4 +161,4 @@ Ideas included: <br \>
 - Certification tasks</td>
 </tr>     
 		    
-<table>
+</table>
