@@ -3858,7 +3858,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170810T030003Z
+timestamp: 20170810T040003Z
 workshops:
 - &id002
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
@@ -5879,6 +5879,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
+    contact: rsschwartz@uri.edu
+    country: US
+    end: 2017-09-01
+    eventbrite_id: ''
+    humandate: Aug 31-Sep 01, 2017
+    latitude: 41.489496
+    longitude: -71.527459
+    slug: 2017-08-31-uri
+    start: 2017-08-31
+    tags:
+    - {name: DC}
+    url: http://rhodyrstats.org/2017-08-31-uri/
+    venue: University of Rhode Island
   - address: 1780 E University Ave, Las Cruces, NM 88003
     contact: williams@cshl.edu
     country: US
