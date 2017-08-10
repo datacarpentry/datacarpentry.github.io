@@ -1645,7 +1645,6 @@ airports:
   - {name: Megan Laurance, user: laurance_megan}
   - {name: Nina Therkildsen, user: therkildsen_nina}
   - {name: Stuart Geiger, user: geiger_stuart}
-  - {name: Lachlan Deer, user: deer_lachlan}
   - {name: Geoffrey Boushey, user: boushey_geoffrey}
   - {name: John Borghi, user: borghi_john}
   - {name: Jieming Chen, user: chen_jieming}
@@ -2230,6 +2229,7 @@ airports:
   - {name: Stefan Wyder, user: wyder_stefan}
   - {name: Lukas Weber, user: weber_lukas}
   - {name: Matthias Haeni, user: haeni_matthias}
+  - {name: Lachlan Deer, user: deer_lachlan}
   latitude: 47.457767
   longitude: 8.560132
   name: Zurich Airport
@@ -3858,7 +3858,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170810T190004Z
+timestamp: 20170810T200005Z
 workshops:
 - &id002
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
