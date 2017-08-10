@@ -26,7 +26,7 @@ I thought the existing Carpentry workshops worked well for staff, and would work
 
 To do this, we encouraged permanent staff to attend one or both of two Carpentry workshops I had planned, so that we could identify a pool of potential instructors. Over 2015 and 2016, we held a total of seven workshops at the Fed, still primarily aimed at RAs, but with TAs and other interested staff encouraged to attend as well.
 
-That done, in late 2016, Tracy Teal, Greg Wilson and I had a conference call about instructor training and the kind of event I had in mind to bring Carpentry in-house. I also polled colleagues at the twelve Federal Reserve Banks, some of whom had also been holding Carpentry workshops, to learn whether they might be interested in sending people to Washington DC to train as Carpentry instructors.
+That done, in late 2016, Tracy Teal, Greg Wilson, Jonah Duckles and I had a conference call about instructor training and the kind of event I had in mind to bring Carpentry in-house. I also polled colleagues at the twelve Federal Reserve Banks, some of whom had also been holding Carpentry workshops, to learn whether they might be interested in sending people to Washington DC to train as Carpentry instructors.
 
 Out of this came a week-long event – what I called 'Week o' Carpentry' in my head – involving 18 people for the Instructor Training, nine from the Board and nine in total from four different FR Banks, six instructors, and a small number of new RAs and other permanent Board staff. Oh, and lots of food, too, including 21 pounds of tangerines.
 
