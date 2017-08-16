@@ -168,8 +168,8 @@ This workshop is co-developed with the National Ecological Observatory Network [
   </tr>
   <tr>
     <td>Introduction to Geospatial data</td>
-    <td><a href="http://www.datacarpentry.org/NEON-R-Spatio-Temporal-Data-and-Management-Intro/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/NEON-R-Spatio-Temporal-Data-and-Management-Intro" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="http://www.datacarpentry.org/r-spatial-data-management-intro/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/r-spatial-data-management-intro/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Leah Wasser, Joseph Stachelek</td>
   </tr>
 
