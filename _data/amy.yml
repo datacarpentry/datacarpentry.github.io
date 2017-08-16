@@ -2231,6 +2231,7 @@ airports:
   - {name: Lukas Weber, user: weber_lukas}
   - {name: Matthias Haeni, user: haeni_matthias}
   - {name: Lachlan Deer, user: deer_lachlan}
+  - {name: Stefan Helfrich, user: helfrich_stefan}
   latitude: 47.457767
   longitude: 8.560132
   name: Zurich Airport
@@ -3860,7 +3861,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
     th, us, za]
-timestamp: 20170816T060003Z
+timestamp: 20170816T070003Z
 workshops:
 - &id002
   - address: Marston L136
