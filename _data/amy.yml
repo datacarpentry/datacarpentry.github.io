@@ -3198,6 +3198,9 @@ badges:
   - {awarded: '2017-08-08', name: Sarah Munro, user: munro_sarah}
   - {awarded: '2017-08-08', name: Kirsty Pringle, user: pringle_kirsty}
   - {awarded: '2017-08-09', name: Andrew Collier, user: collier_andrew}
+  - {awarded: '2017-08-17', name: James Lawson, user: lawson_james}
+  - {awarded: '2017-08-17', name: Kevin Dyke, user: dyke_kevin}
+  - {awarded: '2017-08-17', name: Greg Woodward, user: woodward_greg}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3789,6 +3792,7 @@ badges:
   - {awarded: '2017-08-08', name: Jes Coyle, user: coyle_jes}
   - {awarded: '2017-08-08', name: Tasso Pettigrew, user: pettigrew_tasso}
   - {awarded: '2017-08-11', name: Jacob Koehler, user: koehler_jacob}
+  - {awarded: '2017-08-17', name: Yasmin AlNoamany, user: alnoamany_yasmin}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3861,7 +3865,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr,
     si, th, us, za]
-timestamp: 20170817T160003Z
+timestamp: 20170817T170003Z
 workshops:
 - &id002
   - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
