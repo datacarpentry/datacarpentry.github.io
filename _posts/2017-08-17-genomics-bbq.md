@@ -13,12 +13,12 @@ authors: ["Erin Becker"]
 ---
 
 There's been a lot of exciting work on the [Genomics workshop materials](http://www.datacarpentry.org/genomics-workshop/) over the past several months.
-A massive reorganization of the materials is underway, spliting the workshop into two separate tracks - one including R
-and the other including a variant calling workflow. A host of folks have volunteered to serve as Maintainers for the revamped
+A massive reorganization of the materials is underway, splitting the workshop into two separate tracks - one including R
+and the other including a variant-calling workflow. A host of folks have volunteered to serve as Maintainers for the revamped
 lessons, and others have joined a Curriculum Advisory Committee to provide high-level guidance on the workshop as a whole.   
 
 There's still a lot of work to do! It's all hands on deck for reorganizing the materials, and making sure they're up to date and 
-clear before our first Genomics lesson release. Please help out however you can. You don't need to be a Genomics expert to contribute,
+clear before our first Genomics lesson release. Please help out however you can. You don't need to be a Genomics expert to contribute;
 we need folks to check for broken links and typos too!  
 
 We're holding an **Issue Bonanza** on 31 August to identify bugs and issues such as typos and broken links, followed by a two-day
