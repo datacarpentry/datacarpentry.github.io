@@ -3867,9 +3867,24 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170824T040004Z
+timestamp: 20170824T050003Z
 workshops:
 - &id002
+  - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
+      St., Madison, WI
+    contact: ckoch5@wisc.edu
+    country: us
+    end: 2017-08-23
+    eventbrite_id: '36780783313'
+    humandate: Aug 22-23, 2017
+    latitude: 43.0728339
+    longitude: -89.4103303
+    slug: 2017-08-22-uwmadison-dc
+    start: 2017-08-22
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/
+    venue: UW Madison
   - address: Wawona, CA
     contact: ejmctavish@ucmerced.edu, jblois@ucmerced.edu
     country: us
@@ -5987,20 +6002,5 @@ workshops:
     - {name: DC}
     url: https://jasonjwilliamsny.github.io/2017-08-28-nmsu/
     venue: New Mexico State University
-  - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
-      St., Madison, WI
-    contact: ckoch5@wisc.edu
-    country: US
-    end: 2017-08-23
-    eventbrite_id: '36780783313'
-    humandate: Aug 22-23, 2017
-    latitude: 43.0728339
-    longitude: -89.4103303
-    slug: 2017-08-22-uwmadison-dc
-    start: 2017-08-22
-    tags:
-    - {name: DC}
-    url: https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/
-    venue: UW Madison
 workshops_current: *id001
 workshops_past: *id002
