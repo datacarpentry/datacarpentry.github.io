@@ -3873,12 +3873,25 @@ badges:
   - {awarded: '2017-06-05', name: Jonah Duckles, user: duckles_jonah}
   - {awarded: '2017-06-05', name: Maneesha Sane, user: sane_maneesha}
   - {awarded: '2017-06-05', name: Mark Laufersweiler, user: laufersweiler_mark}
+  - {awarded: '2017-08-28', name: Amy E. Hodge, user: hodge_amy}
+  - {awarded: '2017-08-28', name: Kwasi Amoako Kwakwa, user: kwakwa_k}
+  - {awarded: '2017-08-28', name: Anita Schürch, user: schurch_anita}
+  - {awarded: '2017-08-28', name: Alexander Konovalov, user: konovalov_alexander}
+  - {awarded: '2017-08-28', name: Martin Dreyer, user: dreyer_martin}
+  - {awarded: '2017-08-28', name: Juan Steyn, user: steyn_juan}
+  - {awarded: '2017-08-28', name: John Simpson, user: simpson_john}
+  - {awarded: '2017-08-28', name: Elizabeth Wickes, user: wickes_elizabeth}
+  - {awarded: '2017-08-28', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2017-08-28', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2017-08-28', name: Danielle Quinn, user: quinn_danielle}
+  - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {awarded: '2017-08-28', name: Robert Davey, user: davey_rob}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170828T180004Z
+timestamp: 20170828T190004Z
 workshops:
 - &id002
   - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
