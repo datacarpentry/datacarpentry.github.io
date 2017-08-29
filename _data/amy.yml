@@ -3891,7 +3891,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170829T010004Z
+timestamp: 20170829T020003Z
 workshops:
 - &id002
   - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
