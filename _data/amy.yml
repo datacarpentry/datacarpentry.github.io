@@ -653,6 +653,7 @@ airports:
 - country: gb
   instructors:
   - {name: Andrew Warry, user: warry_andrew}
+  - {name: Anna Krystalli, user: krystalli_anna}
   latitude: 52.828194
   longitude: -1.334258
   name: East Midlands Airport
@@ -1025,6 +1026,7 @@ airports:
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Julian Jordan, user: jordan_julian}
   - {name: David Wright, user: wright_david}
+  - {name: Stuart Grieve, user: grieve_stuart}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -1616,6 +1618,7 @@ airports:
   - {name: Meredith Rawls, user: rawls_meredith}
   - {name: Jeffrey Arnold, user: arnold_jeffrey}
   - {name: Kivan Polimis, user: polimis_kivan}
+  - {name: Bree Norlander, user: norlander_bree}
   - {name: Eleanor Lutz, user: lutz_eleanor}
   latitude: 47.448889
   longitude: -122.309167
@@ -1645,7 +1648,6 @@ airports:
   - {name: Megan Laurance, user: laurance_megan}
   - {name: Nina Therkildsen, user: therkildsen_nina}
   - {name: Stuart Geiger, user: geiger_stuart}
-  - {name: Lachlan Deer, user: deer_lachlan}
   - {name: Geoffrey Boushey, user: boushey_geoffrey}
   - {name: John Borghi, user: borghi_john}
   - {name: Jieming Chen, user: chen_jieming}
@@ -1717,6 +1719,7 @@ airports:
   - {name: Chris Hamm, user: hamm_chris}
   - {name: Taylor Reiter, user: reiter_taylor}
   - {name: Jeffrey Thomas Miller, user: miller_jeffrey}
+  - {name: Elizabeth Williams, user: williams_elizabeth}
   latitude: 38.695278
   longitude: -121.590556
   name: Sacramento, CA
@@ -2230,6 +2233,8 @@ airports:
   - {name: Stefan Wyder, user: wyder_stefan}
   - {name: Lukas Weber, user: weber_lukas}
   - {name: Matthias Haeni, user: haeni_matthias}
+  - {name: Lachlan Deer, user: deer_lachlan}
+  - {name: Stefan Helfrich, user: helfrich_stefan}
   latitude: 47.457767
   longitude: 8.560132
   name: Zurich Airport
@@ -3191,6 +3196,20 @@ badges:
   - {awarded: '2017-08-07', name: James Tocknell, user: tocknell_james}
   - {awarded: '2017-08-07', name: Yoshimitsu Chikamoto, user: chikamoto_yoshimitsu}
   - {awarded: '2017-08-07', name: Chreston Miller, user: miller_chreston}
+  - {awarded: '2017-08-08', name: Kensworth Subratie, user: subratie_kensworth}
+  - {awarded: '2017-08-08', name: Alicia Clark, user: clark_alicia}
+  - {awarded: '2017-08-08', name: Sarah Munro, user: munro_sarah}
+  - {awarded: '2017-08-08', name: Kirsty Pringle, user: pringle_kirsty}
+  - {awarded: '2017-08-09', name: Andrew Collier, user: collier_andrew}
+  - {awarded: '2017-08-17', name: James Lawson, user: lawson_james}
+  - {awarded: '2017-08-17', name: Kevin Dyke, user: dyke_kevin}
+  - {awarded: '2017-08-17', name: Greg Woodward, user: woodward_greg}
+  - {awarded: '2017-08-24', name: Brian Ballsun-Stanton, user: ballsun-stanton_brian}
+  - {awarded: '2017-08-24', name: Noah Geraci, user: geraci_noah}
+  - {awarded: '2017-08-24', name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
+  - {awarded: '2017-08-24', name: Arlin Stoltzfus, user: stoltzfus_arlin}
+  - {awarded: '2017-08-24', name: Ian van der Linde, user: van-der-linde_ian}
+  - {awarded: '2017-08-24', name: Chandler Becker, user: becker_chandler}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3777,6 +3796,18 @@ badges:
   - {awarded: '2017-08-01', name: Nicole Kingsley, user: kingsley_nicole}
   - {awarded: '2017-08-07', name: Anna Dabrowski, user: dabrowski_anna}
   - {awarded: '2017-08-07', name: Binod Pokharel, user: pokharel_binod}
+  - {awarded: '2017-08-08', name: Taylor Reiter, user: reiter_taylor}
+  - {awarded: '2017-08-08', name: Kaja Wierucka, user: wierucka_kaja}
+  - {awarded: '2017-08-08', name: Jes Coyle, user: coyle_jes}
+  - {awarded: '2017-08-08', name: Tasso Pettigrew, user: pettigrew_tasso}
+  - {awarded: '2017-08-11', name: Jacob Koehler, user: koehler_jacob}
+  - {awarded: '2017-08-17', name: Yasmin AlNoamany, user: alnoamany_yasmin}
+  - {awarded: '2017-08-21', name: Caroline Ajilogba, user: ajilogba_caroline}
+  - {awarded: '2017-08-24', name: Catherine Hulshof, user: hulshof_catherine}
+  - {awarded: '2017-08-24', name: Anthony Etuk, user: etuk_anthony}
+  - {awarded: '2017-08-24', name: Ellen Bledsoe, user: bledsoe_ellen}
+  - {awarded: '2017-08-24', name: Maëlle Salmon, user: salmon_malle}
+  - {awarded: '2017-08-24', name: Caryn Johansen, user: johansen_caryn}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3844,14 +3875,113 @@ badges:
   - {awarded: '2017-06-05', name: Jonah Duckles, user: duckles_jonah}
   - {awarded: '2017-06-05', name: Maneesha Sane, user: sane_maneesha}
   - {awarded: '2017-06-05', name: Mark Laufersweiler, user: laufersweiler_mark}
+  - {awarded: '2017-08-28', name: Amy E. Hodge, user: hodge_amy}
+  - {awarded: '2017-08-28', name: Kwasi Amoako Kwakwa, user: kwakwa_k}
+  - {awarded: '2017-08-28', name: Anita Schürch, user: schurch_anita}
+  - {awarded: '2017-08-28', name: Alexander Konovalov, user: konovalov_alexander}
+  - {awarded: '2017-08-28', name: Martin Dreyer, user: dreyer_martin}
+  - {awarded: '2017-08-28', name: Juan Steyn, user: steyn_juan}
+  - {awarded: '2017-08-28', name: John Simpson, user: simpson_john}
+  - {awarded: '2017-08-28', name: Elizabeth Wickes, user: wickes_elizabeth}
+  - {awarded: '2017-08-28', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2017-08-28', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2017-08-28', name: Danielle Quinn, user: quinn_danielle}
+  - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {awarded: '2017-08-28', name: Robert Davey, user: davey_rob}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
-    th, us, za]
-timestamp: 20170808T160005Z
+  workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
+    pr, si, th, us, za]
+timestamp: 20170830T170003Z
 workshops:
 - &id002
+  - address: 1780 E University Ave, Las Cruces, NM 88003
+    contact: williams@cshl.edu
+    country: us
+    end: 2017-08-29
+    eventbrite_id: ''
+    humandate: Aug 28-29, 2017
+    latitude: 32.2787745
+    longitude: -106.7479059
+    slug: 2017-08-28-nmsu
+    start: 2017-08-28
+    tags:
+    - {name: DC}
+    url: https://jasonjwilliamsny.github.io/2017-08-28-nmsu/
+    venue: New Mexico State University
+  - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
+      St., Madison, WI
+    contact: ckoch5@wisc.edu
+    country: us
+    end: 2017-08-23
+    eventbrite_id: '36780783313'
+    humandate: Aug 22-23, 2017
+    latitude: 43.0728339
+    longitude: -89.4103303
+    slug: 2017-08-22-uwmadison-dc
+    start: 2017-08-22
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/
+    venue: UW Madison
+  - address: Wawona, CA
+    contact: ejmctavish@ucmerced.edu, jblois@ucmerced.edu
+    country: us
+    end: 2017-08-18
+    eventbrite_id: ''
+    humandate: Aug 17-18, 2017
+    latitude: 37.5399159
+    longitude: -119.6577967
+    slug: 2017-08-17-Yosemite
+    start: 2017-08-17
+    tags:
+    - {name: DC}
+    url: https://snacktavish.github.io/2017-08-17-Yosemite/
+    venue: UC Merced, Yosemite Field Station
+  - address: Hotel Ossa, Ossa 1, 96-200 Rawa Mazowiecka, Poland
+    contact: mateusz.kuzak@gmail.com
+    country: pl
+    end: 2017-08-18
+    eventbrite_id: ''
+    humandate: Aug 16-18, 2017
+    latitude: 51.805111
+    longitude: 20.381442
+    slug: 2017-08-16-pyconpl
+    start: 2017-08-16
+    tags:
+    - {name: DC}
+    url: https://mkuzak.github.io/2017-08-16-pyconpl/
+    venue: Reproducible Reasearch Workshop @ PyCon PL
+  - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
+      Exact venue to be confirmed
+    contact: anelda@talarify.co.za
+    country: et
+    end: 2017-08-16
+    eventbrite_id: ''
+    humandate: Aug 14-16, 2017
+    latitude: 9.040216
+    longitude: 38.762582
+    slug: 2017-08-14-Ethiopia
+    start: 2017-08-14
+    tags:
+    - {name: DC}
+    url: https://anelda.github.io/2017-08-14-Ethiopia/
+    venue: Ethiopian Research and Education Network
+  - address: Marston L136
+    contact: mcollins@acis.ufl.edu
+    country: us
+    end: 2017-08-15
+    eventbrite_id: ''
+    humandate: Aug 14-15, 2017
+    latitude: 29.648152
+    longitude: -82.344105
+    slug: 2017-08-14-UFII-DC
+    start: 2017-08-14
+    tags:
+    - {name: DC}
+    url: https://uf-carpentry.github.io/2017-08-14-UFII-DC/
+    venue: University of Florida Marston Science Library
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
     contact: s.hettrick@software.ac.uk
     country: gb
@@ -5870,77 +6000,33 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
-  - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
-      St., Madison, WI
-    contact: ckoch5@wisc.edu
-    country: US
-    end: 2017-08-23
-    eventbrite_id: '36780783313'
-    humandate: Aug 22-23, 2017
-    latitude: 43.0728339
-    longitude: -89.4103303
-    slug: 2017-08-22-uwmadison-dc
-    start: 2017-08-22
-    tags:
-    - {name: DC}
-    url: https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/
-    venue: UW Madison
-  - address: Wawona, CA
-    contact: ejmctavish@ucmerced.edu, jblois@ucmerced.edu
-    country: US
-    end: 2017-08-18
-    eventbrite_id: ''
-    humandate: Aug 17-18, 2017
-    latitude: 37.5399159
-    longitude: -119.6577967
-    slug: 2017-08-17-Yosemite
-    start: 2017-08-17
-    tags:
-    - {name: DC}
-    url: https://snacktavish.github.io/2017-08-17-Yosemite/
-    venue: UC Merced, Yosemite Field Station
-  - address: Hotel Ossa, Ossa 1, 96-200 Rawa Mazowiecka, Poland
-    contact: mateusz.kuzak@gmail.com
-    country: PL
-    end: 2017-08-18
-    eventbrite_id: ''
-    humandate: Aug 16-18, 2017
-    latitude: 51.805111
-    longitude: 20.381442
-    slug: 2017-08-16-pyconpl
-    start: 2017-08-16
-    tags:
-    - {name: DC}
-    url: https://mkuzak.github.io/2017-08-16-pyconpl/
-    venue: Reproducible Reasearch Workshop @ PyCon PL
-  - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
-      Exact venue to be confirmed
-    contact: anelda@talarify.co.za
-    country: ET
-    end: 2017-08-16
-    eventbrite_id: ''
-    humandate: Aug 14-16, 2017
-    latitude: 9.040216
-    longitude: 38.762582
-    slug: 2017-08-14-Ethiopia
-    start: 2017-08-14
-    tags:
-    - {name: DC}
-    url: https://anelda.github.io/2017-08-14-Ethiopia/
-    venue: Ethiopian Research and Education Network
-  - address: Marston L136
+  - address: 240 McLeod St, Ottawa, CA
     contact: mcollins@acis.ufl.edu
-    country: US
-    end: 2017-08-15
+    country: CA
+    end: 2017-10-01
     eventbrite_id: ''
-    humandate: Aug 14-15, 2017
-    latitude: 29.648152
-    longitude: -82.344105
-    slug: 2017-08-14-UFII-DC
-    start: 2017-08-14
+    humandate: Sep 30-Oct 01, 2017
+    latitude: 45.412766
+    longitude: -75.688662
+    slug: 2017-09-30-TDWG-Ottawa
+    start: 2017-09-30
     tags:
     - {name: DC}
-    url: https://uf-carpentry.github.io/2017-08-14-UFII-DC/
-    venue: University of Florida Marston Science Library
+    url: https://idigbio.github.io/2017-09-30-TDWG-Ottawa/
+    venue: Canadian Museum of Nature
+  - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
+    contact: rsschwartz@uri.edu
+    country: US
+    end: 2017-09-01
+    eventbrite_id: ''
+    humandate: Aug 31-Sep 01, 2017
+    latitude: 41.489496
+    longitude: -71.527459
+    slug: 2017-08-31-uri
+    start: 2017-08-31
+    tags:
+    - {name: DC}
+    url: http://rhodyrstats.org/2017-08-31-uri/
+    venue: University of Rhode Island
 workshops_current: *id001
 workshops_past: *id002
