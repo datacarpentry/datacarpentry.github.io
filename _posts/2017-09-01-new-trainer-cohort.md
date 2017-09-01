@@ -9,7 +9,8 @@ categories:
     - blog
 comments: true
 show_meta: true
-authors: [“Belinda Weaver", "Erin Becker"]
+authors: ["Belinda Weaver", "Erin Becker"]
+
 ---
 
 Software and Data Carpentry now have a brand-new batch of Trainers.
