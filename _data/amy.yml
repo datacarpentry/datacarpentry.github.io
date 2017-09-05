@@ -3898,7 +3898,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170905T130003Z
+timestamp: 20170905T140003Z
 workshops:
 - &id002
   - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
@@ -6033,6 +6033,20 @@ workshops:
     - {name: DC}
     url: https://idigbio.github.io/2017-09-30-TDWG-Ottawa/
     venue: Canadian Museum of Nature
+  - address: Room 154, Merrill-Cazier Library, 3000 Old Main Hill, Logan, UT 84321
+    contact: paul.wolf@usu.edu
+    country: US
+    end: 2017-09-30
+    eventbrite_id: ''
+    humandate: Sep 29-30, 2017
+    latitude: 41.742246
+    longitude: -111.809627
+    slug: 2017-09-29-DC_USU
+    start: 2017-09-29
+    tags:
+    - {name: DC}
+    url: https://wolflab.github.io/2017-09-29-DC_USU/
+    venue: Utah State University
   - address: Department of Anthropology,64 Banbury Road, Oxford OX2 6PE
     contact: iain.emsley@oerc.ox.ac.uk
     country: GB
