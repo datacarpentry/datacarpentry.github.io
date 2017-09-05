@@ -404,6 +404,12 @@ airports:
   name: Cluj International Airport
 - country: us
   instructors:
+  - {name: Anna Dabrowski, user: dabrowski_anna}
+  latitude: 30.5886002
+  longitude: -96.3638001
+  name: Easterwood Field Airport
+- country: us
+  instructors:
   - {name: Anthony Scopatz, user: scopatz_a}
   latitude: 35.213754
   longitude: -80.948194
@@ -444,7 +450,8 @@ airports:
   - {name: Jordan Masakuna, user: masakuna_jordan}
   - {name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
   - {name: Warren Morne' Jacobus, user: jacobus_warren}
-  - {name: Samar Elsheikh, user: elsheikh_samar}
+  - {name: Ian van der Linde, user: van-der-linde_ian}
+  - {name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
   - {name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   latitude: -33.964722
   longitude: 18.601667
@@ -604,6 +611,12 @@ airports:
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
+- country: za
+  instructors:
+  - {name: Andrew B. Collier, user: collier_andrew}
+  latitude: -29.6144444
+  longitude: 31.1197222
+  name: King Shaka International Airport
 - country: de
   instructors:
   - {name: Tiziano Zito, user: zito_t}
@@ -742,6 +755,7 @@ airports:
   - {name: Brian Stucky, user: stucky_brian}
   - {name: Allison Jai O'Dell, user: odell_allison-jai}
   - {name: Henry Senyondo, user: senyondo_henry}
+  - {name: David Jennings, user: jennings_david}
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
@@ -791,6 +805,12 @@ airports:
   latitude: 21.315833
   longitude: -157.926667
   name: Honolulu, HI
+- country: us
+  instructors:
+  - {name: Brittany Nicole Lasseigne, user: lasseigne_brittany}
+  latitude: 34.6371994
+  longitude: -86.7751007
+  name: Huntsville International Carl T Jones Field Airport
 - country: us
   instructors:
   - {name: Tomomi Sunayama, user: sunayama_tomomi}
@@ -961,6 +981,7 @@ airports:
   - {name: Jason Pell, user: pell_j}
   - {name: Nick Carchedi, user: carchedi_nick}
   - {name: Lisa Rhody, user: rhody_lisa}
+  - {name: Jacob Frias Koehler, user: koehler_jacob}
   - {name: Jojo Karlin, user: karlin_jojo}
   - {name: Patrick Smyth, user: smyth_patrick}
   latitude: 40.777222
@@ -1047,6 +1068,12 @@ airports:
   latitude: 40.850833
   longitude: -96.759167
   name: Lincoln, NE
+- country: us
+  instructors:
+  - {name: Maëlle Salmon, user: salmon_malle}
+  latitude: -18.9932995
+  longitude: 139.9069977
+  name: Lorraine Airport
 - country: se
   instructors:
   - {name: Olav Vahtras, user: vahtras_olav}
@@ -1309,6 +1336,7 @@ airports:
   - {name: Shyam Dwaraknath, user: dwaraknath_shyam}
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
+  - {name: Pauline A. Fujita, user: fujita_pauline}
   latitude: 37.721111
   longitude: -122.220556
   name: Oakland, CA
@@ -1358,6 +1386,7 @@ airports:
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Jackie Milhans, user: milhans_jackie}
   - {name: Danielle Nielsen, user: nielsen_danielle}
+  - {name: Juliane Schneider, user: schneider_juliane}
   - {name: Hossein Pourreza, user: pourreza_hossein}
   - {name: Jonathan Keane, user: keane_jonathan}
   - {name: Arjun A Biddanda, user: biddanda_arjun}
@@ -1540,7 +1569,6 @@ airports:
   - {name: Guilherme Castelão, user: castelao_guilherme}
   - {name: Chris Lasher, user: lasher_c}
   - {name: Tessa Pierce, user: pierce_tessa}
-  - {name: Juliane Schneider, user: schneider_juliane}
   - {name: Andrea Zonca, user: zonca_andrea}
   - {name: Reid Otsuji, user: otsuji_reid}
   latitude: 32.733333
@@ -1620,6 +1648,7 @@ airports:
   - {name: Jeffrey Arnold, user: arnold_jeffrey}
   - {name: Kivan Polimis, user: polimis_kivan}
   - {name: Bree Norlander, user: norlander_bree}
+  - {name: Alicia Clark, user: clark_alicia}
   - {name: Eleanor Lutz, user: lutz_eleanor}
   latitude: 47.448889
   longitude: -122.309167
@@ -1674,6 +1703,12 @@ airports:
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
+- country: us
+  instructors:
+  - {name: Catherine Hulshof, user: hulshof_catherine}
+  latitude: 18.4393997
+  longitude: -66.0018005
+  name: Luis Munoz Marin International Airport
 - country: gr
   instructors:
   - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
@@ -3201,7 +3236,7 @@ badges:
   - {awarded: '2017-08-08', name: Alicia Clark, user: clark_alicia}
   - {awarded: '2017-08-08', name: Sarah Munro, user: munro_sarah}
   - {awarded: '2017-08-08', name: Kirsty Pringle, user: pringle_kirsty}
-  - {awarded: '2017-08-09', name: Andrew Collier, user: collier_andrew}
+  - {awarded: '2017-08-09', name: Andrew B. Collier, user: collier_andrew}
   - {awarded: '2017-08-17', name: James Lawson, user: lawson_james}
   - {awarded: '2017-08-17', name: Kevin Dyke, user: dyke_kevin}
   - {awarded: '2017-08-17', name: Greg Woodward, user: woodward_greg}
@@ -3785,11 +3820,11 @@ badges:
   - {awarded: '2017-06-15', name: Chris DeBoever, user: deboever_christopher}
   - {awarded: '2017-06-23', name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   - {awarded: '2017-06-23', name: Geoffrey Thomas LaFlair, user: laflair_geoff}
-  - {awarded: '2017-07-05', name: Samar Elsheikh, user: elsheikh_samar}
+  - {awarded: '2017-07-05', name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
   - {awarded: '2017-07-06', name: Jonathan Petters, user: petters_jonathan}
   - {awarded: '2017-07-14', name: BJ Lougee, user: lougee_bj}
   - {awarded: '2017-07-14', name: Hadrien Gourlé, user: gourl_hadrien}
-  - {awarded: '2017-07-14', name: Brittany Lasseigne, user: lasseigne_brittany}
+  - {awarded: '2017-07-14', name: Brittany Nicole Lasseigne, user: lasseigne_brittany}
   - {awarded: '2017-07-14', name: Jeffrey Thomas Miller, user: miller_jeffrey}
   - {awarded: '2017-07-19', name: Luis Avila Bolivar, user: avila-bolivar_luis}
   - {awarded: '2017-07-19', name: Tristan De Buysscher, user: de-buysscher_tristan}
@@ -3804,7 +3839,7 @@ badges:
   - {awarded: '2017-08-08', name: Kaja Wierucka, user: wierucka_kaja}
   - {awarded: '2017-08-08', name: Jes Coyle, user: coyle_jes}
   - {awarded: '2017-08-08', name: Tasso Pettigrew, user: pettigrew_tasso}
-  - {awarded: '2017-08-11', name: Jacob Koehler, user: koehler_jacob}
+  - {awarded: '2017-08-11', name: Jacob Frias Koehler, user: koehler_jacob}
   - {awarded: '2017-08-17', name: Yasmin AlNoamany, user: alnoamany_yasmin}
   - {awarded: '2017-08-21', name: Caroline Ajilogba, user: ajilogba_caroline}
   - {awarded: '2017-08-24', name: Catherine Hulshof, user: hulshof_catherine}
@@ -3899,7 +3934,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170905T170003Z
+timestamp: 20170905T180003Z
 workshops:
 - &id002
   - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
