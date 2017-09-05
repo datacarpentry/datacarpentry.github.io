@@ -34,9 +34,9 @@ Additionally, we began collecting data on the long-term impact our workshops are
 ### Data
 
 Data sets to go along with assessment reports are provided as csv files in a 
-[GitHub repository](https://github.com/carpentries/public-survey-info), along with the version of the surveys that were in use at time of analysis.  
+[GitHub repository](https://github.com/carpentries/assessment-projects), along with the version of the surveys that were in use at time of analysis.  
 
-[Data for Assessment report 2016-10-20](https://github.com/carpentries/public-survey-info/blob/master/documents/reports/Data-Carpentry-Reports/2016-11-04-DC-post-workshop-survey-data-archived.csv)
+[Data for Assessment report 2016-10-20](https://raw.githubusercontent.com/carpentries/public-survey-info/master/documents/reports/Data-Carpentry-Reports/postworkshop_data.csv)
 
 ### Assessment Results
  
