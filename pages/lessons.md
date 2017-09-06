@@ -141,6 +141,8 @@ There are two versions of this workshop **Genomics Workshop with Pipeline Workfl
 
 ### Geospatial Data Workshop
 
+*These lessons are under development and will be ready for broader teaching in January, 2018*
+
 #### Overview
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.  This assumes intermediate R skills, for people who have the basics of R down but haven’t worked with spatial data in R before.
