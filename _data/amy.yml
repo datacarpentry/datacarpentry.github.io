@@ -25,7 +25,6 @@ airports:
   - {name: Kate Lee, user: lee_kate}
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {name: Cameron McLean, user: mclean_cameron}
-  - {name: Tim McNamara, user: mcnamara_tim}
   - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: John Rugis, user: rugis_john}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
@@ -1982,6 +1981,7 @@ airports:
   name: Hosea Kutako International Airport
 - country: nz
   instructors:
+  - {name: Tim McNamara, user: mcnamara_tim}
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
   - {name: Wolfgang Hayek, user: hayek_wolfgang}
   - {name: Silvia Canessa, user: canessa_silvia}
@@ -3934,7 +3934,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170907T000003Z
+timestamp: 20170907T010002Z
 workshops:
 - &id002
   - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
