@@ -3249,6 +3249,12 @@ badges:
   - {awarded: '2017-08-30', name: David Bernholdt, user: bernholdt_david}
   - {awarded: '2017-08-31', name: Carol Rowe, user: rowe_carol}
   - {awarded: '2017-08-31', name: Lyle Rhea, user: rhea_lyle}
+  - {awarded: '2017-09-07', name: Pey-Lian Lim, user: lim_p-y}
+  - {awarded: '2017-09-07', name: Pauline A. Fujita, user: fujita_pauline}
+  - {awarded: '2017-09-07', name: Miao Sun, user: sun_miao}
+  - {awarded: '2017-09-07', name: Sarah Null, user: null_sarah}
+  - {awarded: '2017-09-07', name: Pablo Hernandez-Cerdan, user: hernandez-cerdan_pablo}
+  - {awarded: '2017-09-07', name: Taylor Reiter, user: reiter_taylor}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3850,6 +3856,11 @@ badges:
   - {awarded: '2017-08-31', name: Bill McMillin, user: mcmillin_bill}
   - {awarded: '2017-09-05', name: Carmi Cronje, user: cronje_carmi}
   - {awarded: '2017-09-07', name: Humberto Ortiz-Zuazaga, user: ortiz-zuazaga_humberto}
+  - {awarded: '2017-09-07', name: LACTATIA MOTSUKU, user: motsuku_lactatia}
+  - {awarded: '2017-09-07', name: Alistair Bailey, user: bailey_alistair}
+  - {awarded: '2017-09-07', name: Daijiang Li, user: li_daijiang}
+  - {awarded: '2017-09-07', name: Lisa Cohen, user: cohen_lisa}
+  - {awarded: '2017-09-07', name: Senzo Mpungose, user: mpungose_senzo}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3935,7 +3946,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170907T200003Z
+timestamp: 20170907T210003Z
 workshops:
 - &id002
   - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
