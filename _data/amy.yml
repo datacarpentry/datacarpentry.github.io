@@ -3260,6 +3260,9 @@ badges:
   - {awarded: '2017-09-08', name: Shari Laster, user: laster_shari}
   - {awarded: '2017-09-08', name: Ashley Jester, user: jester_ashley}
   - {awarded: '2017-09-08', name: Luca Di Stasio, user: di-stasio_luca}
+  - {awarded: '2017-09-08', name: Uwe Hilgert, user: hilgert_uwe}
+  - {awarded: '2017-09-08', name: Stephanie Miller, user: miller_stephanie}
+  - {awarded: '2017-09-08', name: Colin Sauze, user: sauze_colin}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3866,6 +3869,7 @@ badges:
   - {awarded: '2017-09-07', name: Daijiang Li, user: li_daijiang}
   - {awarded: '2017-09-07', name: Lisa Cohen, user: cohen_lisa}
   - {awarded: '2017-09-07', name: Senzo Mpungose, user: mpungose_senzo}
+  - {awarded: '2017-09-08', name: Katrin Tirok, user: tirok_katrin}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3951,7 +3955,7 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170908T160003Z
+timestamp: 20170908T170003Z
 workshops:
 - &id002
   - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
