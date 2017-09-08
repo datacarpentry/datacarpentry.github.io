@@ -1301,7 +1301,6 @@ airports:
   name: Newcastle
 - country: gb
   instructors:
-  - {name: Robert Davey, user: davey_rob}
   - {name: Graham Etherington, user: etherington_graham}
   - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Katie Barr, user: barr_katie}
@@ -1696,7 +1695,7 @@ airports:
 - country: us
   instructors:
   - {name: Steve Haddock, user: haddock_s}
-  - {name: Amy E. Hodge, user: hodge_amy}
+  - {name: Amy Hodge, user: hodge_amy}
   - {name: Emily Jane McTavish, user: mctavish_ej}
   - {name: Chris DeBoever, user: deboever_christopher}
   latitude: 37.361667
@@ -1804,6 +1803,7 @@ airports:
   instructors:
   - {name: Lisa Breckels, user: breckels_lisa}
   - {name: John Constable, user: constable_john}
+  - {name: Rob Davey, user: davey_rob}
   - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
@@ -2362,7 +2362,7 @@ badges:
   - {awarded: '2014-12-23', name: Maciej Czuchry, user: czuchry_maciej}
   - {awarded: '2015-02-27', name: Harriet Dashnow, user: dashnow_harriet}
   - {awarded: '2013-11-25', name: Emily Davenport, user: davenport_e}
-  - {awarded: '2014-11-22', name: Robert Davey, user: davey_rob}
+  - {awarded: '2014-11-22', name: Rob Davey, user: davey_rob}
   - {awarded: '2012-12-20', name: Matt Davis, user: davis_m}
   - {awarded: '2013-11-17', name: Neal Davis, user: davis_neal}
   - {awarded: '2015-02-27', name: Raffaella Demichelis, user: demichelis_raffaella}
@@ -2434,7 +2434,7 @@ badges:
   - {awarded: '2014-12-23', name: Cody Hinchliff, user: hinchliff_cody}
   - {awarded: '2012-12-20', name: Konrad Hinsen, user: hinsen_k}
   - {awarded: '2014-05-04', name: Daniel Hocking, user: hocking_daniel}
-  - {awarded: '2015-03-12', name: Amy E. Hodge, user: hodge_amy}
+  - {awarded: '2015-03-12', name: Amy Hodge, user: hodge_amy}
   - {awarded: '2013-11-17', name: Chris Holdgraf, user: holdgraf_c}
   - {awarded: '2014-10-16', name: Jeff Hollister, user: hollister_jeff}
   - {awarded: '2015-03-05', name: Richard Hosking, user: hosking_richard}
@@ -3255,6 +3255,11 @@ badges:
   - {awarded: '2017-09-07', name: Sarah Null, user: null_sarah}
   - {awarded: '2017-09-07', name: Pablo Hernandez-Cerdan, user: hernandez-cerdan_pablo}
   - {awarded: '2017-09-07', name: Taylor Reiter, user: reiter_taylor}
+  - {awarded: '2017-09-08', name: Nelly Sélem, user: slem_nelly}
+  - {awarded: '2017-09-08', name: Matthew Bourque, user: bourque_matthew}
+  - {awarded: '2017-09-08', name: Shari Laster, user: laster_shari}
+  - {awarded: '2017-09-08', name: Ashley Jester, user: jester_ashley}
+  - {awarded: '2017-09-08', name: Luca Di Stasio, user: di-stasio_luca}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3423,7 +3428,7 @@ badges:
   - {awarded: '2016-01-30', name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
   - {awarded: '2016-01-30', name: Adina Howe, user: chuang-howe_a}
   - {awarded: '2016-01-30', name: Aleksandra Natalia Pawlik, user: pawlik_a}
-  - {awarded: '2016-01-30', name: Amy E. Hodge, user: hodge_amy}
+  - {awarded: '2016-01-30', name: Amy Hodge, user: hodge_amy}
   - {awarded: '2016-01-30', name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {awarded: '2016-01-30', name: Christie Bahlai, user: bahlai_christie}
   - {awarded: '2016-01-30', name: Chris Friedline, user: friedline_chris}
@@ -3928,7 +3933,7 @@ badges:
   - {awarded: '2017-06-05', name: Jonah Duckles, user: duckles_jonah}
   - {awarded: '2017-06-05', name: Maneesha Sane, user: sane_maneesha}
   - {awarded: '2017-06-05', name: Mark Laufersweiler, user: laufersweiler_mark}
-  - {awarded: '2017-08-28', name: Amy E. Hodge, user: hodge_amy}
+  - {awarded: '2017-08-28', name: Amy Hodge, user: hodge_amy}
   - {awarded: '2017-08-28', name: Kwasi Amoako Kwakwa, user: kwakwa_k}
   - {awarded: '2017-08-28', name: Anita Schürch, user: schurch_anita}
   - {awarded: '2017-08-28', name: Alexander Konovalov, user: konovalov_alexander}
@@ -3940,13 +3945,13 @@ badges:
   - {awarded: '2017-08-28', name: Paula Andrea Martinez, user: martinez_paula}
   - {awarded: '2017-08-28', name: Danielle Quinn, user: quinn_danielle}
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
-  - {awarded: '2017-08-28', name: Robert Davey, user: davey_rob}
+  - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170908T150005Z
+timestamp: 20170908T160003Z
 workshops:
 - &id002
   - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
