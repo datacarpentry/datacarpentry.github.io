@@ -76,3 +76,5 @@ Hello,
  A dyslexic will probably benefit from being able to ask lots of questions
  and to chat about programming - social learning. They should try to get one
  or more technical mentors to whom they can go with niggling questions.
+ 
+ This post initially appeared on our [Discuss email list](http://lists.software-carpentry.org/pipermail/discuss/2017-April/005196.html).
