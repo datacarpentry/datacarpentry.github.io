@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline: ""
-title: "Dyslexia and Coding "
+title: "Dyslexia and Coding"
 teaser: "What we can do in workshops to help people with dyslexia"
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
