@@ -3956,9 +3956,23 @@ flags:
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170913T040003Z
+timestamp: 20170913T050002Z
 workshops:
 - &id002
+  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
+    contact: Gabriella Rustici <gr231@cam.ac.uk>
+    country: gb
+    end: 2017-09-12
+    eventbrite_id: ''
+    humandate: Sep 11-12, 2017
+    latitude: 52.201951
+    longitude: 0.122514
+    slug: 2017-09-11-cambridge
+    start: 2017-09-11
+    tags:
+    - {name: DC}
+    url: https://tavareshugo.github.io/2017-09-11-cambridge/
+    venue: University of Cambridge
   - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
     contact: rsschwartz@uri.edu
     country: us
@@ -6119,19 +6133,5 @@ workshops:
     - {name: DC}
     url: https://rroxford.github.io/2017-09-26-oxford/
     venue: University of Oxford
-  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
-    contact: Gabriella Rustici <gr231@cam.ac.uk>
-    country: GB
-    end: 2017-09-12
-    eventbrite_id: ''
-    humandate: Sep 11-12, 2017
-    latitude: 52.201951
-    longitude: 0.122514
-    slug: 2017-09-11-cambridge
-    start: 2017-09-11
-    tags:
-    - {name: DC}
-    url: https://tavareshugo.github.io/2017-09-11-cambridge/
-    venue: University of Cambridge
 workshops_current: *id001
 workshops_past: *id002
