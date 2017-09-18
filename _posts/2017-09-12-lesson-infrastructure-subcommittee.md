@@ -2,9 +2,13 @@
 layout: post
 authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2017 September meeting"
-date: 2017-09-12
-time: "10:00:00"
-category: ["Community", "Lesson Infrastructure Subcommittee"]
+teaser: "This post will cover the topics discussed and their resolutions."
+header: 
+   image_fullwidth: "light-blue-wood-texture.jpg"
+categories: 
+  - blog
+show_meta: true
+comments: true
 ---
 
 On 5 September 2017 at 14:00UTC+0,
