@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["Tracy Teal"]
 subheadline:
 title: "Genomics Bug BBQ"
 teaser: "Working to update the Genomics lessons"
@@ -10,7 +11,6 @@ categories:
   - blog
 show_meta: true
 comments: true
-authors: ["Tracy Teal"]
 ---
 
 
