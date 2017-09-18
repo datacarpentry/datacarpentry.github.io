@@ -10,7 +10,6 @@ categories:
 show_meta: true
 comments: true
 date: 2017-09-18
-time: "08:00:00"
 ---
 
 
