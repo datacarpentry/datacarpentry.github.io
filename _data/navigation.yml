@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: About Us
+- title: About
   url: "/about/"
   side: left
   dropdown:
@@ -62,17 +62,6 @@
     url: "/lessons/"
   - title: "Roadmap for Lesson Development"
     url: "/lessons-incubation/"
-
-- title: Communications
-  url: "/communications/"
-  side: left
-  dropdown:
-  - title: "Publications"
-    url: "/publications/"
-  - title: "Presentations"
-    url: "/presentations/"
-  - title: "In the News"
-    url: "/inthenews/"
 
 - title: Blog
   url: "/blog/"
