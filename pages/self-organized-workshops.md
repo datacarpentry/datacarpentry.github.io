@@ -32,7 +32,7 @@ In order to ensure that self-organized workshops are consistent in quality and c
 - A self-organized workshop request must be submitted at least 4 weeks before the workshop.
 - The workshop fee is $500/workshop or $25/participant (whichever you prefer), or a fee waiver must be requested
 - The workshop curriculum must meet the [requirements for a Data Carpentry workshop](/workshops/). Any planned curriculum components that are not currently among our official lessons must be submitted for review and approval at the time the workshop is requested.
-- The lead instructor/host is responsible for distributing surveys, and for fulfilling workshop reporting requirements to the Data Carpentry Program Coordinator at [admin@datacarpenty.org](mailto:admin@datacarpentry.org), including reporting the number of participants.
+- The lead instructor/host is responsible for distributing surveys, and for fulfilling workshop reporting requirements to the Data Carpentry Program Coordinator at [team@carpentries.org](mailto:team@carpentries.org), including reporting the number of participants.
 
 ### Fees for self-organized workshops
 <br>

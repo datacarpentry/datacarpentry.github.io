@@ -24,9 +24,11 @@ Erin Becker, PhD
 **Deputy Director of Assessment**  
 Kari L. Jordan, PhD
 
-**Program Coordinator**  
+**Program Manager**  
 Maneesha Sane
 
+**Community Development Lead**  
+Belinda Weaver
 
 <h4 id="sc">Current Steering Committee Members</h4>
 
@@ -38,4 +40,4 @@ Maneesha Sane
 
 
 <h4 id="sc_past">Past Steering Committee Members</h4>
-- Greg Wilson, PhD, Co-Founder and Director of Training, Software Carpentry Foundation
+- Greg Wilson, PhD, Co-Founder and former Director of Training, Software Carpentry Foundation

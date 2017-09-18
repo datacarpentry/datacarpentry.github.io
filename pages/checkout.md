@@ -35,7 +35,8 @@ complete them in any order.
 
 ### Teach a Short Demonstration Lesson
 - [ ] Sign up for a teaching demonstration session on [this Etherpad](http://pad.software-carpentry.org/teaching-demos).
-- [ ] Ensure you have [BlueJeans installed](https://www.bluejeans.com/downloads) and that it is working properly.
+- [ ] (Optional) Watch this [example demonstration session](https://www.youtube.com/watch?v=FFO2cq-3PPg) to get an idea of how they work. 
+- [ ] Ensure you have [Zoom installed](https://zoom.us/download) and that it is working properly.
 - [ ] Be prepared to teach any 5-minute section of your selected lesson module from the our [curriculum](/lessons/).
 - [ ] Attend your selected session and actively participate in giving feedback to other instructors.
 

@@ -27,4 +27,4 @@ For centrally-organized workshops, our workshop coordinator:
 - [ ] Coordinates sharing of pre- and post-workshop survey responses with hosts and instructors.  
 - [ ] Serves as the point of contact for hosts and instructors to answer questions and provide additional resources as needed.  
 
-The Data Carpentry workshop coordinator helps ensure that your workshop provides a high-quality learning experience targeted to your institutions' needs. If you have any questions about the workshop coordinator's role or would like to make specialized arrangements for any of these pieces of your workshop, please contact the [coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org). 
+The Data Carpentry workshop coordinator helps ensure that your workshop provides a high-quality learning experience targeted to your institutions' needs. If you have any questions about the workshop coordinator's role or would like to make specialized arrangements for any of these pieces of your workshop, please contact the [coordinator](mailto:team@carpentries.org) (team@carpentries.org). 

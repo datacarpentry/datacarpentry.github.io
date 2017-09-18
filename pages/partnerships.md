@@ -12,11 +12,10 @@ of Data Carpentry. Members receive annual access to instructor training and guid
 
 **If you are already a Software Carpentry Foundation Partner or Affiliate** you are also considered a Data Carpentry Member under the same terms through the end of your contract. 
 
-We offer several levels of Memberships, based on training activities expected annually.  
 
-
-### Tiers
-
+### Membership Tiers
+We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organizations. We also provide these and 
+Platinum Memberships for for-profit organizations. Please [contact us](mailto:partnerships@carpentries.org) for more information. 
 
 
 ||Bronze|Silver|Gold|Platinum|
@@ -28,12 +27,8 @@ We offer several levels of Memberships, based on training activities expected an
 |Seat on the <br>SCF Advisory Board|No|Yes|Yes|Yes|
 |Train an in-house instructor <br>trainer at member org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
-|Joint Fee (annual)|[$5,000](mailto:partnerships@carpentries.org?subject=Interested in Bronze Membership)|[$7,500](mailto:partnerships@carpentries.org?subject=Interested in Silver Membership)|[$15,000](mailto:partnerships@carpentries.org?subject=Interested in Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Platinum Membership)|
-|DC Only (annual)|[$4,000](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Bronze Membership)|[$6,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Silver Membership)|[$12,500](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Data Carpentry only Membership)|
+|Membership Dues (annual)|[$5,000](mailto:partnerships@carpentries.org?subject=Interested in Bronze Membership)|[$7,500](mailto:partnerships@carpentries.org?subject=Interested in Silver Membership)|[$15,000](mailto:partnerships@carpentries.org?subject=Interested in Gold Membership)|[Contact us](mailto:partnerships@carpentries.org?subject=Interested in Platinum Membership)|
 
-Fees listed are for not-for-profit organizations. We also provide these and 
-Platinum Memberships for for-profit organizations.  
-Please [contact us](mailto:partnerships@carpentries.org) for more information. 
 
 #### Notes
 

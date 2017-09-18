@@ -81,6 +81,8 @@ Getting to the workshop: [add directions to your workshop location]
 
 Please read the Data Carpentry Code of Conduct [http://www.datacarpentry.org/code-of-conduct/] so that we all are aware of how to treat each other respectfully.  
 
+We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
+
 Let us know if you have any questions, otherwise we will see you [day of week] morning!  
 
 Looking forward to seeing you soon,  
@@ -95,7 +97,7 @@ Thank you for attending our Data Carpentry workshop. We hope that you had fun an
 
 Please be sure to complete our post-workshop survey [link to survey]. Your answers are essential to allow us to continuously improve our workshops for future learners. 
 
-If you have any other feedback about the workshop, or would like to get involved in the Data Carpentry community, please contact us (mailto:admin@datacarpentry.org). You can also join the Data Carpentry mailing list [link to http://lists.software-carpentry.org/listinfo/discuss], follow us on Twitter (@DataCarpentry), and get involved with lesson development on GitHub [link to https://github.com/datacarpentry]. 
+If you have any other feedback about the workshop, or would like to get involved in the Data Carpentry community, please contact us (mailto:team@carpentries.org). You can also join the Data Carpentry mailing list [link to http://lists.software-carpentry.org/listinfo/discuss], follow us on Twitter (@DataCarpentry), and get involved with lesson development on GitHub [link to https://github.com/datacarpentry]. 
 
 We hope to see more of you as you continue to develop your data analysis skills!
 

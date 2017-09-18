@@ -25,7 +25,7 @@ Each instructor is responsible for preparing to teach their section(s) of the wo
 
 ## After the workshop:  
 - [ ] Take part in an [instructor discussion session](http://pad.software-carpentry.org/instructor-discussion)  
-- [ ] Send any feedback you have to [Data Carpentry admin](mailto:admin@datacarpentry.org) (admin@datacarpentry.org)
+- [ ] Send any feedback you have to [Data Carpentry admin](mailto:team@carpentries.org) (team@carpentries.org)
 - [ ] Report any new [configuration problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)  
-- [ ] Report any [lesson](http://www.datacarpentry.org/lessons/) errors or suggest improvements on GitHub or by [email](mailto:admin@datacarpentry.org) (admin@datacarpentry.org) 
+- [ ] Report any [lesson](http://www.datacarpentry.org/lessons/) errors or suggest improvements on GitHub or by [email](mailto:team@carpentries.org) (team@carpentries.org) 
 

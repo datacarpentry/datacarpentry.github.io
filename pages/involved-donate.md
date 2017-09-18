@@ -12,4 +12,4 @@ Under a fiscal sponsorship agreement with the NumFocus foundation, a 501(c)3 non
 [Donate through NumFOCUS](https://www.flipcause.com/widget/MjI1NQ==)
 
 If you are interested in sponsoring a workshop for a particular group or institution
-or other particular efforts, please [get in touch](mailto:admin@datacarpentry.org).
+or other particular efforts, please [get in touch](mailto:team@carpentries.org).

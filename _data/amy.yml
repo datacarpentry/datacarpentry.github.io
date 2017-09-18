@@ -1,8 +1,18 @@
 airports:
+- country: dk
+  instructors:
+  - {name: Dan Mønster, user: mnster_dan}
+  - {name: Kristian Tylén, user: tyln_kristian}
+  - {name: Kristoffer Nielbo, user: nielbo_kristoffer}
+  latitude: 56.2999992
+  longitude: 10.6190004
+  name: Aarhus Airport
 - country: us
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
+  - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Andrew McLeod Fraser, user: fraser_andrew}
+  - {name: Mike Heroux, user: heroux_mike}
   - {name: Christoph Junghans, user: junghans_christoph}
   latitude: 35.048665
   longitude: -106.616704
@@ -10,11 +20,11 @@ airports:
 - country: nz
   instructors:
   - {name: Prashant Gupta, user: gupta_prashant}
+  - {name: Richard Hosking, user: hosking_richard}
   - {name: Nick Jones, user: jones_nick}
   - {name: Kate Lee, user: lee_kate}
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {name: Cameron McLean, user: mclean_cameron}
-  - {name: Tim McNamara, user: mcnamara_tim}
   - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: John Rugis, user: rugis_john}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
@@ -33,14 +43,47 @@ airports:
   - {name: Mike Ladd, user: ladd_mike}
   - {name: Kirsten Brown, user: brown_kirsten}
   - {name: Nick Young, user: young_nick}
+  - {name: Yvette Wharton, user: wharton_yvette}
+  - {name: Martin Feller, user: feller_martin}
   - {name: Sean Marshall Matheny, user: matheny_sean}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
+- country: us
+  instructors:
+  - {name: Greg Watson, user: watson_greg}
+  latitude: 42.7482986
+  longitude: -73.8016968
+  name: Albany International Airport
+- country: es
+  instructors:
+  - {name: Francisco J. Navarro-Brull, user: navarro_francisco}
+  latitude: 38.2821999
+  longitude: -0.558156
+  name: Alicante
+- country: nl
+  instructors:
+  - {name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {name: Philip Lijnzaad, user: lijnzaad_philip}
+  - {name: Joona Lehtomäki, user: lehtomaki_joona}
+  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
+  - {name: Edwin van der Helm, user: van-der-helm_edwin}
+  - {name: Tobias Borsdorff, user: borsdorff_tobias}
+  - {name: Anita Schürch, user: schurch_anita}
+  latitude: 52.309686
+  longitude: 4.767438
+  name: 'Amsterdam Airport Schiphol '
+- country: us
+  instructors:
+  - {name: Pat Schloss, user: schloss_pat}
+  latitude: 42.2229996
+  longitude: -83.7455978
+  name: Ann Arbor, MI
 - country: se
   instructors:
   - {name: Roman Valls Guimera, user: valls-guimera_roman}
   - {name: Matthias Nilsson, user: nilsson_matthias}
+  - {name: Hadrien Gourlé, user: gourl_hadrien}
   latitude: 59.651944
   longitude: 17.918611
   name: Stockholm
@@ -50,6 +93,12 @@ airports:
   latitude: 33.640278
   longitude: -84.426944
   name: Atlanta, GA
+- country: nz
+  instructors:
+  - {name: Georgina Rae, user: rae_georgina}
+  latitude: -37.007305
+  longitude: 174.783727
+  name: Auckland Airport
 - country: us
   instructors:
   - {name: Nichole Bennett, user: bennett_n}
@@ -58,6 +107,7 @@ airports:
   - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
   - {name: Rebecca Tarvin, user: tarvin_becca}
   - {name: Todd Krause, user: krause_todd}
+  - {name: Jessica Trelogan, user: trelogan_jessica}
   latitude: 30.194444
   longitude: -97.669722
   name: Austin, TX
@@ -74,13 +124,40 @@ airports:
   - {name: R. David Murray, user: murray_david}
   - {name: Pariksheet Nanda, user: nanda_pariksheet}
   - {name: Timothy Moore, user: moore_timothy}
-  - {name: Nora Mitchell, user: mitchell_nora}
   - {name: Sandeep Namburi, user: namburi_sandeep}
   - {name: Shane Sanders, user: sanders_shane}
   - {name: Saira Kazmi, user: kazmi_saira}
   latitude: 41.938889
   longitude: -72.683056
   name: Hartford, CT
+- country: za
+  instructors:
+  - {name: Fanie Riekert, user: riekert_fanie}
+  latitude: -29.0926991
+  longitude: 26.3024006
+  name: J B M Hertzog International Airport
+- country: 'no'
+  instructors:
+  - {name: David Fredman, user: fredman_david}
+  latitude: 60.2933998
+  longitude: 5.2181401
+  name: Bergen Flesland Airport
+- country: us
+  instructors:
+  - {name: Sue McClatchy, user: mcclatchy_susan}
+  - {name: Narayanan Raghupathy, user: raghupathy_narayanan}
+  - {name: Xiao Xiao, user: xiao_xiao}
+  latitude: 44.8073997
+  longitude: -68.8281021
+  name: Bangor, ME
+- country: us
+  instructors:
+  - {name: Yuka Takemon, user: takemon_yuka}
+  - {name: Asli Uyar, user: uyar_asli}
+  - {name: Jethro Johnson, user: johnson_jethro}
+  latitude: 44.445041
+  longitude: -68.362081
+  name: Hancock County-Bar Harbor Airport
 - country: us
   instructors:
   - {name: Vasileios Panagiotis Lenis, user: lenis_vasileios}
@@ -91,12 +168,27 @@ airports:
   instructors:
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
   - {name: Sarah Mount, user: mount_sarah}
+  - {name: Owen Stephens, user: stephens_owen}
   - {name: Duncan Watson-Parris, user: watson-parris_duncan}
   - {name: Sebastian Engelstaedter, user: engelstaedter_sebastian}
   - {name: Victoria Forth, user: forth_victoria}
+  - {name: Colin Sauze, user: sauze_colin}
   latitude: 52.453611
   longitude: -1.747778
   name: Birmingham
+- country: es
+  instructors:
+  - {name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
+  - {name: Oier Echaniz Beneitez, user: etxaniz_oier}
+  latitude: 43.300854
+  longitude: -2.907575
+  name: Bilbao Airport
+- country: mx
+  instructors:
+  - {name: Selene L. Fernandez-Valverde, user: fernandez-valverde_selene}
+  latitude: 20.990772
+  longitude: -101.479347
+  name: Del Bajío International Airport
 - country: th
   instructors:
   - {name: Paula Andrea Martinez, user: martinez_paula}
@@ -104,6 +196,12 @@ airports:
   latitude: 13.6925
   longitude: 100.75
   name: Bangkok
+- country: it
+  instructors:
+  - {name: Giuseppe Profiti, user: profiti_giuseppe}
+  latitude: 44.536189
+  longitude: 11.289168
+  name: Bologna Guglielmo Marconi Airport
 - country: in
   instructors:
   - {name: Svaksha -, user: svaksha}
@@ -134,9 +232,21 @@ airports:
   - {name: Marco Fahmi, user: fahmi_marco}
   - {name: Liz Cooper-Williams, user: cooper-williams_liz}
   - {name: Michal Kotrbcik, user: kotrbcik_michal}
+  - {name: Thom Cuddihy, user: cuddihy_thom}
+  - {name: Conrad Leonard, user: leonard_conrad}
+  - {name: Scott Wood, user: wood_scott}
+  - {name: Stephen McGregor, user: mcgregor_stephen}
+  - {name: Richard Vankoningsveld, user: vankoningsveld_richard}
+  - {name: James Lefevre, user: lefevre_james}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
+- country: us
+  instructors:
+  - {name: Eric Jankowski, user: jankowski_eric}
+  latitude: 43.5643997
+  longitude: -116.2229996
+  name: Boise Air Terminal/Gowen Field Airport
 - country: us
   instructors:
   - {name: Harriet Alexander, user: alexander_harriet}
@@ -147,6 +257,7 @@ airports:
   - {name: Bob Freeman, user: freeman_robert}
   - {name: Ivan Gonzalez, user: gonzalez_ivan}
   - {name: Radhika Khetani, user: khetani_radhika}
+  - {name: Keith Ma, user: ma_keith}
   - {name: Meeta Mistry, user: mistry_meeta}
   - {name: Daiva Nielsen, user: nielsen_daiva}
   - {name: Mary Piper, user: piper_mary}
@@ -161,6 +272,7 @@ airports:
   - {name: Andrew Marder, user: marder_andrew}
   - {name: Ista Zahn, user: zahn_ista}
   - {name: Eric Ma, user: ma_eric}
+  - {name: Christopher Holden, user: holden_christopher}
   - {name: Shiklomanov Alexey, user: shiklomanov_alexey}
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
   - {name: Jarrett Byrnes, user: byrnes_jarrett}
@@ -177,16 +289,60 @@ airports:
   latitude: 51.3825
   longitude: -2.718889
   name: Bristol
+- country: be
+  instructors:
+  - {name: Tina O'Grady, user: ogrady_tina}
+  - {name: Frederik Coppens, user: coppens_frederik}
+  - {name: Christof De Bo, user: debo_christof}
+  - {name: Stijn Van Hoey, user: van-hoey_stijn}
+  latitude: 50.902447
+  longitude: 4.487055
+  name: Brussels Airport
+- country: ch
+  instructors:
+  - {name: Bérénice Batut, user: batut_berenice}
+  - {name: Geoffrey Fucile, user: fucile_geoffrey}
+  latitude: 47.595156
+  longitude: 7.530066
+  name: EuroAirport Basel-Mulhouse-Freiburg
+- country: us
+  instructors:
+  - {name: Susan Duncan, user: duncan_susan}
+  latitude: 30.53236
+  longitude: -91.151461
+  name: Baton Rouge Metropolitan Airport
+- country: us
+  instructors:
+  - {name: Brad Taber-Thomas, user: taber-thomas_bradley}
+  latitude: 42.9404984
+  longitude: -78.7322006
+  name: Buffalo Niagara International Airport
+- country: us
+  instructors:
+  - {name: Tommy Keswick, user: keswick_thomas}
+  latitude: 34.2006989
+  longitude: -118.3590012
+  name: Bob Hope Airport
 - country: us
   instructors:
   - {name: Justin Ely, user: ely_j}
   - {name: Megan Fritz, user: fritz_megan}
+  - {name: Mary Shelley, user: shelley_mary}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
   - {name: John Didion, user: didion_john}
+  - {name: Kelley O'Neal, user: oneal_kelley}
   latitude: 39.175278
   longitude: -76.668333
   name: Baltimore, MD
+- country: au
+  instructors:
+  - {name: Jack Simpson, user: simpson_jack}
+  - {name: Luc Small, user: small_luc}
+  - {name: Marcin Adamski, user: adamski_marcin}
+  latitude: -35.308333
+  longitude: 149.193889
+  name: Canberra
 - country: fr
   instructors:
   - {name: Bartosz Telenczuk, user: telenczuk_bartosz}
@@ -239,16 +395,42 @@ airports:
   latitude: 41.411667
   longitude: -81.849722
   name: Cleveland, OH
+- country: ro
+  instructors:
+  - {name: Michael Crusoe, user: crusoe_michael}
+  latitude: 46.783742
+  longitude: 23.691562
+  name: Cluj International Airport
+- country: us
+  instructors:
+  - {name: Anna Dabrowski, user: dabrowski_anna}
+  latitude: 30.5886002
+  longitude: -96.3638001
+  name: Easterwood Field Airport
+- country: us
+  instructors:
+  - {name: Anthony Scopatz, user: scopatz_a}
+  latitude: 35.213754
+  longitude: -80.948194
+  name: Charlotte Douglas International Airport
 - country: us
   instructors:
   - {name: Neal Davis, user: davis_neal}
   - {name: Kathryn Dorsey Huff, user: huff_k}
   - {name: David LeBauer, user: lebauer_david}
+  - {name: Elizabeth Wickes, user: wickes_elizabeth}
   - {name: Maxim Belkin, user: belkin_maxim}
   - {name: Dena Lynn Strong, user: strong_dena}
   latitude: 40.039167
   longitude: -88.278056
   name: Urbana-Champaign, IL
+- country: us
+  instructors:
+  - {name: Susie Meloro, user: meloro_susie}
+  - {name: Jose Pedro Silva, user: silva_jose-pedro}
+  latitude: 38.8181
+  longitude: -92.2195969
+  name: Columbia Regional Airport
 - country: dk
   instructors:
   - {name: Chelsea Chisholm, user: chisholm_chelsea}
@@ -265,10 +447,35 @@ airports:
   - {name: Peter van Heusden, user: van-heusden_peter}
   - {name: Raissa Philibert, user: philibert_raissa}
   - {name: Jordan Masakuna, user: masakuna_jordan}
+  - {name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
   - {name: Warren Morne' Jacobus, user: jacobus_warren}
+  - {name: Ian van der Linde, user: van-der-linde_ian}
+  - {name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
+  - {name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   latitude: -33.964722
   longitude: 18.601667
   name: Cape Town
+- country: us
+  instructors:
+  - {name: Robert Flight, user: flight_r}
+  - {name: Sarah Supp, user: supp_s}
+  latitude: 39.0488014
+  longitude: -84.6678009
+  name: Cincinnati, KY
+- country: br
+  instructors:
+  - {name: Fernando Mayer, user: mayer_fernando}
+  - {name: Abel Siqueira, user: soares-siqueira_abel}
+  - {name: Kally Chung, user: chung_kally}
+  latitude: -25.532589
+  longitude: -49.17487
+  name: Afonso Pena International Airport
+- country: us
+  instructors:
+  - {name: Catherine Devlin, user: devlin_catherine}
+  latitude: 39.902401
+  longitude: -84.2193985
+  name: James M. Cox Dayton, OH
 - country: us
   instructors:
   - {name: Aron Ahmadia, user: ahmadia_a}
@@ -284,6 +491,7 @@ airports:
   - {name: David McGaughey, user: mcgaughey_david}
   - {name: Steve Bond, user: bond_s}
   - {name: Vinai Roopchansingh, user: roopchansingh_vinai}
+  - {name: Abhijit Dasgupta, user: dasgupta_abhijit}
   - {name: Ian Carroll, user: carroll_ian}
   latitude: 38.851944
   longitude: -77.0375
@@ -323,6 +531,7 @@ airports:
 - country: gb
   instructors:
   - {name: David Martin, user: martin_david}
+  - {name: Leighton Pritchard, user: pritchard_leighton}
   - {name: Chris Cole, user: cole_chris}
   latitude: 56.4525
   longitude: -3.025833
@@ -344,9 +553,16 @@ airports:
   latitude: 41.533889
   longitude: -93.6625
   name: Des Moines, IA
+- country: de
+  instructors:
+  - {name: Liz Ing-Simmons, user: ing-simmons_liz}
+  latitude: 51.5182991
+  longitude: 7.6122398
+  name: Dortmund Airport
 - country: us
   instructors:
   - {name: Carlos Anderson, user: anderson_c}
+  - {name: Christie Bahlai, user: bahlai_christie}
   - {name: Michelle Berry, user: berry_michelle}
   - {name: Amanda Charbonneau, user: charbonneau_amanda}
   - {name: Meghan Duffy, user: duffy_meghan}
@@ -364,6 +580,8 @@ airports:
   - {name: Akima George, user: george_akima}
   - {name: Alix Keener, user: keener_alix}
   - {name: Ry4an Brase, user: brase_ry4an}
+  - {name: Sonal Singhal, user: singhal_sonal}
+  - {name: Marc Sze, user: sze_marc}
   latitude: 42.212222
   longitude: -83.353333
   name: Detroit, MI
@@ -373,6 +591,31 @@ airports:
   latitude: 53.421111
   longitude: -6.27
   name: Dublin
+- country: nz
+  instructors:
+  - {name: Mik Black, user: black_mik}
+  - {name: James Boocock, user: boocock_james}
+  - {name: Jonah Duckles, user: duckles_jonah}
+  - {name: Tom Kelly, user: kelly_tom}
+  - {name: Murray Cadzow, user: cadzow_murray}
+  - {name: Elizabeth Permina, user: permina_elizabeth}
+  - {name: David Eyers, user: eyers_david}
+  - {name: Tanya Flynn, user: flynn_tanya}
+  - {name: Kim Rutherford, user: rutherford_kim}
+  - {name: Nick Burns, user: burns_nick}
+  - {name: Albert Savary, user: savary_albert}
+  - {name: Matt Healey, user: healey_matt}
+  - {name: Matt Bixley, user: bixley_matt}
+  - {name: Amara Shaukat, user: shaukat_amara}
+  latitude: -45.928056
+  longitude: 170.198333
+  name: Dunedin
+- country: za
+  instructors:
+  - {name: Andrew B. Collier, user: collier_andrew}
+  latitude: -29.6144444
+  longitude: 31.1197222
+  name: King Shaka International Airport
 - country: de
   instructors:
   - {name: Tiziano Zito, user: zito_t}
@@ -385,11 +628,11 @@ airports:
   - {name: Evgenij Belikov, user: belikov_evgenij}
   - {name: Neil Chue Hong, user: chue-hong_n}
   - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
+  - {name: Alistair Grant, user: grant_alistair}
   - {name: Mike Jackson, user: jackson_m}
   - {name: Martin Jones, user: jones_martin}
   - {name: Alexander Konovalov, user: konovalov_alexander}
   - {name: Giacomo Peru, user: peru_giacomo}
-  - {name: Leighton Pritchard, user: pritchard_leighton}
   - {name: Sam Thomson, user: thomson_samuel}
   - {name: Michael Torpey, user: torpey_michael}
   - {name: Toni Collis, user: collis_toni}
@@ -408,6 +651,25 @@ airports:
   latitude: 55.95
   longitude: -3.3725
   name: Edinburgh
+- country: nl
+  instructors:
+  - {name: Willem Ligtenberg, user: ligtenberg_willem}
+  latitude: 51.458075
+  longitude: 5.393764
+  name: Eindhoven Airport
+- country: us
+  instructors:
+  - {name: Jon Holtzman, user: holtzman_jon}
+  latitude: 31.807222
+  longitude: -106.3775
+  name: El Paso International Airport
+- country: gb
+  instructors:
+  - {name: Andrew Warry, user: warry_andrew}
+  - {name: Anna Krystalli, user: krystalli_anna}
+  latitude: 52.828194
+  longitude: -1.334258
+  name: East Midlands Airport
 - country: us
   instructors:
   - {name: Jim Stapleton, user: stapleton_jim}
@@ -427,10 +689,18 @@ airports:
 - country: gb
   instructors:
   - {name: James Allen, user: allen_james}
+  - {name: Stephen Haddad, user: haddad_stephen}
   - {name: Hamish Steptoe, user: steptoe_hamish}
+  - {name: Thomas Voigt, user: voigt_thomas_2}
   latitude: 50.734444
   longitude: -3.413889
   name: Exeter
+- country: it
+  instructors:
+  - {name: Allegra Via, user: via_allegra}
+  latitude: 41.7998868
+  longitude: 12.246238414
+  name: Leonardo da Vinci–Fiumicino Airport
 - country: us
   instructors:
   - {name: Greg Caporaso, user: caporaso_greg}
@@ -461,12 +731,99 @@ airports:
   latitude: 47.619722
   longitude: -117.533611
   name: Spokane, WA
+- country: br
+  instructors:
+  - {name: Nicholas dos Anjos Cristiano Marino, user: marino_nicholas}
+  latitude: -22.8099995
+  longitude: -43.2505569
+  name: Galeão - Antônio Carlos Jobim International Airport
+- country: gb
+  instructors:
+  - {name: Norman Gray, user: gray_n}
+  latitude: 55.8646
+  longitude: 4.43234
+  name: Glasgow International Airport
+- country: us
+  instructors:
+  - {name: Erica Christensen, user: christensen_erica}
+  - {name: Matthew Collins, user: collins_matthew}
+  - {name: François Michonneau, user: michonneau_francois}
+  - {name: Kristina Riemer, user: riemer_kristina}
+  - {name: Ethan White, user: white_e}
+  - {name: Elise Morrison, user: morrison_elise}
+  - {name: Brian Stucky, user: stucky_brian}
+  - {name: Allison Jai O'Dell, user: odell_allison-jai}
+  - {name: Henry Senyondo, user: senyondo_henry}
+  - {name: David Jennings, user: jennings_david}
+  latitude: 29.69
+  longitude: -82.271667
+  name: Gainesville, FL
+- country: us
+  instructors:
+  - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {name: Patricia Carbajales-Dale, user: carbajales_patricia}
+  - {name: Linh B Ngo, user: ngo_linh}
+  latitude: 34.8956985
+  longitude: -82.2189026
+  name: Greenville Spartanburg, SC
+- country: ch
+  instructors:
+  - {name: Julia Anne Gustavsen, user: gustavsen_j}
+  - {name: Diana Marek, user: marek_diana}
+  - {name: Walid Gharib, user: gharib_walid}
+  - {name: Raphaël Grolimund, user: grolimund_raphal}
+  latitude: 46.236757
+  longitude: 6.109113
+  name: Genève Aéroport
+- country: au
+  instructors:
+  - {name: Damien Irving, user: irving_d}
+  - {name: Tom Remenyi, user: remenyi_tom}
+  latitude: -42.834715
+  longitude: 147.499117
+  name: Hobart International Airport
+- country: hk
+  instructors:
+  - {name: Peter Li, user: li_peter}
+  latitude: 22.306975
+  longitude: 113.913803
+  name: Hong Kong International Airport
+- country: ca
+  instructors:
+  - {name: James Desjardins, user: desjardins_james}
+  - {name: Rudiger Brauning, user: brauning_rudiger}
+  latitude: 43.165464
+  longitude: -79.935375
+  name: Hamilton International Airport
+- country: us
+  instructors:
+  - {name: Mahdi Belcaid, user: belcaid_mahdi}
+  - {name: Sean Cleveland, user: cleveland_sean}
+  - {name: Ron Merrill, user: merrill_ron}
+  - {name: Geoffrey Thomas LaFlair, user: laflair_geoff}
+  latitude: 21.315833
+  longitude: -157.926667
+  name: Honolulu, HI
+- country: us
+  instructors:
+  - {name: Brittany Nicole Lasseigne, user: lasseigne_brittany}
+  latitude: 34.6371994
+  longitude: -86.7751007
+  name: Huntsville International Carl T Jones Field Airport
+- country: us
+  instructors:
+  - {name: Tomomi Sunayama, user: sunayama_tomomi}
+  latitude: 41.2636986
+  longitude: -72.8868027
+  name: Tweed New Haven Airport
 - country: us
   instructors:
   - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek_zbigniew}
   - {name: Adam Thomas, user: thomas_adam}
   - {name: Daniel Wheeler, user: wheeler_daniel}
+  - {name: Dave Williams, user: williams_dave}
   - {name: Lynn Young, user: young_lynn}
+  - {name: Valentina Staneva, user: staneva_valentina}
   - {name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
   - {name: Martin Skarzynski, user: skarzynski_martin}
   latitude: 38.944444
@@ -478,6 +835,7 @@ airports:
   - {name: Ramalingam Saravanan, user: ramalingam_saravanan}
   - {name: Scott Talafuse, user: talafuse_scott}
   - {name: Chandler Wilkerson, user: wilkerson_chandler}
+  - {name: Ming Tang, user: tang_ming_2}
   latitude: 29.980278
   longitude: -95.339722
   name: Houston, TX
@@ -495,6 +853,12 @@ airports:
   latitude: 42.491
   longitude: -76.459
   name: Ithaca, NY
+- country: sa
+  instructors:
+  - {name: David Ketcheson, user: ketcheson_david}
+  latitude: 21.665527
+  longitude: 39.158732
+  name: King Abdulaziz International Airport
 - country: us
   instructors:
   - {name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
@@ -517,6 +881,20 @@ airports:
   latitude: 40.639722
   longitude: -73.778889
   name: New York JFK, NY
+- country: za
+  instructors:
+  - {name: Maryke Schoonen, user: schoonen_maryke}
+  - {name: Anelda van der Walt, user: van-der-walt_anelda}
+  - {name: Albertus Seyffert, user: seyffert_albertus}
+  - {name: Bianca Peterson, user: peterson_bianca}
+  - {name: Hannes Calitz, user: calitz_hannes}
+  - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
+  - {name: Martin Dreyer, user: dreyer_martin}
+  - {name: Angelique van Rensburg, user: van-rensburg_angelique}
+  - {name: Jacqueline Muller, user: muller_jacqueline}
+  latitude: -26.138773
+  longitude: 28.241339
+  name: O. R. Tambo International Airport
 - country: pl
   instructors:
   - {name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
@@ -533,11 +911,12 @@ airports:
   name: Krakow
 - country: us
   instructors:
-  - {name: Christie Bahlai, user: bahlai_christie}
+  - {name: Eric Bruger, user: bruger_e}
   - {name: Rosangela Canino-Koning, user: canino-koning_r}
   - {name: Emily Dolson, user: dolson_emily}
   - {name: Richard Enbody, user: enbody_r}
   - {name: Aaron Garoutte, user: garoutte_aaron}
+  - {name: Elijah Lowe, user: lowe_elijah}
   - {name: Joshua Nahum, user: nahum_josh}
   - {name: Sean Pue, user: pue_s}
   - {name: Jorden Schossau, user: schossau_j}
@@ -549,16 +928,22 @@ airports:
   name: Lansing, MI
 - country: us
   instructors:
+  - {name: Katja Seltmann, user: seltmann_katja}
   - {name: Mark Wilber, user: wilber_mark}
   - {name: Tim Dennis, user: dennis_tim}
+  - {name: Gail Clement, user: gail_clement}
+  - {name: Stephen Davison, user: davison_stephen}
+  - {name: Donna Theresa Wrublewski, user: wrublewski_donna}
   latitude: 33.9415889
   longitude: -118.40853
   name: Los Angeles, CA
 - country: gb
   instructors:
+  - {name: Marlene Mengoni, user: mengoni_marlene}
   - {name: Aaron O'Leary, user: oleary_aaron}
   - {name: Andrew Walker, user: walker_andrew}
   - {name: Jon E Mound, user: mound_je}
+  - {name: Mark Dixon, user: dixon_mark}
   - {name: Mike Wallis, user: wallis_mike}
   - {name: Alastair Droop, user: droop_alastair}
   - {name: Chris Norton, user: norton_chris}
@@ -570,6 +955,7 @@ airports:
   - {name: Jez Cope, user: cope_jez}
   - {name: Fernando Zapata, user: zapata_fernando}
   - {name: Lee Etchels, user: etchels_lee}
+  - {name: Heather Ford, user: ford_heather}
   latitude: 53.865833
   longitude: -1.660556
   name: Leeds
@@ -590,14 +976,19 @@ airports:
   - {name: Sumana Harihareswara, user: harihareswara_sumana}
   - {name: Ian Langmore, user: langmore_i}
   - {name: Matthew Lightman, user: lightman_matthew}
+  - {name: Adam Obeng, user: obeng_a}
   - {name: Jason Pell, user: pell_j}
   - {name: Nick Carchedi, user: carchedi_nick}
   - {name: Lisa Rhody, user: rhody_lisa}
+  - {name: Jacob Frias Koehler, user: koehler_jacob}
+  - {name: Jojo Karlin, user: karlin_jojo}
+  - {name: Patrick Smyth, user: smyth_patrick}
   latitude: 40.777222
   longitude: -73.8725
   name: New York La Guardia, NY
 - country: gb
   instructors:
+  - {name: James Baker, user: baker_james_2}
   - {name: Laura Jane Graham, user: graham_laura}
   - {name: Kwasi Amoako Kwakwa, user: kwakwa_k}
   - {name: Mark Plumbley, user: plumbley_m}
@@ -619,8 +1010,10 @@ airports:
   - {name: Robert A Beagrie, user: beagrie_robert}
   - {name: Miguel Bernabeu, user: bernabeu_miguel}
   - {name: Chris Cannam, user: cannam_c}
+  - {name: Jonathan Cooper, user: cooper_jonathan}
   - {name: Rich FitzJohn, user: fitzjohn_rich}
   - {name: Philip Fowler, user: fowler_philip}
+  - {name: Gerard Gorman, user: gorman_gerard}
   - {name: Donna Henderson, user: henderson_donna}
   - {name: James Hetherington, user: hetherington_james}
   - {name: Jan Kim, user: kim_jan}
@@ -631,11 +1024,15 @@ airports:
   - {name: Florian Rathgeber, user: rathgeber_florian}
   - {name: Mark Stillwell, user: stillwell_mark}
   - {name: Richard Tomsett, user: tomsett_richard}
+  - {name: Will Usher, user: usher_w}
   - {name: Bogdan Vera, user: vera_b}
   - {name: Ben Waugh, user: waugh_b}
   - {name: Arfan Ahmed, user: ahmed_arfan}
+  - {name: Tom Couch, user: couch_tom}
   - {name: Alys Brett, user: brett_alys}
   - {name: Bethan Davies, user: davies_bethan}
+  - {name: Nicky Nicolson, user: nicolson_nicky}
+  - {name: Jane Charlesworth, user: charlesworth_jane}
   - {name: Consuelo Sendino, user: sendino_consuelo}
   - {name: Malcom Penn, user: penn_malcom}
   - {name: Sreekumar Balan, user: balan_sreekumar}
@@ -647,9 +1044,47 @@ airports:
   - {name: Simon Thelwall, user: thelwall_simon}
   - {name: Laura Fortunato, user: fortunato_laura}
   - {name: Kesson Magid, user: magid_kesson}
+  - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
+  - {name: Julian Jordan, user: jordan_julian}
+  - {name: David Wright, user: wright_david}
+  - {name: Stuart Grieve, user: grieve_stuart}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
+- country: si
+  instructors:
+  - {name: Ziva Ramsak, user: ramsak_ziva}
+  - {name: Peter Juvan, user: juvan_peter}
+  latitude: 46.225275
+  longitude: 14.454863
+  name: Ljubljana Jože Pučnik Airport
+- country: us
+  instructors:
+  - {name: Emelie Harstad, user: harstad_emelie}
+  - {name: Joshua Herr, user: herr_joshua}
+  - {name: Natasha Pavlovikj, user: pavlovikj_natasha}
+  - {name: Bill McClung, user: mcclung_bill}
+  latitude: 40.850833
+  longitude: -96.759167
+  name: Lincoln, NE
+- country: us
+  instructors:
+  - {name: Maëlle Salmon, user: salmon_malle}
+  latitude: -18.9932995
+  longitude: 139.9069977
+  name: Lorraine Airport
+- country: se
+  instructors:
+  - {name: Olav Vahtras, user: vahtras_olav}
+  latitude: 58.406971
+  longitude: 15.667521
+  name: Linköping City Airport
+- country: us
+  instructors:
+  - {name: Cortney Buffington, user: buffington_cortney}
+  latitude: 39.0158333
+  longitude: -95.2163889
+  name: Lawrence Municipal Airport
 - country: fr
   instructors:
   - {name: Rémi Emonet, user: emonet_remi}
@@ -688,10 +1123,17 @@ airports:
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
   - {name: Nick James, user: james_nick}
   - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
+  - {name: Tania Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
+- country: za
+  instructors:
+  - {name: Juan Steyn, user: steyn_juan}
+  latitude: -25.7984009
+  longitude: 25.5480003
+  name: Mmabatho International Airport
 - country: us
   instructors:
   - {name: John Moreau, user: moreau_john}
@@ -702,7 +1144,7 @@ airports:
   instructors:
   - {name: Shawn Taylor, user: taylor_shawn}
   - {name: Sergio Marconi, user: marconi_sergio}
-  - {name: Kari Jordan, user: jordan_kari}
+  - {name: Kari L Jordan, user: jordan_kari}
   latitude: 28.428889
   longitude: -81.315833
   name: Orlando, FL
@@ -732,6 +1174,7 @@ airports:
   - {name: Harriet Dashnow, user: dashnow_harriet}
   - {name: Matthew Dimmock, user: dimmock_matt}
   - {name: Kim Doyle, user: doyle_kimberly}
+  - {name: Angus Ferguson, user: ferguson_angus}
   - {name: Talitha Ford, user: ford_talitha}
   - {name: Julian Garcia, user: garcia_julian}
   - {name: Philippa Griffin, user: griffin_pip}
@@ -751,6 +1194,7 @@ airports:
   - {name: Alistair Walsh, user: walsh_alistair}
   - {name: Jared Winton, user: winton_jared}
   - {name: Steve Androulakis, user: androulakis_steve}
+  - {name: Matthew Wakefield, user: wakefield_matthew}
   - {name: Xavier Ho, user: ho_xavier}
   - {name: Yuandra Ismiraldi, user: ismiraldi_yuandra}
   - {name: Ghulam Murtaza, user: murtaza_ghulam}
@@ -761,11 +1205,43 @@ airports:
   name: Melbourne
 - country: us
   instructors:
+  - {name: Rebel Cummings-Sauls, user: cummings_rebel-cummings-sauls}
+  latitude: 39.1409988
+  longitude: -96.6707993
+  name: Manhattan Regional Airport
+- country: us
+  instructors:
   - {name: Daniel Hocking, user: hocking_daniel}
   - {name: James Adams, user: adams_james}
   latitude: 42.92786
   longitude: -71.43844
   name: Manchester, New Hampshire
+- country: us
+  instructors:
+  - {name: Alejandro Mantero, user: mantero_alejandro}
+  - {name: Timothy Norris, user: norris_timothy}
+  - {name: Zack Brym, user: brym_zachary}
+  latitude: 25.793914
+  longitude: -80.283806
+  name: Miami International Airport
+- country: us
+  instructors:
+  - {name: Patrick Clare Shriwise, user: shriwise_patrick}
+  latitude: 42.950161
+  longitude: -87.899629
+  name: General Mitchell International Airport
+- country: gb
+  instructors:
+  - {name: Steve McGough, user: mcgough_s}
+  latitude: 54.509201
+  longitude: -1.42941
+  name: Durham Tees Valley Airport
+- country: ve
+  instructors:
+  - {name: Francisco Palm, user: palm_francisco}
+  latitude: 8.585952
+  longitude: -71.161213
+  name: A Carnevalli Airport
 - country: us
   instructors:
   - {name: Karl Broman, user: broman_karl}
@@ -775,6 +1251,7 @@ airports:
   - {name: Emily Read, user: read_emily}
   - {name: Sarah Stevens, user: stevens_sarah}
   - {name: Paul Wilson, user: wilson_p}
+  - {name: Andrew Yan, user: yan_andrew}
   - {name: Laura DeCicco, user: decicco_laura}
   - {name: Lindsay Carr, user: carr_lindsay}
   - {name: Michelle Craft, user: craft_michelle}
@@ -807,18 +1284,23 @@ airports:
   latitude: 48.353611
   longitude: 11.785833
   name: Munich
+- country: it
+  instructors:
+  - {name: Vincenza Colonna, user: colonna_vincenza}
+  latitude: 40.882264
+  longitude: 14.285442
+  name: Naples International Airport
 - country: gb
   instructors:
-  - {name: Steve McGough, user: mcgough_s}
   - {name: Kirill Palamartchouk, user: palamartchouk_kirill}
   - {name: Leanne Wake, user: wake_leanne}
+  - {name: Peter Michalák, user: michalak_peter}
   - {name: Nick Loughlin, user: loughlin_nick}
   latitude: 55.0375
   longitude: -1.691667
   name: Newcastle
 - country: gb
   instructors:
-  - {name: Robert Davey, user: davey_rob}
   - {name: Graham Etherington, user: etherington_graham}
   - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Katie Barr, user: barr_katie}
@@ -852,6 +1334,7 @@ airports:
   - {name: Shyam Dwaraknath, user: dwaraknath_shyam}
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
+  - {name: Pauline A. Fujita, user: fujita_pauline}
   latitude: 37.721111
   longitude: -122.220556
   name: Oakland, CA
@@ -864,19 +1347,36 @@ airports:
   - {name: Braden Owsley, user: owsley_braden}
   - {name: Brent Shambaugh, user: shambaugh_brent}
   - {name: Mark Stacy, user: stacy_mark}
+  - {name: Sean Fortney, user: fortney_sean}
   - {name: Cody Taylor, user: taylor_cody}
   - {name: Blake Stamps, user: stamps_blake}
   - {name: Jason Sherman, user: sherman_jason}
   - {name: Sarah Clayton, user: clayton_sarah}
   - {name: Jamie Hadwin, user: hadwin_jamie}
   - {name: Peter R. Hoyt, user: hoyt_peter}
+  - {name: Rob Burnap, user: burnap_rob}
   - {name: Phillip Doehle, user: doehle_phillip}
   - {name: Patrick Boyle, user: boyle_patrick}
   - {name: Ross Allen Bowman, user: bowman_ross}
+  - {name: Jason Henderson, user: henderson_jason}
   - {name: Jim Summers, user: summers_jim}
+  - {name: Matthew Whitlock, user: whitlock_matthew}
+  - {name: Alex Underwood, user: underwood_alex}
   latitude: 35.393056
   longitude: -97.600556
   name: Oklahoma City
+- country: us
+  instructors:
+  - {name: Jingchao Zhang, user: zhang_jingchao}
+  latitude: 41.300139
+  longitude: -95.897406
+  name: Eppley Airfield
+- country: us
+  instructors:
+  - {name: Thomas Morrell, user: morrell_thomas}
+  latitude: 34.055978
+  longitude: -117.598057
+  name: Ontario International Airport
 - country: us
   instructors:
   - {name: Camille Avestruz, user: avestruz_camille}
@@ -884,6 +1384,7 @@ airports:
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Jackie Milhans, user: milhans_jackie}
   - {name: Danielle Nielsen, user: nielsen_danielle}
+  - {name: Juliane Schneider, user: schneider_juliane}
   - {name: Hossein Pourreza, user: pourreza_hossein}
   - {name: Jonathan Keane, user: keane_jonathan}
   - {name: Arjun A Biddanda, user: biddanda_arjun}
@@ -911,12 +1412,19 @@ airports:
   - {name: Anne Fouilloux, user: fouilloux_anne}
   - {name: Marius Bjørnstad, user: bjornstad_marius}
   - {name: Carrie Andrew, user: andrew_carrie}
+  - {name: Raoul Wolf, user: wolf_raoul}
   - {name: Kyrre Traavik Låberg, user: traavik-laberg_kyrre}
   - {name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
   - {name: William Brynildsen Reinar, user: brynildsen-reinar_william}
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
+- country: es
+  instructors:
+  - {name: Joaquín Morís, user: moris_joaquin}
+  latitude: 43.56339
+  longitude: -6.032085
+  name: Asturias Airport
 - country: us
   instructors:
   - {name: Amy Boyle, user: boyle_amy}
@@ -935,6 +1443,7 @@ airports:
   - {name: Chris Bording, user: bording_chris}
   - {name: Raffaella Demichelis, user: demichelis_raffaella}
   - {name: Andrew Rohl, user: rohl_andrew}
+  - {name: Matthias Liffers, user: liffers_matthias}
   - {name: Stefania Bertazzoni, user: bertazzoni_stefania}
   latitude: -31.940278
   longitude: 115.966944
@@ -952,11 +1461,48 @@ airports:
   name: Philadelphia, PA
 - country: us
   instructors:
+  - {name: Reed Cartwright, user: cartwright_reed}
+  - {name: David Dotson, user: dotson_david}
+  - {name: Tania Hernandez, user: hernandez_tania}
+  - {name: Ryan Middleton, user: middleton_ryan}
+  - {name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
+  - {name: Stevan Earl, user: earl_stevan}
+  - {name: Arron Shiffer, user: shiffer_arron}
+  - {name: John Chase, user: chase_john}
+  - {name: Varda Faghir Hagh, user: faghirhagh_varda}
+  - {name: Adam James Orr, user: orr_adam}
+  - {name: Allen Lee, user: lee_allen}
+  latitude: 33.434167
+  longitude: -112.008056
+  name: Phoenix, AZ
+- country: us
+  instructors:
   - {name: Joshua Adelman, user: adelman_joshua}
   - {name: Lisa Zilinski, user: zilinski_lisa}
   latitude: 40.491389
   longitude: -80.232778
   name: Pittsburgh, PA
+- country: nz
+  instructors:
+  - {name: Matt Wilkins, user: wilkins_matt}
+  latitude: -40.323854
+  longitude: 175.621829
+  name: Palmerston North Airport
+- country: us
+  instructors:
+  - {name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
+  - {name: Kathe Todd-Brown, user: todd-brown_katherine}
+  - {name: Benjamin Stuermer, user: stuermer_benjamin}
+  - {name: Jeremy Daniel Zucker, user: zucker_jeremy}
+  latitude: 46.262015
+  longitude: -119.109585
+  name: Tri-Cities Airport
+- country: za
+  instructors:
+  - {name: Naudene Maree, user: maree_naudene}
+  latitude: -23.855227
+  longitude: 29.455323
+  name: Polokwane International Airport
 - country: us
   instructors:
   - {name: Jeff Hollister, user: hollister_jeff}
@@ -968,9 +1514,11 @@ airports:
   instructors:
   - {name: Darren Boss, user: boss_darren}
   - {name: Cliburn Chan, user: chan_cliburn}
+  - {name: Hilmar Lapp, user: lapp_hilmar}
   - {name: John Pearson, user: pearson_john}
   - {name: John Pormann, user: pormann_john}
   - {name: Alexander Whitlock, user: whitlock_a}
+  - {name: Tristan De Buysscher, user: de-buysscher_tristan}
   latitude: 35.8775
   longitude: -78.787222
   name: Raleigh Durham, NC
@@ -983,15 +1531,67 @@ airports:
   name: Richmond, VA
 - country: us
   instructors:
+  - {name: Daniel Chen, user: chen_daniel}
+  - {name: Daniel Smith, user: smith_daniel}
+  - {name: Jonathan Bradley, user: bradley_jonathan}
+  latitude: 37.3255005
+  longitude: -79.9754028
+  name: Roanoke Blacksburg, VA
+- country: us
+  instructors:
+  - {name: Tara Marie Webster, user: webster_tara}
+  latitude: 43.122523
+  longitude: -77.666572
+  name: Greater Rochester International Airport
+- country: au
+  instructors:
+  - {name: Jason Bell, user: bell_jason}
+  - {name: Amanda Rebar, user: rebar_amanda}
+  latitude: -23.392273
+  longitude: 150.468179
+  name: Rockhampton Airport
+- country: sa
+  instructors:
+  - {name: David Pugh, user: pugh_david}
+  latitude: 24.9575996
+  longitude: 46.6987991
+  name: King Khaled International
+- country: us
+  instructors:
+  - {name: Louis Vernon, user: vernon_louis}
+  latitude: 35.6170998
+  longitude: -106.0889969
+  name: Santa Fe Municipal Airport
+- country: us
+  instructors:
   - {name: Guilherme Castelão, user: castelao_guilherme}
   - {name: Chris Lasher, user: lasher_c}
   - {name: Tessa Pierce, user: pierce_tessa}
-  - {name: Juliane Schneider, user: schneider_juliane}
   - {name: Andrea Zonca, user: zonca_andrea}
   - {name: Reid Otsuji, user: otsuji_reid}
   latitude: 32.733333
   longitude: -117.189444
   name: San Diego International Airport
+- country: us
+  instructors:
+  - {name: Devasena Inupakutika, user: inupakutika_devasena}
+  latitude: 29.533958
+  longitude: -98.4690571
+  name: San Antonio International Airport
+- country: us
+  instructors:
+  - {name: Julie Stewart Lowndes, user: lowndes_julia}
+  - {name: Ben Best, user: best_ben}
+  latitude: 34.429689
+  longitude: -119.837459
+  name: Santa Barbara Municipal Airport
+- country: us
+  instructors:
+  - {name: Becca Love, user: love_rebecca}
+  - {name: Prateek Mehta, user: mehta_prateek}
+  latitude: 41.7085
+  longitude: -86.315833
+  name: South Bend International Airport
 - country: us
   instructors:
   - {name: Jonathan Frederic, user: frederic_jonathan}
@@ -1004,6 +1604,12 @@ airports:
   latitude: 40.855881
   longitude: -77.843841
   name: State College, PA
+- country: cl
+  instructors:
+  - {name: Juan Ugalde, user: ugalde_juan}
+  latitude: -33.393484
+  longitude: -70.790926
+  name: Comodoro Arturo Merino Benítez International Airport
 - country: us
   instructors:
   - {name: Jeremiah Lant, user: lant_jeremiah}
@@ -1014,6 +1620,7 @@ airports:
   instructors:
   - {name: Russell Alleen-Willems, user: alleen-willems_russell}
   - {name: Rebecca Blakewood, user: blakewood_becca}
+  - {name: Billy Charlton, user: charlton_william}
   - {name: Sophie Clayton, user: clayton_sophie}
   - {name: Jordan Fish, user: fish_jordan}
   - {name: Abraham Flaxman, user: flaxman_abraham}
@@ -1037,6 +1644,9 @@ airports:
   - {name: Jes Ford, user: ford_jes}
   - {name: Meredith Rawls, user: rawls_meredith}
   - {name: Jeffrey Arnold, user: arnold_jeffrey}
+  - {name: Kivan Polimis, user: polimis_kivan}
+  - {name: Bree Norlander, user: norlander_bree}
+  - {name: Alicia Clark, user: clark_alicia}
   - {name: Eleanor Lutz, user: lutz_eleanor}
   latitude: 47.448889
   longitude: -122.309167
@@ -1050,6 +1660,7 @@ airports:
   - {name: Ted Hart, user: hart_t}
   - {name: Fatma Imamoglu, user: imamoglu_fatma}
   - {name: Justin Kitzes, user: kitzes_j}
+  - {name: Bernhard Konrad, user: konrad_b}
   - {name: Chris Lonnen, user: lonnen_chris}
   - {name: Jessica McKellar, user: mckellar_j}
   - {name: Ben Morris, user: morris_b}
@@ -1063,12 +1674,15 @@ airports:
   - {name: Qingpeng Zhang, user: zhang_qp}
   - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {name: Megan Laurance, user: laurance_megan}
+  - {name: Nina Therkildsen, user: therkildsen_nina}
   - {name: Stuart Geiger, user: geiger_stuart}
-  - {name: Lachlan Deer, user: deer_lachlan}
   - {name: Geoffrey Boushey, user: boushey_geoffrey}
+  - {name: John Borghi, user: borghi_john}
+  - {name: Jieming Chen, user: chen_jieming}
   - {name: Miriam B Goodman, user: goodman_miriam}
   - {name: Todd Gamblin, user: gamblin_todd}
   - {name: Claudia Engel, user: engel_claudia}
+  - {name: Javier de la Rosa, user: de-la-rosa_javier}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -1081,11 +1695,27 @@ airports:
 - country: us
   instructors:
   - {name: Steve Haddock, user: haddock_s}
-  - {name: Amy E. Hodge, user: hodge_amy}
+  - {name: Amy Hodge, user: hodge_amy}
   - {name: Emily Jane McTavish, user: mctavish_ej}
+  - {name: Chris DeBoever, user: deboever_christopher}
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
+- country: us
+  instructors:
+  - {name: Catherine Hulshof, user: hulshof_catherine}
+  latitude: 18.4393997
+  longitude: -66.0018005
+  name: Luis Munoz Marin International Airport
+- country: gr
+  instructors:
+  - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
+  - {name: Athanassios Kintsakis, user: kintsakis_athanassios}
+  - {name: Antonia Gogoglou, user: gogoglou_antonia}
+  latitude: 40.518775
+  longitude: 22.971483
+  name: Thessaloniki Airport
 - country: us
   instructors:
   - {name: Michael Levy, user: levy_michael}
@@ -1094,8 +1724,10 @@ airports:
   - {name: Gus Hart, user: hart_gus}
   - {name: Andrew Nguyen, user: nguyen_andrew}
   - {name: Conrad Rosenbrock, user: rosenbrock_conrad}
+  - {name: Martin Cuma, user: cuma_martin}
   - {name: Anita Orendt, user: orendt_anita}
   - {name: Betty Rozum, user: rozum_betty}
+  - {name: Will Pearse, user: pearse_will}
   latitude: 40.788333
   longitude: -111.9775
   name: Salt Lake City, UT
@@ -1109,6 +1741,7 @@ airports:
   - {name: Camille Scott, user: scott_camille}
   - {name: Daniel Standage, user: standage_daniel}
   - {name: Tracy Teal, user: teal_t}
+  - {name: Melissa Whitaker, user: whitaker_melissa}
   - {name: Easton White, user: white_easton}
   - {name: Jessica Elizabeth Mizzi, user: mizzi_jessica}
   - {name: Myfanwy Johnston, user: johnston_myfanwy}
@@ -1117,9 +1750,26 @@ airports:
   - {name: Ryan Peek, user: peek_ryan}
   - {name: Karen Word, user: word_karen}
   - {name: Mark C Miller, user: miller_mark}
+  - {name: Chris Hamm, user: hamm_chris}
+  - {name: Taylor Reiter, user: reiter_taylor}
+  - {name: Jeffrey Thomas Miller, user: miller_jeffrey}
+  - {name: Elizabeth Williams, user: williams_elizabeth}
   latitude: 38.695278
   longitude: -121.590556
   name: Sacramento, CA
+- country: us
+  instructors:
+  - {name: Danielle Kane, user: kane_danielle}
+  - {name: Joshua Steele, user: steele_joshua}
+  latitude: 33.675556
+  longitude: -117.868056
+  name: John Wayne (Orange County), CA
+- country: ie
+  instructors:
+  - {name: Holly Dawn Murray, user: murray_holly}
+  latitude: 52.7019997
+  longitude: -8.9248199
+  name: Shannon Airport
 - country: gb
   instructors:
   - {name: Stephen Crouch, user: crouch_s}
@@ -1129,9 +1779,16 @@ airports:
   - {name: Olivier Philippe, user: philippe_olivier}
   - {name: Don Cruickshank, user: cruickshank_don}
   - {name: Priyanka Singh, user: singh_priyanka}
+  - {name: Alistair Bailey, user: bailey_alistair}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
+- country: br
+  instructors:
+  - {name: Filipe Fernandes, user: fernandes_filipe}
+  latitude: -12.910833
+  longitude: -38.330833
+  name: Salvador de Bahia
 - country: us
   instructors:
   - {name: Molly Gibson, user: gibson_molly}
@@ -1146,16 +1803,30 @@ airports:
   instructors:
   - {name: Lisa Breckels, user: breckels_lisa}
   - {name: John Constable, user: constable_john}
+  - {name: Rob Davey, user: davey_rob}
   - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
-  - {name: Tim Tröndle, user: troendle_tim}
+  - {name: Ross Mounce, user: mounce_ross}
+  - {name: Krzysztof Strug, user: strug_krzysztof}
   - {name: Hugo Tavares, user: tavares_hugo}
   - {name: Mark Wheelhouse, user: wheelhouse_mark}
   - {name: Marco Chiapello, user: chiapello_marco}
   latitude: 51.885
   longitude: 0.235
   name: Stansted
+- country: us
+  instructors:
+  - {name: Dave Lampert, user: lampert_dave}
+  latitude: 36.1666667
+  longitude: -97.0833333
+  name: Searcy Fld Airport
+- country: de
+  instructors:
+  - {name: Moritz Neeb, user: neeb_moritz}
+  latitude: 52.3800011
+  longitude: 13.5225
+  name: Berlin-Schönefeld
 - country: au
   instructors:
   - {name: Will Cornwell, user: cornwell_will}
@@ -1199,18 +1870,66 @@ airports:
   latitude: 43.111111
   longitude: -76.106111
   name: Syracuse, NY
+- country: us
+  instructors:
+  - {name: Deborah Paul, user: paul_deborah}
+  latitude: 30.39537
+  longitude: -84.34527
+  name: Tallahassee International Airport
+- country: ee
+  instructors:
+  - {name: Dmytro Fishman, user: fishman_dmytro}
+  - {name: Elena Sügis, user: sugis_elena}
+  latitude: 59.416582
+  longitude: 24.80074
+  name: Tallinn Airport
+- country: fr
+  instructors:
+  - {name: Andrew MacDonald, user: macdonald_andrew}
+  latitude: 43.6291008
+  longitude: 1.36382
+  name: Toulouse-Blagnac Airport
 - country: il
   instructors:
   - {name: Aur Saraf, user: saraf_aur}
   latitude: 32.009444
   longitude: 34.876667
   name: Tel Aviv
+- country: fr
+  instructors:
+  - {name: Jan Antolik, user: antolik_jan}
+  latitude: 48.7518997
+  longitude: 2.10619
+  name: Toussus-le-Noble Airport
+- country: 'no'
+  instructors:
+  - {name: Radovan Bast, user: bast_radovan}
+  latitude: 69.681079
+  longitude: 18.916328
+  name: Tromsø Airport
+- country: tw
+  instructors:
+  - {name: Frank Willmore, user: willmore_frank}
+  latitude: 25.076273
+  longitude: 121.232008
+  name: Taoyuan International Airport
 - country: it
   instructors:
   - {name: Stefano Cozzini, user: cozzini_s}
   latitude: 45.827778
   longitude: 13.466389
   name: Trieste
+- country: au
+  instructors:
+  - {name: Daniel Baird, user: baird_daniel}
+  - {name: David Beitey, user: beitey_david}
+  - {name: Steve Vandervalk, user: vandervalk_steven}
+  - {name: Ira Cooke, user: cooke_ira}
+  - {name: Jay van Schyndel, user: van-schyndel_jay}
+  - {name: Collin Storlie, user: storlie_collin}
+  latitude: -19.248454
+  longitude: 146.766907
+  name: Townsville Airport
 - country: us
   instructors:
   - {name: Blake Joyce, user: joyce_blake}
@@ -1226,18 +1945,74 @@ airports:
   latitude: 32.116111
   longitude: -110.941389
   name: Tucson, AZ
+- country: de
+  instructors:
+  - {name: Martin Hammitzsch, user: hammitzsch_martin}
+  - {name: Sven Reissland, user: reissland_sven}
+  - {name: Peter Evans, user: evans_peter}
+  - {name: Stefan Lüdtke, user: ldtke_stefan}
+  - {name: Marvin Reich, user: reich_marvin}
+  latitude: 52.5597
+  longitude: 13.2876997
+  name: Berlin-Tegel International Airport
 - country: us
   instructors:
   - {name: Meg Staton, user: staton_margaret}
   latitude: 35.81
   longitude: -84.0
   name: Knoxville, TN
+- country: it
+  instructors:
+  - {name: Stefano Menegon, user: menegon_stefano}
+  latitude: 45.507219
+  longitude: 12.342512
+  name: Venice Marco Polo Airport
 - country: br
   instructors:
   - {name: Felipe Bocca, user: ferreira-bocca_felipe}
   latitude: -23.008056
   longitude: -47.134444
   name: Viracopos
+- country: na
+  instructors:
+  - {name: Jessica Upani, user: upani_jessica}
+  latitude: -22.480752
+  longitude: 17.476238
+  name: Hosea Kutako International Airport
+- country: nz
+  instructors:
+  - {name: Tim McNamara, user: mcnamara_tim}
+  - {name: Andre Geldenhuis, user: geldenhuis_andre}
+  - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {name: Silvia Canessa, user: canessa_silvia}
+  - {name: Ben Jolly, user: jolly_ben}
+  - {name: Craig Stanton, user: stanton_craig}
+  - {name: Leo Browning, user: browning_leo}
+  - {name: Michael Fincham, user: fincham_michael}
+  - {name: Jose Higino, user: higino_jose}
+  - {name: Fabrice Cantos, user: cantos_fabrice}
+  - {name: Alexander Pletzer, user: pletzer_alexander}
+  latitude: -41.328932
+  longitude: 174.808049
+  name: Wellington International Airport
+- country: pl
+  instructors:
+  - {name: Christian Calogero Barra, user: barra_christian}
+  latitude: 51.104055
+  longitude: 16.881597
+  name: Wrocław Nicolaus Copernicus Airport
+- country: us
+  instructors:
+  - {name: Auriel Fournier, user: fournier_auriel}
+  latitude: 36.2818985
+  longitude: -94.3068008
+  name: Fayetteville Springdale, AR
+- country: ca
+  instructors:
+  - {name: James Hiebert, user: hiebert_james}
+  latitude: 49.296744
+  longitude: -117.636366
+  name: West Kootenay Regional Airport
 - country: ca
   instructors:
   - {name: Cam Macdonell, user: macdonell_cam}
@@ -1249,6 +2024,26 @@ airports:
   latitude: 53.309722
   longitude: -113.579722
   name: Edmonton
+- country: ca
+  instructors:
+  - {name: Joey Bernard, user: bernard_joey}
+  latitude: 45.871104
+  longitude: -66.527212
+  name: Fredericton International Airport
+- country: ca
+  instructors:
+  - {name: Jeff Stafford, user: stafford_jeff}
+  - {name: Hartmut Schmider, user: schmider_hartmut}
+  - {name: Gang Liu, user: liu_gang}
+  latitude: 44.226524
+  longitude: -76.595936
+  name: Kingston Airport
+- country: ca
+  instructors:
+  - {name: Sergey Mashchenko, user: mashchenko_sergey}
+  latitude: 43.166685
+  longitude: -79.933572
+  name: John C. Munro Hamilton International Airport
 - country: ca
   instructors:
   - {name: Remi M Daigle, user: daigle_remi}
@@ -1280,10 +2075,23 @@ airports:
   name: Quebec City
 - country: ca
   instructors:
+  - {name: Ruth Collings, user: collings_ruth}
+  latitude: 46.1122017
+  longitude: -64.6785965
+  name: Moncton
+- country: ca
+  instructors:
   - {name: Lindsay Brin, user: brin_lindsay}
   latitude: 45.329142
   longitude: -65.890355
   name: Saint John
+- country: ca
+  instructors:
+  - {name: Catalina Anghel, user: anghel_catalina}
+  - {name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
+  latitude: 43.6274986
+  longitude: -79.3962021
+  name: Billy Bishop Toronto
 - country: ca
   instructors:
   - {name: Marianne Corvellec, user: corvellec_marianne}
@@ -1299,6 +2107,7 @@ airports:
   - {name: Jean-François St-Pierre, user: st-pierre_jean-francois}
   - {name: Daniel Stubbs, user: stubbs_daniel}
   - {name: Nikolai Sergueev, user: sergueev_nikolai}
+  - {name: Simon Nderitu, user: nderitu_simon}
   - {name: Eric Giguère, user: gigure_eric}
   - {name: Patricia Campbell, user: campbell_patricia}
   latitude: 45.468056
@@ -1312,7 +2121,6 @@ airports:
   - {name: Bruno Grande, user: grande_bruno}
   - {name: Daisie Huang, user: huang_daisie}
   - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
-  - {name: Bernhard Konrad, user: konrad_b}
   - {name: Doug Latornell, user: latornell_d}
   - {name: Catrina Loucks, user: loucks_catrina}
   - {name: Bill Mills, user: mills_b}
@@ -1333,10 +2141,18 @@ airports:
   - {name: Jie Liu, user: liu_jie}
   - {name: Johannes Rebane, user: rebane_johannes}
   - {name: Patrick Walls, user: walls_patrick}
+  - {name: Megan Meredith-Lobay, user: meredith-lobay_megan}
   - {name: Jamie Rosner, user: rosner_jamie}
+  - {name: May Chan, user: chan_may}
   latitude: 49.195
   longitude: -123.181944
   name: Vancouver
+- country: ca
+  instructors:
+  - {name: Juan Carlos Zuniga, user: zuniga_juan-carlos}
+  latitude: 52.169496
+  longitude: -106.698101
+  name: Saskatoon International Airport
 - country: ca
   instructors:
   - {name: Pauline Barmby, user: barmby_pauline}
@@ -1348,6 +2164,13 @@ airports:
   name: London, Ontario
 - country: ca
   instructors:
+  - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe_isabelle}
+  - {name: Dmitri Rozmanov, user: rozmanov_dmitri}
+  latitude: 51.128778
+  longitude: -114.012405
+  name: Calgary International Airport
+- country: ca
+  instructors:
   - {name: Jorge Aranda, user: aranda_j}
   - {name: James Robinson, user: robinson_james}
   - {name: Andy Teucher, user: teucher_andrew}
@@ -1356,11 +2179,20 @@ airports:
   name: Victoria
 - country: ca
   instructors:
+  - {name: Danielle Quinn, user: quinn_danielle}
+  - {name: Oliver Stueker, user: stueker_oliver}
+  latitude: 47.6211888
+  longitude: -52.8124826
+  name: St. John's International Airport
+- country: ca
+  instructors:
   - {name: Sean Aubin, user: aubin_sean}
+  - {name: Kathryn Barrett, user: barrett_kathryn}
   - {name: Amy Brown, user: brown_amy}
   - {name: Stephen Edward Childs, user: childs_stephen}
   - {name: Kathy Chung, user: chung_kathy}
   - {name: Arliss Collins, user: collins_arliss}
+  - {name: Erin Dickie, user: dickie_e}
   - {name: Martin Durant, user: durant_martin}
   - {name: Jonathan Dursi, user: dursi_j}
   - {name: Xu Fei, user: fei_xu}
@@ -1368,6 +2200,7 @@ airports:
   - {name: Heather Gibling, user: gibling_heather}
   - {name: Jeremy Gray, user: gray_jeremy}
   - {name: Thomas Guignard, user: guignard_thomas}
+  - {name: Derek Howard, user: howard_derek}
   - {name: Luke William Johnston, user: johnston_luke}
   - {name: Ryan Neufeld, user: neufeld_ryan}
   - {name: Brenna O'Brien, user: obrien_brenna}
@@ -1387,6 +2220,7 @@ airports:
   - {name: Sarah Meister, user: meister_sarah}
   - {name: Elliott Sales de Andrade, user: sales_elliott}
   - {name: Ricardo Harripaul, user: harripaul_ricardo}
+  - {name: Jan Gosmann, user: gosmann_jan}
   - {name: Ivana Kajić, user: kajic_ivana}
   - {name: Jasmine Ren, user: jasmine_ren}
   - {name: Allan Campopiano, user: acampopiano}
@@ -1397,6 +2231,7 @@ airports:
   - {name: Bobin Cherian, user: cherian_bobin}
   - {name: Rui Geng, user: geng_rui}
   - {name: Emmanuel Santos, user: santos_emmanuel}
+  - {name: Armin Sobhani, user: sobhani_armin}
   - {name: Isaac Ye, user: ye_isaac}
   - {name: Jeff Wintersinger, user: wintersinger_jeff}
   - {name: Yohan Yee, user: yee_yohan}
@@ -1423,218 +2258,6 @@ airports:
   latitude: 36.516667
   longitude: 103.621667
   name: Zhongchuan
-- country: us
-  instructors:
-  - {name: Reed Cartwright, user: cartwright_reed}
-  - {name: David Dotson, user: dotson_david}
-  - {name: Tania Hernandez, user: hernandez_tania}
-  - {name: Ryan Middleton, user: middleton_ryan}
-  - {name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
-  - {name: Stevan Earl, user: earl_stevan}
-  - {name: Arron Shiffer, user: shiffer_arron}
-  - {name: John Chase, user: chase_john}
-  - {name: Varda Faghir Hagh, user: faghirhagh_varda}
-  - {name: Adam James Orr, user: orr_adam}
-  - {name: Allen Lee, user: lee_allen}
-  latitude: 33.434167
-  longitude: -112.008056
-  name: Phoenix, AZ
-- country: nz
-  instructors:
-  - {name: Mik Black, user: black_mik}
-  - {name: James Boocock, user: boocock_james}
-  - {name: Jonah Duckles, user: duckles_jonah}
-  - {name: Tom Kelly, user: kelly_tom}
-  - {name: Murray Cadzow, user: cadzow_murray}
-  - {name: David Eyers, user: eyers_david}
-  - {name: Tanya Flynn, user: flynn_tanya}
-  - {name: Kim Rutherford, user: rutherford_kim}
-  - {name: Nick Burns, user: burns_nick}
-  - {name: Albert Savary, user: savary_albert}
-  - {name: Matt Healey, user: healey_matt}
-  - {name: Matt Bixley, user: bixley_matt}
-  latitude: -45.928056
-  longitude: 170.198333
-  name: Dunedin
-- country: au
-  instructors:
-  - {name: Jack Simpson, user: simpson_jack}
-  - {name: Luc Small, user: small_luc}
-  latitude: -35.308333
-  longitude: 149.193889
-  name: Canberra
-- country: br
-  instructors:
-  - {name: Filipe Fernandes, user: fernandes_filipe}
-  latitude: -12.910833
-  longitude: -38.330833
-  name: Salvador de Bahia
-- country: us
-  instructors:
-  - {name: Emelie Harstad, user: harstad_emelie}
-  - {name: Joshua Herr, user: herr_joshua}
-  - {name: Natasha Pavlovikj, user: pavlovikj_natasha}
-  - {name: Bill McClung, user: mcclung_bill}
-  latitude: 40.850833
-  longitude: -96.759167
-  name: Lincoln, NE
-- country: us
-  instructors:
-  - {name: Mahdi Belcaid, user: belcaid_mahdi}
-  - {name: Sean Cleveland, user: cleveland_sean}
-  latitude: 21.315833
-  longitude: -157.926667
-  name: Honolulu, HI
-- country: us
-  instructors:
-  - {name: Jon Holtzman, user: holtzman_jon}
-  latitude: 31.807222
-  longitude: -106.3775
-  name: El Paso International Airport
-- country: es
-  instructors:
-  - {name: Francisco J. Navarro-Brull, user: navarro_francisco}
-  latitude: 38.2821999
-  longitude: -0.558156
-  name: Alicante
-- country: us
-  instructors:
-  - {name: Pat Schloss, user: schloss_pat}
-  latitude: 42.2229996
-  longitude: -83.7455978
-  name: Ann Arbor, MI
-- country: us
-  instructors:
-  - {name: Sue McClatchy, user: mcclatchy_susan}
-  - {name: Narayanan Raghupathy, user: raghupathy_narayanan}
-  - {name: Xiao Xiao, user: xiao_xiao}
-  latitude: 44.8073997
-  longitude: -68.8281021
-  name: Bangor, ME
-- country: us
-  instructors:
-  - {name: Robert Flight, user: flight_r}
-  - {name: Sarah Supp, user: supp_s}
-  latitude: 39.0488014
-  longitude: -84.6678009
-  name: Cincinnati, KY
-- country: us
-  instructors:
-  - {name: Catherine Devlin, user: devlin_catherine}
-  latitude: 39.902401
-  longitude: -84.2193985
-  name: James M. Cox Dayton, OH
-- country: us
-  instructors:
-  - {name: Erica Christensen, user: christensen_erica}
-  - {name: Matthew Collins, user: collins_matthew}
-  - {name: François Michonneau, user: michonneau_francois}
-  - {name: Kristina Riemer, user: riemer_kristina}
-  - {name: Ethan White, user: white_e}
-  - {name: Elise Morrison, user: morrison_elise}
-  - {name: Brian Stucky, user: stucky_brian}
-  - {name: Allison Jai O'Dell, user: odell_allison-jai}
-  - {name: Henry Senyondo, user: senyondo_henry}
-  latitude: 29.69
-  longitude: -82.271667
-  name: Gainesville, FL
-- country: us
-  instructors:
-  - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
-  - {name: Patricia Carbajales-Dale, user: carbajales_patricia}
-  - {name: Linh B Ngo, user: ngo_linh}
-  latitude: 34.8956985
-  longitude: -82.2189026
-  name: Greenville Spartanburg, SC
-- country: us
-  instructors:
-  - {name: Daniel Chen, user: chen_daniel}
-  - {name: Daniel Smith, user: smith_daniel}
-  latitude: 37.3255005
-  longitude: -79.9754028
-  name: Roanoke Blacksburg, VA
-- country: us
-  instructors:
-  - {name: Auriel Fournier, user: fournier_auriel}
-  latitude: 36.2818985
-  longitude: -94.3068008
-  name: Fayetteville Springdale, AR
-- country: ca
-  instructors:
-  - {name: Ruth Collings, user: collings_ruth}
-  latitude: 46.1122017
-  longitude: -64.6785965
-  name: Moncton
-- country: ca
-  instructors:
-  - {name: Catalina Anghel, user: anghel_catalina}
-  - {name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
-  latitude: 43.6274986
-  longitude: -79.3962021
-  name: Billy Bishop Toronto
-- country: ve
-  instructors:
-  - {name: Francisco Palm, user: palm_francisco}
-  latitude: 8.585952
-  longitude: -71.161213
-  name: A Carnevalli Airport
-- country: ca
-  instructors:
-  - {name: Jeff Stafford, user: stafford_jeff}
-  - {name: Hartmut Schmider, user: schmider_hartmut}
-  - {name: Gang Liu, user: liu_gang}
-  latitude: 44.226524
-  longitude: -76.595936
-  name: Kingston Airport
-- country: ca
-  instructors:
-  - {name: James Desjardins, user: desjardins_james}
-  latitude: 43.165464
-  longitude: -79.935375
-  name: Hamilton International Airport
-- country: ro
-  instructors:
-  - {name: Michael Crusoe, user: crusoe_michael}
-  latitude: 46.783742
-  longitude: 23.691562
-  name: Cluj International Airport
-- country: us
-  instructors:
-  - {name: Anthony Scopatz, user: scopatz_a}
-  latitude: 35.213754
-  longitude: -80.948194
-  name: Charlotte Douglas International Airport
-- country: nl
-  instructors:
-  - {name: Mateusz Kuzak, user: kuzak_mateusz}
-  - {name: Philip Lijnzaad, user: lijnzaad_philip}
-  - {name: Joona Lehtomäki, user: lehtomaki_joona}
-  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
-  - {name: Edwin van der Helm, user: van-der-helm_edwin}
-  - {name: Anita Schürch, user: schurch_anita}
-  latitude: 52.309686
-  longitude: 4.767438
-  name: 'Amsterdam Airport Schiphol '
-- country: 'no'
-  instructors:
-  - {name: Radovan Bast, user: bast_radovan}
-  latitude: 69.681079
-  longitude: 18.916328
-  name: Tromsø Airport
-- country: za
-  instructors:
-  - {name: Maryke Schoonen, user: schoonen_maryke}
-  - {name: Anelda van der Walt, user: van-der-walt_anelda}
-  - {name: Albertus Seyffert, user: seyffert_albertus}
-  - {name: Bianca Peterson, user: peterson_bianca}
-  - {name: Hannes Calitz, user: calitz_hannes}
-  - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
-  - {name: Martin Dreyer, user: dreyer_martin}
-  - {name: Angelique van Rensburg, user: van-rensburg_angelique}
-  - {name: Jacqueline Muller, user: muller_jacqueline}
-  latitude: -26.138773
-  longitude: 28.241339
-  name: O. R. Tambo International Airport
 - country: ch
   instructors:
   - {name: Helen Lindsay, user: lindsay_helen}
@@ -1642,389 +2265,15 @@ airports:
   - {name: Stefan Pfenninger, user: pfenninger_s}
   - {name: Mark Robinson, user: robinson_mark}
   - {name: Florian Thöle, user: thoele_florian}
+  - {name: Tim Tröndle, user: troendle_tim}
   - {name: Stefan Wyder, user: wyder_stefan}
   - {name: Lukas Weber, user: weber_lukas}
   - {name: Matthias Haeni, user: haeni_matthias}
+  - {name: Lachlan Deer, user: deer_lachlan}
+  - {name: Stefan Helfrich, user: helfrich_stefan}
   latitude: 47.457767
   longitude: 8.560132
   name: Zurich Airport
-- country: se
-  instructors:
-  - {name: Olav Vahtras, user: vahtras_olav}
-  latitude: 58.406971
-  longitude: 15.667521
-  name: Linköping City Airport
-- country: ca
-  instructors:
-  - {name: Sergey Mashchenko, user: mashchenko_sergey}
-  latitude: 43.166685
-  longitude: -79.933572
-  name: John C. Munro Hamilton International Airport
-- country: br
-  instructors:
-  - {name: Fernando Mayer, user: mayer_fernando}
-  - {name: Abel Siqueira, user: soares-siqueira_abel}
-  - {name: Kally Chung, user: chung_kally}
-  latitude: -25.532589
-  longitude: -49.17487
-  name: Afonso Pena International Airport
-- country: us
-  instructors:
-  - {name: Deborah Paul, user: paul_deborah}
-  latitude: 30.39537
-  longitude: -84.34527
-  name: Tallahassee International Airport
-- country: au
-  instructors:
-  - {name: Damien Irving, user: irving_d}
-  - {name: Tom Remenyi, user: remenyi_tom}
-  latitude: -42.834715
-  longitude: 147.499117
-  name: Hobart International Airport
-- country: gr
-  instructors:
-  - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
-  - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
-  - {name: Athanassios Kintsakis, user: kintsakis_athanassios}
-  - {name: Antonia Gogoglou, user: gogoglou_antonia}
-  latitude: 40.518775
-  longitude: 22.971483
-  name: Thessaloniki Airport
-- country: mx
-  instructors:
-  - {name: Selene L. Fernandez-Valverde, user: fernandez-valverde_selene}
-  latitude: 20.990772
-  longitude: -101.479347
-  name: Del Bajío International Airport
-- country: cl
-  instructors:
-  - {name: Juan Ugalde, user: ugalde_juan}
-  latitude: -33.393484
-  longitude: -70.790926
-  name: Comodoro Arturo Merino Benítez International Airport
-- country: us
-  instructors:
-  - {name: Jingchao Zhang, user: zhang_jingchao}
-  latitude: 41.300139
-  longitude: -95.897406
-  name: Eppley Airfield
-- country: ee
-  instructors:
-  - {name: Dmytro Fishman, user: fishman_dmytro}
-  - {name: Elena Sügis, user: sugis_elena}
-  latitude: 59.416582
-  longitude: 24.80074
-  name: Tallinn Airport
-- country: it
-  instructors:
-  - {name: Vincenza Colonna, user: colonna_vincenza}
-  latitude: 40.882264
-  longitude: 14.285442
-  name: Naples International Airport
-- country: ch
-  instructors:
-  - {name: Julia Anne Gustavsen, user: gustavsen_j}
-  - {name: Diana Marek, user: marek_diana}
-  - {name: Walid Gharib, user: gharib_walid}
-  - {name: Raphaël Grolimund, user: grolimund_raphal}
-  latitude: 46.236757
-  longitude: 6.109113
-  name: Genève Aéroport
-- country: sa
-  instructors:
-  - {name: David Ketcheson, user: ketcheson_david}
-  latitude: 21.665527
-  longitude: 39.158732
-  name: King Abdulaziz International Airport
-- country: nz
-  instructors:
-  - {name: Matt Wilkins, user: wilkins_matt}
-  latitude: -40.323854
-  longitude: 175.621829
-  name: Palmerston North Airport
-- country: nz
-  instructors:
-  - {name: Andre Geldenhuis, user: geldenhuis_andre}
-  - {name: Wolfgang Hayek, user: hayek_wolfgang}
-  - {name: Silvia Canessa, user: canessa_silvia}
-  - {name: Ben Jolly, user: jolly_ben}
-  - {name: Craig Stanton, user: stanton_craig}
-  - {name: Leo Browning, user: browning_leo}
-  - {name: Michael Fincham, user: fincham_michael}
-  - {name: Jose Higino, user: higino_jose}
-  - {name: Fabrice Cantos, user: cantos_fabrice}
-  - {name: Alexander Pletzer, user: pletzer_alexander}
-  latitude: -41.328932
-  longitude: 174.808049
-  name: Wellington International Airport
-- country: au
-  instructors:
-  - {name: David Beitey, user: beitey_david}
-  - {name: Steve Vandervalk, user: vandervalk_steven}
-  - {name: Jay van Schyndel, user: van-schyndel_jay}
-  - {name: Collin Storlie, user: storlie_collin}
-  latitude: -19.248454
-  longitude: 146.766907
-  name: Townsville Airport
-- country: it
-  instructors:
-  - {name: Giuseppe Profiti, user: profiti_giuseppe}
-  latitude: 44.536189
-  longitude: 11.289168
-  name: Bologna Guglielmo Marconi Airport
-- country: be
-  instructors:
-  - {name: Tina O'Grady, user: ogrady_tina}
-  - {name: Christof De Bo, user: debo_christof}
-  latitude: 50.902447
-  longitude: 4.487055
-  name: Brussels Airport
-- country: es
-  instructors:
-  - {name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
-  - {name: Oier Echaniz Beneitez, user: etxaniz_oier}
-  latitude: 43.300854
-  longitude: -2.907575
-  name: Bilbao Airport
-- country: us
-  instructors:
-  - {name: Alejandro Mantero, user: mantero_alejandro}
-  - {name: Timothy Norris, user: norris_timothy}
-  - {name: Zack Brym, user: brym_zachary}
-  latitude: 25.793914
-  longitude: -80.283806
-  name: Miami International Airport
-- country: au
-  instructors:
-  - {name: Jason Bell, user: bell_jason}
-  - {name: Amanda Rebar, user: rebar_amanda}
-  latitude: -23.392273
-  longitude: 150.468179
-  name: Rockhampton Airport
-- country: hk
-  instructors:
-  - {name: Peter Li, user: li_peter}
-  latitude: 22.306975
-  longitude: 113.913803
-  name: Hong Kong International Airport
-- country: de
-  instructors:
-  - {name: Moritz Neeb, user: neeb_moritz}
-  latitude: 52.3800011
-  longitude: 13.5225
-  name: Berlin-Schönefeld
-- country: nz
-  instructors:
-  - {name: Georgina Rae, user: rae_georgina}
-  latitude: -37.007305
-  longitude: 174.783727
-  name: Auckland Airport
-- country: si
-  instructors:
-  - {name: Ziva Ramsak, user: ramsak_ziva}
-  - {name: Peter Juvan, user: juvan_peter}
-  latitude: 46.225275
-  longitude: 14.454863
-  name: Ljubljana Jože Pučnik Airport
-- country: tw
-  instructors:
-  - {name: Frank Willmore, user: willmore_frank}
-  latitude: 25.076273
-  longitude: 121.232008
-  name: Taoyuan International Airport
-- country: ch
-  instructors:
-  - {name: Bérénice Batut, user: batut_berenice}
-  - {name: Geoffrey Fucile, user: fucile_geoffrey}
-  latitude: 47.595156
-  longitude: 7.530066
-  name: EuroAirport Basel-Mulhouse-Freiburg
-- country: us
-  instructors:
-  - {name: Julie Lowndes, user: lowndes_julia}
-  latitude: 34.429689
-  longitude: -119.837459
-  name: Santa Barbara Municipal Airport
-- country: gb
-  instructors:
-  - {name: Andrew Warry, user: warry_andrew}
-  latitude: 52.828194
-  longitude: -1.334258
-  name: East Midlands Airport
-- country: es
-  instructors:
-  - {name: Joaquín Morís, user: moris_joaquin}
-  latitude: 43.56339
-  longitude: -6.032085
-  name: Asturias Airport
-- country: it
-  instructors:
-  - {name: Stefano Menegon, user: menegon_stefano}
-  latitude: 45.507219
-  longitude: 12.342512
-  name: Venice Marco Polo Airport
-- country: us
-  instructors:
-  - {name: Becca Love, user: love_rebecca}
-  - {name: Prateek Mehta, user: mehta_prateek}
-  latitude: 41.7085
-  longitude: -86.315833
-  name: South Bend International Airport
-- country: za
-  instructors:
-  - {name: Naudene Maree, user: maree_naudene}
-  latitude: -23.855227
-  longitude: 29.455323
-  name: Polokwane International Airport
-- country: na
-  instructors:
-  - {name: Jessica Upani, user: upani_jessica}
-  latitude: -22.480752
-  longitude: 17.476238
-  name: Hosea Kutako International Airport
-- country: ca
-  instructors:
-  - {name: Danielle Quinn, user: quinn_danielle}
-  - {name: Oliver Stueker, user: stueker_oliver}
-  latitude: 47.6211888
-  longitude: -52.8124826
-  name: St. John's International Airport
-- country: it
-  instructors:
-  - {name: Allegra Via, user: via_allegra}
-  latitude: 41.7998868
-  longitude: 12.246238414
-  name: Leonardo da Vinci–Fiumicino Airport
-- country: ca
-  instructors:
-  - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe_isabelle}
-  - {name: Dmitri Rozmanov, user: rozmanov_dmitri}
-  latitude: 51.128778
-  longitude: -114.012405
-  name: Calgary International Airport
-- country: ca
-  instructors:
-  - {name: Joey Bernard, user: bernard_joey}
-  latitude: 45.871104
-  longitude: -66.527212
-  name: Fredericton International Airport
-- country: ca
-  instructors:
-  - {name: Juan Carlos Zuniga, user: zuniga_juan-carlos}
-  latitude: 52.169496
-  longitude: -106.698101
-  name: Saskatoon International Airport
-- country: nl
-  instructors:
-  - {name: Willem Ligtenberg, user: ligtenberg_willem}
-  latitude: 51.458075
-  longitude: 5.393764
-  name: Eindhoven Airport
-- country: pl
-  instructors:
-  - {name: Christian Calogero Barra, user: barra_christian}
-  latitude: 51.104055
-  longitude: 16.881597
-  name: Wrocław Nicolaus Copernicus Airport
-- country: us
-  instructors:
-  - {name: Patrick Clare Shriwise, user: shriwise_patrick}
-  latitude: 42.950161
-  longitude: -87.899629
-  name: General Mitchell International Airport
-- country: us
-  instructors:
-  - {name: Devasena Inupakutika, user: inupakutika_devasena}
-  latitude: 29.533958
-  longitude: -98.4690571
-  name: San Antonio International Airport
-- country: us
-  instructors:
-  - {name: Susan Duncan, user: duncan_susan}
-  latitude: 30.53236
-  longitude: -91.151461
-  name: Baton Rouge Metropolitan Airport
-- country: us
-  instructors:
-  - {name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
-  - {name: Kathe Todd-Brown, user: todd-brown_katherine}
-  - {name: Benjamin Stuermer, user: stuermer_benjamin}
-  - {name: Jeremy Daniel Zucker, user: zucker_jeremy}
-  latitude: 46.262015
-  longitude: -119.109585
-  name: Tri-Cities Airport
-- country: us
-  instructors:
-  - {name: Tara Marie Webster, user: webster_tara}
-  latitude: 43.122523
-  longitude: -77.666572
-  name: Greater Rochester International Airport
-- country: us
-  instructors:
-  - {name: Thomas Morrell, user: morrell_thomas}
-  latitude: 34.055978
-  longitude: -117.598057
-  name: Ontario International Airport
-- country: us
-  instructors:
-  - {name: Yuka Takemon, user: takemon_yuka}
-  latitude: 44.445041
-  longitude: -68.362081
-  name: Hancock County-Bar Harbor Airport
-- country: de
-  instructors:
-  - {name: Liz Ing-Simmons, user: ing-simmons_liz}
-  latitude: 51.5182991
-  longitude: 7.6122398
-  name: Dortmund Airport
-- country: za
-  instructors:
-  - {name: Fanie Riekert, user: riekert_fanie}
-  latitude: -29.0926991
-  longitude: 26.3024006
-  name: J B M Hertzog International Airport
-- country: us
-  instructors:
-  - {name: Eric Jankowski, user: jankowski_eric}
-  latitude: 43.5643997
-  longitude: -116.2229996
-  name: Boise Air Terminal/Gowen Field Airport
-- country: br
-  instructors:
-  - {name: Nicholas dos Anjos Cristiano Marino, user: marino_nicholas}
-  latitude: -22.8099995
-  longitude: -43.2505569
-  name: Galeão - Antônio Carlos Jobim International Airport
-- country: us
-  instructors:
-  - {name: Susie Meloro, user: meloro_susie}
-  latitude: 38.8181
-  longitude: -92.2195969
-  name: Columbia Regional Airport
-- country: us
-  instructors:
-  - {name: Dave Lampert, user: lampert_dave}
-  latitude: 36.1666667
-  longitude: -97.0833333
-  name: Searcy Fld Airport
-- country: us
-  instructors:
-  - {name: Brad Taber-Thomas, user: taber-thomas_bradley}
-  latitude: 42.9404984
-  longitude: -78.7322006
-  name: Buffalo Niagara International Airport
-- country: ca
-  instructors:
-  - {name: James Hiebert, user: hiebert_james}
-  latitude: 49.296744
-  longitude: -117.636366
-  name: West Kootenay Regional Airport
-- country: us
-  instructors:
-  - {name: Tommy Keswick, user: keswick_thomas}
-  latitude: 34.2006989
-  longitude: -118.3590012
-  name: Bob Hope Airport
 badges:
 - name: creator
   persons:
@@ -2113,7 +2362,7 @@ badges:
   - {awarded: '2014-12-23', name: Maciej Czuchry, user: czuchry_maciej}
   - {awarded: '2015-02-27', name: Harriet Dashnow, user: dashnow_harriet}
   - {awarded: '2013-11-25', name: Emily Davenport, user: davenport_e}
-  - {awarded: '2014-11-22', name: Robert Davey, user: davey_rob}
+  - {awarded: '2014-11-22', name: Rob Davey, user: davey_rob}
   - {awarded: '2012-12-20', name: Matt Davis, user: davis_m}
   - {awarded: '2013-11-17', name: Neal Davis, user: davis_neal}
   - {awarded: '2015-02-27', name: Raffaella Demichelis, user: demichelis_raffaella}
@@ -2185,7 +2434,7 @@ badges:
   - {awarded: '2014-12-23', name: Cody Hinchliff, user: hinchliff_cody}
   - {awarded: '2012-12-20', name: Konrad Hinsen, user: hinsen_k}
   - {awarded: '2014-05-04', name: Daniel Hocking, user: hocking_daniel}
-  - {awarded: '2015-03-12', name: Amy E. Hodge, user: hodge_amy}
+  - {awarded: '2015-03-12', name: Amy Hodge, user: hodge_amy}
   - {awarded: '2013-11-17', name: Chris Holdgraf, user: holdgraf_c}
   - {awarded: '2014-10-16', name: Jeff Hollister, user: hollister_jeff}
   - {awarded: '2015-03-05', name: Richard Hosking, user: hosking_richard}
@@ -2697,7 +2946,7 @@ badges:
   - {awarded: '2016-04-19', name: Stephanie Labou, user: labou_stephanie}
   - {awarded: '2016-04-19', name: Mark Wheelhouse, user: wheelhouse_mark}
   - {awarded: '2016-04-19', name: Kristina Riemer, user: riemer_kristina}
-  - {awarded: '2016-04-19', name: Julie Lowndes, user: lowndes_julia}
+  - {awarded: '2016-04-19', name: Julie Stewart Lowndes, user: lowndes_julia}
   - {awarded: '2016-04-19', name: Yuandra Ismiraldi, user: ismiraldi_yuandra}
   - {awarded: '2016-04-19', name: Murray Cadzow, user: cadzow_murray}
   - {awarded: '2016-04-19', name: Jim Stapleton, user: stapleton_jim}
@@ -2953,6 +3202,68 @@ badges:
   - {awarded: '2017-06-15', name: Javier de la Rosa, user: de-la-rosa_javier}
   - {awarded: '2017-06-15', name: Abhijit Dasgupta, user: dasgupta_abhijit}
   - {awarded: '2017-06-16', name: Owen Stephens, user: stephens_owen}
+  - {awarded: '2017-07-05', name: Jamene Brooks-Kieffer, user: brooks-kieffer_jamene}
+  - {awarded: '2017-07-05', name: Rebel Cummings-Sauls, user: cummings_rebel-cummings-sauls}
+  - {awarded: '2017-07-05', name: Maria Alejandra Arias, user: arias_maria-alejandra}
+  - {awarded: '2017-07-06', name: Daniel Buchan, user: buchan_daniel}
+  - {awarded: '2017-07-06', name: Arnstein Orten, user: orten_arnstein}
+  - {awarded: '2017-07-06', name: Jim Willenbring, user: willenbring_jim}
+  - {awarded: '2017-07-06', name: David Yakobovitch, user: yakobovitch_david}
+  - {awarded: '2017-07-14', name: Eleanor Lutz, user: lutz_eleanor}
+  - {awarded: '2017-07-14', name: Ilektra-Athanasia Christidi, user: christidi_ilektra-athanasia}
+  - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
+  - {awarded: '2017-07-14', name: Scott Peterson, user: peterson_scott}
+  - {awarded: '2017-07-14', name: Martin Hadley, user: hadley_martin}
+  - {awarded: '2017-07-14', name: Meghan Sinclair-Black, user: sinclair-black_meghan}
+  - {awarded: '2017-07-14', name: Rene Heim, user: heim_rene}
+  - {awarded: '2017-07-19', name: Yee Mey Seah, user: seah_yee-mey}
+  - {awarded: '2017-07-19', name: David Pugh, user: pugh_david}
+  - {awarded: '2017-07-19', name: Saymore Chifamba, user: chifamba_saymore}
+  - {awarded: '2017-07-19', name: Paul Rulis, user: rulis_paul}
+  - {awarded: '2017-07-19', name: Erin Alison Becker, user: becker_erin}
+  - {awarded: '2017-07-21', name: Danielle Kane, user: kane_danielle}
+  - {awarded: '2017-07-21', name: John Borghi, user: borghi_john}
+  - {awarded: '2017-07-21', name: Ina Geedicke, user: geedicke_ina}
+  - {awarded: '2017-07-21', name: Bree Norlander, user: norlander_bree}
+  - {awarded: '2017-07-21', name: Greg Watson, user: watson_greg}
+  - {awarded: '2017-07-31', name: Katherine Koziar, user: koziar_katherine}
+  - {awarded: '2017-07-31', name: Vince Polito, user: polito_vince}
+  - {awarded: '2017-08-07', name: David Jennings, user: jennings_david}
+  - {awarded: '2017-08-07', name: James Tocknell, user: tocknell_james}
+  - {awarded: '2017-08-07', name: Yoshimitsu Chikamoto, user: chikamoto_yoshimitsu}
+  - {awarded: '2017-08-07', name: Chreston Miller, user: miller_chreston}
+  - {awarded: '2017-08-08', name: Kensworth Subratie, user: subratie_kensworth}
+  - {awarded: '2017-08-08', name: Alicia Clark, user: clark_alicia}
+  - {awarded: '2017-08-08', name: Sarah Munro, user: munro_sarah}
+  - {awarded: '2017-08-08', name: Kirsty Pringle, user: pringle_kirsty}
+  - {awarded: '2017-08-09', name: Andrew B. Collier, user: collier_andrew}
+  - {awarded: '2017-08-17', name: James Lawson, user: lawson_james}
+  - {awarded: '2017-08-17', name: Kevin Dyke, user: dyke_kevin}
+  - {awarded: '2017-08-17', name: Greg Woodward, user: woodward_greg}
+  - {awarded: '2017-08-24', name: Brian Ballsun-Stanton, user: ballsun-stanton_brian}
+  - {awarded: '2017-08-24', name: Noah Geraci, user: geraci_noah}
+  - {awarded: '2017-08-24', name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
+  - {awarded: '2017-08-24', name: Arlin Stoltzfus, user: stoltzfus_arlin}
+  - {awarded: '2017-08-24', name: Ian van der Linde, user: van-der-linde_ian}
+  - {awarded: '2017-08-24', name: Chandler Becker, user: becker_chandler}
+  - {awarded: '2017-08-30', name: David Bernholdt, user: bernholdt_david}
+  - {awarded: '2017-08-31', name: Carol Rowe, user: rowe_carol}
+  - {awarded: '2017-08-31', name: Lyle Rhea, user: rhea_lyle}
+  - {awarded: '2017-09-07', name: Pey-Lian Lim, user: lim_p-y}
+  - {awarded: '2017-09-07', name: Pauline A. Fujita, user: fujita_pauline}
+  - {awarded: '2017-09-07', name: Miao Sun, user: sun_miao}
+  - {awarded: '2017-09-07', name: Sarah Null, user: null_sarah}
+  - {awarded: '2017-09-07', name: Pablo Hernandez-Cerdan, user: hernandez-cerdan_pablo}
+  - {awarded: '2017-09-07', name: Taylor Reiter, user: reiter_taylor}
+  - {awarded: '2017-09-08', name: Nelly Sélem, user: slem_nelly}
+  - {awarded: '2017-09-08', name: Matthew Bourque, user: bourque_matthew}
+  - {awarded: '2017-09-08', name: Shari Laster, user: laster_shari}
+  - {awarded: '2017-09-08', name: Luca Di Stasio, user: di-stasio_luca}
+  - {awarded: '2017-09-08', name: Uwe Hilgert, user: hilgert_uwe}
+  - {awarded: '2017-09-08', name: Stephanie Miller, user: miller_stephanie}
+  - {awarded: '2017-09-08', name: Colin Sauze, user: sauze_colin}
+  - {awarded: '2017-09-08', name: Nadia Dencheva, user: dencheva_nadia}
+  - {awarded: '2017-09-13', name: Martha Robinson, user: robinson_martha}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3121,7 +3432,7 @@ badges:
   - {awarded: '2016-01-30', name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
   - {awarded: '2016-01-30', name: Adina Howe, user: chuang-howe_a}
   - {awarded: '2016-01-30', name: Aleksandra Natalia Pawlik, user: pawlik_a}
-  - {awarded: '2016-01-30', name: Amy E. Hodge, user: hodge_amy}
+  - {awarded: '2016-01-30', name: Amy Hodge, user: hodge_amy}
   - {awarded: '2016-01-30', name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {awarded: '2016-01-30', name: Christie Bahlai, user: bahlai_christie}
   - {awarded: '2016-01-30', name: Chris Friedline, user: friedline_chris}
@@ -3396,7 +3707,7 @@ badges:
   - {awarded: '2016-12-17', name: Bo Ji, user: ji_bo_2}
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
   - {awarded: '2016-12-20', name: Ross Allen Bowman, user: bowman_ross}
-  - {awarded: '2016-12-22', name: Kari Jordan, user: jordan_kari}
+  - {awarded: '2016-12-22', name: Kari L Jordan, user: jordan_kari}
   - {awarded: '2017-01-16', name: Jens von der Linden, user: vonderlinden_jens}
   - {awarded: '2017-01-16', name: Andrew Marder, user: marder_andrew}
   - {awarded: '2017-01-16', name: Meg Staton, user: staton_margaret}
@@ -3504,7 +3815,7 @@ badges:
   - {awarded: '2017-03-01', name: Asli Uyar, user: uyar_asli}
   - {awarded: '2017-03-02', name: Luke Zappia, user: zappia_luke}
   - {awarded: '2017-03-23', name: Nick Carchedi, user: carchedi_nick}
-  - {awarded: '2017-03-23', name: Donna Wrublewski, user: wrublewski_donna}
+  - {awarded: '2017-03-23', name: Donna Theresa Wrublewski, user: wrublewski_donna}
   - {awarded: '2017-03-23', name: Susie Meloro, user: meloro_susie}
   - {awarded: '2017-03-23', name: Carlos M Ortiz Marrero, user: ortiz-marrero_carlos}
   - {awarded: '2017-03-30', name: Betty Rozum, user: rozum_betty}
@@ -3521,9 +3832,46 @@ badges:
   - {awarded: '2017-06-08', name: James Baker, user: baker_james_2}
   - {awarded: '2017-06-15', name: Claudia Engel, user: engel_claudia}
   - {awarded: '2017-06-15', name: Tania Allard, user: allard_tania}
-  - {awarded: '2017-06-15', name: Christopher DeBoever, user: deboever_christopher}
+  - {awarded: '2017-06-15', name: Chris DeBoever, user: deboever_christopher}
   - {awarded: '2017-06-23', name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
-  - {awarded: '2017-06-23', name: Geoff LaFlair, user: laflair_geoff}
+  - {awarded: '2017-06-23', name: Geoffrey Thomas LaFlair, user: laflair_geoff}
+  - {awarded: '2017-07-05', name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
+  - {awarded: '2017-07-06', name: Jonathan Petters, user: petters_jonathan}
+  - {awarded: '2017-07-14', name: BJ Lougee, user: lougee_bj}
+  - {awarded: '2017-07-14', name: Hadrien Gourlé, user: gourl_hadrien}
+  - {awarded: '2017-07-14', name: Brittany Nicole Lasseigne, user: lasseigne_brittany}
+  - {awarded: '2017-07-14', name: Jeffrey Thomas Miller, user: miller_jeffrey}
+  - {awarded: '2017-07-19', name: Luis Avila Bolivar, user: avila-bolivar_luis}
+  - {awarded: '2017-07-19', name: Tristan De Buysscher, user: de-buysscher_tristan}
+  - {awarded: '2017-07-19', name: Ming Tang, user: tang_ming_2}
+  - {awarded: '2017-07-27', name: Robert Clark, user: clark_robert}
+  - {awarded: '2017-07-27', name: Kate Crosby, user: crosby_kate}
+  - {awarded: '2017-07-31', name: Carolina Johnson, user: johnson_carolina}
+  - {awarded: '2017-08-01', name: Nicole Kingsley, user: kingsley_nicole}
+  - {awarded: '2017-08-07', name: Anna Dabrowski, user: dabrowski_anna}
+  - {awarded: '2017-08-07', name: Binod Pokharel, user: pokharel_binod}
+  - {awarded: '2017-08-08', name: Taylor Reiter, user: reiter_taylor}
+  - {awarded: '2017-08-08', name: Kaja Wierucka, user: wierucka_kaja}
+  - {awarded: '2017-08-08', name: Jes Coyle, user: coyle_jes}
+  - {awarded: '2017-08-08', name: Tasso Pettigrew, user: pettigrew_tasso}
+  - {awarded: '2017-08-11', name: Jacob Frias Koehler, user: koehler_jacob}
+  - {awarded: '2017-08-17', name: Yasmin AlNoamany, user: alnoamany_yasmin}
+  - {awarded: '2017-08-21', name: Caroline Ajilogba, user: ajilogba_caroline}
+  - {awarded: '2017-08-24', name: Catherine Hulshof, user: hulshof_catherine}
+  - {awarded: '2017-08-24', name: Anthony Etuk, user: etuk_anthony}
+  - {awarded: '2017-08-24', name: Ellen Bledsoe, user: bledsoe_ellen}
+  - {awarded: '2017-08-24', name: Maëlle Salmon, user: salmon_malle}
+  - {awarded: '2017-08-24', name: Caryn Johansen, user: johansen_caryn}
+  - {awarded: '2017-08-31', name: Bill McMillin, user: mcmillin_bill}
+  - {awarded: '2017-09-05', name: Carmi Cronje, user: cronje_carmi}
+  - {awarded: '2017-09-07', name: Humberto Ortiz-Zuazaga, user: ortiz-zuazaga_humberto}
+  - {awarded: '2017-09-07', name: LACTATIA MOTSUKU, user: motsuku_lactatia}
+  - {awarded: '2017-09-07', name: Alistair Bailey, user: bailey_alistair}
+  - {awarded: '2017-09-07', name: Daijiang Li, user: li_daijiang}
+  - {awarded: '2017-09-07', name: Lisa Cohen, user: cohen_lisa}
+  - {awarded: '2017-09-07', name: Senzo Mpungose, user: mpungose_senzo}
+  - {awarded: '2017-09-08', name: Katrin Tirok, user: tirok_katrin}
+  - {awarded: '2017-09-08', name: Ashley Jester, user: jester_ashley}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3575,7 +3923,7 @@ badges:
   - {awarded: '2016-10-17', name: Rayna Michelle Harris, user: harris_rayna}
   - {awarded: '2016-12-16', name: Belinda Weaver, user: weaver_belinda}
   - {awarded: '2016-12-16', name: Alistair Walsh, user: walsh_alistair}
-  - {awarded: '2017-02-09', name: Kari Jordan, user: jordan_kari}
+  - {awarded: '2017-02-09', name: Kari L Jordan, user: jordan_kari}
   - {awarded: '2017-02-21', name: Jason Williams, user: williams_jason}
   - {awarded: '2017-02-21', name: Karen Cranston, user: cranston_k}
   - {awarded: '2017-02-21', name: Allegra Via, user: via_allegra}
@@ -3591,14 +3939,296 @@ badges:
   - {awarded: '2017-06-05', name: Jonah Duckles, user: duckles_jonah}
   - {awarded: '2017-06-05', name: Maneesha Sane, user: sane_maneesha}
   - {awarded: '2017-06-05', name: Mark Laufersweiler, user: laufersweiler_mark}
+  - {awarded: '2017-08-28', name: Amy Hodge, user: hodge_amy}
+  - {awarded: '2017-08-28', name: Kwasi Amoako Kwakwa, user: kwakwa_k}
+  - {awarded: '2017-08-28', name: Anita Schürch, user: schurch_anita}
+  - {awarded: '2017-08-28', name: Alexander Konovalov, user: konovalov_alexander}
+  - {awarded: '2017-08-28', name: Martin Dreyer, user: dreyer_martin}
+  - {awarded: '2017-08-28', name: Juan Steyn, user: steyn_juan}
+  - {awarded: '2017-08-28', name: John Simpson, user: simpson_john}
+  - {awarded: '2017-08-28', name: Elizabeth Wickes, user: wickes_elizabeth}
+  - {awarded: '2017-08-28', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2017-08-28', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2017-08-28', name: Danielle Quinn, user: quinn_danielle}
+  - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
     it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pr, si,
-    th, us, za]
-timestamp: 20170627T180005Z
+  workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
+    pr, si, th, us, za]
+timestamp: 20170918T130003Z
 workshops:
 - &id002
+  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
+    contact: Gabriella Rustici <gr231@cam.ac.uk>
+    country: gb
+    end: 2017-09-12
+    eventbrite_id: ''
+    humandate: Sep 11-12, 2017
+    latitude: 52.201951
+    longitude: 0.122514
+    slug: 2017-09-11-cambridge
+    start: 2017-09-11
+    tags:
+    - {name: DC}
+    url: https://tavareshugo.github.io/2017-09-11-cambridge/
+    venue: University of Cambridge
+  - address: Room 240, Pharmacy Building, 7 Greenhouse Road, Kingston, RI
+    contact: rsschwartz@uri.edu
+    country: us
+    end: 2017-09-01
+    eventbrite_id: ''
+    humandate: Aug 31-Sep 01, 2017
+    latitude: 41.489496
+    longitude: -71.527459
+    slug: 2017-08-31-uri
+    start: 2017-08-31
+    tags:
+    - {name: DC}
+    url: http://rhodyrstats.org/2017-08-31-uri/
+    venue: University of Rhode Island
+  - address: 1780 E University Ave, Las Cruces, NM 88003
+    contact: williams@cshl.edu
+    country: us
+    end: 2017-08-29
+    eventbrite_id: ''
+    humandate: Aug 28-29, 2017
+    latitude: 32.2787745
+    longitude: -106.7479059
+    slug: 2017-08-28-nmsu
+    start: 2017-08-28
+    tags:
+    - {name: DC}
+    url: https://jasonjwilliamsny.github.io/2017-08-28-nmsu/
+    venue: New Mexico State University
+  - address: Orchard View Room, Wisconsin Institutes for Discovery, 330 N. Orchard
+      St., Madison, WI
+    contact: ckoch5@wisc.edu
+    country: us
+    end: 2017-08-23
+    eventbrite_id: '36780783313'
+    humandate: Aug 22-23, 2017
+    latitude: 43.0728339
+    longitude: -89.4103303
+    slug: 2017-08-22-uwmadison-dc
+    start: 2017-08-22
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/
+    venue: UW Madison
+  - address: Wawona, CA
+    contact: ejmctavish@ucmerced.edu, jblois@ucmerced.edu
+    country: us
+    end: 2017-08-18
+    eventbrite_id: ''
+    humandate: Aug 17-18, 2017
+    latitude: 37.5399159
+    longitude: -119.6577967
+    slug: 2017-08-17-Yosemite
+    start: 2017-08-17
+    tags:
+    - {name: DC}
+    url: https://snacktavish.github.io/2017-08-17-Yosemite/
+    venue: UC Merced, Yosemite Field Station
+  - address: Hotel Ossa, Ossa 1, 96-200 Rawa Mazowiecka, Poland
+    contact: mateusz.kuzak@gmail.com
+    country: pl
+    end: 2017-08-18
+    eventbrite_id: ''
+    humandate: Aug 16-18, 2017
+    latitude: 51.805111
+    longitude: 20.381442
+    slug: 2017-08-16-pyconpl
+    start: 2017-08-16
+    tags:
+    - {name: DC}
+    url: https://mkuzak.github.io/2017-08-16-pyconpl/
+    venue: Reproducible Reasearch Workshop @ PyCon PL
+  - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
+      Exact venue to be confirmed
+    contact: anelda@talarify.co.za
+    country: et
+    end: 2017-08-16
+    eventbrite_id: ''
+    humandate: Aug 14-16, 2017
+    latitude: 9.040216
+    longitude: 38.762582
+    slug: 2017-08-14-Ethiopia
+    start: 2017-08-14
+    tags:
+    - {name: DC}
+    url: https://anelda.github.io/2017-08-14-Ethiopia/
+    venue: Ethiopian Research and Education Network
+  - address: Marston L136
+    contact: mcollins@acis.ufl.edu
+    country: us
+    end: 2017-08-15
+    eventbrite_id: ''
+    humandate: Aug 14-15, 2017
+    latitude: 29.648152
+    longitude: -82.344105
+    slug: 2017-08-14-UFII-DC
+    start: 2017-08-14
+    tags:
+    - {name: DC}
+    url: https://uf-carpentry.github.io/2017-08-14-UFII-DC/
+    venue: University of Florida Marston Science Library
+  - address: Room 2207/2209, Building 85 (Biological Sciences Building)
+    contact: s.hettrick@software.ac.uk
+    country: gb
+    end: 2017-08-02
+    eventbrite_id: '12334'
+    humandate: Aug 01-02, 2017
+    latitude: 50.936484
+    longitude: -1.395341
+    slug: 2017-08-01-southampton-dc
+    start: 2017-08-01
+    tags:
+    - {name: DC}
+    url: https://southampton-rsg.github.io/2017-08-01-southampton-dc/
+    venue: University of Southampton
+  - address: 1 Cyclotron Rd, Berkeley, CA 94720, Building 71B, Room 290
+    contact: ecscharfstein@lbl.gov
+    country: us
+    end: 2017-08-02
+    eventbrite_id: ''
+    humandate: Aug 01-02, 2017
+    latitude: 37.875928
+    longitude: -122.250027
+    slug: 2017-08-01-LBNL
+    start: 2017-08-01
+    tags:
+    - {name: DC}
+    url: https://kristinariemer.github.io/2017-08-01-berkeleylab/
+    venue: Lawrence Berkeley National Laboratory
+  - address: Building F13, 212, Potchefstroom Campus, 11 Hoffman Street, Potchefstroom,
+      South Africa
+    contact: juan.steyn@nwu.ac.za
+    country: za
+    end: 2017-08-03
+    eventbrite_id: ''
+    humandate: Aug 01-03, 2017
+    latitude: -26.687123
+    longitude: 27.0920373
+    slug: 2017-08-01-Potch
+    start: 2017-08-01
+    tags:
+    - {name: DC}
+    url: https://dh-southernafrica.github.io/2017-08-01-Potch/
+    venue: North-West University
+  - address: Room 206, Library, Oklahoma State University
+    contact: doehle@okstate.edu
+    country: us
+    end: 2017-07-28
+    eventbrite_id: '35020119119'
+    humandate: Jul 27-28, 2017
+    latitude: 36.123021
+    longitude: -97.069724
+    slug: 2017-07-27-okstate
+    start: 2017-07-27
+    tags:
+    - {name: DC}
+    url: https://osu-carpentry.github.io/2017-07-27-okstate/
+    venue: Oklahoma State University
+  - address: Bartolomé House, Winter Street, Sheffield, S3
+    contact: rdm@sheffield.ac.uk
+    country: gb
+    end: 2017-07-27
+    eventbrite_id: '35537392297'
+    humandate: Jul 26-27, 2017
+    latitude: 53.384498
+    longitude: -1.488683
+    slug: 2017-07-26-Sheffield
+    start: 2017-07-26
+    tags:
+    - {name: DC}
+    url: https://alfawolf140.github.io/2017-07-26-Sheffield/
+    venue: University of Sheffield
+  - address: Sherman Fairchild Library 3rd floor Multimedia Conference Room (MCR)
+    contact: library@caltech.edu
+    country: us
+    end: 2017-07-21
+    eventbrite_id: ''
+    humandate: Jul 20-21, 2017
+    latitude: 34.137263
+    longitude: -118.1247
+    slug: 2017-07-20-caltech
+    start: 2017-07-20
+    tags:
+    - {name: DC}
+    url: https://caltechlibrary.github.io/2017-07-20-caltech/
+    venue: Caltech
+  - address: Royal School of Mines 3.38, South Kensington campus, London
+    contact: kmichali@imperial.ac.uk
+    country: gb
+    end: 2017-07-18
+    eventbrite_id: ''
+    humandate: Jul 17-18, 2017
+    latitude: 51.499708
+    longitude: -0.176343
+    slug: 2017-07-17-imperial
+    start: 2017-07-17
+    tags:
+    - {name: DC}
+    url: https://mkuzak.github.io/2017-07-17-imperial/
+    venue: Imperial College London
+  - address: Natural Resources Engineering (NRE) 2-125
+    contact: john.simpson@computecanada.ca
+    country: ca
+    end: 2017-07-13
+    eventbrite_id: '35794086075'
+    humandate: Jul 12-13, 2017
+    latitude: 53.526942
+    longitude: -113.52955
+    slug: 2017-07-12-ualberta-DC
+    start: 2017-07-12
+    tags:
+    - {name: DC}
+    url: https://computecanada.github.io/2017-07-12-ualberta-DC/
+    venue: University of Alberta
+  - address: 1 University of Arkansas, Fayetteville, AR 72701
+    contact: williams@cshl.edu
+    country: us
+    end: 2017-07-07
+    eventbrite_id: ''
+    humandate: Jul 06-07, 2017
+    latitude: 36.062913
+    longitude: -94.1682237
+    slug: 2017-07-05-uniarkansas
+    start: 2017-07-06
+    tags:
+    - {name: DC}
+    url: https://jasonjwilliamsny.github.io/2017-07-05-uniarkansas/
+    venue: University of Arkansas
+  - address: 116 Honors Way Tallahassee, FL 32306
+    contact: rsmart@fsu.edu
+    country: us
+    end: 2017-06-30
+    eventbrite_id: '34822507056'
+    humandate: Jun 29-30, 2017
+    latitude: 30.443059
+    longitude: -84.294984
+    slug: 2017-06-29-fsu
+    start: 2017-06-29
+    tags:
+    - {name: DC}
+    url: https://fsulib.github.io/2017-06-29-fsu/
+    venue: Florida State University
+  - address: 1 Cyclotron Rd, Berkeley, CA 94720
+    contact: ecscharfstein@lbl.gov
+    country: us
+    end: 2017-06-28
+    eventbrite_id: ''
+    humandate: Jun 27-28, 2017
+    latitude: 37.875928
+    longitude: -122.250027
+    slug: 2017-06-27-LBL
+    start: 2017-06-27
+    tags:
+    - {name: DC}
+    url: https://akintsakis.github.io/2017-06-27-lbnl/
+    venue: Lawrence Berkeley National Laboratory
   - address: The Francis Crick Institute, 1 Midland Road, London NW1 1AT
     contact: David Hudson <david.hudson@crick.ac.uk>
     country: gb
@@ -5462,104 +6092,47 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
-  - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
-      Exact venue to be confirmed
-    contact: anelda@talarify.co.za
-    country: ET
-    end: 2017-08-16
+  - address: 240 McLeod St, Ottawa, CA
+    contact: mcollins@acis.ufl.edu
+    country: CA
+    end: 2017-10-01
     eventbrite_id: ''
-    humandate: Aug 14-16, 2017
-    latitude: 9.040216
-    longitude: 38.762582
-    slug: 2017-08-14-Ethiopia
-    start: 2017-08-14
+    humandate: Sep 30-Oct 01, 2017
+    latitude: 45.412766
+    longitude: -75.688662
+    slug: 2017-09-30-TDWG-Ottawa
+    start: 2017-09-30
     tags:
     - {name: DC}
-    url: https://anelda.github.io/2017-08-14-Ethiopia/
-    venue: Ethiopian Research and Education Network
-  - address: Room 2207/2209, Building 85 (Biological Sciences Building)
-    contact: s.hettrick@software.ac.uk
+    url: https://idigbio.github.io/2017-09-30-TDWG-Ottawa/
+    venue: Canadian Museum of Nature
+  - address: Room 154, Merrill-Cazier Library, 3000 Old Main Hill, Logan, UT 84321
+    contact: paul.wolf@usu.edu
+    country: US
+    end: 2017-09-30
+    eventbrite_id: ''
+    humandate: Sep 29-30, 2017
+    latitude: 41.742246
+    longitude: -111.809627
+    slug: 2017-09-29-DC_USU
+    start: 2017-09-29
+    tags:
+    - {name: DC}
+    url: https://wolflab.github.io/2017-09-29-DC_USU/
+    venue: Utah State University
+  - address: Department of Anthropology,64 Banbury Road, Oxford OX2 6PE
+    contact: iain.emsley@oerc.ox.ac.uk
     country: GB
-    end: 2017-08-02
-    eventbrite_id: '12334'
-    humandate: Aug 01-02, 2017
-    latitude: 50.936484
-    longitude: -1.395341
-    slug: 2017-08-01-southampton-dc
-    start: 2017-08-01
+    end: 2017-09-27
+    eventbrite_id: '37033429986'
+    humandate: Sep 26-27, 2017
+    latitude: 51.764476
+    longitude: -1.260328
+    slug: 2017-09-26-oxford
+    start: 2017-09-26
     tags:
     - {name: DC}
-    url: https://southampton-rsg.github.io/2017-08-01-southampton-dc/
-    venue: University of Southampton
-  - address: 1 Cyclotron Rd, Berkeley, CA 94720, Building 71B, Room 290
-    contact: ecscharfstein@lbl.gov
-    country: US
-    end: 2017-08-02
-    eventbrite_id: ''
-    humandate: Aug 01-02, 2017
-    latitude: 37.875928
-    longitude: -122.250027
-    slug: 2017-08-01-berkeleylab
-    start: 2017-08-01
-    tags:
-    - {name: DC}
-    url: https://kristinariemer.github.io/2017-08-01-berkeleylab/
-    venue: Lawrence Berkeley National Laboratory
-  - address: Room 206, Library, Oklahoma State University
-    contact: doehle@okstate.edu
-    country: US
-    end: 2017-07-28
-    eventbrite_id: '35020119119'
-    humandate: Jul 27-28, 2017
-    latitude: 36.123021
-    longitude: -97.069724
-    slug: 2017-07-27-okstate
-    start: 2017-07-27
-    tags:
-    - {name: DC}
-    url: https://osu-carpentry.github.io/2017-07-27-okstate/
-    venue: Oklahoma State University
-  - address: Sherman Fairchild Library 3rd floor Multimedia Conference Room (MCR)
-    contact: library@caltech.edu
-    country: US
-    end: 2017-07-21
-    eventbrite_id: ''
-    humandate: Jul 20-21, 2017
-    latitude: 34.137263
-    longitude: -118.1247
-    slug: 2017-07-20-caltech
-    start: 2017-07-20
-    tags:
-    - {name: DC}
-    url: https://caltechlibrary.github.io/2017-07-20-caltech/
-    venue: Caltech
-  - address: Royal School of Mines 3.38, South Kensington campus, London
-    contact: kmichali@imperial.ac.uk
-    country: GB
-    end: 2017-07-18
-    eventbrite_id: ''
-    humandate: Jul 17-18, 2017
-    latitude: 51.499708
-    longitude: -0.176343
-    slug: 2017-07-17-imperial
-    start: 2017-07-17
-    tags:
-    - {name: DC}
-    url: https://mkuzak.github.io/2017-07-17-imperial/
-    venue: Imperial College London
-  - address: 116 Honors Way Tallahassee, FL 32306
-    contact: rsmart@fsu.edu
-    country: US
-    end: 2017-06-30
-    eventbrite_id: '34822507056'
-    humandate: Jun 29-30, 2017
-    latitude: 30.443059
-    longitude: -84.294984
-    slug: 2017-06-29-fsu
-    start: 2017-06-29
-    tags:
-    - {name: DC}
-    url: https://fsulib.github.io/2017-06-29-fsu/
-    venue: Florida State University
+    url: https://rroxford.github.io/2017-09-26-oxford/
+    venue: University of Oxford
 workshops_current: *id001
 workshops_past: *id002

@@ -58,9 +58,10 @@ The cost of hosting a workshop is both the Workshop Administration Fee and
 travel expenses for the two instructors. 
 
 
+
 **Workshop Administration Fee:** $2500 US  
-*This is the fee for non-profit organizations, such as universities and
-government labs. If you are a for-profit organization, such as a company, and are interested in a workshop, please [get in touch](mailto:admin@datacarpentry.org).*
+*This is the fee for not-for-profit organizations, such as universities and
+government labs. For information on fees for for-profit organizations, please [contact us](mailto:tkteal@datacarpentry.org).  
 
 Partial or full waivers for fees will be considered on an as-needed basis.
 
@@ -70,6 +71,7 @@ We work to find local instructors, but suggest that you estimate about $2000 for
 the travel, food and accomodation of the instructors. The details of how you will 
 reimburse the instructors needs to be established when the workshop is scheduled. 
 
+50% of workshop coordination fees for for-profit organizations go towards supporting workshops in areas with financial need.*
 
 
 
