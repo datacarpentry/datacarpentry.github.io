@@ -1,15 +1,14 @@
 ---
-layout: post  
-subheadline:  
-title: "Genomics Bug BBQ"  
-teaser:   
-header:  
-    image_fullwidth: "light-blue-wood-texture.jpg"  
-categories:  
-    - blog  
-comments: true  
-show_meta: true  
+layout: post
 authors: ["Tracy Teal"]
+title: "Genomics Bug BBQ"
+teaser: "Working to update the Genomics lessons"
+header: 
+   image_fullwidth: "light-blue-wood-texture.jpg"
+categories: 
+  - blog
+show_meta: true
+comments: true
 ---
 
 
