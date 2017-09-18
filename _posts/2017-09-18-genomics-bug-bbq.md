@@ -9,7 +9,6 @@ categories:
   - blog
 show_meta: true
 comments: true
-date: 2017-09-18
 ---
 
 
