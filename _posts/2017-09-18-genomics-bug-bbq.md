@@ -16,7 +16,7 @@ comments: true
 
 Be a part of the Genomics Data Carpentry lesson release!  We held an Issue Bonanza last month to identify everything from typos to updates in code blocks and had some discussions on broader re-organization. Our next step is to go through and resolve those issues and determine ordering of the lessons.
 
-To help us get over the finish line we’re having a Bug BBQ September 18th - 19th (whatever this is in your time zone!) to squash as many of these bugs as we can and continue discussions. The Bug BBQ is also an opportunity for you to engage with our world-wide community. For more info about the event, read-on and visit our [Bug BBQ Etherpad](http://pad.software-carpentry.org/genomics-bug-bbq).
+To help us get over the finish line we’re having a Bug BBQ September 18th - 19th (whatever this is in your time zone!) to squash as many of these bugs as we can, and continue discussions. The Bug BBQ is also an opportunity for you to engage with our world-wide community. For more info about the event, read-on and visit our [Bug BBQ Etherpad](http://pad.software-carpentry.org/genomics-bug-bbq).
 
 ### What are the Genomics Data Carpentry lessons?
 
