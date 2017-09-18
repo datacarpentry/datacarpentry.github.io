@@ -9,7 +9,8 @@ categories:
   - blog
 show_meta: true
 comments: true
-permalink: http://www.datacarpentry.org/blog/genomics-bug-bbq/
+date: 2017-09-18
+time: "08:00:00"
 ---
 
 
