@@ -17,6 +17,12 @@ airports:
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
+- country: gb
+  instructors:
+  - {name: Alexander Konovalov, user: konovalov_alexander}
+  latitude: 56.3728981
+  longitude: -2.8684399
+  name: RAF Leuchars Airport
 - country: nz
   instructors:
   - {name: Prashant Gupta, user: gupta_prashant}
@@ -186,12 +192,12 @@ airports:
 - country: mx
   instructors:
   - {name: Selene L. Fernandez-Valverde, user: fernandez-valverde_selene}
+  - {name: Nelly Sélem, user: slem_nelly}
   latitude: 20.990772
   longitude: -101.479347
   name: Del Bajío International Airport
 - country: th
   instructors:
-  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Likit Preeyanon, user: preeyanon_likit}
   latitude: 13.6925
   longitude: 100.75
@@ -219,6 +225,7 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
   - {name: Sam Hames, user: hames_sam}
+  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Amanda Miotto, user: miotto_amanda}
   - {name: Leah Roberts, user: roberts_leah}
   - {name: Clinton Roy, user: roy_clinton}
@@ -325,8 +332,10 @@ airports:
   name: Bob Hope Airport
 - country: us
   instructors:
+  - {name: Matthew Bourque, user: bourque_matthew}
   - {name: Justin Ely, user: ely_j}
   - {name: Megan Fritz, user: fritz_megan}
+  - {name: Pey Lian Lim, user: lim_p-y}
   - {name: Mary Shelley, user: shelley_mary}
   - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
@@ -631,7 +640,6 @@ airports:
   - {name: Alistair Grant, user: grant_alistair}
   - {name: Mike Jackson, user: jackson_m}
   - {name: Martin Jones, user: jones_martin}
-  - {name: Alexander Konovalov, user: konovalov_alexander}
   - {name: Giacomo Peru, user: peru_giacomo}
   - {name: Sam Thomson, user: thomson_samuel}
   - {name: Michael Torpey, user: torpey_michael}
@@ -749,6 +757,7 @@ airports:
   - {name: Matthew Collins, user: collins_matthew}
   - {name: François Michonneau, user: michonneau_francois}
   - {name: Kristina Riemer, user: riemer_kristina}
+  - {name: Miao Sun, user: sun_miao}
   - {name: Ethan White, user: white_e}
   - {name: Elise Morrison, user: morrison_elise}
   - {name: Brian Stucky, user: stucky_brian}
@@ -1079,6 +1088,12 @@ airports:
   latitude: 58.406971
   longitude: 15.667521
   name: Linköping City Airport
+- country: lu
+  instructors:
+  - {name: Luca Di Stasio, user: di-stasio_luca}
+  latitude: 49.6265984
+  longitude: 6.2115202
+  name: Luxembourg-Findel International Airport
 - country: us
   instructors:
   - {name: Cortney Buffington, user: buffington_cortney}
@@ -1582,6 +1597,7 @@ airports:
   instructors:
   - {name: Julie Stewart Lowndes, user: lowndes_julia}
   - {name: Ben Best, user: best_ben}
+  - {name: Shari Laster, user: laster_shari}
   latitude: 34.429689
   longitude: -119.837459
   name: Santa Barbara Municipal Airport
@@ -1747,6 +1763,7 @@ airports:
   - {name: Myfanwy Johnston, user: johnston_myfanwy}
   - {name: Steven Wu, user: wu_steven}
   - {name: Jaime Ashander, user: ashander_jaime}
+  - {name: Lisa K. Johnson, user: cohen_lisa}
   - {name: Ryan Peek, user: peek_ryan}
   - {name: Karen Word, user: word_karen}
   - {name: Mark C Miller, user: miller_mark}
@@ -1987,7 +2004,7 @@ airports:
   - {name: Silvia Canessa, user: canessa_silvia}
   - {name: Ben Jolly, user: jolly_ben}
   - {name: Craig Stanton, user: stanton_craig}
-  - {name: Leo Browning, user: browning_leo}
+  - {name: Leo Anthony Browning, user: browning_leo}
   - {name: Michael Fincham, user: fincham_michael}
   - {name: Jose Higino, user: higino_jose}
   - {name: Fabrice Cantos, user: cantos_fabrice}
@@ -3181,7 +3198,7 @@ badges:
   - {awarded: '2017-05-22', name: Marvin Reich, user: reich_marvin}
   - {awarded: '2017-06-01', name: Thomas Dowrick, user: dowrick_tom}
   - {awarded: '2017-06-01', name: Tanya Flynn, user: flynn_tanya}
-  - {awarded: '2017-06-01', name: Leo Browning, user: browning_leo}
+  - {awarded: '2017-06-01', name: Leo Anthony Browning, user: browning_leo}
   - {awarded: '2017-06-01', name: Stephen Davison, user: davison_stephen}
   - {awarded: '2017-06-01', name: Todd Gamblin, user: gamblin_todd}
   - {awarded: '2017-06-01', name: Hannah Akemi Kronenberg, user: kronenberg_hannah}
@@ -3249,7 +3266,7 @@ badges:
   - {awarded: '2017-08-30', name: David Bernholdt, user: bernholdt_david}
   - {awarded: '2017-08-31', name: Carol Rowe, user: rowe_carol}
   - {awarded: '2017-08-31', name: Lyle Rhea, user: rhea_lyle}
-  - {awarded: '2017-09-07', name: Pey-Lian Lim, user: lim_p-y}
+  - {awarded: '2017-09-07', name: Pey Lian Lim, user: lim_p-y}
   - {awarded: '2017-09-07', name: Pauline A. Fujita, user: fujita_pauline}
   - {awarded: '2017-09-07', name: Miao Sun, user: sun_miao}
   - {awarded: '2017-09-07', name: Sarah Null, user: null_sarah}
@@ -3871,7 +3888,7 @@ badges:
   - {awarded: '2017-09-07', name: LACTATIA MOTSUKU, user: motsuku_lactatia}
   - {awarded: '2017-09-07', name: Alistair Bailey, user: bailey_alistair}
   - {awarded: '2017-09-07', name: Daijiang Li, user: li_daijiang}
-  - {awarded: '2017-09-07', name: Lisa Cohen, user: cohen_lisa}
+  - {awarded: '2017-09-07', name: Lisa K. Johnson, user: cohen_lisa}
   - {awarded: '2017-09-07', name: Senzo Mpungose, user: mpungose_senzo}
   - {awarded: '2017-09-08', name: Katrin Tirok, user: tirok_katrin}
   - {awarded: '2017-09-08', name: Ashley Jester, user: jester_ashley}
@@ -3958,10 +3975,10 @@ badges:
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
   airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
-    it, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
+    it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170918T230003Z
+timestamp: 20170919T000003Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
