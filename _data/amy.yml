@@ -3978,7 +3978,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170919T190004Z
+timestamp: 20170919T200003Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
@@ -6113,6 +6113,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Informatics Institute Conference Room, CISE building
+    contact: mcollins@acis.ufl.edu
+    country: US
+    end: 2017-10-31
+    eventbrite_id: ''
+    humandate: Oct 30-31, 2017
+    latitude: 29.648248
+    longitude: -82.344031
+    slug: 2017-10-30-iDigBio-Summit-UFII
+    start: 2017-10-30
+    tags:
+    - {name: DC}
+    url: https://idigbio.github.io/2017-10-30-iDigBio-Summit-UFII/
+    venue: University of Florida Informatics Institute
   - address: 240 McLeod St, Ottawa, CA
     contact: mcollins@acis.ufl.edu
     country: CA
