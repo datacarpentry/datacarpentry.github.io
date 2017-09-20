@@ -3978,7 +3978,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170920T120003Z
+timestamp: 20170920T130004Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
@@ -4095,6 +4095,20 @@ workshops:
     - {name: DC}
     url: https://uf-carpentry.github.io/2017-08-14-UFII-DC/
     venue: University of Florida Marston Science Library
+  - address: 1 Cyclotron Rd, Berkeley, CA
+    contact: ecscharfstein@lbl.gov
+    country: us
+    end: 2017-08-08
+    eventbrite_id: ''
+    humandate: Aug 07-08, 2017
+    latitude: 37.87597
+    longitude: -122.250006
+    slug: 2017-08-07-LBNL
+    start: 2017-08-07
+    tags:
+    - {name: DC}
+    url: https://k8hertweck.github.io/2017-08-07-LBNL/
+    venue: Lawrence Berkeley National Laboratory
   - address: Room 2207/2209, Building 85 (Biological Sciences Building)
     contact: s.hettrick@software.ac.uk
     country: gb
