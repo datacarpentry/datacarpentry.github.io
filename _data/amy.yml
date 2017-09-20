@@ -3284,6 +3284,7 @@ badges:
   - {awarded: '2017-09-18', name: Adela Sobotkova, user: sobotkova_adela}
   - {awarded: '2017-09-18', name: Mojalefa Malahlela, user: malahlela_mojalefa}
   - {awarded: '2017-09-18', name: William Tong, user: tong_william}
+  - {awarded: '2017-09-20', name: Nicola Soranzo, user: soranzo_nicola}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3893,6 +3894,10 @@ badges:
   - {awarded: '2017-09-08', name: Katrin Tirok, user: tirok_katrin}
   - {awarded: '2017-09-08', name: Ashley Jester, user: jester_ashley}
   - {awarded: '2017-09-18', name: Mita Williams, user: williams_mita}
+  - {awarded: '2017-09-20', name: Michael Schwendeman, user: schwendeman_michael}
+  - {awarded: '2017-09-20', name: Heather Coates, user: coates_heather}
+  - {awarded: '2017-09-20', name: Glenn Moncrieff, user: moncrieff_glenn}
+  - {awarded: '2017-09-20', name: Boris Gorelik, user: gorelik_boris}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3978,7 +3983,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170920T180003Z
+timestamp: 20170920T190003Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
