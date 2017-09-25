@@ -591,6 +591,7 @@ airports:
   - {name: Ry4an Brase, user: brase_ry4an}
   - {name: Sonal Singhal, user: singhal_sonal}
   - {name: Marc Sze, user: sze_marc}
+  - {name: Stephanie Miller, user: miller_stephanie}
   latitude: 42.212222
   longitude: -83.353333
   name: Detroit, MI
@@ -1317,7 +1318,6 @@ airports:
 - country: gb
   instructors:
   - {name: Graham Etherington, user: etherington_graham}
-  - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Katie Barr, user: barr_katie}
   - {name: Anthony Etuk, user: etuk_anthony}
   - {name: Matthew Hartley, user: hartley_matthew}
@@ -1555,6 +1555,7 @@ airports:
 - country: us
   instructors:
   - {name: Tara Marie Webster, user: webster_tara}
+  - {name: Michael Schwendeman, user: schwendeman_michael}
   latitude: 43.122523
   longitude: -77.666572
   name: Greater Rochester International Airport
@@ -1828,6 +1829,7 @@ airports:
   - {name: Krzysztof Strug, user: strug_krzysztof}
   - {name: Hugo Tavares, user: tavares_hugo}
   - {name: Mark Wheelhouse, user: wheelhouse_mark}
+  - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Marco Chiapello, user: chiapello_marco}
   latitude: 51.885
   longitude: 0.235
@@ -1909,6 +1911,7 @@ airports:
 - country: il
   instructors:
   - {name: Aur Saraf, user: saraf_aur}
+  - {name: Boris Gorelik, user: gorelik_boris}
   latitude: 32.009444
   longitude: 34.876667
   name: Tel Aviv
@@ -2090,6 +2093,12 @@ airports:
   latitude: 46.788333
   longitude: -71.3975
   name: Quebec City
+- country: ca
+  instructors:
+  - {name: Mita Williams, user: williams_mita}
+  latitude: 42.2749
+  longitude: 82.9448
+  name: Windsor International Airport
 - country: ca
   instructors:
   - {name: Ruth Collings, user: collings_ruth}
@@ -3984,7 +3993,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170925T030002Z
+timestamp: 20170925T040002Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
