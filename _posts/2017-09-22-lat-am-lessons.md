@@ -1,12 +1,12 @@
 ---
 layout: post
-subheadline:
 title: "Invitación a Participar / Invitation to Participate"
-teaser:
+teaser: 
+date: 2017-09-25
 header:
-    image_fullwidth: "light-blue-wood-texture.jpg"
+   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
-    - blog
+   - blog
 comments: true
 show_meta: true
 authors: ["Heladia Salgado", "Paula Andrea Martinez", "Sue McClatchy"]
