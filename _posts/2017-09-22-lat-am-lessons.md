@@ -32,9 +32,9 @@ Tenemos varias actividades en pie en las que todos están bienvenidos a particip
 
 ¡Únete a este esfuerzo! Escríbenos a latinoamerica@carpentries.org y participa junto con nosotros. 
 
-Para unirse a la lista de correo electrónico, visita https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica
+Para unirse a la lista de correo electrónico, visita [https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica)
 
-Si estás interesado en mas información sobre los avances, visita https://github.com/carpentries/latinoamerica
+Si estás interesado en mas información sobre los avances, visita [https://github.com/carpentries/latinoamerica](https://github.com/carpentries/latinoamerica)
 
 Team latinoamerica@carpentries.org
 
@@ -62,9 +62,9 @@ We have several current activities, including the following, where you are welco
 
 Join in this effort! Write to latinoamerica@carpentries.org and participate with us.
 
-To join the mailing list, visit https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica
+To join the mailing list, visit [https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica)
 
-If you are interested to learn about the updates, visit https://github.com/carpentries/latinoamerica
+If you are interested to learn about the updates, visit [https://github.com/carpentries/latinoamerica](https://github.com/carpentries/latinoamerica)
 
 Team latinoamerica@carpentries.org
 
