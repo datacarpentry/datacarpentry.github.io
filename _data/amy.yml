@@ -1,9 +1,6 @@
 airports:
 - country: dk
   instructors:
-<<<<<<< HEAD
-  - {name: Dan 
-=======
   - {name: Dan Mønster, user: mnster_dan}
   - {name: Kristian Tylén, user: tyln_kristian}
   - {name: Kristoffer Nielbo, user: nielbo_kristoffer}
@@ -4002,7 +3999,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170926T170003Z
+timestamp: 20170926T180004Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
@@ -6239,4 +6236,3 @@ workshops:
     venue: University of Oxford
 workshops_current: *id001
 workshops_past: *id002
->>>>>>> 68de1235b88cff879dd84199bfa3254e464e6151
