@@ -3294,6 +3294,10 @@ badges:
   - {awarded: '2017-09-18', name: Mojalefa Malahlela, user: malahlela_mojalefa}
   - {awarded: '2017-09-18', name: William Tong, user: tong_william}
   - {awarded: '2017-09-20', name: Nicola Soranzo, user: soranzo_nicola}
+  - {awarded: '2017-09-26', name: Zena Lapp, user: lapp_zena}
+  - {awarded: '2017-09-26', name: Brian Seok, user: seok_brian}
+  - {awarded: '2017-09-26', name: Jake Surman, user: surman_jake}
+  - {awarded: '2017-09-26', name: Shih-Chen Chao, user: chao_shih-chen}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3908,6 +3912,8 @@ badges:
   - {awarded: '2017-09-20', name: Glenn Moncrieff, user: moncrieff_glenn}
   - {awarded: '2017-09-20', name: Boris Gorelik, user: gorelik_boris}
   - {awarded: '2017-09-22', name: Shruti Subramaniam, user: subramaniam_shruti}
+  - {awarded: '2017-09-26', name: Omar Julio Sosa, user: sosa_omar-julio}
+  - {awarded: '2017-09-26', name: Laura Smart, user: smart_laura}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -3993,7 +3999,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170926T160003Z
+timestamp: 20170926T170003Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
@@ -4165,6 +4171,7 @@ workshops:
     start: 2017-08-01
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://dh-southernafrica.github.io/2017-08-01-Potch/
     venue: North-West University
   - address: Room 206, Library, Oklahoma State University
@@ -4604,6 +4611,7 @@ workshops:
     start: 2017-03-23
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://nwu-digitalhumanities.github.io/2017-03-23-Mafikeng/
     venue: North-West University
   - address: 5108 Fourth Ave, Marina, California 93933
