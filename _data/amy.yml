@@ -3999,7 +3999,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170927T210003Z
+timestamp: 20170927T220004Z
 workshops:
 - &id002
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
@@ -6164,6 +6164,20 @@ workshops:
     - {name: DC}
     url: https://idigbio.github.io/2017-10-30-iDigBio-Summit-UFII/
     venue: University of Florida Informatics Institute
+  - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
+    contact: tobin.magle@colostate.edu
+    country: US
+    end: 2017-10-04
+    eventbrite_id: ''
+    humandate: Oct 03-04, 2017
+    latitude: 40.573738
+    longitude: -105.084407
+    slug: 2017-10-03-NDIC
+    start: 2017-10-03
+    tags:
+    - {name: DC}
+    url: https://maglet.github.io/2017-10-03-NDIC/
+    venue: National Data Integrity Conference
   - address: 240 McLeod St, Ottawa, CA
     contact: mcollins@acis.ufl.edu
     country: CA
