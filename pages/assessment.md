@@ -21,11 +21,15 @@ and [determination letter]({{ site.urlimg }}/IRB_decision_letter_08_31_16_websit
 
 ### Surveys
 
+#### Pre and post workshop surveys
+
 We conduct pre and post workshop surveys for each workshop
 
 - [Pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=_2Fr_2BMLenJz3QD4fR3LpyrxE0ILyysS55zZtxg98DlSCmrGUESIrVTKPW0Pcdb05XO)
 
 - [Post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=20aY_2FxKwi4RcNMTonEV1fJU4BPERgmL_2FWtZKq6Zrehggy5OOe3BxYzyxwVgbbZfr)
+
+#### Long-term survey
 
 Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentry Long-Term Feedback Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data will be collected every 6 months.
 
@@ -38,10 +42,14 @@ Data sets to go along with assessment reports are provided as csv files in a
 
 [Data for Assessment report 2016-10-20](https://raw.githubusercontent.com/carpentries/public-survey-info/master/documents/reports/Data-Carpentry-Reports/postworkshop_data.csv)
 
+[Data for Long term survey](https://github.com/carpentries/assessment-projects/blob/master/joint-carpentry-projects/long-term-survey/data.csv)
+
 ### Assessment Results
  
 We will be releasing regular reports from our survey results. These reports are published through Zenodo and can
 be accessed through the links below.
+
+#### Pre and post workshop reports
 
 [Assessment report 2016-10-20](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
 
@@ -52,4 +60,17 @@ The analysis in this report serves the following purposes:
 - To discuss what Data Carpentry is doing well, areas of improvement, and questions we should be asking.
 
 The report finds that learners are reporting that after a workshop, their level of data management and analysis skills have increased, they have increased confidence in their ability to use these skills and that the learners have increased appreciation for these skills (i.e. scripting) to improve and promote reproducible research. 95% of learners agree or strongly agree that they would recommend the workshop to a colleague.
+
+#### Long-term survey reports
+
+[Long term assessment report Sept 2017](https://carpentries.github.io/assessment-projects/joint-carpentry-projects/long-term-survey/report.html)
+
+The long-term survey assessed confidence, motivation, and other outcomes more than six months after respondents attended a Carpentry workshop. Provided below are a few highlights from the data.
+
+- 77% of our respondents reported being more confident in the tools that were covered during their Carpentry workshop compared to before the workshop.
+- 86% of our respondents were motivated to seek more knowledge about the tools they learned in their Carpentry workshop.
+- 54% of our respondents have made their analyses more reproducible as a result of completing a Carpentry workshop.
+- 70% of our respondents have improved their coding practices as a result of participating in a Carpentry workshop.
+- 65% of our respondents have gained confidence in working with data as a result of completing the workshop.
+- 74% of our respondents have recommended our workshops to a friend or colleague.
 
