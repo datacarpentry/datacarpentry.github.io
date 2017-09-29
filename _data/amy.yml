@@ -3999,9 +3999,37 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20170929T040003Z
+timestamp: 20170929T050002Z
 workshops:
 - &id002
+  - address: 301 East North Water Street, Chicago, IL
+    contact: kariljordan@carpentries.org
+    country: us
+    end: 2017-09-28
+    eventbrite_id: '36660430334'
+    humandate: Sep 28-28, 2017
+    latitude: 41.8891327
+    longitude: -87.6216582
+    slug: 2017-09-28-nsbe
+    start: 2017-09-28
+    tags:
+    - {name: DC}
+    url: https://christinalk.github.io/2017-09-28-nsbe/
+    venue: National Society of Black Engineers Professional Development Conference
+  - address: 1 Cyclotron Road, Berkeley, California, USA
+    contact: stachel2@msu.edu
+    country: us
+    end: 2017-09-28
+    eventbrite_id: ''
+    humandate: Sep 27-28, 2017
+    latitude: 37.876793
+    longitude: -122.248899
+    slug: 2017-09-27-LBNL
+    start: 2017-09-27
+    tags:
+    - {name: DC}
+    url: https://jsta.github.io/2017-09-27-LBNL/
+    venue: Lawrence Berkeley National Lab
   - address: Department of Anthropology,64 Banbury Road, Oxford OX2 6PE
     contact: iain.emsley@oerc.ox.ac.uk
     country: gb
@@ -6220,33 +6248,5 @@ workshops:
     - {name: DC}
     url: https://wolflab.github.io/2017-09-29-DC_USU/
     venue: Utah State University
-  - address: 301 East North Water Street, Chicago, IL
-    contact: kariljordan@carpentries.org
-    country: US
-    end: 2017-09-28
-    eventbrite_id: '36660430334'
-    humandate: Sep 28-28, 2017
-    latitude: 41.8891327
-    longitude: -87.6216582
-    slug: 2017-09-28-nsbe
-    start: 2017-09-28
-    tags:
-    - {name: DC}
-    url: https://christinalk.github.io/2017-09-28-nsbe/
-    venue: National Society of Black Engineers Professional Development Conference
-  - address: 1 Cyclotron Road, Berkeley, California, USA
-    contact: stachel2@msu.edu
-    country: US
-    end: 2017-09-28
-    eventbrite_id: ''
-    humandate: Sep 27-28, 2017
-    latitude: 37.876793
-    longitude: -122.248899
-    slug: 2017-09-27-LBNL
-    start: 2017-09-27
-    tags:
-    - {name: DC}
-    url: https://jsta.github.io/2017-09-27-LBNL/
-    venue: Lawrence Berkeley National Lab
 workshops_current: *id001
 workshops_past: *id002
