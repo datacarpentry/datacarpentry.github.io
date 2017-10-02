@@ -3999,9 +3999,23 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171002T040002Z
+timestamp: 20171002T050002Z
 workshops:
 - &id002
+  - address: 240 McLeod St, Ottawa, CA
+    contact: mcollins@acis.ufl.edu
+    country: ca
+    end: 2017-10-01
+    eventbrite_id: ''
+    humandate: Sep 30-Oct 01, 2017
+    latitude: 45.412766
+    longitude: -75.688662
+    slug: 2017-09-30-TDWG-Ottawa
+    start: 2017-09-30
+    tags:
+    - {name: DC}
+    url: https://idigbio.github.io/2017-09-30-TDWG-Ottawa/
+    venue: Canadian Museum of Nature
   - address: Room 154, Merrill-Cazier Library, 3000 Old Main Hill, Logan, UT 84321
     contact: paul.wolf@usu.edu
     country: us
@@ -6234,19 +6248,5 @@ workshops:
     - {name: DC}
     url: https://maglet.github.io/2017-10-03-NDIC/
     venue: National Data Integrity Conference
-  - address: 240 McLeod St, Ottawa, CA
-    contact: mcollins@acis.ufl.edu
-    country: CA
-    end: 2017-10-01
-    eventbrite_id: ''
-    humandate: Sep 30-Oct 01, 2017
-    latitude: 45.412766
-    longitude: -75.688662
-    slug: 2017-09-30-TDWG-Ottawa
-    start: 2017-09-30
-    tags:
-    - {name: DC}
-    url: https://idigbio.github.io/2017-09-30-TDWG-Ottawa/
-    venue: Canadian Museum of Nature
 workshops_current: *id001
 workshops_past: *id002
