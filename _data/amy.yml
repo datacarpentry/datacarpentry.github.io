@@ -623,6 +623,7 @@ airports:
 - country: za
   instructors:
   - {name: Andrew B. Collier, user: collier_andrew}
+  - {name: Katrin Tirok, user: tirok_katrin}
   latitude: -29.6144444
   longitude: 31.1197222
   name: King Shaka International Airport
@@ -854,6 +855,7 @@ airports:
   - {name: Michael Hansen, user: hansen_m}
   - {name: David Rio, user: rio_david}
   - {name: Jeffrey Shelton, user: shelton_j}
+  - {name: Heather Coates, user: coates_heather}
   latitude: 39.717222
   longitude: -86.294167
   name: Indianapolis, IN
@@ -3999,7 +4001,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171002T180003Z
+timestamp: 20171002T190003Z
 workshops:
 - &id002
   - address: 240 McLeod St, Ottawa, CA
