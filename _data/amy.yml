@@ -433,6 +433,12 @@ airports:
   latitude: 40.039167
   longitude: -88.278056
   name: Urbana-Champaign, IL
+- country: bj
+  instructors:
+  - {name: Yaé Ulrich Gaba Gaba, user: gaba_ya-ulrich}
+  latitude: 6.3572302
+  longitude: 2.3843501
+  name: Cadjehoun Airport
 - country: us
   instructors:
   - {name: Susie Meloro, user: meloro_susie}
@@ -456,8 +462,8 @@ airports:
   - {name: Peter van Heusden, user: van-heusden_peter}
   - {name: Raissa Philibert, user: philibert_raissa}
   - {name: Jordan Masakuna, user: masakuna_jordan}
-  - {name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
   - {name: Warren Morne' Jacobus, user: jacobus_warren}
+  - {name: Glenn Moncrieff, user: moncrieff_glenn}
   - {name: Ian van der Linde, user: van-der-linde_ian}
   - {name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
   - {name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
@@ -1980,6 +1986,7 @@ airports:
 - country: us
   instructors:
   - {name: Meg Staton, user: staton_margaret}
+  - {name: David E. Bernholdt, user: bernholdt_david}
   latitude: 35.81
   longitude: -84.0
   name: Knoxville, TN
@@ -3039,7 +3046,7 @@ badges:
   - {awarded: '2016-07-19', name: Joshua Thia, user: thia_joshua}
   - {awarded: '2016-07-25', name: Naudene Maree, user: maree_naudene}
   - {awarded: '2016-07-25', name: Jose Nandez, user: nandez_jose}
-  - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
+  - {awarded: '2016-07-25', name: Yaé Ulrich Gaba Gaba, user: gaba_ya-ulrich}
   - {awarded: '2016-07-26', name: Madicken Munk, user: munk_madicken}
   - {awarded: '2016-08-03', name: John Didion, user: didion_john}
   - {awarded: '2016-08-03', name: Asher Baltzell, user: baltzell_asher}
@@ -3274,7 +3281,7 @@ badges:
   - {awarded: '2017-08-24', name: Arlin Stoltzfus, user: stoltzfus_arlin}
   - {awarded: '2017-08-24', name: Ian van der Linde, user: van-der-linde_ian}
   - {awarded: '2017-08-24', name: Chandler Becker, user: becker_chandler}
-  - {awarded: '2017-08-30', name: David Bernholdt, user: bernholdt_david}
+  - {awarded: '2017-08-30', name: David E. Bernholdt, user: bernholdt_david}
   - {awarded: '2017-08-31', name: Carol Rowe, user: rowe_carol}
   - {awarded: '2017-08-31', name: Lyle Rhea, user: rhea_lyle}
   - {awarded: '2017-09-07', name: Pey Lian Lim, user: lim_p-y}
@@ -3587,7 +3594,7 @@ badges:
   - {awarded: '2016-07-08', name: Rudiger Brauning, user: brauning_rudiger}
   - {awarded: '2016-07-19', name: Shawn Taylor, user: taylor_shawn}
   - {awarded: '2016-07-25', name: Bianca Peterson, user: peterson_bianca}
-  - {awarded: '2016-07-25', name: Yaé Ulrich Gaba, user: gaba_ya-ulrich}
+  - {awarded: '2016-07-25', name: Yaé Ulrich Gaba Gaba, user: gaba_ya-ulrich}
   - {awarded: '2016-07-26', name: Naudene Maree, user: maree_naudene}
   - {awarded: '2016-08-03', name: Markus Ankenbrand, user: ankenbrand_markus}
   - {awarded: '2016-08-10', name: Marcin Adamski, user: adamski_marcin}
@@ -3997,11 +4004,11 @@ badges:
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
-  airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
-    it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
+  airports: [au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il,
+    in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171002T190003Z
+timestamp: 20171002T200003Z
 workshops:
 - &id002
   - address: 240 McLeod St, Ottawa, CA
