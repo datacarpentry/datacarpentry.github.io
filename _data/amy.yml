@@ -3999,7 +3999,7 @@ flags:
     it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171002T010002Z
+timestamp: 20171002T020002Z
 workshops:
 - &id002
   - address: Room 154, Merrill-Cazier Library, 3000 Old Main Hill, Logan, UT 84321
