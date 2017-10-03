@@ -4010,7 +4010,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171003T160003Z
+timestamp: 20171003T170003Z
 workshops:
 - &id002
   - address: 240 McLeod St, Ottawa, CA
