@@ -4010,7 +4010,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171003T150003Z
+timestamp: 20171003T160003Z
 workshops:
 - &id002
   - address: 240 McLeod St, Ottawa, CA
@@ -4083,6 +4083,20 @@ workshops:
     - {name: DC}
     url: https://rroxford.github.io/2017-09-26-oxford/
     venue: University of Oxford
+  - address: 1 Cyclotron Road, Berkeley, CA 94720 Building 71B, Room 290
+    contact: ecscharfstein@lbl.gov
+    country: us
+    end: 2017-09-20
+    eventbrite_id: ''
+    humandate: Sep 19-20, 2017
+    latitude: 42.350061
+    longitude: -71.062263
+    slug: 2017-09-19-LBNL
+    start: 2017-09-19
+    tags:
+    - {name: DC}
+    url: https://asliuyar.github.io/2017-09-19-berkeleylab/
+    venue: Lawrence Berkeley National Laboratory
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
     contact: Gabriella Rustici <gr231@cam.ac.uk>
     country: gb
