@@ -78,7 +78,7 @@ The workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
-    <td>John Gosset, April Wright</td>
+    <td>April Wright, Phillip Doehle</td>
   </tr>
 </table>
 
