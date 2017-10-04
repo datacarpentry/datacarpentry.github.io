@@ -60,7 +60,7 @@ sustainability.
      contributors to recycle materials they have tested in the
      classroom so long as they meet licensing stipulations. We do
      require that lessons use our [templates]({{dc_github_repo_url}}/lesson-template/)
-     and [teaching style](http://swcarpentry.github.io/instructor-training/).
+     and [teaching style](http://carpentries.github.io/instructor-training/).
 
  Data Carpentry and Software Carpentry’s Steering Committees may make
  exceptions to these requirements in special cases, but such exceptions
