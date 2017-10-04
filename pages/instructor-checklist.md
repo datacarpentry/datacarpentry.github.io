@@ -11,7 +11,7 @@ Each instructor is responsible for preparing to teach their section(s) of the wo
 
 ## Before the workshop:  
 - [ ] Coordinate with the lead instructor to decide who is teaching what, and in which order  
-- [ ] If your workshop is self-organized, and you are not a certified Data Carpentry instructor, meet with the lead instructor to be trained in [Data Carpentry’s teaching practices](http://swcarpentry.github.io/instructor-training/15-practices/)  
+- [ ] If your workshop is self-organized, and you are not a certified Data Carpentry instructor, meet with the lead instructor to be trained in [Data Carpentry’s teaching practices](http://carpentries.github.io/instructor-training/15-practices/)  
 - [ ] Test your installation instructions to make sure they work as expected  
 - [ ] Read the [lesson(s)](http://www.datacarpentry.org/lessons/) you are going to teach in detail  
 - [ ] If there is an [instructor’s guide](/for-instructors/#contribute-to-instructor-notes) for your lesson, read it carefully  
@@ -20,8 +20,8 @@ Each instructor is responsible for preparing to teach their section(s) of the wo
 
 ## At the workshop:  
 - [ ] Remind your learners about the [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/)  
-- [ ] Remind learners to use their sticky notes to give feedback - see description of how these are used [here](http://swcarpentry.github.io/instructor-training/15-practices/)  
-- [ ] Get feedback with minute cards at lunch and end of each day - see description of minute cards [here](http://swcarpentry.github.io/instructor-training/15-practices/)
+- [ ] Remind learners to use their sticky notes to give feedback - see description of how these are used [here](http://carpentries.github.io/instructor-training/15-practices/)  
+- [ ] Get feedback with minute cards at lunch and end of each day - see description of minute cards [here](http://carpentries.github.io/instructor-training/15-practices/)
 
 ## After the workshop:  
 - [ ] Take part in an [instructor discussion session](http://pad.software-carpentry.org/instructor-discussion)  

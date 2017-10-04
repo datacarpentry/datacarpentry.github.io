@@ -24,10 +24,10 @@ The Software Carpentry Foundation runs the Instructor Training course for both S
 There are two steps to becoming an instructor.  
 
 1. **Take a Software Carpentry Foundation instructor training course**   
-The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching Data Carpentry and Software Carpentry materials. For a preview of materials - see the [instructor training course page](http://swcarpentry.github.io/instructor-training/).
+The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching Data Carpentry and Software Carpentry materials. For a preview of materials - see the [instructor training course page](http://carpentries.github.io/instructor-training/).
 
 2. **Complete the checkout process**  
-You must complete three short tasks after the course in order to complete certification. These tasks are described in detail [here](http://swcarpentry.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the detailed instructions, please use our [simplified checklist](/checkout/) to keep track of your progress.
+You must complete three short tasks after the course in order to complete certification. These tasks are described in detail [here](http://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the detailed instructions, please use our [simplified checklist](/checkout/) to keep track of your progress.
 
 *Most of our instructors are trained through organizational agreements with affiliated institutions. If you have been asked to provide information associated with this type of training, please fill in [this form](https://amy.software-carpentry.org/workshops/request_training/). If you are not affiliated with one of our partner organizations, we offer limited scholarships to attend online instructor training. Please fill out the form above to indicate your interest in participating in an upcoming instructor training.*
 
