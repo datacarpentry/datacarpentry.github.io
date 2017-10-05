@@ -4013,7 +4013,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171005T180003Z
+timestamp: 20171005T190003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
@@ -6262,6 +6262,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Via Basilea, 28 – CH-6900 Lugano
+    contact: frank.pennekamp@ieu.uzh.ch
+    country: ''
+    end: 2017-11-10
+    eventbrite_id: ''
+    humandate: Nov 08-10, 2017
+    latitude: 46.002701
+    longitude: 8.946719
+    slug: 2017-11-08-lugano
+    start: 2017-11-08
+    tags:
+    - {name: DC}
+    url: https://pennekampster.github.io/2017-11-08-lugano/
+    venue: Continental Parkhotel Lugano
   - address: Informatics Institute Conference Room, CISE building
     contact: mcollins@acis.ufl.edu
     country: US
