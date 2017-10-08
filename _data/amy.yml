@@ -4013,7 +4013,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171008T190002Z
+timestamp: 20171008T200002Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
