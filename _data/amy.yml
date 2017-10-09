@@ -778,6 +778,12 @@ airports:
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
+- country: br
+  instructors:
+  - {name: Omar Julio Sosa, user: sosa_omar-julio}
+  latitude: -23.435556
+  longitude: -46.473056
+  name: Sao Paulo Guarulhos
 - country: us
   instructors:
   - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
@@ -877,6 +883,7 @@ airports:
 - country: us
   instructors:
   - {name: Daijiang Li, user: li_daijiang}
+  - {name: Kensworth Subratie, user: subratie_kensworth}
   latitude: 30.4941006
   longitude: -81.6878967
   name: Jacksonville International
@@ -1178,6 +1185,7 @@ airports:
 - country: us
   instructors:
   - {name: John Moreau, user: moreau_john}
+  - {name: Greg Woodward, user: woodward_greg}
   - {name: BJ Lougee, user: lougee_bj}
   latitude: 39.2975
   longitude: -94.713889
@@ -4036,7 +4044,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171009T140003Z
+timestamp: 20171009T150003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
