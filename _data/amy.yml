@@ -96,6 +96,7 @@ airports:
 - country: us
   instructors:
   - {name: Casey Bergman, user: bergman_casey}
+  - {name: Shruti Subramaniam, user: subramaniam_shruti}
   latitude: 33.640278
   longitude: -84.426944
   name: Atlanta, GA
@@ -341,6 +342,7 @@ airports:
   - {name: Alex Viana, user: viana_a}
   - {name: John Didion, user: didion_john}
   - {name: Kelley O'Neal, user: oneal_kelley}
+  - {name: Nadia Dencheva, user: dencheva_nadia}
   latitude: 39.175278
   longitude: -76.668333
   name: Baltimore, MD
@@ -463,6 +465,7 @@ airports:
   - {name: Raissa Philibert, user: philibert_raissa}
   - {name: Jordan Masakuna, user: masakuna_jordan}
   - {name: Warren Morne' Jacobus, user: jacobus_warren}
+  - {name: Saymore Chifamba, user: chifamba_saymore}
   - {name: Glenn Moncrieff, user: moncrieff_glenn}
   - {name: Ian van der Linde, user: van-der-linde_ian}
   - {name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
@@ -871,6 +874,12 @@ airports:
   latitude: 42.491
   longitude: -76.459
   name: Ithaca, NY
+- country: us
+  instructors:
+  - {name: Daijiang Li, user: li_daijiang}
+  latitude: 30.4941006
+  longitude: -81.6878967
+  name: Jacksonville International
 - country: sa
   instructors:
   - {name: David Ketcheson, user: ketcheson_david}
@@ -908,7 +917,9 @@ airports:
   - {name: Hannes Calitz, user: calitz_hannes}
   - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   - {name: Martin Dreyer, user: dreyer_martin}
+  - {name: Mojalefa Malahlela, user: malahlela_mojalefa}
   - {name: Angelique van Rensburg, user: van-rensburg_angelique}
+  - {name: LACTATIA MOTSUKU, user: motsuku_lactatia}
   - {name: Jacqueline Muller, user: muller_jacqueline}
   latitude: -26.138773
   longitude: 28.241339
@@ -1067,6 +1078,7 @@ airports:
   - {name: Kesson Magid, user: magid_kesson}
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Alexander Morley, user: morley_alexander}
+  - {name: Martin Hadley, user: hadley_martin}
   - {name: Julian Jordan, user: jordan_julian}
   - {name: Martha Robinson, user: robinson_martha}
   - {name: David Wright, user: wright_david}
@@ -1166,6 +1178,7 @@ airports:
 - country: us
   instructors:
   - {name: John Moreau, user: moreau_john}
+  - {name: BJ Lougee, user: lougee_bj}
   latitude: 39.2975
   longitude: -94.713889
   name: Kansas City, KS
@@ -1777,6 +1790,8 @@ airports:
   - {name: Chris Hamm, user: hamm_chris}
   - {name: Taylor Reiter, user: reiter_taylor}
   - {name: Jeffrey Thomas Miller, user: miller_jeffrey}
+  - {name: Robert Clark, user: clark_robert}
+  - {name: Kate Crosby, user: crosby_kate}
   - {name: Elizabeth Williams, user: williams_elizabeth}
   latitude: 38.695278
   longitude: -121.590556
@@ -1821,6 +1836,7 @@ airports:
   - {name: Neem Serra, user: serra_neem}
   - {name: Bo Ji, user: ji_bo_2}
   - {name: Maria Alejandra Arias, user: arias_maria-alejandra}
+  - {name: Tasso Pettigrew, user: pettigrew_tasso}
   latitude: 38.7475
   longitude: -90.359722
   name: St. Louis, MO
@@ -1871,6 +1887,7 @@ airports:
   - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
   - {name: Claire Hardgrove, user: hardgrove_claire}
   - {name: Aidan Wilson, user: wilson_aidan}
+  - {name: Carmi Cronje, user: cronje_carmi}
   - {name: Vince Polito, user: polito_vince}
   - {name: Adela Sobotkova, user: sobotkova_adela}
   - {name: Brian Ballsun-Stanton, user: ballsun-stanton_brian}
@@ -4019,7 +4036,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171009T130003Z
+timestamp: 20171009T140003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
