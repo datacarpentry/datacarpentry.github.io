@@ -972,6 +972,7 @@ airports:
   - {name: Will Furnass, user: furnass_will}
   - {name: Hugh Smith, user: smith_hugh}
   - {name: Jez Cope, user: cope_jez}
+  - {name: Kirsty Pringle, user: pringle_kirsty}
   - {name: Fernando Zapata, user: zapata_fernando}
   - {name: Lee Etchels, user: etchels_lee}
   - {name: Heather Ford, user: ford_heather}
@@ -1029,6 +1030,7 @@ airports:
   - {name: Robert A Beagrie, user: beagrie_robert}
   - {name: Miguel Bernabeu, user: bernabeu_miguel}
   - {name: Chris Cannam, user: cannam_c}
+  - {name: Ilektra-Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {name: Jonathan Cooper, user: cooper_jonathan}
   - {name: Rich FitzJohn, user: fitzjohn_rich}
   - {name: Philip Fowler, user: fowler_philip}
@@ -1064,7 +1066,9 @@ airports:
   - {name: Laura Fortunato, user: fortunato_laura}
   - {name: Kesson Magid, user: magid_kesson}
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
+  - {name: Alexander Morley, user: morley_alexander}
   - {name: Julian Jordan, user: jordan_julian}
+  - {name: Martha Robinson, user: robinson_martha}
   - {name: David Wright, user: wright_david}
   - {name: Stuart Grieve, user: grieve_stuart}
   latitude: 51.4775
@@ -1139,6 +1143,7 @@ airports:
   - {name: Stuart Mumford, user: mumford_stuart}
   - {name: Seb James, user: james_sebastian}
   - {name: Gerard Capes, user: capes_gerard}
+  - {name: Shih-Chen Chao, user: chao_shih-chen}
   - {name: Ardita Shkurti, user: shkurti_ardita}
   - {name: Ahmad Alam, user: alam_ahmad}
   - {name: Simone Di Cola, user: dicola_simone}
@@ -1815,6 +1820,7 @@ airports:
   - {name: Jeramia Ory, user: ory_j}
   - {name: Neem Serra, user: serra_neem}
   - {name: Bo Ji, user: ji_bo_2}
+  - {name: Maria Alejandra Arias, user: arias_maria-alejandra}
   latitude: 38.7475
   longitude: -90.359722
   name: St. Louis, MO
@@ -4013,7 +4019,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171009T120003Z
+timestamp: 20171009T130003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
