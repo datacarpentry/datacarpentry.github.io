@@ -3343,6 +3343,9 @@ badges:
   - {awarded: '2017-10-03', name: Renato Alves, user: alves_renato}
   - {awarded: '2017-10-03', name: Alexander Morley, user: morley_alexander}
   - {awarded: '2017-10-04', name: Sourav Singh, user: singh_sourav}
+  - {awarded: '2017-10-09', name: Stefan Helfrich, user: helfrich_stefan}
+  - {awarded: '2017-10-09', name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
+  - {awarded: '2017-10-09', name: Andreina Castillo Siri, user: castillo-siri_andreina}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3959,6 +3962,10 @@ badges:
   - {awarded: '2017-09-22', name: Shruti Subramaniam, user: subramaniam_shruti}
   - {awarded: '2017-09-26', name: Omar Julio Sosa, user: sosa_omar-julio}
   - {awarded: '2017-09-26', name: Laura Smart, user: smart_laura}
+  - {awarded: '2017-10-09', name: Arucas Chacon De Frutos, user: chacon-de-frutos_arucas}
+  - {awarded: '2017-10-09', name: Sarah Seymore, user: seymore_sarah}
+  - {awarded: '2017-10-09', name: Justin Millar, user: millar_justin}
+  - {awarded: '2017-10-09', name: Ashley Hetrick, user: hetrick_ashley}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4044,7 +4051,7 @@ flags:
     in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171009T160004Z
+timestamp: 20171009T170003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
