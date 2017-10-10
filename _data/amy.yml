@@ -100,6 +100,12 @@ airports:
   latitude: 33.640278
   longitude: -84.426944
   name: Atlanta, GA
+- country: ae
+  instructors:
+  - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
+  latitude: 24.4330006
+  longitude: 54.6511002
+  name: Abu Dhabi International
 - country: nz
   instructors:
   - {name: Georgina Rae, user: rae_georgina}
@@ -212,6 +218,7 @@ airports:
 - country: in
   instructors:
   - {name: Svaksha -, user: svaksha}
+  - {name: Sourav Singh, user: singh_sourav}
   latitude: 12.949722
   longitude: 77.668056
   name: Bangalore
@@ -1853,7 +1860,6 @@ airports:
   - {name: Lisa Breckels, user: breckels_lisa}
   - {name: John Constable, user: constable_john}
   - {name: Rob Davey, user: davey_rob}
-  - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
   - {name: Ross Mounce, user: mounce_ross}
@@ -4047,11 +4053,12 @@ badges:
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
-  airports: [au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il,
-    in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve, za]
+  airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie,
+    il, in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve,
+    za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171010T130003Z
+timestamp: 20171010T140004Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
