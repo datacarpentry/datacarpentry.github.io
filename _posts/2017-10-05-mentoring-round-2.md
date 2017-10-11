@@ -34,9 +34,9 @@ Once a topic has been selected, participants can choose what aspect of mentoring
 
 Additionally, we plan to offer mentoring on two big issues:
 
-+ Organizing Workshops   
-  - Logistics of organizing a workshop (e.g. marketing, registration)  
-  - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
++ Organizing Workshops    
+  - Logistics of organizing a workshop (e.g. marketing, registration)   
+  - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)   
 + Community Building  
   - Strategies to create and build local communities  
   - Tried-and-true events that help foster local community development  
