@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-authors: ["Kari L. Jordan", “Belinda Weaver”]
+authors: ["Kari L. Jordan, Belinda Weaver”]
 ---
 The inaugural Carpentries mentoring program was a great success, and we have used the feedback we received from both mentors and mentees to craft a new and improved mentoring experience in round two. The next round will run October 25th - January 10th.
 
