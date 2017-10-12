@@ -218,7 +218,6 @@ airports:
 - country: in
   instructors:
   - {name: Svaksha -, user: svaksha}
-  - {name: Sourav Singh, user: singh_sourav}
   latitude: 12.949722
   longitude: 77.668056
   name: Bangalore
@@ -226,6 +225,7 @@ airports:
   instructors:
   - {name: Scott Burns, user: burns_scott}
   - {name: Christopher Fonnesbeck, user: fonnesbeck_chris}
+  - {name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
   latitude: 36.131312
   longitude: -86.66945
   name: Nashville, TN
@@ -262,6 +262,12 @@ airports:
   latitude: 43.5643997
   longitude: -116.2229996
   name: Boise Air Terminal/Gowen Field Airport
+- country: in
+  instructors:
+  - {name: Sourav Singh, user: singh_sourav}
+  latitude: 19.0886993
+  longitude: 72.867897
+  name: Chhatrapati Shivaji International Airport
 - country: us
   instructors:
   - {name: Harriet Alexander, user: alexander_harriet}
@@ -746,6 +752,7 @@ airports:
   - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
   - {name: Toby Hodges, user: hodges_toby}
   - {name: Markus Ankenbrand, user: ankenbrand_markus}
+  - {name: Renato Alves, user: alves_renato}
   latitude: 50.026389
   longitude: 8.543056
   name: Frankfurt
@@ -782,6 +789,7 @@ airports:
   - {name: Allison Jai O'Dell, user: odell_allison-jai}
   - {name: Henry Senyondo, user: senyondo_henry}
   - {name: David Jennings, user: jennings_david}
+  - {name: Justin Millar, user: millar_justin}
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
@@ -1091,7 +1099,7 @@ airports:
   - {name: Laura Fortunato, user: fortunato_laura}
   - {name: Kesson Magid, user: magid_kesson}
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
-  - {name: Alexander Morley, user: morley_alexander}
+  - {name: Alexander James Morley, user: morley_alexander}
   - {name: Martin Hadley, user: hadley_martin}
   - {name: Julian Jordan, user: jordan_julian}
   - {name: Martha Robinson, user: robinson_martha}
@@ -1148,6 +1156,7 @@ airports:
   name: Lyon Saint Exupery
 - country: es
   instructors:
+  - {name: Arucas Chacon De Frutos, user: chacon-de-frutos_arucas}
   - {name: Javier García-Algarra, user: garcia-algarra_javier}
   - {name: JC Leyder, user: leyder_jean-christophe}
   - {name: Benjamin Laken, user: laken_benjamin}
@@ -3347,7 +3356,7 @@ badges:
   - {awarded: '2017-09-26', name: Shih-Chen Chao, user: chao_shih-chen}
   - {awarded: '2017-10-02', name: Dawn Childress, user: childress_dawn}
   - {awarded: '2017-10-03', name: Renato Alves, user: alves_renato}
-  - {awarded: '2017-10-03', name: Alexander Morley, user: morley_alexander}
+  - {awarded: '2017-10-03', name: Alexander James Morley, user: morley_alexander}
   - {awarded: '2017-10-04', name: Sourav Singh, user: singh_sourav}
   - {awarded: '2017-10-09', name: Stefan Helfrich, user: helfrich_stefan}
   - {awarded: '2017-10-09', name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
@@ -4058,7 +4067,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171012T010003Z
+timestamp: 20171012T020003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
