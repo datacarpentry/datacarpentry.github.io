@@ -3361,6 +3361,14 @@ badges:
   - {awarded: '2017-10-09', name: Stefan Helfrich, user: helfrich_stefan}
   - {awarded: '2017-10-09', name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
   - {awarded: '2017-10-09', name: Andreina Castillo Siri, user: castillo-siri_andreina}
+  - {awarded: '2017-10-13', name: James Estill, user: estill_james}
+  - {awarded: '2017-10-13', name: Nick Lesniak, user: lesniak_nick}
+  - {awarded: '2017-10-13', name: Conrad Leonard, user: leonard_conrad}
+  - {awarded: '2017-10-13', name: Nick Hamilton, user: hamilton_nick}
+  - {awarded: '2017-10-13', name: Tyler Kelly, user: kelly_tyler}
+  - {awarded: '2017-10-13', name: Jason D'Netto, user: dnetto_jason}
+  - {awarded: '2017-10-13', name: Jason Bragg, user: bragg_jason}
+  - {awarded: '2017-10-13', name: Kelly Rowland, user: rowland_kelly}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -3981,6 +3989,11 @@ badges:
   - {awarded: '2017-10-09', name: Sarah Seymore, user: seymore_sarah}
   - {awarded: '2017-10-09', name: Justin Millar, user: millar_justin}
   - {awarded: '2017-10-09', name: Ashley Hetrick, user: hetrick_ashley}
+  - {awarded: '2017-10-13', name: Kayla Peck, user: peck_k}
+  - {awarded: '2017-10-13', name: Aniello Infante, user: infante_aniello}
+  - {awarded: '2017-10-13', name: Matthew Durrant, user: durrant_matthew}
+  - {awarded: '2017-10-13', name: Jake Parker, user: parker_jake}
+  - {awarded: '2017-10-13', name: Zak (I.W) van Heerden, user: van-heerden_zak-iw}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4067,7 +4080,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171013T190003Z
+timestamp: 20171013T200002Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
