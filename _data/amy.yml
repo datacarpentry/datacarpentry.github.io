@@ -4067,7 +4067,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171013T120003Z
+timestamp: 20171013T130003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
@@ -6344,5 +6344,19 @@ workshops:
     - {name: DC}
     url: https://idigbio.github.io/2017-10-30-iDigBio-Summit-UFII/
     venue: University of Florida Informatics Institute
+  - address: 5200 Lake Rd, Merced, CA 95340
+    contact: Emily Lin lin@ucmerced.edu
+    country: US
+    end: 2017-10-27
+    eventbrite_id: '38469364906'
+    humandate: Oct 26-27, 2017
+    latitude: 37.363734
+    longitude: -120.43111
+    slug: 2017-10-26-merced
+    start: 2017-10-26
+    tags:
+    - {name: DC}
+    url: https://davidyakobovitch.github.io/2017-10-26-ucmerced/
+    venue: University of California MERCED
 workshops_current: *id001
 workshops_past: *id002
