@@ -88,7 +88,7 @@ The workshop can be taught using R or Python as the base language.
 
 #### Overview
 
-*These lessons are under development and will be ready for broader teaching in October, 2017*
+*These lessons are under development and will be ready for broader teaching in November, 2017*
 
 The focus of this workshop is on working with genomics data and data management and analysis for genomics research. It covers metadata organization in spreadsheets, data organization, connecting to and using cloud computing, the command line for sequence quality control and either bioinformatics workflows (Genomics Workshop with Pipeline Workflow), or R for data analysis and visualization (Genomics Workshop with R). The workshop does not teach any particular bioinformatics tools, but the foundational skills that will allow you to conduct any analysis and analyze the output of a genomics pipeline.
 
