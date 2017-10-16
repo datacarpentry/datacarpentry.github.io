@@ -922,6 +922,7 @@ airports:
   - {name: Genevieve Smith, user: smith_g}
   - {name: Jason Williams, user: williams_jason}
   - {name: Andreas Mueller, user: mueller_andreas}
+  - {name: David Yakobovitch, user: yakobovitch_david}
   - {name: Joslynn Lee, user: lee_joslynn}
   - {name: Lingling Jiang, user: jiang_lingling}
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
@@ -1780,6 +1781,7 @@ airports:
 - country: us
   instructors:
   - {name: Michael Levy, user: levy_michael}
+  - {name: Carol Rowe, user: rowe_carol}
   - {name: Martin Schilling, user: schilling_martin}
   - {name: Paul G. Wolf, user: wolf_paul}
   - {name: Gus Hart, user: hart_gus}
@@ -4082,7 +4084,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171016T100003Z
+timestamp: 20171016T110002Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
