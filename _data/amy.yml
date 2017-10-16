@@ -253,6 +253,7 @@ airports:
   - {name: Stephen McGregor, user: mcgregor_stephen}
   - {name: Richard Vankoningsveld, user: vankoningsveld_richard}
   - {name: James Lefevre, user: lefevre_james}
+  - {name: Tyler Kelly, user: kelly_tyler}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
@@ -1927,6 +1928,7 @@ airports:
   - {name: Richard Miller, user: miller_richard}
   - {name: Andrew Ferris, user: ferris_andrew}
   - {name: Jake Surman, user: surman_jake}
+  - {name: Jason Bragg, user: bragg_jason}
   latitude: -33.946111
   longitude: 151.177222
   name: Sydney
@@ -4080,7 +4082,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171016T080003Z
+timestamp: 20171016T090003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
