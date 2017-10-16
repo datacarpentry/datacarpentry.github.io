@@ -38,11 +38,11 @@ Additionally, we began collecting data on the long-term impact our workshops are
 ### Data
 
 Data sets to go along with assessment reports are provided as csv files in a 
-[GitHub repository](https://github.com/carpentries/assessment-projects), along with the version of the surveys that were in use at time of analysis.  
+[GitHub repository](https://github.com/carpentries/assessment), along with the version of the surveys that were in use at time of analysis.  
 
-[Data for Assessment report 2016-10-20](https://raw.githubusercontent.com/carpentries/public-survey-info/master/documents/reports/Data-Carpentry-Reports/postworkshop_data.csv)
+[Data for Assessment report 2016-10-20](https://raw.githubusercontent.com/carpentries/assessment/master/data-carpentry/postworkshop/data.csv)
 
-[Data for Long term survey](https://github.com/carpentries/assessment-projects/blob/master/joint-carpentry-projects/long-term-survey/data.csv)
+[Data for Long term survey](https://raw.githubusercontent.com/carpentries/assessment/master/carpentries/long-term-survey/data.csv)
 
 ### Assessment Results
  
@@ -63,7 +63,7 @@ The report finds that learners are reporting that after a workshop, their level 
 
 #### Long-term survey reports
 
-[Long term assessment report Sept 2017](https://carpentries.github.io/assessment-projects/joint-carpentry-projects/long-term-survey/report.html)
+[Long term assessment report Sept 2017](https://carpentries.github.io/assessment/carpentries/long-term-survey/report.html)
 
 The long-term survey assessed confidence, motivation, and other outcomes more than six months after respondents attended a Carpentry workshop. Provided below are a few highlights from the data.
 
