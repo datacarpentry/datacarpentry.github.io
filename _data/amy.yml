@@ -4080,7 +4080,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171016T060002Z
+timestamp: 20171016T070002Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
@@ -6371,5 +6371,19 @@ workshops:
     - {name: DC}
     url: https://davidyakobovitch.github.io/2017-10-26-ucmerced/
     venue: University of California MERCED
+  - address: Salt Lake City Convention Center
+    contact: ''
+    country: US
+    end: 2017-10-18
+    eventbrite_id: ''
+    humandate: Oct 18-18, 2017
+    latitude: 40.7608
+    longitude: -111.891
+    slug: 2017-10-18-SACNAS
+    start: 2017-10-18
+    tags:
+    - {name: DC}
+    url: https://galaxyproject.org/events/2017-sacnas/#workshop-1-software-and-data-carpentry
+    venue: SACNAS Annual meeting
 workshops_current: *id001
 workshops_past: *id002
