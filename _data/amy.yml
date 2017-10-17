@@ -3373,6 +3373,11 @@ badges:
   - {awarded: '2017-10-13', name: Jason D'Netto, user: dnetto_jason}
   - {awarded: '2017-10-13', name: Jason Bragg, user: bragg_jason}
   - {awarded: '2017-10-13', name: Kelly Rowland, user: rowland_kelly}
+  - {awarded: '2017-10-17', name: Keith Gilbertson, user: gilbertson_keith}
+  - {awarded: '2017-10-17', name: William Close, user: close_william}
+  - {awarded: '2017-10-17', name: Ginny (Virginia) Pannabecker, user: pannabecker_ginny-virginia}
+  - {awarded: '2017-10-17', name: Sandra Brosda, user: brosda_sandra}
+  - {awarded: '2017-10-17', name: Joke Durnez, user: durnez_joke}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4084,7 +4089,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171017T190004Z
+timestamp: 20171017T200003Z
 workshops:
 - &id002
   - address: 1201 Central Avenue Mall, Fort Collins, CO 80521
