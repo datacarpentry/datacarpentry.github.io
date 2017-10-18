@@ -27,13 +27,29 @@ composition of the board, see [this
 issue](https://github.com/carpentries/2017Merger/blob/master/RFCs/RFC2.md), part
 of the merger RFC.  
 
-If you are a qualified instructor who has taught at least twice in the past two
-years, or have done non-teaching work for the community, you can both stand for
-election and vote. Please visit the [list of current SCF
-members](https://software-carpentry.org/scf/members/) to see who is eligible to
-stand and vote in our election. We are updating this list to reflect Data
-Carpentry as well. If you believe you qualify as a member but are not listed,
-please [contact us](mailto:admin@carpentries.org) as soon as possible.
+**Who can run and vote?**
+
+Following [current SCF
+bylaws](https://software-carpentry.org/blog/2014/12/scf-governance.html) current
+Carpentries members may vote and serve on the Board. Election or appointment to
+the board is currently limited to members.
+
+The membership is made up of:
+
+* Every qualified instructor who has taught at least two Software or Data Carpentry workshops in the past two calendar years.
+* Anyone who has done 30 days or more work for the Carpentries in the past calendar year.
+* Anyone who has, in the opinion of the Steering Committee, made a significant contribution in the past year.
+* The signatory for a Silver, Gold or Platinum Member Organization
+
+If you're not sure if you're a member, log in to
+[AMY](https://amy.software-carpentry.org/account/login/) and see if records show
+that you have taught in the last two years. If you need records updated or have
+any questions, please email [team@carpentries.org](mailto:team@carpentries.org).
+If you have taught workshops that aren't registered, please include a link to
+those workshops. We'll also be sending out an email to each instructor with
+their status.
+
+**How do I stand for election?**
 
 In order to stand for election we request that you write a blog post that
 introduces yourself to the community. The post:
@@ -45,10 +61,10 @@ introduces yourself to the community. The post:
 You can submit your post as a pull request to either the [SWC website
 repository](https://github.com/swcarpentry/website), the [DC website
 repository](https://github.com/datacarpentry/datacarpentry.github.io) or [by
-email](mailto:admin@carpentries.org). In the post, you should explain:
+email](mailto:team@carpentries.org). In the post, you should explain:
 
 * your previous involvement with The Carpentries
-* what you would do as a member of the Board of Directors to contribute to the growth and success of the community 
+* what you would do as a member of the Board of Directors to contribute to the growth and success of the community
 
 The [post from last year's SWC elections](https://software-carpentry.org/blog/2017/01/election-update.html) contains examples.
 
