@@ -48,7 +48,9 @@ repository](https://github.com/datacarpentry/datacarpentry.github.io) or [by
 email](mailto:admin@carpentries.org). In the post, you should explain:
 
 * your previous involvement with The Carpentries
-* what you would do as a member of the Board of Directors to contribute to the growth and success of the community
+* what you would do as a member of the Board of Directors to contribute to the growth and success of the community 
+
+The [post from last year's SWC elections](https://software-carpentry.org/blog/2017/01/election-update.html) contains examples.
 
 Candidates will be given the opportunity to share their thoughts with our
 community, including ideas for continued involvement, at our two community
