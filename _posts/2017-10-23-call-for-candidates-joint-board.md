@@ -13,7 +13,7 @@ authors: ["Karen Cranston"]
 
 ---
 
-As most of you know, Software Carpentry and Data Carpentry and merging into a
+As most of you know, Software Carpentry and Data Carpentry are merging into a
 new organization, provisionally called "The Carpentries". This new organization
 will officially begin on January 1, 2018, with a hugely talented staff and
 dedicated community already in place.
@@ -38,8 +38,9 @@ please [contact us](mailto:admin@carpentries.org) as soon as possible.
 In order to stand for election we request that you write a blog post that
 introduces yourself to the community. The post:
 
-* must be about 500 words can be written in any format (question and answer, paragraph etc.)
-* must be titled "2018 Election: Your Name" must be submitted by December 1, 2017
+* must be about 500 words and can be written in any format (question and answer, paragraph etc.)
+* must be titled "2018 Election: Your Name"
+* must be submitted by December 1, 2017
 
 You can submit your post as a pull request to either the [SWC website
 repository](https://github.com/swcarpentry/website), the [DC website
@@ -52,3 +53,10 @@ email](mailto:admin@carpentries.org). In the post, you should explain:
 Candidates will be given the opportunity to share their thoughts with our
 community, including ideas for continued involvement, at our two community
 meetings on November 16, 2017.
+
+**Timeline for election:**
+
+* October 23: nominations open
+* November 16: nominees can introduce themselves on community calls
+* December 1: nominations close
+* December 4-8: community votes on candidates
