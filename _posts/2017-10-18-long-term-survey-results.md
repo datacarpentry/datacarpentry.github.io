@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-authors: ["Kari L. Jordan", “Tracy Teal”, “Erin Becker", “Karen Word”]
+authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker", "Karen Word"]
 ---
 What concrete changes are people implementing in their computational research practices as a result of completing a Carpentries workshop?
 
