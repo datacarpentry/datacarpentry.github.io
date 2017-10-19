@@ -29,7 +29,7 @@ The final survey instrument included items for self-reported behaviors around go
 
 Not only do these two-day coding workshops increase researcher’s daily programming usage, sixty-five percent of respondents have gained confidence in working with data and open source tools as a result of completing the workshop. The long-term assessment data showed a decline in the percentage of respondents that 'have not been using these tools' (-11.1%), and an increase in the percentage of those who now use the tools on daily basis (14.5%). 
 
-Some highlights from our long-term survey:
+## Highlights from our long-term survey
 
 The majority of our respondents:
 + Gained confidence in the tools that were covered during their workshop (77%).
