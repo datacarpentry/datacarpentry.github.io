@@ -4089,7 +4089,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171019T170003Z
+timestamp: 20171019T180003Z
 workshops:
 - &id002
   - address: Salt Lake City Convention Center
@@ -6380,6 +6380,21 @@ workshops:
     - {name: DC}
     url: https://idigbio.github.io/2017-10-30-iDigBio-Summit-UFII/
     venue: University of Florida Informatics Institute
+  - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
+      Exact venue to be confirmed
+    contact: anelda@talarify.co.za
+    country: ET
+    end: 2017-10-31
+    eventbrite_id: ''
+    humandate: Oct 30-31, 2017
+    latitude: 9.040216
+    longitude: 38.762582
+    slug: 2017-10-30-Ethiopia
+    start: 2017-10-30
+    tags:
+    - {name: DC}
+    url: https://anelda.github.io/2017-10-30-Ethiopia/
+    venue: Ethiopian Research and Education Network
   - address: 5200 Lake Rd, Merced, CA 95340
     contact: Emily Lin lin@ucmerced.edu
     country: US
@@ -6394,5 +6409,19 @@ workshops:
     - {name: DC}
     url: https://davidyakobovitch.github.io/2017-10-26-ucmerced/
     venue: University of California MERCED
+  - address: Room 218, Building G23, 11 Hoffman Street, NWU, Potchefstroom
+    contact: bianca.peterson@nwu.ac.za
+    country: ''
+    end: 2017-10-27
+    eventbrite_id: ''
+    humandate: Oct 24-27, 2017
+    latitude: -26.68556
+    longitude: 27.094667
+    slug: 2017-10-24-ARC-16S
+    start: 2017-10-24
+    tags:
+    - {name: DC}
+    url: https://nwu-eresearch.github.io/2017-10-24-ARC-16S/
+    venue: Metagenomics Data Carpentry Workshop
 workshops_current: *id001
 workshops_past: *id002
