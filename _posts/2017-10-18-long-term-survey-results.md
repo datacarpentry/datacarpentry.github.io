@@ -32,9 +32,8 @@ Not only do these two-day coding workshops increase researcher’s daily program
 ## Highlights from our long-term survey
 
 The majority of our respondents:
-+ Gained confidence in the tools that were covered during their workshop (77%).
-+ Became more motivated to continue learning the tools covered in their workshop (88%). 
-+ Reported improving their coding practices (70%).
++ Gained confidence in the tools that were covered during their workshop (85.3%).
++ Reported improving their coding practices (63.1%).
 
 Respondents also substantially increased their frequency of use of programing languages (R, Python, etc.), databases (Access, SQL, etc.), version control software and/or the Unix shell, incorporating these tools into their regular workflows. Nineteen percent of respondents transitioned from using these tools once a month or less to weekly or daily use per the figure below.
 
