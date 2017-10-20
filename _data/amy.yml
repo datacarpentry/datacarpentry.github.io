@@ -17,6 +17,12 @@ airports:
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
+- country: et
+  instructors:
+  - {name: Mesfin Diro Chaka, user: diro-chaka_mesfin}
+  latitude: 8.97789
+  longitude: 38.7993011
+  name: Bole International Airport
 - country: gb
   instructors:
   - {name: Alexander Konovalov, user: konovalov_alexander}
@@ -253,7 +259,7 @@ airports:
   - {name: Stephen McGregor, user: mcgregor_stephen}
   - {name: Richard Vankoningsveld, user: vankoningsveld_richard}
   - {name: James Lefevre, user: lefevre_james}
-  - {name: Tyler Kelly, user: kelly_tyler}
+  - {name: Tyler Crawford Kelly, user: kelly_tyler}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
@@ -446,6 +452,7 @@ airports:
   - {name: Elizabeth Wickes, user: wickes_elizabeth}
   - {name: Maxim Belkin, user: belkin_maxim}
   - {name: Dena Lynn Strong, user: strong_dena}
+  - {name: Ashley L Hetrick, user: hetrick_ashley}
   latitude: 40.039167
   longitude: -88.278056
   name: Urbana-Champaign, IL
@@ -1394,6 +1401,7 @@ airports:
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
   - {name: Pauline A. Fujita, user: fujita_pauline}
+  - {name: Kelly Rowland, user: rowland_kelly}
   latitude: 37.721111
   longitude: -122.220556
   name: Oakland, CA
@@ -1745,6 +1753,7 @@ airports:
   - {name: Todd Gamblin, user: gamblin_todd}
   - {name: Claudia Engel, user: engel_claudia}
   - {name: Javier de la Rosa, user: de-la-rosa_javier}
+  - {name: Joke Durnez, user: durnez_joke}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -3369,7 +3378,7 @@ badges:
   - {awarded: '2017-10-13', name: Nick Lesniak, user: lesniak_nick}
   - {awarded: '2017-10-13', name: Conrad Leonard, user: leonard_conrad}
   - {awarded: '2017-10-13', name: Nick Hamilton, user: hamilton_nick}
-  - {awarded: '2017-10-13', name: Tyler Kelly, user: kelly_tyler}
+  - {awarded: '2017-10-13', name: Tyler Crawford Kelly, user: kelly_tyler}
   - {awarded: '2017-10-13', name: Jason D'Netto, user: dnetto_jason}
   - {awarded: '2017-10-13', name: Jason Bragg, user: bragg_jason}
   - {awarded: '2017-10-13', name: Kelly Rowland, user: rowland_kelly}
@@ -3997,7 +4006,7 @@ badges:
   - {awarded: '2017-10-09', name: Arucas Chacon De Frutos, user: chacon-de-frutos_arucas}
   - {awarded: '2017-10-09', name: Sarah Seymore, user: seymore_sarah}
   - {awarded: '2017-10-09', name: Justin Millar, user: millar_justin}
-  - {awarded: '2017-10-09', name: Ashley Hetrick, user: hetrick_ashley}
+  - {awarded: '2017-10-09', name: Ashley L Hetrick, user: hetrick_ashley}
   - {awarded: '2017-10-13', name: Kayla Peck, user: peck_k}
   - {awarded: '2017-10-13', name: Aniello Infante, user: infante_aniello}
   - {awarded: '2017-10-13', name: Matthew Durrant, user: durrant_matthew}
@@ -4084,12 +4093,12 @@ badges:
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
-  airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie,
-    il, in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us, ve,
-    za]
+  airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, et, fr, gb, gr, hk,
+    ie, il, in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us,
+    ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171020T150002Z
+timestamp: 20171020T160002Z
 workshops:
 - &id002
   - address: Salt Lake City Convention Center
