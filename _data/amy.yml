@@ -3387,6 +3387,11 @@ badges:
   - {awarded: '2017-10-17', name: Ginny (Virginia) Pannabecker, user: pannabecker_ginny-virginia}
   - {awarded: '2017-10-17', name: Sandra Brosda, user: brosda_sandra}
   - {awarded: '2017-10-17', name: Joke Durnez, user: durnez_joke}
+  - {awarded: '2017-10-20', name: Ryan Avery, user: avery_ryan}
+  - {awarded: '2017-10-20', name: Ian Bell, user: bell_ian}
+  - {awarded: '2017-10-20', name: Gretchen Greene, user: greene_gretchen}
+  - {awarded: '2017-10-20', name: Russell Waldron, user: waldron_russell}
+  - {awarded: '2017-10-20', name: Kellie Ottoboni, user: ottoboni_kellie}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4012,6 +4017,7 @@ badges:
   - {awarded: '2017-10-13', name: Matthew Durrant, user: durrant_matthew}
   - {awarded: '2017-10-13', name: Jake Parker, user: parker_jake}
   - {awarded: '2017-10-13', name: Zak (I.W) van Heerden, user: van-heerden_zak-iw}
+  - {awarded: '2017-10-20', name: Arindam Basu, user: basu_arindam}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4098,7 +4104,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171020T180002Z
+timestamp: 20171020T190003Z
 workshops:
 - &id002
   - address: Salt Lake City Convention Center
