@@ -4104,7 +4104,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171022T020003Z
+timestamp: 20171022T030002Z
 workshops:
 - &id002
   - address: Salt Lake City Convention Center
