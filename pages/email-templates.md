@@ -105,3 +105,34 @@ Best,
 
 ____________________________________________________________________________
 
+
+### Encourage learners to complete pre-workshop survey
+
+Hello,
+
+We are excited to meet you at the upcoming [Data/Software/Library Carpentry workshop](INSERT WORKSHOP WEBSITE LINK). To help your instructional team provide an inclusive environment, and to learn more about your current experience with the tools you’ll learn, we ask that you complete our [pre-workshop survey](https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id=[workshop_id_value]). 
+
+Your responses will be recorded anonymously. If you respond via email, your IP address will be registered; however, your responses will remain anonymous. You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. You may quit the survey at any time, or skip any item other than those required to correctly sort your responses. 
+
+You will be asked to create a unique identifier. This identifier will be confidential to you and will help us pair your results with the post-survey. We do this to understand what impact our workshops are having on several variables, including confidence and motivation to use the tools covered during your workshop.
+
+If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Deputy Director of Assessment for Data Carpentry.
+
+Our best,  
+Your instructional team
+
+____________________________________________________________________________
+
+
+### Encourage learners to complete post-workshop survey
+
+Hello,
+
+We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We’d like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the [post-workshop survey](https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id=[workshop_id_value]) as soon as possible.
+
+Just as you did with the pre-workshop survey, you will be asked to create a unique identifier. This identifier will be confidential to you and will help us pair your results with the pre-survey. We do this to understand what impact our workshops are having on several variables, including confidence and motivation to use the tools covered during your workshop.
+
+If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Deputy Director of Assessment for Data Carpentry. We look forward to your continued involvement with our community!
+
+Our best,  
+Your instructional team
