@@ -398,6 +398,7 @@ airports:
   - {name: Michael Gauland, user: gauland_michael}
   - {name: Olivia Rata Burge, user: burge_olivia}
   - {name: Ben Roberts, user: roberts_ben}
+  - {name: Anton Angelo, user: angelo_anton}
   - {name: Arindam Basu, user: basu_arindam}
   latitude: -43.489167
   longitude: 172.532222
@@ -1555,6 +1556,7 @@ airports:
 - country: nz
   instructors:
   - {name: Matt Wilkins, user: wilkins_matt}
+  - {name: Pablo Hernandez-Cerdan, user: hernandez-cerdan_pablo}
   latitude: -40.323854
   longitude: 175.621829
   name: Palmerston North Airport
@@ -2075,6 +2077,7 @@ airports:
   - {name: Jose Higino, user: higino_jose}
   - {name: Fabrice Cantos, user: cantos_fabrice}
   - {name: Alexander Pletzer, user: pletzer_alexander}
+  - {name: Soren Haubrock, user: haubrock_soren}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -3394,6 +3397,7 @@ badges:
   - {awarded: '2017-10-20', name: Gretchen Greene, user: greene_gretchen}
   - {awarded: '2017-10-20', name: Russell Waldron, user: waldron_russell}
   - {awarded: '2017-10-20', name: Kellie Ottoboni, user: ottoboni_kellie}
+  - {awarded: '2017-06-07', name: Anton Angelo, user: angelo_anton}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4106,7 +4110,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171024T210004Z
+timestamp: 20171024T220003Z
 workshops:
 - &id002
   - address: Salt Lake City Convention Center
