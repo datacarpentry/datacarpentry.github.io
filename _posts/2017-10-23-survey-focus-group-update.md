@@ -72,4 +72,4 @@ Lastly, instead of asking learners to select their **race**, we ask, “How woul
 
 We welcome feedback from the community about the adjustments we are planning to make thus far. If you have feedback or ideas, please [submit an issue](https://github.com/carpentries/assessment/issues) on the [Carpentries/assessment](https://github.com/carpentries/assessment/) repo. Tweet us your thoughts at @datacarpentry and @drkariljordan using the hashtag #carpentriesassessment.
 
-Our next meeting is Wednesday, October 25. During this meeting we will discuss the [skills-based questions](https://docs.google.com/document/d/1rX_gEZE29jSjEpmkVVTUbHa7bYjwPtKEWVxrQ7Ij_64/edit) that are included on Data Carpentry’s pre- and post-workshop surveys. [Get in touch](mailto:kariljordan@carpentries.org) if you’d like to be involved in this conversation. 
+During our next meeting we will discuss the [skills-based questions](https://docs.google.com/document/d/1rX_gEZE29jSjEpmkVVTUbHa7bYjwPtKEWVxrQ7Ij_64/edit) that are included on Data Carpentry’s pre- and post-workshop surveys. [Get in touch](mailto:kariljordan@carpentries.org) if you’d like to be involved in this conversation. 
