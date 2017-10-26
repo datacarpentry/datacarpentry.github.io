@@ -1213,6 +1213,7 @@ airports:
 - country: us
   instructors:
   - {name: John Moreau, user: moreau_john}
+  - {name: Jamene Brooks-Kieffer, user: brooks-kieffer_jamene}
   - {name: Greg Woodward, user: woodward_greg}
   - {name: BJ Lougee, user: lougee_bj}
   latitude: 39.2975
@@ -1404,6 +1405,7 @@ airports:
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
   - {name: Pauline A. Fujita, user: fujita_pauline}
+  - {name: Kellie Ottoboni, user: ottoboni_kellie}
   - {name: Kelly Rowland, user: rowland_kelly}
   latitude: 37.721111
   longitude: -122.220556
@@ -4111,7 +4113,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171026T180003Z
+timestamp: 20171026T190003Z
 workshops:
 - &id002
   - address: Salt Lake City Convention Center
