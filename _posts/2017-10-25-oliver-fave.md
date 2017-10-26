@@ -12,9 +12,6 @@ show_meta: true
 authors: ["Jeff Oliver"]
 ---
 
-#### My favorite tool is ...
-
-
 I love [Git](https://git-scm.com/) and [GitHub](https://github.com).
 
 I only use them for work I care about. Examples include lesson development for R workshops, my recent performance review 
