@@ -2,7 +2,7 @@
 layout: post
 subheadline: "Assessment"
 title: "Pilot Survey Focus Group Update"
-teaser: "Outcomes from initial focus group to discuss Data Carpentry’s survey instruments"
+teaser: "Outcomes from focus group to discuss Data Carpentry’s survey instruments"
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
@@ -36,40 +36,24 @@ In addition to the unique identifier, the survey includes skills-based questions
           D: ggplot(df, aes(x, y)) + geom_point()
           E. None of the above will work.
 
-Our goal in including skills-based questions was to be able to show that learners were leaving our workshops having specific skills working with data.
+Our goal in including skills-based questions was to determine whether learners were leaving our workshops having specific skills working with data.
 
-Feedback from our instructor community has been that this survey has given some of our learners anxiety about our workshops. Though language around the purpose of the unique identifier was included, some learners feel the questions they are being asked are intrusive, and that the skills-based questions are intimidating. 
+Feedback from some of the instructors has been that this survey has given some of our learners anxiety about our workshops. Though language around the purpose of the unique identifier was included, some learners felt the questions they were being asked were intrusive, and that the skills-based questions are intimidating. 
 
 Therefore, a call for a survey focus group went out on [discuss](http://lists.software-carpentry.org/pipermail/discuss/2017-October/005486.html) and the [virtual assessment network](https://groups.google.com/a/carpentries.org/forum/#!forum/assessment-network) to take a closer look at this survey, and what changes should be made to make it more inclusive.
 
-Lead by [Kari L. Jordan](https://github.com/kariljordan), the focus group included [Stephen Childs](https://github.com/sechilds), [Alycia Crall](https://twitter.com/alycrall), [Reshama Shaikh](https://twitter.com/reshamas), [Aleksandra Nenadic](https://github.com/anenadic), [Karen Word](http://twitter.com/karen_word), and [Louisa Bells](https://twitter.com/ChemCurator). These individuals represent have expertise in data science assessment and evaluation. 
+Lead by [Kari L. Jordan](https://github.com/kariljordan), the focus group included [Stephen Childs](https://github.com/sechilds), [Alycia Crall](https://twitter.com/alycrall), [Reshama Shaikh](https://twitter.com/reshamas), [Aleksandra Nenadic](https://github.com/anenadic), [Karen Word](http://twitter.com/karen_word), and [Louisa Bells](https://twitter.com/ChemCurator). These individuals have expertise in data science assessment and evaluation. 
 
-The focus group’s first [meeting](https://docs.google.com/document/d/16GEJiHNSla0aE1oCRjqDRyLlIz1q2NCXFJt3vWs70zw/edit) was Friday, October 20th 2017. The primary goal of this meeting was to determine how we could assign unique identifiers to our learners and still have their data remain confidential. Additionally, we discussed the need to collect demographic information, and how to accomplish that in an inclusive way.
+The focus group’s first [meeting](https://docs.google.com/document/d/16GEJiHNSla0aE1oCRjqDRyLlIz1q2NCXFJt3vWs70zw/edit) was Friday, October 20th 2017. The primary goal of this meeting was to determine how we could assign unique identifiers to our learners and still have their data remain anonymous. Additionally, we discussed the need to collect demographic information, and how to accomplish that in an inclusive way.
 
-In terms of unique identifiers, an idea was to ask learners to provide their personal e-mail address as their unique identifier. Issues were raised around learners not remembering which e-mail address they gave, and that by providing their e-mail address their responses would not be anonymous. We discussed stating in the introductory language that responses would be *confidential*, but not *anonymous* as research staff (Kari Jordan and Erin Becker) have access to the data. There was also the idea of having SurveyMonkey create unique survey links for participants, but this would not be feasible because our survey links are embedded into the [workshop website template](https://github.com/datacarpentry/workshop-template). SurveyMonkey does offer the ability to create [custom variables](https://help.surveymonkey.com/articles/en_US/kb/What-are-custom-variables-and-how-do-I-use-them) however, this will add more manual work for staff and workshop hosts. A graphic was also discussed as an option for unique identifiers, however, we are concerned that learners may not remember what graphic they chose. We are still searching for a solution, so if you have ideas please [get in touch](mailto:kariljordan@carpentries.org). 
+In terms of unique identifiers, an idea was to ask learners to provide their personal e-mail address as their unique identifier. Issues were raised around learners not remembering which e-mail address they gave, and that by providing their e-mail address their responses would not be anonymous. The idea of having SurveyMonkey create unique survey links for participants was discussed, but this would not be feasible because our survey links are embedded into the [workshop website template](https://github.com/datacarpentry/workshop-template). SurveyMonkey does offer the ability to create [custom variables](https://help.surveymonkey.com/articles/en_US/kb/What-are-custom-variables-and-how-do-I-use-them) however, this will add more manual work for staff and workshop hosts. A graphic was also discussed as an option for unique identifiers, however, we are concerned that learners may not remember what graphic they chose. We are still searching for a solution, so if you have ideas please [get in touch](mailto:kariljordan@carpentries.org). 
 
-U.S. based workshop participants are asked demographic questions (race/ethnicity, gender, etc.) Collecting this type of information can be challenging, and we want to be sure we are asking demographic questions in an inclusive manner. Thus, instead of asking *what is your gender*, and having learners select from the following, 
+U.S. based workshop participants are asked demographic questions (race/ethnicity, gender, etc.) Collecting this type of information can be challenging, and we want to be sure we are asking demographic questions in an inclusive manner. Thus language around our *gender* question was improved so that respondents can select which gender identity they most identify with. 
 
-          + Female 
-          + Male 
-          + Other 
-          + Prefer not to say 
-
-the *gender* question was changed to a free response question where learners are able to type in how they identify themselves. This will result in more data cleaning, but this can easily be done in OpenRefine.
-
-Additionally, instead of asking learners to check a box identifying whether or not they are dealing with a disability, we added the following questions:
-
-        **Accessibility** Do you need support for any accessibility requirements that would improve your experience at the      
-        conference? If so, please describe.  
-
-        **Accommodation. Check all that apply.**
-          + Gender-neutral bathrooms
-          + ESL Translation
-          + Mother’s Room, refrigerator (nursing)
-          + Other (Enter description)
+Additionally, learners are encouraged to contact their workshop host if they need support for any accessibility requirements that would improve their experience at the workshop. 
 
 Lastly, instead of asking learners to select their **race**, we ask, “How would you describe yourself?” Learners are prompted to select from several groups.
 
-We welcome feedback from the community about the adjustments we are planning to make thus far. If you have feedback or ideas, please [submit an issue](https://github.com/carpentries/assessment/issues) on the [Carpentries/assessment](https://github.com/carpentries/assessment/) repo. Tweet us your thoughts at @datacarpentry and @drkariljordan using the hashtag #carpentriesassessment.
+During our second meeting (October 25th) we discussed the [skills-based questions](https://docs.google.com/document/d/1rX_gEZE29jSjEpmkVVTUbHa7bYjwPtKEWVxrQ7Ij_64/edit) that are included on Data Carpentry’s pre- and post-workshop surveys. The consensus was that our community is more concerned with measuring learner's confidence and motivation to use the tools, therefore, the skills-based questions were removed from the surveys. 
 
-During our next meeting we will discuss the [skills-based questions](https://docs.google.com/document/d/1rX_gEZE29jSjEpmkVVTUbHa7bYjwPtKEWVxrQ7Ij_64/edit) that are included on Data Carpentry’s pre- and post-workshop surveys. [Get in touch](mailto:kariljordan@carpentries.org) if you’d like to be involved in this conversation. 
+We welcome feedback from the community about the adjustments we have made to our surveys. If you have feedback or ideas, please [submit an issue](https://github.com/carpentries/assessment/issues) on the [Carpentries/assessment](https://github.com/carpentries/assessment/) repo. Tweet us your thoughts at @datacarpentry and @drkariljordan using the hashtag #carpentriesassessment. [Get in touch](mailto:kariljordan@carpentries.org) if you’d like to be involved in this conversation. 
