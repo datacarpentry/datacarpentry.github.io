@@ -6,7 +6,8 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/mentoring/"
 ---
-# The Mentoring Subcommittee
+
+## The Mentoring Subcommittee
 
 ## Purpose and Scope
 
@@ -46,11 +47,11 @@ I would like to:
 - join a small group to receive mentoring from experienced instructors or mentor new instructors
 	- Join a mentoring group by contacting [Kari L. Jordan](mailto:kariljordan@carpentries.org)
 - discuss workshop experiences with other instructors or ask questions of other instructors as I prepare to teach
-	- Attend an instructor discussion session by signing up on [this etherpad][http://pad.software-carpentry.org/instructor-discussion].
+	- Attend an instructor discussion session by signing up on [this etherpad](http://pad.software-carpentry.org/instructor-discussion).
 - help lead discussion sessions among instructors
-	- Join the [discussion host mailing list][https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts] and sign up to host, co-host, or observe a discussion on [this etherpad][http://pad.software-carpentry.org/instructor-discussion]
+	- Join the [discussion host mailing list](https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts) and sign up to host, co-host, or observe a discussion on [this etherpad](http://pad.software-carpentry.org/instructor-discussion).
 - support current mentoring activities, initiate new ones, or join the mentoring subcommittee
-	- Sign up for the mentoring subcommittee [mailing list][http://lists.software-carpentry.org/listinfo/mentoring] and attend the next mentoring subcommittee meeting (scheduled on [this etherpad](http://pad.software-carpentry.org/scf-mentoring)
+	- Sign up for the mentoring subcommittee [mailing list](http://lists.software-carpentry.org/listinfo/mentoring) and attend the next mentoring subcommittee meeting (scheduled on [this etherpad](http://pad.software-carpentry.org/scf-mentoring).
 
 For a complete summary of mentoring subcommittee roles, see [this page](https://github.com/carpentries/mentoring/blob/master/roles/README.md).  
 
