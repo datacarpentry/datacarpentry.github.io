@@ -20,7 +20,7 @@ See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-g
 
 ## Mentoring Subcommittee 
 
-## Purpose and Scope
+### Purpose and Scope
 
 The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
 The Mentoring Subcommittee meets regularly to evaluate current activities, and propose
@@ -31,7 +31,7 @@ anyone who is interested in joining and helping out!
 
 To attend our next meeting, visit [this etherpad](http://pad.software-carpentry.org/scf-mentoring).
 
-## Join Us!
+### Join Us!
 
 Any Software or Data Carpentry community member is welcome to participate in the
 Mentoring Subcommittee activities and/or join the subcommittee itself! Some 
