@@ -6,8 +6,6 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/mentoring/"
 ---
-## Mentoring Oportunities
-
 ### Instructor Discussion Sessions
 
 Each week, volunteers host two instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone. 
