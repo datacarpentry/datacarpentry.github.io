@@ -6,14 +6,7 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/mentoring/"
 ---
-
-## The Mentoring Subcommittee
-
-## Purpose and Scope
-
-The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
-
-## What We Do
+## Mentoring Oportunities
 
 ### Instructor Discussion Sessions
 
@@ -27,11 +20,15 @@ Mentoring groups support instructors by matching them with a personal mentor. Me
 
 See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md) for a full outline of the program.  
 
-## Mentoring Subcommittee Meetings
+## Mentoring Subcommittee 
 
+## Purpose and Scope
+
+The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
 The Mentoring Subcommittee meets regularly to evaluate current activities, and propose
-new activities.  Minutes of past meetings are available [here](https://github.com/carpentries/mentoring/tree/master/minutes).  All community 
-members are welcome to attend mentoring subcommittee meetings. Similarly, we welcome 
+new activities.  Minutes of past meetings are available [here](https://github.com/carpentries/mentoring/tree/master/minutes).  
+
+All community members are welcome to attend mentoring subcommittee meetings. Similarly, we welcome 
 anyone who is interested in joining and helping out!  
 
 To attend our next meeting, visit [this etherpad](http://pad.software-carpentry.org/scf-mentoring).
