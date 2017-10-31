@@ -110,7 +110,7 @@ ____________________________________________________________________________
 
 Hello,
 
-We are excited to meet you at the upcoming [Data/Software/Library Carpentry workshop](INSERT WORKSHOP WEBSITE LINK). To help your instructional team provide an inclusive environment, and to learn more about your current experience with the tools you'll learn, we ask that you complete our [pre-workshop survey](https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id=[workshop_id_value]). 
+We are excited to meet you at the upcoming [Data/Software/Library Carpentry workshop](INSERT WORKSHOP WEBSITE LINK). To help your instructors provide an inclusive environment, and to learn more about your current experience with the tools you'll learn, we ask that you complete our [pre-workshop survey](https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id=[workshop_id_value]). 
 
 Your responses will be recorded anonymously. If you respond via email, your IP address will be registered; however, your responses will remain anonymous. You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. You may quit the survey at any time, or skip any item other than those required to correctly sort your responses. 
 
@@ -119,7 +119,7 @@ You will be asked to create a unique identifier. This identifier will be confide
 If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Deputy Director of Assessment for Data Carpentry.
 
 Our best,  
-Your instructional team
+Your instructors
 
 ____________________________________________________________________________
 
@@ -135,4 +135,4 @@ Just as you did with the pre-workshop survey, you will be asked to create a uniq
 If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Deputy Director of Assessment for Data Carpentry. We look forward to your continued involvement with our community!
 
 Our best,  
-Your instructional team
+Your instructors
