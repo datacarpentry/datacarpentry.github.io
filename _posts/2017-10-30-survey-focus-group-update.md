@@ -13,7 +13,7 @@ authors: ["Kari L. Jordan", “Stephen Childs”, “Alycia Crall", “Reshama S
 ---
 
 
-In April 2017, Data Carpentry began to pilot a [new survey](https://www.surveymonkey.com/r/presurveyfocusgroup?workshop_id=[workshop_id_value]) that includes skills-based questions. Check out the [blog post](http://www.datacarpentry.org/blog/long-term-assessment-strategy/) about our assessment strategy, and the work involved leading up to this effort.
+In April 2017, Data Carpentry began to pilot a [survey](https://github.com/carpentries/assessment/blob/master/surveys/dc_presurvey_skillsbased.pdf) that includes skills-based questions. Check out the [blog post](http://www.datacarpentry.org/blog/long-term-assessment-strategy/) about our assessment strategy, and the work involved leading up to this effort.
 
 The survey includes the following statement:
 
