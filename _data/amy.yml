@@ -800,6 +800,7 @@ airports:
   - {name: Allison Jai O'Dell, user: odell_allison-jai}
   - {name: Henry Senyondo, user: senyondo_henry}
   - {name: David Jennings, user: jennings_david}
+  - {name: Kensworth Subratie, user: subratie_kensworth}
   - {name: Justin Millar, user: millar_justin}
   latitude: 29.69
   longitude: -82.271667
@@ -906,12 +907,6 @@ airports:
   latitude: 42.491
   longitude: -76.459
   name: Ithaca, NY
-- country: us
-  instructors:
-  - {name: Kensworth Subratie, user: subratie_kensworth}
-  latitude: 30.4941006
-  longitude: -81.6878967
-  name: Jacksonville International
 - country: sa
   instructors:
   - {name: David Ketcheson, user: ketcheson_david}
@@ -3410,6 +3405,8 @@ badges:
   - {awarded: '2017-10-31', name: Like Fokkens, user: fokkens_like}
   - {awarded: '2017-10-31', name: Scott Martin, user: martin_scott}
   - {awarded: '2017-10-31', name: Rebecca Barter, user: barter_rebecca}
+  - {awarded: '2017-11-01', name: Jessie Keck, user: keck_jessie}
+  - {awarded: '2017-11-01', name: Joe Atzberger, user: atzberger_joe}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4125,7 +4122,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T200003Z
+timestamp: 20171101T210003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
