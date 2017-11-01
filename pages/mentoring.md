@@ -6,15 +6,6 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/mentoring/"
 ---
-
-## The Mentoring Subcommittee
-
-## Purpose and Scope
-
-The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
-
-## What We Do
-
 ### Instructor Discussion Sessions
 
 Each week, volunteers host two instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone. 
@@ -27,16 +18,20 @@ Mentoring groups support instructors by matching them with a personal mentor. Me
 
 See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md) for a full outline of the program.  
 
-## Mentoring Subcommittee Meetings
+## Mentoring Subcommittee 
 
+### Purpose and Scope
+
+The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
 The Mentoring Subcommittee meets regularly to evaluate current activities, and propose
-new activities.  Minutes of past meetings are available [here](https://github.com/carpentries/mentoring/tree/master/minutes).  All community 
-members are welcome to attend mentoring subcommittee meetings. Similarly, we welcome 
+new activities.  Minutes of past meetings are available [here](https://github.com/carpentries/mentoring/tree/master/minutes).  
+
+All community members are welcome to attend mentoring subcommittee meetings. Similarly, we welcome 
 anyone who is interested in joining and helping out!  
 
 To attend our next meeting, visit [this etherpad](http://pad.software-carpentry.org/scf-mentoring).
 
-## Join Us!
+### Join Us!
 
 Any Software or Data Carpentry community member is welcome to participate in the
 Mentoring Subcommittee activities and/or join the subcommittee itself! Some 
