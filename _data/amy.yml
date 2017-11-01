@@ -1384,7 +1384,6 @@ airports:
   name: Norwich
 - country: us
   instructors:
-  - {name: Azalee Bostroem, user: bostroem_a}
   - {name: Shreyas Cholia, user: cholia_s}
   - {name: Matt Davis, user: davis_m}
   - {name: Jessica Hamrick, user: hamrick_jessica}
@@ -1814,6 +1813,7 @@ airports:
 - country: us
   instructors:
   - {name: Carl Boettiger, user: boettiger_carl}
+  - {name: Azalee Bostroem, user: bostroem_a}
   - {name: C. Titus Brown, user: brown_ct}
   - {name: Luiz Irber, user: irber_luiz}
   - {name: Michael Koontz, user: koontz_michael}
@@ -4127,9 +4127,38 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T040003Z
+timestamp: 20171101T050002Z
 workshops:
 - &id002
+  - address: Informatics Institute Conference Room, CISE building
+    contact: mcollins@acis.ufl.edu
+    country: us
+    end: 2017-10-31
+    eventbrite_id: ''
+    humandate: Oct 30-31, 2017
+    latitude: 29.648248
+    longitude: -82.344031
+    slug: 2017-10-30-iDigBio-Summit-UFII
+    start: 2017-10-30
+    tags:
+    - {name: DC}
+    url: https://idigbio.github.io/2017-10-30-iDigBio-Summit-UFII/
+    venue: University of Florida Informatics Institute
+  - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
+      Exact venue to be confirmed
+    contact: anelda@talarify.co.za
+    country: et
+    end: 2017-10-31
+    eventbrite_id: ''
+    humandate: Oct 30-31, 2017
+    latitude: 9.040216
+    longitude: 38.762582
+    slug: 2017-10-30-Ethiopia
+    start: 2017-10-30
+    tags:
+    - {name: DC}
+    url: https://anelda.github.io/2017-10-30-Ethiopia/
+    venue: Ethiopian Research and Education Network
   - address: 5200 Lake Rd, Merced, CA 95340
     contact: Emily Lin lin@ucmerced.edu
     country: us
@@ -6476,34 +6505,5 @@ workshops:
     - {name: DC}
     url: https://nwu-eresearch.github.io/2017-11-01-NWU-Mafikeng/
     venue: Mafikeng Campus, North-West University
-  - address: Informatics Institute Conference Room, CISE building
-    contact: mcollins@acis.ufl.edu
-    country: US
-    end: 2017-10-31
-    eventbrite_id: ''
-    humandate: Oct 30-31, 2017
-    latitude: 29.648248
-    longitude: -82.344031
-    slug: 2017-10-30-iDigBio-Summit-UFII
-    start: 2017-10-30
-    tags:
-    - {name: DC}
-    url: https://idigbio.github.io/2017-10-30-iDigBio-Summit-UFII/
-    venue: University of Florida Informatics Institute
-  - address: Addis Ababa Institute of Technology, King George VI St, Addis Ababa -
-      Exact venue to be confirmed
-    contact: anelda@talarify.co.za
-    country: ET
-    end: 2017-10-31
-    eventbrite_id: ''
-    humandate: Oct 30-31, 2017
-    latitude: 9.040216
-    longitude: 38.762582
-    slug: 2017-10-30-Ethiopia
-    start: 2017-10-30
-    tags:
-    - {name: DC}
-    url: https://anelda.github.io/2017-10-30-Ethiopia/
-    venue: Ethiopian Research and Education Network
 workshops_current: *id001
 workshops_past: *id002
