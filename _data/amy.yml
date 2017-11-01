@@ -370,6 +370,7 @@ airports:
   instructors:
   - {name: Jack Simpson, user: simpson_jack}
   - {name: Luc Small, user: small_luc}
+  - {name: Louis Ranjard, user: ranjard_louis}
   - {name: Marcin Adamski, user: adamski_marcin}
   latitude: -35.308333
   longitude: 149.193889
@@ -997,6 +998,7 @@ airports:
   - {name: Gail Clement, user: gail_clement}
   - {name: Stephen Davison, user: davison_stephen}
   - {name: Donna Theresa Wrublewski, user: wrublewski_donna}
+  - {name: Dawn Childress, user: childress_dawn}
   latitude: 33.9415889
   longitude: -118.40853
   name: Los Angeles, CA
@@ -1390,7 +1392,6 @@ airports:
   - {name: Paul Ivanov, user: ivanov_p}
   - {name: Geoff Oxberry, user: oxberry_g}
   - {name: Fernando Perez, user: perez_f}
-  - {name: William Rowell, user: rowell_bill}
   - {name: Rochelle Terman, user: terman_rochelle}
   - {name: Matt Terry, user: terry_m}
   - {name: Stéfan van der Walt, user: vanderwalt_s}
@@ -1774,6 +1775,7 @@ airports:
   - {name: Steve Haddock, user: haddock_s}
   - {name: Amy Hodge, user: hodge_amy}
   - {name: Emily Jane McTavish, user: mctavish_ej}
+  - {name: William Justin Rowell, user: rowell_bill}
   - {name: Chris DeBoever, user: deboever_christopher}
   latitude: 37.361667
   longitude: -121.928889
@@ -1924,7 +1926,6 @@ airports:
   - {name: Beth Signal, user: signal_beth}
   - {name: Jared Berghold, user: berghold_jared}
   - {name: Joanna Diong, user: diong_joanna}
-  - {name: Louis Ranjard, user: ranjard_louis}
   - {name: Nouri Laura Ben Zakour, user: ben-zakour_nouri}
   - {name: Claire Hardgrove, user: hardgrove_claire}
   - {name: Aidan Wilson, user: wilson_aidan}
@@ -2658,7 +2659,7 @@ badges:
   - {awarded: '2015-03-12', name: Andrew Rohl, user: rohl_andrew}
   - {awarded: '2013-07-20', name: Ariel Rokem, user: rokem_a}
   - {awarded: '2015-02-27', name: Noam Ross, user: ross_noam}
-  - {awarded: '2013-11-17', name: William Rowell, user: rowell_bill}
+  - {awarded: '2013-11-17', name: William Justin Rowell, user: rowell_bill}
   - {awarded: '2015-02-27', name: John Rugis, user: rugis_john}
   - {awarded: '2014-12-08', name: Dale Russell, user: russell_dale}
   - {awarded: '2015-04-20', name: Ramesh Sampath, user: sampath_ramesh}
@@ -3744,7 +3745,7 @@ badges:
   - {awarded: '2016-10-05', name: Jacob Levernier, user: levernier_jacob}
   - {awarded: '2016-10-05', name: Mark Wilber, user: wilber_mark}
   - {awarded: '2016-10-05', name: Cameron McLean, user: mclean_cameron}
-  - {awarded: '2016-10-05', name: William Rowell, user: rowell_bill}
+  - {awarded: '2016-10-05', name: William Justin Rowell, user: rowell_bill}
   - {awarded: '2016-10-05', name: Qingpeng Zhang, user: zhang_qp}
   - {awarded: '2016-10-05', name: Donny Winston, user: winston_donald}
   - {awarded: '2016-10-11', name: Marco Chiapello, user: chiapello_marco}
@@ -4126,7 +4127,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T030003Z
+timestamp: 20171101T040003Z
 workshops:
 - &id002
   - address: 5200 Lake Rd, Merced, CA 95340
