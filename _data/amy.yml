@@ -791,6 +791,7 @@ airports:
   instructors:
   - {name: Erica Christensen, user: christensen_erica}
   - {name: Matthew Collins, user: collins_matthew}
+  - {name: Daijiang Li, user: li_daijiang}
   - {name: François Michonneau, user: michonneau_francois}
   - {name: Kristina Riemer, user: riemer_kristina}
   - {name: Miao Sun, user: sun_miao}
@@ -908,7 +909,6 @@ airports:
   name: Ithaca, NY
 - country: us
   instructors:
-  - {name: Daijiang Li, user: li_daijiang}
   - {name: Kensworth Subratie, user: subratie_kensworth}
   latitude: 30.4941006
   longitude: -81.6878967
@@ -1815,7 +1815,7 @@ airports:
   - {name: C. Titus Brown, user: brown_ct}
   - {name: Luiz Irber, user: irber_luiz}
   - {name: Michael Koontz, user: koontz_michael}
-  - {name: Jason Moore, user: moore_jason}
+  - {name: Jason Keith Moore, user: moore_jason}
   - {name: Camille Scott, user: scott_camille}
   - {name: Daniel Standage, user: standage_daniel}
   - {name: Tracy Teal, user: teal_t}
@@ -1925,7 +1925,7 @@ airports:
   - {name: Jared Berghold, user: berghold_jared}
   - {name: Joanna Diong, user: diong_joanna}
   - {name: Louis Ranjard, user: ranjard_louis}
-  - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
+  - {name: Nouri Laura Ben Zakour, user: ben-zakour_nouri}
   - {name: Claire Hardgrove, user: hardgrove_claire}
   - {name: Aidan Wilson, user: wilson_aidan}
   - {name: Carmi Cronje, user: cronje_carmi}
@@ -2612,7 +2612,7 @@ badges:
   - {awarded: '2015-02-27', name: Amanda Miotto, user: miotto_amanda}
   - {awarded: '2015-02-03', name: Meeta Mistry, user: mistry_meeta}
   - {awarded: '2012-12-20', name: Ian Mitchell, user: mitchell_i}
-  - {awarded: '2015-02-03', name: Jason Moore, user: moore_jason}
+  - {awarded: '2015-02-03', name: Jason Keith Moore, user: moore_jason}
   - {awarded: '2013-07-20', name: Ben Morris, user: morris_b}
   - {awarded: '2014-08-12', name: Erika Mudrak, user: mudrak_erika}
   - {awarded: '2014-08-12', name: Ian Munoz, user: munoz_ian}
@@ -2938,7 +2938,7 @@ badges:
   - {awarded: '2016-02-12', name: Thea Van Rossum, user: van-rossum_thea}
   - {awarded: '2016-02-12', name: Sean Aubin, user: aubin_sean}
   - {awarded: '2016-02-12', name: Tomomi Sunayama, user: sunayama_tomomi}
-  - {awarded: '2016-02-17', name: Nouri Ben Zakour, user: ben-zakour_nouri}
+  - {awarded: '2016-02-17', name: Nouri Laura Ben Zakour, user: ben-zakour_nouri}
   - {awarded: '2016-02-17', name: Leah Roberts, user: roberts_leah}
   - {awarded: '2016-02-17', name: Selene L. Fernandez-Valverde, user: fernandez-valverde_selene}
   - {awarded: '2016-02-17', name: Anup Shah, user: shah_anup}
@@ -3401,6 +3401,16 @@ badges:
   - {awarded: '2017-10-20', name: Russell Waldron, user: waldron_russell}
   - {awarded: '2017-10-20', name: Kellie Ottoboni, user: ottoboni_kellie}
   - {awarded: '2017-06-07', name: Anton Angelo, user: angelo_anton}
+  - {awarded: '2017-10-31', name: Simon Podhajsky, user: podhajsky_simon}
+  - {awarded: '2017-10-31', name: Yuan An, user: an_yuan}
+  - {awarded: '2017-10-31', name: Andy Kleinhesselink, user: kleinhesselink_a}
+  - {awarded: '2017-10-31', name: Thor Wikfeldt, user: wikfeldt_thor}
+  - {awarded: '2017-10-31', name: Satya Mishra, user: mishra_satya}
+  - {awarded: '2017-10-31', name: Nima Hejazi, user: hejazi_nima}
+  - {awarded: '2017-10-31', name: Mesfin Diro Chaka, user: diro-chaka_mesfin}
+  - {awarded: '2017-10-31', name: Like Fokkens, user: fokkens_like}
+  - {awarded: '2017-10-31', name: Scott Martin, user: martin_scott}
+  - {awarded: '2017-10-31', name: Rebecca Barter, user: barter_rebecca}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4027,6 +4037,9 @@ badges:
   - {awarded: '2017-10-13', name: Jake Parker, user: parker_jake}
   - {awarded: '2017-10-13', name: Zak (I.W) van Heerden, user: van-heerden_zak-iw}
   - {awarded: '2017-10-20', name: Arindam Basu, user: basu_arindam}
+  - {awarded: '2017-10-31', name: Mark Matienzo, user: matienzo_mark}
+  - {awarded: '2017-10-31', name: Matthias Grenié, user: greni_matthias}
+  - {awarded: '2017-10-31', name: Sarah Brown, user: brown_sarah_2}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4113,7 +4126,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T020003Z
+timestamp: 20171101T030003Z
 workshops:
 - &id002
   - address: 5200 Lake Rd, Merced, CA 95340
