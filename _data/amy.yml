@@ -640,7 +640,7 @@ airports:
   - {name: Mik Black, user: black_mik}
   - {name: James Boocock, user: boocock_james}
   - {name: Jonah Duckles, user: duckles_jonah}
-  - {name: Tom Kelly, user: kelly_tom}
+  - {name: S. Thomas Kelly, user: kelly_tom}
   - {name: Murray Cadzow, user: cadzow_murray}
   - {name: Elizabeth Permina, user: permina_elizabeth}
   - {name: David Eyers, user: eyers_david}
@@ -2557,7 +2557,7 @@ badges:
   - {awarded: '2014-07-07', name: David Jones, user: jones_dm}
   - {awarded: '2015-02-06', name: Martin Jones, user: jones_martin}
   - {awarded: '2015-02-27', name: Nick Jones, user: jones_nick}
-  - {awarded: '2015-03-25', name: Tom Kelly, user: kelly_tom}
+  - {awarded: '2015-03-25', name: S. Thomas Kelly, user: kelly_tom}
   - {awarded: '2013-07-24', name: Jessica Kerr, user: kerr_j}
   - {awarded: '2014-12-23', name: Jan Kim, user: kim_jan}
   - {awarded: '2014-07-22', name: W. Trevor King, user: king_wt}
@@ -3571,7 +3571,7 @@ badges:
   - {awarded: '2016-01-27', name: Sue McClatchy, user: mcclatchy_susan}
   - {awarded: '2016-01-27', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2016-01-27', name: Trevor Bekolay, user: bekolay_trevor}
-  - {awarded: '2016-01-27', name: Tom Kelly, user: kelly_tom}
+  - {awarded: '2016-01-27', name: S. Thomas Kelly, user: kelly_tom}
   - {awarded: '2016-01-27', name: Olav Vahtras, user: vahtras_olav}
   - {awarded: '2016-01-27', name: Asela Wijeratne, user: wijeratne_asela}
   - {awarded: '2016-01-27', name: Paul Wilson, user: wilson_p}
@@ -4127,7 +4127,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T050002Z
+timestamp: 20171101T060002Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
