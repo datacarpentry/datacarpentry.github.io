@@ -1201,7 +1201,7 @@ airports:
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
   - {name: Nick James, user: james_nick}
   - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
-  - {name: Tania Allard, user: allard_tania}
+  - {name: Tania Rebeca Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
   latitude: 53.353611
   longitude: -2.274722
@@ -1224,7 +1224,6 @@ airports:
 - country: us
   instructors:
   - {name: David Jones, user: jones_dm}
-  - {name: Alex Bajcz, user: bajcz_alex}
   latitude: 40.193333
   longitude: -76.763333
   name: Harrisburg, PA
@@ -1328,6 +1327,7 @@ airports:
   - {name: Laura DeCicco, user: decicco_laura}
   - {name: Lindsay Carr, user: carr_lindsay}
   - {name: Michelle Craft, user: craft_michelle}
+  - {name: Alex Bajcz, user: bajcz_alex}
   - {name: Ethan Nelson, user: nelson_ethan}
   - {name: Carolyn Breden Voter, user: voter_carolyn}
   latitude: 43.139722
@@ -2374,7 +2374,7 @@ airports:
   instructors:
   - {name: Shawn Taylor, user: taylor_shawn}
   - {name: Sergio Marconi, user: marconi_sergio}
-  - {name: Kari L Jordan, user: jordan_kari}
+  - {name: Kari L Jordan, user: kariljordan}
   latitude: 28.428889
   longitude: -81.315833
   name: Orlando, FL
@@ -3855,7 +3855,7 @@ badges:
   - {awarded: '2016-12-17', name: Bo Ji, user: ji_bo_2}
   - {awarded: '2016-12-20', name: Jonathan Keane, user: keane_jonathan}
   - {awarded: '2016-12-20', name: Ross Allen Bowman, user: bowman_ross}
-  - {awarded: '2016-12-22', name: Kari L Jordan, user: jordan_kari}
+  - {awarded: '2016-12-22', name: Kari L Jordan, user: kariljordan}
   - {awarded: '2017-01-16', name: Jens von der Linden, user: vonderlinden_jens}
   - {awarded: '2017-01-16', name: Andrew Marder, user: marder_andrew}
   - {awarded: '2017-01-16', name: Meg Staton, user: staton_margaret}
@@ -3979,7 +3979,7 @@ badges:
   - {awarded: '2017-06-01', name: Beth Montague-Hellen, user: hellen_beth}
   - {awarded: '2017-06-08', name: James Baker, user: baker_james_2}
   - {awarded: '2017-06-15', name: Claudia Engel, user: engel_claudia}
-  - {awarded: '2017-06-15', name: Tania Allard, user: allard_tania}
+  - {awarded: '2017-06-15', name: Tania Rebeca Allard, user: allard_tania}
   - {awarded: '2017-06-15', name: Chris DeBoever, user: deboever_christopher}
   - {awarded: '2017-06-23', name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   - {awarded: '2017-06-23', name: Geoffrey Thomas LaFlair, user: laflair_geoff}
@@ -4092,7 +4092,7 @@ badges:
   - {awarded: '2016-10-17', name: Rayna Michelle Harris, user: harris_rayna}
   - {awarded: '2016-12-16', name: Belinda Weaver, user: weaver_belinda}
   - {awarded: '2016-12-16', name: Alistair Walsh, user: walsh_alistair}
-  - {awarded: '2017-02-09', name: Kari L Jordan, user: jordan_kari}
+  - {awarded: '2017-02-09', name: Kari L Jordan, user: kariljordan}
   - {awarded: '2017-02-21', name: Jason Williams, user: williams_jason}
   - {awarded: '2017-02-21', name: Karen Cranston, user: cranston_k}
   - {awarded: '2017-02-21', name: Allegra Via, user: via_allegra}
@@ -4127,7 +4127,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T120003Z
+timestamp: 20171101T130002Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
