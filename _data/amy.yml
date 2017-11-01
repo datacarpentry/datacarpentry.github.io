@@ -425,6 +425,7 @@ airports:
   name: Charleston, SC
 - country: us
   instructors:
+  - {name: Christie Bahlai, user: bahlai_christie}
   - {name: Asela Wijeratne, user: wijeratne_asela}
   latitude: 41.411667
   longitude: -81.849722
@@ -605,7 +606,6 @@ airports:
 - country: us
   instructors:
   - {name: Carlos Anderson, user: anderson_c}
-  - {name: Christie Bahlai, user: bahlai_christie}
   - {name: Michelle Berry, user: berry_michelle}
   - {name: Amanda Charbonneau, user: charbonneau_amanda}
   - {name: Meghan Duffy, user: duffy_meghan}
@@ -762,6 +762,7 @@ airports:
   - {name: Philipp Lies, user: lies_philipp}
   - {name: Malvika Sharan, user: sharan_malvika}
   - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
+  - {name: Dan Warren, user: warren_dan}
   - {name: Toby Hodges, user: hodges_toby}
   - {name: Markus Ankenbrand, user: ankenbrand_markus}
   - {name: Renato Alves, user: alves_renato}
@@ -1223,6 +1224,14 @@ airports:
   name: Kansas City, KS
 - country: us
   instructors:
+  - {name: Shawn Taylor, user: taylor_shawn}
+  - {name: Sergio Marconi, user: marconi_sergio}
+  - {name: Kari L Jordan, user: kariljordan}
+  latitude: 28.428889
+  longitude: -81.315833
+  name: Orlando, FL
+- country: us
+  instructors:
   - {name: David Jones, user: jones_dm}
   latitude: 40.193333
   longitude: -76.763333
@@ -1488,6 +1497,7 @@ airports:
   - {name: Kyrre Traavik Låberg, user: traavik-laberg_kyrre}
   - {name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
   - {name: William Brynildsen Reinar, user: brynildsen-reinar_william}
+  - {name: Arnstein Orten, user: orten_arnstein}
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
@@ -1606,7 +1616,7 @@ airports:
 - country: us
   instructors:
   - {name: Daniel Chen, user: chen_daniel}
-  - {name: Daniel Smith, user: smith_daniel}
+  - {name: Daniel G Smith, user: smith_daniel}
   - {name: Jonathan Bradley, user: bradley_jonathan}
   latitude: 37.3255005
   longitude: -79.9754028
@@ -1921,7 +1931,6 @@ airports:
   - {name: Joshua Madin, user: madin_j}
   - {name: Ben Marwick, user: marwick_ben}
   - {name: Darya Vanichkina, user: vanichkina_darya}
-  - {name: Dan Warren, user: warren_dan}
   - {name: Martin Héroux, user: heroux_martin}
   - {name: Beth Signal, user: signal_beth}
   - {name: Jared Berghold, user: berghold_jared}
@@ -2370,14 +2379,6 @@ airports:
   latitude: 47.457767
   longitude: 8.560132
   name: Zurich Airport
-- country: us
-  instructors:
-  - {name: Shawn Taylor, user: taylor_shawn}
-  - {name: Sergio Marconi, user: marconi_sergio}
-  - {name: Kari L Jordan, user: kariljordan}
-  latitude: 28.428889
-  longitude: -81.315833
-  name: Orlando, FL
 badges:
 - name: creator
   persons:
@@ -2682,7 +2683,7 @@ badges:
   - {awarded: '2013-11-25', name: Rachel Slaybaugh, user: slaybaugh_rachel}
   - {awarded: '2014-10-03', name: Clare Sloggett, user: sloggett_clare}
   - {awarded: '2015-04-20', name: Luc Small, user: small_luc}
-  - {awarded: '2014-12-08', name: Daniel Smith, user: smith_daniel}
+  - {awarded: '2014-12-08', name: Daniel G Smith, user: smith_daniel}
   - {awarded: '2012-12-20', name: Joshua Smith, user: smith_j}
   - {awarded: '2014-08-01', name: Mike Smorul, user: smorul_mike}
   - {awarded: '2015-01-07', name: Nancy Soontiens, user: soontiens_nancy}
@@ -3778,7 +3779,7 @@ badges:
   - {awarded: '2016-03-01', name: Marian Schmidt, user: schmidt_marian}
   - {awarded: '2016-11-15', name: Aaron Erlich, user: erlich_aaron}
   - {awarded: '2016-11-15', name: Catalina Anghel, user: anghel_catalina}
-  - {awarded: '2016-11-15', name: Daniel Smith, user: smith_daniel}
+  - {awarded: '2016-11-15', name: Daniel G Smith, user: smith_daniel}
   - {awarded: '2016-11-15', name: Emily Dolson, user: dolson_emily}
   - {awarded: '2016-11-15', name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
   - {awarded: '2016-11-15', name: Ian Henry, user: henry_ian}
@@ -4127,7 +4128,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T130002Z
+timestamp: 20171101T140002Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
