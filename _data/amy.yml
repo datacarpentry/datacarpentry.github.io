@@ -1649,7 +1649,6 @@ airports:
   instructors:
   - {name: Guilherme Castelão, user: castelao_guilherme}
   - {name: Chris Lasher, user: lasher_c}
-  - {name: Tessa Pierce, user: pierce_tessa}
   - {name: Andrea Zonca, user: zonca_andrea}
   - {name: Reid Otsuji, user: otsuji_reid}
   latitude: 32.733333
@@ -1825,6 +1824,7 @@ airports:
   - {name: Luiz Irber, user: irber_luiz}
   - {name: Michael Koontz, user: koontz_michael}
   - {name: Jason Keith Moore, user: moore_jason}
+  - {name: Tessa Pierce, user: pierce_tessa}
   - {name: Camille Scott, user: scott_camille}
   - {name: Daniel Standage, user: standage_daniel}
   - {name: Tracy Teal, user: teal_t}
@@ -4125,7 +4125,7 @@ flags:
     za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T180003Z
+timestamp: 20171101T190003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
