@@ -537,6 +537,7 @@ airports:
   - {name: Abhijit Dasgupta, user: dasgupta_abhijit}
   - {name: Ian Carroll, user: carroll_ian}
   - {name: Ian Bell, user: bell_ian}
+  - {name: Brian Seok, user: seok_brian}
   latitude: 38.851944
   longitude: -77.0375
   name: Ronald Reagan Washington, DC
@@ -4128,7 +4129,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T140002Z
+timestamp: 20171101T150003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
