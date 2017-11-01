@@ -63,6 +63,7 @@ airports:
   name: Auckland
 - country: us
   instructors:
+  - {name: Daniel Turek, user: turek_daniel}
   - {name: Greg Watson, user: watson_greg}
   latitude: 42.7482986
   longitude: -73.8016968
@@ -348,6 +349,7 @@ airports:
 - country: us
   instructors:
   - {name: Tommy Keswick, user: keswick_thomas}
+  - {name: Laura Smart, user: smart_laura}
   latitude: 34.2006989
   longitude: -118.3590012
   name: Bob Hope Airport
@@ -430,12 +432,6 @@ airports:
   latitude: 41.411667
   longitude: -81.849722
   name: Cleveland, OH
-- country: ro
-  instructors:
-  - {name: Michael Crusoe, user: crusoe_michael}
-  latitude: 46.783742
-  longitude: 23.691562
-  name: Cluj International Airport
 - country: us
   instructors:
   - {name: Anna Dabrowski, user: dabrowski_anna}
@@ -1755,7 +1751,6 @@ airports:
   - {name: Karthik Ram, user: ram_k}
   - {name: Ramesh Sampath, user: sampath_ramesh}
   - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
-  - {name: Daniel Turek, user: turek_daniel}
   - {name: Daniela M Ushizima, user: ushizima_daniela}
   - {name: Ramnath Vaidyanathan, user: vaidyanathan_ramnath}
   - {name: Qingpeng Zhang, user: zhang_qp}
@@ -2464,7 +2459,7 @@ badges:
   - {awarded: '2014-11-17', name: Karen Cranston, user: cranston_k}
   - {awarded: '2015-02-27', name: Nicholas Crouch, user: crouch_nicholas}
   - {awarded: '2012-12-20', name: Stephen Crouch, user: crouch_s}
-  - {awarded: '2014-07-22', name: Michael Crusoe, user: crusoe_michael}
+  - {awarded: '2014-07-22', name: Michael R. Crusoe, user: crusoe_michael}
   - {awarded: '2014-12-23', name: Maciej Czuchry, user: czuchry_maciej}
   - {awarded: '2015-02-27', name: Harriet Dashnow, user: dashnow_harriet}
   - {awarded: '2013-11-25', name: Emily Davenport, user: davenport_e}
@@ -4125,11 +4120,11 @@ badges:
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
   airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, et, fr, gb, gr, hk,
-    ie, il, in, it, lu, mx, na, nl, 'no', nz, pl, ro, sa, se, sg, si, th, tw, us,
-    ve, za]
+    ie, il, in, it, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw, us, ve,
+    za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T160003Z
+timestamp: 20171101T170003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
