@@ -507,7 +507,7 @@ airports:
 - country: br
   instructors:
   - {name: Fernando Mayer, user: mayer_fernando}
-  - {name: Abel Siqueira, user: soares-siqueira_abel}
+  - {name: Abel Soares Siqueira, user: soares-siqueira_abel}
   - {name: Kally Chung, user: chung_kally}
   latitude: -25.532589
   longitude: -49.17487
@@ -1292,7 +1292,7 @@ airports:
 - country: us
   instructors:
   - {name: Alejandro Mantero, user: mantero_alejandro}
-  - {name: Timothy Norris, user: norris_timothy}
+  - {name: Timothy B Norris, user: norris_timothy}
   - {name: Zack Brym, user: brym_zachary}
   latitude: 25.793914
   longitude: -80.283806
@@ -2927,7 +2927,7 @@ badges:
   - {awarded: '2016-02-11', name: Derek Howard, user: howard_derek}
   - {awarded: '2016-02-11', name: Ryan Neufeld, user: neufeld_ryan}
   - {awarded: '2016-02-11', name: Kally Chung, user: chung_kally}
-  - {awarded: '2016-02-11', name: Abel Siqueira, user: soares-siqueira_abel}
+  - {awarded: '2016-02-11', name: Abel Soares Siqueira, user: soares-siqueira_abel}
   - {awarded: '2016-02-11', name: Juan Ugalde, user: ugalde_juan}
   - {awarded: '2016-02-11', name: Natasha Pavlovikj, user: pavlovikj_natasha}
   - {awarded: '2016-02-11', name: Florian Thöle, user: thoele_florian}
@@ -3076,7 +3076,7 @@ badges:
   - {awarded: '2016-05-26', name: Daina Bouquin, user: bouquin_daina}
   - {awarded: '2016-05-26', name: Elise Morrison, user: morrison_elise}
   - {awarded: '2016-05-26', name: Allison Smith, user: smith_allison}
-  - {awarded: '2016-05-26', name: Timothy Norris, user: norris_timothy}
+  - {awarded: '2016-05-26', name: Timothy B Norris, user: norris_timothy}
   - {awarded: '2016-05-26', name: Jeffrey Oliver, user: oliver_jeffrey}
   - {awarded: '2016-05-26', name: Richard Clare, user: clare_richard}
   - {awarded: '2016-05-26', name: Andre Geldenhuis, user: geldenhuis_andre}
@@ -4127,7 +4127,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T110003Z
+timestamp: 20171101T120003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
