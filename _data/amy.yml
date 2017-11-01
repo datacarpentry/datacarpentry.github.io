@@ -1071,6 +1071,7 @@ airports:
   - {name: Iwona Sobieraj, user: sobieraj_iwona}
   - {name: Kenan Direk, user: direk_kenan}
   - {name: Martin R. Albrecht, user: albrecht_martin}
+  - {name: Martha Rose Robinson, user: robinson_martha}
   latitude: 51.148056
   longitude: -0.190278
   name: London Gatwick
@@ -1118,7 +1119,6 @@ airports:
   - {name: Alexander James Morley, user: morley_alexander}
   - {name: Martin Hadley, user: hadley_martin}
   - {name: Julian Jordan, user: jordan_julian}
-  - {name: Martha Robinson, user: robinson_martha}
   - {name: David Wright, user: wright_david}
   - {name: Stuart Grieve, user: grieve_stuart}
   latitude: 51.4775
@@ -3369,7 +3369,7 @@ badges:
   - {awarded: '2017-09-08', name: Stephanie Miller, user: miller_stephanie}
   - {awarded: '2017-09-08', name: Colin Sauze, user: sauze_colin}
   - {awarded: '2017-09-08', name: Nadia Dencheva, user: dencheva_nadia}
-  - {awarded: '2017-09-13', name: Martha Robinson, user: robinson_martha}
+  - {awarded: '2017-09-13', name: Martha Rose Robinson, user: robinson_martha}
   - {awarded: '2017-09-18', name: Adela Sobotkova, user: sobotkova_adela}
   - {awarded: '2017-09-18', name: Mojalefa Malahlela, user: malahlela_mojalefa}
   - {awarded: '2017-09-18', name: William Tong, user: tong_william}
@@ -4129,7 +4129,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171101T150003Z
+timestamp: 20171101T160003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
