@@ -4045,6 +4045,7 @@ badges:
   - {awarded: '2017-10-31', name: Mark Matienzo, user: matienzo_mark}
   - {awarded: '2017-10-31', name: Matthias Grenié, user: greni_matthias}
   - {awarded: '2017-10-31', name: Sarah Brown, user: brown_sarah_2}
+  - {awarded: '2017-11-02', name: Giulio Valentino Dalla Riva, user: dalla-riva_giulio-valentino}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4131,7 +4132,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171102T210003Z
+timestamp: 20171102T220002Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
@@ -6464,6 +6465,20 @@ workshops:
     tags:
     - {name: DC}
     url: https://pennekampster.github.io/2017-11-08-lugano/
+    venue: Continental Parkhotel Lugano
+  - address: Via Basilea, 28 – CH-6900 Lugano
+    contact: frank.pennekamp@ieu.uzh.ch
+    country: ''
+    end: 2017-11-08
+    eventbrite_id: ''
+    humandate: Nov 06-08, 2017
+    latitude: 46.002701
+    longitude: 8.946719
+    slug: 2017-11-06-lugano
+    start: 2017-11-06
+    tags:
+    - {name: DC}
+    url: https://pennekampster.github.io/2017-11-06-lugano/
     venue: Continental Parkhotel Lugano
   - address: E-classroom, Stellenbosch University Library (J.S. Gericke Library),
       Stellenbosch University, JS Marais Square, c/o Victoria and Ryneveld Streets,
