@@ -552,6 +552,7 @@ airports:
   - {name: Megan A. Jones, user: jones_megan}
   - {name: Mary Haley, user: haley_mary}
   - {name: Brook T Moyers, user: moyers_brook}
+  - {name: John Leeman, user: leeman_john}
   - {name: Ryan May, user: may_ryan}
   latitude: 39.858333
   longitude: -104.666944
@@ -805,6 +806,12 @@ airports:
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
+- country: us
+  instructors:
+  - {name: Auriel Fournier, user: fournier_auriel}
+  latitude: 30.412114
+  longitude: -89.078936
+  name: Gulfport–Biloxi International Airport
 - country: br
   instructors:
   - {name: Omar Julio Sosa, user: sosa_omar-julio}
@@ -1677,12 +1684,6 @@ airports:
   latitude: 35.236944
   longitude: -120.641944
   name: San Luis Obispo, CA
-- country: us
-  instructors:
-  - {name: John Leeman, user: leeman_john}
-  latitude: 40.855881
-  longitude: -77.843841
-  name: State College, PA
 - country: cl
   instructors:
   - {name: Juan Ugalde, user: ugalde_juan}
@@ -2104,12 +2105,6 @@ airports:
   latitude: 51.104055
   longitude: 16.881597
   name: Wrocław Nicolaus Copernicus Airport
-- country: us
-  instructors:
-  - {name: Auriel Fournier, user: fournier_auriel}
-  latitude: 36.2818985
-  longitude: -94.3068008
-  name: Fayetteville Springdale, AR
 - country: ca
   instructors:
   - {name: James Hiebert, user: hiebert_james}
@@ -4135,7 +4130,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171102T010003Z
+timestamp: 20171102T020003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
