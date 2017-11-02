@@ -4,9 +4,9 @@ subheadline:
 title: "Work Cycle Ganymede Wraps Up"
 teaser: "Here's what we accomplished"
 header:
-image_fullwidth: "light-blue-wood-texture.jpg"
+ image_fullwidth: "light-blue-wood-texture.jpg"
 Categories:
-- blog
+ - blog
 comments: true
 show_meta: true
 authors: ["Carpentry Staff"]
