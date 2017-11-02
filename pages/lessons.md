@@ -109,7 +109,7 @@ There are two versions of this workshop **Genomics Workshop with Pipeline Workfl
     <td>Project organization and management</td>
     <td><a href="{{site.dc_website_url}}/organization-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>Manny Corpas, Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
+    <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
 </tr>
   <tr>
     <td>Introduction to cloud computing for genomics</td>
