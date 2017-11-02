@@ -1014,10 +1014,10 @@ airports:
   - {name: Alastair Droop, user: droop_alastair}
   - {name: Chris Norton, user: norton_chris}
   - {name: Andrew Mellor, user: mellor_andrew}
-  - {name: Andy Evans, user: evans_andy}
   - {name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
   - {name: Will Furnass, user: furnass_will}
   - {name: Hugh Smith, user: smith_hugh}
+  - {name: Andy Evans, user: evans_andy}
   - {name: Jez Cope, user: cope_jez}
   - {name: Kirsty Pringle, user: pringle_kirsty}
   - {name: Fernando Zapata, user: zapata_fernando}
@@ -4130,7 +4130,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171102T130003Z
+timestamp: 20171102T140003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
