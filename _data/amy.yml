@@ -802,7 +802,6 @@ airports:
   - {name: Henry Senyondo, user: senyondo_henry}
   - {name: David Jennings, user: jennings_david}
   - {name: Kensworth Subratie, user: subratie_kensworth}
-  - {name: Justin Millar, user: millar_justin}
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
@@ -1397,6 +1396,7 @@ airports:
   - {name: Matt Terry, user: terry_m}
   - {name: Stéfan van der Walt, user: vanderwalt_s}
   - {name: Nelle Varoquaux, user: varoquaux_n}
+  - {name: Jens von der Linden, user: vonderlinden_jens}
   - {name: Donny Winston, user: winston_donald}
   - {name: Max Gerlock, user: gerlock_max}
   - {name: Harry Bachrach, user: bachrach_harry}
@@ -1715,7 +1715,6 @@ airports:
   - {name: Michael Sarahan, user: sarahan_michael}
   - {name: Rachael Tatman, user: tatman_rachael}
   - {name: Jacob Vanderplas, user: vanderplas_jacob}
-  - {name: Jens von der Linden, user: vonderlinden_jens}
   - {name: Samuel White, user: white_samuel}
   - {name: Kara Woo, user: woo_kara}
   - {name: Hsi-Kai Yang, user: yang_hsi-kai}
@@ -1997,6 +1996,12 @@ airports:
   latitude: 69.681079
   longitude: 18.916328
   name: Tromsø Airport
+- country: us
+  instructors:
+  - {name: Justin Millar, user: millar_justin}
+  latitude: 27.983099
+  longitude: -82.536413
+  name: Tampa International Airport
 - country: tw
   instructors:
   - {name: Frank Willmore, user: willmore_frank}
@@ -2064,6 +2069,12 @@ airports:
   latitude: -23.008056
   longitude: -47.134444
   name: Viracopos
+- country: lt
+  instructors:
+  - {name: Michael R. Crusoe, user: crusoe_michael}
+  latitude: 54.640024
+  longitude: 25.28217
+  name: Vilnius International Airport
 - country: na
   instructors:
   - {name: Jessica Upani, user: upani_jessica}
@@ -4120,11 +4131,11 @@ badges:
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
   airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, et, fr, gb, gr, hk,
-    ie, il, in, it, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw, us, ve,
-    za]
+    ie, il, in, it, lt, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw, us,
+    ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171102T000003Z
+timestamp: 20171102T010003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
