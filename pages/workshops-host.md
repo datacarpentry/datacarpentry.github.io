@@ -61,7 +61,7 @@ travel expenses for the two instructors.
 
 **Workshop Administration Fee:** $2500 US  
 *This is the fee for not-for-profit organizations, such as universities and
-government labs. For information on fees for for-profit organizations, please [contact us](mailto:tkteal@datacarpentry.org).  
+government labs. The fee for for-profit organizations is $10000 US. For more information about workshop fees for for-profit organizations please [contact us](mailto:tkteal@datacarpentry.org).  
 
 Partial or full waivers for fees will be considered on an as-needed basis.
 
