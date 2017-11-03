@@ -933,7 +933,7 @@ airports:
   - {name: Genevieve Smith, user: smith_g}
   - {name: Jason Williams, user: williams_jason}
   - {name: Andreas Mueller, user: mueller_andreas}
-  - {name: David Yakobovitch, user: yakobovitch_david}
+  - {name: David Avrohm Yakobovitch, user: yakobovitch_david}
   - {name: Joslynn Lee, user: lee_joslynn}
   - {name: Lingling Jiang, user: jiang_lingling}
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
@@ -3301,7 +3301,7 @@ badges:
   - {awarded: '2017-07-06', name: Daniel Buchan, user: buchan_daniel}
   - {awarded: '2017-07-06', name: Arnstein Orten, user: orten_arnstein}
   - {awarded: '2017-07-06', name: Jim Willenbring, user: willenbring_jim}
-  - {awarded: '2017-07-06', name: David Yakobovitch, user: yakobovitch_david}
+  - {awarded: '2017-07-06', name: David Avrohm Yakobovitch, user: yakobovitch_david}
   - {awarded: '2017-07-14', name: Eleanor Lutz, user: lutz_eleanor}
   - {awarded: '2017-07-14', name: Ilektra-Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
@@ -4121,7 +4121,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171103T200003Z
+timestamp: 20171103T210002Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
