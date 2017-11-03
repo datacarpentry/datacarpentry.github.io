@@ -4126,7 +4126,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171103T170003Z
+timestamp: 20171103T180004Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
@@ -6462,7 +6462,7 @@ workshops:
     venue: Continental Parkhotel Lugano
   - address: Via Basilea, 28 – CH-6900 Lugano
     contact: frank.pennekamp@ieu.uzh.ch
-    country: ''
+    country: CH
     end: 2017-11-08
     eventbrite_id: ''
     humandate: Nov 06-08, 2017
