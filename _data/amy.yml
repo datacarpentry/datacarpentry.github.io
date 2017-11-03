@@ -950,7 +950,6 @@ airports:
   - {name: Albertus Seyffert, user: seyffert_albertus}
   - {name: Bianca Peterson, user: peterson_bianca}
   - {name: Hannes Calitz, user: calitz_hannes}
-  - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   - {name: Martin Dreyer, user: dreyer_martin}
   - {name: Mojalefa Malahlela, user: malahlela_mojalefa}
   - {name: Angelique van Rensburg, user: van-rensburg_angelique}
@@ -1044,7 +1043,6 @@ airports:
   - {name: Ian Langmore, user: langmore_i}
   - {name: Matthew Lightman, user: lightman_matthew}
   - {name: Sheldon McKay, user: mckay_sheldon}
-  - {name: Adam Obeng, user: obeng_a}
   - {name: Jason Pell, user: pell_j}
   - {name: Nick Carchedi, user: carchedi_nick}
   - {name: Lisa Rhody, user: rhody_lisa}
@@ -1135,6 +1133,7 @@ airports:
   - {name: Emelie Harstad, user: harstad_emelie}
   - {name: Joshua Herr, user: herr_joshua}
   - {name: Natasha Pavlovikj, user: pavlovikj_natasha}
+  - {name: Jingchao Zhang, user: zhang_jingchao}
   - {name: Bill McClung, user: mcclung_bill}
   latitude: 40.850833
   longitude: -96.759167
@@ -1448,12 +1447,6 @@ airports:
   name: Oklahoma City
 - country: us
   instructors:
-  - {name: Jingchao Zhang, user: zhang_jingchao}
-  latitude: 41.300139
-  longitude: -95.897406
-  name: Eppley Airfield
-- country: us
-  instructors:
   - {name: Thomas Morrell, user: morrell_thomas}
   - {name: Katherine Koziar, user: koziar_katherine}
   latitude: 34.055978
@@ -1744,6 +1737,7 @@ airports:
   - {name: Jessica McKellar, user: mckellar_j}
   - {name: Ben Morris, user: morris_b}
   - {name: Madicken Munk, user: munk_madicken}
+  - {name: Adam Obeng, user: obeng_a}
   - {name: Karthik Ram, user: ram_k}
   - {name: Ramesh Sampath, user: sampath_ramesh}
   - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
@@ -2278,6 +2272,7 @@ airports:
 - country: ca
   instructors:
   - {name: Danielle Quinn, user: quinn_danielle}
+  - {name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
   - {name: Oliver Stueker, user: stueker_oliver}
   latitude: 47.6211888
   longitude: -52.8124826
@@ -4126,7 +4121,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171103T180004Z
+timestamp: 20171103T190003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
