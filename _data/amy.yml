@@ -1869,12 +1869,6 @@ airports:
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
-- country: br
-  instructors:
-  - {name: Filipe Fernandes, user: fernandes_filipe}
-  latitude: -12.910833
-  longitude: -38.330833
-  name: Salvador de Bahia
 - country: us
   instructors:
   - {name: Molly Gibson, user: gibson_molly}
@@ -4132,7 +4126,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171103T160004Z
+timestamp: 20171103T170003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
