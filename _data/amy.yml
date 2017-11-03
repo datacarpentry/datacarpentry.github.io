@@ -124,6 +124,7 @@ airports:
   - {name: Nichole Bennett, user: bennett_n}
   - {name: John Fonner, user: fonner_john}
   - {name: Rayna Michelle Harris, user: harris_rayna}
+  - {name: David Rio, user: rio_david}
   - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
   - {name: Rebecca Tarvin, user: tarvin_becca}
   - {name: Todd Krause, user: krause_todd}
@@ -139,7 +140,6 @@ airports:
   name: Barcelona
 - country: us
   instructors:
-  - {name: Sheldon McKay, user: mckay_sheldon}
   - {name: James Mickley, user: mickley_james}
   - {name: R. David Murray, user: murray_david}
   - {name: Pariksheet Nanda, user: nanda_pariksheet}
@@ -760,6 +760,7 @@ airports:
   - {name: Steven Koenig, user: koenig_steven}
   - {name: Philipp Lies, user: lies_philipp}
   - {name: Malvika Sharan, user: sharan_malvika}
+  - {name: Thea Van Rossum, user: van-rossum_thea}
   - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
   - {name: Dan Warren, user: warren_dan}
   - {name: Toby Hodges, user: hodges_toby}
@@ -902,7 +903,6 @@ airports:
 - country: us
   instructors:
   - {name: Michael Hansen, user: hansen_m}
-  - {name: David Rio, user: rio_david}
   - {name: Jeffrey Shelton, user: shelton_j}
   - {name: Heather Coates, user: coates_heather}
   latitude: 39.717222
@@ -1043,6 +1043,7 @@ airports:
   - {name: Sumana Harihareswara, user: harihareswara_sumana}
   - {name: Ian Langmore, user: langmore_i}
   - {name: Matthew Lightman, user: lightman_matthew}
+  - {name: Sheldon McKay, user: mckay_sheldon}
   - {name: Adam Obeng, user: obeng_a}
   - {name: Jason Pell, user: pell_j}
   - {name: Nick Carchedi, user: carchedi_nick}
@@ -2232,7 +2233,6 @@ airports:
   - {name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
   - {name: Nancy Soontiens, user: soontiens_nancy}
   - {name: Tiffany Timbers, user: timbers_tiffany}
-  - {name: Thea Van Rossum, user: van-rossum_thea}
   - {name: Lynne Joanne Williams, user: williams_l}
   - {name: Alex Razoumov, user: razoumov_alex}
   - {name: Melissa Guzman, user: guzman_melissa}
@@ -4132,7 +4132,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171103T140002Z
+timestamp: 20171103T150003Z
 workshops:
 - &id002
   - address: Informatics Institute Conference Room, CISE building
