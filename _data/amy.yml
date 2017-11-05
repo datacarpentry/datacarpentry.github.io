@@ -1247,7 +1247,6 @@ airports:
   name: Chicago Midway, IL
 - country: au
   instructors:
-  - {name: Diego Barneche Rosado, user: barneche_diego}
   - {name: Ewan Barr, user: barr_ewan}
   - {name: Thomas Coudrat, user: coudrat_thomas}
   - {name: Nicholas Crouch, user: crouch_nicholas}
@@ -1906,6 +1905,7 @@ airports:
   name: Berlin-Schönefeld
 - country: au
   instructors:
+  - {name: Diego Barneche Rosado, user: barneche_diego}
   - {name: Will Cornwell, user: cornwell_will}
   - {name: Westa Domanova, user: domanova_westa}
   - {name: Daniel Falster, user: falster_daniel}
@@ -4121,7 +4121,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171105T000002Z
+timestamp: 20171105T010002Z
 workshops:
 - &id002
   - address: Building 215, Room C103, 100 Bureau Dr., Gaithersburg, MD
