@@ -83,6 +83,7 @@ airports:
   - {name: Edwin van der Helm, user: van-der-helm_edwin}
   - {name: Tobias Borsdorff, user: borsdorff_tobias}
   - {name: Anita Schürch, user: schurch_anita}
+  - {name: Like Fokkens, user: fokkens_like}
   latitude: 52.309686
   longitude: 4.767438
   name: 'Amsterdam Airport Schiphol '
@@ -626,6 +627,7 @@ airports:
   - {name: Leigh Sheneman, user: sheneman_leigh}
   - {name: Byron Jacob Smith, user: smith_byron}
   - {name: Shawn Whitefield, user: whitefield_shawn}
+  - {name: Scott Martin, user: martin_scott}
   - {name: Akima George, user: george_akima}
   - {name: Alix Keener, user: keener_alix}
   - {name: Ry4an Brase, user: brase_ry4an}
@@ -1432,6 +1434,7 @@ airports:
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
   - {name: Pauline A. Fujita, user: fujita_pauline}
+  - {name: Nima Hejazi, user: hejazi_nima}
   - {name: Kellie Ottoboni, user: ottoboni_kellie}
   - {name: Kelly Rowland, user: rowland_kelly}
   latitude: 37.721111
@@ -1545,6 +1548,7 @@ airports:
   name: Perth
 - country: us
   instructors:
+  - {name: Yuan An, user: an_yuan}
   - {name: Dana Bauer, user: bauer_dana}
   - {name: Jacob Levernier, user: levernier_jacob}
   - {name: Randy Olson, user: olson_r}
@@ -1774,7 +1778,10 @@ airports:
   - {name: Todd Gamblin, user: gamblin_todd}
   - {name: Claudia Engel, user: engel_claudia}
   - {name: Javier de la Rosa, user: de-la-rosa_javier}
+  - {name: Mark A. Matienzo, user: matienzo_mark}
   - {name: Joke Durnez, user: durnez_joke}
+  - {name: Simon Podhajsky, user: podhajsky_simon}
+  - {name: Rebecca Louise Barter, user: barter_rebecca}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -2256,6 +2263,7 @@ airports:
   - {name: Megan Meredith-Lobay, user: meredith-lobay_megan}
   - {name: Jamie Rosner, user: rosner_jamie}
   - {name: May Chan, user: chan_may}
+  - {name: Giulio Valentino Dalla Riva, user: dalla-riva_giulio-valentino}
   latitude: 49.195
   longitude: -123.181944
   name: Vancouver
@@ -3420,7 +3428,7 @@ badges:
   - {awarded: '2017-10-31', name: Mesfin Diro Chaka, user: diro-chaka_mesfin}
   - {awarded: '2017-10-31', name: Like Fokkens, user: fokkens_like}
   - {awarded: '2017-10-31', name: Scott Martin, user: martin_scott}
-  - {awarded: '2017-10-31', name: Rebecca Barter, user: barter_rebecca}
+  - {awarded: '2017-10-31', name: Rebecca Louise Barter, user: barter_rebecca}
   - {awarded: '2017-11-01', name: Jessie Keck, user: keck_jessie}
   - {awarded: '2017-11-01', name: Joe Atzberger, user: atzberger_joe}
   - {awarded: '2017-11-01', name: Dan Gatti, user: gatti_dan}
@@ -4053,7 +4061,7 @@ badges:
   - {awarded: '2017-10-13', name: Jake Parker, user: parker_jake}
   - {awarded: '2017-10-13', name: Zak (I.W) van Heerden, user: van-heerden_zak-iw}
   - {awarded: '2017-10-20', name: Arindam Basu, user: basu_arindam}
-  - {awarded: '2017-10-31', name: Mark Matienzo, user: matienzo_mark}
+  - {awarded: '2017-10-31', name: Mark A. Matienzo, user: matienzo_mark}
   - {awarded: '2017-10-31', name: Matthias Grenié, user: greni_matthias}
   - {awarded: '2017-10-31', name: Sarah Brown, user: brown_sarah_2}
   - {awarded: '2017-11-02', name: Giulio Valentino Dalla Riva, user: dalla-riva_giulio-valentino}
@@ -4143,7 +4151,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171106T180003Z
+timestamp: 20171106T190004Z
 workshops:
 - &id002
   - address: Building 215, Room C103, 100 Bureau Dr., Gaithersburg, MD
@@ -6493,7 +6501,7 @@ workshops:
 - &id001
   - address: Via Basilea, 28 – CH-6900 Lugano
     contact: frank.pennekamp@ieu.uzh.ch
-    country: ''
+    country: CH
     end: 2017-11-10
     eventbrite_id: ''
     humandate: Nov 08-10, 2017
