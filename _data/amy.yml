@@ -3425,6 +3425,8 @@ badges:
   - {awarded: '2017-11-01', name: Joe Atzberger, user: atzberger_joe}
   - {awarded: '2017-11-01', name: Dan Gatti, user: gatti_dan}
   - {awarded: '2017-11-02', name: Zachary Trautt, user: trautt_zachary}
+  - {awarded: '2017-11-06', name: Veronica Jimenez-Jacinto, user: jimenez-jacinto_veronica}
+  - {awarded: '2017-11-06', name: Heladia Salgado Osorio, user: osorio_heladia}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4141,7 +4143,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171106T170003Z
+timestamp: 20171106T180003Z
 workshops:
 - &id002
   - address: Building 215, Room C103, 100 Bureau Dr., Gaithersburg, MD
