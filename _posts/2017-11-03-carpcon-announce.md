@@ -40,15 +40,15 @@ We would like to get some rough estimate of how many people might want to attend
  
 CarpentryCon will focus on three main themes:
  
-### Community Building
+#### Community Building
  
 We will bring members of the Carpentry community together with people sharing similar interests from around the globe. Unlike most conferences, our format will be "come and learn".
  
-### Sharing Knowledge
+#### Sharing Knowledge
  
 Community leaders will offer sessions on teaching methods, curriculum development, community organization, and leadership skills so we can grow our next generation of community leaders and champions. 
  
-### Networking
+#### Networking
  
 Participants will be able to come together informally to meet peers and community leaders and to share stories about challenges and successes.
  
