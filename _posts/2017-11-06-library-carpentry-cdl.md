@@ -12,7 +12,7 @@ date: 2017-11-06
 authors: ["John Chodacki"]
 ---
 
-**Post from [the California Digital Libraries](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)**
+**Post from the [University of California Curation Center](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/) of the California Digital Library**
 
 ---
 
