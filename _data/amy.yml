@@ -4153,7 +4153,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171106T220003Z
+timestamp: 20171106T230002Z
 workshops:
 - &id002
   - address: Building 215, Room C103, 100 Bureau Dr., Gaithersburg, MD
@@ -6501,6 +6501,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
+    contact: partridc@gvsu.edu
+    country: US
+    end: 2017-12-19
+    eventbrite_id: ''
+    humandate: Dec 18-19, 2017
+    latitude: 42.958836
+    longitude: -85.889903
+    slug: 2017-12-18-grand-valley
+    start: 2017-12-18
+    tags:
+    - {name: DC}
+    url: https://aurielfournier.github.io/2017-12-18-grand-valley/
+    venue: Grand Valley State University
   - address: Via Basilea, 28 – CH-6900 Lugano
     contact: frank.pennekamp@ieu.uzh.ch
     country: CH
