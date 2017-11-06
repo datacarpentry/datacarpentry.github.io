@@ -228,6 +228,12 @@ airports:
   latitude: 12.949722
   longitude: 77.668056
   name: Bangalore
+- country: se
+  instructors:
+  - {name: Thor Wikfeldt, user: wikfeldt_thor}
+  latitude: 59.3544006
+  longitude: 17.9417
+  name: Stockholm-Bromma
 - country: us
   instructors:
   - {name: Scott Burns, user: burns_scott}
@@ -307,6 +313,7 @@ airports:
   - {name: Kathleen Lotterhos, user: lotterhos_kathleen}
   - {name: Jarrett Byrnes, user: byrnes_jarrett}
   - {name: Michael Connell, user: connell_michael}
+  - {name: Dan Gatti, user: gatti_dan}
   - {name: Tom Hohenstein, user: hohenstein_tom}
   latitude: 42.364167
   longitude: -71.005
@@ -753,6 +760,12 @@ airports:
   latitude: 35.13778
   longitude: -111.67167
   name: Flagstaff, AZ
+- country: br
+  instructors:
+  - {name: Filipe Fernandes, user: fernandes_filipe}
+  latitude: -27.6702785
+  longitude: -48.5525017
+  name: Hercílio Luz International
 - country: de
   instructors:
   - {name: Luis Pedro Coelho, user: coelho_luis}
@@ -1315,6 +1328,12 @@ airports:
   latitude: 54.509201
   longitude: -1.42941
   name: Durham Tees Valley Airport
+- country: fr
+  instructors:
+  - {name: Matthias Grenié, user: greni_matthias}
+  latitude: 43.5761986
+  longitude: 3.9630101
+  name: Montpellier-Méditerranée
 - country: ve
   instructors:
   - {name: Francisco Palm, user: palm_francisco}
@@ -1646,6 +1665,7 @@ airports:
   - {name: Chris Lasher, user: lasher_c}
   - {name: Andrea Zonca, user: zonca_andrea}
   - {name: Reid Otsuji, user: otsuji_reid}
+  - {name: Sarah Brown, user: brown_sarah_2}
   latitude: 32.733333
   longitude: -117.189444
   name: San Diego International Airport
@@ -4121,7 +4141,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171106T100003Z
+timestamp: 20171106T110003Z
 workshops:
 - &id002
   - address: Building 215, Room C103, 100 Bureau Dr., Gaithersburg, MD
