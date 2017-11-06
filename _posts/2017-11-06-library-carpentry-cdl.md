@@ -12,7 +12,9 @@ date: 2017-11-06
 authors: ["John Chodacki"]
 ---
 
-*Cross posted from [http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)*
+**Post from [the California Digital Libraries](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)**
+
+---
 
 In today’s data-driven, online and highly interconnected world, librarians are key to supporting diverse information needs and leading best practices to work with and manage data. For librarians to be effective in a rapidly evolving information landscape, training and professional development opportunities in both computational and data skills must be available and accessible.
 
