@@ -51,7 +51,7 @@ be accessed through the links below.
 
 #### Post-Workshop Reports
 
-- [Post-Workshop Survey Report 2016-10-20](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
+- [Post-Workshop Survey Report (2016-10-20)](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
 
 The analysis in this report serves the following purposes:
 
