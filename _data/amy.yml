@@ -4153,7 +4153,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171107T200003Z
+timestamp: 20171107T210003Z
 workshops:
 - &id002
   - address: TBC
@@ -6501,6 +6501,20 @@ workshops:
     - {name: DC}
     url: https://aurielfournier.github.io/2017-12-18-grand-valley/
     venue: Grand Valley State University
+  - address: Room 2-17, General Services Building, University of Alberta
+    contact: john.simpso@ualberta.ca
+    country: CA
+    end: 2017-11-16
+    eventbrite_id: '39485854253'
+    humandate: Nov 15-16, 2017
+    latitude: 53.526003
+    longitude: -113.529153
+    slug: 2017-11-15-ualberta
+    start: 2017-11-15
+    tags:
+    - {name: DC}
+    url: https://computecanada.github.io/2017-11-15-ualberta/
+    venue: University of Alberta
   - address: Via Basilea, 28 – CH-6900 Lugano
     contact: frank.pennekamp@ieu.uzh.ch
     country: CH
