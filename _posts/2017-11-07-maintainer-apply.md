@@ -20,9 +20,14 @@ They endeavor to be welcoming and supportive of contributions from all members o
 
 More detailed information about what Maintainers do can be found [here](https://tinyurl.com/yczxp2ex). 
 Please review this document, paying attention to the time commitment 
-involved, before submitting your application. 
+involved, before submitting your application. New Maintainers will be invited to join the existing Maintainer group
+as we develop formal guidelines and training documentation for onboarding new Maintainers.
 
-You can apply to become a Maintainer [here](https://goo.gl/forms/TN1tBKdvDdqbPeQ33).
+You can apply to become a Maintainer [here](https://goo.gl/forms/TN1tBKdvDdqbPeQ33). 
+
+New Maintainers will be mentored in the 
+maintenance process to help them understand the current structure of the lessons, how that structure has arisen, any open topics of 
+discussion around major changes to the lessons, and Git and GitHub mechanics. 
 
 Applications will be open through **Wednesday, November 22, 2017 at 6am UTC**. Use [this link](https://tinyurl.com/ydyc49u2) 
 to see the deadline in your local time.
