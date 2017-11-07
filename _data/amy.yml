@@ -4153,23 +4153,9 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171107T150003Z
+timestamp: 20171107T160003Z
 workshops:
 - &id002
-  - address: Building 215, Room C103, 100 Bureau Dr., Gaithersburg, MD
-    contact: cbecker@nist.gov
-    country: us
-    end: 2017-11-03
-    eventbrite_id: ''
-    humandate: Nov 02-03, 2017
-    latitude: 39.143441
-    longitude: -77.20137
-    slug: 2017-11-02-nist
-    start: 2017-11-02
-    tags:
-    - {name: DC}
-    url: https://pages.nist.gov/2017-11-02-nist/
-    venue: National Institute of Standards and Technology
   - address: TBC
     contact: carolfadeke@gmail.com
     country: za
