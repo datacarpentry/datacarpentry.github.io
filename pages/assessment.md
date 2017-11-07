@@ -40,9 +40,9 @@ Additionally, we began collecting data on the long-term impact our workshops are
 Data sets (provided as csv files) and assessment reports are  in a 
 [GitHub repository](https://github.com/carpentries/assessment), along with the version of the [surveys](https://github.com/carpentries/assessment/tree/master/surveys) that were in use at time of analysis.  
 
-[Data for Post-Workshop Survey Report (2016-10-20)](https://raw.githubusercontent.com/carpentries/assessment/master/data-carpentry/postworkshop/data.csv)
+- [Data for Post-Workshop Survey Report (2016-10-20)](https://raw.githubusercontent.com/carpentries/assessment/master/data-carpentry/postworkshop/data.csv)
 
-[Data for Long-Term Survey Report (2017-10-31)](https://raw.githubusercontent.com/carpentries/assessment/master/carpentries/long-term-survey/data.csv)
+- [Data for Long-Term Survey Report (2017-10-31)](https://raw.githubusercontent.com/carpentries/assessment/master/carpentries/long-term-survey/data.csv)
 
 ### Assessment Results
  
@@ -51,7 +51,7 @@ be accessed through the links below.
 
 #### Post-Workshop Reports
 
-[Post-Workshop Survey Report 2016-10-20](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
+- [Post-Workshop Survey Report 2016-10-20](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
 
 The analysis in this report serves the following purposes:
 
@@ -63,7 +63,7 @@ The report finds that learners are reporting that after a workshop, their level 
 
 #### Long-Term Survey Reports
 
-[Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.165858)
+- [Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.165858)
 
 The long-term survey assessed confidence, motivation, and other outcomes more than six months after respondents attended a Carpentry workshop. Provided below are a few highlights from the data.
 
