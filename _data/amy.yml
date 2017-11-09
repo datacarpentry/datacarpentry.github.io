@@ -4160,7 +4160,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171109T170002Z
+timestamp: 20171109T180004Z
 workshops:
 - &id002
   - address: Via Basilea, 28 – CH-6900 Lugano
@@ -5488,6 +5488,20 @@ workshops:
     - {name: DC}
     url: https://hnakhoul.github.io/2016-08-18-stonybrook/
     venue: Stony Brook University
+  - address: 1306 Elings Hall, Ames, IA
+    contact: jinchoi@iastate.edu
+    country: ''
+    end: 2016-08-12
+    eventbrite_id: ''
+    humandate: Aug 11-12, 2016
+    latitude: 42.027559
+    longitude: -93.652643
+    slug: 2016-08-11-ISU
+    start: 2016-08-11
+    tags:
+    - {name: DC}
+    url: https://metajinomics.github.io/2016-08-11-ISU/
+    venue: Iowa State University
   - address: Seminar room at Lab 14, 700 Swanson St, Carlton, Victoria
     contact: ''
     country: au
