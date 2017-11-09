@@ -31,6 +31,7 @@ airports:
   name: RAF Leuchars Airport
 - country: nz
   instructors:
+  - {name: Raphael Aggio, user: aggio_raphael}
   - {name: Prashant Gupta, user: gupta_prashant}
   - {name: Richard Hosking, user: hosking_richard}
   - {name: Nick Jones, user: jones_nick}
@@ -4153,7 +4154,7 @@ flags:
     ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171109T010002Z
+timestamp: 20171109T020003Z
 workshops:
 - &id002
   - address: TBC
