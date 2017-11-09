@@ -1578,6 +1578,7 @@ airports:
 - country: us
   instructors:
   - {name: Joshua Adelman, user: adelman_joshua}
+  - {name: Justin Kitzes, user: kitzes_j}
   - {name: Lisa Zilinski, user: zilinski_lisa}
   latitude: 40.491389
   longitude: -80.232778
@@ -1713,6 +1714,12 @@ airports:
   latitude: 38.175662
   longitude: -85.736923
   name: Louisville, KY
+- country: jp
+  instructors:
+  - {name: Tom Kelly, user: kelly_tom_2}
+  latitude: 38.1397018
+  longitude: 140.9170074
+  name: Sendai Airport
 - country: us
   instructors:
   - {name: Russell Alleen-Willems, user: alleen-willems_russell}
@@ -1755,7 +1762,6 @@ airports:
   - {name: Brandon Curtis, user: curtis_b}
   - {name: Ted Hart, user: hart_t}
   - {name: Fatma Imamoglu, user: imamoglu_fatma}
-  - {name: Justin Kitzes, user: kitzes_j}
   - {name: Bernhard Konrad, user: konrad_b}
   - {name: Chris Lonnen, user: lonnen_chris}
   - {name: Jessica McKellar, user: mckellar_j}
@@ -4150,11 +4156,11 @@ badges:
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
   airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, et, fr, gb, gr, hk,
-    ie, il, in, it, lt, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw, us,
-    ve, za]
+    ie, il, in, it, jp, lt, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw,
+    us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171109T030003Z
+timestamp: 20171109T040002Z
 workshops:
 - &id002
   - address: TBC
