@@ -4160,9 +4160,39 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171109T050002Z
+timestamp: 20171109T060002Z
 workshops:
 - &id002
+  - address: Via Basilea, 28 – CH-6900 Lugano
+    contact: frank.pennekamp@ieu.uzh.ch
+    country: ch
+    end: 2017-11-08
+    eventbrite_id: ''
+    humandate: Nov 06-08, 2017
+    latitude: 46.002701
+    longitude: 8.946719
+    slug: 2017-11-06-lugano
+    start: 2017-11-06
+    tags:
+    - {name: DC}
+    url: https://pennekampster.github.io/2017-11-06-lugano/
+    venue: Continental Parkhotel Lugano
+  - address: E-classroom, Stellenbosch University Library (J.S. Gericke Library),
+      Stellenbosch University, JS Marais Square, c/o Victoria and Ryneveld Streets,
+      Stellenbosch, South Africa
+    contact: ivdl@sun.ac.za
+    country: za
+    end: 2017-11-08
+    eventbrite_id: ''
+    humandate: Nov 06-08, 2017
+    latitude: -33.933198
+    longitude: 18.864142
+    slug: 2017-11-06-SUN-DC
+    start: 2017-11-06
+    tags:
+    - {name: DC}
+    url: https://suncarpentry.github.io/2017-11-06-SUN-DC/
+    venue: Stellenbosch University
   - address: TBC
     contact: carolfadeke@gmail.com
     country: za
@@ -6536,35 +6566,5 @@ workshops:
     - {name: DC}
     url: https://pennekampster.github.io/2017-11-08-lugano/
     venue: Continental Parkhotel Lugano
-  - address: Via Basilea, 28 – CH-6900 Lugano
-    contact: frank.pennekamp@ieu.uzh.ch
-    country: CH
-    end: 2017-11-08
-    eventbrite_id: ''
-    humandate: Nov 06-08, 2017
-    latitude: 46.002701
-    longitude: 8.946719
-    slug: 2017-11-06-lugano
-    start: 2017-11-06
-    tags:
-    - {name: DC}
-    url: https://pennekampster.github.io/2017-11-06-lugano/
-    venue: Continental Parkhotel Lugano
-  - address: E-classroom, Stellenbosch University Library (J.S. Gericke Library),
-      Stellenbosch University, JS Marais Square, c/o Victoria and Ryneveld Streets,
-      Stellenbosch, South Africa
-    contact: ivdl@sun.ac.za
-    country: ZA
-    end: 2017-11-08
-    eventbrite_id: ''
-    humandate: Nov 06-08, 2017
-    latitude: -33.933198
-    longitude: 18.864142
-    slug: 2017-11-06-SUN-DC
-    start: 2017-11-06
-    tags:
-    - {name: DC}
-    url: https://suncarpentry.github.io/2017-11-06-SUN-DC/
-    venue: Stellenbosch University
 workshops_current: *id001
 workshops_past: *id002
