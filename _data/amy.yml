@@ -4161,9 +4161,23 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171111T050002Z
+timestamp: 20171111T060002Z
 workshops:
 - &id002
+  - address: Via Basilea, 28 – CH-6900 Lugano
+    contact: frank.pennekamp@ieu.uzh.ch
+    country: ch
+    end: 2017-11-10
+    eventbrite_id: ''
+    humandate: Nov 08-10, 2017
+    latitude: 46.002701
+    longitude: 8.946719
+    slug: 2017-11-08-lugano
+    start: 2017-11-08
+    tags:
+    - {name: DC}
+    url: https://pennekampster.github.io/2017-11-08-lugano/
+    venue: Continental Parkhotel Lugano
   - address: Via Basilea, 28 – CH-6900 Lugano
     contact: frank.pennekamp@ieu.uzh.ch
     country: ch
@@ -6567,19 +6581,5 @@ workshops:
     - {name: DC}
     url: https://computecanada.github.io/2017-11-15-ualberta/
     venue: University of Alberta
-  - address: Via Basilea, 28 – CH-6900 Lugano
-    contact: frank.pennekamp@ieu.uzh.ch
-    country: CH
-    end: 2017-11-10
-    eventbrite_id: ''
-    humandate: Nov 08-10, 2017
-    latitude: 46.002701
-    longitude: 8.946719
-    slug: 2017-11-08-lugano
-    start: 2017-11-08
-    tags:
-    - {name: DC}
-    url: https://pennekampster.github.io/2017-11-08-lugano/
-    venue: Continental Parkhotel Lugano
 workshops_current: *id001
 workshops_past: *id002
