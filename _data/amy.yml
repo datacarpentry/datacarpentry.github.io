@@ -3451,6 +3451,13 @@ badges:
   - {awarded: '2017-11-06', name: Heladia Salgado Osorio, user: osorio_heladia}
   - {awarded: '2017-11-06', name: Leticia Vega Alvarado, user: vega-alvarado_leticia}
   - {awarded: '2017-11-06', name: Daniela Ledezma, user: ledezma-tejeida_daniela}
+  - {awarded: '2017-11-13', name: Roman Klapaukh, user: klapaukh_roman}
+  - {awarded: '2017-11-13', name: Mees Fix, user: fix_mees}
+  - {awarded: '2017-11-13', name: Daniel Suess, user: suess_daniel}
+  - {awarded: '2017-11-13', name: Geert Jan Bex, user: bex_geert-jan}
+  - {awarded: '2017-11-13', name: Dave Bridges, user: bridges_dave}
+  - {awarded: '2017-11-13', name: Jonathan Greenberg, user: greenberg_jonathan}
+  - {awarded: '2017-11-13', name: Anja Le Blanc, user: le-blanc_anja}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4081,6 +4088,8 @@ badges:
   - {awarded: '2017-10-31', name: Matthias Grenié, user: greni_matthias}
   - {awarded: '2017-10-31', name: Sarah Brown, user: brown_sarah_2}
   - {awarded: '2017-11-02', name: Giulio Valentino Dalla Riva, user: dalla-riva_giulio-valentino}
+  - {awarded: '2017-11-13', name: Tony Primerano, user: primerano_tony}
+  - {awarded: '2017-11-13', name: Evamaria Krause, user: krause_evamaria}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4167,7 +4176,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171113T200004Z
+timestamp: 20171113T210003Z
 workshops:
 - &id002
   - address: Via Basilea, 28 – CH-6900 Lugano
