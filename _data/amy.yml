@@ -1094,7 +1094,7 @@ airports:
   - {name: Robert A Beagrie, user: beagrie_robert}
   - {name: Miguel Bernabeu, user: bernabeu_miguel}
   - {name: Chris Cannam, user: cannam_c}
-  - {name: Ilektra-Athanasia Christidi, user: christidi_ilektra-athanasia}
+  - {name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {name: Jonathan Cooper, user: cooper_jonathan}
   - {name: Rich FitzJohn, user: fitzjohn_rich}
   - {name: Philip Fowler, user: fowler_philip}
@@ -3345,7 +3345,7 @@ badges:
   - {awarded: '2017-07-06', name: Jim Willenbring, user: willenbring_jim}
   - {awarded: '2017-07-06', name: David Avrohm Yakobovitch, user: yakobovitch_david}
   - {awarded: '2017-07-14', name: Eleanor Lutz, user: lutz_eleanor}
-  - {awarded: '2017-07-14', name: Ilektra-Athanasia Christidi, user: christidi_ilektra-athanasia}
+  - {awarded: '2017-07-14', name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
   - {awarded: '2017-07-14', name: Scott Peterson, user: peterson_scott}
   - {awarded: '2017-07-14', name: Martin Hadley, user: hadley_martin}
@@ -4167,7 +4167,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171113T100004Z
+timestamp: 20171113T110003Z
 workshops:
 - &id002
   - address: Via Basilea, 28 – CH-6900 Lugano
