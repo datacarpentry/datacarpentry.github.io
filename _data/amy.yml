@@ -680,7 +680,7 @@ airports:
   instructors:
   - {name: Mario Antonioletti, user: antonioletti_mario}
   - {name: Evgenij Belikov, user: belikov_evgenij}
-  - {name: Neil Chue Hong, user: chue-hong_n}
+  - {name: Neil Philippe Chue Hong, user: chue-hong_n}
   - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
   - {name: Alistair Grant, user: grant_alistair}
   - {name: Mike Jackson, user: jackson_m}
@@ -2481,7 +2481,7 @@ badges:
   - {awarded: '2014-09-18', name: Chelsea Chisholm, user: chisholm_chelsea}
   - {awarded: '2014-07-22', name: Shreyas Cholia, user: cholia_s}
   - {awarded: '2012-12-20', name: Adina Howe, user: chuang-howe_a}
-  - {awarded: '2012-12-20', name: Neil Chue Hong, user: chue-hong_n}
+  - {awarded: '2012-12-20', name: Neil Philippe Chue Hong, user: chue-hong_n}
   - {awarded: '2015-01-07', name: Sophie Clayton, user: clayton_sophie}
   - {awarded: '2014-05-04', name: Luis Pedro Coelho, user: coelho_luis}
   - {awarded: '2014-12-11', name: Ruth Collings, user: collings_ruth}
@@ -3459,7 +3459,7 @@ badges:
   - {awarded: '2015-01-07', name: Andrew Boughton, user: boughton_andrew}
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
   - {awarded: '2015-01-23', name: Cliburn Chan, user: chan_cliburn}
-  - {awarded: '2015-01-23', name: Neil Chue Hong, user: chue-hong_n}
+  - {awarded: '2015-01-23', name: Neil Philippe Chue Hong, user: chue-hong_n}
   - {awarded: '2015-01-06', name: Warren Code, user: code_w}
   - {awarded: '2014-12-18', name: Arliss Collins, user: collins_arliss}
   - {awarded: '2015-01-23', name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
@@ -3907,7 +3907,7 @@ badges:
   - {awarded: '2017-01-16', name: Ramalingam Saravanan, user: ramalingam_saravanan}
   - {awarded: '2017-01-16', name: Radovan Bast, user: bast_radovan}
   - {awarded: '2017-01-16', name: Mark Stacy, user: stacy_mark}
-  - {awarded: '2017-01-16', name: Neil Chue Hong, user: chue-hong_n}
+  - {awarded: '2017-01-16', name: Neil Philippe Chue Hong, user: chue-hong_n}
   - {awarded: '2017-01-16', name: Emilia Gan, user: gan_emilia}
   - {awarded: '2017-01-16', name: Albertus Seyffert, user: seyffert_albertus}
   - {awarded: '2017-01-16', name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
@@ -4167,7 +4167,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171112T230003Z
+timestamp: 20171113T000003Z
 workshops:
 - &id002
   - address: Via Basilea, 28 – CH-6900 Lugano
