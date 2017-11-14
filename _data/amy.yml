@@ -1220,6 +1220,7 @@ airports:
   - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
   - {name: Tania Rebeca Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
+  - {name: Anja Le Blanc, user: le-blanc_anja}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -4176,7 +4177,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171114T110002Z
+timestamp: 20171114T120003Z
 workshops:
 - &id002
   - address: Via Basilea, 28 – CH-6900 Lugano
