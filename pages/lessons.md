@@ -40,9 +40,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 This workshop uses a [tabular ecology dataset](https://github.com/datacarpentry/ecology-workshop/blob/master/data.md) from the [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites, and the materials assume no prior knowledge about the tools.* We use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use.
 
-[Overview of the Ecology Workshop](http://www.datacarpentry.org/ecology-workshop/)
-
-The workshop can be taught using R or Python as the base language.
+The Ecology workshop can be taught using R or Python as the base language.
 
 #### Lessons
 
@@ -107,9 +105,10 @@ The workshop can be taught using R or Python as the base language.
 
 *These lessons are under development and will be ready for broader teaching in December, 2017*
 
-The focus of this workshop is on working with genomics data and data management and analysis for genomics research. It covers metadata organization in spreadsheets, data organization, connecting to and using cloud computing, the command line for sequence quality control and either bioinformatics workflows (Genomics Workshop with Pipeline Workflow), or R for data analysis and visualization (Genomics Workshop with R). The workshop does not teach any particular bioinformatics tools, but the foundational skills that will allow you to conduct any analysis and analyze the output of a genomics pipeline.
-
-[Overview of the Genomics Workshop](http://www.datacarpentry.org/genomics-workshop/)  
+The focus of this workshop is on working with genomics data and data management and analysis for genomics research. It covers data 
+management and analysis for genomics research including: best practices for organization of bioinformatics projects and data, use of 
+command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
+cloud computing.
 
 #### Lessons
 
