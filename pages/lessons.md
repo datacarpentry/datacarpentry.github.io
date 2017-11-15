@@ -18,7 +18,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 ## Workshop materials
 
 - [Ecology curriculum](#ecology-workshop)
-- [Genomics curriculum](#genomics-workshop) *Under development. Beta*
+- [Genomics curriculum](#genomics-workshop)
 
 ## Workshop materials under development or consideration
 
@@ -32,7 +32,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 ## Semester materials
 
 - [Biology semester long curriculum](#biology-semester-long-course)  
-* We don't offer these as a course, but they are freely available for reuse and revision as people want to use them.*  For more information on these materials contact [team@carpentries.org](mailto:team@carpentries.org).
+*We don't offer these as a course, but they are freely available for reuse and revision as people want to use them.*  For more information on these materials contact [team@carpentries.org](mailto:team@carpentries.org).
 
 <hr>
 
@@ -54,6 +54,13 @@ The workshop can be taught using R or Python as the base language.
     <th>Repository</th>
     <th>Instructor Guide</th>
     <th>Maintainer(s)</th>
+  </tr>
+  <tr>
+    <td>Ecology Workshop Home Page</td>
+    <td><a href="{{site.dc_github_site_url}}/ecology-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/ecology-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/ecology-workshop/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
+    <td>Karen Cranston, Aleksandra Pawlik, Karthik Ram, Tracy Teal, Ethan White</td>
   </tr>
   <tr>
     <td>Data Organization in Spreadsheets</td>
@@ -80,7 +87,7 @@ The workshop can be taught using R or Python as the base language.
     <td>Data Analysis and Visualization in R</td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/blob/gh-pages/instructor-notes.md" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/instructor-notes" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>François Michonneau, Auriel Fournier</td>
   </tr>
   <tr>
@@ -94,7 +101,7 @@ The workshop can be taught using R or Python as the base language.
 
 <hr>
 
-### <a id="genomics-workshop"></a> Genomics Workshop
+### <a id="genomics-workshop"></a> Genomics Curriculum
 
 #### Overview
 
@@ -103,7 +110,6 @@ The workshop can be taught using R or Python as the base language.
 The focus of this workshop is on working with genomics data and data management and analysis for genomics research. It covers metadata organization in spreadsheets, data organization, connecting to and using cloud computing, the command line for sequence quality control and either bioinformatics workflows (Genomics Workshop with Pipeline Workflow), or R for data analysis and visualization (Genomics Workshop with R). The workshop does not teach any particular bioinformatics tools, but the foundational skills that will allow you to conduct any analysis and analyze the output of a genomics pipeline.
 
 [Overview of the Genomics Workshop](http://www.datacarpentry.org/genomics-workshop/)  
-There are two versions of this workshop **Genomics Workshop with Pipeline Workflow** and **Genomics Workshop with R**
 
 #### Lessons
 
@@ -115,10 +121,16 @@ There are two versions of this workshop **Genomics Workshop with Pipeline Workfl
     <th>Maintainer(s)</th>
   </tr>
   <tr>
+    <td>Genomics Workshop Home Page</td>
+    <td><a href="{{site.dc_github_site_url}}/genomics-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/genomics-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td>Erin Becker</td>
+  </tr>
+  <tr>
     <td>Project organization and management</td>
     <td><a href="{{site.dc_website_url}}/organization-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>Manny Corpas, Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
+    <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
 </tr>
   <tr>
     <td>Introduction to cloud computing for genomics</td>
