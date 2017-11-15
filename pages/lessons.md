@@ -20,11 +20,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Ecology curriculum](#ecology-workshop)
 - [Genomics curriculum](#genomics-workshop) *Under development. Beta*
 
-## Semester materials
-
-- [Biology semester long curriculum](#biology-semester-long-course)
-
-## Materials under development or consideration
+## Workshop materials under development or consideration
 
 - [Geospatial data curriculum](#geospatial-curriculum)
 - [Social science curriculum](#social-science-curriculum)
@@ -32,6 +28,11 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Image analysis curriculum](#image-curriculum)
 - [Economics curriculum](#economics-curriculum)
 - [Other curriculum](#other-curriculum)
+
+## Semester materials
+
+- [Biology semester long curriculum](#biology-semester-long-course)  
+* We don't offer these as a course, but they are freely available for reuse and revision as people want to use them.*  For more information on these materials contact [team@carpentries.org](mailto:team@carpentries.org).
 
 <hr>
 
@@ -158,7 +159,7 @@ The course is accessible to:
 - [Self-guided Students](http://www.datacarpentry.org/semester-biology/START-for-self-guided-students)
 - [Instructors](http://www.datacarpentry.org/semester-biology/docs/)
 
-## Materials under development or consideration
+## Materials under development
 
 ### <a id="geospatial-curriculum"></a> Geospatial Data Workshop
 
@@ -167,6 +168,8 @@ The course is accessible to:
 #### Overview
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.  This assumes intermediate R skills, for people who have the basics of R down but haven’t worked with spatial data in R before.
+
+Join the [geospatial curriculum email list](mailto:geospatial-curriculum@carpentries.org) to get updates and be involved in conversations about this curriculum.
 
 #### Lessons
 
@@ -203,27 +206,31 @@ This workshop is co-developed with the National Ecological Observatory Network [
 
 Social science curriculum is under initial development with the University of Manchester.
 
-Alpha release and pilot workshops planned for early 2018. If you are interested in following or being involved in development of this curriculum, please sign up for the [social-science-curriculum email list]()
+Alpha release and pilot workshops planned for early 2018. If you are interested in following or being involved in development of this curriculum, please sign up for the [social-science-curriculum email list](social-science-curriculum@carpentries.org)
+
+## Materials in Early development
+
+*These materials are at the initial stages of development, identifying the core concepts to teach*
 
 ### <a id="dh-curriculum"></a> Digital Humanities Curriculum
 
 Many groups are piloting different versions of this curriculum. There is not yet one set of lessons under active development.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list]()
+If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](dh-curriculum@carpentries.org)
 
 ### <a id="image-analysis-curriculum"></a> Image analysis Curriculum
 
 Groups at Stanford, Doane College and attendees of the ImageXD meeting have piloted ideas for curriculum in teaching image analysis. There is not yet one set of lessons under active development. Development is planned for 2018.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list]()
+If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list](image-curriculum@carpentries.org)
 
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
 There is initial interest on economics curriculum. Development is planned for 2018.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list]()
+If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list](economics-curriculum@carpentries.org)
 
 ### <a id="other-curriculum"></a>Other curriculum
 
-If you are interested in developing other curriculum or getting updates on other topics, please contact us at [team@carpentries.org](mailto:team@carpentries.org).
+If you are interested in developing other lessons or getting updates on other topics, see the [lessons ideas github repository](https://github.com/datacarpentry/lesson-ideas) for topics under consideration or discussion, or to propose new ideas.
