@@ -38,7 +38,7 @@ If you would like to be considered, please fill out [this short google form](htt
 
 ### Transition Timeline:  
 
-**1 year position** December 2017 - December 2018  
+**1 year position** (December 2017 - December 2018)  
 
 - Mentored by both co-chairs of the subcommittee (Jamie & Marian) for the first month.   
 - Until February 2018, work closely with the co-chair (Marian).  
