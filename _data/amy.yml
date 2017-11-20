@@ -968,6 +968,7 @@ airports:
   - {name: Albertus Seyffert, user: seyffert_albertus}
   - {name: Bianca Peterson, user: peterson_bianca}
   - {name: Hannes Calitz, user: calitz_hannes}
+  - {name: Caroline Ajilogba, user: ajilogba_caroline}
   - {name: Martin Dreyer, user: dreyer_martin}
   - {name: Mojalefa Malahlela, user: malahlela_mojalefa}
   - {name: Angelique van Rensburg, user: van-rensburg_angelique}
@@ -1113,6 +1114,7 @@ airports:
   - {name: Will Usher, user: usher_w}
   - {name: Bogdan Vera, user: vera_b}
   - {name: Ben Waugh, user: waugh_b}
+  - {name: Roman Klapaukh, user: klapaukh_roman}
   - {name: Arfan Ahmed, user: ahmed_arfan}
   - {name: Tom Couch, user: couch_tom}
   - {name: Alys Brett, user: brett_alys}
@@ -4178,7 +4180,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171120T100002Z
+timestamp: 20171120T110002Z
 workshops:
 - &id002
   - address: Room 2-17, General Services Building, University of Alberta
