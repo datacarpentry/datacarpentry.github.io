@@ -12,10 +12,11 @@ show_meta: true
 authors: ["Belinda Weaver"]
 ---
 
-Seven nominations have come in so far for the 2018 Steering Committee of the new, merged Carpentries.
+Eight nominations have come in so far for the 2018 Steering Committee of the new, merged Carpentries.
 
 The nominees so far are:
 
+- [Samantha Ahern](https://software-carpentry.org/blog/2017/11/sam-ahern-sc.html)
 - [Martin Callaghan](https://software-carpentry.org/blog/2017/11/election-callaghan.html) (UK)
 - [Auriel Fournier](https://software-carpentry.org/blog/2017/11/2018-sc-election-fournier.html) (US)
 - [Amy Hodge](https://software-carpentry.org/blog/2017/11/amy-hodge-sc.html) (US)
