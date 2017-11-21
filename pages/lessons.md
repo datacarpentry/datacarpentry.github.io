@@ -132,25 +132,25 @@ cloud computing.
     <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
 </tr>
   <tr>
-    <td>Introduction to cloud computing for genomics</td>
-    <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>Bob Freeman, Darya Vanichkina, Kevin Buckley, Amanda Charbonneau</td>
-  </tr>
-  <tr>
     <td>Introduction to the command line</td>
     <td><a href="{{site.dc_website_url}}/shell-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Shichen Wang, Anita Schürch, Bastian Greshak, Sue McClatchy</td>
   </tr>
-  <tr>
+    <tr>
     <td>Data wrangling and processing</td>
     <td><a href="{{site.dc_website_url}}/wrangling-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Josh Herr, Ming Tang, Lex Nederbragt, Fotis Psomopoulos</td>
   </tr>
   <tr>
-    <td>Data analysis and visualization in R</td>
+    <td>Introduction to cloud computing for genomics</td>
+    <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td>Bob Freeman, Darya Vanichkina, Kevin Buckley, Amanda Charbonneau</td>
+  </tr>
+  <tr>
+    <td>Data analysis and visualization in R *beta*</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Naupaka Zimmerman, Ahmed Moustafa, Krzysztof Poterlowicz, Jason Williams</td>
