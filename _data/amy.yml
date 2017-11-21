@@ -263,6 +263,7 @@ airports:
   - {name: Marco Fahmi, user: fahmi_marco}
   - {name: Liz Cooper-Williams, user: cooper-williams_liz}
   - {name: Michal Kotrbcik, user: kotrbcik_michal}
+  - {name: Sandra Brosda, user: brosda_sandra}
   - {name: Thom Cuddihy, user: cuddihy_thom}
   - {name: Conrad Leonard, user: leonard_conrad}
   - {name: Scott Wood, user: wood_scott}
@@ -374,6 +375,7 @@ airports:
   - {name: Alex Viana, user: viana_a}
   - {name: John Didion, user: didion_john}
   - {name: Kelley O'Neal, user: oneal_kelley}
+  - {name: Mees Bernard Fix, user: fix_mees}
   - {name: Nadia Dencheva, user: dencheva_nadia}
   latitude: 39.175278
   longitude: -76.668333
@@ -396,6 +398,12 @@ airports:
   latitude: 49.012778
   longitude: 2.55
   name: Paris Charles de Gaulle
+- country: de
+  instructors:
+  - {name: Daniel Suess, user: suess_daniel}
+  latitude: 50.8658981
+  longitude: 7.1427398
+  name: Cologne Bonn Airport
 - country: nz
   instructors:
   - {name: Charles Bacon, user: bacon_charles}
@@ -636,6 +644,8 @@ airports:
   - {name: Sonal Singhal, user: singhal_sonal}
   - {name: Marc Sze, user: sze_marc}
   - {name: Stephanie Miller, user: miller_stephanie}
+  - {name: Dave Bridges, user: bridges_dave}
+  - {name: Jonathan Greenberg, user: greenberg_jonathan}
   latitude: 42.212222
   longitude: -83.353333
   name: Detroit, MI
@@ -3458,7 +3468,7 @@ badges:
   - {awarded: '2017-11-06', name: Leticia Vega Alvarado, user: vega-alvarado_leticia}
   - {awarded: '2017-11-06', name: Daniela Ledezma, user: ledezma-tejeida_daniela}
   - {awarded: '2017-11-13', name: Roman Klapaukh, user: klapaukh_roman}
-  - {awarded: '2017-11-13', name: Mees Fix, user: fix_mees}
+  - {awarded: '2017-11-13', name: Mees Bernard Fix, user: fix_mees}
   - {awarded: '2017-11-13', name: Daniel Suess, user: suess_daniel}
   - {awarded: '2017-11-13', name: Geert Jan Bex, user: bex_geert-jan}
   - {awarded: '2017-11-13', name: Dave Bridges, user: bridges_dave}
@@ -4182,7 +4192,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171121T030002Z
+timestamp: 20171121T040002Z
 workshops:
 - &id002
   - address: Room 2-17, General Services Building, University of Alberta
