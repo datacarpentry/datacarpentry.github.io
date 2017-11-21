@@ -2163,6 +2163,7 @@ airports:
   - {name: Todd Suomela, user: suomela_todd}
   - {name: Patrick Lloyd-Smith, user: lloyd-smith_patrick}
   - {name: Vineet Khandpur, user: khandpur}
+  - {name: Chelsea Miya, user: miya_chelsea}
   - {name: James Koch, user: koch_james}
   - {name: Stephen Webb, user: webb_stephen}
   latitude: 53.309722
@@ -4192,7 +4193,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171121T210003Z
+timestamp: 20171121T220003Z
 workshops:
 - &id002
   - address: Room 2-17, General Services Building, University of Alberta
