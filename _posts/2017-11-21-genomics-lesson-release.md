@@ -18,6 +18,9 @@ These contributions were critical to transforming the initial lesson drafts into
 
 Extra thanks to Anita Schürch, Fotis Psomopoulos, Tracy Teal, and Amanda Charbonneau for their quick response time to pull requests and issues and their eagle-eyed proofreading.  Also a special thank you to all of the Genomics Maintainers, who put in a huge effort to reorganize and clean up these lessons over the past several months. 
 
+[Overview of the Genomics Data Carpentry workshop](http://www.datacarpentry.org/genomics-workshop/)  
+This workshop teaches data management and analysis for genomics research including: best practices for organization of bioinformatics projects and data, use of command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using cloud computing. 
+
 - [Data Carpentry Genomics Workshop Homepage](https://zenodo.org/record/1064223) - ed: Erin Becker
 - [Data Carpentry Genomics Organization Lesson](https://zenodo.org/record/1064242) - eds: Roselyn Lemus, Yujuan Gui, Mateusz Kuzak
 - [Data Carpentry Shell Genomics Lesson](https://zenodo.org/record/1064215) - eds: Shichen Wang, Anita Schürch, Bastian Greshake, Sue McClatchy
