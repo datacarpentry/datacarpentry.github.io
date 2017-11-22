@@ -4,9 +4,9 @@ subheadline:
 title: "Genomics Lesson Release"
 teaser: ""
 header:
-image_fullwidth: "light-blue-wood-texture.jpg"
-Categories:
-- blog
+    image_fullwidth: "light-blue-wood-texture.jpg"
+categories:
+    - blog
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
