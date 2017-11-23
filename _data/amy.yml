@@ -4193,9 +4193,23 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171123T050002Z
+timestamp: 20171123T060001Z
 workshops:
 - &id002
+  - address: Norwich Research Park, Norwich, NR4 7UZ
+    contact: training@earlham.ac.uk
+    country: gb
+    end: 2017-11-22
+    eventbrite_id: ''
+    humandate: Nov 21-22, 2017
+    latitude: 52.621793
+    longitude: 1.219461
+    slug: 2017-11-21-EI
+    start: 2017-11-21
+    tags:
+    - {name: DC}
+    url: https://tgac.github.io/2017-11-21-EI/
+    venue: Earlham Institute
   - address: Room 2-17, General Services Building, University of Alberta
     contact: john.simpso@ualberta.ca
     country: ca
@@ -6627,19 +6641,5 @@ workshops:
     - {name: DC}
     url: https://aschuerch.github.io/2017-12-13-amsterdam/
     venue: University of Amsterdam
-  - address: Norwich Research Park, Norwich, NR4 7UZ
-    contact: training@earlham.ac.uk
-    country: GB
-    end: 2017-11-22
-    eventbrite_id: ''
-    humandate: Nov 21-22, 2017
-    latitude: 52.621793
-    longitude: 1.219461
-    slug: 2017-11-21-EI
-    start: 2017-11-21
-    tags:
-    - {name: DC}
-    url: https://tgac.github.io/2017-11-21-EI/
-    venue: Earlham Institute
 workshops_current: *id001
 workshops_past: *id002
