@@ -178,7 +178,7 @@ The course is accessible to:
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.  This assumes intermediate R skills, for people who have the basics of R down but haven’t worked with spatial data in R before.
 
-Join the [geospatial curriculum email list](mailto:geospatial-curriculum@carpentries.org) to get updates and be involved in conversations about this curriculum.
+Join the [geospatial curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/geospatial-curriculum) to get updates and be involved in conversations about this curriculum.
 
 #### Lessons
 
