@@ -103,8 +103,6 @@ The Ecology workshop can be taught using R or Python as the base language.
 
 #### Overview
 
-*These lessons are under development and will be ready for broader teaching in December, 2017*
-
 The focus of this workshop is on working with genomics data and data management and analysis for genomics research. It covers data 
 management and analysis for genomics research including: best practices for organization of bioinformatics projects and data, use of 
 command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
@@ -132,25 +130,25 @@ cloud computing.
     <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
 </tr>
   <tr>
-    <td>Introduction to cloud computing for genomics</td>
-    <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>Bob Freeman, Darya Vanichkina, Kevin Buckley, Amanda Charbonneau</td>
-  </tr>
-  <tr>
     <td>Introduction to the command line</td>
     <td><a href="{{site.dc_website_url}}/shell-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Shichen Wang, Anita Schürch, Bastian Greshak, Sue McClatchy</td>
   </tr>
-  <tr>
+    <tr>
     <td>Data wrangling and processing</td>
     <td><a href="{{site.dc_website_url}}/wrangling-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Josh Herr, Ming Tang, Lex Nederbragt, Fotis Psomopoulos</td>
   </tr>
   <tr>
-    <td>Data analysis and visualization in R</td>
+    <td>Introduction to cloud computing for genomics</td>
+    <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td>Bob Freeman, Darya Vanichkina, Kevin Buckley, Amanda Charbonneau</td>
+  </tr>
+  <tr>
+    <td>Data analysis and visualization in R *beta*</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Naupaka Zimmerman, Ahmed Moustafa, Krzysztof Poterlowicz, Jason Williams</td>
@@ -180,7 +178,7 @@ The course is accessible to:
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.  This assumes intermediate R skills, for people who have the basics of R down but haven’t worked with spatial data in R before.
 
-Join the [geospatial curriculum email list](mailto:geospatial-curriculum@carpentries.org) to get updates and be involved in conversations about this curriculum.
+Join the [geospatial curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/geospatial-curriculum) to get updates and be involved in conversations about this curriculum.
 
 #### Lessons
 
@@ -217,7 +215,7 @@ Join the [geospatial curriculum email list](mailto:geospatial-curriculum@carpent
 
 Social science curriculum is under initial development with the University of Manchester.
 
-Alpha release and pilot workshops planned for early 2018. If you are interested in following or being involved in development of this curriculum, please sign up for the [social-science-curriculum email list](social-science-curriculum@carpentries.org)
+Alpha release and pilot workshops planned for early 2018. If you are interested in following or being involved in development of this curriculum, please sign up for the [social-science-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/social-science-curriculum)
 
 ## Materials in Early development
 
@@ -227,20 +225,20 @@ Alpha release and pilot workshops planned for early 2018. If you are interested 
 
 Many groups are piloting different versions of this curriculum. There is not yet one set of lessons under active development.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](dh-curriculum@carpentries.org)
+If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/dh-curriculum)
 
 ### <a id="image-analysis-curriculum"></a> Image analysis Curriculum
 
 Groups at Stanford, Doane College and attendees of the ImageXD meeting have piloted ideas for curriculum in teaching image analysis. There is not yet one set of lessons under active development. Development is planned for 2018.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list](image-curriculum@carpentries.org)
+If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/image-curriculum)
 
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
 There is initial interest on economics curriculum. Development is planned for 2018.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list](economics-curriculum@carpentries.org)
+If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/economics-curriculum)
 
 ### <a id="other-curriculum"></a>Other curriculum
 
