@@ -1571,7 +1571,6 @@ airports:
 - country: us
   instructors:
   - {name: Yuan An, user: an_yuan}
-  - {name: Dana Bauer, user: bauer_dana}
   - {name: Jacob Levernier, user: levernier_jacob}
   - {name: Randy Olson, user: olson_r}
   - {name: Maneesha Sane, user: sane_maneesha}
@@ -1777,6 +1776,7 @@ airports:
   name: Seattle, WA
 - country: us
   instructors:
+  - {name: Dana Bauer, user: bauer_dana}
   - {name: Erin Alison Becker, user: becker_erin}
   - {name: Lukas Blakk, user: blakk_lukas}
   - {name: Matthew Brett, user: brett_matthew}
@@ -4193,7 +4193,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171127T030002Z
+timestamp: 20171127T040002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
