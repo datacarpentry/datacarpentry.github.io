@@ -4205,7 +4205,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171127T180003Z
+timestamp: 20171127T190002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
@@ -6639,6 +6639,20 @@ workshops:
     - {name: DC}
     url: https://aurielfournier.github.io/2017-12-18-grand-valley/
     venue: Grand Valley State University
+  - address: 1280 Main St W, Hamilton, ON L8S 4L8
+    contact: Jake C. Szamosi <szamosjc@mcmaster.ca>
+    country: CA
+    end: 2017-12-15
+    eventbrite_id: ''
+    humandate: Dec 14-15, 2017
+    latitude: 43.261027
+    longitude: -79.916996
+    slug: 2017-12-14-mcmaster
+    start: 2017-12-14
+    tags:
+    - {name: DC}
+    url: https://jcszamosi.github.io/2017-12-14-McMaster/
+    venue: McMaster University
   - address: Roeterseilandcampus, Amsterdam
     contact: a.c.schurch@umcutrecht.nl
     country: NL
