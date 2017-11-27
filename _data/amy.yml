@@ -3475,6 +3475,15 @@ badges:
   - {awarded: '2017-11-13', name: Dave Bridges, user: bridges_dave}
   - {awarded: '2017-11-13', name: Jonathan Greenberg, user: greenberg_jonathan}
   - {awarded: '2017-11-13', name: Anja Le Blanc, user: le-blanc_anja}
+  - {awarded: '2017-11-27', name: Patrick McCann, user: mccann_patrick}
+  - {awarded: '2017-11-27', name: Kok Ben Toh, user: toh_kok-ben}
+  - {awarded: '2017-11-27', name: Jordan Wilheim, user: wilheim_jordan}
+  - {awarded: '2017-11-27', name: Patrick Rynhart, user: rynhart_patrick}
+  - {awarded: '2017-11-27', name: Alisa Postma, user: postma_alisa}
+  - {awarded: '2017-11-27', name: Gordon McDonald, user: mcdonald_gordon}
+  - {awarded: '2017-11-27', name: Kurt Glaesemann, user: glaesemann_kurt}
+  - {awarded: '2017-11-27', name: Antonio Berlanga-Taylor, user: berlanga-taylor_antonio}
+  - {awarded: '2017-11-27', name: Mary-Ellen Petrich, user: petrich_mary-ellen}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4107,6 +4116,9 @@ badges:
   - {awarded: '2017-11-02', name: Giulio Valentino Dalla Riva, user: dalla-riva_giulio-valentino}
   - {awarded: '2017-11-13', name: Tony Primerano, user: primerano_tony}
   - {awarded: '2017-11-13', name: Evamaria Krause, user: krause_evamaria}
+  - {awarded: '2017-11-27', name: Lorraine Ling, user: ling_lorraine}
+  - {awarded: '2017-11-27', name: Kim Durante, user: durante_kim}
+  - {awarded: '2017-11-27', name: Brian Smith, user: smith_brian}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4193,7 +4205,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171127T160003Z
+timestamp: 20171127T170002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
