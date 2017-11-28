@@ -39,8 +39,7 @@ One pair focused on the industry perspective, another on the education system, a
 
 __Challenges Assessing Data Science Education__ 
 
-Working groups identified challenges for assessing data science education at the object level (i.e., what should this assessment
-consist of?) and at the meta level (i.e., what favors or hinders the application of assessment?)
+Working groups identified challenges for assessing data science education at the object level (i.e., what should this assessment consist of?) and at the meta level (i.e., what favors or hinders the application of assessment?).
 
 At the meta level, the following prompts were discussed (pulled from South Big Data Hub's Data Divide workshop):
 + Vision for Assessing Data Science Education
