@@ -4205,7 +4205,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171128T210002Z
+timestamp: 20171128T220002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
@@ -6625,6 +6625,21 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
+      Münster
+    contact: phdnet-mpims@mpi-muenster.mpg.de
+    country: DE
+    end: 2018-01-30
+    eventbrite_id: ''
+    humandate: Jan 29-30, 2018
+    latitude: 51.968003
+    longitude: 7.59117
+    slug: 2018-01-29-maxplanck
+    start: 2018-01-29
+    tags:
+    - {name: DC}
+    url: https://liz-is.github.io/2018-01-29-maxplanck/
+    venue: Max Planck Institute for Molecular Biomedicine
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
     contact: partridc@gvsu.edu
     country: US
