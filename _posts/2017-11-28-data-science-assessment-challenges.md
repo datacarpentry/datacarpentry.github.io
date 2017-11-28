@@ -35,7 +35,7 @@ We had a friendly conversation around SQL. It is ubiquitous in data land, but a 
 
 In the second part of the meeting, we split into breakout sessions in pairs to discuss the challenges of assessing data science education with respect to the Carpentries workshops. Brainstorming in parallel lets us cover more ground (breadth), while interacting one-on-one lets us explore different avenues (depth).
 
-One pair focused on the industry perspective, another on the education system, and the third on assessment practices. Kari offered a list of questions to frame the discussion. The questions were pulled from the meeting she attended.
+One pair focused on the industry perspective, another on the education system, and the third on assessment practices. Kari offered a list of questions to frame the discussion. 
 
 __Challenges Assessing Data Science Education__ 
 
