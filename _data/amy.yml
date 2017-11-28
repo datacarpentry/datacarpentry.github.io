@@ -691,6 +691,7 @@ airports:
   instructors:
   - {name: Mario Antonioletti, user: antonioletti_mario}
   - {name: Evgenij Belikov, user: belikov_evgenij}
+  - {name: Miguel Bernabeu, user: bernabeu_miguel}
   - {name: Neil Philippe Chue Hong, user: chue-hong_n}
   - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
   - {name: Alistair Grant, user: grant_alistair}
@@ -1104,7 +1105,6 @@ airports:
 - country: gb
   instructors:
   - {name: Robert A Beagrie, user: beagrie_robert}
-  - {name: Miguel Bernabeu, user: bernabeu_miguel}
   - {name: Chris Cannam, user: cannam_c}
   - {name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {name: Jonathan Cooper, user: cooper_jonathan}
@@ -4205,7 +4205,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171128T100003Z
+timestamp: 20171128T110003Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
