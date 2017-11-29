@@ -4205,7 +4205,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171129T210004Z
+timestamp: 20171129T220002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
@@ -6640,6 +6640,20 @@ workshops:
     - {name: DC}
     url: https://liz-is.github.io/2018-01-29-maxplanck/
     venue: Max Planck Institute for Molecular Biomedicine
+  - address: Orchard Room, Discovery Building, 330 Orchard St., Madison, WI
+    contact: ContactACI@lists.wisc.edu
+    country: US
+    end: 2018-01-09
+    eventbrite_id: '39736673460'
+    humandate: Jan 08-09, 2018
+    latitude: 43.0728339
+    longitude: -89.4103303
+    slug: 2018-01-08-uwmadison-dc
+    start: 2018-01-08
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2018-01-08-uwmadison-dc/
+    venue: UW Madison
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
     contact: partridc@gvsu.edu
     country: US
