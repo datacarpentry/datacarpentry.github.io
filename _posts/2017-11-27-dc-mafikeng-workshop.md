@@ -2,7 +2,7 @@
 layout: post
 subheadline: ""
 title: "North West University Mafikeng Data Carpentry workshop"
-teaser: ""
+teaser: " "
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
