@@ -4205,7 +4205,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171130T050001Z
+timestamp: 20171130T060002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
