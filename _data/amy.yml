@@ -713,6 +713,7 @@ airports:
   - {name: Adrian Jackson, user: jackson_adrian}
   - {name: Robin Rice, user: rice_robin}
   - {name: Eilidh Troup, user: troup_eilidh}
+  - {name: Patrick McCann, user: mccann_patrick}
   - {name: Dan Holmes, user: holmes_dan}
   latitude: 55.95
   longitude: -3.3725
@@ -984,6 +985,7 @@ airports:
   - {name: Mojalefa Malahlela, user: malahlela_mojalefa}
   - {name: Angelique van Rensburg, user: van-rensburg_angelique}
   - {name: LACTATIA MOTSUKU, user: motsuku_lactatia}
+  - {name: Alisa Postma, user: postma_alisa}
   - {name: Jacqueline Muller, user: muller_jacqueline}
   latitude: -26.138773
   longitude: 28.241339
@@ -1148,6 +1150,7 @@ airports:
   - {name: Julian Jordan, user: jordan_julian}
   - {name: David Wright, user: wright_david}
   - {name: Stuart Grieve, user: grieve_stuart}
+  - {name: Antonio Berlanga-Taylor, user: berlanga-taylor_antonio}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -1994,6 +1997,7 @@ airports:
   - {name: Andrew Ferris, user: ferris_andrew}
   - {name: Jake Surman, user: surman_jake}
   - {name: Jason Bragg, user: bragg_jason}
+  - {name: Gordon McDonald, user: mcdonald_gordon}
   - {name: Paddy Tobias, user: tobias_paddy}
   latitude: -33.946111
   longitude: 151.177222
@@ -4205,7 +4209,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171204T090003Z
+timestamp: 20171204T100003Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
