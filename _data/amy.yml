@@ -3489,6 +3489,11 @@ badges:
   - {awarded: '2017-11-27', name: Kurt Glaesemann, user: glaesemann_kurt}
   - {awarded: '2017-11-27', name: Antonio Berlanga-Taylor, user: berlanga-taylor_antonio}
   - {awarded: '2017-11-27', name: Mary-Ellen Petrich, user: petrich_mary-ellen}
+  - {awarded: '2017-12-05', name: Stéphane Guillou, user: guillou_stphane}
+  - {awarded: '2017-12-05', name: Christopher Cave-Ayland, user: cave-ayland_christopher}
+  - {awarded: '2017-12-05', name: David Mawdsley, user: mawdsley_david}
+  - {awarded: '2017-12-05', name: Reshama Shaikh, user: shaikh_reshama}
+  - {awarded: '2017-12-05', name: Michael Beyeler, user: beyeler_michael}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4123,6 +4128,12 @@ badges:
   - {awarded: '2017-11-27', name: Lorraine Ling, user: ling_lorraine}
   - {awarded: '2017-11-27', name: Kim Durante, user: durante_kim}
   - {awarded: '2017-11-27', name: Brian Smith, user: smith_brian}
+  - {awarded: '2017-12-05', name: Jennifer Thompson, user: thompson_jennifer}
+  - {awarded: '2017-12-05', name: Samanthi Suraweera, user: suraweera_samanthi}
+  - {awarded: '2017-12-05', name: Norbert Kremer, user: kremer_norbert}
+  - {awarded: '2017-12-05', name: Gergana Daskalova, user: daskalova_gergana}
+  - {awarded: '2017-12-05', name: Ella Guest, user: guest_ella}
+  - {awarded: '2017-12-05', name: Daniel Maxwell, user: maxwell_daniel}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4209,7 +4220,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171205T210003Z
+timestamp: 20171205T220002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
