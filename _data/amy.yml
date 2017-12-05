@@ -3494,6 +3494,10 @@ badges:
   - {awarded: '2017-12-05', name: David Mawdsley, user: mawdsley_david}
   - {awarded: '2017-12-05', name: Reshama Shaikh, user: shaikh_reshama}
   - {awarded: '2017-12-05', name: Michael Beyeler, user: beyeler_michael}
+  - {awarded: '2017-12-05', name: Pavel Soriano, user: soriano_pavel}
+  - {awarded: '2017-12-05', name: Andrew Steen, user: steen_andrew}
+  - {awarded: '2017-12-05', name: Phumudzo Muvhango, user: muvhango_phumudzo}
+  - {awarded: '2017-12-05', name: Nicolas Gruel, user: gruel_nicolas}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4134,6 +4138,8 @@ badges:
   - {awarded: '2017-12-05', name: Gergana Daskalova, user: daskalova_gergana}
   - {awarded: '2017-12-05', name: Ella Guest, user: guest_ella}
   - {awarded: '2017-12-05', name: Daniel Maxwell, user: maxwell_daniel}
+  - {awarded: '2017-12-05', name: Gregg TeHennepe, user: tehennepe_gregg}
+  - {awarded: '2017-12-05', name: Gaius Augustus, user: augustus_gaius}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4220,7 +4226,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171205T220002Z
+timestamp: 20171205T230002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
