@@ -562,6 +562,7 @@ airports:
   - {name: Dorota Jarecka, user: jarecka_dorota}
   - {name: Mariela Perignon, user: perignon_mariela}
   - {name: Natalie Robinson, user: robinson_natalie}
+  - {name: Martin Schilling, user: schilling_martin}
   - {name: Leah Wasser, user: wasser_leah}
   - {name: Andrew Johnson, user: johnson_andrew}
   - {name: Shelley Knuth, user: knuth_shelley}
@@ -1852,7 +1853,6 @@ airports:
   instructors:
   - {name: Michael Levy, user: levy_michael}
   - {name: Carol Rowe, user: rowe_carol}
-  - {name: Martin Schilling, user: schilling_martin}
   - {name: Paul G. Wolf, user: wolf_paul}
   - {name: Gus Hart, user: hart_gus}
   - {name: Andrew Nguyen, user: nguyen_andrew}
@@ -4209,7 +4209,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171205T170003Z
+timestamp: 20171205T180003Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
