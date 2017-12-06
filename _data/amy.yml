@@ -3503,6 +3503,11 @@ badges:
   - {awarded: '2017-12-06', name: Tim Young, user: young_tim}
   - {awarded: '2017-12-06', name: Shirley Alquicira Hernandez, user: alquicira-hernandez_shirley}
   - {awarded: '2017-12-06', name: Irma Martínez-Flores, user: martnez-flores_irma}
+  - {awarded: '2017-12-06', name: Jimmy O'Donnell, user: odonnell_jimmy}
+  - {awarded: '2017-12-06', name: Schuyler Smith, user: smith_schuyler}
+  - {awarded: '2017-12-06', name: David McKenzie, user: mckenzie_david}
+  - {awarded: '2017-12-06', name: Bradford Condon, user: condon_bradford}
+  - {awarded: '2017-12-06', name: Jason Gates, user: gates_jason}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4145,6 +4150,7 @@ badges:
   - {awarded: '2017-12-05', name: Daniel Maxwell, user: maxwell_daniel}
   - {awarded: '2017-12-05', name: Gregg TeHennepe, user: tehennepe_gregg}
   - {awarded: '2017-12-05', name: Gaius Augustus, user: augustus_gaius}
+  - {awarded: '2017-12-06', name: Kathy Joshi, user: joshi_kathy}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4231,7 +4237,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171206T220002Z
+timestamp: 20171206T230002Z
 workshops:
 - &id002
   - address: Norwich Research Park, Norwich, NR4 7UZ
