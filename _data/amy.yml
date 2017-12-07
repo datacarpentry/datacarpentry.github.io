@@ -4237,9 +4237,24 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171207T050005Z
+timestamp: 20171207T060002Z
 workshops:
 - &id002
+  - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
+      Room B516, Newark, NJ
+    contact: janet.alder@rutgers.edu
+    country: us
+    end: 2017-12-06
+    eventbrite_id: ''
+    humandate: Dec 05-06, 2017
+    latitude: 40.740084
+    longitude: -74.189704
+    slug: 2017-12-05-rutgers
+    start: 2017-12-05
+    tags:
+    - {name: DC}
+    url: https://butterflyology.github.io/2017-12-05-rutgers/
+    venue: Rutgers University
   - address: Norwich Research Park, Norwich, NR4 7UZ
     contact: training@earlham.ac.uk
     country: gb
@@ -6742,20 +6757,5 @@ workshops:
     - {name: DC}
     url: https://aschuerch.github.io/2017-12-13-amsterdam/
     venue: University of Amsterdam
-  - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
-      Room B516, Newark, NJ
-    contact: janet.alder@rutgers.edu
-    country: US
-    end: 2017-12-06
-    eventbrite_id: ''
-    humandate: Dec 05-06, 2017
-    latitude: 40.740084
-    longitude: -74.189704
-    slug: 2017-12-05-rutgers
-    start: 2017-12-05
-    tags:
-    - {name: DC}
-    url: https://butterflyology.github.io/2017-12-05-rutgers/
-    venue: Rutgers University
 workshops_current: *id001
 workshops_past: *id002
