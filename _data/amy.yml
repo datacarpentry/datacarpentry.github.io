@@ -1913,11 +1913,13 @@ airports:
   - {name: Stephen Crouch, user: crouch_s}
   - {name: Ian Hawke, user: hawke_ian}
   - {name: Christian Thomas Jacobs, user: jacobs_christian}
+  - {name: John Robinson, user: robinson_john}
   - {name: Robin Wilson, user: wilson_r}
   - {name: Olivier Philippe, user: philippe_olivier}
   - {name: Don Cruickshank, user: cruickshank_don}
   - {name: Priyanka Singh, user: singh_priyanka}
   - {name: Alistair Bailey, user: bailey_alistair}
+  - {name: James Graham, user: graham_james}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
@@ -4237,7 +4239,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171207T100002Z
+timestamp: 20171207T110002Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
