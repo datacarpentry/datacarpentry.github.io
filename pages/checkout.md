@@ -9,7 +9,7 @@ permalink: "/checkout/"
 
 After finishing the two day instructor training course, you will complete three short tasks in order to become a
 certified Carpentry instructor. Detailed information about these tasks can be found on the [instructor
-training website](http://swcarpentry.github.io/instructor-training/checkout/). Please use the checklist below
+training website](http://carpentries.github.io/instructor-training/checkout/). Please use the checklist below
 as a quick reference, but be sure to read the detailed instructions first.
 
 Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of 
