@@ -20,11 +20,13 @@ Carpentry lessons are developed by and for the community. Lend a hand in develop
 
 ## How you can contribute
 
-We are asking anyone interested in helping now (or in the future) to fill out a brief form so that we can organize the effort: 
+We are asking anyone interested in helping now (or in the future) to fill out a brief form before December 20th so that we can organize the effort: 
 
 **[Contribution Form for Geospatial Lessons](https://docs.google.com/forms/d/e/1FAIpQLSdGuRImR4o6r9MuESiJjRXac3atxdtaNDbvT8pIlIGAMyRq3Q/viewform?usp=sf_link)**
 
 **[Contribution Form for Social Sciences Lessons](https://docs.google.com/forms/d/e/1FAIpQLScJcxfAQaKAotiaG6AUlF2EJf8Ff9kkhc8Rml_dcVG1aPtiuA/viewform?usp=sf_link)**
+
+If you don't get a chance to fill out the form by December 20th, but still want to be involved, please get in touch with Erin Becker (ebecker@carpentries.org). 
 
 While experience in geospatial or social sciences research, and experience with the Carpentry community are a plus, there are many ways to contribute even if you don’t have this background. Please circulate this link and post to others who might be interested. We be following up near the end of January 2018 to organize everyone and provide more information. 
 
