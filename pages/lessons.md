@@ -190,15 +190,9 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
     <th>Maintainer(s)</th>
   </tr>
   <tr>
-    <td>Working with vector data in R</td>
-    <td><a href="http://neondataskills.org/tutorial-series/vector-data-series/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/NEON-R-Spatial-Vector" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>Leah Wasser, Joseph Stachelek</td>
-  </tr>
-  <tr>
-    <td>Working with raster data in R</td>
-    <td><a href="http://neondataskills.org/tutorial-series/raster-data-series/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/NEON-R-Spatial-Raster" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td>Introduction to Geospatial Data with R</td>
+    <td><a href="http://www.datacarpentry.org/R-spatial-raster-vector-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/R-spatial-raster-vector-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>Leah Wasser, Joseph Stachelek</td>
   </tr>
   <tr>
