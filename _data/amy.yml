@@ -23,12 +23,6 @@ airports:
   latitude: 8.97789
   longitude: 38.7993011
   name: Bole International Airport
-- country: gb
-  instructors:
-  - {name: Alexander Konovalov, user: konovalov_alexander}
-  latitude: 56.3728981
-  longitude: -2.8684399
-  name: RAF Leuchars Airport
 - country: nz
   instructors:
   - {name: Raphael Aggio, user: aggio_raphael}
@@ -651,6 +645,7 @@ airports:
   - {name: Sonal Singhal, user: singhal_sonal}
   - {name: Marc Sze, user: sze_marc}
   - {name: Stephanie Miller, user: miller_stephanie}
+  - {name: William Close, user: close_william}
   - {name: Dave Bridges, user: bridges_dave}
   - {name: Jonathan Greenberg, user: greenberg_jonathan}
   latitude: 42.212222
@@ -704,6 +699,7 @@ airports:
   - {name: Alistair Grant, user: grant_alistair}
   - {name: Mike Jackson, user: jackson_m}
   - {name: Martin Jones, user: jones_martin}
+  - {name: Alexander Konovalov, user: konovalov_alexander}
   - {name: Giacomo Peru, user: peru_giacomo}
   - {name: Sam Thomson, user: thomson_samuel}
   - {name: Michael Torpey, user: torpey_michael}
@@ -1043,6 +1039,7 @@ airports:
   name: Los Angeles, CA
 - country: gb
   instructors:
+  - {name: Martin Callaghan, user: callaghan_martin}
   - {name: Joanna Leng, user: leng_joanna}
   - {name: Marlene Mengoni, user: mengoni_marlene}
   - {name: Aaron O'Leary, user: oleary_aaron}
@@ -1054,10 +1051,8 @@ airports:
   - {name: Chris Norton, user: norton_chris}
   - {name: Andrew Mellor, user: mellor_andrew}
   - {name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
-  - {name: Will Furnass, user: furnass_will}
   - {name: Hugh Smith, user: smith_hugh}
   - {name: Andy Evans, user: evans_andy}
-  - {name: Jez Cope, user: cope_jez}
   - {name: Kirsty Pringle, user: pringle_kirsty}
   - {name: Fernando Zapata, user: zapata_fernando}
   - {name: Lee Etchels, user: etchels_lee}
@@ -1095,7 +1090,6 @@ airports:
 - country: gb
   instructors:
   - {name: James Baker, user: baker_james_2}
-  - {name: Laura Jane Graham, user: graham_laura}
   - {name: Kwasi Amoako Kwakwa, user: kwakwa_k}
   - {name: Mark Plumbley, user: plumbley_m}
   - {name: Will Scott-Jackson, user: scott-jackson_will}
@@ -1224,7 +1218,6 @@ airports:
   name: Madrid
 - country: gb
   instructors:
-  - {name: Martin Callaghan, user: callaghan_martin}
   - {name: Grace Cox, user: cox_grace}
   - {name: Michael Croucher, user: croucher_mike}
   - {name: Anthony Harrison, user: harrison_anthony}
@@ -1238,6 +1231,7 @@ airports:
   - {name: Gerard Capes, user: capes_gerard}
   - {name: Shih-Chen Chao, user: chao_shih-chen}
   - {name: Ardita Shkurti, user: shkurti_ardita}
+  - {name: Will Furnass, user: furnass_will}
   - {name: Ahmad Alam, user: alam_ahmad}
   - {name: Simone Di Cola, user: dicola_simone}
   - {name: Suzanne Embury, user: embury_suzanne}
@@ -1245,6 +1239,7 @@ airports:
   - {name: Jenefer Cockitt, user: cockitt_jenefer}
   - {name: Nick James, user: james_nick}
   - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
+  - {name: Jez Cope, user: cope_jez}
   - {name: Tania Rebeca Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
   - {name: Nicolas Gruel, user: gruel_nicolas}
@@ -1442,7 +1437,9 @@ airports:
   name: Newcastle
 - country: gb
   instructors:
+  - {name: Rob Davey, user: davey_rob}
   - {name: Graham Etherington, user: etherington_graham}
+  - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Katie Barr, user: barr_katie}
   - {name: Anthony Etuk, user: etuk_anthony}
   - {name: Matthew Hartley, user: hartley_matthew}
@@ -1928,6 +1925,7 @@ airports:
   instructors:
   - {name: Christopher Cave-Ayland, user: cave-ayland_christopher}
   - {name: Stephen Crouch, user: crouch_s}
+  - {name: Laura Jane Graham, user: graham_laura}
   - {name: Ian Hawke, user: hawke_ian}
   - {name: Christian Thomas Jacobs, user: jacobs_christian}
   - {name: John Robinson, user: robinson_john}
@@ -1956,13 +1954,11 @@ airports:
   instructors:
   - {name: Lisa Breckels, user: breckels_lisa}
   - {name: John Constable, user: constable_john}
-  - {name: Rob Davey, user: davey_rob}
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
   - {name: Ross Mounce, user: mounce_ross}
   - {name: Krzysztof Strug, user: strug_krzysztof}
   - {name: Hugo Tavares, user: tavares_hugo}
-  - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Marco Chiapello, user: chiapello_marco}
   latitude: 51.885
   longitude: 0.235
@@ -4256,7 +4252,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171207T150003Z
+timestamp: 20171207T160003Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
