@@ -4256,7 +4256,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171207T130003Z
+timestamp: 20171207T140003Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
@@ -4952,7 +4952,7 @@ workshops:
     tags:
     - {name: DC}
     url: https://hpcarcher.github.io/2017-06-01-Belfast/
-    venue: Queen's University Belfast
+    venue: The Queen's University Belfast
   - address: Optentia Indaba Room, Building 7, Vaal Triangle Campus, Hendrick Van
       Eck Boulevard, Vanderbijlpark, 1900, South Africa
     contact: juan.steyn@nwu.ac.za
@@ -5323,7 +5323,7 @@ workshops:
     tags:
     - {name: DC}
     url: https://arcleeds.github.io/2016-11-21-leeds/
-    venue: The University of Leeds
+    venue: University of Leeds
   - address: 1500 Gortner Avenue, St. Paul, MN 55108
     contact: tkteal@datacarpentry.org
     country: us
