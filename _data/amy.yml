@@ -149,6 +149,7 @@ airports:
   - {name: Sandeep Namburi, user: namburi_sandeep}
   - {name: Shane Sanders, user: sanders_shane}
   - {name: Saira Kazmi, user: kazmi_saira}
+  - {name: David McKenzie, user: mckenzie_david}
   latitude: 41.938889
   longitude: -72.683056
   name: Hartford, CT
@@ -242,6 +243,8 @@ airports:
   - {name: Scott Burns, user: burns_scott}
   - {name: Christopher Fonnesbeck, user: fonnesbeck_chris}
   - {name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
+  - {name: Bradford Condon, user: condon_bradford}
+  - {name: Jennifer Thompson, user: thompson_jennifer}
   latitude: 36.131312
   longitude: -86.66945
   name: Nashville, TN
@@ -271,6 +274,7 @@ airports:
   - {name: Richard Vankoningsveld, user: vankoningsveld_richard}
   - {name: James Lefevre, user: lefevre_james}
   - {name: Nick Hamilton, user: hamilton_nick}
+  - {name: Stéphane Guillou, user: guillou_stphane}
   - {name: Tyler Crawford Kelly, user: kelly_tyler}
   latitude: -27.384167
   longitude: 153.1175
@@ -318,6 +322,8 @@ airports:
   - {name: Jarrett Byrnes, user: byrnes_jarrett}
   - {name: Michael Connell, user: connell_michael}
   - {name: Tom Hohenstein, user: hohenstein_tom}
+  - {name: Norbert Kremer, user: kremer_norbert}
+  - {name: Gregg TeHennepe, user: tehennepe_gregg}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -715,6 +721,7 @@ airports:
   - {name: Robin Rice, user: rice_robin}
   - {name: Eilidh Troup, user: troup_eilidh}
   - {name: Patrick McCann, user: mccann_patrick}
+  - {name: Gergana Daskalova, user: daskalova_gergana}
   - {name: Dan Holmes, user: holmes_dan}
   latitude: 55.95
   longitude: -3.3725
@@ -1061,7 +1068,6 @@ airports:
 - country: gb
   instructors:
   - {name: Luis Figueira, user: figueira_l}
-  - {name: James Derrick, user: derrick_james}
   - {name: Mladen Georgiev, user: georgiev_mladen}
   - {name: Thomas Dowrick, user: dowrick_tom}
   latitude: 51.505
@@ -1097,7 +1103,6 @@ airports:
   - {name: Gerard Roma, user: roma_gerard}
   - {name: William Christmas, user: christmas_bill}
   - {name: Helen Cooper, user: cooper_helen}
-  - {name: Chris Tomlinson, user: tomlinson_christopher}
   - {name: Iwona Sobieraj, user: sobieraj_iwona}
   - {name: Kenan Direk, user: direk_kenan}
   - {name: Martin R. Albrecht, user: albrecht_martin}
@@ -1127,8 +1132,11 @@ airports:
   - {name: Will Usher, user: usher_w}
   - {name: Bogdan Vera, user: vera_b}
   - {name: Ben Waugh, user: waugh_b}
+  - {name: Chris Tomlinson, user: tomlinson_christopher}
   - {name: Roman Klapaukh, user: klapaukh_roman}
   - {name: Arfan Ahmed, user: ahmed_arfan}
+  - {name: James Derrick, user: derrick_james}
+  - {name: Mark Wheelhouse, user: wheelhouse_mark}
   - {name: Tom Couch, user: couch_tom}
   - {name: Alys Brett, user: brett_alys}
   - {name: Bethan Davies, user: davies_bethan}
@@ -1199,6 +1207,7 @@ airports:
 - country: fr
   instructors:
   - {name: Rémi Emonet, user: emonet_remi}
+  - {name: Pavel Soriano, user: soriano_pavel}
   latitude: 45.726111
   longitude: 5.090833
   name: Lyon Saint Exupery
@@ -1237,7 +1246,10 @@ airports:
   - {name: Maria Luisa Martin Cerezo, user: martin-cerezo_maria-luisa}
   - {name: Tania Rebeca Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
+  - {name: Nicolas Gruel, user: gruel_nicolas}
+  - {name: Ella Guest, user: guest_ella}
   - {name: Anja Le Blanc, user: le-blanc_anja}
+  - {name: David Mawdsley, user: mawdsley_david}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -1261,6 +1273,7 @@ airports:
   - {name: Shawn Taylor, user: taylor_shawn}
   - {name: Sergio Marconi, user: marconi_sergio}
   - {name: Kari L Jordan, user: kariljordan}
+  - {name: Kathy Joshi, user: joshi_kathy}
   latitude: 28.428889
   longitude: -81.315833
   name: Orlando, FL
@@ -1570,6 +1583,7 @@ airports:
   - {name: Stefania Bertazzoni, user: bertazzoni_stefania}
   - {name: Rachael Lappan, user: lappan_rachael}
   - {name: Rebecca Lange, user: lange_rebecca}
+  - {name: Tim Young, user: young_tim}
   latitude: -31.940278
   longitude: 115.966944
   name: Perth
@@ -1772,6 +1786,7 @@ airports:
   - {name: Jes Ford, user: ford_jes}
   - {name: Meredith Rawls, user: rawls_meredith}
   - {name: Jeffrey Arnold, user: arnold_jeffrey}
+  - {name: Jimmy O'Donnell, user: odonnell_jimmy}
   - {name: Kivan Polimis, user: polimis_kivan}
   - {name: Bree Norlander, user: norlander_bree}
   - {name: Alicia Clark, user: clark_alicia}
@@ -1910,6 +1925,7 @@ airports:
   name: Shannon Airport
 - country: gb
   instructors:
+  - {name: Christopher Cave-Ayland, user: cave-ayland_christopher}
   - {name: Stephen Crouch, user: crouch_s}
   - {name: Ian Hawke, user: hawke_ian}
   - {name: Christian Thomas Jacobs, user: jacobs_christian}
@@ -1945,7 +1961,6 @@ airports:
   - {name: Ross Mounce, user: mounce_ross}
   - {name: Krzysztof Strug, user: strug_krzysztof}
   - {name: Hugo Tavares, user: tavares_hugo}
-  - {name: Mark Wheelhouse, user: wheelhouse_mark}
   - {name: Nicola Soranzo, user: soranzo_nicola}
   - {name: Marco Chiapello, user: chiapello_marco}
   latitude: 51.885
@@ -2089,6 +2104,7 @@ airports:
   - {name: Asher Baltzell, user: baltzell_asher}
   - {name: Jeffrey Oliver, user: oliver_jeffrey}
   - {name: Upendra Kumar Devisetty, user: devisetty_upendra-kumar}
+  - {name: Gaius Augustus, user: augustus_gaius}
   latitude: 32.116111
   longitude: -110.941389
   name: Tucson, AZ
@@ -4239,7 +4255,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171207T110002Z
+timestamp: 20171207T120003Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
