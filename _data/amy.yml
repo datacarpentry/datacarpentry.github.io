@@ -23,6 +23,12 @@ airports:
   latitude: 8.97789
   longitude: 38.7993011
   name: Bole International Airport
+- country: gb
+  instructors:
+  - {name: Patrick McCann, user: mccann_patrick}
+  latitude: 56.3728981
+  longitude: -2.8684399
+  name: RAF Leuchars Airport
 - country: nz
   instructors:
   - {name: Raphael Aggio, user: aggio_raphael}
@@ -716,7 +722,6 @@ airports:
   - {name: Adrian Jackson, user: jackson_adrian}
   - {name: Robin Rice, user: rice_robin}
   - {name: Eilidh Troup, user: troup_eilidh}
-  - {name: Patrick McCann, user: mccann_patrick}
   - {name: Gergana Daskalova, user: daskalova_gergana}
   - {name: Dan Holmes, user: holmes_dan}
   latitude: 55.95
@@ -836,6 +841,7 @@ airports:
   - {name: Brian Stucky, user: stucky_brian}
   - {name: Allison Jai O'Dell, user: odell_allison-jai}
   - {name: Henry Senyondo, user: senyondo_henry}
+  - {name: Kok Ben Toh, user: toh_kok-ben}
   - {name: David Tribble Jennings, user: jennings_david}
   - {name: Kensworth Subratie, user: subratie_kensworth}
   latitude: 29.69
@@ -1844,6 +1850,7 @@ airports:
   - {name: Emily Jane McTavish, user: mctavish_ej}
   - {name: William Justin Rowell, user: rowell_bill}
   - {name: Chris DeBoever, user: deboever_christopher}
+  - {name: Mary-Ellen Petrich, user: petrich_mary-ellen}
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
@@ -2102,6 +2109,7 @@ airports:
   - {name: Jeffrey Oliver, user: oliver_jeffrey}
   - {name: Upendra Kumar Devisetty, user: devisetty_upendra-kumar}
   - {name: Gaius Augustus, user: augustus_gaius}
+  - {name: Brian Adam Smith, user: smith_brian}
   latitude: 32.116111
   longitude: -110.941389
   name: Tucson, AZ
@@ -3526,6 +3534,7 @@ badges:
   - {awarded: '2017-12-08', name: Philipp Boersch-Supan, user: boersch-supan_philipp}
   - {awarded: '2017-12-08', name: Scott Bailey, user: bailey_scott}
   - {awarded: '2017-12-08', name: Jared Flater, user: flater_jared}
+  - {awarded: '2017-12-08', name: Samantha Ahern, user: ahern_samantha}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4159,7 +4168,7 @@ badges:
   - {awarded: '2017-11-13', name: Evamaria Krause, user: krause_evamaria}
   - {awarded: '2017-11-27', name: Lorraine Ling, user: ling_lorraine}
   - {awarded: '2017-11-27', name: Kim Durante, user: durante_kim}
-  - {awarded: '2017-11-27', name: Brian Smith, user: smith_brian}
+  - {awarded: '2017-11-27', name: Brian Adam Smith, user: smith_brian}
   - {awarded: '2017-12-05', name: Jennifer Thompson, user: thompson_jennifer}
   - {awarded: '2017-12-05', name: Samanthi Suraweera, user: suraweera_samanthi}
   - {awarded: '2017-12-05', name: Norbert Kremer, user: kremer_norbert}
@@ -4257,7 +4266,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171208T170003Z
+timestamp: 20171208T180002Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
@@ -6763,6 +6772,20 @@ workshops:
     - {name: DC}
     url: https://jcszamosi.github.io/2017-12-14-McMaster/
     venue: McMaster University
+  - address: Humanities Bridgeford St. (Building 35)
+    contact: peter.smyth@manchester.ac.uk
+    country: GB
+    end: 2017-12-15
+    eventbrite_id: ''
+    humandate: Dec 14-15, 2017
+    latitude: 53.466722
+    longitude: -2.236463
+    slug: 2017-12-14-MAN-SS-PILOT01
+    start: 2017-12-14
+    tags:
+    - {name: DC}
+    url: https://petersmyth12.github.io/2017-12-14-MAN-SS-PILOT01/
+    venue: University of Manchester
   - address: Roeterseilandcampus, Amsterdam
     contact: a.c.schurch@umcutrecht.nl
     country: NL
