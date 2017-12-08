@@ -108,6 +108,9 @@ management and analysis for genomics research including: best practices for orga
 command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
 cloud computing.
 
+Please note that workshop materials for working with Genomics data in R are under development and will become available
+in June 2018.
+
 #### Lessons
 
 <table class="table table-striped">
