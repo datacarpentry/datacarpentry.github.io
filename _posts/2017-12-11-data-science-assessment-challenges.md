@@ -53,4 +53,3 @@ Check out the [notes](https://github.com/carpentries/assessment/blob/master/asse
 Now is your chance to tell us what you think. We opened several [issues](https://github.com/carpentries/assessment/issues) on the Carpentries [assessment repo](https://github.com/carpentries/assessment). We'd love to engage you in a rich discussion around this topic. Comment on an issue, and tweet us your thoughts using the hashtag #carpentriesassessment.
 
 
-
