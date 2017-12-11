@@ -166,7 +166,7 @@ We have conducted both short-term and long-term follow-up assessments of learner
 We see that short-format workshops can be effective at increasing researchers' confidence, use of coding skills, and adoption of 
 reproducible research perspectives. As a part of the Open Source community, we make all of our 
 survey data and analysis code available in our [assessment repository](https://github.com/carpentries/assessment). 
-e welcome people to work with our survey data and ask new questions. Understanding impact is important, and we will continue 
+We welcome people to work with our survey data and ask new questions. Understanding impact is important, and we will continue 
 to keep our community informed with regular releases of survey data and reports. We also have a virtual assessment network which 
 newcomers are welcome to be part of. Please [join here](https://groups.google.com/a/carpentries.org/forum/#!forum/assessment-network) 
 if you are interested in discussing assessment efforts in the area of training in research computing.
