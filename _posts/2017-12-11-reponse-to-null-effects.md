@@ -1,7 +1,7 @@
 ---
 layout: post
-subheadline:
-title: "When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon et al."
+subheadline: "A Response to the 'Null Effects' paper from Feldon et al."
+title: "When Do Workshops Work?"
 teaser:
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: [ "Karen R. Word"]
+
 ---
 
 Author: Karen R. Word
