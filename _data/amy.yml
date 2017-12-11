@@ -619,6 +619,7 @@ airports:
   - {name: Fan Yang, user: yang_fan}
   - {name: Jinlyung(Jin) Choi, user: choi_jin}
   - {name: Wei Le, user: le_wei}
+  - {name: Jared Flater, user: flater_jared}
   latitude: 41.533889
   longitude: -93.6625
   name: Des Moines, IA
@@ -955,6 +956,12 @@ airports:
   latitude: 42.491
   longitude: -76.459
   name: Ithaca, NY
+- country: us
+  instructors:
+  - {name: Philipp Boersch-Supan, user: boersch-supan_philipp}
+  latitude: 30.4941006
+  longitude: -81.6878967
+  name: Jacksonville International
 - country: sa
   instructors:
   - {name: David Ketcheson, user: ketcheson_david}
@@ -1114,6 +1121,7 @@ airports:
   name: London Gatwick
 - country: gb
   instructors:
+  - {name: Samantha Ahern, user: ahern_samantha}
   - {name: Robert A Beagrie, user: beagrie_robert}
   - {name: Chris Cannam, user: cannam_c}
   - {name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
@@ -4267,7 +4275,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171211T140003Z
+timestamp: 20171211T150002Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
