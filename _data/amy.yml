@@ -4275,7 +4275,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171211T180003Z
+timestamp: 20171211T190002Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
@@ -6739,6 +6739,20 @@ workshops:
     - {name: DC}
     url: https://liz-is.github.io/2018-01-29-maxplanck/
     venue: Max Planck Institute for Molecular Biomedicine
+  - address: Dana Library, 185 University Avenue, Electronic Classroom I
+    contact: minglu@rutgers.edu
+    country: US
+    end: 2018-01-12
+    eventbrite_id: ''
+    humandate: Jan 11-12, 2018
+    latitude: 40.741187
+    longitude: -74.17531
+    slug: 2018-01-11-rutgers
+    start: 2018-01-11
+    tags:
+    - {name: DC}
+    url: https://jfkoehler.github.io/2018-01-11-rutgers/
+    venue: Rutgers University
   - address: Orchard Room, Discovery Building, 330 Orchard St., Madison, WI
     contact: ContactACI@lists.wisc.edu
     country: US
