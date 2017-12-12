@@ -56,11 +56,6 @@ with and learning from each other. Some research experiences or team-building ac
 schedule. Also where traditional course curricula can be slow to change, short-courses can permit rapid inclusion of new and needed 
 skills before they can be added elsewhere.
 
-**When a little goes a long way.** In many of these cases, particularly when training is truly necessary for progress, learners are 
-already engaged in self-teaching, and conveying a large quantity of knowledge may not be as important as providing a boost of 
-confidence and a guide to best-practices as they proceed. Embracing the limitations on learning and leveraging the flexibility 
-and low-stakes of a workshop setting might actually confer an advantage in these areas. 
-
 For those of us who work within the short course mandate, then, the question becomes: *how* can we optimize that format to best 
 meet learners' needs? When setting goals for impact, we tend to think in terms of *how much* and *what type* of impact we can have, and to focus our efforts accordingly.
 
