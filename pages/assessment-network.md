@@ -20,11 +20,11 @@ If you are interested in learning more about assessment within the Carpentries c
 [Long-Term Assessment Strategy](http://www.datacarpentry.org/blog/long-term-assessment-strategy/)   
 [Pilot Survey Focus Group Update](http://www.datacarpentry.org/blog/survey-focus-group-update/)   
 [Analysis of Data Carpentry Workshop Impact](http://www.datacarpentry.org/blog/assessment/)  
-[Long-term assessment results](http://www.datacarpentry.org/blog/long-term-survey-results/)   
+[Long-Term Assessment Results](http://www.datacarpentry.org/blog/long-term-survey-results/)   
 [Reflections on Assessment](http://www.datacarpentry.org/blog/reflections-on-assessment/)   
 
 ## Meeting Minutes
 Minutes from our quarterly meetings are available on the [Assessment Network GitHub repo](https://github.com/carpentries/assessment/tree/master/assessment-network).
 
 ## Get Involved
-To get involved with the assessment network, [contact us](mailto:kariljordan@carpentries.org).
+To get involved with the assessment network, [contact us](mailto:kariljordan@carpentries.org) or join our [assessment network email list](https://groups.google.com/a/carpentries.org/d/forum/assessment-network).
