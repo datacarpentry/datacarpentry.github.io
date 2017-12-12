@@ -21,6 +21,7 @@ A Partner is an organization that has made a commitment to the growth and spread
 - [Join the discussion](http://discuss.datacarpentry.org) about data practices and teaching Data Carpentry
 - [Information on becoming an instructor](/involved-instructor/)
 - [Information on helping to develop lessons](/involved-lessons/)
+- Attend [CarpentryCon 2018](http://www.carpentrycon.org/), a key networking and community-building event for both Software and Data Carpentry
 
 Interested in getting involved in other
-ways, [get in touch!](mailto:info@datacarpentry.org).
+ways, [get in touch!](mailto:info@datacarpentry.org)

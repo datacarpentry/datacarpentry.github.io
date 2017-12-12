@@ -56,11 +56,6 @@ with and learning from each other. Some research experiences or team-building ac
 schedule. Also where traditional course curricula can be slow to change, short-courses can permit rapid inclusion of new and needed 
 skills before they can be added elsewhere.
 
-**When a little goes a long way.** In many of these cases, particularly when training is truly necessary for progress, learners are 
-already engaged in self-teaching, and conveying a large quantity of knowledge may not be as important as providing a boost of 
-confidence and a guide to best-practices as they proceed. Embracing the limitations on learning and leveraging the flexibility 
-and low-stakes of a workshop setting might actually confer an advantage in these areas. 
-
 For those of us who work within the short course mandate, then, the question becomes: *how* can we optimize that format to best 
 meet learners' needs? When setting goals for impact, we tend to think in terms of *how much* and *what type* of impact we can have, and to focus our efforts accordingly.
 
@@ -166,7 +161,7 @@ We have conducted both short-term and long-term follow-up assessments of learner
 We see that short-format workshops can be effective at increasing researchers' confidence, use of coding skills, and adoption of 
 reproducible research perspectives. As a part of the Open Source community, we make all of our 
 survey data and analysis code available in our [assessment repository](https://github.com/carpentries/assessment). 
-e welcome people to work with our survey data and ask new questions. Understanding impact is important, and we will continue 
+We welcome people to work with our survey data and ask new questions. Understanding impact is important, and we will continue 
 to keep our community informed with regular releases of survey data and reports. We also have a virtual assessment network which 
 newcomers are welcome to be part of. Please [join here](https://groups.google.com/a/carpentries.org/forum/#!forum/assessment-network) 
 if you are interested in discussing assessment efforts in the area of training in research computing.
