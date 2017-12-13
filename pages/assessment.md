@@ -11,9 +11,9 @@ permalink: "/assessment/"
 Data Carpentry values a culture of assessment, and we are consistently evaluating 
 our workshops to understand the impact workshops have on our learners, and how we can improve our content delivery.
 
-Dr. Kari L. Jordan, our Deputy Director of Assessment, leads our assessment efforts.
+Dr. Kari L. Jordan, our Deputy Director of Assessment, leads our assessment efforts. She has established the [Assessment Network](http://www.datacarpentry.org/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
 
-Dr. Erin Becker, our Associate Director serves as Principle Investigator for our research efforts related to assessing the
+Dr. Erin Becker, our Associate Director serves as Principal Investigator for our research efforts related to assessing the
 effectiveness of our workshops. This work is carried out under supervison of the Institutional Review Board at University of California, Davis. Our faculty sponsor at UC Davis is Dr. Megan Welsh, Assistant Professor within the UC Davis School of Education.
 
 Please see our [IRB proposal]({{ site.urlimg }}/Data_Carpentry_IRB_for_workshops.pdf)
