@@ -3548,6 +3548,11 @@ badges:
   - {awarded: '2017-12-12', name: Colin Navin, user: navin_colin}
   - {awarded: '2017-12-12', name: Mark Woodbridge, user: woodbridge_mark}
   - {awarded: '2017-12-12', name: Yoseph Abate, user: abate_yoseph}
+  - {awarded: '2017-12-13', name: Laura Lucila Gómez Romero, user: gmez-romero_laura-lucila}
+  - {awarded: '2017-12-13', name: Srihari Sundar, user: sundar_srihari}
+  - {awarded: '2017-12-13', name: Dev Paudel, user: paudel_dev}
+  - {awarded: '2017-12-13', name: Maryia Khomich, user: khomich_maryia}
+  - {awarded: '2017-12-13', name: David Matten, user: matten_david}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4194,6 +4199,7 @@ badges:
   - {awarded: '2017-12-08', name: Sharron Stapleton, user: stapleton_sharron}
   - {awarded: '2017-12-08', name: Nihan Pol, user: pol_nihan}
   - {awarded: '2017-12-12', name: Ana Beatriz Villaseñor Altamirano, user: villaseor-altamirano_ana-beatriz}
+  - {awarded: '2017-12-13', name: Anat Melamed, user: melamed_anat}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4280,7 +4286,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171213T170003Z
+timestamp: 20171213T180003Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
