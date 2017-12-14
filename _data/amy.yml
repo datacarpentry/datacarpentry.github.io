@@ -514,6 +514,7 @@ airports:
   - {name: Glenn Moncrieff, user: moncrieff_glenn}
   - {name: Ian van der Linde, user: van-der-linde_ian}
   - {name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
+  - {name: David Matten, user: matten_david}
   - {name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   latitude: -33.964722
   longitude: 18.601667
@@ -1170,6 +1171,8 @@ airports:
   - {name: David Wright, user: wright_david}
   - {name: Stuart Grieve, user: grieve_stuart}
   - {name: Antonio Berlanga-Taylor, user: berlanga-taylor_antonio}
+  - {name: Mark Woodbridge, user: woodbridge_mark}
+  - {name: Anat Melamed, user: melamed_anat}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -1221,6 +1224,12 @@ airports:
   latitude: 45.726111
   longitude: 5.090833
   name: Lyon Saint Exupery
+- country: in
+  instructors:
+  - {name: Srihari Sundar, user: sundar_srihari}
+  latitude: 12.9900055
+  longitude: 80.1692963
+  name: Chennai International
 - country: es
   instructors:
   - {name: Arucas Chacon De Frutos, user: chacon-de-frutos_arucas}
@@ -1344,6 +1353,7 @@ airports:
 - country: mx
   instructors:
   - {name: Daniela Ledezma, user: ledezma-tejeida_daniela}
+  - {name: Ana Beatriz Villaseñor Altamirano, user: villaseor-altamirano_ana-beatriz}
   latitude: 19.4363003
   longitude: -99.0720978
   name: Licenciado Benito Juarez International Airport
@@ -1565,6 +1575,7 @@ airports:
   - {name: Christian Wilhelm Mohr, user: mohr_christian-wilhelm}
   - {name: William Brynildsen Reinar, user: brynildsen-reinar_william}
   - {name: Arnstein Orten, user: orten_arnstein}
+  - {name: Maryia Khomich, user: khomich_maryia}
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
@@ -4287,7 +4298,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171214T090003Z
+timestamp: 20171214T100002Z
 workshops:
 - &id002
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
