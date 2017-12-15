@@ -4293,7 +4293,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171215T190003Z
+timestamp: 20171215T200002Z
 workshops:
 - &id002
   - address: Roeterseilandcampus, Amsterdam
@@ -5457,6 +5457,7 @@ workshops:
     start: 2016-11-02
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://hpcarcher.github.io/2016-11-02-EPCC/
     venue: EPCC - The University of Edinburgh
   - address: CAD Lab, School of Environmental Sciences, University of Venda, University
@@ -5845,6 +5846,7 @@ workshops:
     start: 2016-06-23
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://datacarpentry.github.io/2016-06-23-CC/
     venue: University of Alberta
   - address: USDA/ARS/Southern Regional Research Center 1100 Robert E. Lee Blvd. New
@@ -5958,6 +5960,7 @@ workshops:
     start: 2016-05-29
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://datacarpentry.github.io/2016-05-29-PyCon/
     venue: PyCon 2016
   - address: 10 Center Dr, Bethesda, MD 20892
@@ -6014,6 +6017,7 @@ workshops:
     start: 2016-05-12
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://combine-australia.github.io/2016-05-12-CharlesDarwinUni/
     venue: Charles Darwin University
   - address: Omni Atlanta Hotel at CNN Center, Atlanta, GA
@@ -6141,6 +6145,7 @@ workshops:
     start: 2016-03-15
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/
     venue: University of Oslo
   - address: Niels Henrik Abels hus, Moltke Moes vei 35, Oslo
@@ -6255,6 +6260,7 @@ workshops:
     start: 2016-02-01
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://uio-carpentry.github.io/2016-02-01-Oslo/
     venue: University of Oslo
   - address: Natural History Museum, Cromwell Road, London, SW7 5BD
@@ -6440,6 +6446,7 @@ workshops:
     start: 2015-11-02
     tags:
     - {name: DC}
+    - {name: unresponsive}
     url: https://leszektarkowski.github.io/2015-11-02-DC-Brussels/
     venue: BELSPO
   - address: TBC
