@@ -23,12 +23,6 @@ airports:
   latitude: 8.97789
   longitude: 38.7993011
   name: Bole International Airport
-- country: gb
-  instructors:
-  - {name: Patrick McCann, user: mccann_patrick}
-  latitude: 56.3728981
-  longitude: -2.8684399
-  name: RAF Leuchars Airport
 - country: nz
   instructors:
   - {name: Raphael Aggio, user: aggio_raphael}
@@ -725,6 +719,7 @@ airports:
   - {name: Adrian Jackson, user: jackson_adrian}
   - {name: Robin Rice, user: rice_robin}
   - {name: Eilidh Troup, user: troup_eilidh}
+  - {name: Patrick McCann, user: mccann_patrick}
   - {name: Gergana Daskalova, user: daskalova_gergana}
   - {name: Dan Holmes, user: holmes_dan}
   latitude: 55.95
@@ -4298,7 +4293,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171215T140002Z
+timestamp: 20171215T150002Z
 workshops:
 - &id002
   - address: Roeterseilandcampus, Amsterdam
