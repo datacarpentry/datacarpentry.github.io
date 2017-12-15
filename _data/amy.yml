@@ -4293,7 +4293,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171215T200002Z
+timestamp: 20171215T210003Z
 workshops:
 - &id002
   - address: Roeterseilandcampus, Amsterdam
@@ -4906,6 +4906,21 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/
     venue: University of Wisconsin-Madison
+  - address: St. Louis, MO
+    contact: info@datacarpentry.org
+    country: us
+    end: 2017-06-17
+    eventbrite_id: ''
+    humandate: Jun 17-17, 2017
+    latitude: 38.674299
+    longitude: -90.397576
+    slug: 2017-06-17-stlouis
+    start: 2017-06-17
+    tags:
+    - {name: DC}
+    - {name: unresponsive}
+    url: https://canghel.github.io/2017-06-17-stlouis/
+    venue: The Donald Danforth Plant Science Center
   - address: Saturday LK005/Sunday LK120, 291 Campus Drive, Palo Alto, CA
     contact: amyhodge@stanford.edu
     country: us
@@ -4962,6 +4977,20 @@ workshops:
     - {name: DC}
     url: https://emudrak.github.io/2017-06-14-cornell/
     venue: Cornell University
+  - address: 222 Pleasant Street SE, Minneapolis, MN 55455
+    contact: ''
+    country: us
+    end: 2017-06-09
+    eventbrite_id: ''
+    humandate: Jun 08-09, 2017
+    latitude: 44.97399
+    longitude: -93.237358
+    slug: 2017-06-08-minnesota
+    start: 2017-06-08
+    tags:
+    - {name: DC}
+    url: http://www.ashander.info/2017-06-08-QuARRC-UMN/
+    venue: Bruininks Hall 530B,
   - address: PACCAR 202, Pullman, WA
     contact: stephanie.labou@wsu.edu
     country: us
