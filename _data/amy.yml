@@ -4298,9 +4298,23 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171215T050003Z
+timestamp: 20171215T060002Z
 workshops:
 - &id002
+  - address: Roeterseilandcampus, Amsterdam
+    contact: a.c.schurch@umcutrecht.nl
+    country: nl
+    end: 2017-12-14
+    eventbrite_id: ''
+    humandate: Dec 13-14, 2017
+    latitude: 52.362934
+    longitude: 4.912404
+    slug: 2017-12-13-amsterdam
+    start: 2017-12-13
+    tags:
+    - {name: DC}
+    url: https://aschuerch.github.io/2017-12-13-amsterdam/
+    venue: University of Amsterdam
   - address: New Jersey Medical School, 185 South Orange Ave, Medical Science Building
       Room B516, Newark, NJ
     contact: janet.alder@rutgers.edu
@@ -6832,19 +6846,5 @@ workshops:
     - {name: DC}
     url: https://petersmyth12.github.io/2017-12-14-MAN-SS-PILOT01/
     venue: University of Manchester
-  - address: Roeterseilandcampus, Amsterdam
-    contact: a.c.schurch@umcutrecht.nl
-    country: NL
-    end: 2017-12-14
-    eventbrite_id: ''
-    humandate: Dec 13-14, 2017
-    latitude: 52.362934
-    longitude: 4.912404
-    slug: 2017-12-13-amsterdam
-    start: 2017-12-13
-    tags:
-    - {name: DC}
-    url: https://aschuerch.github.io/2017-12-13-amsterdam/
-    venue: University of Amsterdam
 workshops_current: *id001
 workshops_past: *id002
