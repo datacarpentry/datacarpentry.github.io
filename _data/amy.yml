@@ -4293,9 +4293,37 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171216T050002Z
+timestamp: 20171216T060002Z
 workshops:
 - &id002
+  - address: 1280 Main St W, Hamilton, ON L8S 4L8
+    contact: Jake C. Szamosi <szamosjc@mcmaster.ca>
+    country: ca
+    end: 2017-12-15
+    eventbrite_id: ''
+    humandate: Dec 14-15, 2017
+    latitude: 43.261027
+    longitude: -79.916996
+    slug: 2017-12-14-mcmaster
+    start: 2017-12-14
+    tags:
+    - {name: DC}
+    url: https://jcszamosi.github.io/2017-12-14-McMaster/
+    venue: McMaster University
+  - address: Humanities Bridgeford St. (Building 35)
+    contact: peter.smyth@manchester.ac.uk
+    country: gb
+    end: 2017-12-15
+    eventbrite_id: ''
+    humandate: Dec 14-15, 2017
+    latitude: 53.466722
+    longitude: -2.236463
+    slug: 2017-12-14-MAN-SS-PILOT01
+    start: 2017-12-14
+    tags:
+    - {name: DC}
+    url: https://petersmyth12.github.io/2017-12-14-MAN-SS-PILOT01/
+    venue: University of Manchester
   - address: Roeterseilandcampus, Amsterdam
     contact: a.c.schurch@umcutrecht.nl
     country: nl
@@ -6849,33 +6877,5 @@ workshops:
     - {name: DC}
     url: https://aurielfournier.github.io/2017-12-18-grand-valley/
     venue: Grand Valley State University
-  - address: 1280 Main St W, Hamilton, ON L8S 4L8
-    contact: Jake C. Szamosi <szamosjc@mcmaster.ca>
-    country: CA
-    end: 2017-12-15
-    eventbrite_id: ''
-    humandate: Dec 14-15, 2017
-    latitude: 43.261027
-    longitude: -79.916996
-    slug: 2017-12-14-mcmaster
-    start: 2017-12-14
-    tags:
-    - {name: DC}
-    url: https://jcszamosi.github.io/2017-12-14-McMaster/
-    venue: McMaster University
-  - address: Humanities Bridgeford St. (Building 35)
-    contact: peter.smyth@manchester.ac.uk
-    country: GB
-    end: 2017-12-15
-    eventbrite_id: ''
-    humandate: Dec 14-15, 2017
-    latitude: 53.466722
-    longitude: -2.236463
-    slug: 2017-12-14-MAN-SS-PILOT01
-    start: 2017-12-14
-    tags:
-    - {name: DC}
-    url: https://petersmyth12.github.io/2017-12-14-MAN-SS-PILOT01/
-    venue: University of Manchester
 workshops_current: *id001
 workshops_past: *id002
