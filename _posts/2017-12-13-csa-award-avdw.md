@@ -20,7 +20,7 @@ With great determination and persistence, she secured funding to enable a range 
 
 Funding meant many participants could travel to and attend training which would normally have been far beyond their reach. She also secured the first ever [Software and Data Carpentry membership]( https://software-carpentry.org/blog/2017/01/first-african-partner.html) in South Africa. Through her passion for the Carpentries, she has inspired many people to acquire the command line, HPC and other skills that many thought were beyond their capacity to learn.
 
-![Anelda's award certificate (/files/2017/12/avdw_award.jpg)]
+![Anelda's award certificate](../images/avdw_award.jpg)
 
 Since then, she has successfully grown a pool of qualified instructors and has helped hundreds of researchers in South Africa and other African countries develop foundational computational and data skills to drive their research forward. Instructor numbers are now above 22.
 
