@@ -3560,6 +3560,12 @@ badges:
   - {awarded: '2017-12-13', name: Dev Paudel, user: paudel_dev}
   - {awarded: '2017-12-13', name: Maryia Khomich, user: khomich_maryia}
   - {awarded: '2017-12-13', name: David Matten, user: matten_david}
+  - {awarded: '2017-12-20', name: Malgorzata Nowicka, user: nowicka_malgorzata}
+  - {awarded: '2017-12-20', name: Tyson Swetnam, user: swetnam_tyson}
+  - {awarded: '2017-12-20', name: Colin Morris, user: morris_colin}
+  - {awarded: '2017-12-20', name: mingsheng zhang, user: zhang_mingsheng}
+  - {awarded: '2017-12-20', name: Mike Trizna, user: trizna_mike}
+  - {awarded: '2017-12-20', name: William Krekelberg, user: krekelberg_william}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4207,6 +4213,9 @@ badges:
   - {awarded: '2017-12-08', name: Nihan Pol, user: pol_nihan}
   - {awarded: '2017-12-12', name: Ana Beatriz Villaseñor Altamirano, user: villaseor-altamirano_ana-beatriz}
   - {awarded: '2017-12-13', name: Anat Melamed, user: melamed_anat}
+  - {awarded: '2017-12-20', name: Shivshankar Umashankar, user: umashankar_shivshankar}
+  - {awarded: '2017-12-20', name: Zachary Painter, user: painter_zachary}
+  - {awarded: '2017-12-20', name: Michael Heslar, user: heslar_michael}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4293,7 +4302,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171220T160002Z
+timestamp: 20171220T170002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
