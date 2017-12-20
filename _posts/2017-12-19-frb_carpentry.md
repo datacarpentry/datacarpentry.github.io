@@ -22,8 +22,6 @@ The Carpentry workshops worked well, but attendees mentioned they would like thi
 
 That done, in late 2016, Tracy Teal, Greg Wilson, Jonah Duckles and I had a conference call about instructor training and the event I had in mind. I also polled colleagues at the twelve Federal Reserve Banks, some of whom had been holding Carpentry workshops, too, to learn whether they might be interested in sending people to Washington DC to train for becoming Carpentry instructors. 
 
-Out of this came a week-long event – 'Week o' Carpentry' in my head – involving 18 people for the Instructor Training, nine from the Board and nine from four different FR Banks, six instructors, and a small number of new RAs and other permanent Board staff. Oh, and lots of food, too, including 21 pounds of tangerines.
-
 Out of this came a week-long event – what I called 'Week o' Carpentry' in my head – involving 18 people for the Instructor Training, nine from the Board and nine in total from four different FR Banks, six instructors, and a small number of new RAs and other permanent Board staff. Oh, and lots of food, too, including 21 pounds of tangerines.
 
 ![Snacks for the workshop](/images/fed-res-snacks.jpg "Snacks for the workshop")
