@@ -4302,7 +4302,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171221T190002Z
+timestamp: 20171221T200002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
@@ -4351,7 +4351,7 @@ workshops:
     contact: a.c.schurch@umcutrecht.nl
     country: nl
     end: 2017-12-14
-    eventbrite_id: ''
+    eventbrite_id: '40053751850'
     humandate: Dec 13-14, 2017
     latitude: 52.362934
     longitude: 4.912404
