@@ -3570,6 +3570,18 @@ badges:
   - {awarded: '2017-12-20', name: mingsheng zhang, user: zhang_mingsheng}
   - {awarded: '2017-12-20', name: Mike Trizna, user: trizna_mike}
   - {awarded: '2017-12-20', name: William Krekelberg, user: krekelberg_william}
+  - {awarded: '2017-12-22', name: Tom Allard, user: allard_tom}
+  - {awarded: '2017-12-22', name: George Graham, user: graham_george}
+  - {awarded: '2017-12-22', name: Rebecca Lowdon, user: lowdon_r}
+  - {awarded: '2017-12-22', name: Duncan Watson-Parris, user: watson-parris_duncan}
+  - {awarded: '2017-12-22', name: Weisi Chen, user: chen_weisi}
+  - {awarded: '2017-12-22', name: Taylor Smith, user: smith_taylor}
+  - {awarded: '2017-12-22', name: alice minotto, user: minotto_alice}
+  - {awarded: '2017-12-22', name: Vicky Steeves, user: steeves_vicky}
+  - {awarded: '2017-12-22', name: Anuj Guruacharya, user: guruacharya_anuj}
+  - {awarded: '2017-12-22', name: Horst Severini, user: severini_horst}
+  - {awarded: '2017-12-22', name: Allison Weber, user: weber_allison}
+  - {awarded: '2017-12-22', name: Tiago Pereira, user: pereira_tiago}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4220,6 +4232,13 @@ badges:
   - {awarded: '2017-12-20', name: Shivshankar Umashankar, user: umashankar_shivshankar}
   - {awarded: '2017-12-20', name: Zachary Painter, user: painter_zachary}
   - {awarded: '2017-12-20', name: Michael Heslar, user: heslar_michael}
+  - {awarded: '2017-12-22', name: Margareth Gfrerer, user: gfrerer_margareth}
+  - {awarded: '2017-12-22', name: Stijn Van Hoey, user: van-hoey_stijn}
+  - {awarded: '2017-12-22', name: Ahmed Hasan, user: hasan_ahmed}
+  - {awarded: '2017-12-22', name: Kylie Poulton, user: poulton_kylie}
+  - {awarded: '2017-12-22', name: Christopher Edsall, user: edsall_christopher}
+  - {awarded: '2017-12-22', name: Nicholas Wolf, user: wolf_nicholas}
+  - {awarded: '2017-12-22', name: Keith Turner, user: turner_keith}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4306,7 +4325,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171222T200002Z
+timestamp: 20171222T210002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
