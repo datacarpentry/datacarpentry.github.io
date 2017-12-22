@@ -144,6 +144,7 @@ airports:
   - {name: Shane Sanders, user: sanders_shane}
   - {name: Saira Kazmi, user: kazmi_saira}
   - {name: David McKenzie, user: mckenzie_david}
+  - {name: mingsheng zhang, user: zhang_mingsheng}
   latitude: 41.938889
   longitude: -72.683056
   name: Hartford, CT
@@ -318,6 +319,7 @@ airports:
   - {name: Tom Hohenstein, user: hohenstein_tom}
   - {name: Norbert Kremer, user: kremer_norbert}
   - {name: Gregg TeHennepe, user: tehennepe_gregg}
+  - {name: Colin Morris, user: morris_colin}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -1856,6 +1858,7 @@ airports:
 - country: sg
   instructors:
   - {name: Dana Miller, user: miller_dana}
+  - {name: Shivshankar Umashankar, user: umashankar_shivshankar}
   latitude: 1.355556
   longitude: 103.987222
   name: Singapore
@@ -2126,6 +2129,7 @@ airports:
   - {name: Upendra Kumar Devisetty, user: devisetty_upendra-kumar}
   - {name: Gaius Augustus, user: augustus_gaius}
   - {name: Brian Adam Smith, user: smith_brian}
+  - {name: Tyson Swetnam, user: swetnam_tyson}
   latitude: 32.116111
   longitude: -110.941389
   name: Tucson, AZ
@@ -4302,7 +4306,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171222T160002Z
+timestamp: 20171222T170002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
