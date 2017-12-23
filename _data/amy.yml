@@ -3582,6 +3582,7 @@ badges:
   - {awarded: '2017-12-22', name: Horst Severini, user: severini_horst}
   - {awarded: '2017-12-22', name: Allison Weber, user: weber_allison}
   - {awarded: '2017-12-22', name: Tiago Pereira, user: pereira_tiago}
+  - {awarded: '2017-12-22', name: Lingling Jiang, user: jiang_lingling}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4325,7 +4326,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171222T230002Z
+timestamp: 20171223T000002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
