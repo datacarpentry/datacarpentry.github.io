@@ -247,7 +247,6 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
   - {name: Sam Hames, user: hames_sam}
-  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Amanda Miotto, user: miotto_amanda}
   - {name: Leah Roberts, user: roberts_leah}
   - {name: Clinton Roy, user: roy_clinton}
@@ -333,6 +332,7 @@ airports:
   name: Bristol
 - country: be
   instructors:
+  - {name: Paula Andrea Martinez Villegas, user: martinez_paula}
   - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Frederik Coppens, user: coppens_frederik}
   - {name: Christof De Bo, user: debo_christof}
@@ -653,6 +653,7 @@ airports:
   - {name: William Close, user: close_william}
   - {name: Dave Bridges, user: bridges_dave}
   - {name: Jonathan Greenberg, user: greenberg_jonathan}
+  - {name: Srihari Sundar, user: sundar_srihari}
   latitude: 42.212222
   longitude: -83.353333
   name: Detroit, MI
@@ -954,12 +955,6 @@ airports:
   latitude: 42.491
   longitude: -76.459
   name: Ithaca, NY
-- country: us
-  instructors:
-  - {name: Philipp Boersch-Supan, user: boersch-supan_philipp}
-  latitude: 30.4941006
-  longitude: -81.6878967
-  name: Jacksonville International
 - country: sa
   instructors:
   - {name: David Ketcheson, user: ketcheson_david}
@@ -1003,6 +998,7 @@ airports:
   - {name: LACTATIA MOTSUKU, user: motsuku_lactatia}
   - {name: Alisa Postma, user: postma_alisa}
   - {name: Jacqueline Muller, user: muller_jacqueline}
+  - {name: Phumudzo Muvhango, user: muvhango_phumudzo}
   latitude: -26.138773
   longitude: 28.241339
   name: O. R. Tambo International Airport
@@ -1221,12 +1217,6 @@ airports:
   latitude: 45.726111
   longitude: 5.090833
   name: Lyon Saint Exupery
-- country: in
-  instructors:
-  - {name: Srihari Sundar, user: sundar_srihari}
-  latitude: 12.9900055
-  longitude: 80.1692963
-  name: Chennai International
 - country: es
   instructors:
   - {name: Arucas Chacon De Frutos, user: chacon-de-frutos_arucas}
@@ -1290,6 +1280,7 @@ airports:
   - {name: Shawn Taylor, user: taylor_shawn}
   - {name: Sergio Marconi, user: marconi_sergio}
   - {name: Kari L Jordan, user: kariljordan}
+  - {name: Michael Heslar, user: heslar_michael}
   - {name: Kathy Joshi, user: joshi_kathy}
   latitude: 28.428889
   longitude: -81.315833
@@ -1640,6 +1631,7 @@ airports:
   - {name: Joshua Adelman, user: adelman_joshua}
   - {name: Justin Kitzes, user: kitzes_j}
   - {name: Lisa Zilinski, user: zilinski_lisa}
+  - {name: Nihan Pol, user: pol_nihan}
   latitude: 40.491389
   longitude: -80.232778
   name: Pittsburgh, PA
@@ -1669,6 +1661,7 @@ airports:
   instructors:
   - {name: Jeff Hollister, user: hollister_jeff}
   - {name: Rachel Schwartz, user: schwartz_rachel}
+  - {name: Zachary Painter, user: painter_zachary}
   latitude: 41.723889
   longitude: -71.428056
   name: Providence, RI
@@ -1870,6 +1863,7 @@ airports:
   - {name: William Justin Rowell, user: rowell_bill}
   - {name: Chris DeBoever, user: deboever_christopher}
   - {name: Mary-Ellen Petrich, user: petrich_mary-ellen}
+  - {name: Ian Lee, user: lee_ian}
   latitude: 37.361667
   longitude: -121.928889
   name: San Jose, CA
@@ -2088,6 +2082,7 @@ airports:
   name: Tromsø Airport
 - country: us
   instructors:
+  - {name: Philipp Boersch-Supan, user: boersch-supan_philipp}
   - {name: Justin Millar, user: millar_justin}
   latitude: 27.983099
   longitude: -82.536413
@@ -2129,7 +2124,7 @@ airports:
   - {name: Upendra Kumar Devisetty, user: devisetty_upendra-kumar}
   - {name: Gaius Augustus, user: augustus_gaius}
   - {name: Brian Adam Smith, user: smith_brian}
-  - {name: Tyson Swetnam, user: swetnam_tyson}
+  - {name: Tyson Lee Swetnam, user: swetnam_tyson}
   latitude: 32.116111
   longitude: -110.941389
   name: Tucson, AZ
@@ -2690,7 +2685,7 @@ badges:
   - {awarded: '2014-11-09', name: Dan MacLean, user: maclean_dan}
   - {awarded: '2015-02-27', name: Joshua Madin, user: madin_j}
   - {awarded: '2015-03-15', name: Tamer Mansour, user: mansour_tamer}
-  - {awarded: '2015-02-28', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2015-02-28', name: Paula Andrea Martinez Villegas, user: martinez_paula}
   - {awarded: '2015-03-05', name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {awarded: '2015-03-25', name: Daniel McDonald, user: mcdonald_daniel}
   - {awarded: '2013-07-20', name: Steve McGough, user: mcgough_s}
@@ -3565,7 +3560,7 @@ badges:
   - {awarded: '2017-12-13', name: Maryia Khomich, user: khomich_maryia}
   - {awarded: '2017-12-13', name: David Matten, user: matten_david}
   - {awarded: '2017-12-20', name: Malgorzata Nowicka, user: nowicka_malgorzata}
-  - {awarded: '2017-12-20', name: Tyson Swetnam, user: swetnam_tyson}
+  - {awarded: '2017-12-20', name: Tyson Lee Swetnam, user: swetnam_tyson}
   - {awarded: '2017-12-20', name: Colin Morris, user: morris_colin}
   - {awarded: '2017-12-20', name: mingsheng zhang, user: zhang_mingsheng}
   - {awarded: '2017-12-20', name: Mike Trizna, user: trizna_mike}
@@ -3729,7 +3724,7 @@ badges:
   - {awarded: '2016-01-27', name: Neem Serra, user: serra_neem}
   - {awarded: '2016-01-27', name: Nichole Bennett, user: bennett_n}
   - {awarded: '2016-01-27', name: Filipe Fernandes, user: fernandes_filipe}
-  - {awarded: '2016-01-27', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2016-01-27', name: Paula Andrea Martinez Villegas, user: martinez_paula}
   - {awarded: '2016-01-27', name: Pat Schloss, user: schloss_pat}
   - {awarded: '2016-01-27', name: Raniere Silva, user: silva_raniere}
   - {awarded: '2016-01-27', name: Ross Mounce, user: mounce_ross}
@@ -4266,7 +4261,7 @@ badges:
   - {awarded: '2016-03-03', name: Christie Bahlai, user: bahlai_christie}
   - {awarded: '2016-03-03', name: Deborah Paul, user: paul_deborah}
   - {awarded: '2016-03-03', name: Cam Macdonell, user: macdonell_cam}
-  - {awarded: '2016-03-03', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2016-03-03', name: Paula Andrea Martinez Villegas, user: martinez_paula}
   - {awarded: '2016-03-03', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2016-03-03', name: François Michonneau, user: michonneau_francois}
   - {awarded: '2016-03-03', name: Auriel Fournier, user: fournier_auriel}
@@ -4316,7 +4311,7 @@ badges:
   - {awarded: '2017-08-28', name: John Simpson, user: simpson_john}
   - {awarded: '2017-08-28', name: Elizabeth Wickes, user: wickes_elizabeth}
   - {awarded: '2017-08-28', name: François Michonneau, user: michonneau_francois}
-  - {awarded: '2017-08-28', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2017-08-28', name: Paula Andrea Martinez Villegas, user: martinez_paula}
   - {awarded: '2017-08-28', name: Danielle Quinn, user: quinn_danielle}
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
@@ -4326,7 +4321,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20171227T180002Z
+timestamp: 20171227T190002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
