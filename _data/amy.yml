@@ -4321,7 +4321,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180103T230002Z
+timestamp: 20180104T000002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
@@ -6861,6 +6861,20 @@ workshops:
     - {name: DC}
     url: https://liz-is.github.io/2018-01-29-maxplanck/
     venue: Max Planck Institute for Molecular Biomedicine
+  - address: Marston Science Library Rm. L136
+    contact: shawntaylor@weecology.org
+    country: US
+    end: 2018-03-01
+    eventbrite_id: English
+    humandate: Jan 18-Mar 01, 2018
+    latitude: 29.647984
+    longitude: -82.344002
+    slug: 2018-01-18-UF-R
+    start: 2018-01-18
+    tags:
+    - {name: DC}
+    url: https://ufrmeetup.github.io/2018-01-18-UF-R/
+    venue: University of Florida
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
     contact: minglu@rutgers.edu
     country: US
