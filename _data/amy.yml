@@ -20,6 +20,7 @@ airports:
 - country: et
   instructors:
   - {name: Mesfin Diro Chaka, user: diro-chaka_mesfin}
+  - {name: Margareth Gfrerer, user: gfrerer_margareth}
   latitude: 8.97789
   longitude: 38.7993011
   name: Bole International Airport
@@ -327,6 +328,7 @@ airports:
   - {name: Eilis Hannon, user: hannon_eilis}
   - {name: Jeremy Metz, user: metz_jeremy}
   - {name: Christopher Woods, user: woods_c}
+  - {name: Christopher Edsall, user: edsall_christopher}
   latitude: 51.3825
   longitude: -2.718889
   name: Bristol
@@ -766,6 +768,7 @@ airports:
 - country: gb
   instructors:
   - {name: James Allen, user: allen_james}
+  - {name: George Graham, user: graham_george}
   - {name: Stephen Haddad, user: haddad_stephen}
   - {name: Hamish Steptoe, user: steptoe_hamish}
   - {name: Thomas Voigt, user: voigt_thomas_2}
@@ -1457,6 +1460,7 @@ airports:
   - {name: Anthony Etuk, user: etuk_anthony}
   - {name: Matthew Hartley, user: hartley_matthew}
   - {name: Matt Drew, user: drew_matt}
+  - {name: alice minotto, user: minotto_alice}
   latitude: 52.675833
   longitude: 1.282778
   name: Norwich
@@ -1967,6 +1971,8 @@ airports:
   - {name: Bo Ji, user: ji_bo_2}
   - {name: Maria Alejandra Arias, user: arias_maria-alejandra}
   - {name: Tasso Pettigrew, user: pettigrew_tasso}
+  - {name: Keith Turner, user: turner_keith}
+  - {name: Allison Weber, user: weber_allison}
   latitude: 38.7475
   longitude: -90.359722
   name: St. Louis, MO
@@ -4321,7 +4327,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180105T090002Z
+timestamp: 20180105T100002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
