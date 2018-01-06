@@ -27,6 +27,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Digital humanities curriculum](#dh-curriculum)
 - [Image analysis curriculum](#image-curriculum)
 - [Economics curriculum](#economics-curriculum)
+- [Astronomy curriculum](#astronomy-curriculum)
 - [Other curriculum](#other-curriculum)
 
 ## Semester materials
@@ -236,6 +237,10 @@ If you are interested in following or being involved in development of this curr
 There is initial interest on economics curriculum. Development is planned for 2018.
 
 If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/economics-curriculum)
+
+### <a id="astronomy-curriculum"></a> Astronomy Curriculum
+
+Development of a Data Carpentry lesson immediately aimed at astronomy, but which can easily be extended to other physics based disciplines. American Institute of Physics/Member Society Venture Partnership funding is supporting the development and testing of the lesson. Lesson development will begin the [AAS hack day](http://www.astrobetter.com/wiki/AASHackDay) and will continue throughout the next two years. If you are interested in contributing in any way, please join the [astronomy-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/astronomy-curriculum). We would especially like to encourage anyone who is part of an AIP member society (Acoustical Society of America, American Association of Physicists in Medicine, American Association of Physics Teachers, American Astronomical Society, American Crystallographic Association, American Meteorological Society, American Physics Society, AVS: Science & Technology of Materials, Interfaces, and Processing, The Optical Society, and the Society of Rheology) to join as we are eager to develop lessons that can be easily extended into these sub-fields.
 
 ### <a id="other-curriculum"></a>Other curriculum
 
