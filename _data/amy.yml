@@ -4257,6 +4257,7 @@ badges:
   - {awarded: '2018-01-08', name: SiZhe Xiao, user: xiao_sizhe}
   - {awarded: '2018-01-08', name: Robin Elahi, user: elahi_robin}
   - {awarded: '2018-01-08', name: Yasmeen Shorish, user: shorish_yasmeen}
+  - {awarded: '2018-01-08', name: Rémi Rampin, user: rampin_rmi}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4343,7 +4344,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180108T170002Z
+timestamp: 20180108T180002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
