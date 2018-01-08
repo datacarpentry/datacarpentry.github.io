@@ -3586,6 +3586,13 @@ badges:
   - {awarded: '2017-12-22', name: Lingling Jiang, user: jiang_lingling}
   - {awarded: '2018-01-05', name: Tyler Pearson, user: pearson_tyler}
   - {awarded: '2018-01-05', name: Chitrak Gupta, user: gupta_chitrak}
+  - {awarded: '2018-01-08', name: Jerry Lai, user: lai_jerry}
+  - {awarded: '2018-01-08', name: Anastasios Papaioannou, user: papaioannou_anastasios}
+  - {awarded: '2018-01-08', name: Vasu Venkateshwaran, user: venkateshwaran_vasu}
+  - {awarded: '2018-01-08', name: Robert Pavel, user: pavel_robert}
+  - {awarded: '2018-01-08', name: Diya Das, user: das_diya}
+  - {awarded: '2018-01-08', name: Fred Reiss, user: reiss_fred}
+  - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil_2}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4245,6 +4252,11 @@ badges:
   - {awarded: '2017-12-22', name: Keith Turner, user: turner_keith}
   - {awarded: '2018-01-05', name: Amy Lee, user: lee_amy}
   - {awarded: '2018-01-05', name: Joshua Steele, user: steele_joshua}
+  - {awarded: '2018-01-08', name: Ana Rivera, user: rivera_ana}
+  - {awarded: '2018-01-08', name: Ali Berens, user: berens_ali}
+  - {awarded: '2018-01-08', name: SiZhe Xiao, user: xiao_sizhe}
+  - {awarded: '2018-01-08', name: Robin Elahi, user: elahi_robin}
+  - {awarded: '2018-01-08', name: Yasmeen Shorish, user: shorish_yasmeen}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4331,7 +4343,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180108T160002Z
+timestamp: 20180108T170002Z
 workshops:
 - &id002
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
