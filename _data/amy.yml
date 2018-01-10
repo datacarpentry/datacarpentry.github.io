@@ -3593,6 +3593,7 @@ badges:
   - {awarded: '2018-01-08', name: Diya Das, user: das_diya}
   - {awarded: '2018-01-08', name: Fred Reiss, user: reiss_fred}
   - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil_2}
+  - {awarded: '2018-01-10', name: Daniel Nolte, user: nolte_daniel}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4344,7 +4345,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180110T190002Z
+timestamp: 20180110T200002Z
 workshops:
 - &id002
   - address: Orchard Room, Discovery Building, 330 Orchard St., Madison, WI
