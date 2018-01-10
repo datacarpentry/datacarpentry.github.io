@@ -4344,9 +4344,23 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180110T050002Z
+timestamp: 20180110T060002Z
 workshops:
 - &id002
+  - address: Orchard Room, Discovery Building, 330 Orchard St., Madison, WI
+    contact: ContactACI@lists.wisc.edu
+    country: us
+    end: 2018-01-09
+    eventbrite_id: '39736673460'
+    humandate: Jan 08-09, 2018
+    latitude: 43.0728339
+    longitude: -89.4103303
+    slug: 2018-01-08-uwmadison-dc
+    start: 2018-01-08
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2018-01-08-uwmadison-dc/
+    venue: UW Madison
   - address: 1113 Kindschi Hall Grand Valley State University Allendale, MI 49410
     contact: partridc@gvsu.edu
     country: us
@@ -6869,6 +6883,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Collage of Natural and Computational Science  - Zoological Science Lab
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-02-09
+    eventbrite_id: ''
+    humandate: Feb 08-09, 2018
+    latitude: 9.03403
+    longitude: 38.7662
+    slug: 2018-02-08-AAU
+    start: 2018-02-08
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-02-08-AAU/
+    venue: Data Carpentry Workshop at Center for Environmental Sciences
   - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
       Münster
     contact: phdnet-mpims@mpi-muenster.mpg.de
@@ -6941,19 +6969,5 @@ workshops:
     - {name: DC}
     url: https://katrintirok.github.io/2018-01-11-UKZN-Civil/
     venue: UKZN, Civil Engineering
-  - address: Orchard Room, Discovery Building, 330 Orchard St., Madison, WI
-    contact: ContactACI@lists.wisc.edu
-    country: US
-    end: 2018-01-09
-    eventbrite_id: '39736673460'
-    humandate: Jan 08-09, 2018
-    latitude: 43.0728339
-    longitude: -89.4103303
-    slug: 2018-01-08-uwmadison-dc
-    start: 2018-01-08
-    tags:
-    - {name: DC}
-    url: https://uw-madison-aci.github.io/2018-01-08-uwmadison-dc/
-    venue: UW Madison
 workshops_current: *id001
 workshops_past: *id002
