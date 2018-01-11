@@ -217,7 +217,7 @@ Alpha release and pilot workshops planned for early 2018. If you are interested 
 
 ## Materials in Early development
 
-*These materials are at the initial stages of development, identifying the core concepts to teach*
+*These materials are at the initial stages of development, identifying the core concepts to teach and piloting materials.*
 
 ### <a id="dh-curriculum"></a> Digital Humanities Curriculum
 
