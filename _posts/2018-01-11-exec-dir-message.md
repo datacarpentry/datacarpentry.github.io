@@ -27,6 +27,8 @@ As The Carpentries, we’ll continue to work with you, to support you in your te
 
 I truly believe in the power of our community, and 'the Carpentries way of teaching' to change how we work with data and expand the number of people who get to do that work. As Executive Director, I'm grateful for this opportunity to help lead The Carpentries in the next steps of our journey and most importantly to empower the organization and the Carpentries community to reach their full potential.
 
+-- *Tracy Teal, Executive Director*
+
 ---
 
 *This letter originally appeared in our newsletter, [Carpentry Clippings](http://software-carpentry.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe), 9 January, 2018.*
