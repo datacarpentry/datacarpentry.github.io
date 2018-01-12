@@ -4345,7 +4345,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180112T090002Z
+timestamp: 20180112T100001Z
 workshops:
 - &id002
   - address: Orchard Room, Discovery Building, 330 Orchard St., Madison, WI
