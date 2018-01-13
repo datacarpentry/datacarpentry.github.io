@@ -4345,9 +4345,38 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180113T050001Z
+timestamp: 20180113T060001Z
 workshops:
 - &id002
+  - address: Dana Library, 185 University Avenue, Electronic Classroom I
+    contact: minglu@rutgers.edu
+    country: us
+    end: 2018-01-12
+    eventbrite_id: ''
+    humandate: Jan 11-12, 2018
+    latitude: 40.741187
+    longitude: -74.17531
+    slug: 2018-01-11-rutgers
+    start: 2018-01-11
+    tags:
+    - {name: DC}
+    url: https://jfkoehler.github.io/2018-01-11-rutgers/
+    venue: Rutgers University
+  - address: Centenary Building, Room R220, Howard College Campus, King George V Avenue,
+      Durban
+    contact: tirok@ukzn.ac.za
+    country: za
+    end: 2018-01-12
+    eventbrite_id: ''
+    humandate: Jan 11-12, 2018
+    latitude: -29.866063
+    longitude: 30.982171
+    slug: 2018-01-11-UKZN-Civil
+    start: 2018-01-11
+    tags:
+    - {name: DC}
+    url: https://katrintirok.github.io/2018-01-11-UKZN-Civil/
+    venue: UKZN, Civil Engineering
   - address: Orchard Room, Discovery Building, 330 Orchard St., Madison, WI
     contact: ContactACI@lists.wisc.edu
     country: us
@@ -6969,34 +6998,5 @@ workshops:
     - {name: DC}
     url: https://ufrmeetup.github.io/2018-01-18-UF-R/
     venue: University of Florida
-  - address: Dana Library, 185 University Avenue, Electronic Classroom I
-    contact: minglu@rutgers.edu
-    country: US
-    end: 2018-01-12
-    eventbrite_id: ''
-    humandate: Jan 11-12, 2018
-    latitude: 40.741187
-    longitude: -74.17531
-    slug: 2018-01-11-rutgers
-    start: 2018-01-11
-    tags:
-    - {name: DC}
-    url: https://jfkoehler.github.io/2018-01-11-rutgers/
-    venue: Rutgers University
-  - address: Centenary Building, Room R220, Howard College Campus, King George V Avenue,
-      Durban
-    contact: tirok@ukzn.ac.za
-    country: ZA
-    end: 2018-01-12
-    eventbrite_id: ''
-    humandate: Jan 11-12, 2018
-    latitude: -29.866063
-    longitude: 30.982171
-    slug: 2018-01-11-UKZN-Civil
-    start: 2018-01-11
-    tags:
-    - {name: DC}
-    url: https://katrintirok.github.io/2018-01-11-UKZN-Civil/
-    venue: UKZN, Civil Engineering
 workshops_current: *id001
 workshops_past: *id002
