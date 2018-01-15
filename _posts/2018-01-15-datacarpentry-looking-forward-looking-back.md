@@ -1,7 +1,7 @@
 ---
 layout: post
-subheadline: "A Look Back and A Look Ahead from the Data Carpentry Steering Committee"
-title: "Data Carpentry: Building Community Teaching Universal Data Literacy"
+subheadline: "Data Carpentry: Building Community Teaching Universal Data Literacy"
+title: "A Look Back and A Look Ahead from the Data Carpentry Steering Committee"
 teaser: 
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
