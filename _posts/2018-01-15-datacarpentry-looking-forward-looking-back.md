@@ -39,7 +39,7 @@ Importantly, for workshops, we continue to meet those goals of building skills a
 
 What has made Data Carpentry possible and continue to grow has been the amazing support, work and enthusiasm of the community. Software Carpentry welcomed Data Carpentry into the community to expand the kinds of offerings available; instructors stepped up and started to teach Data Carpentry workshops; there have been hundreds of contributions to lessons, from the original Ecology ones to new curriculum; and so many have advocated for hosting workshops or supporting Data Carpentry in many ways.  
 
-![post-workshop survey word cloud](../images/workshop-word-cloud.png)
+![post-workshop survey word cloud](http://www.datacarpentry.org/images/workshop-word-cloud.png)
 
 As you can see in the word cloud of open-ended workshop survey responses (above), what stands out, is **"instructors"**. They are the strength of this organization. In that vision of *building community teaching universal data literacy* they are building community with each other, with learners in workshops and in the way that they work and interact with others every day. They are working to make data skills more accessible to all and empowering others to do work that has the potential to change science, scholarship and society. As a Steering Committee and Executive Director, we are truly grateful that so many have wanted to help create and be a part of this journey.  
 
