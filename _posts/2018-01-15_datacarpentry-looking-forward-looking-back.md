@@ -1,15 +1,15 @@
 ---
 layout: post
-subheadline:
+subheadline: "A Look Back and A Look Ahead from the Data Carpentry Steering Committee"
 title: "Data Carpentry: Building Community Teaching Universal Data Literacy"
-teaser: "A Look Back and A Look Ahead from the Data Carpentry Steering Committee"
+teaser: 
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
   - blog
 show_meta: true
 comments: true
-authors: ["Karen Cranston", "Hilmar Lapp", "Aleksandra Pawlik", "Karthik Ram", "Tracy Teal", "Ethan White"]
+authors: [Karen Cranston, Hilmar Lapp, Aleksandra Pawlik, Karthik Ram, Tracy Teal, Ethan White]
 ---
 
 On [May 8-9, 2014](https://software-carpentry.org/blog/2014/05/our-first-data-carpentry-workshop.html) Data Carpentry hosted its first workshop at the National Evolutionary Synthesis Center (NESCent). That workshop came out of an identified unmet need for the skills and perspectives to work effectively and reproducibly with data, as data became more pervasive in many areas of research. The biggest difference from other trainings, including Software Carpentry, was not so much what we taught (specific tools), but how we taught it -- with a focus on data management and analysis rather than writing software. In all our workshops, we use real publicly available data and the workshop is a narrative, going from start (data and project organization) to finish (analysis and visualization) through the course of the workshop, providing an onramp to using data skills in friendly, accessible workshops. The goal is to teach skills, and even more importantly, to show people what’s possible, and that they can do it, so people have the confidence and enthusiasm to go on to learn more and use these skills in their own research.
