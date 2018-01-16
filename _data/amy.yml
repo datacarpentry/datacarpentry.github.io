@@ -91,6 +91,7 @@ airports:
   name: Ann Arbor, MI
 - country: se
   instructors:
+  - {name: Olav Vahtras, user: vahtras_olav}
   - {name: Roman Valls Guimera, user: valls-guimera_roman}
   - {name: Matthias Nilsson, user: nilsson_matthias}
   - {name: Hadrien Gourlé, user: gourl_hadrien}
@@ -1195,12 +1196,6 @@ airports:
   latitude: -18.9932995
   longitude: 139.9069977
   name: Lorraine Airport
-- country: se
-  instructors:
-  - {name: Olav Vahtras, user: vahtras_olav}
-  latitude: 58.406971
-  longitude: 15.667521
-  name: Linköping City Airport
 - country: lu
   instructors:
   - {name: Luca Di Stasio, user: di-stasio_luca}
@@ -4345,7 +4340,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180116T150002Z
+timestamp: 20180116T160002Z
 workshops:
 - &id002
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
