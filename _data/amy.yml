@@ -544,7 +544,6 @@ airports:
   instructors:
   - {name: Aron Ahmadia, user: ahmadia_a}
   - {name: Jonathan Guyer, user: guyer_jonathan}
-  - {name: Kunal Marwaha, user: marwaha_kunal}
   - {name: Brian Miles, user: miles_brian}
   - {name: Rosario Robinson, user: robinson_rosario}
   - {name: Joshua Smith, user: smith_j}
@@ -1466,6 +1465,7 @@ airports:
   - {name: Jessica Hamrick, user: hamrick_jessica}
   - {name: Chris Holdgraf, user: holdgraf_c}
   - {name: Paul Ivanov, user: ivanov_p}
+  - {name: Kunal Marwaha, user: marwaha_kunal}
   - {name: Geoff Oxberry, user: oxberry_g}
   - {name: Fernando Perez, user: perez_f}
   - {name: Rochelle Terman, user: terman_rochelle}
@@ -4340,7 +4340,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180119T030002Z
+timestamp: 20180119T040002Z
 workshops:
 - &id002
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
