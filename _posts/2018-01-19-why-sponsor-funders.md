@@ -12,17 +12,16 @@ show_meta: true
 authors: ["Belinda Weaver"]
 ---
 
-[CarpentryCon 2018](http://www.carpentrycon.org/) planning is now well underway.
-We have chosen a [venue and a date](http://www.carpentrycon.org/), identified keynote speakers, and roughed out a program, but 
-we are still missing one vital piece: 
+[CarpentryCon 2018](http://www.carpentrycon.org/) planning is now well underway. We have chosen a [venue and a date](http://www.carpentrycon.org/), identified keynote speakers, and roughed out a program, but we are still missing one vital piece: 
 
 SPONSORS!
 
 ### Why sponsor CarpentryCon?
 
-Your sponsorship will help make this important conference possible. 
-By supporting us, you will help skill up the next generation of research leaders, people who will attend CarpentryCon to develop the skills needed to lead 21st century research, whether that be in academia or industry.
-Without the generosity of sponsors who support and share our vision, we will not be able to deliver the event our community needs. 
+CarpentryCon 2018 will teach the practical skills people need to lead 21st century research within academia and industry.
+By supporting us, you will help develop that next generation of research leaders, people who will attend CarpentryCon to develop the skills needed to take research forward.
+
+Without the generosity of sponsors who share our vision, we will not be able to deliver the event our research community needs. 
 Your support can help us
 
 - keep registration costs low so people aren't priced out of attending 
