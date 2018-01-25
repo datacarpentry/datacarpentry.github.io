@@ -3590,6 +3590,19 @@ badges:
   - {awarded: '2018-01-08', name: Fred Reiss, user: reiss_fred}
   - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil_2}
   - {awarded: '2018-01-10', name: Daniel Nolte, user: nolte_daniel}
+  - {awarded: '2018-01-24', name: Jose Fonseca, user: fonseca_jose}
+  - {awarded: '2018-01-24', name: Jennifer Koch, user: koch_jennifer}
+  - {awarded: '2018-01-24', name: Venkata Aditya Kovuri, user: kovuri_venkata-aditya}
+  - {awarded: '2018-01-24', name: Richard Vankoningsveld, user: vankoningsveld_richard}
+  - {awarded: '2018-01-24', name: Stephen Leak, user: leak_stephen}
+  - {awarded: '2018-01-24', name: Valentina Bonetti, user: bonetti_valentina}
+  - {awarded: '2018-01-24', name: Amy Beeston, user: beeston_amy}
+  - {awarded: '2018-01-24', name: Daniel Allan, user: allan_daniel}
+  - {awarded: '2018-01-24', name: Paddy Tobias, user: tobias_paddy}
+  - {awarded: '2018-01-24', name: Genie (Eugenie) Jackson, user: jackson_genie-eugenie}
+  - {awarded: '2018-01-24', name: Alice Harpole, user: harpole_alice}
+  - {awarded: '2018-01-24', name: Christopher Orth, user: orth_christopher}
+  - {awarded: '2018-01-24', name: Dafne van Kuppevelt, user: van-kuppevelt_dafne}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4255,6 +4268,15 @@ badges:
   - {awarded: '2018-01-08', name: Robin Elahi, user: elahi_robin}
   - {awarded: '2018-01-08', name: Yasmeen Shorish, user: shorish_yasmeen}
   - {awarded: '2018-01-08', name: Rémi Rampin, user: rampin_rmi}
+  - {awarded: '2018-01-24', name: Dennis Schmitz, user: schmitz_dennis}
+  - {awarded: '2018-01-24', name: Sam Nooij, user: nooij_sam}
+  - {awarded: '2018-01-24', name: Tyler Richards, user: richards_tyler}
+  - {awarded: '2018-01-24', name: Clifton Franklund, user: franklund_clifton}
+  - {awarded: '2018-01-24', name: Alison Valk, user: valk_alison}
+  - {awarded: '2018-01-24', name: Xiaohu Guo, user: guo_xiaohu}
+  - {awarded: '2018-01-24', name: Katina Toufexis, user: toufexis_katina}
+  - {awarded: '2018-01-24', name: Vinh Pham, user: pham_vinh}
+  - {awarded: '2018-01-24', name: Kayleigh Lino, user: lino_kayleigh}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4347,7 +4369,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180125T030002Z
+timestamp: 20180125T040002Z
 workshops:
 - &id002
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
