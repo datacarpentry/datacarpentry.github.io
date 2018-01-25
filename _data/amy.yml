@@ -3603,6 +3603,7 @@ badges:
   - {awarded: '2018-01-24', name: Alice Harpole, user: harpole_alice}
   - {awarded: '2018-01-24', name: Christopher Orth, user: orth_christopher}
   - {awarded: '2018-01-24', name: Dafne van Kuppevelt, user: van-kuppevelt_dafne}
+  - {awarded: '2018-01-24', name: Stefano Galvan, user: galvan_stefano}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4277,6 +4278,9 @@ badges:
   - {awarded: '2018-01-24', name: Katina Toufexis, user: toufexis_katina}
   - {awarded: '2018-01-24', name: Vinh Pham, user: pham_vinh}
   - {awarded: '2018-01-24', name: Kayleigh Lino, user: lino_kayleigh}
+  - {awarded: '2018-01-24', name: Hatim Rahman, user: rahman_hatim}
+  - {awarded: '2018-01-24', name: Holly Little, user: little_holly}
+  - {awarded: '2018-01-24', name: Matthew Kweskin, user: kweskin_matthew}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4369,7 +4373,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180125T040002Z
+timestamp: 20180125T050002Z
 workshops:
 - &id002
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
