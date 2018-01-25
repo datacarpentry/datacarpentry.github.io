@@ -4289,6 +4289,12 @@ badges:
   - {awarded: '2016-03-03', name: April Wright, user: wright_april}
   - {awarded: '2016-03-03', name: Mateusz Kuzak, user: kuzak_mateusz}
   - {awarded: '2017-06-01', name: Erin Alison Becker, user: becker_erin}
+  - {awarded: '2018-01-24', name: Colin Morris, user: morris_colin}
+  - {awarded: '2018-01-24', name: Katherine Koziar, user: koziar_katherine}
+  - {awarded: '2018-01-24', name: Allen Lee, user: lee_allen}
+  - {awarded: '2018-01-24', name: Nima Hejazi, user: hejazi_nima}
+  - {awarded: '2018-01-24', name: Peter R. Hoyt, user: hoyt_peter}
+  - {awarded: '2018-01-24', name: Brian Seok, user: seok_brian}
 - name: trainer
   persons:
   - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
@@ -4341,7 +4347,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180124T230002Z
+timestamp: 20180125T000002Z
 workshops:
 - &id002
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
