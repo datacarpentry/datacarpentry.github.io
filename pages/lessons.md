@@ -80,7 +80,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
-    <td>Timothée Poisot</td>
+    <td>Timothée Poisot, Rémi Rampin</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R</td>
