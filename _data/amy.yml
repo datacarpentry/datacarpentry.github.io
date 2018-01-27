@@ -1162,7 +1162,7 @@ airports:
   - {name: Kesson Magid, user: magid_kesson}
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Alexander James Morley, user: morley_alexander}
-  - {name: Martin Hadley, user: hadley_martin}
+  - {name: Martin John Hadley, user: hadley_martin}
   - {name: Julian Jordan, user: jordan_julian}
   - {name: David Wright, user: wright_david}
   - {name: Stuart Grieve, user: grieve_stuart}
@@ -3410,7 +3410,7 @@ badges:
   - {awarded: '2017-07-14', name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
   - {awarded: '2017-07-14', name: Scott Peterson, user: peterson_scott}
-  - {awarded: '2017-07-14', name: Martin Hadley, user: hadley_martin}
+  - {awarded: '2017-07-14', name: Martin John Hadley, user: hadley_martin}
   - {awarded: '2017-07-14', name: Meghan Sinclair-Black, user: sinclair-black_meghan}
   - {awarded: '2017-07-14', name: Rene Heim, user: heim_rene}
   - {awarded: '2017-07-19', name: Yee Mey Seah, user: seah_yee-mey}
@@ -4382,7 +4382,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180127T110002Z
+timestamp: 20180127T120002Z
 workshops:
 - &id002
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
