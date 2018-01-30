@@ -4331,6 +4331,12 @@ badges:
   - {awarded: '2018-01-26', name: Rémi Rampin, user: rampin_rmi}
   - {awarded: '2018-01-26', name: Jane Wyngaard, user: wyngaard_jane}
   - {awarded: '2018-01-26', name: Will Pitchers, user: pitchers_w}
+  - {awarded: '2018-01-30', name: Anita Schürch, user: schurch_anita}
+  - {awarded: '2018-01-30', name: Sue McClatchy, user: mcclatchy_susan}
+  - {awarded: '2018-01-30', name: Joshua Herr, user: herr_joshua}
+  - {awarded: '2018-01-30', name: Ming Tang, user: tang_ming_2}
+  - {awarded: '2018-01-30', name: Lex Nederbragt, user: nederbragt_l}
+  - {awarded: '2018-01-30', name: Fotis Psomopoulos, user: psomopoulos_fotis}
 - name: trainer
   persons:
   - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
@@ -4383,7 +4389,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
     pr, si, th, us, za]
-timestamp: 20180130T180002Z
+timestamp: 20180130T190002Z
 workshops:
 - &id002
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
