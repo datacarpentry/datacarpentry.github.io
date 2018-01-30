@@ -7,7 +7,7 @@ header:
 permalink: "/jobs/"
 ---
 
-### Library Carpentry Coordinator Position
+## Library Carpentry Coordinator Position
 
 The Carpentries is a non-profit volunteer organization with a mission of building community and teaching data literacy. We empower people to effectively use computational and data skills in their work through accessible and inclusive short, impactful workshops and train instructors in educational pedagogy to teach these skills. 
 
@@ -17,7 +17,7 @@ The Carpentries (a joint project of Software and Data Carpentry) is looking to h
 
 This position is funded for two years by an IMLS grant to the California Digital Library (CDL).  Although hosted at The Carpentries, this position will work closely with CDL and its digital curation team, University of California Curtation Center (UC3).  
 
-#### Job responsibilities:
+### Job responsibilities:
 
 - Evaluate the current offerings of Library Carpentry in the US.
 - Work across stakeholder groups to explore new programs and modules. 
@@ -33,7 +33,7 @@ feedback).
 - Working with Carpentry leadership, assist in Strategic Planning, strategic planning for Library Carpentry, prioritizing and guiding future development of program. Pursue outside collaborations and funding opportunities for future development including developing an engaged community of librarians to contribute to the program. Foster an engaged open community for future maintenance and enhancement.
 - Provides periodic progress reports outlining key activities and progress toward achieving overall goals. Develops and reports on metrics/key performance indicators and provides corresponding analysis.
 
-#### Job qualifications
+### Job qualifications
 
 - Bachelor's degree in related area and/or a minimum of two to three years of data management, data/software skills training, and/or digital curation.
 - Extensive knowledge of the Software Carpentry and/or Data Carpentry pedagogy and community norms.
