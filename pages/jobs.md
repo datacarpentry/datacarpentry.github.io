@@ -56,4 +56,8 @@ feedback).
 
 Compensation will be negotiated commensurate with experience
 
+### To Apply
+
+To apply, please send your resume or CV and a cover letter to [jobs@carpentries.org](mailto:jobs@carpentries.org)
+
 
