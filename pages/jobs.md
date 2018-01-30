@@ -45,7 +45,7 @@ feedback).
 - Demonstrated understanding of the research data processes including data collection, description, sharing, preservation, and management.
 - Knowledge of and experience with data driven research and the emerging importance of data management and sharing.
 
-#### Preferred 
+### Preferred 
 
 - Familiarity with basic user assessment techniques and demonstrated experience working with library communities.
 - Good understanding of software development techniques and the emerging importance of web scripting and software development in the research process.
