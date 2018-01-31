@@ -44,10 +44,8 @@ In the Carpentries model, instructors are trained and certified in the Carpentri
 With the “train-the-trainer” model, the Carpentries are built to create learning networks and capacity for training through active communities and shared, collaborative lessons. They have used this model to scale with parallel approaches of developing lessons, offering workshops, and expanding the community. The LC community has also used this model and our grant project aims to extend this further.
 
 ### Next Steps
-**As an immediate next step, CDL has begun recruiting for a [Library Carpentry Project Coordinator](https://jobs.ucop.edu/applicants/Central?quickFind=60770).**  This will be a 2-year and grant funded position.  You can apply at the [UC Office of the President website](https://jobs.ucop.edu/applicants/Central?quickFind=60770).  Due date is November 31, 2017.
+**As an immediate next step, the Carpentries has begun recruiting for a [Library Carpentry Project Coordinator](http://www.datacarpentry.org/jobs/).**  This will be a 2-year and grant funded position. 
 
-While this position will report to CDL’s Director of [University of California Curation Center](http://uc3.cdlib.org/) (UC3), this position will focus on extending LC activities in the USA and working globally to gain capacity and reach for the Library Carpentry community and Carpentries staff.
-
-For more information on this project, please feel free to contact CDL’s UC3 team at [uc3@ucop.edu](mailto:uc3@ucop.edu). You can also follow UC3 on Twitter at [@UC3CDL](https://twitter.com/UC3CDL)).  To learn more about Library Carpentry, you can visit [https://librarycarpentry.github.io](https://librarycarpentry.github.io/) and follow on Twitter at [@LibCarpentry](https://twitter.com/LibCarpentry).
+For more information on this project, please feel free to contact the Carpentries or CDL’s UC3 team at [uc3@ucop.edu](mailto:uc3@ucop.edu). You can also follow UC3 on Twitter at [@UC3CDL](https://twitter.com/UC3CDL)).  To learn more about Library Carpentry, you can visit [https://librarycarpentry.github.io](https://librarycarpentry.github.io/) and follow on Twitter at [@LibCarpentry](https://twitter.com/LibCarpentry).
 
 We look forward to these next steps for Library Carpentry and a growing network of data savvy librarians.
