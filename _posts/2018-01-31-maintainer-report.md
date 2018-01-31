@@ -33,7 +33,7 @@ best move forward their important work.
 
 Through this process, I had the opportunity to talk individually with
 nearly half (46%) of current Maintainers. The emergent themes from 
-these conversations are detailed in the [Carpentry Maintainer Interviews - 2017 Report]() and include:
+these conversations are detailed in the [Carpentry Maintainer Interviews - 2017 Report]({{ site.urlimg }}blog/Report-maintainer-interviews-2017-public-version.pdf) and include:
 
 - Aspects of the Maintainer experience that people enjoy are the opportunity to shape the lesson, to interact with the community, the chance to learn new things, and the ability to have a larger impact.
 - Major issues that Maintainers experience are a sense of being overwhelmed, wanting more guidance and help, clarity about their roles and authority, and overall negative feelings about their level of involvement in their lessons.
