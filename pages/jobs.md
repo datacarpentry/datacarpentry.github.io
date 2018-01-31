@@ -15,7 +15,7 @@ The Carpentries pedagogy is based on providing a goal-oriented, hands-on, trial-
 
 The Carpentries (a joint project of Software and Data Carpentry) is looking to hire a Library Carpentry Coordinator to further develop Library Carpentry and continue to build a community and curriculum. A successful Library Carpentry Coordinator is passionate about bringing data skills and perspectives to the library community and supporting libraries in building local capacity for training. The Library Carpentry Coordinator will use product management skills, project management skills, software/data skills, and knowledge of the Data Carpentry & Software Carpentry community to promote and expand the reach of the Library Carpentry across the US. Applications are open, and the position will remain open until filled.
 
-This position is funded for two years by an IMLS grant to the California Digital Library (CDL).  Although hosted at The Carpentries, this position will work closely with CDL and its digital curation team, University of California Curtation Center (UC3).  
+This position is funded for two years by an IMLS grant to the California Digital Library (CDL).  Although hosted at The Carpentries, this position will work closely with CDL and its digital curation team, [University of California Curation Center (UC3)](https://www.cdlib.org/uc3/).  
 
 ### Job responsibilities:
 
