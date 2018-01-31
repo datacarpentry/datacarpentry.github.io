@@ -1162,7 +1162,7 @@ airports:
   - {name: Kesson Magid, user: magid_kesson}
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Alexander James Morley, user: morley_alexander}
-  - {name: Martin Hadley, user: hadley_martin}
+  - {name: Martin John Hadley, user: hadley_martin}
   - {name: Julian Jordan, user: jordan_julian}
   - {name: David Wright, user: wright_david}
   - {name: Stuart Grieve, user: grieve_stuart}
@@ -1484,6 +1484,7 @@ airports:
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
   - {name: Pauline A. Fujita, user: fujita_pauline}
+  - {name: Caryn Johansen, user: johansen_caryn}
   - {name: Nima Hejazi, user: hejazi_nima}
   - {name: Kellie Ottoboni, user: ottoboni_kellie}
   - {name: Kelly Rowland, user: rowland_kelly}
@@ -3410,7 +3411,7 @@ badges:
   - {awarded: '2017-07-14', name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
   - {awarded: '2017-07-14', name: Scott Peterson, user: peterson_scott}
-  - {awarded: '2017-07-14', name: Martin Hadley, user: hadley_martin}
+  - {awarded: '2017-07-14', name: Martin John Hadley, user: hadley_martin}
   - {awarded: '2017-07-14', name: Meghan Sinclair-Black, user: sinclair-black_meghan}
   - {awarded: '2017-07-14', name: Rene Heim, user: heim_rene}
   - {awarded: '2017-07-19', name: Yee Mey Seah, user: seah_yee-mey}
@@ -3590,6 +3591,21 @@ badges:
   - {awarded: '2018-01-08', name: Fred Reiss, user: reiss_fred}
   - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil_2}
   - {awarded: '2018-01-10', name: Daniel Nolte, user: nolte_daniel}
+  - {awarded: '2018-01-24', name: Jose Fonseca, user: fonseca_jose}
+  - {awarded: '2018-01-24', name: Jennifer Koch, user: koch_jennifer}
+  - {awarded: '2018-01-24', name: Venkata Aditya Kovuri, user: kovuri_venkata-aditya}
+  - {awarded: '2018-01-24', name: Richard Vankoningsveld, user: vankoningsveld_richard}
+  - {awarded: '2018-01-24', name: Stephen Leak, user: leak_stephen}
+  - {awarded: '2018-01-24', name: Valentina Bonetti, user: bonetti_valentina}
+  - {awarded: '2018-01-24', name: Amy Beeston, user: beeston_amy}
+  - {awarded: '2018-01-24', name: Daniel Allan, user: allan_daniel}
+  - {awarded: '2018-01-24', name: Paddy Tobias, user: tobias_paddy}
+  - {awarded: '2018-01-24', name: Genie (Eugenie) Jackson, user: jackson_genie-eugenie}
+  - {awarded: '2018-01-24', name: Alice Harpole, user: harpole_alice}
+  - {awarded: '2018-01-24', name: Christopher Orth, user: orth_christopher}
+  - {awarded: '2018-01-24', name: Dafne van Kuppevelt, user: van-kuppevelt_dafne}
+  - {awarded: '2018-01-24', name: Stefano Galvan, user: galvan_stefano}
+  - {awarded: '2018-01-31', name: KEVIN ALQUICIRA HERNÁNDEZ, user: alquicira-hernndez_kevin}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4255,6 +4271,18 @@ badges:
   - {awarded: '2018-01-08', name: Robin Elahi, user: elahi_robin}
   - {awarded: '2018-01-08', name: Yasmeen Shorish, user: shorish_yasmeen}
   - {awarded: '2018-01-08', name: Rémi Rampin, user: rampin_rmi}
+  - {awarded: '2018-01-24', name: Dennis Schmitz, user: schmitz_dennis}
+  - {awarded: '2018-01-24', name: Sam Nooij, user: nooij_sam}
+  - {awarded: '2018-01-24', name: Tyler Richards, user: richards_tyler}
+  - {awarded: '2018-01-24', name: Clifton Franklund, user: franklund_clifton}
+  - {awarded: '2018-01-24', name: Alison Valk, user: valk_alison}
+  - {awarded: '2018-01-24', name: Xiaohu Guo, user: guo_xiaohu}
+  - {awarded: '2018-01-24', name: Katina Toufexis, user: toufexis_katina}
+  - {awarded: '2018-01-24', name: Vinh Pham, user: pham_vinh}
+  - {awarded: '2018-01-24', name: Kayleigh Lino, user: lino_kayleigh}
+  - {awarded: '2018-01-24', name: Hatim Rahman, user: rahman_hatim}
+  - {awarded: '2018-01-24', name: Holly Little, user: little_holly}
+  - {awarded: '2018-01-24', name: Matthew Kweskin, user: kweskin_matthew}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4289,6 +4317,27 @@ badges:
   - {awarded: '2016-03-03', name: April Wright, user: wright_april}
   - {awarded: '2016-03-03', name: Mateusz Kuzak, user: kuzak_mateusz}
   - {awarded: '2017-06-01', name: Erin Alison Becker, user: becker_erin}
+  - {awarded: '2018-01-24', name: Colin Morris, user: morris_colin}
+  - {awarded: '2018-01-24', name: Katherine Koziar, user: koziar_katherine}
+  - {awarded: '2018-01-24', name: Allen Lee, user: lee_allen}
+  - {awarded: '2018-01-24', name: Nima Hejazi, user: hejazi_nima}
+  - {awarded: '2018-01-24', name: Peter R. Hoyt, user: hoyt_peter}
+  - {awarded: '2018-01-24', name: Brian Seok, user: seok_brian}
+  - {awarded: '2018-01-26', name: Tania Rebeca Allard, user: allard_tania}
+  - {awarded: '2018-01-26', name: Anne Fouilloux, user: fouilloux_anne}
+  - {awarded: '2018-01-26', name: Ana Costa Conrado, user: costa-conrado_ana}
+  - {awarded: '2018-01-26', name: Katrin Leinweber, user: leinweber_katrin}
+  - {awarded: '2018-01-26', name: Jeffrey Oliver, user: oliver_jeffrey}
+  - {awarded: '2018-01-26', name: David Mawdsley, user: mawdsley_david}
+  - {awarded: '2018-01-26', name: Rémi Rampin, user: rampin_rmi}
+  - {awarded: '2018-01-26', name: Jane Wyngaard, user: wyngaard_jane}
+  - {awarded: '2018-01-26', name: Will Pitchers, user: pitchers_w}
+  - {awarded: '2018-01-30', name: Anita Schürch, user: schurch_anita}
+  - {awarded: '2018-01-30', name: Sue McClatchy, user: mcclatchy_susan}
+  - {awarded: '2018-01-30', name: Joshua Herr, user: herr_joshua}
+  - {awarded: '2018-01-30', name: Ming Tang, user: tang_ming_2}
+  - {awarded: '2018-01-30', name: Lex Nederbragt, user: nederbragt_l}
+  - {awarded: '2018-01-30', name: Fotis Psomopoulos, user: psomopoulos_fotis}
 - name: trainer
   persons:
   - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
@@ -4339,11 +4388,40 @@ flags:
   airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, et, fr, gb, gr, hk,
     ie, il, in, it, jp, lt, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw,
     us, ve, za]
-  workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
-    pr, si, th, us, za]
-timestamp: 20180124T200003Z
+  workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
+    pl, pr, si, th, us, za]
+timestamp: 20180131T170002Z
 workshops:
 - &id002
+  - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
+      Münster
+    contact: phdnet-mpims@mpi-muenster.mpg.de
+    country: de
+    end: 2018-01-30
+    eventbrite_id: ''
+    humandate: Jan 29-30, 2018
+    latitude: 51.968003
+    longitude: 7.59117
+    slug: 2018-01-29-maxplanck
+    start: 2018-01-29
+    tags:
+    - {name: DC}
+    url: https://liz-is.github.io/2018-01-29-maxplanck/
+    venue: Max Planck Institute for Molecular Biomedicine
+  - address: HBS
+    contact: peter.smyth@manchester.ac.uk
+    country: gb
+    end: 2018-01-30
+    eventbrite_id: ''
+    humandate: Jan 29-30, 2018
+    latitude: 53.466722
+    longitude: -2.236463
+    slug: 2018-01-29-MAN-SS-PILOT02
+    start: 2018-01-29
+    tags:
+    - {name: DC}
+    url: https://petersmyth12.github.io/2018-01-29-MAN-SS-PILOT02/
+    venue: University of Manchester
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
     contact: minglu@rutgers.edu
     country: us
@@ -6979,35 +7057,6 @@ workshops:
     - {name: DC}
     url: https://dh-southernafrica.github.io/2018-01-31-WITS/
     venue: Wits University
-  - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
-      Münster
-    contact: phdnet-mpims@mpi-muenster.mpg.de
-    country: DE
-    end: 2018-01-30
-    eventbrite_id: ''
-    humandate: Jan 29-30, 2018
-    latitude: 51.968003
-    longitude: 7.59117
-    slug: 2018-01-29-maxplanck
-    start: 2018-01-29
-    tags:
-    - {name: DC}
-    url: https://liz-is.github.io/2018-01-29-maxplanck/
-    venue: Max Planck Institute for Molecular Biomedicine
-  - address: 428 Armory (CITL rooms)
-    contact: training@cse.illinois.edu
-    country: US
-    end: 2018-01-26
-    eventbrite_id: '41685396142'
-    humandate: Jan 25-26, 2018
-    latitude: 40.1047489
-    longitude: -88.2341386
-    slug: 2018-01-25-uiuc
-    start: 2018-01-25
-    tags:
-    - {name: DC}
-    url: https://swc-uiuc.github.io/2018-01-25-uiuc/
-    venue: University of Illinois
   - address: Marston Science Library Rm. L136
     contact: shawntaylor@weecology.org
     country: US
