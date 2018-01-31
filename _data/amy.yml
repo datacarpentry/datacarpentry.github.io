@@ -4387,11 +4387,40 @@ flags:
   airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, et, fr, gb, gr, hk,
     ie, il, in, it, jp, lt, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw,
     us, ve, za]
-  workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
-    pr, si, th, us, za]
-timestamp: 20180131T050002Z
+  workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
+    pl, pr, si, th, us, za]
+timestamp: 20180131T060002Z
 workshops:
 - &id002
+  - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
+      Münster
+    contact: phdnet-mpims@mpi-muenster.mpg.de
+    country: de
+    end: 2018-01-30
+    eventbrite_id: ''
+    humandate: Jan 29-30, 2018
+    latitude: 51.968003
+    longitude: 7.59117
+    slug: 2018-01-29-maxplanck
+    start: 2018-01-29
+    tags:
+    - {name: DC}
+    url: https://liz-is.github.io/2018-01-29-maxplanck/
+    venue: Max Planck Institute for Molecular Biomedicine
+  - address: HBS
+    contact: peter.smyth@manchester.ac.uk
+    country: gb
+    end: 2018-01-30
+    eventbrite_id: ''
+    humandate: Jan 29-30, 2018
+    latitude: 53.466722
+    longitude: -2.236463
+    slug: 2018-01-29-MAN-SS-PILOT02
+    start: 2018-01-29
+    tags:
+    - {name: DC}
+    url: https://petersmyth12.github.io/2018-01-29-MAN-SS-PILOT02/
+    venue: University of Manchester
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
     contact: minglu@rutgers.edu
     country: us
@@ -7027,35 +7056,6 @@ workshops:
     - {name: DC}
     url: https://dh-southernafrica.github.io/2018-01-31-WITS/
     venue: Wits University
-  - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
-      Münster
-    contact: phdnet-mpims@mpi-muenster.mpg.de
-    country: DE
-    end: 2018-01-30
-    eventbrite_id: ''
-    humandate: Jan 29-30, 2018
-    latitude: 51.968003
-    longitude: 7.59117
-    slug: 2018-01-29-maxplanck
-    start: 2018-01-29
-    tags:
-    - {name: DC}
-    url: https://liz-is.github.io/2018-01-29-maxplanck/
-    venue: Max Planck Institute for Molecular Biomedicine
-  - address: HBS
-    contact: peter.smyth@manchester.ac.uk
-    country: GB
-    end: 2018-01-30
-    eventbrite_id: ''
-    humandate: Jan 29-30, 2018
-    latitude: 53.466722
-    longitude: -2.236463
-    slug: 2018-01-29-MAN-SS-PILOT02
-    start: 2018-01-29
-    tags:
-    - {name: DC}
-    url: https://petersmyth12.github.io/2018-01-29-MAN-SS-PILOT02/
-    venue: University of Manchester
   - address: Marston Science Library Rm. L136
     contact: shawntaylor@weecology.org
     country: US
