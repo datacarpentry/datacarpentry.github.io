@@ -3605,6 +3605,7 @@ badges:
   - {awarded: '2018-01-24', name: Christopher Orth, user: orth_christopher}
   - {awarded: '2018-01-24', name: Dafne van Kuppevelt, user: van-kuppevelt_dafne}
   - {awarded: '2018-01-24', name: Stefano Galvan, user: galvan_stefano}
+  - {awarded: '2018-01-31', name: KEVIN ALQUICIRA HERNÁNDEZ, user: alquicira-hernndez_kevin}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4389,7 +4390,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180131T160002Z
+timestamp: 20180131T170002Z
 workshops:
 - &id002
   - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
