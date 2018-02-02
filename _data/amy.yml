@@ -11,9 +11,9 @@ airports:
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
   - {name: Nora Mitchell, user: mitchell_nora}
-  - {name: Andrew McLeod Fraser, user: fraser_andrew}
   - {name: Mike Heroux, user: heroux_mike}
   - {name: Christoph Junghans, user: junghans_christoph}
+  - {name: Andy Fraser, user: fraser_andy}
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
@@ -3344,7 +3344,7 @@ badges:
   - {awarded: '2017-01-25', name: Rob Burnap, user: burnap_rob}
   - {awarded: '2017-01-25', name: Linh B Ngo, user: ngo_linh}
   - {awarded: '2017-01-25', name: Carolyn Voter, user: voter_carolyn}
-  - {awarded: '2017-01-25', name: Andrew McLeod Fraser, user: fraser_andrew}
+  - {awarded: '2017-01-25', name: Andy Fraser, user: fraser_andy}
   - {awarded: '2017-01-25', name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {awarded: '2017-01-25', name: Lauren Ko, user: ko_lauren}
   - {awarded: '2017-01-25', name: Thomas Morrell, user: morrell_thomas}
@@ -4439,7 +4439,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180202T200002Z
+timestamp: 20180202T210002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
