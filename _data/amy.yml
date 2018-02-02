@@ -3617,6 +3617,7 @@ badges:
   - {awarded: '2018-02-01', name: Noah Spies, user: spies_noah}
   - {awarded: '2018-02-01', name: Vikram Chhatre, user: chhatre_vikram}
   - {awarded: '2018-02-01', name: Tomas Muller, user: muller_tomas}
+  - {awarded: '2018-02-02', name: Katerina Michalickova, user: michalickova_katerina}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4298,6 +4299,7 @@ badges:
   - {awarded: '2018-02-01', name: Yo Yehudi, user: yehudi_yo}
   - {awarded: '2018-02-01', name: Robert Fleet, user: fleet_robert}
   - {awarded: '2018-02-01', name: Drew Wright, user: wright_drew}
+  - {awarded: '2018-02-02', name: Haedar Hadi, user: hadi_haedar}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4405,7 +4407,7 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180202T160002Z
+timestamp: 20180202T170002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
