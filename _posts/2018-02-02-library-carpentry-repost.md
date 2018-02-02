@@ -8,7 +8,7 @@ Categories:
  - blog
 comments: true
 show_meta: true
-date: 2017-11-06
+date: 2018-02-02
 authors: ["John Chodacki", "Tracy Teal"]
 ---
 
