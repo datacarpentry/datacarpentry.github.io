@@ -4405,9 +4405,24 @@ flags:
     us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180202T050002Z
+timestamp: 20180202T060002Z
 workshops:
 - &id002
+  - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
+      Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein
+    contact: juan.steyn@nwu.ac.za
+    country: za
+    end: 2018-02-01
+    eventbrite_id: ''
+    humandate: Jan 31-Feb 01, 2018
+    latitude: -26.1904893
+    longitude: 28.0260775
+    slug: 2018-01-31-WITS
+    start: 2018-01-31
+    tags:
+    - {name: DC}
+    url: https://dh-southernafrica.github.io/2018-01-31-WITS/
+    venue: Wits University
   - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
       Münster
     contact: phdnet-mpims@mpi-muenster.mpg.de
@@ -7057,21 +7072,6 @@ workshops:
     - {name: DC}
     url: https://ljcohen.github.io/2018-02-07-smithsonian/
     venue: Smithsonian Institution, National Museum of Natural History
-  - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
-      Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein
-    contact: juan.steyn@nwu.ac.za
-    country: ZA
-    end: 2018-02-01
-    eventbrite_id: ''
-    humandate: Jan 31-Feb 01, 2018
-    latitude: -26.1904893
-    longitude: 28.0260775
-    slug: 2018-01-31-WITS
-    start: 2018-01-31
-    tags:
-    - {name: DC}
-    url: https://dh-southernafrica.github.io/2018-01-31-WITS/
-    venue: Wits University
   - address: Marston Science Library Rm. L136
     contact: shawntaylor@weecology.org
     country: US
