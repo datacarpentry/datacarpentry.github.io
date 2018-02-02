@@ -1,7 +1,6 @@
 airports:
 - country: dk
   instructors:
-  - {name: Dan 
   - {name: Dan Mønster, user: mnster_dan}
   - {name: Kristian Tylén, user: tyln_kristian}
   - {name: Kristoffer Nielbo, user: nielbo_kristoffer}
