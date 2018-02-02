@@ -4332,6 +4332,8 @@ badges:
   - {awarded: '2018-02-01', name: Robert Fleet, user: fleet_robert}
   - {awarded: '2018-02-01', name: Drew Wright, user: wright_drew}
   - {awarded: '2018-02-02', name: Haedar Hadi, user: hadi_haedar}
+  - {awarded: '2018-02-02', name: Rebecca Dikow, user: dikow_rebecca}
+  - {awarded: '2018-02-02', name: Nancy Leticia Gonzalez, user: gonzalez_nancy-leticia}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4439,7 +4441,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180202T210002Z
+timestamp: 20180202T220002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
