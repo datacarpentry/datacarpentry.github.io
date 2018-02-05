@@ -14,7 +14,7 @@ authors: ["John Chodacki", "Tracy Teal"]
 
 **California Digital Library is hiring for a Library Carpentry Project Coordinator!**
 
-[Job posting and application](https://jobs.ucop.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1517594693984)
+[Job posting and application](https://jobs.ucop.edu/applicants/Central?quickFind=60770)
 
 *The deadline for the Library Carpentry Project Coordinator position has just been extended. New deadline February 21, 2018.*
 
