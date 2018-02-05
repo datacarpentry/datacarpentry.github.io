@@ -3650,6 +3650,10 @@ badges:
   - {awarded: '2018-02-01', name: Vikram Chhatre, user: chhatre_vikram}
   - {awarded: '2018-02-01', name: Tomas Muller, user: muller_tomas}
   - {awarded: '2018-02-02', name: Katerina Michalickova, user: michalickova_katerina}
+  - {awarded: '2018-02-05', name: Thomas Mellan, user: mellan_thomas}
+  - {awarded: '2018-02-05', name: Lucy Whalley, user: whalley_lucy}
+  - {awarded: '2018-02-05', name: Amit Mandal, user: mandal_amit}
+  - {awarded: '2018-02-05', name: Eamonn Murray, user: murray_eamonn}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4271,7 +4275,7 @@ badges:
   - {awarded: '2017-10-09', name: Ashley L Hetrick, user: hetrick_ashley}
   - {awarded: '2017-10-13', name: Kayla Peck, user: peck_k}
   - {awarded: '2017-10-13', name: Aniello Infante, user: infante_aniello}
-  - {awarded: '2017-10-13', name: Matthew Durrant, user: durrant_matthew}
+  - {awarded: '2017-10-13', name: Matthew George Durrant, user: durrant_matthew}
   - {awarded: '2017-10-13', name: Jake Parker, user: parker_jake}
   - {awarded: '2017-10-13', name: Zak (I.W) van Heerden, user: van-heerden_zak-iw}
   - {awarded: '2017-10-20', name: Arindam Basu, user: basu_arindam}
@@ -4441,7 +4445,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180205T160002Z
+timestamp: 20180205T170002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
