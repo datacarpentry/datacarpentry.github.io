@@ -4445,7 +4445,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180206T000002Z
+timestamp: 20180206T010002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
@@ -7084,6 +7084,20 @@ workshops:
     - {name: DC}
     url: https://swc-uiuc.github.io/2018-02-20-uiuc/
     venue: University of Illinois
+  - address: Active Learning Spaces in C5A (430-435), Macquarie University
+    contact: adela@fedarch.org
+    country: AU
+    end: 2018-02-21
+    eventbrite_id: '42413586178'
+    humandate: Feb 20-21, 2018
+    latitude: -33.775015
+    longitude: 151.112545
+    slug: 2018-02-20-MQU-DC
+    start: 2018-02-20
+    tags:
+    - {name: DC}
+    url: https://adivea.github.io/2018-02-20-MQU-DC/
+    venue: Macquarie University
   - address: Collage of Natural and Computational Science  - Zoological Science Lab
     contact: mesfin.diro@aau.edu.et
     country: ET
