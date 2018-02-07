@@ -3654,6 +3654,13 @@ badges:
   - {awarded: '2018-02-05', name: Lucy Whalley, user: whalley_lucy}
   - {awarded: '2018-02-05', name: Amit Mandal, user: mandal_amit}
   - {awarded: '2018-02-05', name: Eamonn Murray, user: murray_eamonn}
+  - {awarded: '2018-02-06', name: Kyle Niemeyer, user: niemeyer_kyle}
+  - {awarded: '2018-02-06', name: Katrin Leinweber, user: leinweber_katrin}
+  - {awarded: '2018-02-06', name: Juan Eiros Zamora, user: eiros-zamora_juan}
+  - {awarded: '2018-02-06', name: Brendan Burkart, user: burkart_brendan}
+  - {awarded: '2018-02-06', name: Richard Berry, user: berry_richard}
+  - {awarded: '2018-02-06', name: Amy Olex, user: olex_amy}
+  - {awarded: '2018-02-06', name: Amulya Pervaje, user: pervaje_amulya}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4338,6 +4345,7 @@ badges:
   - {awarded: '2018-02-02', name: Haedar Hadi, user: hadi_haedar}
   - {awarded: '2018-02-02', name: Rebecca Dikow, user: dikow_rebecca}
   - {awarded: '2018-02-02', name: Nancy Leticia Gonzalez, user: gonzalez_nancy-leticia}
+  - {awarded: '2018-02-06', name: Jazmin Berlanga Medina, user: berlanga-medina_jazmin}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4445,7 +4453,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180206T230002Z
+timestamp: 20180207T000002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
