@@ -3661,6 +3661,7 @@ badges:
   - {awarded: '2018-02-06', name: Richard Berry, user: berry_richard}
   - {awarded: '2018-02-06', name: Amy Olex, user: olex_amy}
   - {awarded: '2018-02-06', name: Amulya Pervaje, user: pervaje_amulya}
+  - {awarded: '2018-02-07', name: Matt Critchlow, user: critchlow_matt}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4346,6 +4347,7 @@ badges:
   - {awarded: '2018-02-02', name: Rebecca Dikow, user: dikow_rebecca}
   - {awarded: '2018-02-02', name: Nancy Leticia Gonzalez, user: gonzalez_nancy-leticia}
   - {awarded: '2018-02-06', name: Jazmin Berlanga Medina, user: berlanga-medina_jazmin}
+  - {awarded: '2018-02-07', name: Susan (Sue) Zwicker, user: zwicker_susan-sue}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4453,7 +4455,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180207T170003Z
+timestamp: 20180207T180002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
