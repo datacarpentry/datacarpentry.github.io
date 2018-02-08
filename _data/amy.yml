@@ -1244,6 +1244,7 @@ airports:
   - {name: JC Leyder, user: leyder_jean-christophe}
   - {name: Benjamin Laken, user: laken_benjamin}
   - {name: Andrés Díaz-Gil, user: diaz-gil_andres}
+  - {name: Joaquín Morís, user: moris_joaquin}
   latitude: 40.472222
   longitude: -3.560833
   name: Madrid
@@ -1590,12 +1591,6 @@ airports:
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
-- country: es
-  instructors:
-  - {name: Joaquín Morís, user: moris_joaquin}
-  latitude: 43.56339
-  longitude: -6.032085
-  name: Asturias Airport
 - country: us
   instructors:
   - {name: Amy Boyle, user: boyle_amy}
@@ -4455,7 +4450,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180208T210002Z
+timestamp: 20180208T220002Z
 workshops:
 - &id002
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
