@@ -18,7 +18,7 @@ I even confessed to my colleagues that the data I left behind for up and coming 
 
 See for yourself. Read the [report]({{ site.urlimg }}/Data-Carpentry-Assessment-Report-Published.pdf) of the recent analysis of Data Carpentry’s post-workshop surveys. 
 
-You can run your own analysis, too! The data is available in the [assessment repo](https://github.com/datacarpentry/workshop-survey-data) on GitHub.
+You can run your own analysis, too! The data is available in the [assessment repo](https://github.com/carpentries/assessment) on GitHub.
 
 Data Carpentry workshops have made a meaningful impact on the way learners view their ability to complete computational tasks. Learners have expressed satisfaction with workshop content and appreciation for the caliber of their instructors. Learners self-reported improved levels of data management and analysis skills following Data Carpentry workshops. 
 
