@@ -4450,9 +4450,23 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180209T050002Z
+timestamp: 20180209T060002Z
 workshops:
 - &id002
+  - address: 10th St. & Constitution Ave. NW, Washington, DC 20560
+    contact: Beth Stern sternb@si.edu
+    country: us
+    end: 2018-02-08
+    eventbrite_id: ''
+    humandate: Feb 07-08, 2018
+    latitude: 38.891266
+    longitude: -77.026065
+    slug: 2018-02-07-smithsonian
+    start: 2018-02-07
+    tags:
+    - {name: DC}
+    url: https://ljcohen.github.io/2018-02-07-smithsonian/
+    venue: Smithsonian Institution, National Museum of Natural History
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
       Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein
     contact: juan.steyn@nwu.ac.za
@@ -7117,20 +7131,6 @@ workshops:
     - {name: DC}
     url: https://mesfind.github.io/2018-02-08-AAU/
     venue: Data Carpentry Workshop at Center for Environmental Sciences
-  - address: 10th St. & Constitution Ave. NW, Washington, DC 20560
-    contact: Beth Stern sternb@si.edu
-    country: US
-    end: 2018-02-08
-    eventbrite_id: ''
-    humandate: Feb 07-08, 2018
-    latitude: 38.891266
-    longitude: -77.026065
-    slug: 2018-02-07-smithsonian
-    start: 2018-02-07
-    tags:
-    - {name: DC}
-    url: https://ljcohen.github.io/2018-02-07-smithsonian/
-    venue: Smithsonian Institution, National Museum of Natural History
   - address: Marston Science Library Rm. L136
     contact: shawntaylor@weecology.org
     country: US
