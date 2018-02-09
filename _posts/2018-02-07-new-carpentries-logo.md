@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline:
-title: "Unveiling the Carpentries Logor"
+title: "Unveiling the Carpentries Logo"
 teaser:
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
