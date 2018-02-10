@@ -4451,9 +4451,23 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180210T050001Z
+timestamp: 20180210T060002Z
 workshops:
 - &id002
+  - address: Collage of Natural and Computational Science  - Zoological Science Lab
+    contact: mesfin.diro@aau.edu.et
+    country: et
+    end: 2018-02-09
+    eventbrite_id: ''
+    humandate: Feb 08-09, 2018
+    latitude: 9.03403
+    longitude: 38.7662
+    slug: 2018-02-08-AAU
+    start: 2018-02-08
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-02-08-AAU/
+    venue: Data Carpentry Workshop at Center for Environmental Sciences
   - address: 10th St. & Constitution Ave. NW, Washington, DC 20560
     contact: Beth Stern sternb@si.edu
     country: us
@@ -7118,20 +7132,6 @@ workshops:
     - {name: DC}
     url: https://adivea.github.io/2018-02-20-MQU-DC/
     venue: Macquarie University
-  - address: Collage of Natural and Computational Science  - Zoological Science Lab
-    contact: mesfin.diro@aau.edu.et
-    country: ET
-    end: 2018-02-09
-    eventbrite_id: ''
-    humandate: Feb 08-09, 2018
-    latitude: 9.03403
-    longitude: 38.7662
-    slug: 2018-02-08-AAU
-    start: 2018-02-08
-    tags:
-    - {name: DC}
-    url: https://mesfind.github.io/2018-02-08-AAU/
-    venue: Data Carpentry Workshop at Center for Environmental Sciences
   - address: Marston Science Library Rm. L136
     contact: shawntaylor@weecology.org
     country: US
