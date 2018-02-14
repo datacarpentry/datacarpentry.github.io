@@ -3657,6 +3657,10 @@ badges:
   - {awarded: '2018-02-06', name: Amulya Pervaje, user: pervaje_amulya}
   - {awarded: '2018-02-07', name: Matt Critchlow, user: critchlow_matt}
   - {awarded: '2018-02-09', name: Andrew Winters, user: winters_andrew}
+  - {awarded: '2018-02-14', name: Felix Liu, user: liu_felix}
+  - {awarded: '2018-02-14', name: Vanessa Gonzalez, user: gonzalez_vanessa}
+  - {awarded: '2018-02-14', name: Nicolas Blouin, user: blouin_nicolas}
+  - {awarded: '2018-02-14', name: Nicolas Barral, user: barral_nicolas}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4344,6 +4348,9 @@ badges:
   - {awarded: '2018-02-06', name: Jazmin Berlanga Medina, user: berlanga-medina_jazmin}
   - {awarded: '2018-02-07', name: Susan (Sue) Zwicker, user: zwicker_susan-sue}
   - {awarded: '2018-02-14', name: Brendan Burkart, user: burkart_brendan}
+  - {awarded: '2018-02-14', name: Fred Boehm, user: boehm_fred}
+  - {awarded: '2018-02-14', name: David de Sancho, user: de-sancho_david}
+  - {awarded: '2018-02-14', name: James Holmquist, user: holmquist_james}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4452,7 +4459,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180214T180002Z
+timestamp: 20180214T190002Z
 workshops:
 - &id002
   - address: Collage of Natural and Computational Science  - Zoological Science Lab
