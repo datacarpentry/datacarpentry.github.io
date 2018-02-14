@@ -3652,7 +3652,6 @@ badges:
   - {awarded: '2018-02-06', name: Kyle Niemeyer, user: niemeyer_kyle}
   - {awarded: '2018-02-06', name: Katrin Leinweber, user: leinweber_katrin}
   - {awarded: '2018-02-06', name: Juan Eiros Zamora, user: eiros-zamora_juan}
-  - {awarded: '2018-02-06', name: Brendan Burkart, user: burkart_brendan}
   - {awarded: '2018-02-06', name: Richard Berry, user: berry_richard}
   - {awarded: '2018-02-06', name: Amy Olex, user: olex_amy}
   - {awarded: '2018-02-06', name: Amulya Pervaje, user: pervaje_amulya}
@@ -4344,6 +4343,7 @@ badges:
   - {awarded: '2018-02-02', name: Nancy Leticia Gonzalez, user: gonzalez_nancy-leticia}
   - {awarded: '2018-02-06', name: Jazmin Berlanga Medina, user: berlanga-medina_jazmin}
   - {awarded: '2018-02-07', name: Susan (Sue) Zwicker, user: zwicker_susan-sue}
+  - {awarded: '2018-02-14', name: Brendan Burkart, user: burkart_brendan}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4452,7 +4452,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180214T160002Z
+timestamp: 20180214T170002Z
 workshops:
 - &id002
   - address: Collage of Natural and Computational Science  - Zoological Science Lab
