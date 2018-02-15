@@ -12,6 +12,8 @@ show_meta: true
 authors: ["Belinda Weaver"]
 ---
 
+![Valerie Aurora](http://valerieaurora.org/pix/val_circle.png "Valerie Aurora")
+
 The Carpentries are excited to announce that Valerie Aurora will be one of four keynote speakers at this May's [CarpentryCon](http://www.carpentrycon.org/) in Dublin.
 
 [Valerie](http://valerieaurora.org/) is a software engineer turned diversity and inclusion consultant. 
