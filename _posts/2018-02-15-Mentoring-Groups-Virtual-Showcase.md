@@ -29,17 +29,17 @@ The culmination of this mentoring period was the mentoring groups [virtual showc
 + Katrin completed the check-out process and onboarded as an [r-novice-inflammation](https://github.com/swcarpentry/r-novice-inflammation) Maintainer.
 + One of the African mentoring groups emphasized the value of community in helping to get workshops organized.
 + Saran was able to connect with some regional Carpentries advocates in North Texas, and he will be attending his first workshop as a learner in the next few months!
+    + This allowed Saran's mentor, Jamie, to reconnect with the North Texas instructors she had previously co-instructed a workshop with. They opened a discussion about their burgeoning Carpentries efforts at their respective institutions.
 + A local data science community was started at the University of Konstanz, Germany.
 + Robin got to live demo an R lesson.
 + Blake’s workshop ran in January and got snowed in!
-+ Jamie developed a mentoring plan for each of her mentees based on their goals. Check out [this sample plan.](https://docs.google.com/document/d/1S3HEYyfjA1t3-c8-zfvjGEffLSOl4LAK__2dugwvExs/edit?usp=sharing)
++ One group developed a program plan for the mentees in the group based on their goals and interests. Check out [this sample plan.](https://docs.google.com/document/d/1S3HEYyfjA1t3-c8-zfvjGEffLSOl4LAK__2dugwvExs/edit?usp=sharing)
 + Chris was able to sign up for instructor training and reconnect with a community of Carpentries folk at Vanderbilt. 
 + Simon found out who to get in touch with, and will be an instructor at a Stanford workshop in March.
 + Toby contributed [improvements to mentoring material](https://github.com/carpentries/mentoring/pulls?q=author%3Atobyhodges) on GitHub. 
 + One group drafted step-by-step instructions for beginners to contribute to lessons using the terminal or a web browser.
 + Malvika contributed to the [CarpentryCon](http://www.carpentrycon.org) taskforce and shared ideas with Kari for the next mentoring round.
 + One group used the  evolving community [‘cookbook’](https://cookbook.carpentries.org/) to plan activities in Japan and Singapore.
-+ Jamie reconnected with a group of instructors from North Texas, and it jump started a conversation about their burgeoning efforts. She hopes to get jump-started sometime in the next few months!
 
 Did you miss the showcase? Check out the [recording](https://carpentries.zoom.us/recording/play/9hEHsM_2KVri_520V0dY8xmWp2PrC-CPjIAOirNIkwfxmGXL4Svczwj4RmOPtqzi) from the second showcase!
 
