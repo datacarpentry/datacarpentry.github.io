@@ -4468,7 +4468,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180221T190004Z
+timestamp: 20180221T200008Z
 workshops:
 - &id002
   - address: Collage of Natural and Computational Science  - Zoological Science Lab
@@ -7121,6 +7121,20 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
+  - address: Generaal Jacqueslaan 271, 1050 Brussels
+    contact: paula.martinez@elixir-belgium.org
+    country: BE
+    end: 2018-06-13
+    eventbrite_id: ''
+    humandate: Jun 12-13, 2018
+    latitude: 50.824343
+    longitude: 4.394176
+    slug: 2018-06-12-bru-datacarpentry-inbo-elixir
+    start: 2018-06-12
+    tags:
+    - {name: DC}
+    url: https://inbo.github.io/2018-06-12-bru-datacarpentry-inbo-elixir/
+    venue: U-residence
   - address: TBD
     contact: sheraaron@carpentries.org
     country: US
