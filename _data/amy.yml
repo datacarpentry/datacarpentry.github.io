@@ -4360,6 +4360,7 @@ badges:
   - {awarded: '2018-02-14', name: James Holmquist, user: holmquist_james}
   - {awarded: '2018-02-20', name: Michael Bales, user: bales_michael}
   - {awarded: '2018-02-20', name: Hailey Cahill, user: cahill_hailey}
+  - {awarded: '2018-02-22', name: Mallory Lai, user: lai_mal}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4468,7 +4469,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180222T190005Z
+timestamp: 20180222T200004Z
 workshops:
 - &id002
   - address: Monsanto Room (ACES Library)
