@@ -692,6 +692,9 @@ airports:
   - {name: Matt Healey, user: healey_matt}
   - {name: Matt Bixley, user: bixley_matt}
   - {name: Amara Shaukat, user: shaukat_amara}
+  - {name: Mandy Phipps-Green, user: phipps-green_mandy}
+  - {name: Ruth Topless, user: topless_ruth}
+  - {name: John Williams, user: williams_john}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
@@ -4477,7 +4480,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180226T210004Z
+timestamp: 20180226T220007Z
 workshops:
 - &id002
   - address: Monsanto Room (ACES Library)
