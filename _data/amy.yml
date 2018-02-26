@@ -840,6 +840,7 @@ airports:
 - country: gb
   instructors:
   - {name: Norman Gray, user: gray_n}
+  - {name: Valentina Bonetti, user: bonetti_valentina}
   latitude: 55.8646
   longitude: 4.43234
   name: Glasgow International Airport
@@ -1177,6 +1178,7 @@ airports:
   - {name: Daniel Buchan, user: buchan_daniel}
   - {name: Martin Carr, user: carr_martin}
   - {name: Christopher Cooper, user: cooper_christopher}
+  - {name: Thomas Mellan, user: mellan_thomas}
   - {name: Katerina Michalickova, user: michalickova_katerina}
   - {name: Simon Thelwall, user: thelwall_simon}
   - {name: Laura Fortunato, user: fortunato_laura}
@@ -1190,8 +1192,11 @@ airports:
   - {name: Alice Harpole, user: harpole_alice}
   - {name: Antonio Berlanga-Taylor, user: berlanga-taylor_antonio}
   - {name: Mark Woodbridge, user: woodbridge_mark}
+  - {name: Amit Mandal, user: mandal_amit}
   - {name: Anat Melamed, user: melamed_anat}
+  - {name: Stefano Galvan, user: galvan_stefano}
   - {name: Adam Huffman, user: huffman_adam}
+  - {name: Eamonn Murray, user: murray_eamonn}
   - {name: Nicolas Barral, user: barral_nicolas}
   latitude: 51.4775
   longitude: -0.461389
@@ -1276,6 +1281,7 @@ airports:
   - {name: Tania Rebeca Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
   - {name: Nicolas Gruel, user: gruel_nicolas}
+  - {name: Xiaohu Guo, user: guo_xiaohu}
   - {name: Ella Guest, user: guest_ella}
   - {name: Anja Le Blanc, user: le-blanc_anja}
   - {name: David Mawdsley, user: mawdsley_david}
@@ -1984,6 +1990,7 @@ airports:
   - {name: Priyanka Singh, user: singh_priyanka}
   - {name: Alistair Bailey, user: bailey_alistair}
   - {name: James Graham, user: graham_james}
+  - {name: Tomas Muller, user: muller_tomas}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
@@ -4469,7 +4476,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180226T120006Z
+timestamp: 20180226T130003Z
 workshops:
 - &id002
   - address: Monsanto Room (ACES Library)
