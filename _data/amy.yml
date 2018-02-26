@@ -34,7 +34,6 @@ airports:
   - {name: Kate Lee, user: lee_kate}
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {name: Cameron McLean, user: mclean_cameron}
-  - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: John Rugis, user: rugis_john}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
   - {name: Elsie Jacobson, user: jacobson_elsie}
@@ -418,6 +417,7 @@ airports:
   - {name: Charles Bacon, user: bacon_charles}
   - {name: Sung Eun Bae, user: bae_sung}
   - {name: Paul Gardner, user: gardner_paul}
+  - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: Constantine Zakkaroff, user: zakkaroff_constantine}
   - {name: Francois Bissey, user: bissey_francois}
   - {name: Fatemeh Ashari Ghomi, user: ghomi_fatemeh}
@@ -695,6 +695,7 @@ airports:
   - {name: Mandy Phipps-Green, user: phipps-green_mandy}
   - {name: Ruth Topless, user: topless_ruth}
   - {name: John Williams, user: williams_john}
+  - {name: Denise Martini, user: martini_denise}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
@@ -4480,7 +4481,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180226T220007Z
+timestamp: 20180226T230004Z
 workshops:
 - &id002
   - address: Monsanto Room (ACES Library)
