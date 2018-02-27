@@ -7,5 +7,8 @@ header:
 permalink: "/jobs/"
 ---
 
-There are no current positions with Data Carpentry. If you do have inquiries however, please email 
-[team@carpentries.org](mailto:team@carpentries.org).
+The California Digital Library is currently hiring for a Library Carpentry Coordinator position. 
+
+See the [job posting](https://jobs.ucop.edu/applicants/Central?quickFind=60770) for details on the position and how to apply.
+
+

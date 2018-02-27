@@ -11,9 +11,9 @@ airports:
   instructors:
   - {name: Jonathan Gross, user: gross_jonathan}
   - {name: Nora Mitchell, user: mitchell_nora}
-  - {name: Andrew McLeod Fraser, user: fraser_andrew}
   - {name: Mike Heroux, user: heroux_mike}
   - {name: Christoph Junghans, user: junghans_christoph}
+  - {name: Andy Fraser, user: fraser_andy}
   latitude: 35.048665
   longitude: -106.616704
   name: Albuquerque, NM
@@ -21,6 +21,7 @@ airports:
   instructors:
   - {name: Mesfin Diro Chaka, user: diro-chaka_mesfin}
   - {name: Margareth Gfrerer, user: gfrerer_margareth}
+  - {name: Yoseph Abate, user: abate_yoseph}
   latitude: 8.97789
   longitude: 38.7993011
   name: Bole International Airport
@@ -33,7 +34,6 @@ airports:
   - {name: Kate Lee, user: lee_kate}
   - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
   - {name: Cameron McLean, user: mclean_cameron}
-  - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: John Rugis, user: rugis_john}
   - {name: Sebastian Schmeier, user: schmeier_sebastian}
   - {name: Elsie Jacobson, user: jacobson_elsie}
@@ -54,6 +54,7 @@ airports:
   - {name: Yvette Wharton, user: wharton_yvette}
   - {name: Martin Feller, user: feller_martin}
   - {name: Sean Marshall Matheny, user: matheny_sean}
+  - {name: Manish Kukreja, user: kukreja_manish}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
@@ -127,6 +128,7 @@ airports:
   - {name: Rebecca Tarvin, user: tarvin_becca}
   - {name: Todd Krause, user: krause_todd}
   - {name: Jessica Trelogan, user: trelogan_jessica}
+  - {name: Vinh Pham, user: pham_vinh}
   latitude: 30.194444
   longitude: -97.669722
   name: Austin, TX
@@ -147,6 +149,7 @@ airports:
   - {name: Saira Kazmi, user: kazmi_saira}
   - {name: David McKenzie, user: mckenzie_david}
   - {name: mingsheng zhang, user: zhang_mingsheng}
+  - {name: Aditya Srikanth Kovuri, user: ''}
   latitude: 41.938889
   longitude: -72.683056
   name: Hartford, CT
@@ -414,16 +417,17 @@ airports:
   - {name: Charles Bacon, user: bacon_charles}
   - {name: Sung Eun Bae, user: bae_sung}
   - {name: Paul Gardner, user: gardner_paul}
+  - {name: Aleksandra Natalia Pawlik, user: pawlik_a}
   - {name: Constantine Zakkaroff, user: zakkaroff_constantine}
   - {name: Francois Bissey, user: bissey_francois}
   - {name: Fatemeh Ashari Ghomi, user: ghomi_fatemeh}
   - {name: Richard Clare, user: clare_richard}
-  - {name: Tim Millar, user: millar_tim}
   - {name: Viktor Polak, user: polak_viktor}
   - {name: Christopher Thomson, user: thomson_christopher}
   - {name: Michael Gauland, user: gauland_michael}
   - {name: Olivia Rata Burge, user: burge_olivia}
   - {name: Ben Roberts, user: roberts_ben}
+  - {name: Timothy Millar, user: millar_timothy}
   - {name: Anton Angelo, user: angelo_anton}
   - {name: Arindam Basu, user: basu_arindam}
   latitude: -43.489167
@@ -612,6 +616,12 @@ airports:
   latitude: 51.1325
   longitude: 13.766944
   name: Dresden
+- country: gb
+  instructors:
+  - {name: Amy Beeston, user: beeston_amy}
+  latitude: 53.4805378
+  longitude: -1.0106564
+  name: Robin Hood Doncaster Sheffield Airport
 - country: us
   instructors:
   - {name: Adina Howe, user: chuang-howe_a}
@@ -656,6 +666,7 @@ airports:
   - {name: Dave Bridges, user: bridges_dave}
   - {name: Jonathan Greenberg, user: greenberg_jonathan}
   - {name: Srihari Sundar, user: sundar_srihari}
+  - {name: SherAaron Nicole Hurt, user: hurt_sheraaron}
   latitude: 42.212222
   longitude: -83.353333
   name: Detroit, MI
@@ -681,6 +692,10 @@ airports:
   - {name: Matt Healey, user: healey_matt}
   - {name: Matt Bixley, user: bixley_matt}
   - {name: Amara Shaukat, user: shaukat_amara}
+  - {name: Mandy Phipps-Green, user: phipps-green_mandy}
+  - {name: Ruth Topless, user: topless_ruth}
+  - {name: John Williams, user: williams_john}
+  - {name: Denise Martini, user: martini_denise}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
@@ -809,6 +824,7 @@ airports:
   - {name: Toby Hodges, user: hodges_toby}
   - {name: Markus Ankenbrand, user: ankenbrand_markus}
   - {name: Renato Alves, user: alves_renato}
+  - {name: Evamaria Krause, user: krause_evamaria}
   latitude: 50.026389
   longitude: 8.543056
   name: Frankfurt
@@ -829,6 +845,7 @@ airports:
 - country: gb
   instructors:
   - {name: Norman Gray, user: gray_n}
+  - {name: Valentina Bonetti, user: bonetti_valentina}
   latitude: 55.8646
   longitude: 4.43234
   name: Glasgow International Airport
@@ -848,6 +865,7 @@ airports:
   - {name: Kok Ben Toh, user: toh_kok-ben}
   - {name: David Tribble Jennings, user: jennings_david}
   - {name: Kensworth Subratie, user: subratie_kensworth}
+  - {name: Tyler Richards, user: richards_tyler}
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
@@ -871,6 +889,12 @@ airports:
   latitude: 34.8956985
   longitude: -82.2189026
   name: Greenville Spartanburg, SC
+- country: cz
+  instructors:
+  - {name: Daniel Nolte, user: nolte_daniel}
+  latitude: 49.3143997
+  longitude: 17.5688992
+  name: Holešov Airport
 - country: ch
   instructors:
   - {name: Julia Anne Gustavsen, user: gustavsen_j}
@@ -890,6 +914,7 @@ airports:
 - country: hk
   instructors:
   - {name: Peter Li, user: li_peter}
+  - {name: SiZhe Xiao, user: xiao_sizhe}
   latitude: 22.306975
   longitude: 113.913803
   name: Hong Kong International Airport
@@ -931,6 +956,7 @@ airports:
   - {name: Valentina Staneva, user: staneva_valentina}
   - {name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
   - {name: Martin Skarzynski, user: skarzynski_martin}
+  - {name: Mike Trizna, user: trizna_mike}
   latitude: 38.944444
   longitude: -77.455556
   name: Washington Dulles, DC
@@ -984,6 +1010,7 @@ airports:
   - {name: Afrah Shafquat, user: shafquat_afrah}
   - {name: Mary Catherine Kinniburgh, user: kinniburgh_mary-catherine}
   - {name: Hannah Akemi Kronenberg, user: kronenberg_hannah}
+  - {name: Rémi Rampin, user: rampin_rmi}
   latitude: 40.639722
   longitude: -73.778889
   name: New York JFK, NY
@@ -1001,7 +1028,7 @@ airports:
   - {name: LACTATIA MOTSUKU, user: motsuku_lactatia}
   - {name: Alisa Postma, user: postma_alisa}
   - {name: Jacqueline Muller, user: muller_jacqueline}
-  - {name: Phumudzo Muvhango, user: muvhango_phumudzo}
+  - {name: Phumudzo Avvery Muvhango, user: muvhango_phumudzo}
   latitude: -26.138773
   longitude: 28.241339
   name: O. R. Tambo International Airport
@@ -1156,20 +1183,27 @@ airports:
   - {name: Daniel Buchan, user: buchan_daniel}
   - {name: Martin Carr, user: carr_martin}
   - {name: Christopher Cooper, user: cooper_christopher}
+  - {name: Thomas Mellan, user: mellan_thomas}
   - {name: Katerina Michalickova, user: michalickova_katerina}
   - {name: Simon Thelwall, user: thelwall_simon}
   - {name: Laura Fortunato, user: fortunato_laura}
   - {name: Kesson Magid, user: magid_kesson}
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Alexander James Morley, user: morley_alexander}
-  - {name: Martin Hadley, user: hadley_martin}
+  - {name: Martin John Hadley, user: hadley_martin}
   - {name: Julian Jordan, user: jordan_julian}
   - {name: David Wright, user: wright_david}
   - {name: Stuart Grieve, user: grieve_stuart}
+  - {name: Alice Harpole, user: harpole_alice}
   - {name: Antonio Berlanga-Taylor, user: berlanga-taylor_antonio}
   - {name: Mark Woodbridge, user: woodbridge_mark}
+  - {name: Amit Mandal, user: mandal_amit}
   - {name: Anat Melamed, user: melamed_anat}
+  - {name: Stefano Galvan, user: galvan_stefano}
   - {name: Adam Huffman, user: huffman_adam}
+  - {name: Eamonn Murray, user: murray_eamonn}
+  - {name: Nicolas Barral, user: barral_nicolas}
+  - {name: Rocio T. Martinez Nunez, user: martinez-nunez_rocio}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -1222,6 +1256,7 @@ airports:
   - {name: JC Leyder, user: leyder_jean-christophe}
   - {name: Benjamin Laken, user: laken_benjamin}
   - {name: Andrés Díaz-Gil, user: diaz-gil_andres}
+  - {name: Joaquín Morís, user: moris_joaquin}
   latitude: 40.472222
   longitude: -3.560833
   name: Madrid
@@ -1252,6 +1287,7 @@ airports:
   - {name: Tania Rebeca Allard, user: allard_tania}
   - {name: Beth Montague-Hellen, user: hellen_beth}
   - {name: Nicolas Gruel, user: gruel_nicolas}
+  - {name: Xiaohu Guo, user: guo_xiaohu}
   - {name: Ella Guest, user: guest_ella}
   - {name: Anja Le Blanc, user: le-blanc_anja}
   - {name: David Mawdsley, user: mawdsley_david}
@@ -1403,7 +1439,7 @@ airports:
   - {name: Michelle Craft, user: craft_michelle}
   - {name: Alex Bajcz, user: bajcz_alex}
   - {name: Ethan Nelson, user: nelson_ethan}
-  - {name: Carolyn Breden Voter, user: voter_carolyn}
+  - {name: Carolyn Voter, user: voter_carolyn}
   latitude: 43.139722
   longitude: -89.3375
   name: Madison, WI
@@ -1455,7 +1491,7 @@ airports:
   - {name: Anthony Etuk, user: etuk_anthony}
   - {name: Matthew Hartley, user: hartley_matthew}
   - {name: Matt Drew, user: drew_matt}
-  - {name: alice minotto, user: minotto_alice}
+  - {name: Alice Minotto, user: minotto_alice}
   latitude: 52.675833
   longitude: 1.282778
   name: Norwich
@@ -1484,6 +1520,7 @@ airports:
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
   - {name: Pauline A. Fujita, user: fujita_pauline}
+  - {name: Caryn Johansen, user: johansen_caryn}
   - {name: Nima Hejazi, user: hejazi_nima}
   - {name: Kellie Ottoboni, user: ottoboni_kellie}
   - {name: Kelly Rowland, user: rowland_kelly}
@@ -1567,12 +1604,6 @@ airports:
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
-- country: es
-  instructors:
-  - {name: Joaquín Morís, user: moris_joaquin}
-  latitude: 43.56339
-  longitude: -6.032085
-  name: Asturias Airport
 - country: us
   instructors:
   - {name: Amy Boyle, user: boyle_amy}
@@ -1607,6 +1638,7 @@ airports:
   - {name: Maneesha Sane, user: sane_maneesha}
   - {name: Sunil Shende, user: shende_sunil}
   - {name: Daniel Russo, user: russo_dan}
+  - {name: Vasu Venkateshwaran, user: venkateshwaran_vasu}
   latitude: 39.871944
   longitude: -75.241111
   name: Philadelphia, PA
@@ -1706,6 +1738,12 @@ airports:
   latitude: -23.392273
   longitude: 150.468179
   name: Rockhampton Airport
+- country: nl
+  instructors:
+  - {name: Dennis Schmitz, user: schmitz_dennis}
+  latitude: 51.955509
+  longitude: 4.439883
+  name: Rotterdam Airport
 - country: sa
   instructors:
   - {name: David Pugh, user: pugh_david}
@@ -1845,6 +1883,8 @@ airports:
   - {name: Joke Durnez, user: durnez_joke}
   - {name: Simon Podhajsky, user: podhajsky_simon}
   - {name: Rebecca Louise Barter, user: barter_rebecca}
+  - {name: Diya Das, user: das_diya}
+  - {name: Steve Leak, user: leak_stephen}
   latitude: 37.618889
   longitude: -122.374722
   name: San Francisco, CA
@@ -1857,6 +1897,7 @@ airports:
   name: Singapore
 - country: us
   instructors:
+  - {name: Robin Elahi, user: elahi_robin}
   - {name: Steve Haddock, user: haddock_s}
   - {name: Amy Hodge, user: hodge_amy}
   - {name: Emily Jane McTavish, user: mctavish_ej}
@@ -1931,7 +1972,7 @@ airports:
 - country: us
   instructors:
   - {name: Danielle Kane, user: kane_danielle}
-  - {name: Joshua Steele, user: steele_joshua}
+  - {name: Joshua A Steele, user: steele_joshua}
   latitude: 33.675556
   longitude: -117.868056
   name: John Wayne (Orange County), CA
@@ -1955,6 +1996,7 @@ airports:
   - {name: Priyanka Singh, user: singh_priyanka}
   - {name: Alistair Bailey, user: bailey_alistair}
   - {name: James Graham, user: graham_james}
+  - {name: Tomas Muller, user: muller_tomas}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
@@ -1969,6 +2011,7 @@ airports:
   - {name: Tasso Pettigrew, user: pettigrew_tasso}
   - {name: Keith Turner, user: turner_keith}
   - {name: Allison Weber, user: weber_allison}
+  - {name: Christopher Orth, user: orth_christopher}
   latitude: 38.7475
   longitude: -90.359722
   name: St. Louis, MO
@@ -3309,8 +3352,8 @@ badges:
   - {awarded: '2017-01-25', name: Maxim Belkin, user: belkin_maxim}
   - {awarded: '2017-01-25', name: Rob Burnap, user: burnap_rob}
   - {awarded: '2017-01-25', name: Linh B Ngo, user: ngo_linh}
-  - {awarded: '2017-01-25', name: Carolyn Breden Voter, user: voter_carolyn}
-  - {awarded: '2017-01-25', name: Andrew McLeod Fraser, user: fraser_andrew}
+  - {awarded: '2017-01-25', name: Carolyn Voter, user: voter_carolyn}
+  - {awarded: '2017-01-25', name: Andy Fraser, user: fraser_andy}
   - {awarded: '2017-01-25', name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {awarded: '2017-01-25', name: Lauren Ko, user: ko_lauren}
   - {awarded: '2017-01-25', name: Thomas Morrell, user: morrell_thomas}
@@ -3410,7 +3453,7 @@ badges:
   - {awarded: '2017-07-14', name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
   - {awarded: '2017-07-14', name: Scott Peterson, user: peterson_scott}
-  - {awarded: '2017-07-14', name: Martin Hadley, user: hadley_martin}
+  - {awarded: '2017-07-14', name: Martin John Hadley, user: hadley_martin}
   - {awarded: '2017-07-14', name: Meghan Sinclair-Black, user: sinclair-black_meghan}
   - {awarded: '2017-07-14', name: Rene Heim, user: heim_rene}
   - {awarded: '2017-07-19', name: Yee Mey Seah, user: seah_yee-mey}
@@ -3536,7 +3579,7 @@ badges:
   - {awarded: '2017-12-05', name: Michael Beyeler, user: beyeler_michael}
   - {awarded: '2017-12-05', name: Pavel Soriano, user: soriano_pavel}
   - {awarded: '2017-12-05', name: Andrew Steen, user: steen_andrew}
-  - {awarded: '2017-12-05', name: Phumudzo Muvhango, user: muvhango_phumudzo}
+  - {awarded: '2017-12-05', name: Phumudzo Avvery Muvhango, user: muvhango_phumudzo}
   - {awarded: '2017-12-05', name: Nicolas Gruel, user: gruel_nicolas}
   - {awarded: '2017-12-06', name: Rebecca Lange, user: lange_rebecca}
   - {awarded: '2017-12-06', name: Ian Lee, user: lee_ian}
@@ -3573,7 +3616,7 @@ badges:
   - {awarded: '2017-12-22', name: Duncan Watson-Parris, user: watson-parris_duncan}
   - {awarded: '2017-12-22', name: Weisi Chen, user: chen_weisi}
   - {awarded: '2017-12-22', name: Taylor Smith, user: smith_taylor}
-  - {awarded: '2017-12-22', name: alice minotto, user: minotto_alice}
+  - {awarded: '2017-12-22', name: Alice Minotto, user: minotto_alice}
   - {awarded: '2017-12-22', name: Vicky Steeves, user: steeves_vicky}
   - {awarded: '2017-12-22', name: Anuj Guruacharya, user: guruacharya_anuj}
   - {awarded: '2017-12-22', name: Horst Severini, user: severini_horst}
@@ -3590,6 +3633,54 @@ badges:
   - {awarded: '2018-01-08', name: Fred Reiss, user: reiss_fred}
   - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil_2}
   - {awarded: '2018-01-10', name: Daniel Nolte, user: nolte_daniel}
+  - {awarded: '2018-01-24', name: Jose Fonseca, user: fonseca_jose}
+  - {awarded: '2018-01-24', name: Jennifer Koch, user: koch_jennifer}
+  - {awarded: '2018-01-24', name: Venkata Aditya Kovuri, user: kovuri_venkata-aditya}
+  - {awarded: '2018-01-24', name: Richard Vankoningsveld, user: vankoningsveld_richard}
+  - {awarded: '2018-01-24', name: Steve Leak, user: leak_stephen}
+  - {awarded: '2018-01-24', name: Valentina Bonetti, user: bonetti_valentina}
+  - {awarded: '2018-01-24', name: Amy Beeston, user: beeston_amy}
+  - {awarded: '2018-01-24', name: Daniel Allan, user: allan_daniel}
+  - {awarded: '2018-01-24', name: Paddy Tobias, user: tobias_paddy}
+  - {awarded: '2018-01-24', name: Genie (Eugenie) Jackson, user: jackson_genie-eugenie}
+  - {awarded: '2018-01-24', name: Alice Harpole, user: harpole_alice}
+  - {awarded: '2018-01-24', name: Christopher Orth, user: orth_christopher}
+  - {awarded: '2018-01-24', name: Dafne van Kuppevelt, user: van-kuppevelt_dafne}
+  - {awarded: '2018-01-24', name: Stefano Galvan, user: galvan_stefano}
+  - {awarded: '2018-01-31', name: KEVIN ALQUICIRA HERNÁNDEZ, user: alquicira-hernndez_kevin}
+  - {awarded: '2018-02-01', name: Ned Haughton, user: haughton_ned}
+  - {awarded: '2018-02-01', name: Robin Donatello, user: donatello_robin}
+  - {awarded: '2018-02-01', name: Scott Wood, user: wood_scott}
+  - {awarded: '2018-02-01', name: Vanessa Guerra, user: guerra_vanessa}
+  - {awarded: '2018-02-01', name: Georgi Kolishovski, user: kolishovski_georgi}
+  - {awarded: '2018-02-01', name: Diogo Aguiam, user: aguiam_diogo}
+  - {awarded: '2018-02-01', name: Kyle Gross, user: gross_kyle}
+  - {awarded: '2018-02-01', name: Noah Spies, user: spies_noah}
+  - {awarded: '2018-02-01', name: Vikram Chhatre, user: chhatre_vikram}
+  - {awarded: '2018-02-01', name: Tomas Muller, user: muller_tomas}
+  - {awarded: '2018-02-02', name: Katerina Michalickova, user: michalickova_katerina}
+  - {awarded: '2018-02-05', name: Thomas Mellan, user: mellan_thomas}
+  - {awarded: '2018-02-05', name: Lucy Whalley, user: whalley_lucy}
+  - {awarded: '2018-02-05', name: Amit Mandal, user: mandal_amit}
+  - {awarded: '2018-02-05', name: Eamonn Murray, user: murray_eamonn}
+  - {awarded: '2018-02-06', name: Kyle Niemeyer, user: niemeyer_kyle}
+  - {awarded: '2018-02-06', name: Katrin Leinweber, user: leinweber_katrin}
+  - {awarded: '2018-02-06', name: Juan Eiros Zamora, user: eiros-zamora_juan}
+  - {awarded: '2018-02-06', name: Richard Berry, user: berry_richard}
+  - {awarded: '2018-02-06', name: Amy Olex, user: olex_amy}
+  - {awarded: '2018-02-06', name: Amulya Pervaje, user: pervaje_amulya}
+  - {awarded: '2018-02-07', name: Matt Critchlow, user: critchlow_matt}
+  - {awarded: '2018-02-09', name: Andrew Winters, user: winters_andrew}
+  - {awarded: '2018-02-14', name: Felix Liu, user: liu_felix}
+  - {awarded: '2018-02-14', name: Vanessa Gonzalez, user: gonzalez_vanessa}
+  - {awarded: '2018-02-14', name: Nicolas Blouin, user: blouin_nicolas}
+  - {awarded: '2018-02-14', name: Nicolas Barral, user: barral_nicolas}
+  - {awarded: '2018-02-15', name: Timothy Millar, user: millar_timothy}
+  - {awarded: '2018-02-20', name: Keith Bettinger, user: bettinger_keith}
+  - {awarded: '2018-02-20', name: Marieke Dirksen, user: dirksen_marieke}
+  - {awarded: '2018-02-20', name: Gaonyalelwe Maribe, user: maribe_gaonyalelwe}
+  - {awarded: '2018-02-20', name: Shaun Bennett, user: bennett_shaun}
+  - {awarded: '2018-02-20', name: Karla Lindquist, user: lindquist_karla}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4211,7 +4302,7 @@ badges:
   - {awarded: '2017-10-09', name: Ashley L Hetrick, user: hetrick_ashley}
   - {awarded: '2017-10-13', name: Kayla Peck, user: peck_k}
   - {awarded: '2017-10-13', name: Aniello Infante, user: infante_aniello}
-  - {awarded: '2017-10-13', name: Matthew Durrant, user: durrant_matthew}
+  - {awarded: '2017-10-13', name: Matthew George Durrant, user: durrant_matthew}
   - {awarded: '2017-10-13', name: Jake Parker, user: parker_jake}
   - {awarded: '2017-10-13', name: Zak (I.W) van Heerden, user: van-heerden_zak-iw}
   - {awarded: '2017-10-20', name: Arindam Basu, user: basu_arindam}
@@ -4248,13 +4339,41 @@ badges:
   - {awarded: '2017-12-22', name: Nicholas Wolf, user: wolf_nicholas}
   - {awarded: '2017-12-22', name: Keith Turner, user: turner_keith}
   - {awarded: '2018-01-05', name: Amy Lee, user: lee_amy}
-  - {awarded: '2018-01-05', name: Joshua Steele, user: steele_joshua}
+  - {awarded: '2018-01-05', name: Joshua A Steele, user: steele_joshua}
   - {awarded: '2018-01-08', name: Ana Rivera, user: rivera_ana}
   - {awarded: '2018-01-08', name: Ali Berens, user: berens_ali}
   - {awarded: '2018-01-08', name: SiZhe Xiao, user: xiao_sizhe}
   - {awarded: '2018-01-08', name: Robin Elahi, user: elahi_robin}
   - {awarded: '2018-01-08', name: Yasmeen Shorish, user: shorish_yasmeen}
   - {awarded: '2018-01-08', name: Rémi Rampin, user: rampin_rmi}
+  - {awarded: '2018-01-24', name: Dennis Schmitz, user: schmitz_dennis}
+  - {awarded: '2018-01-24', name: Sam Nooij, user: nooij_sam}
+  - {awarded: '2018-01-24', name: Tyler Richards, user: richards_tyler}
+  - {awarded: '2018-01-24', name: Clifton Franklund, user: franklund_clifton}
+  - {awarded: '2018-01-24', name: Alison Valk, user: valk_alison}
+  - {awarded: '2018-01-24', name: Xiaohu Guo, user: guo_xiaohu}
+  - {awarded: '2018-01-24', name: Katina Toufexis, user: toufexis_katina}
+  - {awarded: '2018-01-24', name: Vinh Pham, user: pham_vinh}
+  - {awarded: '2018-01-24', name: Kayleigh Lino, user: lino_kayleigh}
+  - {awarded: '2018-01-24', name: Hatim Rahman, user: rahman_hatim}
+  - {awarded: '2018-01-24', name: Holly Little, user: little_holly}
+  - {awarded: '2018-01-24', name: Matthew Kweskin, user: kweskin_matthew}
+  - {awarded: '2018-02-01', name: Edward Wallace, user: wallace_edward}
+  - {awarded: '2018-02-01', name: Yo Yehudi, user: yehudi_yo}
+  - {awarded: '2018-02-01', name: Robert Fleet, user: fleet_robert}
+  - {awarded: '2018-02-01', name: Drew Wright, user: wright_drew}
+  - {awarded: '2018-02-02', name: Haedar Hadi, user: hadi_haedar}
+  - {awarded: '2018-02-02', name: Rebecca Dikow, user: dikow_rebecca}
+  - {awarded: '2018-02-02', name: Nancy Leticia Gonzalez, user: gonzalez_nancy-leticia}
+  - {awarded: '2018-02-06', name: Jazmin Berlanga Medina, user: berlanga-medina_jazmin}
+  - {awarded: '2018-02-07', name: Susan (Sue) Zwicker, user: zwicker_susan-sue}
+  - {awarded: '2018-02-14', name: Brendan Burkart, user: burkart_brendan}
+  - {awarded: '2018-02-14', name: Fred Boehm, user: boehm_fred}
+  - {awarded: '2018-02-14', name: David de Sancho, user: de-sancho_david}
+  - {awarded: '2018-02-14', name: James Holmquist, user: holmquist_james}
+  - {awarded: '2018-02-20', name: Michael Bales, user: bales_michael}
+  - {awarded: '2018-02-20', name: Hailey Cahill, user: cahill_hailey}
+  - {awarded: '2018-02-22', name: Mallory Lai, user: lai_mal}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4289,6 +4408,28 @@ badges:
   - {awarded: '2016-03-03', name: April Wright, user: wright_april}
   - {awarded: '2016-03-03', name: Mateusz Kuzak, user: kuzak_mateusz}
   - {awarded: '2017-06-01', name: Erin Alison Becker, user: becker_erin}
+  - {awarded: '2018-01-24', name: Colin Morris, user: morris_colin}
+  - {awarded: '2018-01-24', name: Katherine Koziar, user: koziar_katherine}
+  - {awarded: '2018-01-24', name: Allen Lee, user: lee_allen}
+  - {awarded: '2018-01-24', name: Nima Hejazi, user: hejazi_nima}
+  - {awarded: '2018-01-24', name: Peter R. Hoyt, user: hoyt_peter}
+  - {awarded: '2018-01-24', name: Brian Seok, user: seok_brian}
+  - {awarded: '2018-01-26', name: Tania Rebeca Allard, user: allard_tania}
+  - {awarded: '2018-01-26', name: Anne Fouilloux, user: fouilloux_anne}
+  - {awarded: '2018-01-26', name: Ana Costa Conrado, user: costa-conrado_ana}
+  - {awarded: '2018-01-26', name: Katrin Leinweber, user: leinweber_katrin}
+  - {awarded: '2018-01-26', name: Jeffrey Oliver, user: oliver_jeffrey}
+  - {awarded: '2018-01-26', name: David Mawdsley, user: mawdsley_david}
+  - {awarded: '2018-01-26', name: Rémi Rampin, user: rampin_rmi}
+  - {awarded: '2018-01-26', name: Jane Wyngaard, user: wyngaard_jane}
+  - {awarded: '2018-01-26', name: Will Pitchers, user: pitchers_w}
+  - {awarded: '2018-01-30', name: Anita Schürch, user: schurch_anita}
+  - {awarded: '2018-01-30', name: Sue McClatchy, user: mcclatchy_susan}
+  - {awarded: '2018-01-30', name: Joshua Herr, user: herr_joshua}
+  - {awarded: '2018-01-30', name: Ming Tang, user: tang_ming_2}
+  - {awarded: '2018-01-30', name: Lex Nederbragt, user: nederbragt_l}
+  - {awarded: '2018-01-30', name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {awarded: '2018-02-12', name: Sourav Singh, user: singh_sourav}
 - name: trainer
   persons:
   - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
@@ -4336,14 +4477,128 @@ badges:
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
 flags:
-  airports: [ae, au, be, bj, br, ca, ch, cl, cn, de, dk, ee, es, et, fr, gb, gr, hk,
-    ie, il, in, it, jp, lt, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th, tw,
-    us, ve, za]
-  workshops: [au, be, ca, ch, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph, pl,
-    pr, si, th, us, za]
-timestamp: 20180124T200003Z
+  airports: [ae, au, be, bj, br, ca, ch, cl, cn, cz, de, dk, ee, es, et, fr, gb, gr,
+    hk, ie, il, in, it, jp, lt, lu, mx, na, nl, 'no', nz, pl, sa, se, sg, si, th,
+    tw, us, ve, za]
+  workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
+    pl, pr, si, th, us, za]
+timestamp: 20180227T170006Z
 workshops:
 - &id002
+  - address: King's College London Guy's Campus, London, SE1 3RR
+    contact: Gabriella Rustici <gr231@cam.ac.uk>
+    country: gb
+    end: 2018-02-23
+    eventbrite_id: ''
+    humandate: Feb 22-23, 2018
+    latitude: 51.504001
+    longitude: -0.087794
+    slug: 2018-02-22-KCL
+    start: 2018-02-22
+    tags:
+    - {name: DC}
+    url: https://tavareshugo.github.io/2018-02-22-KCL/
+    venue: King's College London
+  - address: Monsanto Room (ACES Library)
+    contact: training@cse.illinois.edu
+    country: us
+    end: 2018-02-21
+    eventbrite_id: '42128326960'
+    humandate: Feb 20-21, 2018
+    latitude: 40.1028197
+    longitude: -88.2272995
+    slug: 2018-02-20-uiuc
+    start: 2018-02-20
+    tags:
+    - {name: DC}
+    url: https://swc-uiuc.github.io/2018-02-20-uiuc/
+    venue: University of Illinois
+  - address: Active Learning Spaces in C5A (430-435), Macquarie University
+    contact: adela@fedarch.org
+    country: au
+    end: 2018-02-21
+    eventbrite_id: '42413586178'
+    humandate: Feb 20-21, 2018
+    latitude: -33.775015
+    longitude: 151.112545
+    slug: 2018-02-20-MQU-DC
+    start: 2018-02-20
+    tags:
+    - {name: DC}
+    url: https://adivea.github.io/2018-02-20-MQU-DC/
+    venue: Macquarie University
+  - address: Collage of Natural and Computational Science  - Zoological Science Lab
+    contact: mesfin.diro@aau.edu.et
+    country: et
+    end: 2018-02-09
+    eventbrite_id: ''
+    humandate: Feb 08-09, 2018
+    latitude: 9.03403
+    longitude: 38.7662
+    slug: 2018-02-08-AAU
+    start: 2018-02-08
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-02-08-AAU/
+    venue: Data Carpentry Workshop at Center for Environmental Sciences
+  - address: 10th St. & Constitution Ave. NW, Washington, DC 20560
+    contact: Beth Stern sternb@si.edu
+    country: us
+    end: 2018-02-08
+    eventbrite_id: ''
+    humandate: Feb 07-08, 2018
+    latitude: 38.891266
+    longitude: -77.026065
+    slug: 2018-02-07-smithsonian
+    start: 2018-02-07
+    tags:
+    - {name: DC}
+    url: https://ljcohen.github.io/2018-02-07-smithsonian/
+    venue: Smithsonian Institution, National Museum of Natural History
+  - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
+      Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein
+    contact: juan.steyn@nwu.ac.za
+    country: za
+    end: 2018-02-01
+    eventbrite_id: ''
+    humandate: Jan 31-Feb 01, 2018
+    latitude: -26.1904893
+    longitude: 28.0260775
+    slug: 2018-01-31-WITS
+    start: 2018-01-31
+    tags:
+    - {name: DC}
+    url: https://dh-southernafrica.github.io/2018-01-31-WITS/
+    venue: Wits University
+  - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
+      Münster
+    contact: phdnet-mpims@mpi-muenster.mpg.de
+    country: de
+    end: 2018-01-30
+    eventbrite_id: ''
+    humandate: Jan 29-30, 2018
+    latitude: 51.968003
+    longitude: 7.59117
+    slug: 2018-01-29-maxplanck
+    start: 2018-01-29
+    tags:
+    - {name: DC}
+    url: https://liz-is.github.io/2018-01-29-maxplanck/
+    venue: Max Planck Institute for Molecular Biomedicine
+  - address: HBS
+    contact: peter.smyth@manchester.ac.uk
+    country: gb
+    end: 2018-01-30
+    eventbrite_id: ''
+    humandate: Jan 29-30, 2018
+    latitude: 53.466722
+    longitude: -2.236463
+    slug: 2018-01-29-MAN-SS-PILOT02
+    start: 2018-01-29
+    tags:
+    - {name: DC}
+    url: https://petersmyth12.github.io/2018-01-29-MAN-SS-PILOT02/
+    venue: University of Manchester
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
     contact: minglu@rutgers.edu
     country: us
@@ -6922,92 +7177,48 @@ workshops:
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
 - &id001
-  - address: Monsanto Room (ACES Library)
-    contact: training@cse.illinois.edu
+  - address: Generaal Jacqueslaan 271, 1050 Brussels
+    contact: paula.martinez@elixir-belgium.org
+    country: BE
+    end: 2018-06-13
+    eventbrite_id: ''
+    humandate: Jun 12-13, 2018
+    latitude: 50.824343
+    longitude: 4.394176
+    slug: 2018-06-12-bru-datacarpentry-inbo-elixir
+    start: 2018-06-12
+    tags:
+    - {name: DC}
+    url: https://inbo.github.io/2018-06-12-bru-datacarpentry-inbo-elixir/
+    venue: U-residence
+  - address: TBD
+    contact: sheraaron@carpentries.org
     country: US
-    end: 2018-02-21
-    eventbrite_id: '42128326960'
-    humandate: Feb 20-21, 2018
-    latitude: 40.1028197
-    longitude: -88.2272995
-    slug: 2018-02-20-uiuc
-    start: 2018-02-20
-    tags:
-    - {name: DC}
-    url: https://swc-uiuc.github.io/2018-02-20-uiuc/
-    venue: University of Illinois
-  - address: Collage of Natural and Computational Science  - Zoological Science Lab
-    contact: mesfin.diro@aau.edu.et
-    country: ET
-    end: 2018-02-09
+    end: 2018-03-09
     eventbrite_id: ''
-    humandate: Feb 08-09, 2018
-    latitude: 9.03403
-    longitude: 38.7662
-    slug: 2018-02-08-AAU
-    start: 2018-02-08
+    humandate: Mar 08-09, 2018
+    latitude: 37.65869
+    longitude: -122.400136
+    slug: 2018-03-08-genentech
+    start: 2018-03-08
     tags:
     - {name: DC}
-    url: https://mesfind.github.io/2018-02-08-AAU/
-    venue: Data Carpentry Workshop at Center for Environmental Sciences
-  - address: 10th St. & Constitution Ave. NW, Washington, DC 20560
-    contact: Beth Stern sternb@si.edu
+    url: https://erinbecker.github.io/2018-03-08-genentech/
+    venue: Genentech
+  - address: Contees Wharf Rd., Edgewater, MD 21037
+    contact: SI-DataScience@si.edu
     country: US
-    end: 2018-02-08
+    end: 2018-03-08
     eventbrite_id: ''
-    humandate: Feb 07-08, 2018
-    latitude: 38.891266
-    longitude: -77.026065
-    slug: 2018-02-07-smithsonian
-    start: 2018-02-07
+    humandate: Mar 07-08, 2018
+    latitude: 38.887502
+    longitude: -76.540474
+    slug: 2018-03-07-serc
+    start: 2018-03-07
     tags:
     - {name: DC}
-    url: https://ljcohen.github.io/2018-02-07-smithsonian/
-    venue: Smithsonian Institution, National Museum of Natural History
-  - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
-      Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein
-    contact: juan.steyn@nwu.ac.za
-    country: ZA
-    end: 2018-02-01
-    eventbrite_id: ''
-    humandate: Jan 31-Feb 01, 2018
-    latitude: -26.1904893
-    longitude: 28.0260775
-    slug: 2018-01-31-WITS
-    start: 2018-01-31
-    tags:
-    - {name: DC}
-    url: https://dh-southernafrica.github.io/2018-01-31-WITS/
-    venue: Wits University
-  - address: Seminar room, MPI for Molecular Biomedicine, Röntgenstraße 20, 48149
-      Münster
-    contact: phdnet-mpims@mpi-muenster.mpg.de
-    country: DE
-    end: 2018-01-30
-    eventbrite_id: ''
-    humandate: Jan 29-30, 2018
-    latitude: 51.968003
-    longitude: 7.59117
-    slug: 2018-01-29-maxplanck
-    start: 2018-01-29
-    tags:
-    - {name: DC}
-    url: https://liz-is.github.io/2018-01-29-maxplanck/
-    venue: Max Planck Institute for Molecular Biomedicine
-  - address: 428 Armory (CITL rooms)
-    contact: training@cse.illinois.edu
-    country: US
-    end: 2018-01-26
-    eventbrite_id: '41685396142'
-    humandate: Jan 25-26, 2018
-    latitude: 40.1047489
-    longitude: -88.2341386
-    slug: 2018-01-25-uiuc
-    start: 2018-01-25
-    tags:
-    - {name: DC}
-    url: https://swc-uiuc.github.io/2018-01-25-uiuc/
-    venue: University of Illinois
+    url: https://smithsonianworkshops.github.io/2018-03-07-serc/
+    venue: Data Carpentry at SERC
   - address: Marston Science Library Rm. L136
     contact: shawntaylor@weecology.org
     country: US
