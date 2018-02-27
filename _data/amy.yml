@@ -1203,6 +1203,7 @@ airports:
   - {name: Adam Huffman, user: huffman_adam}
   - {name: Eamonn Murray, user: murray_eamonn}
   - {name: Nicolas Barral, user: barral_nicolas}
+  - {name: Rocio T. Martinez Nunez, user: martinez-nunez_rocio}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -4481,9 +4482,23 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180227T140005Z
+timestamp: 20180227T150005Z
 workshops:
 - &id002
+  - address: King's College London Guy's Campus, London, SE1 3RR
+    contact: Gabriella Rustici <gr231@cam.ac.uk>
+    country: gb
+    end: 2018-02-23
+    eventbrite_id: ''
+    humandate: Feb 22-23, 2018
+    latitude: 51.504001
+    longitude: -0.087794
+    slug: 2018-02-22-KCL
+    start: 2018-02-22
+    tags:
+    - {name: DC}
+    url: https://tavareshugo.github.io/2018-02-22-KCL/
+    venue: King's College London
   - address: Monsanto Room (ACES Library)
     contact: training@cse.illinois.edu
     country: us
