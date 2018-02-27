@@ -4482,7 +4482,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180227T180004Z
+timestamp: 20180227T190003Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
@@ -7219,6 +7219,20 @@ workshops:
     - {name: DC}
     url: https://smithsonianworkshops.github.io/2018-03-07-serc/
     venue: Data Carpentry at SERC
+  - address: 550 1st Ave, New York, NY 10016
+    contact: ruttleym@gmail.comdavid@yakobovitch.com
+    country: US
+    end: 2018-03-04
+    eventbrite_id: ''
+    humandate: Mar 03-04, 2018
+    latitude: 40.742068
+    longitude: -73.974332
+    slug: 2018-03-03-nyumc
+    start: 2018-03-03
+    tags:
+    - {name: DC}
+    url: https://arhodes-univ-vermont.github.io/2018-03-04-NYU/
+    venue: New York University
   - address: Marston Science Library Rm. L136
     contact: shawntaylor@weecology.org
     country: US
