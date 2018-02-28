@@ -4482,7 +4482,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180228T140008Z
+timestamp: 20180228T150006Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
@@ -7191,6 +7191,20 @@ workshops:
     - {name: DC}
     url: https://inbo.github.io/2018-06-12-bru-datacarpentry-inbo-elixir/
     venue: U-residence
+  - address: 3205 College Ave, 33314, Davie, FL
+    contact: simona.picardi@ufl.edu
+    country: US
+    end: 2018-04-24
+    eventbrite_id: ''
+    humandate: Apr 23-24, 2018
+    latitude: 26.083965
+    longitude: -80.237204
+    slug: 2018-04-23-uf-flrec
+    start: 2018-04-23
+    tags:
+    - {name: DC}
+    url: https://picardis.github.io/2018-04-23-uf-flrec/
+    venue: Fort Lauderdale Research and Education Center, University of Florida
   - address: TBD
     contact: sheraaron@carpentries.org
     country: US
