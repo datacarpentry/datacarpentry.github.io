@@ -3681,6 +3681,10 @@ badges:
   - {awarded: '2018-02-20', name: Gaonyalelwe Maribe, user: maribe_gaonyalelwe}
   - {awarded: '2018-02-20', name: Shaun Bennett, user: bennett_shaun}
   - {awarded: '2018-02-20', name: Karla Lindquist, user: lindquist_karla}
+  - {awarded: '2018-03-01', name: Ziyaad Parker, user: parker_ziyaad}
+  - {awarded: '2018-03-01', name: Anandi Bierman, user: bierman_anandi}
+  - {awarded: '2018-03-01', name: Sreejith Nair, user: nair_sreejith}
+  - {awarded: '2018-03-01', name: Boryana Koseva, user: koseva_boryana}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4374,6 +4378,12 @@ badges:
   - {awarded: '2018-02-20', name: Michael Bales, user: bales_michael}
   - {awarded: '2018-02-20', name: Hailey Cahill, user: cahill_hailey}
   - {awarded: '2018-02-22', name: Mallory Lai, user: lai_mal}
+  - {awarded: '2018-03-01', name: Katie Lennard, user: lennard_katie}
+  - {awarded: '2018-03-01', name: Anne Treasure, user: treasure_anne}
+  - {awarded: '2018-03-01', name: Juan Rodriguez Herrera, user: rodriguez-herrera_juan}
+  - {awarded: '2018-03-01', name: Mohsin Desai, user: desai_mohsin}
+  - {awarded: '2018-03-01', name: Nikki Gentle, user: gentle_nikki}
+  - {awarded: '2018-03-01', name: Bukola Rhoda Aremu, user: aremu_bukola-rhoda}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4482,7 +4492,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180301T160004Z
+timestamp: 20180301T170007Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
