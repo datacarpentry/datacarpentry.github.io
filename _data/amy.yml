@@ -3687,6 +3687,12 @@ badges:
   - {awarded: '2018-03-01', name: Boryana Koseva, user: koseva_boryana}
   - {awarded: '2018-03-01', name: Michael Zingale, user: zingale_michael}
   - {awarded: '2018-03-01', name: Aaron Milstein, user: milstein_aaron}
+  - {awarded: '2018-03-01', name: Johan Hidding, user: hidding_johan}
+  - {awarded: '2018-03-01', name: Shreyas Narsipur, user: narsipur_shreyas}
+  - {awarded: '2018-03-01', name: Casey Youngflesh, user: youngflesh_casey}
+  - {awarded: '2018-03-01', name: Anders Pitman, user: pitman_anders}
+  - {awarded: '2018-03-01', name: Ryan Pepper, user: pepper_ryan}
+  - {awarded: '2018-03-01', name: Heidi Tebbe, user: tebbe_heidi}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4387,6 +4393,8 @@ badges:
   - {awarded: '2018-03-01', name: Nikki Gentle, user: gentle_nikki}
   - {awarded: '2018-03-01', name: Bukola Rhoda Aremu, user: aremu_bukola-rhoda}
   - {awarded: '2018-03-01', name: Donald Willcox, user: willcox_donald}
+  - {awarded: '2018-03-01', name: Jessica Holmes, user: holmes_jessica}
+  - {awarded: '2018-03-01', name: Mark Fernandes, user: fernandes_mark}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4495,7 +4503,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180301T180006Z
+timestamp: 20180301T190007Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
