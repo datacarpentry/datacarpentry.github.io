@@ -4503,7 +4503,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180302T050005Z
+timestamp: 20180302T060004Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
@@ -4620,6 +4620,20 @@ workshops:
     - {name: DC}
     url: https://petersmyth12.github.io/2018-01-29-MAN-SS-PILOT02/
     venue: University of Manchester
+  - address: Marston Science Library Rm. L136
+    contact: shawntaylor@weecology.org
+    country: us
+    end: 2018-03-01
+    eventbrite_id: English
+    humandate: Jan 18-Mar 01, 2018
+    latitude: 29.647984
+    longitude: -82.344002
+    slug: 2018-01-18-UF-R
+    start: 2018-01-18
+    tags:
+    - {name: DC}
+    url: https://ufrmeetup.github.io/2018-01-18-UF-R/
+    venue: University of Florida
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
     contact: minglu@rutgers.edu
     country: us
@@ -7296,19 +7310,5 @@ workshops:
     - {name: DC}
     url: https://arhodes-univ-vermont.github.io/2018-03-04-NYU/
     venue: New York University
-  - address: Marston Science Library Rm. L136
-    contact: shawntaylor@weecology.org
-    country: US
-    end: 2018-03-01
-    eventbrite_id: English
-    humandate: Jan 18-Mar 01, 2018
-    latitude: 29.647984
-    longitude: -82.344002
-    slug: 2018-01-18-UF-R
-    start: 2018-01-18
-    tags:
-    - {name: DC}
-    url: https://ufrmeetup.github.io/2018-01-18-UF-R/
-    venue: University of Florida
 workshops_current: *id001
 workshops_past: *id002
