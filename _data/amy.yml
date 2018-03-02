@@ -3693,6 +3693,7 @@ badges:
   - {awarded: '2018-03-01', name: Anders Pitman, user: pitman_anders}
   - {awarded: '2018-03-01', name: Ryan Pepper, user: pepper_ryan}
   - {awarded: '2018-03-01', name: Heidi Tebbe, user: tebbe_heidi}
+  - {awarded: '2018-03-02', name: Emmanuel James San, user: san_emmanuel-james}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4503,7 +4504,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180302T210006Z
+timestamp: 20180302T220006Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
