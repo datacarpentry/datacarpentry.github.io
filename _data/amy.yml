@@ -4503,7 +4503,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180302T140005Z
+timestamp: 20180302T150005Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
@@ -7240,6 +7240,20 @@ workshops:
     - {name: DC}
     url: https://picardis.github.io/2018-04-23-uf-flrec/
     venue: Fort Lauderdale Research and Education Center, University of Florida
+  - address: Hawassa University - Exact venue to be confirmed
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-03-27
+    eventbrite_id: ''
+    humandate: Mar 26-27, 2018
+    latitude: 7.0522
+    longitude: 38.4994
+    slug: 2018-03-26-DC-HU
+    start: 2018-03-26
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-03-26-DC-HU/
+    venue: 'Hawassa University: Data carpentry Workshop'
   - address: TBD
     contact: sheraaron@carpentries.org
     country: US
