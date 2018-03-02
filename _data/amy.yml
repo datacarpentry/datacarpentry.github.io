@@ -4503,7 +4503,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180301T230006Z
+timestamp: 20180302T000007Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
