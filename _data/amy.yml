@@ -4504,7 +4504,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180304T070005Z
+timestamp: 20180304T080007Z
 workshops:
 - &id002
   - address: King's College London Guy's Campus, London, SE1 3RR
@@ -4577,6 +4577,20 @@ workshops:
     - {name: DC}
     url: https://ljcohen.github.io/2018-02-07-smithsonian/
     venue: Smithsonian Institution, National Museum of Natural History
+  - address: Room 232, Mathews Building, UNSW Kensington Campus
+    contact: irving.damien@gmail.com
+    country: au
+    end: 2018-02-04
+    eventbrite_id: ''
+    humandate: Feb 04-04, 2018
+    latitude: -33.917729
+    longitude: 151.23423
+    slug: 2018-02-04-amos-icshmo
+    start: 2018-02-04
+    tags:
+    - {name: DC}
+    url: https://damienirving.github.io/2018-02-04-amos-icshmo/
+    venue: AMOS-ICSHMO Conference
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
       Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein
     contact: juan.steyn@nwu.ac.za
