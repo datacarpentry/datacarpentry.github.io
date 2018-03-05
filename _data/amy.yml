@@ -1996,6 +1996,7 @@ airports:
   - {name: Priyanka Singh, user: singh_priyanka}
   - {name: Alistair Bailey, user: bailey_alistair}
   - {name: James Graham, user: graham_james}
+  - {name: Ryan Pepper, user: pepper_ryan}
   - {name: Tomas Muller, user: muller_tomas}
   latitude: 50.95
   longitude: -1.356667
@@ -2025,6 +2026,7 @@ airports:
   - {name: Krzysztof Strug, user: strug_krzysztof}
   - {name: Hugo Tavares, user: tavares_hugo}
   - {name: Marco Chiapello, user: chiapello_marco}
+  - {name: Mark Fernandes, user: fernandes_mark}
   latitude: 51.885
   longitude: 0.235
   name: Stansted
@@ -3681,6 +3683,19 @@ badges:
   - {awarded: '2018-02-20', name: Gaonyalelwe Maribe, user: maribe_gaonyalelwe}
   - {awarded: '2018-02-20', name: Shaun Bennett, user: bennett_shaun}
   - {awarded: '2018-02-20', name: Karla Lindquist, user: lindquist_karla}
+  - {awarded: '2018-03-01', name: Ziyaad Parker, user: parker_ziyaad}
+  - {awarded: '2018-03-01', name: Anandi Bierman, user: bierman_anandi}
+  - {awarded: '2018-03-01', name: Sreejith Nair, user: nair_sreejith}
+  - {awarded: '2018-03-01', name: Boryana Koseva, user: koseva_boryana}
+  - {awarded: '2018-03-01', name: Michael Zingale, user: zingale_michael}
+  - {awarded: '2018-03-01', name: Aaron Milstein, user: milstein_aaron}
+  - {awarded: '2018-03-01', name: Johan Hidding, user: hidding_johan}
+  - {awarded: '2018-03-01', name: Shreyas Narsipur, user: narsipur_shreyas}
+  - {awarded: '2018-03-01', name: Casey Youngflesh, user: youngflesh_casey}
+  - {awarded: '2018-03-01', name: Anders Pitman, user: pitman_anders}
+  - {awarded: '2018-03-01', name: Ryan Pepper, user: pepper_ryan}
+  - {awarded: '2018-03-01', name: Heidi Tebbe, user: tebbe_heidi}
+  - {awarded: '2018-03-02', name: Emmanuel James San, user: san_emmanuel-james}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4374,6 +4389,15 @@ badges:
   - {awarded: '2018-02-20', name: Michael Bales, user: bales_michael}
   - {awarded: '2018-02-20', name: Hailey Cahill, user: cahill_hailey}
   - {awarded: '2018-02-22', name: Mallory Lai, user: lai_mal}
+  - {awarded: '2018-03-01', name: Katie Lennard, user: lennard_katie}
+  - {awarded: '2018-03-01', name: Anne Treasure, user: treasure_anne}
+  - {awarded: '2018-03-01', name: Juan Rodriguez Herrera, user: rodriguez-herrera_juan}
+  - {awarded: '2018-03-01', name: Mohsin Desai, user: desai_mohsin}
+  - {awarded: '2018-03-01', name: Nikki Gentle, user: gentle_nikki}
+  - {awarded: '2018-03-01', name: Bukola Rhoda Aremu, user: aremu_bukola-rhoda}
+  - {awarded: '2018-03-01', name: Donald Willcox, user: willcox_donald}
+  - {awarded: '2018-03-01', name: Jessica Holmes, user: holmes_jessica}
+  - {awarded: '2018-03-01', name: Mark Fernandes, user: fernandes_mark}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4482,9 +4506,23 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180227T170006Z
+timestamp: 20180305T230006Z
 workshops:
 - &id002
+  - address: 550 1st Ave, New York, NY 10016
+    contact: ruttleym@gmail.comdavid@yakobovitch.com
+    country: us
+    end: 2018-03-04
+    eventbrite_id: ''
+    humandate: Mar 03-04, 2018
+    latitude: 40.742068
+    longitude: -73.974332
+    slug: 2018-03-03-nyumc
+    start: 2018-03-03
+    tags:
+    - {name: DC}
+    url: https://arhodes-univ-vermont.github.io/2018-03-04-NYU/
+    venue: New York University
   - address: King's College London Guy's Campus, London, SE1 3RR
     contact: Gabriella Rustici <gr231@cam.ac.uk>
     country: gb
@@ -4555,6 +4593,20 @@ workshops:
     - {name: DC}
     url: https://ljcohen.github.io/2018-02-07-smithsonian/
     venue: Smithsonian Institution, National Museum of Natural History
+  - address: Room 232, Mathews Building, UNSW Kensington Campus
+    contact: irving.damien@gmail.com
+    country: au
+    end: 2018-02-04
+    eventbrite_id: ''
+    humandate: Feb 04-04, 2018
+    latitude: -33.917729
+    longitude: 151.23423
+    slug: 2018-02-04-amos-icshmo
+    start: 2018-02-04
+    tags:
+    - {name: DC}
+    url: https://damienirving.github.io/2018-02-04-amos-icshmo/
+    venue: AMOS-ICSHMO Conference
   - address: MSL111, Mathematical Sciences Laboratories, Lower Ground Floor, Mathematical
       Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein
     contact: juan.steyn@nwu.ac.za
@@ -4599,6 +4651,20 @@ workshops:
     - {name: DC}
     url: https://petersmyth12.github.io/2018-01-29-MAN-SS-PILOT02/
     venue: University of Manchester
+  - address: Marston Science Library Rm. L136
+    contact: shawntaylor@weecology.org
+    country: us
+    end: 2018-03-01
+    eventbrite_id: English
+    humandate: Jan 18-Mar 01, 2018
+    latitude: 29.647984
+    longitude: -82.344002
+    slug: 2018-01-18-UF-R
+    start: 2018-01-18
+    tags:
+    - {name: DC}
+    url: https://ufrmeetup.github.io/2018-01-18-UF-R/
+    venue: University of Florida
   - address: Dana Library, 185 University Avenue, Electronic Classroom I
     contact: minglu@rutgers.edu
     country: us
@@ -4996,6 +5062,20 @@ workshops:
     - {name: DC}
     url: https://asliuyar.github.io/2017-09-19-berkeleylab/
     venue: Lawrence Berkeley National Laboratory
+  - address: Lab 10, Maths Building, First Floor, University of Limpopo
+    contact: anelda.vdwalt@gmail.com
+    country: za
+    end: 2017-09-20
+    eventbrite_id: ''
+    humandate: Sep 18-20, 2017
+    latitude: -23.888819
+    longitude: 29.73855
+    slug: 2017-09-18-UniversityLimpopo
+    start: 2017-09-18
+    tags:
+    - {name: DC}
+    url: https://anelda.github.io/2017-09-18-UniversityLimpopo/
+    venue: Lab 10, Maths Building, First Floor, University of Limpopo
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
     contact: Gabriella Rustici <gr231@cam.ac.uk>
     country: gb
@@ -7191,6 +7271,34 @@ workshops:
     - {name: DC}
     url: https://inbo.github.io/2018-06-12-bru-datacarpentry-inbo-elixir/
     venue: U-residence
+  - address: 3205 College Ave, 33314, Davie, FL
+    contact: simona.picardi@ufl.edu
+    country: US
+    end: 2018-04-24
+    eventbrite_id: ''
+    humandate: Apr 23-24, 2018
+    latitude: 26.083965
+    longitude: -80.237204
+    slug: 2018-04-23-uf-flrec
+    start: 2018-04-23
+    tags:
+    - {name: DC}
+    url: https://picardis.github.io/2018-04-23-uf-flrec/
+    venue: Fort Lauderdale Research and Education Center, University of Florida
+  - address: Hawassa University - Exact venue to be confirmed
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-03-27
+    eventbrite_id: ''
+    humandate: Mar 26-27, 2018
+    latitude: 7.0522
+    longitude: 38.4994
+    slug: 2018-03-26-DC-HU
+    start: 2018-03-26
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-03-26-DC-HU/
+    venue: 'Hawassa University: Data carpentry Workshop'
   - address: TBD
     contact: sheraaron@carpentries.org
     country: US
@@ -7219,19 +7327,33 @@ workshops:
     - {name: DC}
     url: https://smithsonianworkshops.github.io/2018-03-07-serc/
     venue: Data Carpentry at SERC
-  - address: Marston Science Library Rm. L136
-    contact: shawntaylor@weecology.org
+  - address: 1070 Partners Way, Raleigh, NC 27606
+    contact: williams@cshl.edu
     country: US
-    end: 2018-03-01
-    eventbrite_id: English
-    humandate: Jan 18-Mar 01, 2018
-    latitude: 29.647984
-    longitude: -82.344002
-    slug: 2018-01-18-UF-R
-    start: 2018-01-18
+    end: 2018-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2018
+    latitude: 35.7692755
+    longitude: -78.7114493
+    slug: 2018-03-07-ncstate
+    start: 2018-03-07
     tags:
     - {name: DC}
-    url: https://ufrmeetup.github.io/2018-01-18-UF-R/
-    venue: University of Florida
+    url: https://jasonjwilliamsny.github.io/2018-03-07-ncstate/
+    venue: James B. Hunt Jr. Library, NC State
+  - address: Axum University - Exact venue to be confirmed
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-03-06
+    eventbrite_id: ''
+    humandate: Mar 05-06, 2018
+    latitude: 14.10636
+    longitude: 38.7045213
+    slug: 2018-03-05-DC-AU
+    start: 2018-03-05
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-03-05-DC-AU/
+    venue: 'Axum University: Data Carpentry Workshop'
 workshops_current: *id001
 workshops_past: *id002

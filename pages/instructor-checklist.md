@@ -20,8 +20,8 @@ Each instructor is responsible for preparing to teach their section(s) of the wo
 
 ## At the workshop:  
 - [ ] Remind your learners about the [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/)  
-- [ ] Remind learners to use their sticky notes to give feedback - see description of how these are used [here](http://carpentries.github.io/instructor-training/15-practices/)  
-- [ ] Get feedback with minute cards at lunch and end of each day - see description of minute cards [here](http://carpentries.github.io/instructor-training/15-practices/)
+- [ ] Remind learners to use their sticky notes to give feedback - see description of how these are used [here](https://carpentries.github.io/instructor-training/15-live/#sticky-notes)  
+- [ ] Get feedback with minute cards at lunch and end of each day - see description of minute cards [here](http://carpentries.github.io/instructor-training/06-feedback/#minute-cards)
 
 ## After the workshop:  
 - [ ] Take part in an [instructor discussion session](http://pad.software-carpentry.org/instructor-discussion)  
