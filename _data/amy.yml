@@ -4504,7 +4504,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180305T110004Z
+timestamp: 20180305T120005Z
 workshops:
 - &id002
   - address: 550 1st Ave, New York, NY 10016
@@ -5060,6 +5060,20 @@ workshops:
     - {name: DC}
     url: https://asliuyar.github.io/2017-09-19-berkeleylab/
     venue: Lawrence Berkeley National Laboratory
+  - address: Lab 10, Maths Building, First Floor, University of Limpopo
+    contact: anelda.vdwalt@gmail.com
+    country: za
+    end: 2017-09-20
+    eventbrite_id: ''
+    humandate: Sep 18-20, 2017
+    latitude: -23.888819
+    longitude: 29.73855
+    slug: 2017-09-18-UniversityLimpopo
+    start: 2017-09-18
+    tags:
+    - {name: DC}
+    url: https://anelda.github.io/2017-09-18-UniversityLimpopo/
+    venue: Lab 10, Maths Building, First Floor, University of Limpopo
   - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
     contact: Gabriella Rustici <gr231@cam.ac.uk>
     country: gb
