@@ -4507,7 +4507,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180306T170006Z
+timestamp: 20180306T180006Z
 workshops:
 - &id002
   - address: 550 1st Ave, New York, NY 10016
