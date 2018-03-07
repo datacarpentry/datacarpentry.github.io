@@ -4511,9 +4511,23 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180307T050006Z
+timestamp: 20180307T060004Z
 workshops:
 - &id002
+  - address: Axum University - Exact venue to be confirmed
+    contact: mesfin.diro@aau.edu.et
+    country: et
+    end: 2018-03-06
+    eventbrite_id: ''
+    humandate: Mar 05-06, 2018
+    latitude: 14.10636
+    longitude: 38.7045213
+    slug: 2018-03-05-DC-AU
+    start: 2018-03-05
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-03-05-DC-AU/
+    venue: 'Axum University: Data Carpentry Workshop'
   - address: 550 1st Ave, New York, NY 10016
     contact: ruttleym@gmail.comdavid@yakobovitch.com
     country: us
@@ -7346,19 +7360,5 @@ workshops:
     - {name: DC}
     url: https://jasonjwilliamsny.github.io/2018-03-07-ncstate/
     venue: James B. Hunt Jr. Library, NC State
-  - address: Axum University - Exact venue to be confirmed
-    contact: mesfin.diro@aau.edu.et
-    country: ET
-    end: 2018-03-06
-    eventbrite_id: ''
-    humandate: Mar 05-06, 2018
-    latitude: 14.10636
-    longitude: 38.7045213
-    slug: 2018-03-05-DC-AU
-    start: 2018-03-05
-    tags:
-    - {name: DC}
-    url: https://mesfind.github.io/2018-03-05-DC-AU/
-    venue: 'Axum University: Data Carpentry Workshop'
 workshops_current: *id001
 workshops_past: *id002
