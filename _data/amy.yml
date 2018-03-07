@@ -3697,6 +3697,7 @@ badges:
   - {awarded: '2018-03-01', name: Heidi Tebbe, user: tebbe_heidi}
   - {awarded: '2018-03-02', name: Emmanuel James San, user: san_emmanuel-james}
   - {awarded: '2018-03-06', name: Sabry Razick, user: razick_sabry}
+  - {awarded: '2018-03-06', name: Brian Clee, user: clee_brian}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4507,7 +4508,7 @@ flags:
     tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180307T000007Z
+timestamp: 20180307T010005Z
 workshops:
 - &id002
   - address: 550 1st Ave, New York, NY 10016
