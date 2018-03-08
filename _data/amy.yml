@@ -4546,7 +4546,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180307T230007Z
+timestamp: 20180308T000005Z
 workshops:
 - &id002
   - address: Axum University - Exact venue to be confirmed
