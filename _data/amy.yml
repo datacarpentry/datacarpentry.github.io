@@ -3737,6 +3737,9 @@ badges:
   - {awarded: '2018-03-06', name: Manuel Gottardi, user: gottardi_manuel}
   - {awarded: '2018-03-07', name: Craig Rafter, user: rafter_craig}
   - {awarded: '2018-03-08', name: Arshad Emmambux, user: emmambux_arshad}
+  - {awarded: '2018-03-08', name: Faruk Diblen, user: diblen_faruk}
+  - {awarded: '2018-03-08', name: Marisa Lim, user: lim_marisa}
+  - {awarded: '2018-03-08', name: Joshua Dull, user: dull_joshua}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4547,7 +4550,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180308T190004Z
+timestamp: 20180308T200003Z
 workshops:
 - &id002
   - address: Axum University - Exact venue to be confirmed
