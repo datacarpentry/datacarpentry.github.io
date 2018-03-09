@@ -4550,9 +4550,37 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180309T050003Z
+timestamp: 20180309T060006Z
 workshops:
 - &id002
+  - address: Contees Wharf Rd., Edgewater, MD 21037
+    contact: SI-DataScience@si.edu
+    country: us
+    end: 2018-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2018
+    latitude: 38.887502
+    longitude: -76.540474
+    slug: 2018-03-07-serc
+    start: 2018-03-07
+    tags:
+    - {name: DC}
+    url: https://smithsonianworkshops.github.io/2018-03-07-serc/
+    venue: Data Carpentry at SERC
+  - address: 1070 Partners Way, Raleigh, NC 27606
+    contact: williams@cshl.edu
+    country: us
+    end: 2018-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2018
+    latitude: 35.7692755
+    longitude: -78.7114493
+    slug: 2018-03-07-ncstate
+    start: 2018-03-07
+    tags:
+    - {name: DC}
+    url: https://jasonjwilliamsny.github.io/2018-03-07-ncstate/
+    venue: James B. Hunt Jr. Library, NC State
   - address: Axum University - Exact venue to be confirmed
     contact: mesfin.diro@aau.edu.et
     country: et
@@ -7371,33 +7399,5 @@ workshops:
     - {name: DC}
     url: https://erinbecker.github.io/2018-03-08-genentech/
     venue: Genentech
-  - address: Contees Wharf Rd., Edgewater, MD 21037
-    contact: SI-DataScience@si.edu
-    country: US
-    end: 2018-03-08
-    eventbrite_id: ''
-    humandate: Mar 07-08, 2018
-    latitude: 38.887502
-    longitude: -76.540474
-    slug: 2018-03-07-serc
-    start: 2018-03-07
-    tags:
-    - {name: DC}
-    url: https://smithsonianworkshops.github.io/2018-03-07-serc/
-    venue: Data Carpentry at SERC
-  - address: 1070 Partners Way, Raleigh, NC 27606
-    contact: williams@cshl.edu
-    country: US
-    end: 2018-03-08
-    eventbrite_id: ''
-    humandate: Mar 07-08, 2018
-    latitude: 35.7692755
-    longitude: -78.7114493
-    slug: 2018-03-07-ncstate
-    start: 2018-03-07
-    tags:
-    - {name: DC}
-    url: https://jasonjwilliamsny.github.io/2018-03-07-ncstate/
-    venue: James B. Hunt Jr. Library, NC State
 workshops_current: *id001
 workshops_past: *id002
