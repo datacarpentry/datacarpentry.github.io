@@ -529,6 +529,7 @@ airports:
   - {name: Samar Salah Mohamedahmed Elsheikh, user: elsheikh_samar}
   - {name: David Matten, user: matten_david}
   - {name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
+  - {name: Kayleigh Lino, user: lino_kayleigh}
   latitude: -33.964722
   longitude: 18.601667
   name: Cape Town
@@ -4550,7 +4551,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180309T170004Z
+timestamp: 20180309T180005Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
@@ -7385,16 +7386,16 @@ workshops:
     - {name: DC}
     url: https://mesfind.github.io/2018-03-26-DC-HU/
     venue: 'Hawassa University: Data carpentry Workshop'
-  - address: TBD
-    contact: sheraaron@carpentries.org
+  - address: B82-14G Golden Gate Training Room
+    contact: kassam.altaf@gene.com
     country: US
-    end: 2018-03-09
+    end: 2018-03-21
     eventbrite_id: ''
-    humandate: Mar 08-09, 2018
-    latitude: 37.65869
-    longitude: -122.400136
-    slug: 2018-03-08-genentech
-    start: 2018-03-08
+    humandate: Mar 20-21, 2018
+    latitude: 37.659596
+    longitude: -122.39914
+    slug: 2018-03-20-genentech
+    start: 2018-03-20
     tags:
     - {name: DC}
     url: https://erinbecker.github.io/2018-03-08-genentech/
