@@ -4551,7 +4551,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180312T140004Z
+timestamp: 20180312T150005Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
@@ -7372,6 +7372,20 @@ workshops:
     - {name: DC}
     url: https://picardis.github.io/2018-04-23-uf-flrec/
     venue: Fort Lauderdale Research and Education Center, University of Florida
+  - address: 6300 Ocean Dr, Corpus Christi, TX, USA
+    contact: LShowalter@nas.eduTThorowg@nas.edu
+    country: US
+    end: 2018-04-18
+    eventbrite_id: ''
+    humandate: Apr 16-18, 2018
+    latitude: 27.716548
+    longitude: -97.328816
+    slug: 2018-04-16-nas
+    start: 2018-04-16
+    tags:
+    - {name: DC}
+    url: https://bpteague.github.io/2018-04-16-nas/
+    venue: NAS Gulf Research Program
   - address: Hawassa University - Exact venue to be confirmed
     contact: mesfin.diro@aau.edu.et
     country: ET
