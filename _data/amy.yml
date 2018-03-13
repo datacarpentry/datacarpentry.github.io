@@ -4545,13 +4545,30 @@ badges:
   - {awarded: '2017-08-28', name: Danielle Quinn, user: quinn_danielle}
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
+  - {awarded: '2018-03-12', name: Nicholas Tierney, user: tierney_nicholas}
+  - {awarded: '2018-03-12', name: Claire Hardgrove, user: hardgrove_claire}
+  - {awarded: '2018-03-12', name: Mesfin Diro Chaka, user: diro-chaka_mesfin}
+  - {awarded: '2018-03-12', name: Toby Hodges, user: hodges_toby}
+  - {awarded: '2018-03-12', name: Jessica Upani, user: upani_jessica}
+  - {awarded: '2018-03-12', name: Anne Fouilloux, user: fouilloux_anne}
+  - {awarded: '2018-03-12', name: Mik Black, user: black_mik}
+  - {awarded: '2018-03-12', name: Murray Cadzow, user: cadzow_murray}
+  - {awarded: '2018-03-12', name: Caroline Ajilogba, user: ajilogba_caroline}
+  - {awarded: '2018-03-12', name: Senzo Mpungose, user: mpungose_senzo}
+  - {awarded: '2018-03-12', name: David Perez-Suarez, user: perez-suarez_david}
+  - {awarded: '2018-03-12', name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
+  - {awarded: '2018-03-12', name: Tania Rebeca Allard, user: allard_tania}
+  - {awarded: '2018-03-12', name: Elizabeth Williams, user: williams_elizabeth}
+  - {awarded: '2018-03-12', name: SherAaron Nicole Hurt, user: hurt_sheraaron}
+  - {awarded: '2018-03-12', name: Anne C Axel, user: axel_anne}
+  - {awarded: '2018-03-12', name: Juliane Schneider, user: schneider_juliane}
 flags:
   airports: [ae, au, be, bj, br, ca, ch, cl, cn, cz, de, dk, ee, es, et, fr, gb, gr,
     hk, ie, il, in, it, jp, lt, lu, mx, na, nl, 'no', nz, pl, pt, sa, se, sg, si,
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180312T230005Z
+timestamp: 20180313T000006Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
