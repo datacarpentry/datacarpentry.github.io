@@ -1541,6 +1541,7 @@ airports:
   - {name: Sean Barberie, user: barberie_sean}
   - {name: Garret Christensen, user: christensen_garret}
   - {name: Joseph Montoya, user: montoya_joseph}
+  - {name: Scott Carl Peterson, user: peterson_scott}
   - {name: Shyam Dwaraknath, user: dwaraknath_shyam}
   - {name: Murat Aykol, user: aykol_murat}
   - {name: Thomas Sandmann, user: sandmann_thomas}
@@ -3489,7 +3490,7 @@ badges:
   - {awarded: '2017-07-14', name: Eleanor Lutz, user: lutz_eleanor}
   - {awarded: '2017-07-14', name: Ilektra Athanasia Christidi, user: christidi_ilektra-athanasia}
   - {awarded: '2017-07-14', name: Claudia Lange, user: lange_claudia}
-  - {awarded: '2017-07-14', name: Scott Peterson, user: peterson_scott}
+  - {awarded: '2017-07-14', name: Scott Carl Peterson, user: peterson_scott}
   - {awarded: '2017-07-14', name: Martin John Hadley, user: hadley_martin}
   - {awarded: '2017-07-14', name: Meghan Sinclair-Black, user: sinclair-black_meghan}
   - {awarded: '2017-07-14', name: Rene Heim, user: heim_rene}
@@ -4568,7 +4569,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180314T220007Z
+timestamp: 20180314T230004Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
