@@ -19,7 +19,7 @@ The lead instructor is also responsible for preparing to teach the material - se
 ## Before the workshop:  
 - [ ] With the workshop host and your co-instructors, decide on your [curriculum](/workshops/), the order of lessons and who will teach each lesson  
 - [ ] Create an Etherpad for your workshop at http://pad.software-carpentry.org/YYYY-MM-DD-site (where "YYYY-MM-DD-site" is the ID of your workshop)
-- [ ] [Set up your workshop website](https://github.com/datacarpentry/workshop-template)  
+- [ ] [Set up your workshop website](https://github.com/swcarpentry/workshop-template)  
 - [ ] Send your website repository’s URL to the [Data Carpentry workshop coordinator](mailto:team@carpentries.org) (team@carpentries.org)  
 - [ ] Assist the workshop host with [recruiting helpers](/email-templates/#recruiting-helpers) (at least 1 per 12 participants)  
 - [ ] Coordinate with the host to ensure the workshop is [accessible](/accessibility/)
