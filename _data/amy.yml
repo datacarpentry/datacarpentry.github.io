@@ -4568,7 +4568,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180314T210004Z
+timestamp: 20180314T220007Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
@@ -7431,5 +7431,19 @@ workshops:
     - {name: DC}
     url: https://erinbecker.github.io/2018-03-08-genentech/
     venue: Genentech
+  - address: 432 Newell Dr, Gainesville, FL 32603
+    contact: ''
+    country: US
+    end: 2018-03-21
+    eventbrite_id: ''
+    humandate: Mar 20-21, 2018
+    latitude: 29.648251
+    longitude: -82.344103
+    slug: 2018-03-20-UFDataSymposium
+    start: 2018-03-20
+    tags:
+    - {name: DC}
+    url: https://uf-carpentry.github.io/2018-03-20-UFDataSymposium/
+    venue: University of Florida Informatics Institute
 workshops_current: *id001
 workshops_past: *id002
