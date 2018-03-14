@@ -1,6 +1,7 @@
 airports:
 - country: dk
   instructors:
+  - {name: Luke William Johnston, user: johnston_luke}
   - {name: Dan Mønster, user: mnster_dan}
   - {name: Kristian Tylén, user: tyln_kristian}
   - {name: Kristoffer Nielbo, user: nielbo_kristoffer}
@@ -2477,7 +2478,6 @@ airports:
   - {name: Jeremy Gray, user: gray_jeremy}
   - {name: Thomas Guignard, user: guignard_thomas}
   - {name: Derek Howard, user: howard_derek}
-  - {name: Luke William Johnston, user: johnston_luke}
   - {name: Ryan Neufeld, user: neufeld_ryan}
   - {name: Brenna O'Brien, user: obrien_brenna}
   - {name: Jon Pipitone, user: pipitone_j}
@@ -4568,7 +4568,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180314T190006Z
+timestamp: 20180314T200007Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
