@@ -1922,7 +1922,6 @@ airports:
   name: San Francisco, CA
 - country: sg
   instructors:
-  - {name: Dana Miller, user: miller_dana}
   - {name: Shivshankar Umashankar, user: umashankar_shivshankar}
   latitude: 1.355556
   longitude: 103.987222
@@ -2145,7 +2144,6 @@ airports:
   name: Toulouse-Blagnac Airport
 - country: il
   instructors:
-  - {name: Aur Saraf, user: saraf_aur}
   - {name: Boris Gorelik, user: gorelik_boris}
   latitude: 32.009444
   longitude: 34.876667
@@ -4569,7 +4567,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180315T200004Z
+timestamp: 20180315T210003Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
