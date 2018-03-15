@@ -4569,7 +4569,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180315T180006Z
+timestamp: 20180315T190005Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
@@ -7404,6 +7404,20 @@ workshops:
     - {name: DC}
     url: https://bpteague.github.io/2018-04-16-nas/
     venue: NAS Gulf Research Program
+  - address: Hugo R. Kruijtgebouw, Padualaan 8, 3584CH Utrecht
+    contact: a.c.schurch@umcutrecht.nl
+    country: NL
+    end: 2018-04-04
+    eventbrite_id: ''
+    humandate: Apr 03-04, 2018
+    latitude: 52.085393
+    longitude: 5.169072
+    slug: 2018-04-03-Utrecht
+    start: 2018-04-03
+    tags:
+    - {name: DC}
+    url: https://aschuerch.github.io/2018-04-03-Utrecht/
+    venue: University of Utrecht
   - address: Hawassa University - Exact venue to be confirmed
     contact: mesfin.diro@aau.edu.et
     country: ET
