@@ -2347,7 +2347,7 @@ airports:
   instructors:
   - {name: Mita Williams, user: williams_mita}
   latitude: 42.2749
-  longitude: 82.9448
+  longitude: -82.9448
   name: Windsor International Airport
 - country: ca
   instructors:
@@ -4569,7 +4569,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180315T190005Z
+timestamp: 20180315T200004Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
