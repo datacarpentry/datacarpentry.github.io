@@ -3740,6 +3740,10 @@ badges:
   - {awarded: '2018-03-08', name: Faruk Diblen, user: diblen_faruk}
   - {awarded: '2018-03-08', name: Marisa Lim, user: lim_marisa}
   - {awarded: '2018-03-08', name: Joshua Dull, user: dull_joshua}
+  - {awarded: '2018-03-16', name: Evan Kielley, user: kielly_evan}
+  - {awarded: '2018-03-16', name: Jeff Essic, user: essic_jeff}
+  - {awarded: '2018-03-16', name: Justin Pringle, user: pringle_justin}
+  - {awarded: '2018-03-16', name: Andrew Sanchez, user: sanchez_andrew}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4442,6 +4446,8 @@ badges:
   - {awarded: '2018-03-01', name: Donald Willcox, user: willcox_donald}
   - {awarded: '2018-03-01', name: Jessica Holmes, user: holmes_jessica}
   - {awarded: '2018-03-01', name: Mark Fernandes, user: fernandes_mark}
+  - {awarded: '2018-03-16', name: Hao Zhu, user: zhu_hao}
+  - {awarded: '2018-03-16', name: Julie Goldman, user: goldman_julie}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4567,7 +4573,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180316T090004Z
+timestamp: 20180316T100007Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
