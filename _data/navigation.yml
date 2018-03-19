@@ -60,6 +60,8 @@
   dropdown:
   - title: "Overview of Lessons"
     url: "/lessons/"
+  - title: "Lesson Leadership"
+    url: "/lesson-leadership/"
   - title: "Roadmap for Lesson Development"
     url: "/lessons-incubation/"
 
