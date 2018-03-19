@@ -4573,7 +4573,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180319T180007Z
+timestamp: 20180319T190006Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
@@ -7380,6 +7380,21 @@ workshops:
     - {name: DC}
     url: https://inbo.github.io/2018-06-12-bru-datacarpentry-inbo-elixir/
     venue: U-residence
+  - address: 'University College Dublin, Belfield, Dublin 4, Ireland. Lecture hall:
+      TBD'
+    contact: 'organizer: malvika.sharan@embl.de, local-host: norman.davey@ucd.ie'
+    country: IE
+    end: 2018-05-29
+    eventbrite_id: ''
+    humandate: May 28-29, 2018
+    latitude: 53.142367
+    longitude: -7.692054
+    slug: 2018-05-28-embl
+    start: 2018-05-28
+    tags:
+    - {name: DC}
+    url: https://malvikasharan.github.io/2018-05-28-Dublin/
+    venue: Data Carpentry Workshop, UCD Conway Institute
   - address: 3205 College Ave, 33314, Davie, FL
     contact: simona.picardi@ufl.edu
     country: US
