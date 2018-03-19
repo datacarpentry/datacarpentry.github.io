@@ -21,12 +21,12 @@ Usually for a self-organized workshop, the lead instructor is also the host. For
 - [ ] Ensure your venue is [accessible](/accessibility/)  
 - [ ] Create an Etherpad for your workshop at http://pad.software-carpentry.org/YYYY-MM-DD-site (where "YYYY-MM-DD-site" is the ID of your workshop)
 - [ ] Set up your workshop registration page  
-- [ ] [Set up your workshop website](https://github.com/datacarpentry/workshop-template)  
+- [ ] [Set up your workshop website](https://github.com/swcarpentry/workshop-template)  
 - [ ] Send your website repository’s URL to the [Data Carpentry workshop coordinator](mailto:team@carpentries.org) (team@carpentries.org)  
 - [ ] [Recruit helpers](/email-templates/#recruiting-helpers) (at least 1 per 12 participants)  
 - [ ] [Advertise](/email-templates/#advertising-your-workshop) your workshop  
 - [ ] Pay the [self-organized workshop fee](/self-organized-workshops/#fees-for-self-organized-workshops)  
-- [ ] Train your co-instructors [how to use Data Carpentry practices](http://carpentries.github.io/instructor-training/15-practices/) to teach  
+- [ ] Train your co-instructors [how to use Data Carpentry practices](http://carpentries.github.io/instructor-training/22-practices/) to teach  
 - [ ] [Prepare to teach your material](/instructor-checklist/)  
 - [ ] [Email learners](/email-templates/#email-learners-before-workshop) to remind them about workshop location, timing and installation requirements and send out the pre-workshop survey  
 - [ ] Gather [required materials](/equipment-checklist/)  

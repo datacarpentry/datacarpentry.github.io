@@ -116,7 +116,7 @@ Your responses will be recorded anonymously. If you respond via email, your IP a
 
 You will be asked to create a unique identifier. This identifier will be confidential to you and will help us pair your results with the post-workshop survey. We do this to understand what impact our workshops are having on several variables, including confidence and motivation to use the tools covered during your workshop.
 
-If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Deputy Director of Assessment for Data Carpentry.
+If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries.
 
 Our best,  
 Your instructors
@@ -132,7 +132,7 @@ We hope you left your workshop feeling empowered to continue learning more about
 
 Just as you did with the pre-workshop survey, you will be asked to create a unique identifier. This identifier will be confidential to you and will help us pair your results with the pre-survey. We do this to understand what impact our workshops are having on several variables, including confidence and motivation to use the tools covered during your workshop.
 
-If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Deputy Director of Assessment for Data Carpentry. We look forward to your continued involvement with our community!
+If you have any questions about our assessment strategy, please [contact](mailto:kariljordan@carpentries.org) Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries. We look forward to your continued involvement with our community!
 
 Our best,  
 Your instructors

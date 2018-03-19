@@ -51,49 +51,56 @@ The Ecology workshop can be taught using R or Python as the base language.
     <th>Lesson</th>
     <th>Site</th>
     <th>Repository</th>
+	<th>Reference</th>
     <th>Instructor Guide</th>
     <th>Maintainer(s)</th>
   </tr>
   <tr>
     <td>Ecology Workshop Home Page</td>
-    <td><a href="{{site.dc_github_site_url}}/ecology-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/ecology-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/ecology-workshop/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/ecology-workshop/" target="_blank" class="icon-browser" title="Website for Data Carpentry Ecology workshop"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/ecology-workshop/" target="_blank" class="icon-github" title="Repository for Data Carpentry Ecology workshop"></a></td>
+	<td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td>Karen Cranston, Aleksandra Pawlik, Karthik Ram, Tracy Teal, Ethan White</td>
   </tr>
   <tr>
     <td>Data Organization in Spreadsheets</td>
-    <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-browser" title="Website for Spreadsheet Ecology lesson"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Spreadsheet Ecology lesson"></a></td>	
+	<td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for Spreadsheet Ecology"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Christie Bahlai, Tracy Teal, Peter R. Hoyt</td>
   </tr>
   <tr>
     <td>Data Cleaning with OpenRefine</td>
-    <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-browser" title="Website for OpenRefine Ecology lesson"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="Repository for OpenRefine Ecology Lesson"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for OpenRefine Ecology Lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Deborah Paul, Cam Macdonell</td>
   </tr>
   <tr>
     <td>Data Management with SQL</td>
-    <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
-    <td>Timothée Poisot, Rémi Rampin</td>
+    <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="Website for SQL ecology lesson"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="Repository for SQL ecology lesson"></a></td>
+		<td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for SQL Ecology Lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
+	<td>Timothée Poisot, Rémi Rampin</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R</td>
-    <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/instructor-notes" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/" target="_blank" class="icon-browser" title="Website for R ecology lesson"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="Repository for R ecology lesson"></a></td>
+		<td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/reference" target="_blank" class="icon-eye" title="Reference for R Ecology Lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/instructor-notes" target="_blank" class="icon-circle-with-plus" title="icon-github"></a></td>
     <td>François Michonneau, Auriel Fournier, Ana Costa Conrado, Brian Seok</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python</td>
-    <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-github" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/" target="_blank" class="icon-browser" title="Website for python ecology lesson"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="Repository for python ecology lesson"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>April Wright, Tania Allard</td>
   </tr>
 </table>
@@ -119,42 +126,56 @@ in June 2018.
     <th>Lesson</th>
     <th>Site</th>
     <th>Repository</th>
+	<th>Reference</th>
+    <th>Instructor Guide</th>
     <th>Maintainer(s)</th>
   </tr>
   <tr>
     <td>Genomics Workshop Home Page</td>
     <td><a href="{{site.dc_github_site_url}}/genomics-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/genomics-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+	<td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td>Erin Becker</td>
   </tr>
   <tr>
     <td>Project organization and management</td>
-    <td><a href="{{site.dc_website_url}}/organization-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_website_url}}/organization-genomics" target="_blank" class="icon-browser" title="Website for Project organization in genomics"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="Repository for Project organization in genomics"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/organization-genomics/reference/" target="_blank" class="icon-eye" title="Reference for project organization and management"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/organization-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for project organization and management"></a></td>
     <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
 </tr>
   <tr>
     <td>Introduction to the command line</td>
-    <td><a href="{{site.dc_website_url}}/shell-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-   <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_website_url}}/shell-genomics/" target="_blank" class="icon-browser" title="Website for shell genomics lesson"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="Repository for shell genomics lesson"></a></td>
+   	<td><a href="{{site.dc_github_site_url}}/shell-genomics/reference/" target="_blank" class="icon-eye" title="Reference for shell genomics lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/shell-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for shell genomics lesson"></a></td>
     <td>Shichen Wang, Anita Schürch, Bastian Greshak, Sue McClatchy</td>
   </tr>
     <tr>
     <td>Data wrangling and processing</td>
-    <td><a href="{{site.dc_website_url}}/wrangling-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-   <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_website_url}}/wrangling-genomics/" target="_blank" class="icon-browser" title="Website for Data wrangling genomics lesson"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="Repository for Data wrangling genomics lesson"></a></td>
+   <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/reference/" target="_blank" class="icon-eye" title="Reference for data wrangling genomics lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for data wrangling genomics lesson"></a></td>
     <td>Josh Herr, Ming Tang, Lex Nederbragt, Fotis Psomopoulos</td>
   </tr>
   <tr>
     <td>Introduction to cloud computing for genomics</td>
-    <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="Website for introduction to cloud computing for genomics lesson"></a></td>
+   <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="Repository for introduction to cloud computing for genomics lesson"></a></td>
+   <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference/" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/cloud-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for cloud computing for genomics lesson"></a></td>
     <td>Bob Freeman, Darya Vanichkina, Kevin Buckley, Amanda Charbonneau</td>
   </tr>
   <tr>
     <td>Data analysis and visualization in R *beta*</td>
-    <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="Website for data analysis of genomics data in R"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="Repository for data analysis of genomics data in R"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/R-genomics/reference/" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/R-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for R genomics lesson"></a></td>
     <td>Naupaka Zimmerman, Ahmed Moustafa, Krzysztof Poterlowicz, Jason Williams</td>
   </tr>
 </table>
