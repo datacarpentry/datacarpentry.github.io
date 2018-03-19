@@ -22,8 +22,8 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 ## Workshop materials under development or consideration
 
-- [Geospatial data curriculum](#geospatial-curriculum)
 - [Social science curriculum](#social-science-curriculum)
+- [Geospatial data curriculum](#geospatial-curriculum)
 - [Digital humanities curriculum](#dh-curriculum)
 - [Image analysis curriculum](#image-curriculum)
 - [Economics curriculum](#economics-curriculum)
