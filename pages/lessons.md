@@ -195,9 +195,62 @@ The course is accessible to:
 
 ## Materials under development
 
+### <a id="social-science-curriculum"></a> Social Science Curriculum
+
+These materials are scheduled for release and will be available for teaching in May 2018. 
+
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Material</th>
+        <th>Repository</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Social Science Workshop Homepage</td>
+        <td><a href="http://www.datacarpentry.org/socialsci-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Data Organization in Spreadsheets for Social Scientists</td>
+        <td><a href="http://www.datacarpentry.org/spreadsheets-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Data Cleaning with OpenRefine for Social Scientists</td>
+        <td><a href="http://www.datacarpentry.org/openrefine-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Data Management with SQL for Social Scientists</td>
+        <td><a href="http://www.datacarpentry.org/sql-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/sql-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Data Analysis and Visualization with R for Social Scientists</td>
+        <td><a href="http://www.datacarpentry.org/r-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Data Analysis and Visualization with Python for Social Scientists</td>
+        <td><a href="http://www.datacarpentry.org/python-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td>TBA</td>
+    </tr>
+
+</table>
+
+
 ### <a id="geospatial-curriculum"></a> Geospatial Data Workshop
 
-*These lessons are under development and will be ready for broader teaching in mid 2018*
+These materials are scheduled for release and will be available for teaching in July 2018. 
 
 #### Overview
 
@@ -230,11 +283,6 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
 
   </table>
 
-### <a id="social-science-curriculum"></a> Social Science Curriculum
-
-Social science curriculum is under initial development with the University of Manchester.
-
-Alpha release and pilot workshops planned for early 2018. If you are interested in following or being involved in development of this curriculum, please sign up for the [social-science-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/social-science-curriculum)
 
 ## Materials in Early development
 
