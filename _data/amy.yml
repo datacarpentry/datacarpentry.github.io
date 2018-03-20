@@ -3744,6 +3744,9 @@ badges:
   - {awarded: '2018-03-16', name: Jeff Essic, user: essic_jeff}
   - {awarded: '2018-03-16', name: Justin Pringle, user: pringle_justin}
   - {awarded: '2018-03-16', name: Andrew Sanchez, user: sanchez_andrew}
+  - {awarded: '2018-03-20', name: Catherine DeRose, user: derose_catherine}
+  - {awarded: '2018-03-20', name: Punam Amratia, user: amratia_punam}
+  - {awarded: '2018-03-20', name: Navjot Kukreja, user: kukreja_navjot}
 - name: member
   persons:
   - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
@@ -4573,7 +4576,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180320T180006Z
+timestamp: 20180320T190005Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
