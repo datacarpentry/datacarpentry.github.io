@@ -4576,7 +4576,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180321T180004Z
+timestamp: 20180321T190003Z
 workshops:
 - &id002
   - address: Contees Wharf Rd., Edgewater, MD 21037
@@ -7426,6 +7426,20 @@ workshops:
     - {name: DC}
     url: https://bpteague.github.io/2018-04-16-nas/
     venue: NAS Gulf Research Program
+  - address: 499 Illinois St, San Francisco, CA 94158
+    contact: olga.botvinnik@czbiohub.org
+    country: US
+    end: 2018-04-12
+    eventbrite_id: ''
+    humandate: Apr 11-12, 2018
+    latitude: 37.7659063
+    longitude: -122.3896333
+    slug: 2018-04-11-czbiohub
+    start: 2018-04-11
+    tags:
+    - {name: DC}
+    url: https://jasonjwilliamsny.github.io/2018-04-11-czbiohub/
+    venue: Chan Zuckerberg Biohub
   - address: Hugo R. Kruijtgebouw, Padualaan 8, 3584CH Utrecht
     contact: a.c.schurch@umcutrecht.nl
     country: NL
