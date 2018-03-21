@@ -68,7 +68,8 @@ to future learning occurs peripherally, e.g. as instructors model and describe t
 for these ideas to grow within our community, and we will be keeping these suggestions firmly in mind as we move ahead.
 
 We will also be keeping in touch with Dr. Tractenberg, as she will be joining us for our next meeting of the Virtual Assessment 
-Network on March 23rd! Contact Kari Jordan ([email](mailto:kariljordan@carpentries.org)) if you would like to join this group.
+Network on March 23rd! Click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Assessment+Network+Meeting&iso=20180323T09&p1=179) for your timezone. All are welcome to attend -- please sign up via this Etherpad: http://pad.software-carpentry.org/assessment-network. Contact Kari Jordan ([email](mailto:kariljordan@carpentries.org)) with questions or requests to join the Assessment Network list.
+
 If you missed the webinar or want a refresher, check out the [Etherpad](http://pad.software-carpentry.org/tractenberg-webinar),
 the [annotated slides](https://www.academia.edu/35830333/Short-_and_long-_form_training_lessons_from_education_and_cognitive_science_for_effectiveness_),
 the [video recording](https://carpentries.zoom.us/recording/play/Sp5W2NPNpocursYxtPis295i3lha9_FHDHVhS9odyJQH5EYPak4dnEPbUePLArb0), or
