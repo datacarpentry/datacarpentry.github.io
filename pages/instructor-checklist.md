@@ -11,7 +11,7 @@ Each instructor is responsible for preparing to teach their section(s) of the wo
 
 ## Before the workshop:  
 - [ ] Coordinate with the lead instructor to decide who is teaching what, and in which order  
-- [ ] If your workshop is self-organized, and you are not a certified Data Carpentry instructor, meet with the lead instructor to be trained in [Data Carpentry’s teaching practices](http://carpentries.github.io/instructor-training/15-practices/)  
+- [ ] If your workshop is self-organized, and you are not a certified Data Carpentry instructor, meet with the lead instructor to be trained in [Data Carpentry’s teaching practices](http://carpentries.github.io/instructor-training/22-practices/)  
 - [ ] Test your installation instructions to make sure they work as expected  
 - [ ] Read the [lesson(s)](http://www.datacarpentry.org/lessons/) you are going to teach in detail  
 - [ ] If there is an [instructor’s guide](/for-instructors/#contribute-to-instructor-notes) for your lesson, read it carefully  
