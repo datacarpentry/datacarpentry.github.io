@@ -16,7 +16,7 @@ You will usually need:
 - [ ] Any necessary adaptors  
 - [ ] Extension cords and power strips  
 - [ ] Guest log-ins and passwords for wifi if needed  
-- [ ] Sticky notes (two colors) - see description of how these are used [here](http://carpentries.github.io/instructor-training/15-practices/)  
+- [ ] Sticky notes (two colors) - see description of how these are used [here](http://carpentries.github.io/instructor-training/22-practices/)  
 - [ ] Name tags and pens
 - [ ] Sign-in forms  
 - [ ] Photo release forms (if required by your institution)  
