@@ -1866,9 +1866,9 @@ airports:
   - {name: Hsi-Kai Yang, user: yang_hsi-kai}
   - {name: Allison Smith, user: smith_allison}
   - {name: Jes Ford, user: ford_jes}
+  - {name: Jimmy O'Donnel, user: odonnel_jimmy}
   - {name: Meredith Rawls, user: rawls_meredith}
   - {name: Jeffrey Arnold, user: arnold_jeffrey}
-  - {name: Jimmy O'Donnell, user: odonnell_jimmy}
   - {name: Kivan Polimis, user: polimis_kivan}
   - {name: Bree Norlander, user: norlander_bree}
   - {name: Alicia Clark, user: clark_alicia}
@@ -3622,7 +3622,7 @@ badges:
   - {awarded: '2017-12-06', name: Tim Young, user: young_tim}
   - {awarded: '2017-12-06', name: Shirley Alquicira Hernandez, user: alquicira-hernandez_shirley}
   - {awarded: '2017-12-06', name: Irma Martínez-Flores, user: martnez-flores_irma}
-  - {awarded: '2017-12-06', name: Jimmy O'Donnell, user: odonnell_jimmy}
+  - {awarded: '2017-12-06', name: Jimmy O'Donnel, user: odonnel_jimmy}
   - {awarded: '2017-12-06', name: Schuyler Smith, user: smith_schuyler}
   - {awarded: '2017-12-06', name: David McKenzie, user: mckenzie_david}
   - {awarded: '2017-12-06', name: Bradford Condon, user: condon_bradford}
@@ -4579,7 +4579,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180322T210004Z
+timestamp: 20180322T220008Z
 workshops:
 - &id002
   - address: B82-14G Golden Gate Training Room
