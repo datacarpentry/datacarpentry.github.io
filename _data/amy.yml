@@ -4599,7 +4599,7 @@ flags:
     th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, in, it, ke, kr, nl, 'no', nz, ph,
     pl, pr, si, th, us, za]
-timestamp: 20180323T200006Z
+timestamp: 20180323T210003Z
 workshops:
 - &id002
   - address: B82-14G Golden Gate Training Room
@@ -7443,7 +7443,7 @@ workshops:
     humandate: May 28-29, 2018
     latitude: 53.142367
     longitude: -7.692054
-    slug: 2018-05-28-embl
+    slug: 2018-05-28-Dublin
     start: 2018-05-28
     tags:
     - {name: DC}
