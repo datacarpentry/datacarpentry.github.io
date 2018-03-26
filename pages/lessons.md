@@ -85,7 +85,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="Repository for SQL ecology lesson"></a></td>
 		<td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for SQL Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
-	<td>Timothée Poisot, Rémi Rampin</td>
+	<td>Timothée Poisot, Rémi Rampin, Donal Heidenblad</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R</td>
@@ -144,7 +144,7 @@ in June 2018.
     <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="Repository for Project organization in genomics"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/organization-genomics/reference/" target="_blank" class="icon-eye" title="Reference for project organization and management"></a></td>
     <td><a href="{{site.dc_github_site_url}}/organization-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for project organization and management"></a></td>
-    <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak</td>
+    <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak, Rayna Harris, Peter Hoyt</td>
 </tr>
   <tr>
     <td>Introduction to the command line</td>
@@ -160,7 +160,7 @@ in June 2018.
    <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="Repository for Data wrangling genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/reference/" target="_blank" class="icon-eye" title="Reference for data wrangling genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for data wrangling genomics lesson"></a></td>
-    <td>Josh Herr, Ming Tang, Lex Nederbragt, Fotis Psomopoulos</td>
+    <td>Josh Herr, Ming Tang, Fotis Psomopoulos, Malvika Sharan</td>
   </tr>
   <tr>
     <td>Introduction to cloud computing for genomics</td>
@@ -224,7 +224,7 @@ These materials are scheduled for release and will be available for teaching in 
         <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for spreadsheets social science lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for spreadsheets social science lesson"></a></td>
-        <td>TBA</td>
+        <td>Chris Prener</td>
     </tr>
     <tr>
         <td>Data Cleaning with OpenRefine for Social Scientists</td>
@@ -232,7 +232,7 @@ These materials are scheduled for release and will be available for teaching in 
         <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for OpenRefine social science lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for OpenRefine social science lesson"></a></td>
-        <td>TBA</td>
+        <td>Geoff LaFlair</td>
     </tr>
     <tr>
         <td>Data Management with SQL for Social Scientists</td>
@@ -240,7 +240,7 @@ These materials are scheduled for release and will be available for teaching in 
         <td><a href="{{site.dc_github_repo_url}}/sql-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/sql-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for SQL social science lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/sql-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for SQL social science lesson"></a></td>
-        <td>TBA</td>
+        <td>Peter Smyth</td>
     </tr>
     <tr>
         <td>Data Analysis and Visualization with R for Social Scientists</td>
@@ -248,7 +248,7 @@ These materials are scheduled for release and will be available for teaching in 
         <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for R social science lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for R social science lesson"></a></td>
-        <td>TBA</td>
+        <td>Juan Fung</td>
     </tr>
     <tr>
         <td>Data Analysis and Visualization with Python for Social Scientists</td>
@@ -256,7 +256,7 @@ These materials are scheduled for release and will be available for teaching in 
         <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for Python social science lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for Python social science lesson"></a></td>
-        <td>TBA</td>
+        <td>Stephen Childs</td>
     </tr>
 
 </table>
@@ -289,7 +289,7 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
     <td><a href="{{site.dc_github_repo_url}}/R-spatial-raster-vector-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>Leah Wasser, Joseph Stachelek</td>
+    <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener</td>
   </tr>
   <tr>
     <td>Introduction to Geospatial data</td>
@@ -297,7 +297,7 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
     <td><a href="{{site.dc_github_repo_url}}/r-spatial-data-management-intro/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>Leah Wasser, Joseph Stachelek</td>
+    <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener</td>
   </tr>
 
 
