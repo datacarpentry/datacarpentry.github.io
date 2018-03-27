@@ -1,3 +1,15 @@
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+
+whitelist:
+  - jekyll-redirect-from
+
+plugins_dir:
+  - jekyll-redirect-from
+
+
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _                 
