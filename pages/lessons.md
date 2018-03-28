@@ -283,6 +283,14 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
         <th>Instructor Guide</th>
         <th>Maintainer(s)</th>
     </tr>
+    <tr>
+        <td>Geospatial Workshop Homepage</td>
+        <td><a href="http://www.datacarpentry.org/geospatial-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>TBA</td>
+    </tr>
   <tr>
     <td>Introduction to Geospatial Data with R</td>
     <td><a href="http://www.datacarpentry.org/R-spatial-raster-vector-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
