@@ -81,10 +81,11 @@ Here are a few of my pluses and wishes from the workshop.
 
 ### Pluses:
 * Great questions from participants, based on their experiences
-* Building community. 
 * Full room! We had room for 25 and 30 people showed up. Plus one labradoodle. (We are in the School of Veterinary Medicine, after all.)
 
 [![](https://i.imgur.com/ekr52RL.png)](https://twitter.com/ctitusbrown/status/956596865935421440)
+
+* Building community 
 
 Participants at this workshop subsequently have attended our weekly "Meet and Analyze Data" (MAD) sessions 
 in the Center for Companion Animal Health, Bennet Conference Room on Thursdays, 3-5pm to work and ask questions. 
