@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-authors: ["Lisa Johnson Cohen"]
+authors: ["Lisa Johnson"]
 ---
 
 From January 24-25 (Thursday and Friday) we held a [Data Carpentry Genomics workshop at UC Davis, 
