@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-authors: ["Mariane Corvellec", "Karen Word"]
+authors: ["Marianne Corvellec", "Karen Word"]
 ---
 
 On February 2, the [Assessment Network](http://www.datacarpentry.org/assessment-network/) held a well-attended webinar with [Rochelle Tractenberg](https://blogs.commons.georgetown.edu/crom/rochelle-e-tractenberg/).
