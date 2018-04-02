@@ -200,8 +200,7 @@ have taught workshops in [Nairobi, Kenya](https://www.idigbio.org/content
 Rica](https://www.idigbio.org/content/software-carpentry- goes-tdwg-and-costa-
 rica-two-firsts) before the Biodiversity Information Standards conferences in
 2015 and 2016. M. Collins has also served as a mentor to instructors trained
-during the [South African instructor training](https ://software-
-carpentry.org/blog/2016/01/a-year-of-swc-in-south-africa.html) and along with D.
+during the [South African instructor training](https://software-carpentry.org/blog/2016/01/a-year-of-swc-in-south-africa.html) and along with D.
 Paul has more recently become a member of the formal Carpentry mentorship
 program providing on-going support to new instructors across the country.
 
