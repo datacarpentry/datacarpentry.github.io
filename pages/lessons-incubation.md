@@ -7,7 +7,7 @@ header:
 permalink: "/lessons-incubation/"
 ---
 
-[Data Carpentry](htttp://www.datacarpentry.org) and [Software Carpentry](http://www.software-carpentry.org)
+[Data Carpentry](http://www.datacarpentry.org) and [Software Carpentry](http://www.software-carpentry.org)
 are committed to developing and supporting lessons in new domains, and
 to helping Carpentry community members do so as well. The development
 and maintenance of lessons requires significant resources, both up
