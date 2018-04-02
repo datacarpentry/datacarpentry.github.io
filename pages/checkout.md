@@ -45,4 +45,4 @@ information about how to add yourself to our teaching roster and how to be conta
 We are excited to have you on the team and look forward to teaching with you!
 
 If you have any questions about the checkout process, please contact us at
-[checkout@carpentries.org](checkout@carpentries.org).
+[checkout@carpentries.org](mailto:checkout@carpentries.org).

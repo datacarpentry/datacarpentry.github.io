@@ -46,7 +46,7 @@ As we grow, we want to be sure we're communicating clearly with our partner site
 
 
 ## Small Batch Projects  
-**What did we do?** We've been using a Django-powered database called AMY to track workshops, instructor activity, and more. We’ve been working with our team of developers to start cleaning up some little bugs in the system. One big change that we've recently made is to allow certified instructors the ability to login to view and edit their own profiles, using their GitHub account. You can also see what workshops you've been a part of in any role. Check it out by visiting [the AMY login page](amy.software-carpentry.org/workshops/) and click on "Log in with your GitHub account." Any problems logging in please email [Maneesha](mailto: maneesha@carpentries.org).  
+**What did we do?** We've been using a Django-powered database called AMY to track workshops, instructor activity, and more. We’ve been working with our team of developers to start cleaning up some little bugs in the system. One big change that we've recently made is to allow certified instructors the ability to login to view and edit their own profiles, using their GitHub account. You can also see what workshops you've been a part of in any role. Check it out by visiting [the AMY login page](https://amy.software-carpentry.org/workshops/) and click on "Log in with your GitHub account." Any problems logging in please email [Maneesha](mailto:maneesha@carpentries.org).  
 
 **What are we still working on?** Later this year we will be exploring enhancements that will make AMY an even more useful tool for us.   
 
