@@ -107,7 +107,7 @@ if needed. Plus SQLite plays really nicely with R and Python, which
 made scripting custom interfaces much more straightforward, and as a
 bonus is used
 in
-[Data Carpentry](http://www.datacarpentry.org/sql-ecology-lesson/) [lessons](http://www.datacarpentry.org/R-ecology-lesson/06-r-and-sql.html).
+[Data Carpentry](http://www.datacarpentry.org/sql-ecology-lesson/) [lessons](http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html).
 While I currently use the
 commercial
 [Navicat software](https://www.navicat.com/products/navicat-for-sqlite) to

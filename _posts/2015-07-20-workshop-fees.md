@@ -29,7 +29,7 @@ future it will be possible to reduce the cost of individual workshops by partner
 with us directly*.
 
 If you are interested in hosting a workshop, please fill out the form at 
-[http://datacarpentry.org/workshop-request.html](http://datacarpentry.org/workshop-request.html) 
+[http://datacarpentry.org/workshop-request.html](http://www.datacarpentry.org/workshops-host/) 
 and don’t hesitate to get in touch at [info@datacarpentry.org](mailto:info@datacarpentry.org) if you have any questions. 
 
 * Note that SCF discounts do not apply to Data Carpentry workshops

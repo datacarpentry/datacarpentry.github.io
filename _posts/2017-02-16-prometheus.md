@@ -63,7 +63,7 @@ and post-workshop surveys for learners at Data Carpentry workshops that will be 
 assessment for learners from previous workshops to be piloted by mid-March. She’s also cleaning up code and formalizing a template for 
 regular quarterly data releases on assessment efforts. We need more Data Carpentry workshops to pilot our new surveys! Please consider 
 organizing a workshop at your institution in April. Let us know what we can do to support you in getting a workshop set-up. 
-Please email [Maneesha](admin@datacarpentry.org).  
+Please email [Maneesha](mailto:admin@datacarpentry.org).  
 
 ### Lesson Contribution Guidelines  
 Erin, Mateusz Kuzak, Aleksandra Nenadic, Raniere Silva and Kate Hertweck are working on making it easier for new instructors and other 

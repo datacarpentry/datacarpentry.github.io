@@ -37,7 +37,7 @@ announcements about these events!
 ## Developing a guide for Trainers  
 Maneesha is working on putting together documentation and checklists for Trainers running instructor training 
 events. If you’re a Trainer and have any questions or issues of unclarity surrounding instructor training events, 
-please send your thoughts to  [Maneesha](maneesha@carpentries.org) as she’s gathering information for this 
+please send your thoughts to  [Maneesha](mailto:maneesha@carpentries.org) as she’s gathering information for this 
 documentation.  
 
 ## Pursuing funding for specific efforts  
@@ -50,7 +50,7 @@ learners in underserved regions. Anelda van der Walt has led growth efforts in A
 starting to establish a Carpentry community on the continent. This is a big job! We’re now seeking funding to 
 help support workshop coordination and other work necessary to support new Carpentry communities, in both Africa 
 and Latin America. If you have ties to these regions and are interested in helping secure funding for these 
-efforts, please contact [Erin](ebecker@carpentries.org).
+efforts, please contact [Erin](mailto:ebecker@carpentries.org).
 
 ## Communication around assessment  
 Kari is working on developing a plan for communicating the results of our long-term follow-up survey to both the 
