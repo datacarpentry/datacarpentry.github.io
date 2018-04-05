@@ -1,7 +1,6 @@
 ---
 layout: post
 permalink: 2018-04-05-github-labels
-subheadline: ""
 title: "Developing GitHub labels for The Carpentries lessons"
 teaser: "The process of developing GitHub labels for our lessons."
 header:
