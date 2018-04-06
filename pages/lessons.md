@@ -7,11 +7,7 @@ header:
 permalink: "/lessons/"
 ---
 
-Based on the [Software Carpentry](http://software-carpentry.org) strategy of collaborative development
-of hands-on, interactive lessons for workshops, we facilitate and
-develop the lessons for Data Carpentry workshops.
-
-These lessons are distributed under the [CC-BY](https://creativecommons.org/licenses/by/2.0/) and are free for re-use or adaptation, with attribution. We've had people use the lessons in courses, to build new lessons or use them for self-guided learning.
+We facilitate and develop lessons for Data Carpentry workshops. These lessons are distributed under the [CC-BY](https://creativecommons.org/licenses/by/2.0/) and are free for re-use or adaptation, with attribution. We've had people use the lessons in courses, to build new lessons or use them for self-guided learning.
 
 Data Carpentry workshops are domain-specific, so that we are teaching researchers the skills most relevant to their domain and using examples from their type of work. Therefore we have several types of workshops and curriculum is organized by domain.
 
@@ -180,19 +176,6 @@ in June 2018.
   </tr>
 </table>
 
-## Semester materials
-
-### <a id="#biology-semester-long-course"></a> Biology Semester-long Course
-
-The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/)
-was developed and piloted at the University of Florida in Fall 2015.
-Course materials include, readings, lectures, exercises and assignments
-that expand on the material presented at workshops focusing on SQL and R.
-The course is accessible to:
-
-- [Self-guided Students](http://www.datacarpentry.org/semester-biology/START-for-self-guided-students)
-- [Instructors](http://www.datacarpentry.org/semester-biology/docs/)
-
 ## Materials under development
 
 ### <a id="social-science-curriculum"></a> Social Science Curriculum
@@ -268,7 +251,7 @@ These materials are scheduled for release and will be available for teaching in 
 
 #### Overview
 
-This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.  This assumes intermediate R skills, for people who have the basics of R down but haven’t worked with spatial data in R before.
+This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.
 
 Join the [geospatial curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/geospatial-curriculum) to get updates and be involved in conversations about this curriculum.
 
@@ -285,29 +268,36 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
     </tr>
     <tr>
         <td>Geospatial Workshop Homepage</td>
-        <td><a href="http://www.datacarpentry.org/geospatial-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_website_url}}/geospatial-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
         <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td>TBA</td>
+        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung</td>
     </tr>
-  <tr>
-    <td>Introduction to Geospatial Data with R</td>
-    <td><a href="http://www.datacarpentry.org/R-spatial-raster-vector-lesson/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/R-spatial-raster-vector-lesson/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener</td>
+    <tr>
+        <td>Geospatial Project Organization and Management</td>
+        <td><a href="{{site.dc_website_url}}/organization-geospatial/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Geospatial Project Organization and Management lesson"></a></td>
+        <td>&nbsp;</td>
+        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung</td>
+    </tr>
+    <tr>
+        <td>Introduction to R for Geospatial Data</td>
+        <td><a href="{{site.dc_website_url}}/r-intro-geospatial" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
+        <td>&nbsp;</td>
+        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung</td>        
+    </tr>
+    <tr>
+        <td>R for Raster and Vector Data</td>
+        <td><a href="{{site.dc_website_url}}/r-raster-vector-geospatial" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
+        <td>&nbsp;</td>
+        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung</td>
   </tr>
-  <tr>
-    <td>Introduction to Geospatial data</td>
-    <td><a href="http://www.datacarpentry.org/r-spatial-data-management-intro/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/r-spatial-data-management-intro/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener</td>
-  </tr>
-
 
   </table>
 
@@ -328,7 +318,6 @@ Groups at Stanford, Doane College and attendees of the ImageXD meeting have pilo
 
 If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/image-curriculum)
 
-
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
 There is initial interest on economics curriculum. Development is planned for 2018.
@@ -342,3 +331,16 @@ Development of a Data Carpentry lesson immediately aimed at astronomy, but which
 ### <a id="other-curriculum"></a>Other curriculum
 
 If you are interested in developing other lessons or getting updates on other topics, see the [lessons ideas github repository](https://github.com/datacarpentry/lesson-ideas) for topics under consideration or discussion, or to propose new ideas.
+
+## Semester materials
+
+### <a id="#biology-semester-long-course"></a> Biology Semester-long Course
+
+The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/)
+was developed and piloted at the University of Florida in Fall 2015.
+Course materials include, readings, lectures, exercises and assignments
+that expand on the material presented at workshops focusing on SQL and R.
+The course is accessible to:
+
+- [Self-guided Students](http://www.datacarpentry.org/semester-biology/START-for-self-guided-students)
+- [Instructors](http://www.datacarpentry.org/semester-biology/docs/)
