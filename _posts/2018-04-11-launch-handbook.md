@@ -41,7 +41,7 @@ in whatever combination that suits them.
 
 Please take a look at all our new material and let us know what you think. You can comment 
 via [Twitter](https://twitter.com/thecarpentries), 
-Slack, or [Facebook](https://www.facebook.com/carpentries), but since 
+[Slack](https://swc-slack-invite.herokuapp.com), or [Facebook](https://www.facebook.com/carpentries), but since 
 issues are less ephemeral than a Tweet, raising an issue or submitting a pull request 
 to the [Handbook repo](https://github.com/carpentries/handbook) may work best 
 so we can have a public discussion about what still needs doing.
