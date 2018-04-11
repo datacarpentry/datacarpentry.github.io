@@ -2,7 +2,7 @@
 layout: post
 subheadline:
 title: "Launching our New Handbook"
-teaser: "Find new pathways to a range of Carpentries material"
+teaser: "Find new pathways to a range of Carpentries' materials"
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
@@ -12,8 +12,8 @@ show_meta: true
 authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver"]
 ---
 
-As The Carpentries, we're excited to announce that we have consolidated and updated a whole raft of 
-materials and resources that we want to share online with our community. 
+As The Carpentries, we're excited to announce that we have consolidated and updated many
+materials and resources to more easily share them online and be a community resource.  
 
 Today we are launching an all-new **The Carpentries Handbook**. We will also be tweeting regularly through a 
 new [Carpentries Twitter account](https://twitter.com/thecarpentries). 
@@ -32,7 +32,7 @@ requests on this [GitHub repo](https://github.com/carpentries/handbook/).
 
 ### The Carpentries Twitter
 
-We will be regularly tweeting from our new **The Carpentries** [Twitter account](https://twitter.com/thecarpentries) from now on. 
+We also will be regularly tweeting from our new **The Carpentries** [Twitter account](https://twitter.com/thecarpentries) from now on. 
 Data and Software Carpentry-specific 
 messages will still be tweeted from the individual Twitter accounts, and people will most likely tweet the handles of the 
 individual Carpentries when teaching workshops. People are welcome to use the [Software Carpentry](https://twitter.com/swcarpentry), 
