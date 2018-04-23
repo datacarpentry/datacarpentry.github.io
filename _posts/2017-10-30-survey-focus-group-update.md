@@ -13,7 +13,7 @@ authors: ["Kari L. Jordan", "Stephen Childs", "Alycia Crall", "Reshama Shaikh", 
 
 ---
 
-In April 2017, Data Carpentry began to pilot a [survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_postsurvey_skillsbased.pdf) that includes skills-based questions. Check out the [blog post](http://www.datacarpentry.org/blog/long-term-assessment-strategy/) about our assessment strategy, and the work involved leading up to this effort.
+In April 2017, Data Carpentry began to pilot a [survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/documents/dc_presurvey_skillsbased.pdf) that includes skills-based questions. Check out the [blog post](http://www.datacarpentry.org/blog/long-term-assessment-strategy/) about our assessment strategy, and the work involved leading up to this effort.
 
 The survey includes the following statement:
 
@@ -40,11 +40,11 @@ Our goal in including skills-based questions was to determine whether learners w
 
 Feedback from some of the instructors has been that this survey has given some of our learners anxiety about our workshops. Though language around the purpose of the unique identifier was included, some learners felt the questions they were being asked were intrusive, and that the skills-based questions are intimidating. 
 
-Therefore, a call for a survey focus group went out on [discuss](http://lists.software-carpentry.org/pipermail/discuss/2017-October/005486.html) and the [virtual assessment network](https://groups.google.com/a/carpentries.org/forum/#!forum/assessment-network) to take a closer look at this survey, and what changes should be made to make it more inclusive.
+Therefore, a call for a survey focus group went out on [discuss](http://lists.software-carpentry.org/pipermail/discuss/2017-October/005486.html) and the [assessment network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) to take a closer look at this survey, and what changes should be made to make it more inclusive.
 
 Lead by [Kari L. Jordan](https://github.com/kariljordan), the focus group included [Stephen Childs](https://github.com/sechilds), [Alycia Crall](https://twitter.com/alycrall), [Reshama Shaikh](https://twitter.com/reshamas), [Aleksandra Nenadic](https://github.com/anenadic), [Karen Word](http://twitter.com/karen_word), and [Louisa Bells](https://twitter.com/ChemCurator). These individuals have expertise in data science assessment and evaluation. 
 
-The focus group’s first [meeting](https://docs.google.com/document/d/16GEJiHNSla0aE1oCRjqDRyLlIz1q2NCXFJt3vWs70zw/edit) was Friday, October 20th 2017. The primary goal of this meeting was to determine how we could assign unique identifiers to our learners and still have their data remain anonymous. Additionally, we discussed the need to collect demographic information, and how to accomplish that in an inclusive way.
+The focus group’s first meeting was Friday, October 20, 2017. The primary goal of this meeting was to determine how we could assign unique identifiers to our learners and still have their data remain anonymous. Additionally, we discussed the need to collect demographic information, and how to accomplish that in an inclusive way.
 
 In terms of unique identifiers, an idea was to ask learners to provide their personal e-mail address as their unique identifier. Issues were raised around learners not remembering which e-mail address they gave, and that by providing their e-mail address their responses would not be anonymous. The idea of having SurveyMonkey create unique survey links for participants was discussed, but this would not be feasible because our survey links are embedded into the [workshop website template](https://github.com/datacarpentry/workshop-template). SurveyMonkey does offer the ability to create [custom variables](https://help.surveymonkey.com/articles/en_US/kb/What-are-custom-variables-and-how-do-I-use-them) however, this will add more manual work for staff and workshop hosts. A graphic was also discussed as an option for unique identifiers, however, we are concerned that learners may not remember what graphic they chose. We are still searching for a solution, so if you have ideas please [get in touch](mailto:kariljordan@carpentries.org). 
 
