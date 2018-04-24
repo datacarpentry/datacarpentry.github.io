@@ -13,7 +13,7 @@ authors: ["Marianne Corvellec", "Kari L. Jordan"]
 
 ---
 
-The [Assessment Network](http://www.datacarpentry.org/assessment-network/) was established as a space for those working on assessment within the open source/research computing community to collaborate and share resources. During our quarterly meeting in November, we engaged one another in a conversation revolving around data science education. This meeting was organized and hosted online by Kari Jordan, and six community members attended. 
+The [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) was established as a space for those working on assessment within the open source/research computing community to collaborate and share resources. During our quarterly meeting in November, we engaged one another in a conversation revolving around data science education. This meeting was organized and hosted online by Kari Jordan, and six community members attended. 
 
 First, we discussed the definitions of data scientist, data analyst, and data engineer; second, we worked in pairs on a set of questions about assessing data science education.
 
