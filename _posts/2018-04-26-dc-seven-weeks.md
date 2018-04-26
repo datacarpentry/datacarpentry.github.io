@@ -36,8 +36,6 @@ We already knew that there was interest in regular weekly meetings, and saw pote
 could not commit to a full two-day Carpentries workshop, or people who might need a refresher even though they've taken the 
 two-day workshop. So we decided to run our workshop a bit differently than normal. 
 
-
-
 #### Implementation
 
 We used the [Data Carpentry in Ecology](http://www.datacarpentry.org/lessons/#ecology-workshop) curriculum as a starting point. 
@@ -63,34 +61,34 @@ for real time feedback. You can view the [workshop homepage](https://ufrmeetup.g
 
 #### How it went
 
-We've been a part of many Data Carpentryand Software Carpentry workshops here at the University of Florida, and this one went as 
+We've been a part of many Data Carpentry and Software Carpentry workshops here at the University of Florida, and this one went as 
 well as any of them. Anonymous feedback at the end of each lesson was universally positive, and several participants told us in 
 person how much they enjoyed it. 
 
-![Sticky note feedback](images/stickies.jpg)
+![Sticky note feedback](/images/ufstickies.jpg)
 
 We capped the elongated workshop at 40 participants and it filled fairly quickly. However, at most only 18 
 came to a particular session and attendance dropped over the 7 weeks. 
 
-![Attendance](images/whocame.jpg)
+![Attendance](/images/whocame.jpg)
 
 Several factors likely contributed to this attendance pattern. Attendance is also often low the first time a new training opportunity is offered. We also chose not to collect a registration fee, because our group is designed to be an informal alternative to other resources on our campus, including formal courses and traditional Carpentry workshops (on average there are about three Carpentry workshops each semester at UF). The lack of a financial commitment from students may have been part of the the depressed attendance. We also found that there was less interest and reduced attendance in the non-R focused lessons, as well as more interest in the tidyverse-based lessons compared to base R lessons. Scheduling conflicts also arose over the course of the series, and once someone had to miss a lesson there appeared to be a lack of motivation to continue. 
 
-Lastly, we were very interested in how this schedule format improved access. Anecodently several participants told us how they preferred a two hour a week workshop over a full two days. In a post workshop survey two of the three respondents said they prefered this schedule over a two day workshop. 
+Lastly, we were very interested in how this schedule format improved access. Anecodently several participants told us how they preferred a two-hour-a-week workshop over a full two days. In a post-workshop survey, two of the three respondents said they prefered this schedule over a two-day workshop. 
 
-Scheduling wise the majority of material fit into the two hour time slots. The exception was the Manipulating Dataframes lesson where we did not have time for the very last section. Luckily this fit in nicely with the Advanced Dataframe Manipulation lesson to fill the full two hours in week 6. 
+Scheduling-wise, the majority of material fit into the two-hour time slots. The exception was the "Manipulating Dataframes" lesson where we did not have time for the very last section. Luckily this fit in nicely with the "Advanced Dataframe Manipulation" lesson to fill the full two hours in week 6. 
 
 #### Lessons Learned
 
-Overall, we feel this elongated workshop was a success and we hope to run similar ones in the future. We are encouraged by the post-survey responses, as well as the anecdotal comments from the attendees. The workshop series also provided an less time- and material-intensive opportunity for newly-trained instructors to gain some teaching experience.
+Overall, we feel this elongated workshop was a success and we hope to run similar ones in the future. We are encouraged by the post-survey responses, as well as the anecdotal comments from the attendees. The workshop series also provided a less time- and material-intensive opportunity for newly trained instructors to gain some teaching experience.
 
 There a few things we may change: 
 
-- There were participants who felt confident not attending the first few sessions and only attended specific ones such as Data Manipulation or Visualization. This likely contributed to, at most, 18 of the 40 sign ups attending. In the beginning we encouraged people to attend every lesson but did not enforce this. In the future we would consider session-specific sign-ups where participants can express interest in any or all of the sessions based on their needs. 
+- There were participants who felt confident not attending the first few sessions and only attended specific ones such as Data Manipulation or Visualization. This likely contributed to, at most, 18 of the 40 sign ups attending. In the beginning we encouraged people to attend every lesson but did not enforce this. In the future, we would consider session-specific sign-ups where participants can express interest in any or all of the sessions based on their needs. 
 
 - We found it helpful to do a short recap at the beginning of each session to quickly summarize the primary lessons from the prior week. 
 
-- We collected and re-distributed the post it notes every week so as not to waste them, though some eventually lost their stickiness. In the end we used up roughly 3/4 of a single stack for each color. 
+- We collected and re-distributed the post-it notes every week so as not to waste them, though some eventually lost their stickiness. In the end we used up roughly three-quarters of a single stack for each color. 
 
 
 
