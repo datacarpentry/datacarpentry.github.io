@@ -2,7 +2,7 @@
 layout: post
 subheadline:
 title: "An extended Data Carpentry Workshop over 7 weeks instead of 2 days"
-teaser: "Background and lessons learned"
+teaser: "Background to the workshop and lessons learned"
 header:
     image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
@@ -31,7 +31,7 @@ structured lessons on the basics of R and allow the meetup to cover more advance
 [The Carpentries](https://carpentries.org/) already have well-structured lessons for these materials, and we 
 could rely on the strong pool of Carpentry instructors at the University of Florida.
 
-The question then became *"do we want to run a traditional two day Carpentry workshop, or try something different?"*. 
+The question then became: *"Do we want to run a traditional two-day Carpentry workshop, or try something different?"*. 
 We already knew that there was interest in regular weekly meetings, and saw potential in giving access to people who 
 could not commit to a full two-day Carpentries workshop, or people who might need a refresher even though they've taken the 
 two-day workshop. So we decided to run our workshop a bit differently than normal. 
@@ -89,9 +89,3 @@ There a few things we may change:
 - We found it helpful to do a short recap at the beginning of each session to quickly summarize the primary lessons from the prior week. 
 
 - We collected and re-distributed the post-it notes every week so as not to waste them, though some eventually lost their stickiness. In the end we used up roughly three-quarters of a single stack for each color. 
-
-
-
-
-
-  
