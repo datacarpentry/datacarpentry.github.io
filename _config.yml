@@ -28,13 +28,12 @@ slogan: "Making data science more efficient"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Data Carpentry« is non-profit organization that develops and provides data skills training to researchers."
+description: "Data Carpentry is non-profit organization that develops and provides data skills training to researchers."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
 url: "http://www.datacarpentry.org"
-#url: "http://0.0.0.0:4000/"
 baseurl: ""
 
 twitter_name: "@datacarpentry"
@@ -49,7 +48,7 @@ improve_content: https://github.com/datacarpentry/datacarpentry.github.io/edit/g
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://datacarpentry.github.io/images/"
+urlimg: "http://www.datacarpentry.org/images/"
 
 
 # Logo size is 600x80 pixels
