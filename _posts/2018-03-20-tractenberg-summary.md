@@ -12,7 +12,7 @@ show_meta: true
 authors: ["Marianne Corvellec", "Karen Word"]
 ---
 
-On February 2, the [Assessment Network](http://www.datacarpentry.org/assessment-network/) held a well-attended webinar with [Rochelle Tractenberg](https://blogs.commons.georgetown.edu/crom/rochelle-e-tractenberg/).
+On February 2, the [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) held a well-attended webinar with [Rochelle Tractenberg](https://blogs.commons.georgetown.edu/crom/rochelle-e-tractenberg/).
 Dr. Tractenberg holds two PhDs, one in Cognitive Sciences and the other in Statistics, and directs the Collaborative for Research on Outcomes and Metrics at Georgetown University, where she is a tenured professor in the Department of Neurology. It was a great privilege for our community to be able to engage in a conversation with her and to learn from her expertise.
 
 Our starting point was the controversy about short-format training which arose last year,
