@@ -45,8 +45,6 @@
     url: "/involved-instructor/"
   - title: "Newsletter"
     url: "/newsletter/"
-  - title: "Discussion Forum"
-    url: "http://discuss.datacarpentry.org"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"
   - title: "Jobs"
