@@ -43,6 +43,8 @@
     url: "/partnerships/"
   - title: "Become an Instructor"
     url: "/involved-instructor/"
+  - title: "Join our Community"
+    url: "https://carpentries.org/community/"
   - title: "Newsletter"
     url: "/newsletter/"
   - title: "Discussion Forum"
