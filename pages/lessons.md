@@ -15,10 +15,10 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 - [Ecology curriculum](#ecology-workshop)
 - [Genomics curriculum](#genomics-workshop)
+- [Social Sciences curriculum](#social-science-curriculum)
 
 ## Workshop materials under development or consideration
 
-- [Social science curriculum](#social-science-curriculum)
 - [Geospatial data curriculum](#geospatial-curriculum)
 - [Digital humanities curriculum](#dh-curriculum)
 - [Image analysis curriculum](#image-curriculum)
@@ -105,8 +105,6 @@ The Ecology workshop can be taught using R or Python as the base language.
 
 ### <a id="genomics-workshop"></a> Genomics Curriculum
 
-#### Overview
-
 The focus of this workshop is on working with genomics data and data management and analysis for genomics research. It covers data 
 management and analysis for genomics research including: best practices for organization of bioinformatics projects and data, use of 
 command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
@@ -176,80 +174,86 @@ in June 2018.
   </tr>
 </table>
 
-## Materials under development
+<hr>
 
 ### <a id="social-science-curriculum"></a> Social Science Curriculum
 
-These materials are scheduled for release and will be available for teaching in May 2018. 
+This workshop uses a tabular dataset and teaches data cleaning, 
+management, analysis and visualization. *There are no pre-requisites, 
+and the materials assume no prior knowledge about the tools.* We use 
+a single dataset throughout the workshop to model the data management 
+and analysis workflow that a researcher would use.
+
+The Social Sciences workshop can be taught using R as the base language. Please note that workshop materials for working with Social Science data in Python and SQL are under development.
 
 #### Lessons
 
 <table class="table table-striped">
-    <tr>
-        <th>Lesson</th>
-        <th>Site</th>
-        <th>Repository</th>
-        <th>Reference</th>
-        <th>Instructor Guide</th>
-        <th>Maintainer(s)</th>
+<tr>
+    <th>Lesson</th>
+    <th>Site</th>
+    <th>Repository</th>
+    <th>Reference</th>
+    <th>Instructor Guide</th>
+    <th>Maintainer(s)</th>
 </tr>
-    <tr>
-        <td>Social Science Workshop Homepage</td>
-        <td><a href="http://www.datacarpentry.org/socialsci-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Data Organization in Spreadsheets for Social Scientists</td>
-        <td><a href="http://www.datacarpentry.org/spreadsheets-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for spreadsheets social science lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for spreadsheets social science lesson"></a></td>
-        <td>Chris Prener</td>
-    </tr>
-    <tr>
-        <td>Data Cleaning with OpenRefine for Social Scientists</td>
-        <td><a href="http://www.datacarpentry.org/openrefine-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for OpenRefine social science lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for OpenRefine social science lesson"></a></td>
-        <td>Geoff LaFlair</td>
-    </tr>
-    <tr>
-        <td>Data Management with SQL for Social Scientists</td>
-        <td><a href="http://www.datacarpentry.org/sql-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/sql-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/sql-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for SQL social science lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/sql-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for SQL social science lesson"></a></td>
-        <td>Peter Smyth</td>
-    </tr>
-    <tr>
-        <td>Data Analysis and Visualization with R for Social Scientists</td>
-        <td><a href="http://www.datacarpentry.org/r-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for R social science lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for R social science lesson"></a></td>
-        <td>Juan Fung</td>
-    </tr>
-    <tr>
-        <td>Data Analysis and Visualization with Python for Social Scientists</td>
-        <td><a href="http://www.datacarpentry.org/python-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for Python social science lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for Python social science lesson"></a></td>
-        <td>Stephen Childs</td>
-    </tr>
-
+<tr>
+    <td>Social Science Workshop Homepage</td>
+    <td><a href="http://www.datacarpentry.org/socialsci-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>TBA</td>
+</tr>
+<tr>
+    <td>Data Organization in Spreadsheets for Social Scientists</td>
+    <td><a href="http://www.datacarpentry.org/spreadsheets-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for spreadsheets social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for spreadsheets social science lesson"></a></td>
+    <td>Chris Prener</td>
+</tr>
+<tr>
+    <td>Data Cleaning with OpenRefine for Social Scientists</td>
+    <td><a href="http://www.datacarpentry.org/openrefine-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for OpenRefine social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for OpenRefine social science lesson"></a></td>
+    <td>Geoff LaFlair</td>
+</tr>
+<tr>
+    <td>Data Analysis and Visualization with R for Social Scientists</td>
+    <td><a href="http://www.datacarpentry.org/r-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for R social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for R social science lesson"></a></td>
+    <td>Juan Fung</td>
+</tr>
+<tr>
+    <td>Data Analysis and Visualization with Python for Social Scientists *beta*</td>
+    <td><a href="http://www.datacarpentry.org/python-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for Python social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for Python social science lesson"></a></td>
+    <td>Stephen Childs</td>
+</tr>
+<tr>
+    <td>Data Management with SQL for Social Scientists *beta*</td>
+    <td><a href="http://www.datacarpentry.org/sql-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/sql-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/sql-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for SQL social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/sql-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for SQL social science lesson"></a></td>
+    <td>Peter Smyth</td>
+</tr>
 </table>
 
+<hr>
+
+## Materials under development
 
 ### <a id="geospatial-curriculum"></a> Geospatial Data Workshop
 
 These materials are scheduled for release and will be available for teaching in July 2018. 
-
-#### Overview
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.
 
@@ -301,6 +305,7 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
 
   </table>
 
+<hr>
 
 ## Materials in Early development
 
