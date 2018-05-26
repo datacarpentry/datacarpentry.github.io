@@ -257,7 +257,7 @@ These materials are scheduled for release and will be available for teaching in 
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.
 
-Join the [geospatial curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/geospatial-curriculum) to get updates and be involved in conversations about this curriculum.
+Join the [geospatial curriculum email list](https://carpentries.topicbox.com/groups/curriculum-geospatial) to get updates and be involved in conversations about this curriculum.
 
 #### Lessons
 
@@ -315,23 +315,23 @@ Join the [geospatial curriculum email list](https://groups.google.com/a/carpentr
 
 Many groups are piloting different versions of this curriculum. There is not yet one set of lessons under active development.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/dh-curriculum)
+If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-dh)
 
 ### <a id="image-analysis-curriculum"></a> Image analysis Curriculum
 
 Groups at Stanford, Doane College and attendees of the ImageXD meeting have piloted ideas for curriculum in teaching image analysis. There is not yet one set of lessons under active development. Development is planned for 2018.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/image-curriculum)
+If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image)
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
 There is initial interest on economics curriculum. Development is planned for 2018.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/economics-curriculum)
+If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-economics)
 
 ### <a id="astronomy-curriculum"></a> Astronomy Curriculum
 
-Development of a Data Carpentry lesson immediately aimed at astronomy, but which can easily be extended to other physics based disciplines. American Institute of Physics/Member Society Venture Partnership funding is supporting the development and testing of the lesson. Lesson development will begin the [AAS hack day](http://www.astrobetter.com/wiki/AASHackDay) and will continue throughout the next two years. If you are interested in contributing in any way, please join the [astronomy-curriculum email list](https://groups.google.com/a/carpentries.org/forum/#!forum/astronomy-curriculum). We would especially like to encourage anyone who is part of an AIP member society (Acoustical Society of America, American Association of Physicists in Medicine, American Association of Physics Teachers, American Astronomical Society, American Crystallographic Association, American Meteorological Society, American Physics Society, AVS: Science & Technology of Materials, Interfaces, and Processing, The Optical Society, and the Society of Rheology) to join as we are eager to develop lessons that can be easily extended into these sub-fields.
+Development of a Data Carpentry lesson immediately aimed at astronomy, but which can easily be extended to other physics based disciplines. American Institute of Physics/Member Society Venture Partnership funding is supporting the development and testing of the lesson. Lesson development will begin the [AAS hack day](http://www.astrobetter.com/wiki/AASHackDay) and will continue throughout the next two years. If you are interested in contributing in any way, please join the [astronomy-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-astronomy). We would especially like to encourage anyone who is part of an AIP member society (Acoustical Society of America, American Association of Physicists in Medicine, American Association of Physics Teachers, American Astronomical Society, American Crystallographic Association, American Meteorological Society, American Physics Society, AVS: Science & Technology of Materials, Interfaces, and Processing, The Optical Society, and the Society of Rheology) to join as we are eager to develop lessons that can be easily extended into these sub-fields.
 
 ### <a id="other-curriculum"></a>Other curriculum
 
