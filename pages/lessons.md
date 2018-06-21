@@ -339,7 +339,7 @@ If you are interested in developing other lessons or getting updates on other to
 
 ## Semester materials
 
-### <a id="#biology-semester-long-course"></a> Biology Semester-long Course
+### <a id="biology-semester-long-course"></a> Biology Semester-long Course
 
 The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/)
 was developed and piloted at the University of Florida in Fall 2015.
