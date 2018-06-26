@@ -34,7 +34,7 @@ New partnerships: University of Wisconsin
 
 **Publications:**  
 Good Enough Practices paper on arXiv (add link)
-Williams and Teal: A Vision for Collaborative Training Infrastructure for Bioinformatics https://dx.doi.org/10.6084/m9.figshare.3807723
+Williams and Teal: A Vision for Collaborative Training Infrastructure for Bioinformatics https://doi.org/10.6084/m9.figshare.3807723
 
 **Presentations:**  
 Zotero is being updated with all our presentations: https://www.zotero.org/groups/datacarpentry/items
