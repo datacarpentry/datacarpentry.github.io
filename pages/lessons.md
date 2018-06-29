@@ -235,7 +235,7 @@ The Social Sciences workshop can be taught using R as the base language. Please 
     <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for Python social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for Python social science lesson"></a></td>
-    <td>Stephen Childs</td>
+    <td>Stephen Childs, Geoffrey Boushey</td>
 </tr>
 <tr>
     <td>Data Management with SQL for Social Scientists *beta*</td>
@@ -276,7 +276,7 @@ Join the [geospatial curriculum email list](https://carpentries.topicbox.com/gro
         <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung, 	Jane Wyngaard</td>
+        <td>Anne Fouilloux, Arthur Endsley, Chris Prener, Jeff Hollister, Joseph Stachelek, Leah Wasser, Michael Sumner, Michele Tobias, Stace Maples</td>
     </tr>
     <tr>
         <td>Geospatial Project Organization and Management</td>
@@ -284,7 +284,7 @@ Join the [geospatial curriculum email list](https://carpentries.topicbox.com/gro
         <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Geospatial Project Organization and Management lesson"></a></td>
         <td>&nbsp;</td>
-        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung, 	Jane Wyngaard</td>
+        <td>Tyson Swetnam, Chris Prener</td>
     </tr>
     <tr>
         <td>Introduction to R for Geospatial Data</td>
@@ -292,7 +292,7 @@ Join the [geospatial curriculum email list](https://carpentries.topicbox.com/gro
         <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
         <td>&nbsp;</td>
-        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung, 	Jane Wyngaard</td>        
+        <td>Janani Selvaraj, Lachlan Deer, Juan Fung</td>        
     </tr>
     <tr>
         <td>R for Raster and Vector Data</td>
@@ -300,7 +300,7 @@ Join the [geospatial curriculum email list](https://carpentries.topicbox.com/gro
         <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
         <td>&nbsp;</td>
-        <td>Leah Wasser, Joseph Stachelek, Tyson Swetnam, Lauren O'Brien, Janani Selvaraj, Lachlan Deer, Chris Prener, Juan Fung, 	Jane Wyngaard</td>
+        <td>Joseph Stachelek, Lauren O'Brien, Jane Wyngaard</td>
   </tr>
 
   </table>
