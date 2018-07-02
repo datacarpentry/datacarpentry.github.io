@@ -35,5 +35,4 @@ We currently are developing lessons on github.
 - [Python-ecology](https://github.com/datacarpentry/python-ecology)
 - [SQL-ecology](https://github.com/datacarpentry/sql-ecology)
 
-If you are interested in contributing, and haven't worked with github, we are
-developing other strategies for participation, so please [get in touch](mailto:info@datacarpentry.org).
+If you are interested in contributing, and haven't worked with github, we are developing other strategies for participation, so please [get in touch](mailto:team@carpentries.org).
