@@ -62,7 +62,7 @@ dc_website_url: "http://www.datacarpentry.org"
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /blog/:year/:month/:title
 highlight: pygments
 excerpt_separator: "\n\n"
 exclude: []
