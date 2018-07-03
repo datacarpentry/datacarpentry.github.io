@@ -58,6 +58,7 @@ paginate_path: "blog/page:num"
 dc_github_repo_url: "https://github.com/datacarpentry"
 dc_github_site_url: "http://datacarpentry.github.io"
 dc_website_url: "http://www.datacarpentry.org"
+dc_email: "team@carpentries.org"
 
 
 # Theme works best with Kramdown (using the table of contents function)
