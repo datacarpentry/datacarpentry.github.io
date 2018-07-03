@@ -44,17 +44,16 @@ If you would like a Software Carpentry workshop instead, please [visit their web
 
 ### Workshop Fees
 
-The cost of hosting a workshop is both the Workshop Administration Fee and
-travel expenses for the two instructors. 
+The cost of hosting a workshop is both the Workshop Administration Fee and travel expenses for the two instructors. 
 
-**Workshop Administration Fee:** $2500 US  
+**Workshop Administration Fee (Government and non-profit institutions):** $2500 US  
 * This is the fee for not-for-profit organizations, such as universities and government labs. For information on fees for for-profit organizations, please [contact us](mailto:tkteal@datacarpentry.org).  
-Partial or full waivers for fees will be considered on an as-needed basis.   
+Partial or full waivers for fees will be considered on an as-needed basis. 50% of workshop coordination fees for for-profit organizations go towards supporting workshops in areas with financial need.   
 
-**Travel Expenses for Instructors:** $2000 US  
+**Travel Expenses for Instructors:** $2000 US (estimate) 
 All instructors are volunteers, but the Host needs to cover their travel expenses.  We work to find local instructors, but suggest that you estimate about $2000 for the travel, food and accomodation of the instructors. The details of how you will reimburse the instructors needs to be established when the workshop is scheduled. 
 
-50% of workshop coordination fees for for-profit organizations go towards supporting workshops in areas with financial need.
-
+**Self organized workshops**
+Data Carpentry welcomes you to organize and run your own workshop without administrative assistance from our staff.  This means you are already connected with our certified instructors and will work with them on all aspects of workshop organization, including curriculum and lesson planning as well as logistical details such as student registration. In order to use the Data Carpentry name and logo at your event, we only require that you follow our curriculum, have at least one badged instructor teaching and co-organizing your event, and let us know that you're organizing a workshop. There is no fee (mandated or suggested) due to us for running a self-organized workshop.
 
 
