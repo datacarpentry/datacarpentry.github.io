@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/workshop-resources/
 ---
 
 A successful Data Carpentry workshop is the result of coordinated effort among many different types of participants, including instructors, helpers, hosts, learners and Data Carpentry staff. Data Carpentry offers two types of workshops - self-organized and centrally-organized. These workshop types differ in terms of instructor training requirements, fee structures, and participant responsibilities - with local hosts and instructors at self-organized workshops taking on administrative responsibilities normally handled by Data Carpentry staff.  

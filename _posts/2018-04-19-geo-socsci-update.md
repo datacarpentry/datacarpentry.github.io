@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/geo-socsci-update/
 ---
 
 In December 2017, we made a [call for community members to contribute](http://www.datacarpentry.org/blog/geospatial-socsci/) to two new sets of Data Carpentry lessons, targeted towards researchers working with [geospatial data](http://www.datacarpentry.org/lessons/#geospatial-curriculum) or survey data for the [social sciences](http://www.datacarpentry.org/lessons/#social-science-curriculum). 

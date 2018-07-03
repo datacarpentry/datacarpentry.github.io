@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: [Erin Becker]
+redirect_from: /blog/instructor-training-bonanza/
 ---
 
 The [Carpentry Instructor Training curriculum](http://swcarpentry.github.io/instructor-training/) helps prepare new instructors to teach Carpentry workshops. It 

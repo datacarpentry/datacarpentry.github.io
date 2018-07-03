@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Caroline F. Ajilogba", "Amy Hodge"]
+redirect_from: /blog/dc-mafikeng-workshop/
 ---
 
 ### Data Carpentry workshop, 1-3 November, 2017 

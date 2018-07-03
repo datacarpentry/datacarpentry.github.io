@@ -11,6 +11,7 @@ comments: true
 show_meta: true
 authors: ["Matthew Collins, François Michonneau, Brian Stucky, Ethan White"]
 date: 2017-02-27
+redirect_from: /blog/uf-program/
 ---
 
 This January was the one year anniversary of our effort to bring regular
@@ -30,7 +31,7 @@ Python, version control with Git and GitHub, SQL database queries, OpenRefine,
 and Excel spreadsheets.
 
 <div style="text-align:center"> 
-<img src="{{ site.urlimg<}}/blog/bar_participants_affiliations.png" width="400px" 
+<img src="{{ site.urlimg }}/blog/bar_participants_affiliations.png" width="400px" 
 style="display:inline-block;margin-left:auto;margin-right: auto" /> 
 <img src="{{site.urlimg }}/blog/wordcloud_participants_departments.png" width="400px"
 style="display:inline-block;margin-left:auto;margin-right: auto" />

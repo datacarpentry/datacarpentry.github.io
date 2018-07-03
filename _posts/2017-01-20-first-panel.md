@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Lauren Michael"]
+redirect_from: /blog/first-panel/
 ---
   
 **Tuesday, January 24, 7am PST / 10am EST / 3pm UTC / 2am AEST (next day)**  

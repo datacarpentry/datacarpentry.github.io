@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann",  "Belinda Weaver"]
+redirect_from: /blog/announce-lc-hire/
 ---
 
 We are excited to announce that [Chris Erdmann](https://twitter.com/libcce) has been hired as 

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/long-term-assessment-strategy/
 ---
 A fair amount of discussion around assessment took place during the Software and Data Carpentry Instructor and Helper [Retreat](http://pad.software-carpentry.org/swc-instructor-retreat-2015-2PM-UTC). One of the recommendations that came out of this retreat was to include skills-based questions in our pre- and post-workshop surveys to improve the accuracy of our survey results. We know that our learners come to our workshops having varying knowledge levels for programming. A way that we can capture this information, and determine whether our workshops make a difference in learner’s ability to work with data, is to add skills-based questions to our surveys. With the help of our community, we have done just that.
 

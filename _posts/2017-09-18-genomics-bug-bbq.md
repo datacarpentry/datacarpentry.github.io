@@ -11,6 +11,7 @@ categories:
   - blog
 show_meta: true
 comments: true
+redirect_from: /blog/genomics-bug-bbq/
 ---
 
 

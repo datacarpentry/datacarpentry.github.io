@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal", "Erin Becker"]
+redirect_from: /blog/new-associate-director/
 ---
 
 We are excited to announce that Dr. Erin Becker has accepted the position of

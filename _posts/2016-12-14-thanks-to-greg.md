@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Data Carpentry Steering Committee and Staff"]
+redirect_from: /blog/thanks-to-greg/
 ---
 
 As many of you will know by now, Greg Wilson, Director of Instructor Training for Software Carpentry (and thus indirectly also for Data Carpentry), has announced that he will step down from his position at the end of January 2017 to [join Shopify as their Computer Science Education Lead](https://software-carpentry.org/blog/2016/12/next-steps.html). We're very excited about this new opportunity for Greg to continue to reshape how people learn computer and data science skills, and we are enthusiastic to see where his creativity and passion about democratizing digital literacy skills take him next. Greg is also the reason _we_ are here in the first place, and so this is an opportunity to say thank you to him.

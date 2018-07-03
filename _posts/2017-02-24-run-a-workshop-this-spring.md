@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/run-a-workshop-this-spring/
 ---
 Did you know that 95% of Data Carpentry learners are first-timers? As a community we’ve impacted hundreds of learners around the globe, and 93% of our learners told us that their level of data management and analysis skills were higher because of our workshops!
 

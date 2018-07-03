@@ -9,6 +9,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Lauren Michael"]
+redirect_from: /blog/careerpanel/
 ---
   
 **Wednesday, Mar 1, 3pm PST / 6pm EST / 11pm UTC / 9am AEST (next day)**  

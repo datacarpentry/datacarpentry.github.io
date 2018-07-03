@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/intro-data-in-field/
 ---
 
 

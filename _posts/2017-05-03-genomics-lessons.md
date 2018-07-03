@@ -38,6 +38,7 @@ Since the hackathon, these lessons have been taught at least 15 times in 6 count
 
 - “The hands on nature of the workshop allows you to get a good grasp of the command line and you get practice troubleshooting any mistakes that you may encounter.”
 
+redirect_from: /blog/genomics-lessons/
 ---
 
 We are now at the point where there is sufficient experience to move these lessons to a more formal release that will be more easily used, updated, and maintained by the community. As with all Software and Data Carpentry lessons, these lessons are by and for the community!

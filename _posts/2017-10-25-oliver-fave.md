@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Jeff Oliver"]
+redirect_from: /blog/oliver-fave/
 ---
 
 I love [Git](https://git-scm.com/) and [GitHub](https://github.com).

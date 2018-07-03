@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/reflections-on-assessment/
 ---
 As I approach my [one-year anniversary](http://www.datacarpentry.org/blog/new-assessment-director/) on staff with Data Carpentry, I’m reflecting on what we’ve accomplished this year. I came into this role with no data science experience whatsoever: [self-efficacy](http://www.datacarpentry.org/blog/self-efficacy/) had been the focus of my doctoral dissertation and post-doctoral work. That background knowledge made for an exciting time exploring our workshop survey data and [letting the community know](http://www.datacarpentry.org/blog/community-call/) what our learners think about our workshops.
 

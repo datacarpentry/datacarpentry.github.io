@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker", "Bob Freeman", "Mateusz Kuzak", "Sue McClatchy", "Tracy Teal", "Jason Williams"]
+redirect_from: /blog/genomics-interest/
 ---
 
 Last month, we announced an upcoming revamp for the Data Carpentry Genomics lessons and 

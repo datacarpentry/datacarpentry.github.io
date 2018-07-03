@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Bianca Peterson", "Anelda van der Walt", "Maryke Schoonen", "Jason Williams"]
+redirect_from: /blog/genomics-nwu/
 ---
 
 

@@ -10,6 +10,7 @@ categories:
 comments: true  
 show_meta: true  
 authors: ["Erin Becker"]  
+redirect_from: /blog/genomics-bonanza-today/
 ---
 
 Only a few more hours until the Genomics Issue Bonanza! Join the community in a hacky-day dedicated to

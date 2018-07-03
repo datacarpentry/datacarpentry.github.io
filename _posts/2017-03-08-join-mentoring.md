@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Christina Koch"]
+redirect_from: /blog/join-mentoring/
 ---
 
 Are you a new Software or Data Carpentry instructor?  Do you 

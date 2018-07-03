@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Fotis Psomopoulos", "Belinda Weaver"]
+redirect_from: /blog/carpcon-announce/
 ---
 
 The Carpentries are excited to announce that the 2018 CarpentryCon will take place from 30 May - 1 June, 2018 at [University College Dublin](http://www.ucd.ie/) (UCD).

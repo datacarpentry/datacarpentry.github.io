@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kate Hertweck"]
+redirect_from: /blog/exec-council-announce/
 ---
 
 Voting in the election for community governance of the Carpentries 

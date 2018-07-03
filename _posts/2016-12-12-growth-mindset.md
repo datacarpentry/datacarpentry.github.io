@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/growth-mindset/
 ---
 Each of us is born with a unique set of interests. Along the way we develop beliefs about our interests, and those beliefs determine whether we choose to cultivate our interests as we progress through adulthood. 
 

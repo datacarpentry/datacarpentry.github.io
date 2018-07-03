@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Lauren Michael"]
+redirect_from: /blog/uwcommunity/
 ---
 
 I am so thrilled that we have been asked to comment on our growing 

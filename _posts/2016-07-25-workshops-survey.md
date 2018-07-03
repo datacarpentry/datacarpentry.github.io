@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal", "Erin Becker", "Hilmar Lapp", "Karen Cranston", "Karthik Ram"]
+redirect_from: /blog/workshops-survey/
 ---
 
 Data Carpentry’s vision is “building communities teaching universal data literacy”. All our activities are focused on working towards this vision.

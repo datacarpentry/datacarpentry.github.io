@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Naupaka Zimmerman"]
+redirect_from: /blog/hand-crafted-databases/
 ---
 
 I'm a microbial ecologist that is primarily interested in

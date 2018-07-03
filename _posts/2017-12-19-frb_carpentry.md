@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Alice Allen"]
+redirect_from: /blog/frb_carpentry/
 ---
 
 ## Bringing the Carpentries to the Federal Reserve Board staff

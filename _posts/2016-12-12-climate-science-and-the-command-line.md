@@ -11,6 +11,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+redirect_from: /blog/climate-science-and-the-command-line/
 ---
 
 Climate science has a pretty high profile these days, particularly in my personal area of research,

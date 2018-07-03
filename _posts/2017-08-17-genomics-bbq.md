@@ -10,6 +10,7 @@ categories:
 comments: true  
 show_meta: true  
 authors: ["Erin Becker"]  
+redirect_from: /blog/genomics-bbq/
 ---
 
 There's been a lot of exciting work on the [Genomics workshop materials](http://www.datacarpentry.org/genomics-workshop/) over the past several months.

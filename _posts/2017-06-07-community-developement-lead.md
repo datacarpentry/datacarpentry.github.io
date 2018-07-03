@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Jonah Duckles", "Tracy Teal"]
+redirect_from: /blog/community-developement-lead/
 ---
 
 We're excited to announce Belinda Weaver has accepted our offer to become the

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver", "Erin Becker"]
+redirect_from: /blog/inst-bug-bbq/
 ---
 
 A new version of the [Carpentry Instructor Training curriculum](http://swcarpentry.github.io/instructor-training/) is scheduled to be published on 10 August.

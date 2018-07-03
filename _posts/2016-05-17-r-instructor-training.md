@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Greg Wilson"]
+redirect_from: /blog/r-instructor-training/
 ---
 Thanks to generous sponsorship from the [R Consortium](https://www.r-consortium.org/),
 Software Carpentry is running a two-day R instructor training class

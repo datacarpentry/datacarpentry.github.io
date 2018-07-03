@@ -10,6 +10,7 @@ Categories:
 comments: true  
 show_meta: true    
 authors: ["Data and Software Carpentry Steering Committees and Staff"]    
+redirect_from: /blog/inclusion/
 --- 
 
 Our goal as Software and Data Carpentry is to build a community teaching digital research skills. We teach essential computing skills to thousands of researchers in academia and industry each year. As an international organization we rely on the volunteer efforts of hundreds of researchers and professionals from around the world. Our volunteers come from diverse backgrounds, countries of origin, and beliefs. These individuals generously donate their time with the goal of helping to speed the discovery of new knowledge and the creation of new technology.

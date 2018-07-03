@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Sher!"]
+redirect_from: /blog/volunteers-wanted/
 ---
 
 

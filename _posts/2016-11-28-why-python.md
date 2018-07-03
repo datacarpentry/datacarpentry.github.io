@@ -11,6 +11,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+redirect_from: /blog/why-python/
 ---
 
 # Why We Teach It

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/phobos-announcement/
 ---
 
 We’ve been enjoying the added focus and sense of accomplishment we’ve gained from working in cycles. If there’s

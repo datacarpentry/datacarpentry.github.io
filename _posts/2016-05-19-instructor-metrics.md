@@ -132,6 +132,7 @@ This is **46.48%**.
 Recent batch of trainees appear to be on track.
 
 Conclusions
+redirect_from: /blog/instructor-metrics/
 -----------
 
 Online training sessions do **not** appear to have lower completion

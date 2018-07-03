@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal"]
+redirect_from: /blog/guiding-data-carpentry/
 ---
 
 ## Guiding Data Carpentry

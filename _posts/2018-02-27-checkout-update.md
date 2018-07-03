@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/checkout-update/
 ---
 
 This blog post is the second in a series examining the roles and contributions of the different parts of the Carpentry community. In case you missed it - read the [first post](http://www.datacarpentry.org/blog/maintainer-report/) in this series, about Maintainers.

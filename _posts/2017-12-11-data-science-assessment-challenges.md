@@ -11,6 +11,7 @@ comments: true
 show_meta: true
 authors: ["Marianne Corvellec", "Kari L. Jordan"]
 
+redirect_from: /blog/data-science-assessment-challenges/
 ---
 
 The [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) was established as a space for those working on assessment within the open source/research computing community to collaborate and share resources. During our quarterly meeting in November, we engaged one another in a conversation revolving around data science education. This meeting was organized and hosted online by Kari Jordan, and six community members attended. 

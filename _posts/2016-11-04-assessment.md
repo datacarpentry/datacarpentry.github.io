@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/assessment/
 ---
 It’s funny. When I first started working for Data Carpentry, I had never heard the phrase, “reproducible research”. I can tell you now that having attended a Software Carpentry workshop, Data Carpentry workshop, and a Software/Data Carpentry instructor training, I wish I had learned the skills we teach when I first began my PhD program.
 

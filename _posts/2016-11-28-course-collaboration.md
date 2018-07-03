@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Zack Brym"]
+redirect_from: /blog/course-collaboration/
 ---
 
 *[When did you realize you belonged to the Carpentry community?][belonging]*

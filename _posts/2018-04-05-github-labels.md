@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
+redirect_from: /blog/github-labels/
 ---
 
 

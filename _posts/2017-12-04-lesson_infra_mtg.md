@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Raniere Silva"]
+redirect_from: /blog/lesson_infra_mtg/
 ---
 
 On 16 November 2017 at 15:00 UTC+0,

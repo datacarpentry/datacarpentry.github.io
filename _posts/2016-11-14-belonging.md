@@ -25,6 +25,7 @@ In the late 1990s, Anna Sfard published an [article](http://www.colorado.edu/phy
 
 
 Learning | Acquisition metaphor  | Participation metaphor  
+redirect_from: /blog/belonging/
 --- | --- | ---  
 Definition| Acquisition of something | Becoming a participant  
 Goal | Individual enrichment | Community building  

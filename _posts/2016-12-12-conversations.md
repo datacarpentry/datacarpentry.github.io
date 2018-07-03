@@ -30,6 +30,7 @@ Please respond as a comment to this post, or in our
 ["conversations" repository on GitHub](https://github.com/carpentries/conversations/issues/1)
 (we're considering these our suggestion boxes) if you have particular topics. Thanks for your feedback!
 
+redirect_from: /blog/conversations/
 -------
 
 To be true to our ethos and effective in our mission, we need to be able to communicate effectively about both aspirations and ongoing efforts so that we can learn from each other, identify critical issues, recover quickly from mistakes, evaluate ideas and commitments, and make strategic decisions.  

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: [Tracy Teal]
+redirect_from: /blog/lesson-release/
 ---
 
 Data Carpentry has published its first set of lessons on Zenodo! The path to get here has included hundreds of people who contributed to these lessons, taught them, used them and learned from them. All the feedback, perspectives and contributions have gone back into the lessons to make them better and keep them updated and relevant. With the [Issue Bonanza](http://www.datacarpentry.org/blog/ecology-issue-bonanza/) and the [Bug BBQ](http://www.datacarpentry.org/blog/bug-bbq-results/), the community became the reviewers and editors of these lessons before publication. True peer review! 

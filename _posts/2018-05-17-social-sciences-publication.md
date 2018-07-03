@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["François Michonneau", "Erin Becker"]
+redirect_from: /blog/social-sciences-publication/
 ---
 
 We are excited to announce the initial release of a [Data Carpentry Social Sciences Curriculum](http://www.datacarpentry.org/socialsci-workshop/).

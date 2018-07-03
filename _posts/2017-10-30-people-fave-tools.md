@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver"]
+redirect_from: /blog/people-fave-tools/
 ---
 
 A big thank you to everyone who has responded so far to the call for short posts about their favourite tools.

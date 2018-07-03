@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal, Jonah Duckles"]
+redirect_from: /blog/community-lead/
 ---
 
 [Software Carpentry and Data Carpentry are hiring a Community Development Lead!](http://www.datacarpentry.org/jobs/)

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal"]
+redirect_from: /blog/steering-committee-in-person/
 ---
 
 Every year the [Data Carpentry Steering Committee members](http://www.datacarpentry.org/people/) and Executive Director meet to review the previous year and strategically plan the next one. This year's meeting was January 31 - February 1, 2017 in Durham, North Carolina, USA.

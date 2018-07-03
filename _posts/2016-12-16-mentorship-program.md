@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Christina Koch, Erin Becker"]
+redirect_from: /blog/mentorship-program/
 ---
 
 The Carpentry community is growing quickly! Over a hundred new instructors have been trained in the past two months. 

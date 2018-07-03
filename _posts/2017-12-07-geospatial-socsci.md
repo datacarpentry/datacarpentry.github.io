@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: [Erin Becker]
+redirect_from: /blog/geospatial-socsci/
 ---
 
 The Data Carpentry community has published two full workshop curricula in 2017, both targeted towards researchers in the life sciences. We had our [first lesson release for our Ecology lessons](http://www.datacarpentry.org/blog/lesson-release/) in May, followed by the [release of the Genomics workshop materials](http://www.datacarpentry.org/blog/genomics-lesson-release/) in November. 

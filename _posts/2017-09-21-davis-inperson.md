@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver"]
+redirect_from: /blog/davis-inperson/
 ---
 
 The Software and Data Carpentry staff teams met for a two-day in-person meeting on 12-13 September in Davis, California. This was a very productive meeting - more on this below - and it also provided some staff the opportunity to meet others face-to-face for the first time. The team is geographically scattered with staff in the US, Australia and New Zealand. At the meeting, we welcomed new Workshop Administrator [SherAaron Hurt](http://www.datacarpentry.org/blog/announce-sheraaron/), [Business Administrator Elizabeth Williams, and Deputy Director of Instructor Training Karen Word](http://www.datacarpentry.org/blog/new-staff-intro/) (all part-timers) to what will be a merged staff team from 2018, when the [planned merger](http://www.datacarpentry.org/blog/merger/) of the two Carpentries will be complete.

@@ -64,6 +64,7 @@ Local events are a great way to build and strengthen Carpentries communities. It
 
 If you want to organize a local event, [fill out a GitHub issue](https://github.com/carpentries/2018-04-bug-bbq/issues/new?template=local-event.md).
 
+redirect_from: /blog/bug-bbq-how-to-be-involved/
 ---
 
 The Carpentries lessons belong to the community. A Bug BBQ is an opportunity to work collectively on the lessons to make them better. We look forward to seeing all of your contributions!

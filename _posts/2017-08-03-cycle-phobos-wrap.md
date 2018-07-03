@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Carpentry Staff"]
+redirect_from: /blog/cycle-phobos-wrap/
 ---
 
 We're wrapping up Cycle Phobos. Here's what we accomplished over the past six weeks and what we're still working on. To help with any of these projects, please [get in touch](mailto:bweaver@carpentries.org)!

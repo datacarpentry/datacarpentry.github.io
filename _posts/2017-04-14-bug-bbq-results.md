@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: [Tracy Teal, Erin Becker]
+redirect_from: /blog/bug-bbq-results/
 ---
 
 In preparation for Data Carpentry’s first [lesson release](http://www.datacarpentry.org/blog/bug-bbq/), we hosted a [Bug BBQ](http://pad.software-carpentry.org/ecology-bug-bbq) last week to resolve outstanding issues and issues identified during the Issue Bonanza.

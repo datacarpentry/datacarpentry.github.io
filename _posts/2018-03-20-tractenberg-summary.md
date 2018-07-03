@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Marianne Corvellec", "Karen Word"]
+redirect_from: /blog/tractenberg-summary/
 ---
 
 On February 2, the [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) held a well-attended webinar with [Rochelle Tractenberg](https://blogs.commons.georgetown.edu/crom/rochelle-e-tractenberg/).

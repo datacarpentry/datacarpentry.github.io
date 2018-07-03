@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: [Erin Becker, Francois Michonneau, Tracy Teal]
+redirect_from: /blog/ecology-issue-bonanza/
 ---
 
 We’re excited to announce our first lesson release! Data Carpentry is preparing to publish our Ecology workshop materials on 

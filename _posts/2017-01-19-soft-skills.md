@@ -65,6 +65,7 @@ When we think about how we use these tools, I find that the soft skills they rep
 and very useful tools to convince the more hesitant to get on board. Have you considered upgrading your soft(ware) skills lately?  
 
 
+redirect_from: /blog/soft-skills/
 ---
 [1] As it turns out, I always had access. LTER data is, as a matter of policy, 
 [publicly available](https://portal.lternet.edu/nis/home.jsp). I just didn’t know about it. Now you know!  

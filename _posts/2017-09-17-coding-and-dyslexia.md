@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Joanna Leng"]
+redirect_from: /blog/coding-and-dyslexia/
 ---
 
 Hello,

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Lisa K. Johnson"]
+redirect_from: /blog/dc-genomics-ucdavis/
 ---
 
 From January 24-25 (Thursday and Friday) we held a [Data Carpentry Genomics workshop at UC Davis, 

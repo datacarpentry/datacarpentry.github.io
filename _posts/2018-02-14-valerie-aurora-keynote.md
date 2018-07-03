@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver"]
+redirect_from: /blog/valerie-aurora-keynote/
 ---
 
 ![Valerie Aurora](http://valerieaurora.org/pix/val_circle.png "Valerie Aurora")

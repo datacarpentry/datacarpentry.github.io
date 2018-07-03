@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver"]
+redirect_from: /blog/fave-tools/
 ---
 
 This is an open invitation to our community members to share their knowledge.

@@ -10,6 +10,7 @@ comments: true
 show_meta: true
 date: 2017-11-07
 authors: ["Erin Becker"]
+redirect_from: /blog/maintainer-apply/
 ---
 
 Software and Data Carpentry are currently accepting applications to join the lesson Maintainer team. 

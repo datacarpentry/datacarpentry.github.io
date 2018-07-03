@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Susan J. Simmons, NCSU Analytics", "Ann E. Stapleton, UNCW Biology"]
+redirect_from: /blog/statistics/
 ---
 
 We’d like to talk about our experiences working together as a domain scientist and a statistician and encourage you do this too!  

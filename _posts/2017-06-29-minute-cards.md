@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal"]
+redirect_from: /blog/minute-cards/
 ---
 
 They only take a minute (hence the name: minute cards), but their benefits last a lot longer. 

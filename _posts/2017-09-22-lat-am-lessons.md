@@ -40,6 +40,7 @@ Team latinoamerica@carpentries.org
 
 Escrito por Heladia Salgado. Editador por Sue McClatchy and Paula Andrea Martinez
 
+redirect_from: /blog/lat-am-lessons/
 -------
 
 ### Invitation to participate

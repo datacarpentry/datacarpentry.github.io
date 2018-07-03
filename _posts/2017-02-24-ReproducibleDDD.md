@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Rayna Harris"]
+redirect_from: /blog/ReproducibleDDD/
 ---
 
 I spent the two weeks in January hanging out with some awesome scientists who are all passionate about the future of science. I was participating in two professional development events with support from Data Carpentry, and I’d like to share some of the highlights.

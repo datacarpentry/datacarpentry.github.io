@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["K.A.S. Mislan"]
+redirect_from: /blog/discovering/
 ---
 
 My path to becoming part of a data science community was happenstance.  I started programming as a graduate student because I wanted to increase the spatial and temporal scales of my analyses.  The scale increase was from one location for a few months to the entire coast of Western North America for many years.  For larger scale analyses, I needed satellite data, which I downloaded from a data repository.  I learned to use shell scripts to automatically download data because going through 5 to 10 internet links to manually download hundreds of files was tedious.  The files with satellite data were large and in special file formats so I learned how to access and analyze them using R.

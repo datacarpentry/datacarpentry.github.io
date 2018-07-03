@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Timothée Poisot"]
+redirect_from: /blog/whyweteach-sql/
 ---
 
 I am fond of saying that ecologists should not be afraid of big data --

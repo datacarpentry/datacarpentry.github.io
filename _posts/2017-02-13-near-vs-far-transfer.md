@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/near-vs-far-transfer/
 ---
 Have you ever experienced [déja vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu)? It’s when you have the feeling that what you’re currently experiencing has already happened. It can be extremely awkward, right? It’s a sensation that leaves you saying to yourself, “I did this already. This happened.” So, what do you do? Do you carry out the scenario as you remember it happening, or change it up? What about your *perceived* past experience makes you perform differently in the current experience?
 

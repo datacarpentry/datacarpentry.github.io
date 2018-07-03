@@ -185,6 +185,7 @@ It is necessary for us to be as effective as possible to achieve that mission.
 
 So far, we feel comfortable declaring that effort a success.
 
+redirect_from: /blog/reponse-to-null-effects/
 ---
 
 [1] While the paper refers to programs as either "boot camps", "bridge programs", or "short-format training",  

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver"]
+redirect_from: /blog/launch-handbook/
 ---
 
 As The Carpentries, we're excited to announce that we have consolidated and updated many

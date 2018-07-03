@@ -10,6 +10,7 @@ Categories:
 comments: true
 show_meta: true
 authors: ["Carpentry Staff"]
+redirect_from: /blog/wrap-cycle-ganymede/
 ---
 
 We are wrapping up Cycle Ganymede. Here's what we accomplished over the past six weeks and what we're still working on. To

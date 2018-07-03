@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal", "Gina Helfrich"]
+redirect_from: /blog/fiscal-sponsor-transition/
 ---
 
 [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) have combined

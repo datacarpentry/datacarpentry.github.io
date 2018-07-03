@@ -11,6 +11,7 @@ comments: true
 show_meta: true
 authors: ["Belinda Weaver", "Erin Becker"]
 
+redirect_from: /blog/new-trainer-cohort/
 ---
 
 Software and Data Carpentry now have a brand-new batch of Trainers.

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: [Mateusz Kuzak]
+redirect_from: /blog/amsterdam-genomics/
 ---
 
 Twenty-five life science researchers from across the Netherlands

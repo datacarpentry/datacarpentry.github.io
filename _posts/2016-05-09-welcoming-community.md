@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal", "Jonah Duckles"]
+redirect_from: /blog/welcoming-community/
 ---
 
 The amazing Software and Data Carpentry community of instructors and learners is

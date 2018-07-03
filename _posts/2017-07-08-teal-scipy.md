@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver"]
+redirect_from: /blog/teal-scipy/
 ---
 
 Conferences can be lonely places, especially for first-timers who don't yet have solid networks in place. The bigger the event, the worse the problem. With so many people milling around, how do you find like-minded people, much less start a conversation?

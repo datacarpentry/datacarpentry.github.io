@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Karen Word"]
+redirect_from: /blog/new-trainer-round/
 ---
 
 As the Carpentry community continues to grow, our instructor training is increasingly in demand! In September,

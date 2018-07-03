@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal"]
+redirect_from: /blog/assessment-director-posting/
 ---
 [Data Carpentry is hiring](http://www.datacarpentry.org/jobs/)!
 

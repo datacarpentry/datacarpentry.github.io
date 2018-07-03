@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/mentoring-groups-still-open/
 ---
 Did you miss the deadline to [join a mentoring group](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)? Do not fear, there are still openings for mentees to join groups in the following timezones:
 

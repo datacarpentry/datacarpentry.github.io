@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/deimos-wrapup/
 ---
 
 We’re wrapping up Cycle Deimos! Here’s what we accomplished over the past six weeks and what we’re still working on. To help with any of these projects, please [get in touch](mailto:ebecker@carpentries.org)! 

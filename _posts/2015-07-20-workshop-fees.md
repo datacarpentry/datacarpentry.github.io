@@ -11,6 +11,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal"]
+redirect_from: /blog/workshop-fees/
 ---
 
 After discussion with our Steering Committee and the Software Carpentry Foundation, 

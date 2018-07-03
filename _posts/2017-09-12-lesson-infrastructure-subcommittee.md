@@ -9,6 +9,7 @@ categories:
   - blog
 show_meta: true
 comments: true
+redirect_from: /blog/lesson-infrastructure-subcommittee/
 ---
 
 On 5 September 2017 at 14:00UTC+0,

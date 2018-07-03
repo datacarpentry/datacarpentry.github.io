@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Anelda van der Walt"]
+redirect_from: /blog/instructor-training-africa/
 ---
 
 **by Anelda van der Walt**

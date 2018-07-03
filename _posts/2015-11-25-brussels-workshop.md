@@ -25,6 +25,7 @@ Their location in central Brussels and their well-equipped meeting rooms made th
 
 The Timetable of the workshop was as follows:
 
+redirect_from: /blog/brussels-workshop/
 --------- | -------------
 Day 1 AM: | Working with spreadsheets and introduction to Open Refine (Leszek)
 Day 1 PM: | Data manipulation in R (Frederik)

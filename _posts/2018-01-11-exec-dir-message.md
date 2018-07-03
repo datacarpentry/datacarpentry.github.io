@@ -29,6 +29,7 @@ I truly believe in the power of our community, and 'the Carpentries way of teach
 
 -- *Tracy Teal, Executive Director*
 
+redirect_from: /blog/exec-dir-message/
 ---
 
 *This letter originally appeared in our newsletter, [Carpentry Clippings](http://software-carpentry.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe), 9 January, 2018.*

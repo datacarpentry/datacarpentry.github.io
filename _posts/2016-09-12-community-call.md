@@ -10,6 +10,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+redirect_from: /blog/community-call/
 ---
 
 Our next Carpentries Community Call (formerly called Lab Meeting or 

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/prometheus-wrapup/
 ---
 
 We’re wrapping up our first work cycle! Here’s what we accomplished over the past six weeks and what we’re 

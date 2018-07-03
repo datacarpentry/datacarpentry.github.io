@@ -129,6 +129,7 @@ R forces a user to understand these concepts on at least a basic level.
 
 For instance,
 our [data management section](http://neon-workwithdata.github.io/NEON-R-Spatio-Temporal-Data-and-Management-Intro/)
+redirect_from: /blog/pilot-spatial-data/
 included a lesson on *coordinate reference systems* (CRS) that was designed to be taught---with code optionally---but
 better taught as a interactive group discussion fueled by
 [R-generated maps of the globe in various geographic and projected CRSes](http://neon-workwithdata.github.io/NEON-R-Spatio-Temporal-Data-and-Management-Intro/R/intro-to-coordinate-reference-systems).

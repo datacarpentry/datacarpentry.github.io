@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver"]
+redirect_from: /blog/new-carpentries-logo/
 ---
 
 Now that Software and Data Carpentry have merged, we wanted a new logo to celebrate our coming together as the Carpentries, 

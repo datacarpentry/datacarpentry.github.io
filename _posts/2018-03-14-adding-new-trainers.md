@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Karen Word", "Erin Becker"]
+redirect_from: /blog/adding-new-trainers/
 ---
 
 We are excited to welcome seventeen newly badged Trainers to our community. The group recently finished their program with Karen Word and are now certified to teach new Carpentry Instructors.

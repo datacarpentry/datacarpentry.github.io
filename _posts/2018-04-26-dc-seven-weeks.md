@@ -46,6 +46,7 @@ join features in `dplyr`, which has very similar concepts. This extended natural
 titled it "Advanced Dataframe Manipulation" to reflect that. 
 
 | Week | Lesson |
+redirect_from: /blog/dc-seven-weeks/
 | :----- |:----|
 | 1 | Intro to R| 
 | 2 | Data Organization| 

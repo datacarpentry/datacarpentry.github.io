@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Karen Cranston"]
+redirect_from: /blog/reproducible-research-curriculum/
 ---
 
 **by Karen Cranston**

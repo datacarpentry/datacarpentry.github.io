@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/maintainer-report/
 ---
 
 All of the great work that we do as The Carpentries is dependent on

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker", "Karen Word"]
+redirect_from: /blog/long-term-survey-results/
 ---
 What concrete changes are people implementing in their computational research practices as a result of completing a Carpentries workshop?
 

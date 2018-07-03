@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Tracy Teal"]
+redirect_from: /blog/genomics-hackathon/
 ---
 
 Through the support of [SESYNC](https://www.sesync.org), [BEACON](http://beacon-center.org) and

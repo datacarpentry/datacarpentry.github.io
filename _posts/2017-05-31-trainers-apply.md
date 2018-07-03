@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Erin Becker"]
+redirect_from: /blog/trainers-apply/
 ---
 
 The Carpentry community is growing! This month we welcomed ten new Instructor Trainers to our community. Now we

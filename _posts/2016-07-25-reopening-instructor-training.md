@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Greg Wilson"]
+redirect_from: /blog/reopening-instructor-training/
 ---
 
 For the last ten months,

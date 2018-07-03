@@ -10,6 +10,7 @@ comments: true
 show_meta: true
 date: 2018-02-02
 authors: ["John Chodacki", "Tracy Teal"]
+redirect_from: /blog/library-carpentry-repost/
 ---
 
 **California Digital Library is hiring for a Library Carpentry Project Coordinator!**

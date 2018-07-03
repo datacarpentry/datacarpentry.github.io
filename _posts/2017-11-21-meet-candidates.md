@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Belinda Weaver"]
+redirect_from: /blog/meet-candidates/
 ---
 
 Eight nominations have come in so far for the 2018 Steering Committee of the new, merged Carpentries.

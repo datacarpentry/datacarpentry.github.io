@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Christina Koch", "Kate Hertweck"]
+redirect_from: /blog/csa-award-avdw/
 ---
 
 The Carpentries are happy to honor [Anelda van der Walt]( https://twitter.com/aneldavdw) as our 2017 Community Service Award winner. We received seven independent nominations for Anelda this year, which is a testament to her commitment to both individual people and the broader community.

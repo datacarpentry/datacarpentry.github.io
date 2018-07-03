@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Marian Schmidt", "Jamie Hadwin"]
+redirect_from: /blog/mentoring-co-chair/
 ---
 
 How would you like to work first-hand on developing our ever growing instructor pool? A Mentoring Subcommittee Co-Chair position has just opened!

@@ -10,6 +10,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
+redirect_from: /blog/next-round-mentoring/
 ---
 
 In February, we held our mentoring groups [virtual showcase](http://www.datacarpentry.org/blog/Mentoring-Groups-Virtual-Showcase/), 
