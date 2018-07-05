@@ -5,7 +5,7 @@ cd .. &&
     cp _data/dc_amy.yml ../datacarpentry.github.io/_data/amy.yml
 
 cd ../datacarpentry.github.io
-git remote add deploy https://{$GITHUB_PAT}@github.com/datacarpentry/datacarpentry.github.io.git > /dev/null 2>&1
+git remote add deploy https://"$GITHUB_PAT"@github.com/datacarpentry/datacarpentry.github.io.git > /dev/null 2>&1
 
 git config user.name "François Michonneau"
 git config user.email "francois.michonneau@gmail.com"
