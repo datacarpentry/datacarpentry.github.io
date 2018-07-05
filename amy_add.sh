@@ -1,6 +1,12 @@
-git checkout master
-git pull
-make amy
-git add _data/amy.yml 
-git commit -m "adding todays new workshops"
-git push origin master
+cd .. &&
+    git clone git@github.com:carpentries/amy-feeds.git amy-feeds &&
+    cd amy-feeds &&
+    make amy &&
+    cp _data/dc_amy.yml ../datacarpentry.github.io/_data/amy.yml
+
+cd ../datacarpentry.github.io &&
+    git checkout master &&
+    git pull origin master &&
+    git add _data/amy.yml &&
+    git commit -m "[ci skip] updating DC workshop data feed" &&
+    git push origin master
