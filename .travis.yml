@@ -3,4 +3,11 @@ env:
   - secure: hd00cObkR/VYnuA5jvRDFWYSrHlnMqxQXmWB11gQgHR0VkOYx0oxi5x9Zo5AGjtLTLlZrNv5VMSMyfP43aPxPiMPjL/NxmVuwzJx2xJ92URADKBhNmUrXitFblrK+JtKIzLkFyAFDzKmyRqbWiad5Xl7E7CMb7hUL9eMZUOvrd4=
   - secure: GzxnJf8pF7hkmPgYO0hbrQF//jzhd19aDAkGfeNlJqZ5xtxdiT9m9EVfx0jHONNc9jupQ2PPIeXUMk64KaxpbXgyMlpFhb4rZgXxZ1wC1Bf59QdVKTGyhUIW3UuFX9/l7Ty58L1eGvsG57q/y/tPFyM2SVW4gSg+P5r4WJmL4+8=
 
+addons:
+  apt:
+    packages:
+    - python3-requests
+    - python3-yaml
+
+before_script: chmod +x amy_add.sh
 script: ./amy_add.sh
