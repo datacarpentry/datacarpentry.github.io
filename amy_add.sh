@@ -8,6 +8,8 @@ cd .. &&
 
 cd ../datacarpentry.github.io &&
     git remote -v &&
+    git remote origin set-url git@github.com:datacarpentry/datacarpentry.github.io.git &&
+    git remote -v &&
     git checkout master &&
     git pull origin master &&
     git add _data/amy.yml &&
