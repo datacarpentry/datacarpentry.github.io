@@ -8,6 +8,3 @@ cd ../datacarpentry.github.io
 git remote add deploy git@github.com:datacarpentry/datacarpentry.github.io.git
 
 git checkout master
-git add _data/amy.yml
-git commit -m "[ci skip] updating DC workshop data feed"
-git push deploy master
