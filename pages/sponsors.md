@@ -7,12 +7,12 @@ header:
 permalink: "/sponsors/"
 ---
 
-![Community Initiatives](/images/cilogo.jpg)  
+![Community Initiatives]({{ site.urlimg }}cilogo.jpg)  
 We are a fiscally sponsored project of [Community Initiatives](http://communityin.org/),
   a 501(c)3 non-profit incorporated in the United States.
 
 
-![Software Carpentry](/images/software-carpentry-banner.png)  
+![Software Carpentry]({{ site.urlimg }}software-carpentry-banner.png)  
 Data Carpentry is a sibling lesson project to [Software Carpentry](http://software-carpentry.org). 
 
 In January, 2018, Software Carpentry and Data Carpentrey merged to form [The Carpentries](https://carpentries.org/).
