@@ -21,15 +21,15 @@ In January, 2018, Software Carpentry and Data Carpentrey merged to form [The Car
 
 ## Sponsors
 
+Current sponsorship for Data Carpentry is through [The Carpentries](https://carpentries.org/supporters/).
+
+Previous sponsorhips has been through:
+
 ### Gordon & Betty Moore Foundation
 
-We are extremely grateful for the support of the [Gordon & Betty Moore Foundation](http://moore.org) Data-Driven Discovery program, through grant #4855 to Data Carpentry via NumFOCUS and now Community Initiatives. This 
+We are extremely grateful for support for Data Carpentry from the [Gordon & Betty Moore Foundation](http://moore.org) Data-Driven Discovery program, through grant #4855 to Data Carpentry via NumFOCUS, our previous fiscal sponosor. This 
 grant is a part of their efforts to support the [Practice](https://www.moore.org/programs/science/data-driven-discovery/ddd-practices) of data driven discovery. 
-
-With more than $6.4 billion in assets, the Gordon and Betty Moore Foundation is the ninth largest foundation in the United States. The Science Program accounts for approximately 40 percent of the foundation’s annual grant making, making the foundation one of the largest private funders of science nationwide.
 
 ### National Science Foundation
 
-Initial efforts on Data Carpentry were funded by the National Science Foundation and the CollabIT efforts across the NSF BIO Centers, as well as by DataONE.
-
-The Project Lead, Dr. Tracy Teal, was supported by [BEACON](http://beacon-center.org) at Michigan State University. 
+Initial efforts on Data Carpentry were funded by the [National Science Foundation](https://nsf.gov) and the CollabIT efforts across the NSF BIO Centers, as well as by DataONE. The NSF Center [BEACON](https://www3.beacon-center.org) at Michigan State University provided particular support.  
