@@ -11,7 +11,6 @@ git config user.name "François Michonneau"
 git config user.email "francois.michonneau@gmail.com"
 
 git checkout master
-git pull origin master
 git add _data/amy.yml
 git commit -m "[ci skip] updating DC workshop data feed"
 git push origin master
