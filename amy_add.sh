@@ -10,6 +10,8 @@ cd ../datacarpentry.github.io &&
     git remote -v &&
     git remote set-url origin git@github.com:datacarpentry/datacarpentry.github.io.git &&
     git remote -v &&
+    git config user.name "François Michonneau" &&
+    git config user.email "francois.michonneau@gmail.com" &&
     git checkout master &&
     git pull origin master &&
     git add _data/amy.yml &&
