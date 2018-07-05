@@ -17,18 +17,16 @@ Data Carpentry is a sibling lesson project to [Software Carpentry](http://softwa
 
 In January, 2018, Software Carpentry and Data Carpentrey merged to form [The Carpentries](https://carpentries.org/).
 
-
-
 ## Sponsors
 
 Current sponsorship for Data Carpentry is through [The Carpentries](https://carpentries.org/supporters/).
 
-Previous sponsorhips has been through:
+Previous sponsorships has been through:
 
 ### Gordon & Betty Moore Foundation
 
 We are extremely grateful for support for Data Carpentry from the [Gordon & Betty Moore Foundation](http://moore.org) Data-Driven Discovery program, through grant #4855 to Data Carpentry via NumFOCUS, our previous fiscal sponosor. This 
-grant is a part of their efforts to support the [Practice](https://www.moore.org/programs/science/data-driven-discovery/ddd-practices) of data driven discovery. 
+grant is a part of their efforts to support the [Practice](https://www.moore.org/programs/science/data-driven-discovery/ddd-practices) of data-driven discovery. 
 
 ### National Science Foundation
 
