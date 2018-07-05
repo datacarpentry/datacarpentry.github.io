@@ -2,7 +2,7 @@ env:
   global:
   - secure: hd00cObkR/VYnuA5jvRDFWYSrHlnMqxQXmWB11gQgHR0VkOYx0oxi5x9Zo5AGjtLTLlZrNv5VMSMyfP43aPxPiMPjL/NxmVuwzJx2xJ92URADKBhNmUrXitFblrK+JtKIzLkFyAFDzKmyRqbWiad5Xl7E7CMb7hUL9eMZUOvrd4=
   - secure: GzxnJf8pF7hkmPgYO0hbrQF//jzhd19aDAkGfeNlJqZ5xtxdiT9m9EVfx0jHONNc9jupQ2PPIeXUMk64KaxpbXgyMlpFhb4rZgXxZ1wC1Bf59QdVKTGyhUIW3UuFX9/l7Ty58L1eGvsG57q/y/tPFyM2SVW4gSg+P5r4WJmL4+8=
-  - secure: Ledm/zwg6bcGHT4fzLy0w9+PvlO7cmAaVDjaIC3xri+V7kCArS9RFFpKolGGtxfBG08n/oGMCzg9v1j2ulFvSTKYtsKQWFXQAuQh0+AscGWfcxLzorqlWdD0m2K74LX7N60CtdPgOAtAaBYiGt61kiYbqRFrCBFkFl/vqmd9dIg=
+  - secure: fvz736DtAmSEMUYNuTTEHnNkOD34ZQdfKj1ln8Wb5lOZP/S71DjsTvfW1c/UKa0ejhPqjQRrtRCV7SCw4GEqQjiMQuEudc5GuiASceJrXUEEaZDIHsWrGP4CAb8f+/0pGYPfYSLYnV4bogs4BjH22tDLJkYDQGqXuDZbTwa2MjQ=
 branches:
   only: master
 addons:
