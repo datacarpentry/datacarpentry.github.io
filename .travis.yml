@@ -1,14 +1,52 @@
+# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
+# Default configuration for use with tic package
+# Usually you shouldn't need to change the first part of the file
+
+# DO NOT CHANGE THE CODE BELOW
+before_install: R -q -e 'install.packages(c("remotes", "curl")); remotes::install_github("ropenscilabs/tic"); tic::prepare_all_stages(); tic::before_install()'
+install: R -q -e 'tic::install()'
+after_install: R -q -e 'tic::after_install()'
+before_script: R -q -e 'tic::before_script()'
+script: R -q -e 'tic::script()'
+after_success: R -q -e 'tic::after_success()'
+after_failure: R -q -e 'tic::after_failure()'
+before_deploy:
+  - chmod +x amy_add.sh
+  - R -q -e 'tic::before_deploy()'
+deploy:
+  provider: script
+  script: R -q -e 'tic::deploy()'
+  on:
+    all_branches: true
+after_deploy: R -q -e 'tic::after_deploy()'
+after_script: R -q -e 'tic::after_script()'
+# DO NOT CHANGE THE CODE ABOVE
+
+# Custom parts:
+
+# Header
+language: r
+sudo: false
+dist: trusty
+cache: packages
+latex: false
+
+#env
 env:
   global:
   - secure: hd00cObkR/VYnuA5jvRDFWYSrHlnMqxQXmWB11gQgHR0VkOYx0oxi5x9Zo5AGjtLTLlZrNv5VMSMyfP43aPxPiMPjL/NxmVuwzJx2xJ92URADKBhNmUrXitFblrK+JtKIzLkFyAFDzKmyRqbWiad5Xl7E7CMb7hUL9eMZUOvrd4=
   - secure: GzxnJf8pF7hkmPgYO0hbrQF//jzhd19aDAkGfeNlJqZ5xtxdiT9m9EVfx0jHONNc9jupQ2PPIeXUMk64KaxpbXgyMlpFhb4rZgXxZ1wC1Bf59QdVKTGyhUIW3UuFX9/l7Ty58L1eGvsG57q/y/tPFyM2SVW4gSg+P5r4WJmL4+8=
-  - secure: fvz736DtAmSEMUYNuTTEHnNkOD34ZQdfKj1ln8Wb5lOZP/S71DjsTvfW1c/UKa0ejhPqjQRrtRCV7SCw4GEqQjiMQuEudc5GuiASceJrXUEEaZDIHsWrGP4CAb8f+/0pGYPfYSLYnV4bogs4BjH22tDLJkYDQGqXuDZbTwa2MjQ=
+  - _R_CHECK_FORCE_SUGGESTS_=false
+  - MAKEFLAGS="-j 2"
+
 branches:
   only: master
+
 addons:
   apt:
     packages:
     - python3-requests
     - python3-yaml
-before_script: chmod +x amy_add.sh
-script: "./amy_add.sh"
+
+#services
+services:
