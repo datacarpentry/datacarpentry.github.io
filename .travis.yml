@@ -11,8 +11,8 @@ branches:
 addons:
   apt:
     packages:
-    - python3-requests
-    - python3-yaml
+      - python3-requests
+      - python3-yaml
 
 install: gem install yaml-lint
 
@@ -22,4 +22,5 @@ script:
   - bundle update && make test-site
 
 before_deploy: chmod +x amy_add.sh
-deploy: "./amy_add.sh"
+deploy:
+  - ./amy_add.sh
