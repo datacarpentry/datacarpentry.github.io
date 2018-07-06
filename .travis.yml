@@ -1,50 +1,13 @@
-# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
-# Default configuration for use with tic package
-# Usually you shouldn't need to change the first part of the file
-
-# DO NOT CHANGE THE CODE BELOW
-before_install: R -q -e 'install.packages(c("remotes", "curl")); remotes::install_github("ropenscilabs/tic"); tic::prepare_all_stages(); tic::before_install()'
-install: R -q -e 'tic::install()'
-after_install: R -q -e 'tic::after_install()'
-before_script: R -q -e 'tic::before_script()'
-script: R -q -e 'tic::script()'
-after_success: R -q -e 'tic::after_success()'
-after_failure: R -q -e 'tic::after_failure()'
-before_deploy: R -q -e 'tic::before_deploy()'
-deploy:
-  provider: script
-  script: R -q -e 'tic::deploy()'
-  on:
-    all_branches: true
-after_deploy: R -q -e 'tic::after_deploy()'
-after_script: R -q -e 'tic::after_script()'
-# DO NOT CHANGE THE CODE ABOVE
-
-# Custom parts:
-
-# Header
-language: r
-sudo: false
-dist: trusty
-cache: packages
-latex: false
-
-#env
-env:
-  global:
-  - secure: hd00cObkR/VYnuA5jvRDFWYSrHlnMqxQXmWB11gQgHR0VkOYx0oxi5x9Zo5AGjtLTLlZrNv5VMSMyfP43aPxPiMPjL/NxmVuwzJx2xJ92URADKBhNmUrXitFblrK+JtKIzLkFyAFDzKmyRqbWiad5Xl7E7CMb7hUL9eMZUOvrd4=
-  - secure: GzxnJf8pF7hkmPgYO0hbrQF//jzhd19aDAkGfeNlJqZ5xtxdiT9m9EVfx0jHONNc9jupQ2PPIeXUMk64KaxpbXgyMlpFhb4rZgXxZ1wC1Bf59QdVKTGyhUIW3UuFX9/l7Ty58L1eGvsG57q/y/tPFyM2SVW4gSg+P5r4WJmL4+8=
-  - _R_CHECK_FORCE_SUGGESTS_=false
-  - MAKEFLAGS="-j 2"
-
 branches:
   only: master
-
 addons:
   apt:
     packages:
     - python3-requests
     - python3-yaml
-
-#services
-services:
+before_script: chmod +x amy_add.sh
+script: "./amy_add.sh"
+env:
+  global:
+  - secure: Y+2/9XMU3zZPgeCIcT2NoyrzHLGTZs3Ucqy67L9KoVRW/dTZOrpSD7pHar2zRjJkB3cW0CL+uS+Q3RYkVY9i1PYPiyazyfnYYqxFVjR9os+5JFgIlGIHCPEmmNAR/x8sFgRLrX2uER48TW6Njv/zvQP8mvMSljUWXesKGV7ni+0=
+  - secure: TjdEoPX2fjrA9I4fyil6atg6JQt58HrX0EiF9TmTVwSk8x7SaubBNcy6ZOAI4NBU2I7FYFCpLMCNu29mn13SwjVNQ9JAjGO44BOBA2CPN24hgqElx7rM3n+lJAO3c3DYysbdGc1VGsgLA7lnYtFGHo9JZrOnvvb4jONFPjnDe68=
