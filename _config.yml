@@ -59,7 +59,11 @@ dc_github_repo_url: "https://github.com/datacarpentry"
 dc_github_site_url: "https://datacarpentry.org"
 dc_website_url: "https://datacarpentry.org"
 dc_email: "team@carpentries.org"
+instructor_training_url: "https://carpentries.github.io/instructor-training/"
 
+# Carpentries website
+swc_website_url: "https://sofware-carpentry.org"
+carpentries_website_url: "https://carpentries.org"
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
