@@ -18,6 +18,10 @@ serve :
 site : 
 	bundle exec jekyll build --incremental
 
+## test-site  : limit post to make it faster, useful to troubleshoot
+test-site :
+	bundle exec jekyll build --limit_post 10
+
 ## install    : install missing Ruby gems using bundle.
 install :
 	bundle install
