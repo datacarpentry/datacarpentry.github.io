@@ -2,6 +2,7 @@ env:
   global:
   - secure: Y+2/9XMU3zZPgeCIcT2NoyrzHLGTZs3Ucqy67L9KoVRW/dTZOrpSD7pHar2zRjJkB3cW0CL+uS+Q3RYkVY9i1PYPiyazyfnYYqxFVjR9os+5JFgIlGIHCPEmmNAR/x8sFgRLrX2uER48TW6Njv/zvQP8mvMSljUWXesKGV7ni+0=
   - secure: TjdEoPX2fjrA9I4fyil6atg6JQt58HrX0EiF9TmTVwSk8x7SaubBNcy6ZOAI4NBU2I7FYFCpLMCNu29mn13SwjVNQ9JAjGO44BOBA2CPN24hgqElx7rM3n+lJAO3c3DYysbdGc1VGsgLA7lnYtFGHo9JZrOnvvb4jONFPjnDe68=
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 language: ruby
 
