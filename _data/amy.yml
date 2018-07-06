@@ -123,6 +123,7 @@ airports:
 - country: us
   instructors:
   - {name: Nichole Bennett, user: bennett_n}
+  - {name: Anna Dabrowski, user: dabrowski_anna}
   - {name: John Fonner, user: fonner_john}
   - {name: Rayna Michelle Harris, user: harris_rayna}
   - {name: Todd Krause, user: krause_todd}
@@ -492,7 +493,6 @@ airports:
   name: Cleveland, OH
 - country: us
   instructors:
-  - {name: Anna Dabrowski, user: dabrowski_anna}
   - {name: Shichen Wang, user: wang_shichen}
   latitude: 30.5886002
   longitude: -96.3638001
@@ -1870,7 +1870,7 @@ airports:
   - {name: Daniel McCloy, user: mccloy_daniel}
   - {name: Maria McKinley, user: mckinley_maria}
   - {name: Bree Norlander, user: norlander_bree}
-  - {name: Jimmy O'Donnel, user: odonnel_jimmy}
+  - {name: Jimmy O'Donnell, user: odonnel_jimmy}
   - {name: Kivan Polimis, user: polimis_kivan}
   - {name: Meredith Rawls, user: rawls_meredith}
   - {name: Adam Richie-Halford, user: richie-halford_adam}
@@ -3596,7 +3596,7 @@ badges:
   - {awarded: '2017-12-06', name: Tim Young, user: young_tim}
   - {awarded: '2017-12-06', name: Shirley Alquicira Hernandez, user: alquicira-hernandez_shirley}
   - {awarded: '2017-12-06', name: Irma Martínez-Flores, user: martnez-flores_irma}
-  - {awarded: '2017-12-06', name: Jimmy O'Donnel, user: odonnel_jimmy}
+  - {awarded: '2017-12-06', name: Jimmy O'Donnell, user: odonnel_jimmy}
   - {awarded: '2017-12-06', name: Schuyler Smith, user: smith_schuyler}
   - {awarded: '2017-12-06', name: David McKenzie, user: mckenzie_david}
   - {awarded: '2017-12-06', name: Bradford Condon, user: condon_bradford}
@@ -4585,6 +4585,7 @@ badges:
   - {awarded: '2018-07-01', name: Roland Haas, user: haas_roland}
   - {awarded: '2018-07-01', name: Sabah Ul-Hasan, user: ul-hasan_sabah}
   - {awarded: '2018-07-01', name: Sateesh Peri, user: peri_sateesh}
+  - {awarded: '2018-07-05', name: Kat Fowler, user: fowler_kat}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4739,7 +4740,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za]
-timestamp: 20180705T171114Z
+timestamp: 20180706T144207Z
 workshops:
 - &id002
   - address: ' '
@@ -8054,10 +8055,9 @@ workshops:
     - {name: DC}
     url: http://daryavanichkina.com/2018-07-03-ResbazSydney/
     venue: ResBaz Sydney (novice R stream)
-- &id001
   - address: St David St, North Dunedin, Dunedin 9016
     contact: Murray Cadzow
-    country: NZ
+    country: nz
     end: 2018-07-05
     eventbrite_id: ''
     humandate: Jul 04-05, 2018
@@ -8069,6 +8069,7 @@ workshops:
     - {name: DC}
     url: https://murraycadzow.github.io/2018-07-04-otago-dc/
     venue: St David St Lecture Theatre Seminar Rooms
+- &id001
   - address: LAN, PMB Campus, Petermaritzburg
     contact: 209510188@stu.ukzn.ac.za tirok@ukzn.ac.za
     country: ZA
