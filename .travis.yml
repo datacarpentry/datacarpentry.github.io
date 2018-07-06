@@ -16,11 +16,10 @@ addons:
 
 install: gem install yaml-lint
 
+before_script: chmod +x amy_add.sh
+
 script:
   - yaml-lint -q -n -i  $(find _posts -regex ".*.md\|.*html" )
   - yaml-lint -q -n -i  $(find pages -regex ".*.md\|.*html" )
   - bundle update && make test-site
-
-before_deploy: chmod +x amy_add.sh
-deploy:
   - ./amy_add.sh
