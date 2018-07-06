@@ -4740,7 +4740,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za]
-timestamp: 20180706T144207Z
+timestamp: 20180706T144355Z
 workshops:
 - &id002
   - address: ' '
