@@ -87,19 +87,7 @@ environment for learning to empower researchers and enable data driven discovery
 
         <div class="medium-6 columns">
 	  <p><strong>{{ site.data.language.upcoming_workshops }}</strong></p>
-	  <table class="table table-striped workshops">
-	    {% for w in site.data.amy.workshops_current reversed %}
-	    <tr>
-	      <td>
-		<img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
-		<a href="{{w.url}}">{{w.venue}}</a>
-	      </td>
-	      <td>
-		{{w.humandate}}
-	      </td>
-	    </tr>
-	    {% endfor %}
-	  </table>
+	  {% include workshop_table.md %}
 	</div>
 
 
