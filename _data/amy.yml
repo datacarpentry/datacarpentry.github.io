@@ -3641,7 +3641,7 @@ badges:
   - {awarded: '2018-01-08', name: Robert Pavel, user: pavel_robert}
   - {awarded: '2018-01-08', name: Diya Das, user: das_diya}
   - {awarded: '2018-01-08', name: Fred Reiss, user: reiss_fred}
-  - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil_2}
+  - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil}
   - {awarded: '2018-01-10', name: Daniel Nolte, user: nolte_daniel}
   - {awarded: '2018-01-24', name: Jose Fonseca, user: fonseca_jose}
   - {awarded: '2018-01-24', name: Jennifer Koch, user: koch_jennifer}
@@ -4739,8 +4739,8 @@ flags:
     gb, gr, hk, id, ie, il, in, it, jp, lt, lu, mu, mx, na, nl, 'no', nz, pk, pl,
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
-    ph, pl, pr, si, th, us, za]
-timestamp: 20180706T162327Z
+    ph, pl, pr, si, th, us, za, zw]
+timestamp: 20180711T145938Z
 workshops:
 - &id002
   - address: ' '
@@ -8041,6 +8041,20 @@ workshops:
     - {name: DC}
     url: https://rcg.usd.edu/2018-06-29-und-mbdh/
     venue: Wegner Health Science Information Center
+  - address: 18443 Cranborne Avenue, Hatfield, Harare
+    contact: ro.shoniwa@gmail.com
+    country: zw
+    end: 2018-07-03
+    eventbrite_id: ''
+    humandate: Jul 02-03, 2018
+    latitude: -17.869106
+    longitude: 31.06693
+    slug: 2018-07-02-ZIMREN
+    start: 2018-07-02
+    tags:
+    - {name: DC}
+    url: https://african-carpentries.github.io/2018-07-02-ZIMREN/
+    venue: Catholic University of Zimbabwe
   - address: 14SCO Room 263, Macquarie University
     contact: d.vanichkina@gmail.comgordon.mcdonald@sydney.edu.au
     country: au
@@ -8110,12 +8124,12 @@ workshops:
     start: 2018-07-18
     tags:
     - {name: DC}
-    url: https://duke-gcb.github.io/2018-07-26-Duke/
-    venue: Duke University
-  - address: FFSC #4233, 124 Science Drive, Durham, NC 27708
+    url: https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/
+    venue: North-West University - Mahikeng Campus
+  - address: 'FFSC #4233, 124 Science Drive, Durham, NC 27708'
     contact: hilmar.lapp@duke.edu
     country: US
-    end: 2018-08-27
+    end: 2018-07-27
     eventbrite_id: ''
     humandate: Jul 26-27, 2018
     latitude: 36.002868
@@ -8124,8 +8138,8 @@ workshops:
     start: 2018-07-26
     tags:
     - {name: DC}
-    url: https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/
-    venue: North-West University - Mahikeng Campus
+    url: https://duke-gcb.github.io/2018-07-26-Duke/
+    venue: Duke University
   - address: 190 Doe Library, University of California, Berkeley
     contact: diyadas@berkeley.edu
     country: US
@@ -8184,6 +8198,20 @@ workshops:
     - {name: DC}
     url: https://rivm-bioinformatics.github.io/2018-09-10-RIVM/
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+  - address: Norwich Research Park, Norwich, NR4 7UZ
+    contact: training@earlham.ac.uk
+    country: GB
+    end: 2018-10-03
+    eventbrite_id: ''
+    humandate: Oct 02-03, 2018
+    latitude: 52.621741
+    longitude: 1.218987
+    slug: 2018-10-02-earlham_institute
+    start: 2018-10-02
+    tags:
+    - {name: DC}
+    url: https://tgac.github.io/2018-10-02-DC/
+    venue: Earlham Institute
   - address: Mizan-Teferi, Ethiopia
     contact: mesfin@aau.edu.et"yared3778@gmail.com
     country: ET
