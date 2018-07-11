@@ -8110,6 +8110,20 @@ workshops:
     start: 2018-07-18
     tags:
     - {name: DC}
+    url: https://duke-gcb.github.io/2018-07-26-Duke/
+    venue: Duke University
+  - address: FFSC #4233, 124 Science Drive, Durham, NC 27708
+    contact: hilmar.lapp@duke.edu
+    country: US
+    end: 2018-08-27
+    eventbrite_id: ''
+    humandate: Jul 26-27, 2018
+    latitude: 36.002868
+    longitude: -78.943498
+    slug: 2018-07-26-duke
+    start: 2018-07-26
+    tags:
+    - {name: DC}
     url: https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/
     venue: North-West University - Mahikeng Campus
   - address: 190 Doe Library, University of California, Berkeley
