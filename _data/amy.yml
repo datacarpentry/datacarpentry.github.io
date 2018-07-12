@@ -4740,7 +4740,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180711T145938Z
+timestamp: 20180712T213945Z
 workshops:
 - &id002
   - address: ' '
@@ -8031,7 +8031,7 @@ workshops:
     contact: joseph.madison@coyotes.usd.edu, doug.jennewein@usd.edu
     country: us
     end: 2018-06-30
-    eventbrite_id: ''
+    eventbrite_id: '46715948660'
     humandate: Jun 29-30, 2018
     latitude: 43.533524
     longitude: -96.742792
@@ -8083,10 +8083,9 @@ workshops:
     - {name: DC}
     url: https://murraycadzow.github.io/2018-07-04-otago-dc/
     venue: St David St Lecture Theatre Seminar Rooms
-- &id001
   - address: LAN, PMB Campus, Petermaritzburg
     contact: 209510188@stu.ukzn.ac.za tirok@ukzn.ac.za
-    country: ZA
+    country: za
     end: 2018-07-11
     eventbrite_id: ''
     humandate: Jul 10-11, 2018
@@ -8098,6 +8097,7 @@ workshops:
     - {name: DC}
     url: https://katrintirok.github.io/2018-07-10-UKZN-PMB/
     venue: UKZN, Bioresources Engineering
+- &id001
   - address: MADLab, Gerstein Science Information Centre, Room B112
     contact: m.bonsma@mail.utoronto.cauoftcoders@gmail.com
     country: CA
