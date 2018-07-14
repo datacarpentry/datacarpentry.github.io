@@ -728,7 +728,6 @@ airports:
   - {name: Jonah Duckles, user: duckles_jonah}
   - {name: David Eyers, user: eyers_david}
   - {name: Tanya Flynn, user: flynn_tanya}
-  - {name: S. Thomas Kelly, user: kelly_tom}
   - {name: Elizabeth Permina, user: permina_elizabeth}
   latitude: -45.928056
   longitude: 170.198333
@@ -1507,6 +1506,12 @@ airports:
   latitude: 55.0375
   longitude: -1.691667
   name: Newcastle
+- country: jp
+  instructors:
+  - {name: Tom Kelly, user: kelly_tom}
+  latitude: 35.7647018
+  longitude: 140.3860016
+  name: Narita International Airport
 - country: gb
   instructors:
   - {name: Rob Davey, user: davey_rob}
@@ -1593,6 +1598,7 @@ airports:
   - {name: Camille Avestruz, user: avestruz_camille}
   - {name: Arjun A Biddanda, user: biddanda_arjun}
   - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Roland Haas, user: haas_roland}
   - {name: Jonathan Keane, user: keane_jonathan}
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Christina Maimone, user: maimone_christina}
@@ -1732,6 +1738,12 @@ airports:
   latitude: 41.723889
   longitude: -71.428056
   name: Providence, RI
+- country: us
+  instructors:
+  - {name: Julia M Brown, user: brown_julia}
+  latitude: 43.6461983
+  longitude: -70.3093033
+  name: Portland International Jetport Airport
 - country: us
   instructors:
   - {name: Shaun Bennett, user: bennett_shaun}
@@ -1996,6 +2008,7 @@ airports:
   - {name: Robin Donatello, user: donatello_robin}
   - {name: Chris Hamm, user: hamm_chris}
   - {name: Luiz Irber, user: irber_luiz}
+  - {name: Ryan Gregory James, user: james_ryan}
   - {name: Lisa K. Johnson, user: cohen_lisa}
   - {name: Myfanwy Johnston, user: johnston_myfanwy}
   - {name: Michael Koontz, user: koontz_michael}
@@ -2118,6 +2131,7 @@ airports:
   - {name: Beth Signal, user: signal_beth}
   - {name: Adela Sobotkova, user: sobotkova_adela}
   - {name: Jake Surman, user: surman_jake}
+  - {name: Gustavo Thomas, user: thomas_gustavo}
   - {name: Paddy Tobias, user: tobias_paddy}
   - {name: James Tocknell, user: tocknell_james}
   - {name: William Tong, user: tong_william}
@@ -2278,6 +2292,7 @@ airports:
   - {name: Wolfgang Hayek, user: hayek_wolfgang}
   - {name: Ben Jolly, user: jolly_ben}
   - {name: Alexander Pletzer, user: pletzer_alexander}
+  - {name: Jonny Williams, user: williams_jonny}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -2884,7 +2899,7 @@ badges:
   - {awarded: '2015-03-25', name: Amanda Charbonneau, user: charbonneau_amanda}
   - {awarded: '2015-03-25', name: Kim Doyle, user: doyle_kimberly}
   - {awarded: '2015-03-25', name: Prashant Gupta, user: gupta_prashant}
-  - {awarded: '2015-03-25', name: S. Thomas Kelly, user: kelly_tom}
+  - {awarded: '2015-03-25', name: Tom Kelly, user: kelly_tom}
   - {awarded: '2015-03-25', name: Daniel McDonald, user: mcdonald_daniel}
   - {awarded: '2015-03-25', name: Fiona Tweedie, user: tweedie_fiona}
   - {awarded: '2015-04-20', name: Angus Ferguson, user: ferguson_angus}
@@ -3814,11 +3829,11 @@ badges:
   - {awarded: '2018-06-22', name: Amber Sherman, user: sherman_amber}
   - {awarded: '2018-06-26', name: Marie-Helene Burle, user: burle_marie-helene}
   - {awarded: '2018-06-27', name: Melissa Fabros, user: fabros_melissa}
-  - {awarded: '2018-06-30', name: Julia Brown, user: brown_julia}
+  - {awarded: '2018-06-30', name: Julia M Brown, user: brown_julia}
   - {awarded: '2018-06-30', name: Petra Janouchova, user: janouchova_petra}
   - {awarded: '2018-07-01', name: Chissa Rivaldi, user: rivaldi_chissa}
   - {awarded: '2018-07-01', name: Dana Miller, user: miller_dana}
-  - {awarded: '2018-07-03', name: Ryan James, user: james_ryan}
+  - {awarded: '2018-07-03', name: Ryan Gregory James, user: james_ryan}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -3981,7 +3996,7 @@ badges:
   - {awarded: '2016-01-27', name: Sue McClatchy, user: mcclatchy_susan}
   - {awarded: '2016-01-27', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2016-01-27', name: Trevor Bekolay, user: bekolay_trevor}
-  - {awarded: '2016-01-27', name: S. Thomas Kelly, user: kelly_tom}
+  - {awarded: '2016-01-27', name: Tom Kelly, user: kelly_tom}
   - {awarded: '2016-01-27', name: Olav Vahtras, user: vahtras_olav}
   - {awarded: '2016-01-27', name: Asela Wijeratne, user: wijeratne_asela}
   - {awarded: '2016-01-27', name: Paul Wilson, user: wilson_p}
@@ -4740,7 +4755,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180712T213945Z
+timestamp: 20180714T214112Z
 workshops:
 - &id002
   - address: ' '
@@ -8097,10 +8112,9 @@ workshops:
     - {name: DC}
     url: https://katrintirok.github.io/2018-07-10-UKZN-PMB/
     venue: UKZN, Bioresources Engineering
-- &id001
   - address: MADLab, Gerstein Science Information Centre, Room B112
     contact: m.bonsma@mail.utoronto.cauoftcoders@gmail.com
-    country: CA
+    country: ca
     end: 2018-07-13
     eventbrite_id: ''
     humandate: Jul 12-13, 2018
@@ -8112,6 +8126,7 @@ workshops:
     - {name: DC}
     url: https://uoftcoders.github.io/2018-07-12-utoronto/
     venue: University of Toronto
+- &id001
   - address: NWU Mafikeng Campus
     contact: carolfadeke@gmail.com
     country: ZA
