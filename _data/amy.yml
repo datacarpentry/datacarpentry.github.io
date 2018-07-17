@@ -58,6 +58,7 @@ airports:
   name: Auckland
 - country: us
   instructors:
+  - {name: Jonathan Borrelli, user: borrelli_jonathan}
   - {name: Daniel Turek, user: turek_daniel}
   - {name: Greg Watson, user: watson_greg}
   latitude: 42.7482986
@@ -1024,7 +1025,6 @@ airports:
   - {name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
   - {name: Joshua Ainsley, user: ainsley_joshua}
   - {name: Maria Guadalupe Barrios Sazo, user: barrios-sazo_maria}
-  - {name: Jonathan Borrelli, user: borrelli_jonathan}
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {name: Kapeel Chougule, user: chougule_kapeel}
   - {name: Catherine M Foley, user: foley_catherine}
@@ -1980,6 +1980,7 @@ airports:
   - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
   - {name: Antonia Gogoglou, user: gogoglou_antonia}
   - {name: Athanassios Kintsakis, user: kintsakis_athanassios}
+  - {name: Maria Kotouza, user: kotouza_maria}
   - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
   latitude: 40.518775
   longitude: 22.971483
@@ -3834,6 +3835,16 @@ badges:
   - {awarded: '2018-07-01', name: Chissa Rivaldi, user: rivaldi_chissa}
   - {awarded: '2018-07-01', name: Dana Miller, user: miller_dana}
   - {awarded: '2018-07-03', name: Ryan Gregory James, user: james_ryan}
+  - {awarded: '2018-07-17', name: Kamil Marcinkowski, user: marcinkowski_kamil}
+  - {awarded: '2018-07-17', name: Marc Galland, user: galland_marc}
+  - {awarded: '2018-07-17', name: Gwen Dawes, user: dawes_gwen}
+  - {awarded: '2018-07-17', name: Maria Kotouza, user: kotouza_maria}
+  - {awarded: '2018-07-17', name: Jason He, user: he_jason}
+  - {awarded: '2018-07-17', name: Adele Barugahare, user: barugahare_adele}
+  - {awarded: '2018-07-17', name: Jason Motha, user: motha_jason}
+  - {awarded: '2018-07-17', name: Vicken Hillis, user: hillis_vicken}
+  - {awarded: '2018-07-17', name: Lisa Abernathy-Close, user: abernathy-close_lisa}
+  - {awarded: '2018-07-17', name: Elizabeth DuPre, user: dupre_elizabeth}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4601,6 +4612,9 @@ badges:
   - {awarded: '2018-07-01', name: Sabah Ul-Hasan, user: ul-hasan_sabah}
   - {awarded: '2018-07-01', name: Sateesh Peri, user: peri_sateesh}
   - {awarded: '2018-07-05', name: Kat Fowler, user: fowler_kat}
+  - {awarded: '2018-07-17', name: Andreas Madlung, user: madlung_andreas}
+  - {awarded: '2018-07-17', name: Robert Zinna, user: zinna_robert}
+  - {awarded: '2018-07-17', name: Fernando Rios, user: rios_fernando}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4755,7 +4769,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180715T214216Z
+timestamp: 20180717T214339Z
 workshops:
 - &id002
   - address: ' '
