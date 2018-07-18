@@ -589,6 +589,7 @@ airports:
   - {name: Ian Carroll, user: carroll_ian}
   - {name: Ryan Dale, user: dale_ryan}
   - {name: Abhijit Dasgupta, user: dasgupta_abhijit}
+  - {name: Juan F Fung, user: fung_juan}
   - {name: Vanessa L Gonzalez, user: gonzalez_vanessa}
   - {name: Anuj Guruacharya, user: guruacharya_anuj}
   - {name: Jonathan Guyer, user: guyer_jonathan}
@@ -3845,6 +3846,8 @@ badges:
   - {awarded: '2018-07-17', name: Vicken Hillis, user: hillis_vicken}
   - {awarded: '2018-07-17', name: Lisa Abernathy-Close, user: abernathy-close_lisa}
   - {awarded: '2018-07-17', name: Elizabeth DuPre, user: dupre_elizabeth}
+  - {awarded: '2018-07-17', name: Juan F Fung, user: fung_juan}
+  - {awarded: '2018-07-18', name: Harriet Peel, user: peel_harriet}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4615,6 +4618,9 @@ badges:
   - {awarded: '2018-07-17', name: Andreas Madlung, user: madlung_andreas}
   - {awarded: '2018-07-17', name: Robert Zinna, user: zinna_robert}
   - {awarded: '2018-07-17', name: Fernando Rios, user: rios_fernando}
+  - {awarded: '2018-07-17', name: Chun Ly, user: ly_chun}
+  - {awarded: '2018-07-17', name: Jerome Keaton Wilson, user: wilson_jerome-keaton}
+  - {awarded: '2018-07-18', name: Abigail Sparling, user: sparling_abigail}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4769,7 +4775,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180717T214339Z
+timestamp: 20180718T131622Z
 workshops:
 - &id002
   - address: ' '
@@ -8155,6 +8161,21 @@ workshops:
     - {name: DC}
     url: https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/
     venue: North-West University - Mahikeng Campus
+  - address: University of Manchester
+    contact: peter.smyth@manchester.ac.uk
+    country: GB
+    end: 2018-07-20
+    eventbrite_id: ''
+    humandate: Jul 19-20, 2018
+    latitude: 53.466722
+    longitude: -2.236463
+    slug: 2018-07-19-ss-dc-manchester
+    start: 2018-07-19
+    tags:
+    - {name: DC}
+    url: https://petersmyth12.github.io/2018-07-19-ss-dc-manchester/
+    venue: Basement Lab, Humanities Bridgeford St. Building, Cathie Marsh Institute
+      for Social Research
   - address: 'FFSC #4233, 124 Science Drive, Durham, NC 27708'
     contact: hilmar.lapp@duke.edu
     country: US
