@@ -58,6 +58,7 @@ airports:
   name: Auckland
 - country: us
   instructors:
+  - {name: Jonathan Borrelli, user: borrelli_jonathan}
   - {name: Daniel Turek, user: turek_daniel}
   - {name: Greg Watson, user: watson_greg}
   latitude: 42.7482986
@@ -728,7 +729,6 @@ airports:
   - {name: Jonah Duckles, user: duckles_jonah}
   - {name: David Eyers, user: eyers_david}
   - {name: Tanya Flynn, user: flynn_tanya}
-  - {name: S. Thomas Kelly, user: kelly_tom}
   - {name: Elizabeth Permina, user: permina_elizabeth}
   latitude: -45.928056
   longitude: 170.198333
@@ -1025,7 +1025,6 @@ airports:
   - {name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
   - {name: Joshua Ainsley, user: ainsley_joshua}
   - {name: Maria Guadalupe Barrios Sazo, user: barrios-sazo_maria}
-  - {name: Jonathan Borrelli, user: borrelli_jonathan}
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {name: Kapeel Chougule, user: chougule_kapeel}
   - {name: Catherine M Foley, user: foley_catherine}
@@ -1507,6 +1506,12 @@ airports:
   latitude: 55.0375
   longitude: -1.691667
   name: Newcastle
+- country: jp
+  instructors:
+  - {name: Tom Kelly, user: kelly_tom}
+  latitude: 35.7647018
+  longitude: 140.3860016
+  name: Narita International Airport
 - country: gb
   instructors:
   - {name: Rob Davey, user: davey_rob}
@@ -1593,6 +1598,7 @@ airports:
   - {name: Camille Avestruz, user: avestruz_camille}
   - {name: Arjun A Biddanda, user: biddanda_arjun}
   - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Roland Haas, user: haas_roland}
   - {name: Jonathan Keane, user: keane_jonathan}
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Christina Maimone, user: maimone_christina}
@@ -1732,6 +1738,12 @@ airports:
   latitude: 41.723889
   longitude: -71.428056
   name: Providence, RI
+- country: us
+  instructors:
+  - {name: Julia M Brown, user: brown_julia}
+  latitude: 43.6461983
+  longitude: -70.3093033
+  name: Portland International Jetport Airport
 - country: us
   instructors:
   - {name: Shaun Bennett, user: bennett_shaun}
@@ -1968,6 +1980,7 @@ airports:
   - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
   - {name: Antonia Gogoglou, user: gogoglou_antonia}
   - {name: Athanassios Kintsakis, user: kintsakis_athanassios}
+  - {name: Maria Kotouza, user: kotouza_maria}
   - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
   latitude: 40.518775
   longitude: 22.971483
@@ -1996,6 +2009,7 @@ airports:
   - {name: Robin Donatello, user: donatello_robin}
   - {name: Chris Hamm, user: hamm_chris}
   - {name: Luiz Irber, user: irber_luiz}
+  - {name: Ryan Gregory James, user: james_ryan}
   - {name: Lisa K. Johnson, user: cohen_lisa}
   - {name: Myfanwy Johnston, user: johnston_myfanwy}
   - {name: Michael Koontz, user: koontz_michael}
@@ -2118,6 +2132,7 @@ airports:
   - {name: Beth Signal, user: signal_beth}
   - {name: Adela Sobotkova, user: sobotkova_adela}
   - {name: Jake Surman, user: surman_jake}
+  - {name: Gustavo Thomas, user: thomas_gustavo}
   - {name: Paddy Tobias, user: tobias_paddy}
   - {name: James Tocknell, user: tocknell_james}
   - {name: William Tong, user: tong_william}
@@ -2278,6 +2293,7 @@ airports:
   - {name: Wolfgang Hayek, user: hayek_wolfgang}
   - {name: Ben Jolly, user: jolly_ben}
   - {name: Alexander Pletzer, user: pletzer_alexander}
+  - {name: Jonny Williams, user: williams_jonny}
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
@@ -2884,7 +2900,7 @@ badges:
   - {awarded: '2015-03-25', name: Amanda Charbonneau, user: charbonneau_amanda}
   - {awarded: '2015-03-25', name: Kim Doyle, user: doyle_kimberly}
   - {awarded: '2015-03-25', name: Prashant Gupta, user: gupta_prashant}
-  - {awarded: '2015-03-25', name: S. Thomas Kelly, user: kelly_tom}
+  - {awarded: '2015-03-25', name: Tom Kelly, user: kelly_tom}
   - {awarded: '2015-03-25', name: Daniel McDonald, user: mcdonald_daniel}
   - {awarded: '2015-03-25', name: Fiona Tweedie, user: tweedie_fiona}
   - {awarded: '2015-04-20', name: Angus Ferguson, user: ferguson_angus}
@@ -3641,7 +3657,7 @@ badges:
   - {awarded: '2018-01-08', name: Robert Pavel, user: pavel_robert}
   - {awarded: '2018-01-08', name: Diya Das, user: das_diya}
   - {awarded: '2018-01-08', name: Fred Reiss, user: reiss_fred}
-  - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil_2}
+  - {awarded: '2018-01-08', name: Neil Kindlon, user: kindlon_neil}
   - {awarded: '2018-01-10', name: Daniel Nolte, user: nolte_daniel}
   - {awarded: '2018-01-24', name: Jose Fonseca, user: fonseca_jose}
   - {awarded: '2018-01-24', name: Jennifer Koch, user: koch_jennifer}
@@ -3814,11 +3830,21 @@ badges:
   - {awarded: '2018-06-22', name: Amber Sherman, user: sherman_amber}
   - {awarded: '2018-06-26', name: Marie-Helene Burle, user: burle_marie-helene}
   - {awarded: '2018-06-27', name: Melissa Fabros, user: fabros_melissa}
-  - {awarded: '2018-06-30', name: Julia Brown, user: brown_julia}
+  - {awarded: '2018-06-30', name: Julia M Brown, user: brown_julia}
   - {awarded: '2018-06-30', name: Petra Janouchova, user: janouchova_petra}
   - {awarded: '2018-07-01', name: Chissa Rivaldi, user: rivaldi_chissa}
   - {awarded: '2018-07-01', name: Dana Miller, user: miller_dana}
-  - {awarded: '2018-07-03', name: Ryan James, user: james_ryan}
+  - {awarded: '2018-07-03', name: Ryan Gregory James, user: james_ryan}
+  - {awarded: '2018-07-17', name: Kamil Marcinkowski, user: marcinkowski_kamil}
+  - {awarded: '2018-07-17', name: Marc Galland, user: galland_marc}
+  - {awarded: '2018-07-17', name: Gwen Dawes, user: dawes_gwen}
+  - {awarded: '2018-07-17', name: Maria Kotouza, user: kotouza_maria}
+  - {awarded: '2018-07-17', name: Jason He, user: he_jason}
+  - {awarded: '2018-07-17', name: Adele Barugahare, user: barugahare_adele}
+  - {awarded: '2018-07-17', name: Jason Motha, user: motha_jason}
+  - {awarded: '2018-07-17', name: Vicken Hillis, user: hillis_vicken}
+  - {awarded: '2018-07-17', name: Lisa Abernathy-Close, user: abernathy-close_lisa}
+  - {awarded: '2018-07-17', name: Elizabeth DuPre, user: dupre_elizabeth}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -3981,7 +4007,7 @@ badges:
   - {awarded: '2016-01-27', name: Sue McClatchy, user: mcclatchy_susan}
   - {awarded: '2016-01-27', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2016-01-27', name: Trevor Bekolay, user: bekolay_trevor}
-  - {awarded: '2016-01-27', name: S. Thomas Kelly, user: kelly_tom}
+  - {awarded: '2016-01-27', name: Tom Kelly, user: kelly_tom}
   - {awarded: '2016-01-27', name: Olav Vahtras, user: vahtras_olav}
   - {awarded: '2016-01-27', name: Asela Wijeratne, user: wijeratne_asela}
   - {awarded: '2016-01-27', name: Paul Wilson, user: wilson_p}
@@ -4586,6 +4612,9 @@ badges:
   - {awarded: '2018-07-01', name: Sabah Ul-Hasan, user: ul-hasan_sabah}
   - {awarded: '2018-07-01', name: Sateesh Peri, user: peri_sateesh}
   - {awarded: '2018-07-05', name: Kat Fowler, user: fowler_kat}
+  - {awarded: '2018-07-17', name: Andreas Madlung, user: madlung_andreas}
+  - {awarded: '2018-07-17', name: Robert Zinna, user: zinna_robert}
+  - {awarded: '2018-07-17', name: Fernando Rios, user: rios_fernando}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4739,8 +4768,8 @@ flags:
     gb, gr, hk, id, ie, il, in, it, jp, lt, lu, mu, mx, na, nl, 'no', nz, pk, pl,
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
-    ph, pl, pr, si, th, us, za]
-timestamp: 20180706T155510Z
+    ph, pl, pr, si, th, us, za, zw]
+timestamp: 20180717T214339Z
 workshops:
 - &id002
   - address: ' '
@@ -8031,7 +8060,7 @@ workshops:
     contact: joseph.madison@coyotes.usd.edu, doug.jennewein@usd.edu
     country: us
     end: 2018-06-30
-    eventbrite_id: ''
+    eventbrite_id: '46715948660'
     humandate: Jun 29-30, 2018
     latitude: 43.533524
     longitude: -96.742792
@@ -8041,6 +8070,20 @@ workshops:
     - {name: DC}
     url: https://rcg.usd.edu/2018-06-29-und-mbdh/
     venue: Wegner Health Science Information Center
+  - address: 18443 Cranborne Avenue, Hatfield, Harare
+    contact: ro.shoniwa@gmail.com
+    country: zw
+    end: 2018-07-03
+    eventbrite_id: ''
+    humandate: Jul 02-03, 2018
+    latitude: -17.869106
+    longitude: 31.06693
+    slug: 2018-07-02-ZIMREN
+    start: 2018-07-02
+    tags:
+    - {name: DC}
+    url: https://african-carpentries.github.io/2018-07-02-ZIMREN/
+    venue: Catholic University of Zimbabwe
   - address: 14SCO Room 263, Macquarie University
     contact: d.vanichkina@gmail.comgordon.mcdonald@sydney.edu.au
     country: au
@@ -8069,10 +8112,9 @@ workshops:
     - {name: DC}
     url: https://murraycadzow.github.io/2018-07-04-otago-dc/
     venue: St David St Lecture Theatre Seminar Rooms
-- &id001
   - address: LAN, PMB Campus, Petermaritzburg
     contact: 209510188@stu.ukzn.ac.za tirok@ukzn.ac.za
-    country: ZA
+    country: za
     end: 2018-07-11
     eventbrite_id: ''
     humandate: Jul 10-11, 2018
@@ -8086,7 +8128,7 @@ workshops:
     venue: UKZN, Bioresources Engineering
   - address: MADLab, Gerstein Science Information Centre, Room B112
     contact: m.bonsma@mail.utoronto.cauoftcoders@gmail.com
-    country: CA
+    country: ca
     end: 2018-07-13
     eventbrite_id: ''
     humandate: Jul 12-13, 2018
@@ -8098,6 +8140,7 @@ workshops:
     - {name: DC}
     url: https://uoftcoders.github.io/2018-07-12-utoronto/
     venue: University of Toronto
+- &id001
   - address: NWU Mafikeng Campus
     contact: carolfadeke@gmail.com
     country: ZA
@@ -8112,6 +8155,20 @@ workshops:
     - {name: DC}
     url: https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/
     venue: North-West University - Mahikeng Campus
+  - address: 'FFSC #4233, 124 Science Drive, Durham, NC 27708'
+    contact: hilmar.lapp@duke.edu
+    country: US
+    end: 2018-07-27
+    eventbrite_id: ''
+    humandate: Jul 26-27, 2018
+    latitude: 36.002868
+    longitude: -78.943498
+    slug: 2018-07-26-duke
+    start: 2018-07-26
+    tags:
+    - {name: DC}
+    url: https://duke-gcb.github.io/2018-07-26-Duke/
+    venue: Duke University
   - address: 190 Doe Library, University of California, Berkeley
     contact: diyadas@berkeley.edu
     country: US
@@ -8170,6 +8227,20 @@ workshops:
     - {name: DC}
     url: https://rivm-bioinformatics.github.io/2018-09-10-RIVM/
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+  - address: Norwich Research Park, Norwich, NR4 7UZ
+    contact: training@earlham.ac.uk
+    country: GB
+    end: 2018-10-03
+    eventbrite_id: ''
+    humandate: Oct 02-03, 2018
+    latitude: 52.621741
+    longitude: 1.218987
+    slug: 2018-10-02-earlham_institute
+    start: 2018-10-02
+    tags:
+    - {name: DC}
+    url: https://tgac.github.io/2018-10-02-DC/
+    venue: Earlham Institute
   - address: Mizan-Teferi, Ethiopia
     contact: mesfin@aau.edu.et"yared3778@gmail.com
     country: ET
