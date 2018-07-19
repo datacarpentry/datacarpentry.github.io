@@ -111,7 +111,7 @@ command line utilities, use of command line tools to analyze sequence quality an
 cloud computing.
 
 Please note that workshop materials for working with Genomics data in R are under development and will become available
-in June 2018.
+in October 2018.
 
 #### Lessons
 
