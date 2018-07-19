@@ -82,6 +82,7 @@ airports:
   - {name: Philip Lijnzaad, user: lijnzaad_philip}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {name: Anita Schürch, user: schurch_anita}
+  - {name: Ruud Steltenpool, user: steltenpool_ruud}
   - {name: Edwin van der Helm, user: van-der-helm_edwin}
   latitude: 52.309686
   longitude: 4.767438
@@ -1208,6 +1209,7 @@ airports:
   - {name: Dan MacLean, user: maclean_dan}
   - {name: Gary Macindoe, user: macindoe_gary}
   - {name: Amit Mandal, user: mandal_amit}
+  - {name: Rocio T. Martinez Nunez, user: martinez-nunez_rocio}
   - {name: Anat Melamed, user: melamed_anat}
   - {name: Thomas Mellan, user: mellan_thomas}
   - {name: Katerina Michalickova, user: michalickova_katerina}
@@ -1545,6 +1547,7 @@ airports:
   - {name: Fernando Perez, user: perez_f}
   - {name: Scott Carl Peterson, user: peterson_scott}
   - {name: Abbie Marin Popa, user: popa_abbie}
+  - {name: Josh Quan, user: quan_josh}
   - {name: Kelly Rowland, user: rowland_kelly}
   - {name: Thomas Sandmann, user: sandmann_thomas}
   - {name: Rochelle Terman, user: terman_rochelle}
@@ -1562,7 +1565,6 @@ airports:
   - {name: Patrick Boyle, user: boyle_patrick}
   - {name: Rob Burnap, user: burnap_rob}
   - {name: Patrick Calhoun, user: calhoun_patrick}
-  - {name: Sarah Clayton, user: clayton_sarah}
   - {name: Logan Cox, user: cox_logan}
   - {name: Sean Fortney, user: fortney_sean}
   - {name: Jamie Hadwin, user: hadwin_jamie}
@@ -1570,6 +1572,7 @@ airports:
   - {name: Peter R. Hoyt, user: hoyt_peter}
   - {name: Mark Laufersweiler, user: laufersweiler_mark}
   - {name: Braden Owsley, user: owsley_braden}
+  - {name: Sarah Pugachev, user: clayton_sarah}
   - {name: Horst Severini, user: severini_horst}
   - {name: Brent Shambaugh, user: shambaugh_brent}
   - {name: Jason Sherman, user: sherman_jason}
@@ -1924,7 +1927,6 @@ airports:
   - {name: Madicken Munk, user: munk_madicken}
   - {name: Adam Obeng, user: obeng_a}
   - {name: Simon Podhajsky, user: podhajsky_simon}
-  - {name: Josh Quan, user: quan_josh}
   - {name: Hatim Rahman, user: rahman_hatim}
   - {name: Karthik Ram, user: ram_k}
   - {name: Ramesh Sampath, user: sampath_ramesh}
@@ -2055,6 +2057,7 @@ airports:
   - {name: Christian Thomas Jacobs, user: jacobs_christian}
   - {name: Tomas Enrique Muller, user: muller_tomas}
   - {name: Ryan Pepper, user: pepper_ryan}
+  - {name: Craig Rafter, user: rafter_craig}
   latitude: 50.95
   longitude: -1.356667
   name: Southampton
@@ -3041,7 +3044,7 @@ badges:
   - {awarded: '2016-01-19', name: Casey Bergman, user: bergman_casey}
   - {awarded: '2016-01-19', name: Gerard Capes, user: capes_gerard}
   - {awarded: '2016-01-19', name: Reed Cartwright, user: cartwright_reed}
-  - {awarded: '2016-01-19', name: Sarah Clayton, user: clayton_sarah}
+  - {awarded: '2016-01-19', name: Sarah Pugachev, user: clayton_sarah}
   - {awarded: '2016-01-19', name: Anne Fouilloux, user: fouilloux_anne}
   - {awarded: '2016-01-19', name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {awarded: '2016-01-19', name: Andrew Mellor, user: mellor_andrew}
@@ -3848,6 +3851,9 @@ badges:
   - {awarded: '2018-07-17', name: Elizabeth DuPre, user: dupre_elizabeth}
   - {awarded: '2018-07-17', name: Juan F Fung, user: fung_juan}
   - {awarded: '2018-07-18', name: Harriet Peel, user: peel_harriet}
+  - {awarded: '2018-07-18', name: Rocio T. Martinez Nunez, user: martinez-nunez_rocio}
+  - {awarded: '2018-07-18', name: Joel Rodriguez-Medina, user: rodriguez-medina_joel}
+  - {awarded: '2018-07-18', name: Donna Calhoun, user: calhoun_donna}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4775,7 +4781,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180718T131622Z
+timestamp: 20180719T130024Z
 workshops:
 - &id002
   - address: ' '
@@ -8204,6 +8210,21 @@ workshops:
     - {name: DC}
     url: https://bids.github.io/2018-08-06-bids/
     venue: Berkeley Institute for Data Science
+  - address: 1st floor of UPR-RP Natural Sciences Library (formally known as Biblioteca
+      Nestor M. Rodriguez Rivera)
+    contact: catherine.hulshof@gmail.com
+    country: PR
+    end: 2018-08-16
+    eventbrite_id: ''
+    humandate: Aug 15-16, 2018
+    latitude: 18.4036196
+    longitude: -66.0456309
+    slug: 2018-08-15-puerto-rico
+    start: 2018-08-15
+    tags:
+    - {name: DC}
+    url: https://map0logo.github.io/2018-08-15-puerto-rico-ecology/
+    venue: University of Puerto Rico
   - address: WHOI Quissett Campus, 360 Woods Hole Rd, Woods Hole MA 02543
     contact: irving.damien@gmail.com
     country: US
