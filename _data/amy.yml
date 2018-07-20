@@ -1892,6 +1892,7 @@ airports:
   - {name: Adam Richie-Halford, user: richie-halford_adam}
   - {name: Ariel Rokem, user: rokem_a}
   - {name: Michael Sarahan, user: sarahan_michael}
+  - {name: Yee Mey Seah, user: seah_yee-mey}
   - {name: Allison Smith, user: smith_allison}
   - {name: Rachael Tatman, user: tatman_rachael}
   - {name: Samuel White, user: white_samuel}
@@ -2085,6 +2086,7 @@ airports:
   - {name: Mark Fernandes, user: fernandes_mark}
   - {name: Simon Fraser, user: fraser_simon}
   - {name: Laurent Gatto, user: gatto_laurent}
+  - {name: Sergio Martínez Cuesta, user: martnez-cuesta_sergio}
   - {name: Ross Mounce, user: mounce_ross}
   - {name: Krzysztof Strug, user: strug_krzysztof}
   - {name: Hugo Tavares, user: tavares_hugo}
@@ -4781,7 +4783,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180719T130024Z
+timestamp: 20180720T214716Z
 workshops:
 - &id002
   - address: ' '
@@ -8068,6 +8070,20 @@ workshops:
     - {name: DC}
     url: https://dib-lab.github.io/2018-06-27-DIBSI-Geospatial/
     venue: UC Davis - DIBSI Geospatial Workshop
+  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
+    contact: Gabriella Rustici <gr231@cam.ac.uk>
+    country: gb
+    end: 2018-06-29
+    eventbrite_id: ''
+    humandate: Jun 28-29, 2018
+    latitude: 52.201951
+    longitude: 0.122514
+    slug: 2018-06-28-cambridge
+    start: 2018-06-28
+    tags:
+    - {name: DC}
+    url: https://tavareshugo.github.io/2018-06-28-cambridge/
+    venue: University of Cambridge
   - address: 1400 W. 22nd St., Suite 100, Sioux Falls SD 57105
     contact: joseph.madison@coyotes.usd.edu, doug.jennewein@usd.edu
     country: us
