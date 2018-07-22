@@ -882,6 +882,7 @@ airports:
   - {name: Kensworth Subratie, user: subratie_kensworth}
   - {name: Miao Sun, user: sun_miao}
   - {name: Kok Ben Toh, user: toh_kok-ben}
+  - {name: Gaurav Vaidya, user: vaidya_gaurav}
   - {name: Ethan White, user: white_e}
   - {name: Hao Ye, user: ye_hao}
   latitude: 29.69
@@ -4783,7 +4784,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180720T214716Z
+timestamp: 20180722T214724Z
 workshops:
 - &id002
   - address: ' '
@@ -8168,10 +8169,9 @@ workshops:
     - {name: DC}
     url: https://uoftcoders.github.io/2018-07-12-utoronto/
     venue: University of Toronto
-- &id001
   - address: NWU Mafikeng Campus
     contact: carolfadeke@gmail.com
-    country: ZA
+    country: za
     end: 2018-07-20
     eventbrite_id: ''
     humandate: Jul 18-20, 2018
@@ -8185,7 +8185,7 @@ workshops:
     venue: North-West University - Mahikeng Campus
   - address: University of Manchester
     contact: peter.smyth@manchester.ac.uk
-    country: GB
+    country: gb
     end: 2018-07-20
     eventbrite_id: ''
     humandate: Jul 19-20, 2018
@@ -8198,6 +8198,7 @@ workshops:
     url: https://petersmyth12.github.io/2018-07-19-ss-dc-manchester/
     venue: Basement Lab, Humanities Bridgeford St. Building, Cathie Marsh Institute
       for Social Research
+- &id001
   - address: 'FFSC #4233, 124 Science Drive, Durham, NC 27708'
     contact: hilmar.lapp@duke.edu
     country: US
