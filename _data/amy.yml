@@ -264,6 +264,7 @@ airports:
   - {name: Sandra Brosda, user: brosda_sandra}
   - {name: Liz Cooper-Williams, user: cooper-williams_liz}
   - {name: Thom Cuddihy, user: cuddihy_thom}
+  - {name: Marieke Frassl, user: frassl_marieke}
   - {name: Francis Gacenga, user: gacenga_francis}
   - {name: Stéphane Guillou, user: guillou_stphane}
   - {name: Sam Hames, user: hames_sam}
@@ -3857,6 +3858,13 @@ badges:
   - {awarded: '2018-07-18', name: Rocio T. Martinez Nunez, user: martinez-nunez_rocio}
   - {awarded: '2018-07-18', name: Joel Rodriguez-Medina, user: rodriguez-medina_joel}
   - {awarded: '2018-07-18', name: Donna Calhoun, user: calhoun_donna}
+  - {awarded: '2018-07-23', name: Bin Chen, user: chen_bin_2}
+  - {awarded: '2018-07-23', name: Stacey Hancock, user: hancock_stacey}
+  - {awarded: '2018-07-23', name: Tatum Hawkins, user: hawkins_tatum}
+  - {awarded: '2018-07-23', name: Anthony Shaw, user: shaw_anthony}
+  - {awarded: '2018-07-23', name: Lejo Flores, user: flores_lejo}
+  - {awarded: '2018-07-23', name: Brian Jackson, user: jackson_brian}
+  - {awarded: '2018-07-23', name: Jane Park, user: park_jane}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4630,6 +4638,10 @@ badges:
   - {awarded: '2018-07-17', name: Chun Ly, user: ly_chun}
   - {awarded: '2018-07-17', name: Jerome Keaton Wilson, user: wilson_jerome-keaton}
   - {awarded: '2018-07-18', name: Abigail Sparling, user: sparling_abigail}
+  - {awarded: '2018-07-23', name: Jake Kaupp, user: kaupp_jake}
+  - {awarded: '2018-07-23', name: Alessandra Vigilante, user: vigilante_alessandra}
+  - {awarded: '2018-07-24', name: Nicolia Eldred-Skemp, user: eldred-skemp_nicolia}
+  - {awarded: '2018-07-24', name: Ki Cole, user: cole_ki}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4784,7 +4796,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180722T214724Z
+timestamp: 20180724T214726Z
 workshops:
 - &id002
   - address: ' '
