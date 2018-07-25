@@ -17,6 +17,7 @@ We currently have curriculum in:
 - [Ecology](http://www.datacarpentry.org/lessons/#ecology-workshop)
 - [Genomics](http://www.datacarpentry.org/lessons/#genomics-workshop)
 - [Geospatial data](http://www.datacarpentry.org/lessons/#geospatial-data-workshop)
+- [Social sciences](https://datacarpentry.org/lessons/#social-science-curriculum)
 
 **Data Carpentry workshops must include:**
 
