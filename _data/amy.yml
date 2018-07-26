@@ -261,6 +261,7 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
   - {name: Ido Bar, user: bar_ido}
+  - {name: Edward Barry, user: barry_edward}
   - {name: Sandra Brosda, user: brosda_sandra}
   - {name: Liz Cooper-Williams, user: cooper-williams_liz}
   - {name: Thom Cuddihy, user: cuddihy_thom}
@@ -278,6 +279,7 @@ airports:
   - {name: Kylie Poulton, user: poulton_kylie}
   - {name: Leah Roberts, user: roberts_leah}
   - {name: Clinton Roy, user: roy_clinton}
+  - {name: Letitia Sabburg, user: sabburg_letitia}
   - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
   - {name: Joshua Thia, user: thia_joshua}
   - {name: Richard Vankoningsveld, user: vankoningsveld_richard}
@@ -2127,6 +2129,7 @@ airports:
   - {name: Claire Hardgrove, user: hardgrove_claire}
   - {name: Rene Heim, user: heim_rene}
   - {name: Fabian Held, user: held_fabian}
+  - {name: Peter Humburg, user: humburg_peter}
   - {name: Martin Héroux, user: heroux_martin}
   - {name: Petra Janouchova, user: janouchova_petra}
   - {name: Fiona Jones, user: jones_fiona}
@@ -3866,6 +3869,7 @@ badges:
   - {awarded: '2018-07-23', name: Lejo Flores, user: flores_lejo}
   - {awarded: '2018-07-23', name: Brian Jackson, user: jackson_brian}
   - {awarded: '2018-07-23', name: Jane Park, user: park_jane}
+  - {awarded: '2018-07-25', name: Peter Humburg, user: humburg_peter}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4797,7 +4801,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180725T141457Z
+timestamp: 20180726T214808Z
 workshops:
 - &id002
   - address: ' '
