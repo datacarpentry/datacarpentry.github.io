@@ -1117,6 +1117,7 @@ airports:
   - {name: Gail Clement, user: gail_clement}
   - {name: Stephen Davison, user: davison_stephen}
   - {name: Tim Dennis, user: dennis_tim}
+  - {name: Mike Lee, user: lee_mike}
   - {name: Ethan Nelson, user: nelson_ethan}
   - {name: Katja Seltmann, user: seltmann_katja}
   - {name: Mark Wilber, user: wilber_mark}
@@ -1632,6 +1633,7 @@ airports:
   instructors:
   - {name: Carrie Andrew, user: andrew_carrie}
   - {name: Marius Bjørnstad, user: bjornstad_marius}
+  - {name: Ana Costa Conrado, user: costa-conrado_ana}
   - {name: Hugues Fontenelle, user: fontenelle_hugues}
   - {name: Anne Fouilloux, user: fouilloux_anne}
   - {name: Michael Heeremans, user: heeremans_m}
@@ -1939,6 +1941,7 @@ airports:
   - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
   - {name: Ben Stenhaug, user: stenhaug_ben}
   - {name: Nina Therkildsen, user: therkildsen_nina}
+  - {name: Sabah Ul-Hasan, user: ul-hasan_sabah}
   - {name: Daniela M Ushizima, user: ushizima_daniela}
   - {name: Qingpeng Zhang, user: zhang_qp}
   - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
@@ -4801,7 +4804,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180726T214808Z
+timestamp: 20180727T214846Z
 workshops:
 - &id002
   - address: ' '
