@@ -1024,6 +1024,7 @@ airports:
 - country: sa
   instructors:
   - {name: David Ketcheson, user: ketcheson_david}
+  - {name: David Robert Pugh, user: pugh_david}
   latitude: 21.665527
   longitude: 39.158732
   name: King Abdulaziz International Airport
@@ -1803,12 +1804,6 @@ airports:
   latitude: 51.955509
   longitude: 4.439883
   name: Rotterdam Airport
-- country: sa
-  instructors:
-  - {name: David Pugh, user: pugh_david}
-  latitude: 24.9575996
-  longitude: 46.6987991
-  name: King Khaled International
 - country: us
   instructors:
   - {name: Louis Vernon, user: vernon_louis}
@@ -3499,7 +3494,7 @@ badges:
   - {awarded: '2017-07-14', name: Meghan Sinclair-Black, user: sinclair-black_meghan}
   - {awarded: '2017-07-14', name: Rene Heim, user: heim_rene}
   - {awarded: '2017-07-19', name: Yee Mey Seah, user: seah_yee-mey}
-  - {awarded: '2017-07-19', name: David Pugh, user: pugh_david}
+  - {awarded: '2017-07-19', name: David Robert Pugh, user: pugh_david}
   - {awarded: '2017-07-19', name: Saymore Chifamba, user: chifamba_saymore}
   - {awarded: '2017-07-19', name: Paul Rulis, user: rulis_paul}
   - {awarded: '2017-07-19', name: Erin Alison Becker, user: becker_erin}
@@ -4806,7 +4801,7 @@ flags:
     pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180728T214939Z
+timestamp: 20180729T215015Z
 workshops:
 - &id002
   - address: ' '
