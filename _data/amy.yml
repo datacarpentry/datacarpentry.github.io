@@ -78,7 +78,6 @@ airports:
   - {name: Like Fokkens, user: fokkens_like}
   - {name: Johan Hidding, user: hidding_johan}
   - {name: Mateusz Kuzak, user: kuzak_mateusz}
-  - {name: Joona Lehtomäki, user: lehtomaki_joona}
   - {name: Philip Lijnzaad, user: lijnzaad_philip}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
   - {name: Anita Schürch, user: schurch_anita}
@@ -853,6 +852,7 @@ airports:
 - country: us
   instructors:
   - {name: Jennifer Hinds, user: hinds_jennifer}
+  - {name: Nicholas Potter, user: potter_nicholas}
   - {name: Evan Peter Williamson, user: williamson_evan}
   latitude: 47.619722
   longitude: -117.533611
@@ -939,6 +939,12 @@ airports:
   latitude: 46.236757
   longitude: 6.109113
   name: Genève Aéroport
+- country: de
+  instructors:
+  - {name: Katrin Leinweber, user: leinweber_katrin}
+  latitude: 53.630278
+  longitude: 9.988056
+  name: Hamburg
 - country: au
   instructors:
   - {name: Damien Irving, user: irving_d}
@@ -946,6 +952,12 @@ airports:
   latitude: -42.834715
   longitude: 147.499117
   name: Hobart International Airport
+- country: fi
+  instructors:
+  - {name: Joona Lehtomäki, user: lehtomaki_joona}
+  latitude: 60.320659
+  longitude: 24.943162
+  name: Helsinki Airport
 - country: hk
   instructors:
   - {name: Peter Li, user: li_peter}
@@ -3870,6 +3882,8 @@ badges:
   - {awarded: '2018-07-25', name: Peter Humburg, user: humburg_peter}
   - {awarded: '2018-07-27', name: Laura Acion, user: acion_laura}
   - {awarded: '2018-07-27', name: Clara Suong, user: suong_clara}
+  - {awarded: '2018-07-31', name: Mark Piercy, user: piercy_mark}
+  - {awarded: '2018-07-31', name: Mladen Rakovic Rakovic, user: rakovic_mladen-rakovic}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4647,6 +4661,12 @@ badges:
   - {awarded: '2018-07-23', name: Alessandra Vigilante, user: vigilante_alessandra}
   - {awarded: '2018-07-24', name: Nicolia Eldred-Skemp, user: eldred-skemp_nicolia}
   - {awarded: '2018-07-24', name: Ki Cole, user: cole_ki}
+  - {awarded: '2018-07-31', name: Nicholas Potter, user: potter_nicholas}
+  - {awarded: '2018-07-31', name: Sam Langton, user: langton_sam}
+  - {awarded: '2018-07-31', name: Tyler Martin, user: martin_tyler}
+  - {awarded: '2018-07-31', name: JIANJUN HUA, user: hua_jianjun}
+  - {awarded: '2018-07-31', name: Marie-Helene Burle, user: burle_marie-helene}
+  - {awarded: '2018-07-31', name: Cecilia Noecker, user: noecker_cecilia}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4792,16 +4812,34 @@ badges:
   - {awarded: '2018-03-12', name: Anne C Axel, user: axel_anne}
   - {awarded: '2018-03-12', name: Juliane Schneider, user: schneider_juliane}
 - name: mentor
-  persons: []
+  persons:
+  - {awarded: '2018-02-06', name: Tim Dennis, user: dennis_tim}
+  - {awarded: '2018-02-06', name: Mesfin Diro Chaka, user: diro-chaka_mesfin}
+  - {awarded: '2018-02-06', name: Jamie Hadwin, user: hadwin_jamie}
+  - {awarded: '2018-02-06', name: Toby Hodges, user: hodges_toby}
+  - {awarded: '2018-02-06', name: Daisie Huang, user: huang_daisie}
+  - {awarded: '2018-02-06', name: Alexander Konovalov, user: konovalov_alexander}
+  - {awarded: '2018-02-06', name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {awarded: '2018-02-06', name: Katrin Leinweber, user: leinweber_katrin}
+  - {awarded: '2018-02-06', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2018-02-06', name: Reid Otsuji, user: otsuji_reid}
+  - {awarded: '2018-02-06', name: Malvika Sharan, user: sharan_malvika}
+  - {awarded: '2018-02-06', name: Sourav Singh, user: singh_sourav}
+  - {awarded: '2018-02-06', name: Juan Steyn, user: steyn_juan}
+  - {awarded: '2018-02-06', name: Belinda Weaver, user: weaver_belinda}
+  - {awarded: '2018-02-06', name: Daniel Wheeler, user: wheeler_daniel}
+  - {awarded: '2018-02-06', name: David Avrohm Yakobovitch, user: yakobovitch_david}
+  - {awarded: '2018-02-06', name: Jeremy Daniel Zucker, user: zucker_jeremy}
+  - {awarded: '2018-02-06', name: Jonah Duckles, user: duckles_jonah}
 - name: mentee
   persons: []
 flags:
-  airports: [ae, au, be, bj, br, ca, ch, cl, cn, co, cr, cz, de, dk, ee, es, et, fr,
-    gb, gr, hk, id, ie, il, in, it, jp, lt, lu, mu, mx, na, nl, 'no', nz, pk, pl,
-    pt, rs, sa, se, sg, si, th, tw, us, ve, za]
+  airports: [ae, au, be, bj, br, ca, ch, cl, cn, co, cr, cz, de, dk, ee, es, et, fi,
+    fr, gb, gr, hk, id, ie, il, in, it, jp, lt, lu, mu, mx, na, nl, 'no', nz, pk,
+    pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180730T215054Z
+timestamp: 20180731T215148Z
 workshops:
 - &id002
   - address: ' '
