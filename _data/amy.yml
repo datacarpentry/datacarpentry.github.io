@@ -365,6 +365,7 @@ airports:
   instructors:
   - {name: Frederik Coppens, user: coppens_frederik}
   - {name: Christof De Bo, user: debo_christof}
+  - {name: Laurent Gatto, user: gatto_laurent}
   - {name: Paula Andrea Martinez Villegas, user: martinez_paula}
   - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Stijn Van Hoey, user: van-hoey_stijn}
@@ -552,6 +553,7 @@ airports:
   - {name: Kayleigh Lino, user: lino_kayleigh}
   - {name: Jordan Masakuna, user: masakuna_jordan}
   - {name: David Matten, user: matten_david}
+  - {name: Erika Mias, user: mias_erika}
   - {name: Glenn Moncrieff, user: moncrieff_glenn}
   - {name: Elizabeth Naluminsa, user: naluminsa_elizabeth}
   - {name: Raissa Philibert, user: philibert_raissa}
@@ -827,6 +829,12 @@ airports:
   latitude: 35.13778
   longitude: -111.67167
   name: Flagstaff, AZ
+- country: us
+  instructors:
+  - {name: Simona Picardi, user: picardi_simona}
+  latitude: 26.0725994
+  longitude: -80.1527023
+  name: Fort Lauderdale Hollywood International Airport
 - country: br
   instructors:
   - {name: Filipe Fernandes, user: fernandes_filipe}
@@ -885,6 +893,7 @@ airports:
   - {name: Brian Stucky, user: stucky_brian}
   - {name: Kensworth Subratie, user: subratie_kensworth}
   - {name: Miao Sun, user: sun_miao}
+  - {name: Shawn D Taylor, user: taylor_shawn}
   - {name: Kok Ben Toh, user: toh_kok-ben}
   - {name: Gaurav Vaidya, user: vaidya_gaurav}
   - {name: Ethan White, user: white_e}
@@ -1358,7 +1367,6 @@ airports:
   - {name: Kari L Jordan, user: kariljordan}
   - {name: Kathy Joshi, user: joshi_kathy}
   - {name: Sergio Marconi, user: marconi_sergio}
-  - {name: Shawn Taylor, user: taylor_shawn}
   latitude: 28.428889
   longitude: -81.315833
   name: Orlando, FL
@@ -1757,6 +1765,7 @@ airports:
   name: Polokwane International Airport
 - country: us
   instructors:
+  - {name: Sarah M Brown, user: brown_sarah_2}
   - {name: Jeff Hollister, user: hollister_jeff}
   - {name: Rachel Schwartz, user: schwartz_rachel}
   latitude: 41.723889
@@ -1824,7 +1833,6 @@ airports:
   name: Santa Fe Municipal Airport
 - country: us
   instructors:
-  - {name: Sarah Brown, user: brown_sarah_2}
   - {name: Guilherme Castelão, user: castelao_guilherme}
   - {name: Stephanie Labou, user: labou_stephanie}
   - {name: Chris Lasher, user: lasher_c}
@@ -1938,6 +1946,7 @@ airports:
   - {name: . Lonnen, user: lonnen_chris}
   - {name: Mark A. Matienzo, user: matienzo_mark}
   - {name: Jessica McKellar, user: mckellar_j}
+  - {name: Dana Miller, user: miller_dana}
   - {name: Ben Morris, user: morris_b}
   - {name: Madicken Munk, user: munk_madicken}
   - {name: Adam Obeng, user: obeng_a}
@@ -2100,7 +2109,6 @@ airports:
   - {name: John Constable, user: constable_john}
   - {name: Mark Fernandes, user: fernandes_mark}
   - {name: Simon Fraser, user: fraser_simon}
-  - {name: Laurent Gatto, user: gatto_laurent}
   - {name: Sergio Martínez Cuesta, user: martnez-cuesta_sergio}
   - {name: Ross Mounce, user: mounce_ross}
   - {name: Krzysztof Strug, user: strug_krzysztof}
@@ -4186,7 +4194,7 @@ badges:
   - {awarded: '2016-06-29', name: Alix Keener, user: keener_alix}
   - {awarded: '2016-06-30', name: Elizabeth Permina, user: permina_elizabeth}
   - {awarded: '2016-07-08', name: Rudiger Brauning, user: brauning_rudiger}
-  - {awarded: '2016-07-19', name: Shawn Taylor, user: taylor_shawn}
+  - {awarded: '2016-07-19', name: Shawn D Taylor, user: taylor_shawn}
   - {awarded: '2016-07-25', name: Bianca Peterson, user: peterson_bianca}
   - {awarded: '2016-07-25', name: Yaé Ulrich Gaba Gaba, user: gaba_ya-ulrich}
   - {awarded: '2016-07-25', name: Ivo Agbor Arrey, user: arrey_ivo-agbor}
@@ -4511,7 +4519,7 @@ badges:
   - {awarded: '2017-10-20', name: Arindam Basu, user: basu_arindam}
   - {awarded: '2017-10-31', name: Mark A. Matienzo, user: matienzo_mark}
   - {awarded: '2017-10-31', name: Matthias Grenié, user: greni_matthias}
-  - {awarded: '2017-10-31', name: Sarah Brown, user: brown_sarah_2}
+  - {awarded: '2017-10-31', name: Sarah M Brown, user: brown_sarah_2}
   - {awarded: '2017-11-02', name: Giulio Valentino Dalla Riva, user: dalla-riva_giulio-valentino}
   - {awarded: '2017-11-13', name: Tony Primerano, user: primerano_tony}
   - {awarded: '2017-11-13', name: Evamaria Krause, user: krause_evamaria}
@@ -4839,7 +4847,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180731T215148Z
+timestamp: 20180801T215439Z
 workshops:
 - &id002
   - address: ' '
@@ -8325,6 +8333,20 @@ workshops:
     - {name: DC}
     url: https://idi-bd2k.github.io/2018-08-17-puertorico-genomics/
     venue: University of Puerto Rico
+  - address: Colorado State University Morgan Library
+    contact: eli.moore@ars.usda.gov
+    country: US
+    end: 2018-08-24
+    eventbrite_id: ''
+    humandate: Aug 22-24, 2018
+    latitude: 40.572955
+    longitude: -105.084415
+    slug: 2018-08-22-USDA
+    start: 2018-08-22
+    tags:
+    - {name: DC}
+    url: https://btmoyers.github.io/2018-08-22-USDA/
+    venue: USDA Long Term Agoecosystem Research Network
   - address: Room T.007, T-Building (Enter the V-building near the main entrance,
       go straight ahead past the seal statue, it's behind the staircase), Antonie
       van Leeuwenhoeklaan 9, 3721 MA Bilthoven
