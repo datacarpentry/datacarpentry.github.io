@@ -366,7 +366,7 @@ airports:
   - {name: Frederik Coppens, user: coppens_frederik}
   - {name: Christof De Bo, user: debo_christof}
   - {name: Laurent Gatto, user: gatto_laurent}
-  - {name: Paula Andrea Martinez Villegas, user: martinez_paula}
+  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Stijn Van Hoey, user: van-hoey_stijn}
   latitude: 50.902447
@@ -1483,6 +1483,7 @@ airports:
 - country: us
   instructors:
   - {name: Alex Bajcz, user: bajcz_alex}
+  - {name: Fred Boehm, user: boehm_fred}
   - {name: Karl Broman, user: broman_karl}
   - {name: Lindsay Carr, user: carr_lindsay}
   - {name: Michelle Craft, user: craft_michelle}
@@ -1916,6 +1917,7 @@ airports:
   - {name: Michael Sarahan, user: sarahan_michael}
   - {name: Yee Mey Seah, user: seah_yee-mey}
   - {name: Allison Smith, user: smith_allison}
+  - {name: Callin Switzer, user: switzer_callin}
   - {name: Rachael Tatman, user: tatman_rachael}
   - {name: Samuel White, user: white_samuel}
   - {name: Kara Woo, user: woo_kara}
@@ -2455,6 +2457,7 @@ airports:
   - {name: Megan Meredith-Lobay, user: meredith-lobay_megan}
   - {name: Bill Mills, user: mills_b}
   - {name: Ian Mitchell, user: mitchell_i}
+  - {name: Mladen Rakovic, user: rakovic_mladen-rakovic}
   - {name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
   - {name: Alex Razoumov, user: razoumov_alex}
   - {name: Jamie Rosner, user: rosner_jamie}
@@ -2902,7 +2905,7 @@ badges:
   - {awarded: '2015-02-28', name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
   - {awarded: '2015-02-28', name: Scott Kolbe, user: kolbe_scott}
   - {awarded: '2015-02-28', name: Andrew Lonsdale, user: lonsdale_andrew}
-  - {awarded: '2015-02-28', name: Paula Andrea Martinez Villegas, user: martinez_paula}
+  - {awarded: '2015-02-28', name: Paula Andrea Martinez, user: martinez_paula}
   - {awarded: '2015-02-28', name: Tom Remenyi, user: remenyi_tom}
   - {awarded: '2015-02-28', name: Jack Simpson, user: simpson_jack}
   - {awarded: '2015-02-28', name: Michael Sumner, user: sumner_mike}
@@ -3891,7 +3894,11 @@ badges:
   - {awarded: '2018-07-27', name: Laura Acion, user: acion_laura}
   - {awarded: '2018-07-27', name: Clara Suong, user: suong_clara}
   - {awarded: '2018-07-31', name: Mark Piercy, user: piercy_mark}
-  - {awarded: '2018-07-31', name: Mladen Rakovic Rakovic, user: rakovic_mladen-rakovic}
+  - {awarded: '2018-07-31', name: Mladen Rakovic, user: rakovic_mladen-rakovic}
+  - {awarded: '2018-08-03', name: Sarah Murphy, user: murphy_sarah}
+  - {awarded: '2018-08-03', name: David Hoese, user: hoese_david}
+  - {awarded: '2018-08-03', name: Tyler Reddy, user: reddy_tyler}
+  - {awarded: '2018-08-03', name: jonathan eisenhamer, user: eisenhamer_jonathan}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4042,7 +4049,7 @@ badges:
   - {awarded: '2016-01-27', name: Neem Serra, user: serra_neem}
   - {awarded: '2016-01-27', name: Nichole Bennett, user: bennett_n}
   - {awarded: '2016-01-27', name: Filipe Fernandes, user: fernandes_filipe}
-  - {awarded: '2016-01-27', name: Paula Andrea Martinez Villegas, user: martinez_paula}
+  - {awarded: '2016-01-27', name: Paula Andrea Martinez, user: martinez_paula}
   - {awarded: '2016-01-27', name: Pat Schloss, user: schloss_pat}
   - {awarded: '2016-01-27', name: Raniere Silva, user: silva_raniere}
   - {awarded: '2016-01-27', name: Ross Mounce, user: mounce_ross}
@@ -4675,6 +4682,10 @@ badges:
   - {awarded: '2018-07-31', name: JIANJUN HUA, user: hua_jianjun}
   - {awarded: '2018-07-31', name: Marie-Helene Burle, user: burle_marie-helene}
   - {awarded: '2018-07-31', name: Cecilia Noecker, user: noecker_cecilia}
+  - {awarded: '2018-08-03', name: Emily Gade, user: gade_emily}
+  - {awarded: '2018-08-03', name: Patrick Lestrange, user: lestrange_patrick}
+  - {awarded: '2018-08-03', name: Callin Switzer, user: switzer_callin}
+  - {awarded: '2018-08-03', name: Wei Yin, user: yin_wei}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4698,7 +4709,7 @@ badges:
   - {awarded: '2016-03-03', name: Christie Bahlai, user: bahlai_christie}
   - {awarded: '2016-03-03', name: Deborah Paul, user: paul_deborah}
   - {awarded: '2016-03-03', name: Cam Macdonell, user: macdonell_cam}
-  - {awarded: '2016-03-03', name: Paula Andrea Martinez Villegas, user: martinez_paula}
+  - {awarded: '2016-03-03', name: Paula Andrea Martinez, user: martinez_paula}
   - {awarded: '2016-03-03', name: Timothée Poisot, user: poisot_t}
   - {awarded: '2016-03-03', name: François Michonneau, user: michonneau_francois}
   - {awarded: '2016-03-03', name: Auriel Fournier, user: fournier_auriel}
@@ -4798,7 +4809,7 @@ badges:
   - {awarded: '2017-08-28', name: John Simpson, user: simpson_john}
   - {awarded: '2017-08-28', name: Elizabeth Wickes, user: wickes_elizabeth}
   - {awarded: '2017-08-28', name: François Michonneau, user: michonneau_francois}
-  - {awarded: '2017-08-28', name: Paula Andrea Martinez Villegas, user: martinez_paula}
+  - {awarded: '2017-08-28', name: Paula Andrea Martinez, user: martinez_paula}
   - {awarded: '2017-08-28', name: Danielle Quinn, user: quinn_danielle}
   - {awarded: '2017-08-28', name: Fotis Psomopoulos, user: psomopoulos_fotis}
   - {awarded: '2017-08-28', name: Rob Davey, user: davey_rob}
@@ -4847,7 +4858,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180802T215331Z
+timestamp: 20180803T215329Z
 workshops:
 - &id002
   - address: ' '
@@ -8363,6 +8374,20 @@ workshops:
     - {name: DC}
     url: https://rivm-bioinformatics.github.io/2018-09-10-RIVM/
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+  - address: 196 Whitten Road, Augusta, ME
+    contact: susan.mcclatchy@jax.orgBataille.Valerie@epa.gov
+    country: US
+    end: 2018-09-13
+    eventbrite_id: '48706597745'
+    humandate: Sep 12-13, 2018
+    latitude: 44.304457
+    longitude: -69.809235
+    slug: 2018-09-12-new_england_tribes_USGS
+    start: 2018-09-12
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2018-09-12-new_england_tribes_USGS/
+    venue: USGS New England Water Science Center
   - address: Norwich Research Park, Norwich, NR4 7UZ
     contact: training@earlham.ac.uk
     country: GB
