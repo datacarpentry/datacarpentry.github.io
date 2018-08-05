@@ -1961,6 +1961,7 @@ airports:
   - {name: Nina Therkildsen, user: therkildsen_nina}
   - {name: Sabah Ul-Hasan, user: ul-hasan_sabah}
   - {name: Daniela M Ushizima, user: ushizima_daniela}
+  - {name: Jamie Whitacre, user: whitacre_jamie}
   - {name: Qingpeng Zhang, user: zhang_qp}
   - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {name: Javier de la Rosa, user: de-la-rosa_javier}
@@ -4858,7 +4859,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180803T215329Z
+timestamp: 20180805T215441Z
 workshops:
 - &id002
   - address: ' '
