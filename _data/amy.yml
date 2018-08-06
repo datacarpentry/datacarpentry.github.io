@@ -2165,6 +2165,7 @@ airports:
   - {name: Beth Signal, user: signal_beth}
   - {name: Adela Sobotkova, user: sobotkova_adela}
   - {name: Jake Surman, user: surman_jake}
+  - {name: Ingrid Tarr, user: tarr_ingrid}
   - {name: Gustavo Thomas, user: thomas_gustavo}
   - {name: Paddy Tobias, user: tobias_paddy}
   - {name: James Tocknell, user: tocknell_james}
@@ -3900,6 +3901,9 @@ badges:
   - {awarded: '2018-08-03', name: David Hoese, user: hoese_david}
   - {awarded: '2018-08-03', name: Tyler Reddy, user: reddy_tyler}
   - {awarded: '2018-08-03', name: jonathan eisenhamer, user: eisenhamer_jonathan}
+  - {awarded: '2018-08-06', name: Rebecca Hartman-Baker, user: hartman-baker_rebecca}
+  - {awarded: '2018-08-06', name: Kayla McNabb, user: mcnabb_kayla}
+  - {awarded: '2018-08-06', name: Brenda Moon, user: moon_brenda}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4687,6 +4691,7 @@ badges:
   - {awarded: '2018-08-03', name: Patrick Lestrange, user: lestrange_patrick}
   - {awarded: '2018-08-03', name: Callin Switzer, user: switzer_callin}
   - {awarded: '2018-08-03', name: Wei Yin, user: yin_wei}
+  - {awarded: '2018-08-06', name: Ingrid Tarr, user: tarr_ingrid}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4859,7 +4864,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180805T215441Z
+timestamp: 20180806T215555Z
 workshops:
 - &id002
   - address: ' '
@@ -8389,6 +8394,20 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2018-09-12-new_england_tribes_USGS/
     venue: USGS New England Water Science Center
+  - address: 1346 North Bishop Ave, Rolla, MO
+    contact: aaron.bergstrom@email.und.edu
+    country: US
+    end: 2018-09-18
+    eventbrite_id: ''
+    humandate: Sep 17-18, 2018
+    latitude: 37.954755
+    longitude: -91.776476
+    slug: 2018-09-17-und-mbdh
+    start: 2018-09-17
+    tags:
+    - {name: DC}
+    url: https://yeemey.github.io/2018-09-15-und-mbdh/
+    venue: Missouri S&T Havener Center
   - address: Norwich Research Park, Norwich, NR4 7UZ
     contact: training@earlham.ac.uk
     country: GB
