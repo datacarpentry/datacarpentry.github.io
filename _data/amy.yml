@@ -3904,6 +3904,7 @@ badges:
   - {awarded: '2018-08-06', name: Rebecca Hartman-Baker, user: hartman-baker_rebecca}
   - {awarded: '2018-08-06', name: Kayla McNabb, user: mcnabb_kayla}
   - {awarded: '2018-08-06', name: Brenda Moon, user: moon_brenda}
+  - {awarded: '2018-08-07', name: Walter Griffatong, user: griffatong_walter}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4864,7 +4865,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180806T215555Z
+timestamp: 20180807T215644Z
 workshops:
 - &id002
   - address: ' '
