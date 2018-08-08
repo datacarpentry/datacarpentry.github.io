@@ -3905,6 +3905,10 @@ badges:
   - {awarded: '2018-08-06', name: Kayla McNabb, user: mcnabb_kayla}
   - {awarded: '2018-08-06', name: Brenda Moon, user: moon_brenda}
   - {awarded: '2018-08-07', name: Walter Griffatong, user: griffatong_walter}
+  - {awarded: '2018-08-08', name: Dan Dietz, user: dietz_dan}
+  - {awarded: '2018-08-08', name: Lev Gorenstein, user: gorenstein_lev}
+  - {awarded: '2018-08-08', name: Owen Kaluza, user: kaluza_owen}
+  - {awarded: '2018-08-08', name: Vikas Pejaver, user: pejaver_vikas}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4693,6 +4697,7 @@ badges:
   - {awarded: '2018-08-03', name: Callin Switzer, user: switzer_callin}
   - {awarded: '2018-08-03', name: Wei Yin, user: yin_wei}
   - {awarded: '2018-08-06', name: Ingrid Tarr, user: tarr_ingrid}
+  - {awarded: '2018-08-08', name: Ray Bell, user: bell_ray}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4865,7 +4870,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180807T215644Z
+timestamp: 20180808T215623Z
 workshops:
 - &id002
   - address: ' '
@@ -8293,10 +8298,9 @@ workshops:
     - {name: DC}
     url: https://duke-gcb.github.io/2018-07-26-Duke/
     venue: Duke University
-- &id001
   - address: 190 Doe Library, University of California, Berkeley
     contact: diyadas@berkeley.edu
-    country: US
+    country: us
     end: 2018-08-07
     eventbrite_id: ''
     humandate: Aug 06-07, 2018
@@ -8308,6 +8312,7 @@ workshops:
     - {name: DC}
     url: https://bids.github.io/2018-08-06-bids/
     venue: Berkeley Institute for Data Science
+- &id001
   - address: 1st floor of UPR-RP Natural Sciences Library (formally known as Biblioteca
       Nestor M. Rodriguez Rivera)
     contact: catherine.hulshof@gmail.com
