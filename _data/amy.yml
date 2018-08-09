@@ -1031,6 +1031,7 @@ airports:
 - country: us
   instructors:
   - {name: Heather Coates, user: coates_heather}
+  - {name: Lev Gorenstein, user: gorenstein_lev}
   - {name: Michael Hansen, user: hansen_m}
   - {name: Jeffrey Shelton, user: shelton_j}
   latitude: 39.717222
@@ -4870,7 +4871,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180808T215623Z
+timestamp: 20180809T215656Z
 workshops:
 - &id002
   - address: ' '
