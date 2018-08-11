@@ -3910,6 +3910,10 @@ badges:
   - {awarded: '2018-08-08', name: Lev Gorenstein, user: gorenstein_lev}
   - {awarded: '2018-08-08', name: Owen Kaluza, user: kaluza_owen}
   - {awarded: '2018-08-08', name: Vikas Pejaver, user: pejaver_vikas}
+  - {awarded: '2018-08-10', name: John Villa, user: villa_john}
+  - {awarded: '2018-08-10', name: David Bapst, user: bapst_david}
+  - {awarded: '2018-08-10', name: David Nicholson, user: nicholson_david}
+  - {awarded: '2018-08-10', name: Jaime Schatz, user: schatz_jaime}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4699,6 +4703,8 @@ badges:
   - {awarded: '2018-08-03', name: Wei Yin, user: yin_wei}
   - {awarded: '2018-08-06', name: Ingrid Tarr, user: tarr_ingrid}
   - {awarded: '2018-08-08', name: Ray Bell, user: bell_ray}
+  - {awarded: '2018-08-10', name: Edgar Franco Vivanco, user: franco-vivanco_edgar}
+  - {awarded: '2018-08-10', name: Kathy Yeater, user: yeater_kathy}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4871,7 +4877,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180809T215656Z
+timestamp: 20180811T215732Z
 workshops:
 - &id002
   - address: ' '
