@@ -3914,6 +3914,9 @@ badges:
   - {awarded: '2018-08-10', name: David Bapst, user: bapst_david}
   - {awarded: '2018-08-10', name: David Nicholson, user: nicholson_david}
   - {awarded: '2018-08-10', name: Jaime Schatz, user: schatz_jaime}
+  - {awarded: '2018-08-14', name: Dennis Irorere, user: irorere_dennis}
+  - {awarded: '2018-08-14', name: Andrew Perry, user: perry_andree}
+  - {awarded: '2018-08-14', name: Boahemaa Adu-Oppong, user: adu-oppong_boahemaa}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4877,7 +4880,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180812T215820Z
+timestamp: 20180814T215943Z
 workshops:
 - &id002
   - address: ' '
@@ -8320,6 +8323,21 @@ workshops:
     url: https://bids.github.io/2018-08-06-bids/
     venue: Berkeley Institute for Data Science
 - &id001
+  - address: Colorado State University, Scott Bioengineering Building, 700 Meridian
+      Ave.
+    contact: williams@cshl.edu
+    country: US
+    end: 2018-08-14
+    eventbrite_id: ''
+    humandate: Aug 13-14, 2018
+    latitude: 40.573436
+    longitude: -105.0865473
+    slug: 2018-08-13-csu
+    start: 2018-08-13
+    tags:
+    - {name: DC}
+    url: https://jasonjwilliamsny.github.io/2018-08-13-csu/
+    venue: Genomics Data Carpentry
   - address: 1st floor of UPR-RP Natural Sciences Library (formally known as Biblioteca
       Nestor M. Rodriguez Rivera)
     contact: catherine.hulshof@gmail.com
