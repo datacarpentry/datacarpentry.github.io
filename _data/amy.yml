@@ -4880,7 +4880,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180814T215943Z
+timestamp: 20180815T220024Z
 workshops:
 - &id002
   - address: ' '
@@ -8322,11 +8322,10 @@ workshops:
     - {name: DC}
     url: https://bids.github.io/2018-08-06-bids/
     venue: Berkeley Institute for Data Science
-- &id001
   - address: Colorado State University, Scott Bioengineering Building, 700 Meridian
       Ave.
     contact: williams@cshl.edu
-    country: US
+    country: us
     end: 2018-08-14
     eventbrite_id: ''
     humandate: Aug 13-14, 2018
@@ -8338,6 +8337,7 @@ workshops:
     - {name: DC}
     url: https://jasonjwilliamsny.github.io/2018-08-13-csu/
     venue: Genomics Data Carpentry
+- &id001
   - address: 1st floor of UPR-RP Natural Sciences Library (formally known as Biblioteca
       Nestor M. Rodriguez Rivera)
     contact: catherine.hulshof@gmail.com
@@ -8395,6 +8395,20 @@ workshops:
     - {name: DC}
     url: https://btmoyers.github.io/2018-08-22-USDA/
     venue: USDA Long Term Agoecosystem Research Network
+  - address: Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715
+    contact: contactaci@lists.wisc.edu
+    country: US
+    end: 2018-08-28
+    eventbrite_id: '47924816416'
+    humandate: Aug 27-28, 2018
+    latitude: 43.0729163
+    longitude: -89.410268
+    slug: 2018-08-27-uwmadison-dc
+    start: 2018-08-27
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
+    venue: Data Carpentry @ UW Madison
   - address: Room T.007, T-Building (Enter the V-building near the main entrance,
       go straight ahead past the seal statue, it's behind the staircase), Antonie
       van Leeuwenhoeklaan 9, 3721 MA Bilthoven
