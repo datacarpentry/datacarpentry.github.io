@@ -1601,6 +1601,7 @@ airports:
   - {name: Peter R. Hoyt, user: hoyt_peter}
   - {name: Mark Laufersweiler, user: laufersweiler_mark}
   - {name: Braden Owsley, user: owsley_braden}
+  - {name: Tyler Drew Pearson, user: pearson_tyler}
   - {name: Sarah Pugachev, user: clayton_sarah}
   - {name: Horst Severini, user: severini_horst}
   - {name: Brent Shambaugh, user: shambaugh_brent}
@@ -3685,7 +3686,7 @@ badges:
   - {awarded: '2017-12-22', name: Allison Weber, user: weber_allison}
   - {awarded: '2017-12-22', name: Tiago M. D. Pereira, user: pereira_tiago}
   - {awarded: '2017-12-22', name: Lingling Jiang, user: jiang_lingling}
-  - {awarded: '2018-01-05', name: Tyler Pearson, user: pearson_tyler}
+  - {awarded: '2018-01-05', name: Tyler Drew Pearson, user: pearson_tyler}
   - {awarded: '2018-01-05', name: Chitrak Gupta, user: gupta_chitrak}
   - {awarded: '2018-01-08', name: Jerry Lai, user: lai_jerry}
   - {awarded: '2018-01-08', name: Anastasios Papaioannou, user: papaioannou_anastasios}
@@ -3914,9 +3915,15 @@ badges:
   - {awarded: '2018-08-10', name: David Bapst, user: bapst_david}
   - {awarded: '2018-08-10', name: David Nicholson, user: nicholson_david}
   - {awarded: '2018-08-10', name: Jaime Schatz, user: schatz_jaime}
-  - {awarded: '2018-08-14', name: Dennis Irorere, user: irorere_dennis}
+  - {awarded: '2018-08-14', name: Dennis Aibuedefe Irorere, user: irorere_dennis}
   - {awarded: '2018-08-14', name: Andrew Perry, user: perry_andree}
   - {awarded: '2018-08-14', name: Boahemaa Adu-Oppong, user: adu-oppong_boahemaa}
+  - {awarded: '2018-08-17', name: Stephen Jones, user: jones_stephen}
+  - {awarded: '2018-08-17', name: Amiya Maji, user: maji_amiya}
+  - {awarded: '2018-08-17', name: TJ Nguyen, user: nguyen_tj}
+  - {awarded: '2018-08-17', name: Preethy Nair, user: nair_preethy}
+  - {awarded: '2018-08-17', name: Gladys K Andino, user: andino_gladys-k}
+  - {awarded: '2018-08-17', name: Musa Zirebwa, user: zirebwa_musa}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4708,6 +4715,8 @@ badges:
   - {awarded: '2018-08-08', name: Ray Bell, user: bell_ray}
   - {awarded: '2018-08-10', name: Edgar Franco Vivanco, user: franco-vivanco_edgar}
   - {awarded: '2018-08-10', name: Kathy Yeater, user: yeater_kathy}
+  - {awarded: '2018-08-17', name: Stace Maples, user: maples_stace}
+  - {awarded: '2018-08-17', name: Yee Mey Seah, user: seah_yee-mey}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4789,6 +4798,7 @@ badges:
   - {awarded: '2018-04-16', name: Silvana Pereyra, user: pereyra_silvana}
   - {awarded: '2018-04-16', name: Clara Llebot Lorente, user: llebot_clara}
   - {awarded: '2018-06-06', name: Maneesha Sane, user: sane_maneesha}
+  - {awarded: '2018-08-17', name: Gerard Capes, user: capes_gerard}
 - name: trainer
   persons:
   - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
@@ -4880,7 +4890,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180815T220024Z
+timestamp: 20180817T220049Z
 workshops:
 - &id002
   - address: ' '
@@ -8312,7 +8322,7 @@ workshops:
     contact: diyadas@berkeley.edu
     country: us
     end: 2018-08-07
-    eventbrite_id: ''
+    eventbrite_id: '45701284773'
     humandate: Aug 06-07, 2018
     latitude: 37.872495
     longitude: -122.259556
@@ -8337,11 +8347,10 @@ workshops:
     - {name: DC}
     url: https://jasonjwilliamsny.github.io/2018-08-13-csu/
     venue: Genomics Data Carpentry
-- &id001
   - address: 1st floor of UPR-RP Natural Sciences Library (formally known as Biblioteca
       Nestor M. Rodriguez Rivera)
     contact: catherine.hulshof@gmail.com
-    country: PR
+    country: pr
     end: 2018-08-16
     eventbrite_id: ''
     humandate: Aug 15-16, 2018
@@ -8355,7 +8364,7 @@ workshops:
     venue: University of Puerto Rico
   - address: WHOI Quissett Campus, 360 Woods Hole Rd, Woods Hole MA 02543
     contact: irving.damien@gmail.com
-    country: US
+    country: us
     end: 2018-08-15
     eventbrite_id: ''
     humandate: Aug 15-15, 2018
@@ -8367,6 +8376,7 @@ workshops:
     - {name: DC}
     url: https://damienirving.github.io/2018-08-15-whoi/
     venue: Woods Hole Oceanographic Institution
+- &id001
   - address: 17 Ave. Universidad STE 1701, San Juan, PR 00925-2537
     contact: ''
     country: PR
