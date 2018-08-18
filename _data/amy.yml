@@ -2273,6 +2273,7 @@ airports:
   name: Tucson, AZ
 - country: de
   instructors:
+  - {name: Christian Calogero Barra, user: barra_christian}
   - {name: Peter Evans, user: evans_peter}
   - {name: Robert Gieseke, user: gieseke_robert}
   - {name: Martin Hammitzsch, user: hammitzsch_martin}
@@ -2333,12 +2334,6 @@ airports:
   latitude: -41.328932
   longitude: 174.808049
   name: Wellington International Airport
-- country: pl
-  instructors:
-  - {name: Christian Calogero Barra, user: barra_christian}
-  latitude: 51.104055
-  longitude: 16.881597
-  name: Wrocław Nicolaus Copernicus Airport
 - country: ca
   instructors:
   - {name: James Hiebert, user: hiebert_james}
@@ -4890,7 +4885,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180817T220049Z
+timestamp: 20180818T220148Z
 workshops:
 - &id002
   - address: ' '
