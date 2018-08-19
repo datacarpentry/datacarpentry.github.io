@@ -4885,7 +4885,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180818T220148Z
+timestamp: 20180819T220218Z
 workshops:
 - &id002
   - address: ' '
@@ -8371,10 +8371,9 @@ workshops:
     - {name: DC}
     url: https://damienirving.github.io/2018-08-15-whoi/
     venue: Woods Hole Oceanographic Institution
-- &id001
   - address: 17 Ave. Universidad STE 1701, San Juan, PR 00925-2537
     contact: ''
-    country: PR
+    country: pr
     end: 2018-08-18
     eventbrite_id: ''
     humandate: Aug 17-18, 2018
@@ -8386,6 +8385,7 @@ workshops:
     - {name: DC}
     url: https://idi-bd2k.github.io/2018-08-17-puertorico-genomics/
     venue: University of Puerto Rico
+- &id001
   - address: Colorado State University Morgan Library
     contact: eli.moore@ars.usda.gov
     country: US
