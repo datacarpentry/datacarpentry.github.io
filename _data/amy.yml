@@ -3919,6 +3919,10 @@ badges:
   - {awarded: '2018-08-17', name: Preethy Nair, user: nair_preethy}
   - {awarded: '2018-08-17', name: Gladys K Andino, user: andino_gladys-k}
   - {awarded: '2018-08-17', name: Musa Zirebwa, user: zirebwa_musa}
+  - {awarded: '2018-08-21', name: Maria Florencia D'Andrea, user: dandrea_maria-florencia}
+  - {awarded: '2018-08-21', name: Noah Brenowitz, user: brenowitz_noah}
+  - {awarded: '2018-08-21', name: Mariel Nyrop, user: nyrop_mariel}
+  - {awarded: '2018-08-21', name: Kevin Weitemier, user: weitemier_kevin}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4712,6 +4716,7 @@ badges:
   - {awarded: '2018-08-10', name: Kathy Yeater, user: yeater_kathy}
   - {awarded: '2018-08-17', name: Stace Maples, user: maples_stace}
   - {awarded: '2018-08-17', name: Yee Mey Seah, user: seah_yee-mey}
+  - {awarded: '2018-08-21', name: Wagner Barløse Mathias, user: mathias_wagner-barlse}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4885,7 +4890,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180821T220305Z
+timestamp: 20180823T220340Z
 workshops:
 - &id002
   - address: ' '
@@ -8400,6 +8405,20 @@ workshops:
     - {name: DC}
     url: https://btmoyers.github.io/2018-08-22-USDA/
     venue: USDA Long Term Agoecosystem Research Network
+  - address: SSF-82-14E Union Square Training Room
+    contact: ebecker@carpentries.org
+    country: US
+    end: 2018-08-28
+    eventbrite_id: ''
+    humandate: Aug 27-28, 2018
+    latitude: 37.65633
+    longitude: -122.37927
+    slug: 2018-08-27-genentech-b
+    start: 2018-08-27
+    tags:
+    - {name: DC}
+    url: https://erinbecker.github.io/2018-08-27-genentech-b/
+    venue: Genentech
   - address: Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715
     contact: contactaci@lists.wisc.edu
     country: US
