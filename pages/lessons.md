@@ -16,10 +16,10 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Ecology curriculum](#ecology-workshop)
 - [Genomics curriculum](#genomics-workshop)
 - [Social Sciences curriculum](#social-science-curriculum)
+- [Geospatial data curriculum](#geospatial-curriculum)
 
 ## Workshop materials under development or consideration
 
-- [Geospatial data curriculum](#geospatial-curriculum)
 - [Digital humanities curriculum](#dh-curriculum)
 - [Image analysis curriculum](#image-curriculum)
 - [Economics curriculum](#economics-curriculum)
@@ -249,11 +249,7 @@ The Social Sciences workshop can be taught using R as the base language. Please 
 
 <hr>
 
-## Materials under development
-
 ### <a id="geospatial-curriculum"></a> Geospatial Data Workshop
-
-These materials are scheduled for release and will be available for teaching in July 2018. 
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with Raster and Vector data in R for analysis and visualization.
 
