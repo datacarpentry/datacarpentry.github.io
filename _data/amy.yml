@@ -4804,7 +4804,6 @@ badges:
   - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
   - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
   - {awarded: '2016-02-03', name: Aleksandra Natalia Pawlik, user: pawlik_a}
-  - {awarded: '2016-02-03', name: Tracy Teal, user: teal_t}
   - {awarded: '2016-02-04', name: Stephen Crouch, user: crouch_s}
   - {awarded: '2016-03-16', name: Fiona Tweedie, user: tweedie_fiona}
   - {awarded: '2016-04-17', name: Ariel Rokem, user: rokem_a}
@@ -4890,7 +4889,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180823T220340Z
+timestamp: 20180824T190341Z
 workshops:
 - &id002
   - address: ' '
