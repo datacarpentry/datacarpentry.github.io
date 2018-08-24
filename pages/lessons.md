@@ -279,7 +279,7 @@ Join the [geospatial curriculum email list](https://carpentries.topicbox.com/gro
         <td>Anne Fouilloux, Arthur Endsley, Chris Prener, Jeff Hollister, Joseph Stachelek, Leah Wasser, Michael Sumner, Michele Tobias, Stace Maples</td>
     </tr>
     <tr>
-        <td>Geospatial Project Organization and Management</td>
+        <td>Introduction to Geospatial Concepts</td>
         <td><a href="{{site.dc_website_url}}/organization-geospatial/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
         <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Geospatial Project Organization and Management lesson"></a></td>
