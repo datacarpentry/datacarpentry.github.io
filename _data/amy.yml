@@ -4889,7 +4889,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180824T191650Z
+timestamp: 20180825T220448Z
 workshops:
 - &id002
   - address: ' '
@@ -8389,10 +8389,9 @@ workshops:
     - {name: DC}
     url: https://idi-bd2k.github.io/2018-08-17-puertorico-genomics/
     venue: University of Puerto Rico
-- &id001
   - address: Colorado State University Morgan Library
     contact: eli.moore@ars.usda.gov
-    country: US
+    country: us
     end: 2018-08-24
     eventbrite_id: ''
     humandate: Aug 22-24, 2018
@@ -8404,6 +8403,7 @@ workshops:
     - {name: DC}
     url: https://btmoyers.github.io/2018-08-22-USDA/
     venue: USDA Long Term Agoecosystem Research Network
+- &id001
   - address: SSF-82-14E Union Square Training Room
     contact: ebecker@carpentries.org
     country: US
