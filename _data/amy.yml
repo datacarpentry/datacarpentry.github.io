@@ -3923,6 +3923,9 @@ badges:
   - {awarded: '2018-08-21', name: Noah Brenowitz, user: brenowitz_noah}
   - {awarded: '2018-08-21', name: Mariel Nyrop, user: nyrop_mariel}
   - {awarded: '2018-08-21', name: Kevin Weitemier, user: weitemier_kevin}
+  - {awarded: '2018-08-27', name: Richard Beare, user: beare_richard}
+  - {awarded: '2018-08-27', name: Nathalia Graf-Grachet, user: graf-grachet_nathalia}
+  - {awarded: '2018-08-27', name: Paul Thompson, user: thompson_paul}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4889,7 +4892,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180825T220448Z
+timestamp: 20180827T220638Z
 workshops:
 - &id002
   - address: ' '
