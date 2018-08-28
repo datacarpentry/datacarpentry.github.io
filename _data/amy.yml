@@ -1637,7 +1637,7 @@ airports:
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Christina Maimone, user: maimone_christina}
   - {name: Jackie Milhans, user: milhans_jackie}
-  - {name: Danielle Nielsen, user: nielsen_danielle}
+  - {name: Danielle M. Nielsen, user: nielsen_danielle}
   - {name: Hossein Pourreza, user: pourreza_hossein}
   - {name: Juliane Schneider, user: schneider_juliane}
   latitude: 41.979444
@@ -3383,7 +3383,7 @@ badges:
   - {awarded: '2016-12-05', name: Ben Best, user: best_ben}
   - {awarded: '2016-12-05', name: Arjun A Biddanda, user: biddanda_arjun}
   - {awarded: '2016-12-06', name: Alexander Konovalov, user: konovalov_alexander}
-  - {awarded: '2016-12-06', name: Danielle Nielsen, user: nielsen_danielle}
+  - {awarded: '2016-12-06', name: Danielle M. Nielsen, user: nielsen_danielle}
   - {awarded: '2016-12-08', name: Michael Heeremans, user: heeremans_m}
   - {awarded: '2016-12-08', name: Simon Thelwall, user: thelwall_simon}
   - {awarded: '2016-12-08', name: Nathan Thomas Moore, user: moore_nathan}
@@ -4892,7 +4892,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180827T220638Z
+timestamp: 20180828T011816Z
 workshops:
 - &id002
   - address: ' '
