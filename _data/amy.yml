@@ -3926,6 +3926,10 @@ badges:
   - {awarded: '2018-08-27', name: Richard Beare, user: beare_richard}
   - {awarded: '2018-08-27', name: Nathalia Graf-Grachet, user: graf-grachet_nathalia}
   - {awarded: '2018-08-27', name: Paul Thompson, user: thompson_paul}
+  - {awarded: '2018-08-29', name: Patrick Di Bello, user: di-bello_patrick}
+  - {awarded: '2018-08-29', name: Jason Macklin, user: macklin_jason}
+  - {awarded: '2018-08-29', name: Sinan Shi, user: shi_sinan}
+  - {awarded: '2018-08-29', name: Bradley Udell, user: udell_bradley}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4892,7 +4896,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180829T220709Z
+timestamp: 20180830T171704Z
 workshops:
 - &id002
   - address: ' '
@@ -8507,5 +8511,19 @@ workshops:
     - {name: DC}
     url: https://jaredabera.github.io/October-2018-08-12-MTU/
     venue: Mizan-Tepi University
+  - address: Room 202, PACCAR building (2001 Grimes Way), Pullman, WA
+    contact: matthew.brousil@wsu.edu
+    country: US
+    end: 2018-10-26
+    eventbrite_id: ''
+    humandate: Oct 25-26, 2018
+    latitude: 46.7295857
+    longitude: -117.1545807
+    slug: 2018-10-25-wsu
+    start: 2018-10-25
+    tags:
+    - {name: DC}
+    url: https://mbrousil.github.io/2018-10-25-wsu/
+    venue: Washington State University
 workshops_current: *id001
 workshops_past: *id002
