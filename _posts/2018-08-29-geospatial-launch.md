@@ -22,7 +22,19 @@ We will be onboarding Instructors to prepare them to teach these new lessons. We
 
 ### Lesson background
 
-These lessons were initially developed in 2016 through a hackathon held in conjunction with the [National Ecological Observatory Network](https://www.neonscience.org/) (NEON). Hackathon participants included the following people who became the initial authors of the lessons: Leah A. Wasser - University of Colorado, Megan A. Jones -, Zack Brym - University of Florida, Kristina Riemer  - University of Florida, Jason Williams - Cold Spring Harbor Lab, Jeff Hollister - US Environmental Protection Agency, Mike Smorul, Joseph Stachelek - Michigan State University. The workshop materials were [piloted in March 2016](https://datacarpentry.org/blog/2016/03/pilot-spatial-data), and the lesson release has been much anticipated by Carpentries’ community members. Most of the data used in the workshop has been sourced from NEON (https://www.neonscience.org/). You can see other NEON tutorials for advanced GIS topics here (https://www.neonscience.org/resources/data-tutorials).
+These lessons were initially developed in 2016 through a hackathon held in conjunction with the 
+[National Ecological Observatory Network](https://www.neonscience.org/) (NEON). 
+Hackathon participants included the following people who became the initial authors of the lessons: 
+Leah A. Wasser - University of Colorado, Megan A. Jones - NEON, Zack Brym - University of Florida, 
+Kristina Riemer  - University of Florida, Jason Williams - Cold Spring Harbor Lab, 
+Jeff Hollister - US Environmental Protection Agency, Mike Smorul - SESYNC, 
+Joseph Stachelek - Michigan State University, Marissa Guarinello - NKN/University of Idaho, 
+Jonah Duckles - The Carpentries, Keely Roth - University of California at Davis, 
+Mike Alonzo - NASA Goddard, Ben Best - Duke / UCSB, Matt Kwit - Duke, Tracy Teal - The Carpentries, 
+Kaitlin Stack Whitney - University of Wisconsin-Madison, 
+Dave Roberts - Montana State, Courtney Soderberg - Center for Open Science, 
+Sean Barberie - University of Alaska Fairbanks. 
+The workshop materials were [piloted in March 2016](https://datacarpentry.org/blog/2016/03/pilot-spatial-data), and the lesson release has been much anticipated by Carpentries’ community members. Most of the data used in the workshop has been sourced from NEON (https://www.neonscience.org/). You can see other NEON tutorials for advanced GIS topics here (https://www.neonscience.org/resources/data-tutorials).
 
 ## Recent community involvement
 
