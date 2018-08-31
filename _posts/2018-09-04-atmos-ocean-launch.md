@@ -57,8 +57,8 @@ defensive programming strategies and
 how to capture and record the provenance of the data files and figures that we produce. 
 
 I've run the workshop twice this year
-(at the annual AMOS conference and at Woods Hole Oceanographic Institution)
-and have updated/improved the lesson materials based on feedback,
+(at the annual AMOS conference and at Woods Hole Oceanographic Institution),
+updating the lesson materials based on feedback each time,
 which means I've completed the alpha stage of the Data Carpentry
 [lesson development cycle](https://carpentries.github.io/curriculum-development/the-lesson-life-cycle.html).
 Before they can be adopted as the official lessons for atmosphere and ocean science,
