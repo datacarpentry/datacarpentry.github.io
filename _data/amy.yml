@@ -3930,6 +3930,7 @@ badges:
   - {awarded: '2018-08-29', name: Jason Macklin, user: macklin_jason}
   - {awarded: '2018-08-29', name: Sinan Shi, user: shi_sinan}
   - {awarded: '2018-08-29', name: Bradley Udell, user: udell_bradley}
+  - {awarded: '2018-08-30', name: Sena Agezo, user: agezo_sena}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4896,7 +4897,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180830T171704Z
+timestamp: 20180831T220818Z
 workshops:
 - &id002
   - address: ' '
@@ -8439,6 +8440,20 @@ workshops:
     url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
     venue: Data Carpentry @ UW Madison
 - &id001
+  - address: Wollo University
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-04
+    eventbrite_id: ''
+    humandate: Sep 03-04, 2018
+    latitude: 9.90001
+    longitude: 36.88995
+    slug: 2018-09-03-DC-Wollo
+    start: 2018-09-03
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-09-03-DC-Wollo/
+    venue: 'Wollo University: Data Carpentry Workshop'
   - address: Room T.007, T-Building (Enter the V-building near the main entrance,
       go straight ahead past the seal statue, it's behind the staircase), Antonie
       van Leeuwenhoeklaan 9, 3721 MA Bilthoven
