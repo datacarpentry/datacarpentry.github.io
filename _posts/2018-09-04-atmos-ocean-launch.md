@@ -49,7 +49,7 @@ Such data is typically stored in netCDF file format
 and follows a strict "climate and forecasting" metadata convention.
 Along the way, we learn about the PyAOS stack
 (i.e. the ecosystem of libraries used in the atmosphere and ocean sciences),
-how to manage a software environment using conda,
+how to manage and share a software environment using conda,
 how to write modular/reusable code,
 how to write scripts that behave like other command line programs,
 version control,
