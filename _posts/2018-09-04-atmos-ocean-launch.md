@@ -39,7 +39,7 @@ I wanted to cut out the middle step and run a workshop
 *in* the atmosphere and ocean science context.
 This idea of discipline (or data-type) specific workshops
 was the driving force behind the establishment of Data Carpentry,
-so with their assistance I've developed lesson materials for a complete one-day workshop:
+so with their assistance I've developed lesson materials for a complete one-day workshop:  
 [https://carpentrieslab.github.io/python-aos-lesson](https://carpentrieslab.github.io/python-aos-lesson)
 
 The workshop centers around the task of writing a Python script
@@ -71,5 +71,5 @@ Conversely,
 you can request an atmosphere and ocean science beta pilot workshop at your institution
 using this [form](https://amy.software-carpentry.org/forms/dc/request/).
 I'd also be happy to hear any general feedback about the lesson materials
-at the associated GitHub issues page:
+at the associated GitHub issues page:  
 [https://github.com/carpentrieslab/python-aos-lesson](https://github.com/carpentrieslab/python-aos-lesson) 
