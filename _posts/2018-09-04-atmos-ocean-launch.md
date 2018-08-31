@@ -18,7 +18,7 @@ associated with analyzing climate model data for a national science organization
 so I was searching online for assistance with Python programming.
 I stumbled upon the website of an organization called Software Carpentry,
 which at the time was a relatively small group of volunteers
-running two day scientific computing "bootcamps" for researchers.
+running two-day scientific computing "bootcamps" for researchers.
 I reached out to ask if they'd be interested
 in running a workshop alongside the 2013 Annual Conference
 of the Australian Meteorological and Oceanographic Society (AMOS),
@@ -64,8 +64,7 @@ which means I've completed the alpha stage of the Data Carpentry
 Before they can be adopted as the official lessons for atmosphere and ocean science,
 the beta development stage involves having people other than me teach.
 If you're a qualified Carpentries instructor and would be interested in teaching the lessons
-(some experience with the netCDF file format and
-[xarray](http://xarray.pydata.org/en/stable/) Python library is useful),
+(some experience with the netCDF file format and xarray Python library is useful),
 please [get in touch](https://drclimate.wordpress.com/who-is-dr-climate/).
 Conversely,
 you can request an atmosphere and ocean science beta pilot workshop at your institution
