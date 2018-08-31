@@ -26,7 +26,7 @@ and to my surprise Greg Wilson - the co-founder of the organization -
 flew out to Australia to teach at our event in Melbourne and another in Sydney
 (the first ever bootcamps outside of North America and Europe).
 I trained up as an instructor soon after,
-and from 2014-2017 I hosted Software Carpentry workshops alongside the AMOS Conference,
+and from 2014-2017 I hosted Software Carpentry workshops alongside the AMOS conference,
 as well as other ad hoc workshops in various meteorology and oceanography departments.
 
 While these workshops were very popular and well received
