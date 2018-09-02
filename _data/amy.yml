@@ -4897,7 +4897,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180831T220818Z
+timestamp: 20180902T220843Z
 workshops:
 - &id002
   - address: ' '
