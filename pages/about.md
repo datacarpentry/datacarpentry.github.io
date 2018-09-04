@@ -37,9 +37,6 @@ with the community of learners, developers and volunteer instructors to
 meet these goals.   
 [Staff](/people/index.html#staff) | [Steering Committee](/people/index.html#sc)  
 
-[>>Read More](/people/)
-
-
 ### Governance
 
 Data Carpentry is a Fiscally Sponsored Project of [NumFOCUS](http://www.numfocus.org), a 501(c)3 organization. Data Carpentry is governed by a volunteer 
@@ -55,22 +52,7 @@ adhere to a [Code of Conduct](/code-of-conduct/).
 
 ### Founding and Support
 
-Data Carpentry was founded out of an 
-[NSF](http://www.nsf.gov) BIO Centers CollabIT meeting, where we identified a shared need for 
-training in best practices and strategies for working with data. This meeting included
-participants from 
-[BEACON](http://beacon-center.org), 
-[iDigBio](http://www.idigbio.org), 
-[iPlant](http://www.iplant.org), 
-[NEON](http://www.neon.org), 
-[NESCENT](http://www.nescent.org) and 
-[SESYNC](http://www.sesync.org).
-Those efforts and support
-to develop and disseminate a data-focused curriculum evolved in to the current
-Data Carpentry organization, and the NSF BIO Centers continue to be actively
-involved. 
-
-We are currently supported by a grant from the [Moore Foundation's](http://www.moore.org) [Data-Driven Discovery](https://www.moore.org/programs/science/data-driven-discovery) initiative.
+For information about our current and past supporters, see [Our Supporters](https://carpentries.org/supporters/).
 
 ### References
 
