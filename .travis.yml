@@ -23,4 +23,4 @@ script:
   - yaml-lint -q -n -i  $(find _posts -regex ".*.md\|.*html" )
   - yaml-lint -q -n -i  $(find pages -regex ".*.md\|.*html" )
   - bundle update && make test-site
-  - ./amy_add.sh
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./add_amy.sh; fi'
