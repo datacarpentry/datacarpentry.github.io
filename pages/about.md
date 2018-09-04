@@ -74,8 +74,4 @@ We are currently supported by a grant from the [Moore Foundation's](http://www.m
 
 ### References
 
-[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)  
-TK Teal, KA Cranston, H Lapp, E White, G Wilson, K Ram, A Pawlik  
-International Journal of Digital Curation 10 (1), 135-143
-
-[List of Data Carpentry Papers, Presentations and Proposals](https://www.zotero.org/groups/597593/datacarpentry/items?) in Zotero.
+For a list of papers, and other materials about Data Carpentry, see [this page](https://carpentries.org/citations/).
