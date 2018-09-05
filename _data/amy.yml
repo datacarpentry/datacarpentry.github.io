@@ -1057,6 +1057,7 @@ airports:
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {name: Kapeel Chougule, user: chougule_kapeel}
   - {name: Catherine M Foley, user: foley_catherine}
+  - {name: Alice Harpole, user: harpole_alice}
   - {name: Lingling Jiang, user: jiang_lingling}
   - {name: Mary Catherine Kinniburgh, user: kinniburgh_mary-catherine}
   - {name: Hannah Akemi Kronenberg, user: kronenberg_hannah}
@@ -1081,7 +1082,7 @@ airports:
   name: New York JFK, NY
 - country: za
   instructors:
-  - {name: Caroline Ajilogba, user: ajilogba_caroline}
+  - {name: Caroline Fadeke Ajilogba, user: ajilogba_caroline}
   - {name: Hannes Calitz, user: calitz_hannes}
   - {name: Martin Dreyer, user: dreyer_martin}
   - {name: LACTATIA MOTSUKU, user: motsuku_lactatia}
@@ -1227,7 +1228,6 @@ airports:
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Gerard Gorman, user: gorman_gerard}
   - {name: Martin John Hadley, user: hadley_martin}
-  - {name: Alice Harpole, user: harpole_alice}
   - {name: Donna Henderson, user: henderson_donna}
   - {name: James Hetherington, user: hetherington_james}
   - {name: Julian Jordan, user: jordan_julian}
@@ -4537,7 +4537,7 @@ badges:
   - {awarded: '2017-08-08', name: Tasso Pettigrew, user: pettigrew_tasso}
   - {awarded: '2017-08-11', name: Jacob Frias Koehler, user: koehler_jacob}
   - {awarded: '2017-08-17', name: Yasmin AlNoamany, user: alnoamany_yasmin}
-  - {awarded: '2017-08-21', name: Caroline Ajilogba, user: ajilogba_caroline}
+  - {awarded: '2017-08-21', name: Caroline Fadeke Ajilogba, user: ajilogba_caroline}
   - {awarded: '2017-08-24', name: Catherine Hulshof, user: hulshof_catherine}
   - {awarded: '2017-08-24', name: Anthony Etuk, user: etuk_anthony}
   - {awarded: '2017-08-24', name: Ellen Bledsoe, user: bledsoe_ellen}
@@ -4884,7 +4884,7 @@ badges:
   - {awarded: '2018-03-12', name: Anne Fouilloux, user: fouilloux_anne}
   - {awarded: '2018-03-12', name: Mik Black, user: black_mik}
   - {awarded: '2018-03-12', name: Murray Cadzow, user: cadzow_murray}
-  - {awarded: '2018-03-12', name: Caroline Ajilogba, user: ajilogba_caroline}
+  - {awarded: '2018-03-12', name: Caroline Fadeke Ajilogba, user: ajilogba_caroline}
   - {awarded: '2018-03-12', name: Senzo Mpungose, user: mpungose_senzo}
   - {awarded: '2018-03-12', name: David Perez-Suarez, user: perez-suarez_david}
   - {awarded: '2018-03-12', name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
@@ -4921,7 +4921,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180905T140105Z
+timestamp: 20180905T193717Z
 workshops:
 - &id002
   - address: ' '
@@ -8508,6 +8508,20 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2018-09-12-new_england_tribes_USGS/
     venue: USGS New England Water Science Center
+  - address: Teaching Studio LG.07, David Hume Tower, George Sq, EH8 9JX, Edinburgh
+    contact: Jennifer.Daub@ed.ac.ukg.peru@epcc.ed.ac.uk
+    country: GB
+    end: 2018-09-14
+    eventbrite_id: ''
+    humandate: Sep 13-14, 2018
+    latitude: 55.94424
+    longitude: -3.19018
+    slug: 2018-09-13-edinburgh
+    start: 2018-09-13
+    tags:
+    - {name: DC}
+    url: https://edcarp.github.io/2018-09-13-edinburgh/
+    venue: The University of Edinburgh
   - address: 1346 North Bishop Ave, Rolla, MO
     contact: aaron.bergstrom@email.und.edu
     country: US
