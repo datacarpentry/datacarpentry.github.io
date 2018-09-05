@@ -515,7 +515,6 @@ airports:
   - {name: Ashley L Hetrick, user: hetrick_ashley}
   - {name: Jessica Holmes, user: holmes_jessica}
   - {name: Kathryn Dorsey Huff, user: huff_k}
-  - {name: David LeBauer, user: lebauer_david}
   - {name: Stuti Shrivastava, user: shrivastava_stuti}
   - {name: Dena Lynn Strong, user: strong_dena}
   - {name: Elizabeth Wickes, user: wickes_elizabeth}
@@ -1140,7 +1139,7 @@ airports:
   - {name: Gail Clement, user: gail_clement}
   - {name: Stephen Davison, user: davison_stephen}
   - {name: Tim Dennis, user: dennis_tim}
-  - {name: Mike Lee, user: lee_mike}
+  - {name: Michael D Lee, user: lee_mike}
   - {name: Ethan Nelson, user: nelson_ethan}
   - {name: Katja Seltmann, user: seltmann_katja}
   - {name: Mark Wilber, user: wilber_mark}
@@ -1247,6 +1246,7 @@ airports:
   - {name: Nicky Nicolson, user: nicolson_nicky}
   - {name: Kirill Palamartchouk, user: palamartchouk_kirill}
   - {name: David Perez-Suarez, user: perez-suarez_david}
+  - {name: Sinan Shi, user: shi_sinan}
   - {name: Mark Stillwell, user: stillwell_mark}
   - {name: Simon Thelwall, user: thelwall_simon}
   - {name: Chris Tomlinson, user: tomlinson_christopher}
@@ -1632,6 +1632,7 @@ airports:
   - {name: Camille Avestruz, user: avestruz_camille}
   - {name: Arjun A Biddanda, user: biddanda_arjun}
   - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Shubhang Goswami, user: goswami_shubhang}
   - {name: Roland Haas, user: haas_roland}
   - {name: Jonathan Keane, user: keane_jonathan}
   - {name: Avishek Kumar, user: kumar_avishek}
@@ -1801,6 +1802,12 @@ airports:
   latitude: 37.505
   longitude: -77.319444
   name: Richmond, VA
+- country: us
+  instructors:
+  - {name: Sateesh Peri, user: peri_sateesh}
+  latitude: 39.4990997
+  longitude: -119.7679977
+  name: Reno Tahoe International Airport
 - country: us
   instructors:
   - {name: Jonathan Bradley, user: bradley_jonathan}
@@ -2259,6 +2266,7 @@ airports:
   - {name: Victor Cordero, user: cordero_victor}
   - {name: Upendra Kumar Devisetty, user: devisetty_upendra-kumar}
   - {name: Blake Joyce, user: joyce_blake}
+  - {name: David Shaner LeBauer, user: lebauer_david}
   - {name: Muhammad Saad Noon, user: noon_muhammad}
   - {name: Jeffrey Oliver, user: oliver_jeffrey}
   - {name: Xue Pan, user: pan_xue}
@@ -2855,7 +2863,7 @@ badges:
   - {awarded: '2014-12-23', name: Ian Hawke, user: hawke_ian}
   - {awarded: '2014-12-23', name: Cody Hinchliff, user: hinchliff_cody}
   - {awarded: '2014-12-23', name: Jan Kim, user: kim_jan}
-  - {awarded: '2014-12-23', name: David LeBauer, user: lebauer_david}
+  - {awarded: '2014-12-23', name: David Shaner LeBauer, user: lebauer_david}
   - {awarded: '2014-12-23', name: Catherine McGoveran, user: mcgoveran_catherine}
   - {awarded: '2014-12-23', name: Klemens Noga, user: noga_klemens}
   - {awarded: '2014-12-23', name: Mariela Perignon, user: perignon_mariela}
@@ -3931,6 +3939,13 @@ badges:
   - {awarded: '2018-08-29', name: Sinan Shi, user: shi_sinan}
   - {awarded: '2018-08-29', name: Bradley Udell, user: udell_bradley}
   - {awarded: '2018-08-30', name: Sena Agezo, user: agezo_sena}
+  - {awarded: '2018-09-04', name: Cesar Arias, user: arias_cesar}
+  - {awarded: '2018-09-04', name: Clark Fitzgerald, user: fitzgerald_clark}
+  - {awarded: '2018-09-04', name: Jared Joseph, user: joseph_jared}
+  - {awarded: '2018-09-04', name: Elyse Morin, user: morin_elyse}
+  - {awarded: '2018-09-04', name: Hongtian 'Stanley' Yang, user: yang_hongtian-stanley}
+  - {awarded: '2018-09-04', name: Eli Moore, user: moore_eli}
+  - {awarded: '2018-09-04', name: Kathy Yeater, user: yeater_kathy}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4174,7 +4189,7 @@ badges:
   - {awarded: '2016-03-01', name: Tobias Borsdorff, user: borsdorff_tobias}
   - {awarded: '2016-03-01', name: Chris Hamm, user: hamm_chris}
   - {awarded: '2016-03-01', name: Neal Davis, user: davis_neal}
-  - {awarded: '2016-03-01', name: David LeBauer, user: lebauer_david}
+  - {awarded: '2016-03-01', name: David Shaner LeBauer, user: lebauer_david}
   - {awarded: '2016-03-01', name: Janet Riley, user: riley_janet}
   - {awarded: '2016-03-01', name: Maneesha Sane, user: sane_maneesha}
   - {awarded: '2016-03-01', name: Marian Schmidt, user: schmidt_marian}
@@ -4692,7 +4707,7 @@ badges:
   - {awarded: '2018-06-27', name: Celine Gareau-Brennan, user: gareau-brennan_celine}
   - {awarded: '2018-06-27', name: Ruud Steltenpool, user: steltenpool_ruud}
   - {awarded: '2018-06-30', name: Eli Moore, user: moore_eli}
-  - {awarded: '2018-07-01', name: Mike Lee, user: lee_mike}
+  - {awarded: '2018-07-01', name: Michael D Lee, user: lee_mike}
   - {awarded: '2018-07-01', name: Geraldine Klarenberg, user: klarenberg_geraldine}
   - {awarded: '2018-07-01', name: Roland Haas, user: haas_roland}
   - {awarded: '2018-07-01', name: Sabah Ul-Hasan, user: ul-hasan_sabah}
@@ -4725,6 +4740,15 @@ badges:
   - {awarded: '2018-08-17', name: Stace Maples, user: maples_stace}
   - {awarded: '2018-08-17', name: Yee Mey Seah, user: seah_yee-mey}
   - {awarded: '2018-08-21', name: Wagner Barløse Mathias, user: mathias_wagner-barlse}
+  - {awarded: '2018-09-04', name: Pratishtha Poudel, user: poudel_pratishtha}
+  - {awarded: '2018-09-04', name: jonathan eisenhamer, user: eisenhamer_jonathan}
+  - {awarded: '2018-09-04', name: TJ Nguyen, user: nguyen_tj}
+  - {awarded: '2018-09-04', name: Bin Chen, user: chen_bin_2}
+  - {awarded: '2018-09-04', name: Laura Acion, user: acion_laura}
+  - {awarded: '2018-09-04', name: Maria Florencia D'Andrea, user: dandrea_maria-florencia}
+  - {awarded: '2018-09-04', name: Jason Macklin, user: macklin_jason}
+  - {awarded: '2018-09-04', name: Hongtian 'Stanley' Yang, user: yang_hongtian-stanley}
+  - {awarded: '2018-09-04', name: Musa Zirebwa, user: zirebwa_musa}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4897,7 +4921,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180902T220843Z
+timestamp: 20180905T140105Z
 workshops:
 - &id002
   - address: ' '
@@ -8439,10 +8463,9 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
     venue: Data Carpentry @ UW Madison
-- &id001
   - address: Wollo University
     contact: mesfin.diro@aau.edu.et
-    country: ET
+    country: et
     end: 2018-09-04
     eventbrite_id: ''
     humandate: Sep 03-04, 2018
@@ -8454,6 +8477,7 @@ workshops:
     - {name: DC}
     url: https://mesfind.github.io/2018-09-03-DC-Wollo/
     venue: 'Wollo University: Data Carpentry Workshop'
+- &id001
   - address: Room T.007, T-Building (Enter the V-building near the main entrance,
       go straight ahead past the seal statue, it's behind the staircase), Antonie
       van Leeuwenhoeklaan 9, 3721 MA Bilthoven
@@ -8512,6 +8536,21 @@ workshops:
     - {name: DC}
     url: https://tgac.github.io/2018-10-02-DC/
     venue: Earlham Institute
+  - address: FT 216, Faculty of Technology, CEPT University, Kasturbhai Lalbhai Campus,
+      University Road, Navrangpura, Ahmedabad-380009 Gujarat, India
+    contact: shaily.gandhi@cept.ac.inbindi.dave@cept.ac.in
+    country: IN
+    end: 2018-10-07
+    eventbrite_id: ''
+    humandate: Oct 06-07, 2018
+    latitude: 23.037678
+    longitude: 72.549742
+    slug: 2018-10-06-CEPT
+    start: 2018-10-06
+    tags:
+    - {name: DC}
+    url: https://shailygandhi.github.io/2018-10-06-CEPT/
+    venue: Faculty of Technology, CEPT University
   - address: Mizan-Teferi, Ethiopia
     contact: mesfin@aau.edu.et"yared3778@gmail.com
     country: ET
