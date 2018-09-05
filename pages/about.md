@@ -6,7 +6,6 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/about/"
 ---
-
 Data Carpentry is a lesson project within [The Carpentries](https://carpentries.org). Data Carpentry aims to teach fundamental concepts, skills and tools for working more effectively with data.
 
 From astronomy to molecular biology, our increasing capacity
@@ -32,20 +31,21 @@ A workshop can't teach a researcher everything they need to know about data mana
 
 ### People
 
-Our staff and leadership are committed to furthering Data Carpentry's goals
+Our staff and our Executive Council are committed to furthering Data Carpentry's goals
 of developing and providing training to enable data-driven discovery. Our
 people plan, learn, adapt and engage
 with the community of learners, developers and volunteer instructors to 
 meet these goals.   
-[Staff](/people/index.html#staff) | [Steering Committee](/people/index.html#sc)  
+
+[Our Staff](https://carpentries.org/team/) | [Our Executive Council](https://carpentries.org/governance/)  
 
 ### Governance
 
-Data Carpentry is a fiscally sponsored project of [Community Initiatives](http://communityin.org/), a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director, and [governance](http://static.carpentries.org/governance/) of the merged Carpentries is undertaken by an Executive Council which comprises four community-elected members and five appointed members drawn from the previous Steering Committees of [Software Carpentry](https://software-carpentry.org/) and Data Carpentry. The Carpentries project has dedicated [staff](https://carpentries.org/team/).
+Data Carpentry is a fiscally sponsored project of [Community Initiatives](http://communityin.org/), a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director, and [governance](https://carpentries.org/governance/) of the merged Carpentries is undertaken by an Executive Council which comprises four community-elected members and five appointed members drawn from the previous Steering Committees of [Software Carpentry](https://software-carpentry.org/) and Data Carpentry. The Carpentries project has dedicated [staff](https://carpentries.org/team/).
 
 Staff and Executive Council members are committed to ensuring that activities are
 welcoming and inclusive, and the organization and all its events and communications
-adhere to a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct).
+adhere to a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ### Funding and Support
 
