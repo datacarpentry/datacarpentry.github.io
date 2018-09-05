@@ -80,8 +80,6 @@
   dropdown:
   - title: Blog
     url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: For instructors
   url: "/for-instructors/"
