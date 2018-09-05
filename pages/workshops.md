@@ -19,6 +19,4 @@ For a list of our current workshop offerings, visit our [Lessons page](http://da
 - **A Data Carpentry lesson on data organization**
 - **Three other modules in the same domain from the [Data Carpentry curriculum](../lessons/)**
 
-Interested in learning more? See our [Lessons](../lessons/) page with links to all our lessons and information about topics and domains under development.
-
 [Request a workshop](../workshops-host/)  |   [Attend a workshop](../workshops-attend/) | [Organize a workshop](../self-organized-workshops/)
