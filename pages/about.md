@@ -47,10 +47,7 @@ Staff and Executive Council members are committed to ensuring that activities ar
 welcoming and inclusive, and the organization and all its events and communications
 adhere to a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct).
 
-[>>Read More](http://static.carpentries.org/governance/)
-
-
-### Founding and Support
+### Funding and Support
 
 For information about our current and past supporters, see [Our Supporters](https://carpentries.org/supporters/).
 
