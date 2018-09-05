@@ -9,13 +9,13 @@
   - title: "Mission & Vision"
     url: "/mission/"
   - title: "Media"
-    url: "/media/"
+    url: "https://carpentries.org/citations/"
   - title: "Our Team"
-    url: "/people/"
+    url: "https://carpentries.org/team/"
   - title: "Code of Conduct"
-    url: "/code-of-conduct/"
+    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct"
   - title: "Governance"
-    url: "/governance/"
+    url: "http://static.carpentries.org/governance/"
   - title: "Assessment"
     url: "/assessment/"
 
@@ -36,23 +36,23 @@
 
 
 - title: "Get Involved"
-  url: "/involved/"
+  url: "https://carpentries.org/join/"
   side: left
   dropdown:
   - title: "Become a Member Organization"
-    url: "/partnerships/"
+    url: "https://carpentries.org/membership/"
   - title: "Become an Instructor"
     url: "/involved-instructor/"
   - title: "Join our Community"
     url: "https://carpentries.org/community/"
   - title: "Newsletter"
-    url: "/newsletter/"
+    url: "https://carpentries.org/newsletter/"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"
   - title: "Jobs"
     url: "/jobs/"
   - title: "Donate"
-    url: "/involved-donate/"
+    url: "https://carpentries.org/donate/"
 
 - title: Lessons
   url: "/lessons/"
@@ -98,9 +98,9 @@
     url: "/mentoring/"
 
 - title: "Sponsors"
-  url: "/sponsors/"
+  url: "https://carpentries.org/supporters/"
   side: right
 
 - title: "Contact"
-  url: "/contact/"
+  url: "https://carpentries.org/contact/"
   side: right
