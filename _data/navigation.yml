@@ -13,9 +13,9 @@
   - title: "Our Team"
     url: "https://carpentries.org/team/"
   - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct"
+    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Governance"
-    url: "http://static.carpentries.org/governance/"
+    url: "https://carpentries.org/governance/"
   - title: "Assessment"
     url: "/assessment/"
 
@@ -24,7 +24,7 @@
   side: left
   dropdown:
   - title: "About our Workshops"
-    url: /workshops/
+    url: "/workshops/"
   - title: "Request a Workshop"
     url: "/workshops-host/"
   - title: "Attend a Workshop"
@@ -66,7 +66,7 @@
     url: "/lessons/#social-science-curriculum"
   - title: "Geospatial"
     url: "/lessons/#geospatial-curriculum"
-  - title: "In Development"
+  - title: "/lessons/#geospatial-curriculum"
     url: "/lessons/#materials-in-early-development"
   - title: "Semester Materials"
     url: "/lessons/#biology-semester-long-course"
