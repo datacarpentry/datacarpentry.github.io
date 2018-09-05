@@ -27,15 +27,4 @@ We are currently developing lessons on GitHub.
 
 [Information on how to contribute to lesson development](https://github.com/datacarpentry/lesson-template/blob/gh-pages/CONTRIBUTING.md)
 
-#### Active Lessons
-
-- [spreadsheet-ecology](https://github.com/datacarpentry/spreadsheet-ecology-lesson)
-- [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology)
-- [R-ecology](https://github.com/datacarpentry/R-ecology)
-- [Python-ecology](https://github.com/datacarpentry/python-ecology)
-- [Social Sciences](https://github.com/datacarpentry/socialsci-workshop/)
-- [SQL-ecology](https://github.com/datacarpentry/sql-ecology)
-- [Geospatial](https://github.com/datacarpentry/geospatial-workshop/)
-- [Genomics](https://github.com/datacarpentry/genomics-workshop/)
-
 If you are interested in contributing, and haven't worked with GitHub, we are developing other strategies for participation, so please [get in touch](mailto:team@carpentries.org).
