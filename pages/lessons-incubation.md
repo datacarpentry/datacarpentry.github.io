@@ -59,7 +59,7 @@ sustainability.
      require that lessons be created from scratch, and in fact prefer
      contributors to recycle materials they have tested in the
      classroom so long as they meet licensing stipulations. We do
-     require that lessons use our [templates]({{dc_github_repo_url}}/lesson-template/)
+     require that lessons use our [templates](https://github.com/carpentries/styles/)
      and [teaching style](http://carpentries.github.io/instructor-training/).
 
  Data Carpentry and Software Carpentry’s Steering Committees may make
