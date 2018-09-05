@@ -9,8 +9,8 @@ permalink: "/involved-lessons/"
 
 We are always in the process of developing content for new domains and topics.
 If you are interested in participating, please apply for a hackathon,
-help develop on line, [get in touch](/contact/) or see our [lessons under
-development](/workshops-development/).
+help develop on line, [get in touch](https://carpentries.org/contact/) or see our [lessons under
+development](/lessons/#materials-in-early-development).
 
 All of our lessons are collaboratively developed and distributed under the
 [CC-BY](https://creativecommons.org/licenses/by/2.0/) license. We welcome
@@ -19,11 +19,11 @@ contributions!
 Fix a typo, suggest a new module or add features to topics. We have a
 [discussion forum](https://carpentries.topicbox.com/) and a [Slack organization](https://swc-slack-invite.herokuapp.com/) for discussion of
 topics or teaching strategies. If comments or suggestions are directly
-related to lesson content, please also feel free to file a github issue.
+related to lesson content, please also feel free to file a GitHub issue.
 
 ### Information on how to contribute
 
-We currently are developing lessons on github.
+We are currently developing lessons on GitHub.
 
 [Information on how to contribute to lesson development](https://github.com/datacarpentry/lesson-template/blob/gh-pages/CONTRIBUTING.md)
 
@@ -33,6 +33,9 @@ We currently are developing lessons on github.
 - [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology)
 - [R-ecology](https://github.com/datacarpentry/R-ecology)
 - [Python-ecology](https://github.com/datacarpentry/python-ecology)
+- [Social Sciences](https://github.com/datacarpentry/socialsci-workshop/)
 - [SQL-ecology](https://github.com/datacarpentry/sql-ecology)
+- [Geospatial](https://github.com/datacarpentry/geospatial-workshop/)
+- [Genomics](https://github.com/datacarpentry/genomics-workshop/)
 
-If you are interested in contributing, and haven't worked with github, we are developing other strategies for participation, so please [get in touch](mailto:team@carpentries.org).
+If you are interested in contributing, and haven't worked with GitHub, we are developing other strategies for participation, so please [get in touch](mailto:team@carpentries.org).
