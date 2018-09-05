@@ -227,6 +227,27 @@ The Social Sciences workshop can be taught using R as the base language. Please 
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for R social science lesson"></a></td>
     <td>Juan Fung</td>
 </tr>
+
+</table>
+
+
+<table class="table table-striped">
+<tr>
+    <th>Lesson</th>
+    <th>Site</th>
+    <th>Repository</th>
+    <th>Reference</th>
+    <th>Instructor Guide</th>
+    <th>Maintainer(s)</th>
+</tr>
+<tr>
+    <td>Lessons in Development</td>
+    <td><a href="http://www.datacarpentry.org/socialsci-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>TBA</td>
+</tr>
 <tr>
     <td>Data Analysis and Visualization with Python for Social Scientists *alpha*</td>
     <td><a href="http://www.datacarpentry.org/python-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
@@ -243,7 +264,10 @@ The Social Sciences workshop can be taught using R as the base language. Please 
     <td><a href="{{site.dc_github_site_url}}/sql-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for SQL social science lesson"></a></td>
     <td>Peter Smyth</td>
 </tr>
+
 </table>
+
+
 
 <hr>
 
