@@ -25,6 +25,6 @@ related to lesson content, please also feel free to file a GitHub issue.
 
 We are currently developing lessons on GitHub.
 
-[Information on how to contribute to lesson development](https://github.com/datacarpentry/lesson-template/blob/gh-pages/CONTRIBUTING.md)
+[Information on how to contribute to lesson development](https://github.com/carpentries/lesson-example/blob/gh-pages/CONTRIBUTING.md)
 
 If you are interested in contributing, and haven't worked with GitHub, we are developing other strategies for participation, so please [get in touch](mailto:team@carpentries.org).
