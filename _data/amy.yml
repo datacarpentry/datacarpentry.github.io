@@ -1411,6 +1411,7 @@ airports:
   - {name: Ghulam Murtaza, user: murtaza_ghulam}
   - {name: Juan Nunez-Iglesias, user: nunez-iglesias_juan}
   - {name: Martin Paulo, user: paulo_martin}
+  - {name: Andrew Perry, user: perry_andree}
   - {name: Will Pitchers, user: pitchers_w}
   - {name: Timothy Rice, user: rice_timothy}
   - {name: Scott Ritchie, user: ritchie_scott}
@@ -3946,6 +3947,10 @@ badges:
   - {awarded: '2018-09-04', name: Hongtian 'Stanley' Yang, user: yang_hongtian-stanley}
   - {awarded: '2018-09-04', name: Eli Moore, user: moore_eli}
   - {awarded: '2018-09-04', name: Kathy Yeater, user: yeater_kathy}
+  - {awarded: '2018-09-06', name: Michael Malahy, user: malahy_michael}
+  - {awarded: '2018-09-06', name: David Millman, user: millman_david}
+  - {awarded: '2018-09-06', name: Andrew Reid, user: reid_andrew}
+  - {awarded: '2018-09-06', name: Xiao Zhu, user: zhu_xiao}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4749,6 +4754,8 @@ badges:
   - {awarded: '2018-09-04', name: Jason Macklin, user: macklin_jason}
   - {awarded: '2018-09-04', name: Hongtian 'Stanley' Yang, user: yang_hongtian-stanley}
   - {awarded: '2018-09-04', name: Musa Zirebwa, user: zirebwa_musa}
+  - {awarded: '2018-09-06', name: Trevor Keller, user: keller_trevor}
+  - {awarded: '2018-09-06', name: Aateka Shashank, user: shashank_aateka}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4921,7 +4928,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180905T193717Z
+timestamp: 20180906T194839Z
 workshops:
 - &id002
   - address: ' '
@@ -8408,10 +8415,10 @@ workshops:
     url: https://damienirving.github.io/2018-08-15-whoi/
     venue: Woods Hole Oceanographic Institution
   - address: 17 Ave. Universidad STE 1701, San Juan, PR 00925-2537
-    contact: ''
+    contact: humberto.ortiz@upr.edu
     country: pr
     end: 2018-08-18
-    eventbrite_id: ''
+    eventbrite_id: '47376643817'
     humandate: Aug 17-18, 2018
     latitude: 18.404008
     longitude: -66.046144
@@ -8494,6 +8501,20 @@ workshops:
     - {name: DC}
     url: https://rivm-bioinformatics.github.io/2018-09-10-RIVM/
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+  - address: Bioinformatics Training Room 1540, 600 Main Street, Bar Harbor, Maine
+    contact: susan.mcclatchy@jax.org
+    country: US
+    end: 2018-09-11
+    eventbrite_id: '48138148498'
+    humandate: Sep 10-11, 2018
+    latitude: 44.365646
+    longitude: -68.197153
+    slug: 2018-09-10-jax
+    start: 2018-09-10
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2018-09-10-jax/
+    venue: The Jackson Laboratory
   - address: 196 Whitten Road, Augusta, ME
     contact: susan.mcclatchy@jax.orgBataille.Valerie@epa.gov
     country: US
