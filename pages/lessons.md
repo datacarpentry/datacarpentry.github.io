@@ -163,6 +163,20 @@ in late 2018.
     <td><a href="{{site.dc_github_site_url}}/cloud-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for cloud computing for genomics lesson"></a></td>
     <td>Bob Freeman, Darya Vanichkina, Kevin Buckley, Amanda Charbonneau</td>
   </tr>
+</table>
+ 
+#### Lessons in Development 
+
+<table class="table table-striped">
+<tr>
+    <th>Lesson</th>
+    <th>Site</th>
+    <th>Repository</th>
+    <th>Reference</th>
+    <th>Instructor Guide</th>
+    <th>Maintainer(s)</th>
+</tr>
+
   <tr>
     <td>Data Analysis and Visualization in R *alpha*</td>
     <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="Website for data analysis of genomics data in R"></a></td>
@@ -230,6 +244,7 @@ The Social Sciences workshop can be taught using R as the base language. Please 
 
 </table>
 
+#### Lessons in Development 
 
 <table class="table table-striped">
 <tr>
@@ -239,14 +254,6 @@ The Social Sciences workshop can be taught using R as the base language. Please 
     <th>Reference</th>
     <th>Instructor Guide</th>
     <th>Maintainer(s)</th>
-</tr>
-<tr>
-    <td>Lessons in Development</td>
-    <td><a href="http://www.datacarpentry.org/socialsci-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>TBA</td>
 </tr>
 <tr>
     <td>Data Analysis and Visualization with Python for Social Scientists *alpha*</td>
