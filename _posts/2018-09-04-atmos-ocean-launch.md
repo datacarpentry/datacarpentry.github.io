@@ -67,7 +67,7 @@ which is where you come in.
 If you're a qualified Carpentries instructor and would be interested in teaching the lessons
 (some experience with the netCDF file format and xarray Python library is useful),
 please get in touch with either [myself](https://drclimate.wordpress.com/who-is-dr-climate/)
-or [Francois Michonneau](https://twitter.com/fmic_) (Curriculum Development Lead for Data Carpentry).
+or [Francois Michonneau](mailto:francois@carpentries.org) (Curriculum Development Lead for Data Carpentry).
 You can also request a workshop at your institution by contacting us and we'll reach out to instructors.
 There is no fee for a pilot workshop, but you would need to cover travel expenses for instructors.
 I'd also be happy to hear any general feedback about the lesson materials
