@@ -13,7 +13,7 @@ authors: ["Damien Irving"]
 ---
 
 Back in late 2012, I was a couple of years into my first job out of college.
-My undergraduate studies had left me somewhat unprepared for the level of coding
+My undergraduate studies had left me somewhat underprepared for the coding
 associated with analyzing climate model data for a national science organization,
 so I was searching online for assistance with Python programming.
 I stumbled upon the website of an organization called Software Carpentry,
@@ -39,7 +39,8 @@ I wanted to cut out the middle step and run a workshop
 *in* the atmosphere and ocean science context.
 This idea of discipline (or data-type) specific workshops
 was the driving force behind the establishment of Data Carpentry,
-so with their assistance I've developed lesson materials for a complete one-day workshop:  
+so this year with their assistance I've developed lesson materials
+for a complete one-day workshop:  
 [https://carpentrieslab.github.io/python-aos-lesson](https://carpentrieslab.github.io/python-aos-lesson)
 
 The workshop centers around the task of writing a Python script
@@ -56,19 +57,19 @@ version control,
 defensive programming strategies and
 how to capture and record the provenance of the data files and figures that we produce. 
 
-I've run the workshop twice this year
-(at the annual AMOS conference and at Woods Hole Oceanographic Institution),
-updating the lesson materials based on feedback each time,
+I've run the workshop twice now
+(at the 2018 AMOS Conference in Sydney and at Woods Hole Oceanographic Institution last month),
 which means I've completed the alpha stage of the Data Carpentry
 [lesson development cycle](https://carpentries.github.io/curriculum-development/the-lesson-life-cycle.html).
-Before they can be adopted as the official lessons for atmosphere and ocean science,
-the beta development stage involves having people other than me teach.
+Moving from the alpha to beta stage
+involves having people other than me teach,
+so that's where you come in.
 If you're a qualified Carpentries instructor and would be interested in teaching the lessons
 (some experience with the netCDF file format and xarray Python library is useful),
-please [get in touch](https://drclimate.wordpress.com/who-is-dr-climate/).
-Conversely,
-you can request an atmosphere and ocean science beta pilot workshop at your institution
-using this [form](https://amy.software-carpentry.org/forms/dc/request/).
+please get in touch with either [myself](https://drclimate.wordpress.com/who-is-dr-climate/)
+or [Francois Michonneau](https://twitter.com/fmic_) (Curriculum Development Lead for Data Carpentry).
+You can also request a workshop at your institution by contacting us and we'll reach out to instructors.
+There is no fee for a pilot workshop, but you would need to cover travel expenses for instructors.
 I'd also be happy to hear any general feedback about the lesson materials
 at the associated GitHub issues page:  
 [https://github.com/carpentrieslab/python-aos-lesson](https://github.com/carpentrieslab/python-aos-lesson) 
