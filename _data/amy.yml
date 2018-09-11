@@ -4928,7 +4928,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
     ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180910T221505Z
+timestamp: 20180911T221543Z
 workshops:
 - &id002
   - address: ' '
@@ -8557,6 +8557,20 @@ workshops:
     - {name: DC}
     url: https://yeemey.github.io/2018-09-15-und-mbdh/
     venue: Missouri S&T Havener Center
+  - address: 607 Institute for Genomic Biology
+    contact: training@cse.illinois.edu
+    country: US
+    end: 2018-09-28
+    eventbrite_id: '48973441883'
+    humandate: Sep 27-28, 2018
+    latitude: 40.1047754
+    longitude: -88.2269122
+    slug: 2018-09-27-dc-illinois
+    start: 2018-09-27
+    tags:
+    - {name: DC}
+    url: https://swc-uiuc.github.io/2018-09-27-dc-illinois/
+    venue: University of Illinois
   - address: Norwich Research Park, Norwich, NR4 7UZ
     contact: training@earlham.ac.uk
     country: GB
