@@ -317,7 +317,7 @@ Join the [geospatial curriculum email list](https://carpentries.topicbox.com/gro
         <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
         <td>&nbsp;</td>
-        <td>Janani Selvaraj, Lachlan Deer, Juan Fung</td>        
+        <td>Lachlan Deer, Juan Fung</td>        
     </tr>
     <tr>
         <td>Introduction to Geospatial Raster and Vector Data with R</td>
