@@ -4926,9 +4926,9 @@ flags:
   airports: [ae, au, be, bj, br, ca, ch, cl, cn, co, cr, cz, de, dk, ee, es, et, fi,
     fr, gb, gr, hk, id, ie, il, in, it, jp, lt, lu, mu, mx, na, nl, 'no', nz, pk,
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
-  workshops: [au, be, ca, ch, de, et, fi, fr, gb, ie, in, it, ke, kr, nl, 'no', nz,
-    ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180911T221543Z
+  workshops: [au, be, ca, ch, de, et, fi, fr, ga, gb, ie, in, it, ke, kr, nl, 'no',
+    nz, ph, pl, pr, si, th, us, za, zw]
+timestamp: 20180912T164955Z
 workshops:
 - &id002
   - address: ' '
@@ -6855,6 +6855,20 @@ workshops:
     - {name: DC}
     url: https://fsulib.github.io/2017-06-29-fsu/
     venue: Florida State University
+  - address: Université des Sciences et Techniques de Masuku, Franceville
+    contact: ''
+    country: ga
+    end: 2017-07-08
+    eventbrite_id: ''
+    humandate: Jul 03-08, 2017
+    latitude: -1.6304546
+    longitude: 13.550041
+    slug: 2017-07-03-cab
+    start: 2017-07-03
+    tags:
+    - {name: DC}
+    url: https://software-carpentry.org/blog/2017/11/gabon-bioinformatics.html
+    venue: Université des Sciences et Techniques de Masuku
   - address: 1 University of Arkansas, Fayetteville, AR 72701
     contact: williams@cshl.edu
     country: us
@@ -7720,6 +7734,20 @@ workshops:
     - {name: DC}
     url: https://smithsonianworkshops.github.io/2018-03-07-serc/
     venue: Data Carpentry at SERC
+  - address: MAC Club, UCT Medical School, Anzio Road, Cape Town
+    contact: katrintirok@gmail.comkayleigh.lino@uct.ac.za
+    country: za
+    end: 2018-03-16
+    eventbrite_id: ''
+    humandate: Mar 15-16, 2018
+    latitude: -33.9499831
+    longitude: 18.4544602
+    slug: 2018-03-15-satRday
+    start: 2018-03-15
+    tags:
+    - {name: DC}
+    url: https://katrintirok.github.io/2018-03-15-satRday/
+    venue: satRday
   - address: 432 Newell Dr, Gainesville, FL 32603
     contact: ''
     country: us
@@ -8299,6 +8327,20 @@ workshops:
     - {name: DC}
     url: https://katrintirok.github.io/2018-07-10-UKZN-PMB/
     venue: UKZN, Bioresources Engineering
+  - address: TBC
+    contact: anelda.vdwalt@gmail.com
+    country: za
+    end: 2018-07-13
+    eventbrite_id: ''
+    humandate: Jul 11-13, 2018
+    latitude: -25.4365196
+    longitude: 30.9796137
+    slug: 2018-07-11-UMP
+    start: 2018-07-11
+    tags:
+    - {name: DC}
+    url: https://tenet-rccpii.github.io/2018-07-11-UMP/
+    venue: University of Mpumalanga
   - address: MADLab, Gerstein Science Information Centre, Room B112
     contact: m.bonsma@mail.utoronto.cauoftcoders@gmail.com
     country: ca
@@ -8442,6 +8484,21 @@ workshops:
     - {name: DC}
     url: https://btmoyers.github.io/2018-08-22-USDA/
     venue: USDA Long Term Agoecosystem Research Network
+  - address: 1 Cyclotron Road, Berkeley, CA 94720 Building 54 (Cafeteria), Room 130
+      (Perseverance Hall)
+    contact: rjhartmanbaker@lbl.govendsley@umich.edu
+    country: us
+    end: 2018-08-24
+    eventbrite_id: ''
+    humandate: Aug 23-24, 2018
+    latitude: 37.875625
+    longitude: -122.250481
+    slug: 2018-08-23-LBNL
+    start: 2018-08-23
+    tags:
+    - {name: DC}
+    url: https://arthur-e.github.io/2018-08-23-LBNL/
+    venue: Lawrence Berkeley National Laboratory
   - address: SSF-82-14E Union Square Training Room
     contact: ebecker@carpentries.org
     country: us
@@ -8470,6 +8527,20 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
     venue: Data Carpentry @ UW Madison
+  - address: Birchwood Hotel & Conference Centre, Johannesburg
+    contact: carpentryconnect-jhb-2018@googlegroups.com
+    country: za
+    end: 2018-09-05
+    eventbrite_id: ''
+    humandate: Sep 03-05, 2018
+    latitude: -26.175525
+    longitude: 28.2483343
+    slug: 2018-09-03-CarpentryConnect-JHB-Social-Sciences
+    start: 2018-09-03
+    tags:
+    - {name: DC}
+    url: https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/
+    venue: CarpentryConnect Johannesburg 2018 - Social Sciences Data Carpentry
   - address: Wollo University
     contact: mesfin.diro@aau.edu.et
     country: et
@@ -8484,12 +8555,11 @@ workshops:
     - {name: DC}
     url: https://mesfind.github.io/2018-09-03-DC-Wollo/
     venue: 'Wollo University: Data Carpentry Workshop'
-- &id001
   - address: Room T.007, T-Building (Enter the V-building near the main entrance,
       go straight ahead past the seal statue, it's behind the staircase), Antonie
       van Leeuwenhoeklaan 9, 3721 MA Bilthoven
     contact: dennis.schmitz (at) rivm.nl
-    country: NL
+    country: nl
     end: 2018-09-11
     eventbrite_id: ''
     humandate: Sep 10-11, 2018
@@ -8503,7 +8573,7 @@ workshops:
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
   - address: Bioinformatics Training Room 1540, 600 Main Street, Bar Harbor, Maine
     contact: susan.mcclatchy@jax.org
-    country: US
+    country: us
     end: 2018-09-11
     eventbrite_id: '48138148498'
     humandate: Sep 10-11, 2018
@@ -8515,6 +8585,7 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2018-09-10-jax/
     venue: The Jackson Laboratory
+- &id001
   - address: 196 Whitten Road, Augusta, ME
     contact: susan.mcclatchy@jax.orgBataille.Valerie@epa.gov
     country: US
@@ -8543,6 +8614,20 @@ workshops:
     - {name: DC}
     url: https://edcarp.github.io/2018-09-13-edinburgh/
     venue: The University of Edinburgh
+  - address: 651 W 35th St, Los Angeles, CA 90089
+    contact: timdennis@ucla.edukallen2@library.ucla.edu
+    country: US
+    end: 2018-09-15
+    eventbrite_id: '47639350580'
+    humandate: Sep 14-15, 2018
+    latitude: 34.0218002
+    longitude: -118.2828296
+    slug: 2018-08-28-usc
+    start: 2018-09-14
+    tags:
+    - {name: DC}
+    url: https://ucla-data-archive.github.io/2018-08-28-usc/
+    venue: USC
   - address: 1346 North Bishop Ave, Rolla, MO
     contact: aaron.bergstrom@email.und.edu
     country: US
