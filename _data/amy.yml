@@ -711,6 +711,7 @@ airports:
   - {name: Alix Keener, user: keener_alix}
   - {name: Scott Martin, user: martin_scott}
   - {name: Stephanie Miller, user: miller_stephanie}
+  - {name: TJ Nguyen, user: nguyen_tj}
   - {name: Marian Schmidt, user: schmidt_marian}
   - {name: Clara Louise Shaw, user: shaw_clara}
   - {name: Leigh Sheneman, user: sheneman_leigh}
@@ -4928,7 +4929,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, ga, gb, ie, in, it, ke, kr, nl, 'no',
     nz, ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180912T164955Z
+timestamp: 20180913T221549Z
 workshops:
 - &id002
   - address: ' '
@@ -8074,6 +8075,21 @@ workshops:
     - {name: DC}
     url: https://upendrak.github.io/2018-06-05-noble/
     venue: Noble Research Institute
+  - address: LG.07 Teaching Studio, David Hume Tower,  George Square, Edinburgh, EH8
+      9JX
+    contact: Jennifer.Daub@ed.ac.uk
+    country: gb
+    end: 2018-06-13
+    eventbrite_id: ''
+    humandate: Jun 12-13, 2018
+    latitude: 55.943198
+    longitude: -3.186577
+    slug: 2018-06-12-Edinburgh
+    start: 2018-06-12
+    tags:
+    - {name: DC}
+    url: https://ewallace.github.io/2018-06-12-Edinburgh/
+    venue: University of Edinburgh
   - address: Generaal Jacqueslaan 271, 1050 Brussels
     contact: paula.martinez@elixir-belgium.org
     country: be
@@ -8116,20 +8132,6 @@ workshops:
     - {name: DC}
     url: https://brownsarahm.github.io/2018-06-13-afog/
     venue: University of California, Berkeley School of information
-  - address: TBC
-    contact: Busisiwe.Mbanjwa@ump.ac.za
-    country: za
-    end: 2018-06-15
-    eventbrite_id: ''
-    humandate: Jun 13-15, 2018
-    latitude: -25.4365196
-    longitude: 30.9796137
-    slug: 2018-06-13-UMP
-    start: 2018-06-13
-    tags:
-    - {name: DC}
-    url: https://tenet-rccpii.github.io/2018-06-13-UMP/
-    venue: University of Mpumalanga
   - address: 11 Hoffman Street, Potchefstroom. 2520
     contact: martin.dreyer@nwu.ac.za
     country: za
@@ -8628,6 +8630,20 @@ workshops:
     - {name: DC}
     url: https://ucla-data-archive.github.io/2018-08-28-usc/
     venue: USC
+  - address: Debre-Markos University
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-19
+    eventbrite_id: ''
+    humandate: Sep 17-19, 2018
+    latitude: 10.33364
+    longitude: 37.741036
+    slug: 2018-09-17-DC-DMU
+    start: 2018-09-17
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-09-17-DC-DMU/
+    venue: 'Debre-Markos University: Data Carpentry Workshop'
   - address: 1346 North Bishop Ave, Rolla, MO
     contact: aaron.bergstrom@email.und.edu
     country: US
