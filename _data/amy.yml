@@ -4929,7 +4929,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, ga, gb, ie, in, it, ke, kr, nl, 'no',
     nz, ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180913T221549Z
+timestamp: 20180915T221616Z
 workshops:
 - &id002
   - address: ' '
@@ -8587,10 +8587,9 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2018-09-10-jax/
     venue: The Jackson Laboratory
-- &id001
   - address: 196 Whitten Road, Augusta, ME
     contact: susan.mcclatchy@jax.orgBataille.Valerie@epa.gov
-    country: US
+    country: us
     end: 2018-09-13
     eventbrite_id: '48706597745'
     humandate: Sep 12-13, 2018
@@ -8604,7 +8603,7 @@ workshops:
     venue: USGS New England Water Science Center
   - address: Teaching Studio LG.07, David Hume Tower, George Sq, EH8 9JX, Edinburgh
     contact: Jennifer.Daub@ed.ac.ukg.peru@epcc.ed.ac.uk
-    country: GB
+    country: gb
     end: 2018-09-14
     eventbrite_id: ''
     humandate: Sep 13-14, 2018
@@ -8616,6 +8615,7 @@ workshops:
     - {name: DC}
     url: https://edcarp.github.io/2018-09-13-edinburgh/
     venue: The University of Edinburgh
+- &id001
   - address: 651 W 35th St, Los Angeles, CA 90089
     contact: timdennis@ucla.edukallen2@library.ucla.edu
     country: US
