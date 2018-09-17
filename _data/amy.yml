@@ -3952,6 +3952,16 @@ badges:
   - {awarded: '2018-09-06', name: David Millman, user: millman_david}
   - {awarded: '2018-09-06', name: Andrew Reid, user: reid_andrew}
   - {awarded: '2018-09-06', name: Xiao Zhu, user: zhu_xiao}
+  - {awarded: '2018-09-17', name: Gautham Brahma Ponnaganti, user: ponnaganti_gautham-brahma}
+  - {awarded: '2018-09-17', name: Daniel Nemergut, user: nemergut_daniel}
+  - {awarded: '2018-09-17', name: Selcan Aydin, user: aydin_selcan}
+  - {awarded: '2018-09-17', name: Brian Moore, user: moore_brian}
+  - {awarded: '2018-09-17', name: Duy Pham, user: pham_duy}
+  - {awarded: '2018-09-17', name: Jules Fowler, user: fowler_julia}
+  - {awarded: '2018-09-17', name: Halle Burns, user: burns_halle}
+  - {awarded: '2018-09-17', name: Anna Childers, user: childers_anna}
+  - {awarded: '2018-09-17', name: Christopher Childers, user: childers_christopher}
+  - {awarded: '2018-09-17', name: Steven Schroeder, user: schroeder_steven}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4929,7 +4939,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, ga, gb, ie, in, it, ke, kr, nl, 'no',
     nz, ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180916T221626Z
+timestamp: 20180917T221719Z
 workshops:
 - &id002
   - address: ' '
@@ -8715,6 +8725,20 @@ workshops:
     - {name: DC}
     url: https://jaredabera.github.io/October-2018-08-12-MTU/
     venue: Mizan-Tepi University
+  - address: Room TBD - 1601 S. Martin L. King Jr. Blvd, Tallahassee, FL 32307
+    contact: marwahaha@berkeley.edu
+    country: US
+    end: 2018-10-12
+    eventbrite_id: ''
+    humandate: Oct 11-12, 2018
+    latitude: 30.421468
+    longitude: -84.28754
+    slug: 2018-10-11-FAMU
+    start: 2018-10-11
+    tags:
+    - {name: DC}
+    url: https://marwahaha.github.io/2018-10-11-FAMU/
+    venue: Florida A&M University
   - address: Room 202, PACCAR building (2001 Grimes Way), Pullman, WA
     contact: matthew.brousil@wsu.edu
     country: US
