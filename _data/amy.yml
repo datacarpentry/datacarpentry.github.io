@@ -203,6 +203,7 @@ airports:
   name: Birmingham AL
 - country: gb
   instructors:
+  - {name: Simon Branford, user: branford_simon}
   - {name: Matthew Brett, user: brett_matthew}
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
   - {name: Andris Jankevics, user: jankevics_andris}
@@ -1605,6 +1606,7 @@ airports:
   - {name: Mark Laufersweiler, user: laufersweiler_mark}
   - {name: Braden Owsley, user: owsley_braden}
   - {name: Tyler Drew Pearson, user: pearson_tyler}
+  - {name: Gautham Brahma Ponnaganti, user: ponnaganti_gautham-brahma}
   - {name: Sarah Pugachev, user: clayton_sarah}
   - {name: Horst Severini, user: severini_horst}
   - {name: Brent Shambaugh, user: shambaugh_brent}
@@ -4939,7 +4941,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, ga, gb, ie, in, it, ke, kr, nl, 'no',
     nz, ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180917T221719Z
+timestamp: 20180918T211623Z
 workshops:
 - &id002
   - address: ' '
@@ -8690,7 +8692,7 @@ workshops:
     humandate: Oct 02-03, 2018
     latitude: 52.621741
     longitude: 1.218987
-    slug: 2018-10-02-earlham_institute
+    slug: 2018-10-02-DC
     start: 2018-10-02
     tags:
     - {name: DC}
