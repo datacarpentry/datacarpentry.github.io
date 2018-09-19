@@ -182,6 +182,7 @@ airports:
   instructors:
   - {name: Daniel M Gatti, user: gatti_dan}
   - {name: Sue McClatchy, user: mcclatchy_susan}
+  - {name: Duy Tran Pham, user: pham_duy}
   - {name: Narayanan Raghupathy, user: raghupathy_narayanan}
   - {name: Xiao Xiao, user: xiao_xiao}
   latitude: 44.8073997
@@ -252,7 +253,6 @@ airports:
   - {name: Scott Burns, user: burns_scott}
   - {name: Bradford Condon, user: condon_bradford}
   - {name: Christopher Fonnesbeck, user: fonnesbeck_chris}
-  - {name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
   - {name: Jennifer Thompson, user: thompson_jennifer}
   latitude: 36.131312
   longitude: -86.66945
@@ -400,6 +400,7 @@ airports:
   name: Buffalo Niagara International Airport
 - country: us
   instructors:
+  - {name: Gail Clement, user: gail_clement}
   - {name: Tommy Keswick, user: keswick_thomas}
   - {name: Laura Smart, user: smart_laura}
   latitude: 34.2006989
@@ -598,6 +599,7 @@ airports:
   - {name: Vanessa L Gonzalez, user: gonzalez_vanessa}
   - {name: Anuj Guruacharya, user: guruacharya_anuj}
   - {name: Jonathan Guyer, user: guyer_jonathan}
+  - {name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
   - {name: Daniel W Kerchner, user: kerchner_daniel}
   - {name: Mauro Luciano Lepore, user: lepore_mauro}
   - {name: Denise Liberton, user: liberton_denise}
@@ -1031,6 +1033,7 @@ airports:
   name: Houston, TX
 - country: us
   instructors:
+  - {name: Gladys K Andino, user: andino_gladys-k}
   - {name: Heather Coates, user: coates_heather}
   - {name: Lev Gorenstein, user: gorenstein_lev}
   - {name: Michael Hansen, user: hansen_m}
@@ -1139,7 +1142,6 @@ airports:
   instructors:
   - {name: Dawn Childress, user: childress_dawn}
   - {name: Nicholas Cifuentes-Goodbody, user: cifuentes-goodbody_nicholas}
-  - {name: Gail Clement, user: gail_clement}
   - {name: Stephen Davison, user: davison_stephen}
   - {name: Tim Dennis, user: dennis_tim}
   - {name: Michael D Lee, user: lee_mike}
@@ -2356,6 +2358,7 @@ airports:
   instructors:
   - {name: Cam Macdonell, user: macdonell_cam}
   - {name: John Simpson, user: simpson_john}
+  - {name: Abigail Sparling, user: sparling_abigail}
   - {name: Vicky Varga, user: varga_vicky}
   - {name: Chris Want, user: want_chris}
   latitude: 53.309722
@@ -3958,7 +3961,7 @@ badges:
   - {awarded: '2018-09-17', name: Daniel Nemergut, user: nemergut_daniel}
   - {awarded: '2018-09-17', name: Selcan Aydin, user: aydin_selcan}
   - {awarded: '2018-09-17', name: Brian Moore, user: moore_brian}
-  - {awarded: '2018-09-17', name: Duy Pham, user: pham_duy}
+  - {awarded: '2018-09-17', name: Duy Tran Pham, user: pham_duy}
   - {awarded: '2018-09-17', name: Jules Fowler, user: fowler_julia}
   - {awarded: '2018-09-17', name: Halle Burns, user: burns_halle}
   - {awarded: '2018-09-17', name: Anna Childers, user: childers_anna}
@@ -4941,7 +4944,7 @@ flags:
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [au, be, ca, ch, de, et, fi, fr, ga, gb, ie, in, it, ke, kr, nl, 'no',
     nz, ph, pl, pr, si, th, us, za, zw]
-timestamp: 20180918T211623Z
+timestamp: 20180919T221743Z
 workshops:
 - &id002
   - address: ' '
@@ -8641,6 +8644,20 @@ workshops:
     - {name: DC}
     url: https://ucla-data-archive.github.io/2018-08-28-usc/
     venue: USC
+  - address: 1346 North Bishop Ave, Rolla, MO
+    contact: aaron.bergstrom@email.und.edu
+    country: us
+    end: 2018-09-18
+    eventbrite_id: ''
+    humandate: Sep 17-18, 2018
+    latitude: 37.954755
+    longitude: -91.776476
+    slug: 2018-09-17-und-mbdh
+    start: 2018-09-17
+    tags:
+    - {name: DC}
+    url: https://yeemey.github.io/2018-09-15-und-mbdh/
+    venue: Missouri S&T Havener Center
 - &id001
   - address: Debre-Markos University
     contact: mesfin.diro@aau.edu.et
@@ -8656,20 +8673,20 @@ workshops:
     - {name: DC}
     url: https://mesfind.github.io/2018-09-17-DC-DMU/
     venue: 'Debre-Markos University: Data Carpentry Workshop'
-  - address: 1346 North Bishop Ave, Rolla, MO
-    contact: aaron.bergstrom@email.und.edu
-    country: US
-    end: 2018-09-18
+  - address: Gondar
+    contact: dagim.yoseph@aau.edu.et alehegn12@gmail.com mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-28
     eventbrite_id: ''
-    humandate: Sep 17-18, 2018
-    latitude: 37.954755
-    longitude: -91.776476
-    slug: 2018-09-17-und-mbdh
-    start: 2018-09-17
+    humandate: Sep 26-28, 2018
+    latitude: 12.61023
+    longitude: 37.468971
+    slug: 2018-09-26-UOG
+    start: 2018-09-26
     tags:
     - {name: DC}
-    url: https://yeemey.github.io/2018-09-15-und-mbdh/
-    venue: Missouri S&T Havener Center
+    url: https://dagimy.github.io/2018-09-26-UOG/
+    venue: University of Gondar
   - address: 607 Institute for Genomic Biology
     contact: training@cse.illinois.edu
     country: US
