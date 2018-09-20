@@ -1,0 +1,632 @@
+[
+  {
+    "address": "Debre-Markos University",
+    "country": "ET",
+    "end": "2018-09-21",
+    "eventbrite_id": "",
+    "humandate": "Sep 19-21, 2018",
+    "latitude": 10.33364,
+    "longitude": 37.741036,
+    "slug": "2018-09-20-SWC-DMU",
+    "start": "2018-09-19",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://mesfind.github.io/2018-09-20-SWC-DMU/",
+    "venue": "Debre-Markos University: Software Carpentry Workshop"
+  },
+  {
+    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
+    "country": "US",
+    "end": "2018-09-21",
+    "eventbrite_id": "",
+    "humandate": "Sep 20-21, 2018",
+    "latitude": 41.791836,
+    "longitude": -87.602679,
+    "slug": "2018-09-20-chicago",
+    "start": "2018-09-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://crerecombinase.github.io/2018-09-20-chicago/",
+    "venue": "University of Chicago"
+  },
+  {
+    "address": "1030 National Center for Supercomputing Applications",
+    "country": "US",
+    "end": "2018-09-21",
+    "eventbrite_id": "48811116363",
+    "humandate": "Sep 20-21, 2018",
+    "latitude": 40.1149832,
+    "longitude": -88.2271851,
+    "slug": "2018-09-20-illinois",
+    "start": "2018-09-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2018-09-20-illinois/",
+    "venue": "University of Illinois"
+  },
+  {
+    "address": "Simplot Ball Room, Student Union Building, Boise State University, 1910 University Dr., Boise, ID 83725",
+    "country": "US",
+    "end": "2018-09-21",
+    "eventbrite_id": "",
+    "humandate": "Sep 21-21, 2018",
+    "latitude": 43.604172,
+    "longitude": -116.209994,
+    "slug": "2018-09-21-sc",
+    "start": "2018-09-21",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://bsurc.github.io/2018-09-21-sc/",
+    "venue": "Boise State University"
+  },
+  {
+    "address": "UTA campus, Main Library, 6th floor",
+    "country": "US",
+    "end": "2018-09-23",
+    "eventbrite_id": "49450732472",
+    "humandate": "Sep 22-23, 2018",
+    "latitude": 32.729678,
+    "longitude": -97.112926,
+    "slug": "2018-09-22-UTA",
+    "start": "2018-09-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://annawilliford.github.io/2018-09-22-UTA/",
+    "venue": "University of Texas at Arlington"
+  },
+  {
+    "address": "100 Woodruff Cir Suite 231, Rooms 120 and 130, Atlanta, GA 30322",
+    "country": "US",
+    "end": "2018-09-23",
+    "eventbrite_id": "",
+    "humandate": "Sep 22-23, 2018",
+    "latitude": 33.793181,
+    "longitude": -84.321305,
+    "slug": "2018-09-22-emory",
+    "start": "2018-09-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://data-science-for-scientists-atl.github.io/2018-09-22-emory/",
+    "venue": "Emory University"
+  },
+  {
+    "address": "Seminar Room, Institute of Applied Biosciences (INAB), Centre for Research and Technology Hellas (CERTH), 6th km Charilaou-Thermis rd, Thessaloniki, Greece",
+    "country": "GR",
+    "end": "2018-09-25",
+    "eventbrite_id": "45371076110",
+    "humandate": "Sep 24-25, 2018",
+    "latitude": 40.56797,
+    "longitude": 22.997544,
+    "slug": "2018-09-24-CERTH",
+    "start": "2018-09-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fpsom.github.io/2018-09-24-CERTH/",
+    "venue": "INAB|CERTH"
+  },
+  {
+    "address": "Glagoljaška 8, SI-6000 Koper",
+    "country": "SI",
+    "end": "2018-09-25",
+    "eventbrite_id": "",
+    "humandate": "Sep 24-25, 2018",
+    "latitude": 45.547969,
+    "longitude": 13.729504,
+    "slug": "2018-09-24-koper",
+    "start": "2018-09-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://slel.github.io/2018-09-24-koper/",
+    "venue": "FAMNIT, University of Primorska"
+  },
+  {
+    "address": "Bibliotek for humaniora, Haakon Sheteligs plass 7. Kursrom 121",
+    "country": "NO",
+    "end": "2018-09-26",
+    "eventbrite_id": "",
+    "humandate": "Sep 25-26, 2018",
+    "latitude": 60.38783,
+    "longitude": 5.31968,
+    "slug": "2018-09-25-Bergen",
+    "start": "2018-09-25",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://scriptotek.github.io/2018-09-25-Bergen/",
+    "venue": "Library Carpentry @ University of Bergen"
+  },
+  {
+    "address": "Room D3, Physics Building, Gower Street London WC1E 6BT, UCL, London",
+    "country": "GB",
+    "end": "2018-09-27",
+    "eventbrite_id": "",
+    "humandate": "Sep 26-27, 2018",
+    "latitude": 51.52528389,
+    "longitude": 0.133528483,
+    "slug": "2018-09-26-UCL_software_carpentry",
+    "start": "2018-09-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "http://rits.github-pages.ucl.ac.uk/2018-09-26-UCL_software_carpentry/",
+    "venue": "UCL"
+  },
+  {
+    "address": "Gondar",
+    "country": "ET",
+    "end": "2018-09-28",
+    "eventbrite_id": "",
+    "humandate": "Sep 26-28, 2018",
+    "latitude": 12.61023,
+    "longitude": 37.468971,
+    "slug": "2018-09-26-UOG",
+    "start": "2018-09-26",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://dagimy.github.io/2018-09-26-UOG/",
+    "venue": "University of Gondar"
+  },
+  {
+    "address": "Innovative Learning Studio, Renne Library, Bozeman, MT 59717",
+    "country": "US",
+    "end": "2018-10-17",
+    "eventbrite_id": "",
+    "humandate": "Sep 26-Oct 17, 2018",
+    "latitude": 45.666695,
+    "longitude": -111.048817,
+    "slug": "2018-09-26-montana_state",
+    "start": "2018-09-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://msu-carpentries.github.io/2018-09-26-montana_state/",
+    "venue": "Montana State University"
+  },
+  {
+    "address": "1709 New York Avenue NW, Washington, DC 20006",
+    "country": "US",
+    "end": "2018-09-28",
+    "eventbrite_id": "",
+    "humandate": "Sep 27-28, 2018",
+    "latitude": 38.896676,
+    "longitude": -77.040454,
+    "slug": "2018-09-27-FRB",
+    "start": "2018-09-27",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://primerano.github.io/2018-09-27-FRB/",
+    "venue": "Federal Reserve Board"
+  },
+  {
+    "address": "607 Institute for Genomic Biology",
+    "country": "US",
+    "end": "2018-09-28",
+    "eventbrite_id": "48973441883",
+    "humandate": "Sep 27-28, 2018",
+    "latitude": 40.1047754,
+    "longitude": -88.2269122,
+    "slug": "2018-09-27-dc-illinois",
+    "start": "2018-09-27",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2018-09-27-dc-illinois/",
+    "venue": "University of Illinois"
+  },
+  {
+    "address": "TBD",
+    "country": "US",
+    "end": "2018-09-30",
+    "eventbrite_id": "",
+    "humandate": "Sep 29-30, 2018",
+    "latitude": 27.524951,
+    "longitude": -97.882441,
+    "slug": "2018-09-29-tamu-kingsville",
+    "start": "2018-09-29",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kokbent.github.io/2018-09-29-tamu-kingsville/",
+    "venue": "Texas A&M University-Kingsville"
+  },
+  {
+    "address": "Norwich Research Park, Norwich, NR4 7UZ",
+    "country": "GB",
+    "end": "2018-10-03",
+    "eventbrite_id": "",
+    "humandate": "Oct 02-03, 2018",
+    "latitude": 52.621741,
+    "longitude": 1.218987,
+    "slug": "2018-10-02-DC",
+    "start": "2018-10-02",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tgac.github.io/2018-10-02-DC/",
+    "venue": "Earlham Institute"
+  },
+  {
+    "address": "Rooms B207 A+B, Building B, 37 Sinnathamby Boulevard, Springfield Central QLD 4300",
+    "country": "AU",
+    "end": "2018-10-03",
+    "eventbrite_id": "49929487441",
+    "humandate": "Oct 02-03, 2018",
+    "latitude": -27.68401,
+    "longitude": 152.907227,
+    "slug": "2018-10-02-usq",
+    "start": "2018-10-02",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fgacenga.github.io/2018-10-02-usq/",
+    "venue": "University of Southern Queensland"
+  },
+  {
+    "address": "777 Old Sawmill River Rd, Tarrytown, NY",
+    "country": "US",
+    "end": "2018-10-05",
+    "eventbrite_id": "",
+    "humandate": "Oct 04-05, 2018",
+    "latitude": 41.07882,
+    "longitude": -73.82248,
+    "slug": "2018-10-04-Regeneron",
+    "start": "2018-10-04",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://mckays630.github.io/2018-10-04-Regeneron/",
+    "venue": "Sotware Carpentry at Regeneron"
+  },
+  {
+    "address": "Mission Hall, 550 16th Street, San Francisco, Rm 1406",
+    "country": "US",
+    "end": "2018-10-06",
+    "eventbrite_id": "49109706454",
+    "humandate": "Oct 05-06, 2018",
+    "latitude": 37.767411,
+    "longitude": -122.390344,
+    "slug": "2018-10-05-UCSF-Python",
+    "start": "2018-10-05",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://gboushey.github.io/2018-10-05-UCSF-Python/",
+    "venue": "University of California, San Francisco"
+  },
+  {
+    "address": "Mission Hall, 550 16th Street, San Francisco, Rm 1407",
+    "country": "US",
+    "end": "2018-10-06",
+    "eventbrite_id": "49109706454",
+    "humandate": "Oct 05-06, 2018",
+    "latitude": 37.76755,
+    "longitude": -122.39038,
+    "slug": "2018-10-05-UCSF-R",
+    "start": "2018-10-05",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kjlquist.github.io/2018-10-05-UCSF-R/",
+    "venue": "UCSF"
+  },
+  {
+    "address": "FT 216, Faculty of Technology, CEPT University, Kasturbhai Lalbhai Campus, University Road, Navrangpura, Ahmedabad-380009 Gujarat, India",
+    "country": "IN",
+    "end": "2018-10-07",
+    "eventbrite_id": "",
+    "humandate": "Oct 06-07, 2018",
+    "latitude": 23.037678,
+    "longitude": 72.549742,
+    "slug": "2018-10-06-CEPT",
+    "start": "2018-10-06",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://shailygandhi.github.io/2018-10-06-CEPT/",
+    "venue": "Faculty of Technology, CEPT University"
+  },
+  {
+    "address": "Boettcher Room, Arthur Lakes Library, 1400 Illinois St., Golden, CO 80401",
+    "country": "US",
+    "end": "2018-10-07",
+    "eventbrite_id": "50243528747",
+    "humandate": "Oct 06-07, 2018",
+    "latitude": 39.751463,
+    "longitude": -105.223285,
+    "slug": "2018-10-06-coloradomines",
+    "start": "2018-10-06",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://minescarpentries.github.io/2018-10-06-coloradomines/",
+    "venue": "Colorado School of Mines - Software Carpentry Workshop"
+  },
+  {
+    "address": "Mizan-Teferi, Ethiopia",
+    "country": "ET",
+    "end": "2018-10-12",
+    "eventbrite_id": "",
+    "humandate": "Oct 08-12, 2018",
+    "latitude": 6.993647,
+    "longitude": 35.582199,
+    "slug": "2018-10-08-MTU",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://jaredabera.github.io/October-2018-08-12-MTU/",
+    "venue": "Mizan-Tepi University"
+  },
+  {
+    "address": "Institute for Advanced Computational Science, Stony Brook, NY",
+    "country": "US",
+    "end": "2018-10-09",
+    "eventbrite_id": "",
+    "humandate": "Oct 08-09, 2018",
+    "latitude": 40.911813,
+    "longitude": -73.120865,
+    "slug": "2018-10-08-Stonybrook-IACS-Python",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://dwinston.github.io/2018-10-08-Stonybrook-IACS-Python/",
+    "venue": "Stony Brook University"
+  },
+  {
+    "address": "Matheson Library Teaching Room 2, Clayton Campus",
+    "country": "AU",
+    "end": "2018-10-08",
+    "eventbrite_id": "",
+    "humandate": "Oct 08-08, 2018",
+    "latitude": -37.91048,
+    "longitude": 145.137217,
+    "slug": "2018-10-08-monash-lc",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://weaverbel.github.io/2018-10-08-monash-lc/",
+    "venue": "Monash University Library"
+  },
+  {
+    "address": "IC Classroom, Green Library, 557 Escondido Mall, Stanford, CA 94305-6063",
+    "country": "US",
+    "end": "2018-10-11",
+    "eventbrite_id": "50283060989",
+    "humandate": "Oct 10-11, 2018",
+    "latitude": 37.427065,
+    "longitude": -122.16714,
+    "slug": "2018-10-10-sul",
+    "start": "2018-10-10",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kimdurante.github.io/2018-10-10-sul/",
+    "venue": "Stanford University"
+  },
+  {
+    "address": "Room TBD - 1601 S. Martin L. King Jr. Blvd, Tallahassee, FL 32307",
+    "country": "US",
+    "end": "2018-10-12",
+    "eventbrite_id": "",
+    "humandate": "Oct 11-12, 2018",
+    "latitude": 30.421468,
+    "longitude": -84.28754,
+    "slug": "2018-10-11-FAMU",
+    "start": "2018-10-11",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://marwahaha.github.io/2018-10-11-FAMU/",
+    "venue": "Florida A&M University"
+  },
+  {
+    "address": "Meyerhofstrasse 1, 69117 Heidelberg",
+    "country": "DE",
+    "end": "2018-10-18",
+    "eventbrite_id": "",
+    "humandate": "Oct 16-18, 2018",
+    "latitude": 49.38406,
+    "longitude": 8.710757,
+    "slug": "2018-10-16-heidelberg",
+    "start": "2018-10-16",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://tobyhodges.github.io/2018-10-16-heidelberg/",
+    "venue": "European Molecular Biology Laboratory"
+  },
+  {
+    "address": "UNC Library, Research Hub, Davis Library, 208 Raleigh St, Chapel Hill, NC",
+    "country": "US",
+    "end": "2018-10-19",
+    "eventbrite_id": "",
+    "humandate": "Oct 18-19, 2018",
+    "latitude": 35.911048,
+    "longitude": -79.0502437,
+    "slug": "2018-10-18-UNC",
+    "start": "2018-10-18",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://libcce.github.io/2018-10-18-UNC/",
+    "venue": "UNC Library-SILS"
+  },
+  {
+    "address": "Woods Hole, MA 02543, USA",
+    "country": "US",
+    "end": "2018-10-23",
+    "eventbrite_id": "",
+    "humandate": "Oct 22-23, 2018",
+    "latitude": 41.524235,
+    "longitude": -70.671161,
+    "slug": "2018-10-22-whoi",
+    "start": "2018-10-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://jules32.github.io/2018-10-22-whoi/",
+    "venue": "Woods Hole Oceanographic Institution"
+  },
+  {
+    "address": "Room: Vergaderzaal B0.1, Campus Coupure, Coupure Links 653, 9000 Gent, Belgium",
+    "country": "BE",
+    "end": "2018-10-25",
+    "eventbrite_id": "",
+    "humandate": "Oct 24-25, 2018",
+    "latitude": 51.052779,
+    "longitude": 3.708959,
+    "slug": "2018-10-24-ugent",
+    "start": "2018-10-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://orchid00.github.io/2018-10-24-ugent/",
+    "venue": "University of Ghent"
+  },
+  {
+    "address": "Old Dominion University, Perry Library Learning Commons, Conference Room 1310-1311",
+    "country": "US",
+    "end": "2018-10-26",
+    "eventbrite_id": "",
+    "humandate": "Oct 25-26, 2018",
+    "latitude": 36.884672,
+    "longitude": -76.300612,
+    "slug": "2018-10-25-odu",
+    "start": "2018-10-25",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://rbavery.github.io/2018-10-25-odu/",
+    "venue": "Old Dominion University"
+  },
+  {
+    "address": "Room 202, PACCAR building (2001 Grimes Way), Pullman, WA",
+    "country": "US",
+    "end": "2018-10-26",
+    "eventbrite_id": "",
+    "humandate": "Oct 25-26, 2018",
+    "latitude": 46.7295857,
+    "longitude": -117.1545807,
+    "slug": "2018-10-25-wsu",
+    "start": "2018-10-25",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://mbrousil.github.io/2018-10-25-wsu/",
+    "venue": "Washington State University"
+  },
+  {
+    "address": "Nicolas Cabrera 13, Madrid, Spain",
+    "country": "ES",
+    "end": "2018-11-29",
+    "eventbrite_id": "48796912880",
+    "humandate": "Nov 28-29, 2018",
+    "latitude": 40.549532,
+    "longitude": -3.687608,
+    "slug": "2018-11-28-cftmat",
+    "start": "2018-11-28",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://adgdt.github.io/2018-11-28-cftmat/",
+    "venue": "Centro de Física Teórica y Matemáticas"
+  },
+  {
+    "address": "Norwich Research Park, Norwich, NR4 7UZ",
+    "country": "GB",
+    "end": "2019-01-23",
+    "eventbrite_id": "",
+    "humandate": "Jan 22-23, 2019",
+    "latitude": 52.621741,
+    "longitude": 1.218987,
+    "slug": "2019-01-23-SWC",
+    "start": "2019-01-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://tgac.github.io/2019-01-23-SWC/",
+    "venue": "Earlham Institute"
+  }
+]
