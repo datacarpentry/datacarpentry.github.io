@@ -15,9 +15,12 @@ addons:
       - python3-requests
       - python3-yaml
 
-install: gem install yaml-lint
+install:
+  - gem install yaml-lint
+  - pip3 install --user --upgrade pip && pip install --user yq
 
-before_script: chmod +x amy_add.sh
+before_script:
+  - chmod +x amy_add.sh
 
 script:
   - yaml-lint -q -n -i  $(find _posts -regex ".*.md\|.*html" )

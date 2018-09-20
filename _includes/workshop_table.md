@@ -1,5 +1,5 @@
 <table class="table table-striped workshops">
-{% for w in site.data.amy.workshops_current  %}
+{% for w in site.data.amy  %}
 	<tr>
 	<td>
 		<img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
