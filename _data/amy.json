@@ -54,6 +54,24 @@
     "venue": "University of Illinois"
   },
   {
+    "address": "Gleueler Straße 60, 50931 Köln",
+    "country": "DE",
+    "end": "2018-09-24",
+    "eventbrite_id": "",
+    "humandate": "Sep 21-24, 2018",
+    "latitude": 50.924681,
+    "longitude": 50.924681,
+    "slug": "2018-09-21-Library_Carpentry_Cologne",
+    "start": "2018-09-21",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
+    "venue": "ZB MED"
+  },
+  {
     "address": "Simplot Ball Room, Student Union Building, Boise State University, 1910 University Dr., Boise, ID 83725",
     "country": "US",
     "end": "2018-09-21",
@@ -124,6 +142,24 @@
     ],
     "url": "https://fpsom.github.io/2018-09-24-CERTH/",
     "venue": "INAB|CERTH"
+  },
+  {
+    "address": "Huxley 340 and 341, South Kensington Campus, Imperial College London, SW7 2AZ",
+    "country": "GB",
+    "end": "2018-09-26",
+    "eventbrite_id": "",
+    "humandate": "Sep 24-26, 2018",
+    "latitude": 51.4988,
+    "longitude": -0.174877,
+    "slug": "2018-09-24-Imperial",
+    "start": "2018-09-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kmichali.github.io/2018-09-24-Imperial/",
+    "venue": "Imperial College London"
   },
   {
     "address": "Glagoljaška 8, SI-6000 Koper",
@@ -270,6 +306,42 @@
     "venue": "Texas A&M University-Kingsville"
   },
   {
+    "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
+    "country": "US",
+    "end": "2018-10-02",
+    "eventbrite_id": "49312954374",
+    "humandate": "Oct 01-02, 2018",
+    "latitude": 47.606209,
+    "longitude": -122.332071,
+    "slug": "2018-10-01-UW-dc",
+    "start": "2018-10-01",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://uwescience.github.io/2018-10-01-UW-dc/",
+    "venue": "The University of Washington eScience Institute"
+  },
+  {
+    "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
+    "country": "US",
+    "end": "2018-10-04",
+    "eventbrite_id": "49876638368",
+    "humandate": "Oct 01-04, 2018",
+    "latitude": 47.606209,
+    "longitude": -122.332071,
+    "slug": "2018-10-01-UW-swc",
+    "start": "2018-10-01",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uwescience.github.io/2018-10-01-UW-swc/",
+    "venue": "The University of Washington eScience Institute"
+  },
+  {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
     "country": "GB",
     "end": "2018-10-03",
@@ -394,6 +466,24 @@
     ],
     "url": "https://minescarpentries.github.io/2018-10-06-coloradomines/",
     "venue": "Colorado School of Mines - Software Carpentry Workshop"
+  },
+  {
+    "address": "G40_4.112 Griffith Health Centre, Seminar Room",
+    "country": "AU",
+    "end": "2018-10-10",
+    "eventbrite_id": "",
+    "humandate": "Oct 08-10, 2018",
+    "latitude": -27.960345,
+    "longitude": 153.378868,
+    "slug": "2018-10-08-GriffithUni-Python",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://bio-swc-bne.github.io/2018-10-08-GriffithUni-Python/",
+    "venue": "Griffith University"
   },
   {
     "address": "Mizan-Teferi, Ethiopia",
@@ -522,6 +612,24 @@
     "venue": "UNC Library-SILS"
   },
   {
+    "address": "FIXME",
+    "country": "US",
+    "end": "2018-10-23",
+    "eventbrite_id": "",
+    "humandate": "Oct 22-23, 2018",
+    "latitude": 40.92569,
+    "longitude": -73.141129,
+    "slug": "2018-10-22-Stonybrook-IACS-R",
+    "start": "2018-10-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://jjborrelli.github.io/2018-10-22-Stonybrook-IACS-R/",
+    "venue": "Stonybrook"
+  },
+  {
     "address": "Woods Hole, MA 02543, USA",
     "country": "US",
     "end": "2018-10-23",
@@ -538,6 +646,24 @@
     ],
     "url": "https://jules32.github.io/2018-10-22-whoi/",
     "venue": "Woods Hole Oceanographic Institution"
+  },
+  {
+    "address": "Rockefeller Library, 10 Prospect Street, Providence, RI 02912",
+    "country": "US",
+    "end": "2018-10-23",
+    "eventbrite_id": "48562683293",
+    "humandate": "Oct 22-23, 2018",
+    "latitude": 41.825748,
+    "longitude": -71.405109,
+    "slug": "2018-10-22-yale",
+    "start": "2018-10-22",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2018-10-22-NEASIST-Brown/",
+    "venue": "Brown University Library"
   },
   {
     "address": "Room: Vergaderzaal B0.1, Campus Coupure, Coupure Links 653, 9000 Gent, Belgium",
@@ -592,6 +718,24 @@
     ],
     "url": "https://mbrousil.github.io/2018-10-25-wsu/",
     "venue": "Washington State University"
+  },
+  {
+    "address": "Tisch Library, Room 302",
+    "country": "US",
+    "end": "2018-11-10",
+    "eventbrite_id": "50143390230",
+    "humandate": "Nov 09-10, 2018",
+    "latitude": 42.406172,
+    "longitude": -71.11884,
+    "slug": "2018-11-09-tufts",
+    "start": "2018-11-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2018-11-09-tufts/",
+    "venue": "Tufts University"
   },
   {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
