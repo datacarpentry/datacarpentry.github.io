@@ -1,59 +1,5 @@
 [
   {
-    "address": "Debre-Markos University",
-    "country": "ET",
-    "end": "2018-09-21",
-    "eventbrite_id": "",
-    "humandate": "Sep 19-21, 2018",
-    "latitude": 10.33364,
-    "longitude": 37.741036,
-    "slug": "2018-09-20-SWC-DMU",
-    "start": "2018-09-19",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://mesfind.github.io/2018-09-20-SWC-DMU/",
-    "venue": "Debre-Markos University: Software Carpentry Workshop"
-  },
-  {
-    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
-    "country": "US",
-    "end": "2018-09-21",
-    "eventbrite_id": "",
-    "humandate": "Sep 20-21, 2018",
-    "latitude": 41.791836,
-    "longitude": -87.602679,
-    "slug": "2018-09-20-chicago",
-    "start": "2018-09-20",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://crerecombinase.github.io/2018-09-20-chicago/",
-    "venue": "University of Chicago"
-  },
-  {
-    "address": "1030 National Center for Supercomputing Applications",
-    "country": "US",
-    "end": "2018-09-21",
-    "eventbrite_id": "48811116363",
-    "humandate": "Sep 20-21, 2018",
-    "latitude": 40.1149832,
-    "longitude": -88.2271851,
-    "slug": "2018-09-20-illinois",
-    "start": "2018-09-20",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://swc-uiuc.github.io/2018-09-20-illinois/",
-    "venue": "University of Illinois"
-  },
-  {
     "address": "Gleueler Straße 60, 50931 Köln",
     "country": "DE",
     "end": "2018-09-24",
@@ -70,24 +16,6 @@
     ],
     "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
     "venue": "ZB MED"
-  },
-  {
-    "address": "Simplot Ball Room, Student Union Building, Boise State University, 1910 University Dr., Boise, ID 83725",
-    "country": "US",
-    "end": "2018-09-21",
-    "eventbrite_id": "",
-    "humandate": "Sep 21-21, 2018",
-    "latitude": 43.604172,
-    "longitude": -116.209994,
-    "slug": "2018-09-21-sc",
-    "start": "2018-09-21",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://bsurc.github.io/2018-09-21-sc/",
-    "venue": "Boise State University"
   },
   {
     "address": "UTA campus, Main Library, 6th floor",
