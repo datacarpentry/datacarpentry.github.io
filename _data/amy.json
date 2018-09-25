@@ -1,59 +1,5 @@
 [
   {
-    "address": "Gleueler Straße 60, 50931 Köln",
-    "country": "DE",
-    "end": "2018-09-24",
-    "eventbrite_id": "",
-    "humandate": "Sep 21-24, 2018",
-    "latitude": 50.924681,
-    "longitude": 50.924681,
-    "slug": "2018-09-21-Library_Carpentry_Cologne",
-    "start": "2018-09-21",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
-    "venue": "ZB MED"
-  },
-  {
-    "address": "UTA campus, Main Library, 6th floor",
-    "country": "US",
-    "end": "2018-09-23",
-    "eventbrite_id": "49450732472",
-    "humandate": "Sep 22-23, 2018",
-    "latitude": 32.729678,
-    "longitude": -97.112926,
-    "slug": "2018-09-22-UTA",
-    "start": "2018-09-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://annawilliford.github.io/2018-09-22-UTA/",
-    "venue": "University of Texas at Arlington"
-  },
-  {
-    "address": "100 Woodruff Cir Suite 231, Rooms 120 and 130, Atlanta, GA 30322",
-    "country": "US",
-    "end": "2018-09-23",
-    "eventbrite_id": "",
-    "humandate": "Sep 22-23, 2018",
-    "latitude": 33.793181,
-    "longitude": -84.321305,
-    "slug": "2018-09-22-emory",
-    "start": "2018-09-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://data-science-for-scientists-atl.github.io/2018-09-22-emory/",
-    "venue": "Emory University"
-  },
-  {
     "address": "Seminar Room, Institute of Applied Biosciences (INAB), Centre for Research and Technology Hellas (CERTH), 6th km Charilaou-Thermis rd, Thessaloniki, Greece",
     "country": "GR",
     "end": "2018-09-25",
@@ -124,6 +70,24 @@
     ],
     "url": "https://scriptotek.github.io/2018-09-25-Bergen/",
     "venue": "Library Carpentry @ University of Bergen"
+  },
+  {
+    "address": "CCIS L1-150",
+    "country": "CA",
+    "end": "2018-09-26",
+    "eventbrite_id": "",
+    "humandate": "Sep 25-26, 2018",
+    "latitude": 53.528117,
+    "longitude": -113.525747,
+    "slug": "2018-09-25-ualberta-HPC",
+    "start": "2018-09-25",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://computecanada.github.io/2018-09-25-ualberta-HPC/",
+    "venue": "University of Alberta"
   },
   {
     "address": "Room D3, Physics Building, Gower Street London WC1E 6BT, UCL, London",
@@ -497,7 +461,7 @@
     "start": "2018-10-11",
     "tags": [
       {
-        "name": "DC"
+        "name": "SWC"
       }
     ],
     "url": "https://marwahaha.github.io/2018-10-11-FAMU/",
@@ -666,6 +630,42 @@
     "venue": "Tufts University"
   },
   {
+    "address": "Room 1H, Via Mesiano 77, 38123 Trento",
+    "country": "IT",
+    "end": "2018-11-15",
+    "eventbrite_id": "",
+    "humandate": "Nov 14-15, 2018",
+    "latitude": 46.06703,
+    "longitude": 11.13908,
+    "slug": "2018-11-14-trento",
+    "start": "2018-11-14",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://mkcor.github.io/2018-11-14-trento/",
+    "venue": "University of Trento"
+  },
+  {
+    "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
+    "country": "CH",
+    "end": "2018-11-29",
+    "eventbrite_id": "",
+    "humandate": "Nov 20-29, 2018",
+    "latitude": 46.518304,
+    "longitude": 6.568269,
+    "slug": "2018-11-20-epfl",
+    "start": "2018-11-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
+    "venue": "Rolex Learning Center - Hodler"
+  },
+  {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
     "country": "ES",
     "end": "2018-11-29",
@@ -682,6 +682,24 @@
     ],
     "url": "https://adgdt.github.io/2018-11-28-cftmat/",
     "venue": "Centro de Física Teórica y Matemáticas"
+  },
+  {
+    "address": "Langson Library RM 570",
+    "country": "US",
+    "end": "2018-11-29",
+    "eventbrite_id": "50242892845",
+    "humandate": "Nov 28-29, 2018",
+    "latitude": 33.647111,
+    "longitude": -117.8411,
+    "slug": "2018-11-28-ucirvine",
+    "start": "2018-11-28",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uci-libraries.github.io/2018-11-28-UCI/",
+    "venue": "UC Irvine Libraries"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
