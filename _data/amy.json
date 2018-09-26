@@ -1,23 +1,5 @@
 [
   {
-    "address": "Seminar Room, Institute of Applied Biosciences (INAB), Centre for Research and Technology Hellas (CERTH), 6th km Charilaou-Thermis rd, Thessaloniki, Greece",
-    "country": "GR",
-    "end": "2018-09-25",
-    "eventbrite_id": "45371076110",
-    "humandate": "Sep 24-25, 2018",
-    "latitude": 40.56797,
-    "longitude": 22.997544,
-    "slug": "2018-09-24-CERTH",
-    "start": "2018-09-24",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://fpsom.github.io/2018-09-24-CERTH/",
-    "venue": "INAB|CERTH"
-  },
-  {
     "address": "Huxley 340 and 341, South Kensington Campus, Imperial College London, SW7 2AZ",
     "country": "GB",
     "end": "2018-09-26",
@@ -34,24 +16,6 @@
     ],
     "url": "https://kmichali.github.io/2018-09-24-Imperial/",
     "venue": "Imperial College London"
-  },
-  {
-    "address": "Glagoljaška 8, SI-6000 Koper",
-    "country": "SI",
-    "end": "2018-09-25",
-    "eventbrite_id": "",
-    "humandate": "Sep 24-25, 2018",
-    "latitude": 45.547969,
-    "longitude": 13.729504,
-    "slug": "2018-09-24-koper",
-    "start": "2018-09-24",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://slel.github.io/2018-09-24-koper/",
-    "venue": "FAMNIT, University of Primorska"
   },
   {
     "address": "Bibliotek for humaniora, Haakon Sheteligs plass 7. Kursrom 121",
