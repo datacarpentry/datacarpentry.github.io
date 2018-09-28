@@ -18,5 +18,6 @@ For a list of all our current workshop offerings, visit our [Lessons page](http:
 
 - **A Data Carpentry lesson on data organization**
 - **Three other modules in the same domain from the [Data Carpentry curriculum](../lessons/)**
+- **Be taught by at least one [certified Carpentries instructor](https://carpentries.org/become-instructor/)**
 
 [Request a workshop](../workshops-host/)  |   [Attend a workshop](../workshops-attend/) | [Organize a workshop](../self-organized-workshops/)
