@@ -31,6 +31,14 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Biology semester long curriculum](#biology-semester-long-course)  
 *We don't offer these as a course, but they are freely available for reuse and revision.*  For more information on these materials, contact [team@carpentries.org](mailto:team@carpentries.org).
 
+## Community-Contributed materials
+
+These are Carpentries style lessons that have been contributed by community members and are not part of Data Carpentry's official offerings.
+
+- [Python for Atmosphere and Ocean Scientists](#python-atmos)
+
+
+
 <hr>
 
 ### <a id="ecology-workshop"></a> Ecology Curriculum
@@ -374,3 +382,11 @@ The course is accessible to:
 
 - [Self-guided Students](http://www.datacarpentry.org/semester-biology/START-for-self-guided-students)
 - [Instructors](http://www.datacarpentry.org/semester-biology/docs/)
+
+## Community-contributed materials
+
+### <a id="python-atmos"></a>Python for Atmosphere and Ocean Scientists
+
+This lesson is currently in the alpha stage. To move it to the beta stage, we are looking for feedback from people interested to teach this material. If you're a qualified Carpentries instructor and would be interested in teaching the lessons (some experience with the netCDF file format and xarray Python library is useful), please get in touch with either [Damien Irving](https://drclimate.wordpress.com/who-is-dr-climate/) or [Francois Michonneau](mailto:francois@carpentries.org). You can also request a workshop at your institution by contacting us and we’ll reach out to instructors. There is no fee for a pilot workshop, but you would need to cover travel expenses for instructors.
+
+- [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/)
