@@ -1,23 +1,5 @@
 [
   {
-    "address": "Gondar",
-    "country": "ET",
-    "end": "2018-09-28",
-    "eventbrite_id": "",
-    "humandate": "Sep 26 - 28, 2018",
-    "latitude": 12.61023,
-    "longitude": 37.468971,
-    "slug": "2018-09-26-UOG",
-    "start": "2018-09-26",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://dagimy.github.io/2018-09-26-UOG/",
-    "venue": "University of Gondar"
-  },
-  {
     "address": "Innovative Learning Studio, Renne Library, Bozeman, MT 59717",
     "country": "US",
     "end": "2018-10-17",
@@ -34,60 +16,6 @@
     ],
     "url": "https://msu-carpentries.github.io/2018-09-26-montana_state/",
     "venue": "Montana State University"
-  },
-  {
-    "address": "1709 New York Avenue NW, Washington, DC 20006",
-    "country": "US",
-    "end": "2018-09-28",
-    "eventbrite_id": "",
-    "humandate": "Sep 27 - 28, 2018",
-    "latitude": 38.896676,
-    "longitude": -77.040454,
-    "slug": "2018-09-27-FRB",
-    "start": "2018-09-27",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://primerano.github.io/2018-09-27-FRB/",
-    "venue": "Federal Reserve Board"
-  },
-  {
-    "address": "607 Institute for Genomic Biology",
-    "country": "US",
-    "end": "2018-09-28",
-    "eventbrite_id": "48973441883",
-    "humandate": "Sep 27 - 28, 2018",
-    "latitude": 40.1047754,
-    "longitude": -88.2269122,
-    "slug": "2018-09-27-dc-illinois",
-    "start": "2018-09-27",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://swc-uiuc.github.io/2018-09-27-dc-illinois/",
-    "venue": "University of Illinois"
-  },
-  {
-    "address": "K1 Seminar room, K-RITH Tower Buiding, Nelson Mandela Medical School",
-    "country": "ZA",
-    "end": "2018-09-28",
-    "eventbrite_id": "",
-    "humandate": "Sep 27 - 28, 2018",
-    "latitude": -29.882179,
-    "longitude": 30.987891,
-    "slug": "2018-09-27-ukzn",
-    "start": "2018-09-27",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://jsan4christ.github.io/2018-09-27-ukzn/",
-    "venue": "Data Carpentry, in UKZN"
   },
   {
     "address": "TBD",
