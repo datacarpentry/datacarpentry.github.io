@@ -18,24 +18,6 @@
     "venue": "Montana State University"
   },
   {
-    "address": "TBD",
-    "country": "US",
-    "end": "2018-09-30",
-    "eventbrite_id": "",
-    "humandate": "Sep 29 - 30, 2018",
-    "latitude": 27.524951,
-    "longitude": -97.882441,
-    "slug": "2018-09-29-tamu-kingsville",
-    "start": "2018-09-29",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://kokbent.github.io/2018-09-29-tamu-kingsville/",
-    "venue": "Texas A&M University-Kingsville"
-  },
-  {
     "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
     "country": "US",
     "end": "2018-10-02",
@@ -304,6 +286,24 @@
     ],
     "url": "https://tobyhodges.github.io/2018-10-16-heidelberg/",
     "venue": "European Molecular Biology Laboratory"
+  },
+  {
+    "address": "Online",
+    "country": "ZA",
+    "end": "2018-11-20",
+    "eventbrite_id": "",
+    "humandate": "Oct 16 - Nov 20, 2018",
+    "latitude": -34.3316997,
+    "longitude": 18.9999885,
+    "slug": "2018-10-16-online-r",
+    "start": "2018-10-16",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2018-10-16-online-r/",
+    "venue": "DC Ecology: Instructor Mentoring Workshop"
   },
   {
     "address": "Oxford e-Research Centre (7 Keble Road ,Oxford, OX1 3QG)",
