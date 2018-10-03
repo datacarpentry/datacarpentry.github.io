@@ -20,24 +20,6 @@
   {
     "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
     "country": "US",
-    "end": "2018-10-02",
-    "eventbrite_id": "49312954374",
-    "humandate": "Oct 01 - 02, 2018",
-    "latitude": 47.606209,
-    "longitude": -122.332071,
-    "slug": "2018-10-01-UW-dc",
-    "start": "2018-10-01",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://uwescience.github.io/2018-10-01-UW-dc/",
-    "venue": "The University of Washington eScience Institute"
-  },
-  {
-    "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
-    "country": "US",
     "end": "2018-10-04",
     "eventbrite_id": "49876638368",
     "humandate": "Oct 01 - 04, 2018",
@@ -232,6 +214,42 @@
     ],
     "url": "https://weaverbel.github.io/2018-10-08-monash-lc/",
     "venue": "Monash University Library"
+  },
+  {
+    "address": "Rawls Hall, Room 1057, 100 S. Grant Street, West Lafayette, IN, 47907",
+    "country": "US",
+    "end": "2018-10-09",
+    "eventbrite_id": "49847570425",
+    "humandate": "Oct 08 - 09, 2018",
+    "latitude": 40.423679,
+    "longitude": -86.909897,
+    "slug": "2018-10-08-purdue",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://purdueswc.github.io/2018-10-08-purdue/",
+    "venue": "Purdue University"
+  },
+  {
+    "address": "N270 HPC2N, SE-901 87, Umeå, Sweden",
+    "country": "SE",
+    "end": "2018-10-10",
+    "eventbrite_id": "",
+    "humandate": "Oct 09 - 10, 2018",
+    "latitude": 63.820495,
+    "longitude": 20.307391,
+    "slug": "2018-10-09-umea",
+    "start": "2018-10-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ab604.github.io/2018-10-09-umea/",
+    "venue": "HPC2N Umeå University"
   },
   {
     "address": "IC Classroom, Green Library, 557 Escondido Mall, Stanford, CA 94305-6063",
@@ -448,6 +466,24 @@
     ],
     "url": "https://mbrousil.github.io/2018-10-25-wsu/",
     "venue": "Washington State University"
+  },
+  {
+    "address": "Frontier Room, Discovery Hall, Building 3400, Richland WA",
+    "country": "US",
+    "end": "2018-10-30",
+    "eventbrite_id": "",
+    "humandate": "Oct 29 - 30, 2018",
+    "latitude": 46.3513347,
+    "longitude": -119.2783712,
+    "slug": "2018-10-29-PNNL-SWC",
+    "start": "2018-10-29",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://pnnl-compbio.github.io/2018-10-29-PNNL-SWC/",
+    "venue": "Pacific Northwest National Laboratory"
   },
   {
     "address": "Tisch Library, Room 302",
