@@ -36,24 +36,6 @@
     "venue": "The University of Washington eScience Institute"
   },
   {
-    "address": "Rooms B207 A+B, Building B, 37 Sinnathamby Boulevard, Springfield Central QLD 4300",
-    "country": "AU",
-    "end": "2018-10-03",
-    "eventbrite_id": "49929487441",
-    "humandate": "Oct 02 - 03, 2018",
-    "latitude": -27.68401,
-    "longitude": 152.907227,
-    "slug": "2018-10-02-usq",
-    "start": "2018-10-02",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://fgacenga.github.io/2018-10-02-usq/",
-    "venue": "University of Southern Queensland"
-  },
-  {
     "address": "777 Old Sawmill River Rd, Tarrytown, NY",
     "country": "US",
     "end": "2018-10-05",
@@ -574,6 +556,24 @@
     ],
     "url": "https://uci-libraries.github.io/2018-11-28-UCI/",
     "venue": "UC Irvine Libraries"
+  },
+  {
+    "address": "George Mason University Libraries, 1014 A & B Fenwick Library, 4400 University Dr, Fairfax, VA 22030",
+    "country": "US",
+    "end": "2018-12-14",
+    "eventbrite_id": "",
+    "humandate": "Dec 13 - 14, 2018",
+    "latitude": 38.832139,
+    "longitude": -77.3093677,
+    "slug": "2018-12-13-GMU",
+    "start": "2018-12-13",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://libcce.github.io/2018-12-13-GMU/",
+    "venue": "George Mason University Libraries"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
