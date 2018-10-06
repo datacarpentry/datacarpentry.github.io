@@ -18,24 +18,6 @@
     "venue": "Montana State University"
   },
   {
-    "address": "777 Old Sawmill River Rd, Tarrytown, NY",
-    "country": "US",
-    "end": "2018-10-05",
-    "eventbrite_id": "",
-    "humandate": "Oct 04 - 05, 2018",
-    "latitude": 41.07882,
-    "longitude": -73.82248,
-    "slug": "2018-10-04-Regeneron",
-    "start": "2018-10-04",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://mckays630.github.io/2018-10-04-Regeneron/",
-    "venue": "Sotware Carpentry at Regeneron"
-  },
-  {
     "address": "Mission Hall, 550 16th Street, San Francisco, Rm 1406",
     "country": "US",
     "end": "2018-10-06",
@@ -198,6 +180,24 @@
     "venue": "Purdue University"
   },
   {
+    "address": "Flex Labs, Advanced Training Centre, EMBL, Meyerhofstrasse 1, 69117 Heidelberg, Germany",
+    "country": "DE",
+    "end": "2018-10-09",
+    "eventbrite_id": "",
+    "humandate": "Oct 08 - 09, 2018",
+    "latitude": 49.38408,
+    "longitude": 8.70969,
+    "slug": "2018-10-08-ttt-EMBL",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "TTT"
+      }
+    ],
+    "url": "https://tobyhodges.github.io/2018-10-08-ttt-EMBL/",
+    "venue": "European Molecular Biology Laboratory"
+  },
+  {
     "address": "3909 Halls Ferry Rd., Vicskburg, MS 39180",
     "country": "US",
     "end": "2018-10-09",
@@ -214,6 +214,27 @@
     ],
     "url": "https://erdc.github.io/2018-10-09-chl/",
     "venue": "Coastal and Hydraulics Laboratory"
+  },
+  {
+    "address": "Internet",
+    "country": "W3",
+    "end": "2018-10-10",
+    "eventbrite_id": "48552773653",
+    "humandate": "Oct 09 - 10, 2018",
+    "latitude": -48.876667,
+    "longitude": -123.393333,
+    "slug": "2018-10-09-ttt-online",
+    "start": "2018-10-09",
+    "tags": [
+      {
+        "name": "TTT"
+      },
+      {
+        "name": "online"
+      }
+    ],
+    "url": "https://anenadic.github.io/2018-10-09-ttt-online/",
+    "venue": "Internet"
   },
   {
     "address": "N270 HPC2N, SE-901 87, Umeå, Sweden",
@@ -342,6 +363,24 @@
     "venue": "UNC Library-SILS"
   },
   {
+    "address": "Rm 7010, Research Commons, W.A.C. Bennett Library, Burnaby",
+    "country": "CA",
+    "end": "2018-10-19",
+    "eventbrite_id": "",
+    "humandate": "Oct 18 - 19, 2018",
+    "latitude": 49.279664,
+    "longitude": -122.918841,
+    "slug": "2018-10-18-ttt-SFU",
+    "start": "2018-10-18",
+    "tags": [
+      {
+        "name": "TTT"
+      }
+    ],
+    "url": "https://computecanada.github.io/2018-10-18-ttt-SFU/",
+    "venue": "Simon Fraser University, Instructor Training"
+  },
+  {
     "address": "FIXME",
     "country": "US",
     "end": "2018-10-23",
@@ -358,6 +397,24 @@
     ],
     "url": "https://jjborrelli.github.io/2018-10-22-Stonybrook-IACS-R/",
     "venue": "Stonybrook"
+  },
+  {
+    "address": "East Asia Library Room 224, 518 Memorial Way, Stanford University",
+    "country": "US",
+    "end": "2018-10-23",
+    "eventbrite_id": "",
+    "humandate": "Oct 22 - 23, 2018",
+    "latitude": 37.429175,
+    "longitude": -122.167326,
+    "slug": "2018-10-22-ttt-stanford",
+    "start": "2018-10-22",
+    "tags": [
+      {
+        "name": "TTT"
+      }
+    ],
+    "url": "https://amyehodge.github.io/2018-10-22-ttt-stanford/",
+    "venue": "Stanford University"
   },
   {
     "address": "Woods Hole, MA 02543, USA",
@@ -394,6 +451,24 @@
     ],
     "url": "https://nesclic.github.io/2018-10-22-NEASIST-Brown/",
     "venue": "Brown University Library"
+  },
+  {
+    "address": "15 Lippitt Rd, Kingston, RI 02881",
+    "country": "US",
+    "end": "2018-10-25",
+    "eventbrite_id": "",
+    "humandate": "Oct 24 - 25, 2018",
+    "latitude": 41.4877084,
+    "longitude": -71.5288092,
+    "slug": "2018-10-24-ttt-uri",
+    "start": "2018-10-24",
+    "tags": [
+      {
+        "name": "TTT"
+      }
+    ],
+    "url": "https://jt14den.github.io/2018-10-24-ttt-providence/",
+    "venue": "Carrothers Library, URI Kingston Campus"
   },
   {
     "address": "Room: Vergaderzaal B0.1, Campus Coupure, Coupure Links 653, 9000 Gent, Belgium",
