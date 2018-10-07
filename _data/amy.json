@@ -18,42 +18,6 @@
     "venue": "Montana State University"
   },
   {
-    "address": "Mission Hall, 550 16th Street, San Francisco, Rm 1406",
-    "country": "US",
-    "end": "2018-10-06",
-    "eventbrite_id": "49109706454",
-    "humandate": "Oct 05 - 06, 2018",
-    "latitude": 37.767411,
-    "longitude": -122.390344,
-    "slug": "2018-10-05-UCSF-Python",
-    "start": "2018-10-05",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://gboushey.github.io/2018-10-05-UCSF-Python/",
-    "venue": "University of California, San Francisco"
-  },
-  {
-    "address": "Mission Hall, 550 16th Street, San Francisco, Rm 1407",
-    "country": "US",
-    "end": "2018-10-06",
-    "eventbrite_id": "49109706454",
-    "humandate": "Oct 05 - 06, 2018",
-    "latitude": 37.76755,
-    "longitude": -122.39038,
-    "slug": "2018-10-05-UCSF-R",
-    "start": "2018-10-05",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://kjlquist.github.io/2018-10-05-UCSF-R/",
-    "venue": "UCSF"
-  },
-  {
     "address": "FT 216, Faculty of Technology, CEPT University, Kasturbhai Lalbhai Campus, University Road, Navrangpura, Ahmedabad-380009 Gujarat, India",
     "country": "IN",
     "end": "2018-10-07",
