@@ -18,42 +18,6 @@
     "venue": "Montana State University"
   },
   {
-    "address": "FT 216, Faculty of Technology, CEPT University, Kasturbhai Lalbhai Campus, University Road, Navrangpura, Ahmedabad-380009 Gujarat, India",
-    "country": "IN",
-    "end": "2018-10-07",
-    "eventbrite_id": "",
-    "humandate": "Oct 06 - 07, 2018",
-    "latitude": 23.037678,
-    "longitude": 72.549742,
-    "slug": "2018-10-06-CEPT",
-    "start": "2018-10-06",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://shailygandhi.github.io/2018-10-06-CEPT/",
-    "venue": "Faculty of Technology, CEPT University"
-  },
-  {
-    "address": "Boettcher Room, Arthur Lakes Library, 1400 Illinois St., Golden, CO 80401",
-    "country": "US",
-    "end": "2018-10-07",
-    "eventbrite_id": "50243528747",
-    "humandate": "Oct 06 - 07, 2018",
-    "latitude": 39.751463,
-    "longitude": -105.223285,
-    "slug": "2018-10-06-coloradomines",
-    "start": "2018-10-06",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://minescarpentries.github.io/2018-10-06-coloradomines/",
-    "venue": "Colorado School of Mines - Software Carpentry Workshop"
-  },
-  {
     "address": "G40_4.112 Griffith Health Centre, Seminar Room",
     "country": "AU",
     "end": "2018-10-10",
@@ -249,10 +213,31 @@
     "tags": [
       {
         "name": "SWC"
+      },
+      {
+        "name": "stalled"
       }
     ],
     "url": "https://marwahaha.github.io/2018-10-11-FAMU/",
     "venue": "Florida A&M University"
+  },
+  {
+    "address": "Uppsala, Ultuna campus, Ulls hus, meeting room Artedi",
+    "country": "SE",
+    "end": "2018-10-12",
+    "eventbrite_id": "50692877762",
+    "humandate": "Oct 11 - 12, 2018",
+    "latitude": 59.85813,
+    "longitude": 17.64462,
+    "slug": "2018-10-11-Uppsala-SWC",
+    "start": "2018-10-11",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://annefou.github.io/2018-10-11-Uppsala-SWC/",
+    "venue": "Software Carpentry @ Swedish University of Agricultural Sciences"
   },
   {
     "address": "Meyerhofstrasse 1, 69117 Heidelberg",
@@ -325,6 +310,24 @@
     ],
     "url": "https://libcce.github.io/2018-10-18-UNC/",
     "venue": "UNC Library-SILS"
+  },
+  {
+    "address": "1030 National Center for Computing Applications,",
+    "country": "US",
+    "end": "2018-10-19",
+    "eventbrite_id": "50596034100",
+    "humandate": "Oct 18 - 19, 2018",
+    "latitude": 40.1149832,
+    "longitude": -88.2271851,
+    "slug": "2018-10-18-illinois",
+    "start": "2018-10-18",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2018-10-18-illinois/",
+    "venue": "University of Illinois"
   },
   {
     "address": "Rm 7010, Research Commons, W.A.C. Bennett Library, Burnaby",
