@@ -18,24 +18,6 @@
     "venue": "Montana State University"
   },
   {
-    "address": "G40_4.112 Griffith Health Centre, Seminar Room",
-    "country": "AU",
-    "end": "2018-10-10",
-    "eventbrite_id": "",
-    "humandate": "Oct 08 - 10, 2018",
-    "latitude": -27.960345,
-    "longitude": 153.378868,
-    "slug": "2018-10-08-GriffithUni-Python",
-    "start": "2018-10-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://bio-swc-bne.github.io/2018-10-08-GriffithUni-Python/",
-    "venue": "Griffith University"
-  },
-  {
     "address": "Mizan-Teferi, Ethiopia",
     "country": "ET",
     "end": "2018-10-12",
@@ -52,117 +34,6 @@
     ],
     "url": "https://jaredabera.github.io/October-2018-08-12-MTU/",
     "venue": "Mizan-Tepi University"
-  },
-  {
-    "address": "Institute for Advanced Computational Science, Stony Brook, NY",
-    "country": "US",
-    "end": "2018-10-09",
-    "eventbrite_id": "",
-    "humandate": "Oct 08 - 09, 2018",
-    "latitude": 40.911813,
-    "longitude": -73.120865,
-    "slug": "2018-10-08-Stonybrook-IACS-Python",
-    "start": "2018-10-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://dwinston.github.io/2018-10-08-Stonybrook-IACS-Python/",
-    "venue": "Stony Brook University"
-  },
-  {
-    "address": "Rawls Hall, Room 1057, 100 S. Grant Street, West Lafayette, IN, 47907",
-    "country": "US",
-    "end": "2018-10-09",
-    "eventbrite_id": "49847570425",
-    "humandate": "Oct 08 - 09, 2018",
-    "latitude": 40.423679,
-    "longitude": -86.909897,
-    "slug": "2018-10-08-purdue",
-    "start": "2018-10-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://purdueswc.github.io/2018-10-08-purdue/",
-    "venue": "Purdue University"
-  },
-  {
-    "address": "Flex Labs, Advanced Training Centre, EMBL, Meyerhofstrasse 1, 69117 Heidelberg, Germany",
-    "country": "DE",
-    "end": "2018-10-09",
-    "eventbrite_id": "",
-    "humandate": "Oct 08 - 09, 2018",
-    "latitude": 49.38408,
-    "longitude": 8.70969,
-    "slug": "2018-10-08-ttt-EMBL",
-    "start": "2018-10-08",
-    "tags": [
-      {
-        "name": "TTT"
-      }
-    ],
-    "url": "https://tobyhodges.github.io/2018-10-08-ttt-EMBL/",
-    "venue": "European Molecular Biology Laboratory"
-  },
-  {
-    "address": "3909 Halls Ferry Rd., Vicskburg, MS 39180",
-    "country": "US",
-    "end": "2018-10-09",
-    "eventbrite_id": "50927895707",
-    "humandate": "Oct 08 - 09, 2018",
-    "latitude": 32.2997118,
-    "longitude": -90.8665134,
-    "slug": "2018-10-09-chl",
-    "start": "2018-10-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://erdc.github.io/2018-10-09-chl/",
-    "venue": "Coastal and Hydraulics Laboratory"
-  },
-  {
-    "address": "Internet",
-    "country": "GB",
-    "end": "2018-10-10",
-    "eventbrite_id": "48552773653",
-    "humandate": "Oct 09 - 10, 2018",
-    "latitude": -48.876667,
-    "longitude": -123.393333,
-    "slug": "2018-10-09-ttt-online",
-    "start": "2018-10-09",
-    "tags": [
-      {
-        "name": "TTT"
-      },
-      {
-        "name": "online"
-      }
-    ],
-    "url": "https://anenadic.github.io/2018-10-09-ttt-online/",
-    "venue": "Internet"
-  },
-  {
-    "address": "N270 HPC2N, SE-901 87, Umeå, Sweden",
-    "country": "SE",
-    "end": "2018-10-10",
-    "eventbrite_id": "",
-    "humandate": "Oct 09 - 10, 2018",
-    "latitude": 63.820495,
-    "longitude": 20.307391,
-    "slug": "2018-10-09-umea",
-    "start": "2018-10-09",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ab604.github.io/2018-10-09-umea/",
-    "venue": "HPC2N Umeå University"
   },
   {
     "address": "IC Classroom, Green Library, 557 Escondido Mall, Stanford, CA 94305-6063",
@@ -457,6 +328,24 @@
     ],
     "url": "https://nesclic.github.io/2018-10-22-NEASIST-Brown/",
     "venue": "Brown University Library"
+  },
+  {
+    "address": "Informatics Institute Lecture Room",
+    "country": "US",
+    "end": "2018-10-24",
+    "eventbrite_id": "",
+    "humandate": "Oct 23 - 24, 2018",
+    "latitude": 29.64804,
+    "longitude": -82.34406,
+    "slug": "2018-10-23-ufii-geospatial",
+    "start": "2018-10-23",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/",
+    "venue": "UF Informatics Institute Geospatial Workshop"
   },
   {
     "address": "15 Lippitt Rd, Kingston, RI 02881",
