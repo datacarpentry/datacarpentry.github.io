@@ -36,45 +36,6 @@
     "venue": "Mizan-Tepi University"
   },
   {
-    "address": "IC Classroom, Green Library, 557 Escondido Mall, Stanford, CA 94305-6063",
-    "country": "US",
-    "end": "2018-10-11",
-    "eventbrite_id": "50283060989",
-    "humandate": "Oct 10 - 11, 2018",
-    "latitude": 37.427065,
-    "longitude": -122.16714,
-    "slug": "2018-10-10-sul",
-    "start": "2018-10-10",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://kimdurante.github.io/2018-10-10-sul/",
-    "venue": "Stanford University"
-  },
-  {
-    "address": "Internet",
-    "country": "W3",
-    "end": "2018-10-11",
-    "eventbrite_id": "",
-    "humandate": "Oct 10 - 11, 2018",
-    "latitude": -48.876667,
-    "longitude": -123.393333,
-    "slug": "2018-10-10-ttt-online-EST",
-    "start": "2018-10-10",
-    "tags": [
-      {
-        "name": "TTT"
-      },
-      {
-        "name": "online"
-      }
-    ],
-    "url": "https://kcranston.github.io/2018-10-10-ttt-online-EST/",
-    "venue": "Internet"
-  },
-  {
     "address": "Room TBD - 1601 S. Martin L. King Jr. Blvd, Tallahassee, FL 32307",
     "country": "US",
     "end": "2018-10-12",
