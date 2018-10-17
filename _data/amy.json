@@ -324,6 +324,24 @@
     "venue": "Washington State University"
   },
   {
+    "address": "강원도 춘천시 한림대학길 1 공학관 1116-3호",
+    "country": "KR",
+    "end": "2018-10-28",
+    "eventbrite_id": "51353898894",
+    "humandate": "Oct 27 - 28, 2018",
+    "latitude": 37.8863,
+    "longitude": 127.7358,
+    "slug": "2018-10-27-hallym",
+    "start": "2018-10-27",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://statkclee.github.io/2018-10-27-hallym/",
+    "venue": "한림대학교"
+  },
+  {
     "address": "Frontier Room, Discovery Hall, Building 3400, Richland WA",
     "country": "US",
     "end": "2018-10-30",
@@ -340,6 +358,24 @@
     ],
     "url": "https://pnnl-compbio.github.io/2018-10-29-PNNL-SWC/",
     "venue": "Pacific Northwest National Laboratory"
+  },
+  {
+    "address": "Teorifagbygget 1 room 1.425 (Nov 8) and room 1.343 (Nov 9), UiT",
+    "country": "NO",
+    "end": "2018-11-09",
+    "eventbrite_id": "",
+    "humandate": "Nov 08 - 09, 2018",
+    "latitude": 69.681359,
+    "longitude": 18.972166,
+    "slug": "2018-11-08-uit",
+    "start": "2018-11-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uit-no.github.io/2018-11-08-uit/",
+    "venue": "UiT The Arctic University of Norway"
   },
   {
     "address": "Tisch Library, Room 302",
@@ -430,6 +466,24 @@
     ],
     "url": "https://uci-libraries.github.io/2018-11-28-UCI/",
     "venue": "UC Irvine Libraries"
+  },
+  {
+    "address": "Gleueler Straße 60, 50931 Köln",
+    "country": "DE",
+    "end": "2018-12-13",
+    "eventbrite_id": "",
+    "humandate": "Dec 12 - 13, 2018",
+    "latitude": 50.924681,
+    "longitude": 50.924681,
+    "slug": "2018-12-12-Library_Carpentry_Cologne",
+    "start": "2018-12-12",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://zbmed.github.io/2018-12-12-Library_Carpentry_Cologne/",
+    "venue": "ZB MED"
   },
   {
     "address": "George Mason University Libraries, 1014 A & B Fenwick Library, 4400 University Dr, Fairfax, VA 22030",
