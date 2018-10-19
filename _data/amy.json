@@ -1,77 +1,5 @@
 [
   {
-    "address": "Innovative Learning Studio, Renne Library, Bozeman, MT 59717",
-    "country": "US",
-    "end": "2018-10-17",
-    "eventbrite_id": "",
-    "humandate": "Sep 26 - Oct 17, 2018",
-    "latitude": 45.666695,
-    "longitude": -111.048817,
-    "slug": "2018-09-26-montana_state",
-    "start": "2018-09-26",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://msu-carpentries.github.io/2018-09-26-montana_state/",
-    "venue": "Montana State University"
-  },
-  {
-    "address": "Adigrat",
-    "country": "ET",
-    "end": "2018-10-17",
-    "eventbrite_id": "",
-    "humandate": "Oct 15 - 17, 2018",
-    "latitude": 14.28085,
-    "longitude": 39.462391,
-    "slug": "2018-10-15-DC-AG-TVET",
-    "start": "2018-10-15",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://dagimy.github.io/2018-10-15-DC-AG-TVET/",
-    "venue": "Adigrat Technical Vocational Education & Training"
-  },
-  {
-    "address": "Meyerhofstrasse 1, 69117 Heidelberg",
-    "country": "DE",
-    "end": "2018-10-18",
-    "eventbrite_id": "",
-    "humandate": "Oct 16 - 18, 2018",
-    "latitude": 49.38406,
-    "longitude": 8.710757,
-    "slug": "2018-10-16-heidelberg",
-    "start": "2018-10-16",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://tobyhodges.github.io/2018-10-16-heidelberg/",
-    "venue": "European Molecular Biology Laboratory"
-  },
-  {
-    "address": "Online",
-    "country": "ZA",
-    "end": "2018-11-20",
-    "eventbrite_id": "",
-    "humandate": "Oct 16 - Nov 20, 2018",
-    "latitude": -34.3316997,
-    "longitude": 18.9999885,
-    "slug": "2018-10-16-online-r",
-    "start": "2018-10-16",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-10-16-online-r/",
-    "venue": "DC Ecology: Instructor Mentoring Workshop"
-  },
-  {
     "address": "Adigrat",
     "country": "ET",
     "end": "2018-10-19",
@@ -88,24 +16,6 @@
     ],
     "url": "https://dagimy.github.io/2018-10-15-SWC-AG-TVET/",
     "venue": "Adigrat Technical Vocational Education & Training"
-  },
-  {
-    "address": "Oxford e-Research Centre (7 Keble Road ,Oxford, OX1 3QG)",
-    "country": "GB",
-    "end": "2018-10-18",
-    "eventbrite_id": "38432510674",
-    "humandate": "Oct 17 - 18, 2018",
-    "latitude": 51.760053,
-    "longitude": -1.258617,
-    "slug": "2018-10-17-oxford-swc",
-    "start": "2018-10-17",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://kpoterlowicz.github.io/2018-10-17-oxford-swc/",
-    "venue": "Software Carpentry @ Oxford University"
   },
   {
     "address": "UNC Library, Research Hub, Davis Library, 208 Raleigh St, Chapel Hill, NC",
@@ -142,6 +52,24 @@
     ],
     "url": "https://swc-uiuc.github.io/2018-10-18-illinois/",
     "venue": "University of Illinois"
+  },
+  {
+    "address": "206 Edmon Low Library (Day 01), 514 Math Sciences (Day 2)",
+    "country": "US",
+    "end": "2018-10-19",
+    "eventbrite_id": "50969085908",
+    "humandate": "Oct 18 - 19, 2018",
+    "latitude": 36.122953,
+    "longitude": -97.069701,
+    "slug": "2018-10-18-okstate",
+    "start": "2018-10-18",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2018-10-18-okstate/",
+    "venue": "Oklahoma State University"
   },
   {
     "address": "Rm 7010, Research Commons, W.A.C. Bennett Library, Burnaby",
@@ -252,6 +180,24 @@
     "venue": "UF Informatics Institute Geospatial Workshop"
   },
   {
+    "address": "Gleueler Straße 60, 50931 Köln",
+    "country": "DE",
+    "end": "2018-10-25",
+    "eventbrite_id": "",
+    "humandate": "Oct 24 - 25, 2018",
+    "latitude": 50.924681,
+    "longitude": 50.924681,
+    "slug": "2018-10-24-Library_Carpentry_Cologne",
+    "start": "2018-10-24",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://zbmed.github.io/2018-10-24-Library_Carpentry_Cologne/",
+    "venue": "ZB MED"
+  },
+  {
     "address": "15 Lippitt Rd, Kingston, RI 02881",
     "country": "US",
     "end": "2018-10-25",
@@ -286,6 +232,24 @@
     ],
     "url": "https://orchid00.github.io/2018-10-24-ugent/",
     "venue": "University of Ghent"
+  },
+  {
+    "address": "Building 13, Vaal Library Research Commons",
+    "country": "ZA",
+    "end": "2018-10-25",
+    "eventbrite_id": "",
+    "humandate": "Oct 24 - 25, 2018",
+    "latitude": -26.72557,
+    "longitude": 27.87926,
+    "slug": "2018-10-25-Open-Access-Week",
+    "start": "2018-10-24",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://nwu-eresearch.github.io/2018-10-25-Open-Access-Week/",
+    "venue": "North West University, Vaal Campus Library"
   },
   {
     "address": "Old Dominion University, Perry Library Learning Commons, Conference Room 1310-1311",
@@ -376,6 +340,24 @@
     ],
     "url": "https://uit-no.github.io/2018-11-08-uit/",
     "venue": "UiT The Arctic University of Norway"
+  },
+  {
+    "address": "Business & Science Building, 227 Penn Street, Camden, NJ 08102",
+    "country": "US",
+    "end": "2018-11-10",
+    "eventbrite_id": "",
+    "humandate": "Nov 09 - 10, 2018",
+    "latitude": 39.948788,
+    "longitude": -75.124219,
+    "slug": "2018-11-09-rutgers_camden",
+    "start": "2018-11-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://sshende.github.io/2018-11-09-rutgers_camden/",
+    "venue": "Rutgers University, Camden"
   },
   {
     "address": "Tisch Library, Room 302",
