@@ -180,6 +180,24 @@
     "venue": "Old Dominion University"
   },
   {
+    "address": "Willis Library, Room 443, 1506 Highland St., Denton, TX 76203",
+    "country": "US",
+    "end": "2018-10-26",
+    "eventbrite_id": "50968632552",
+    "humandate": "Oct 25 - 26, 2018",
+    "latitude": 33.210068,
+    "longitude": -97.148954,
+    "slug": "2018-10-25-unt-swc",
+    "start": "2018-10-25",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://unt-carpentries.github.io/2018-10-25-unt-swc/",
+    "venue": "University of North Texas"
+  },
+  {
     "address": "Room 202, PACCAR building (2001 Grimes Way), Pullman, WA",
     "country": "US",
     "end": "2018-10-26",
@@ -234,6 +252,60 @@
     "venue": "Pacific Northwest National Laboratory"
   },
   {
+    "address": "Barnard Fuller Building, Anzio Road, Observatory, Cape Town",
+    "country": "ZA",
+    "end": "2018-10-31",
+    "eventbrite_id": "",
+    "humandate": "Oct 30 - 31, 2018",
+    "latitude": -33.93755,
+    "longitude": 18.51933,
+    "slug": "2018-10-30-SWC-course",
+    "start": "2018-10-30",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://h3abionet.github.io/2018-10-30-SWC-course/",
+    "venue": "UCT Faculty of Health Sciences - Postgrad Room 2"
+  },
+  {
+    "address": "Continuing Education Centre, Grahamstown",
+    "country": "ZA",
+    "end": "2018-11-09",
+    "eventbrite_id": "",
+    "humandate": "Nov 07 - 09, 2018",
+    "latitude": -33.3170479,
+    "longitude": 26.5108861,
+    "slug": "2018-11-07-Rhodes-Uni",
+    "start": "2018-11-07",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://TENET-RCCPII.github.io/2018-11-07-Rhodes-Uni/",
+    "venue": "Rhodes University"
+  },
+  {
+    "address": "Skills Centre, Sefako Makgatho University",
+    "country": "ZA",
+    "end": "2018-11-09",
+    "eventbrite_id": "",
+    "humandate": "Nov 07 - 09, 2018",
+    "latitude": -25.6211893,
+    "longitude": 28.0147046,
+    "slug": "2018-11-07-SMU",
+    "start": "2018-11-07",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2018-11-07-SMU/",
+    "venue": "Sefako Makgatho University"
+  },
+  {
     "address": "Teorifagbygget 1 room 1.425 (Nov 8) and room 1.343 (Nov 9), UiT",
     "country": "NO",
     "end": "2018-11-09",
@@ -286,6 +358,42 @@
     ],
     "url": "https://nesclic.github.io/2018-11-09-tufts/",
     "venue": "Tufts University"
+  },
+  {
+    "address": "University of Fort Hare, Alice Campus",
+    "country": "ZA",
+    "end": "2018-11-14",
+    "eventbrite_id": "",
+    "humandate": "Nov 12 - 14, 2018",
+    "latitude": -32.7891356,
+    "longitude": 26.7897755,
+    "slug": "2018-11-12-UFH-Alice",
+    "start": "2018-11-12",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/",
+    "venue": "University of Fort Hare - Alice Campus"
+  },
+  {
+    "address": "CAD Lab, School of Environmental Sciences, University of Venda, University Street",
+    "country": "ZA",
+    "end": "2018-11-15",
+    "eventbrite_id": "",
+    "humandate": "Nov 13 - 15, 2018",
+    "latitude": -22.9761353,
+    "longitude": 30.444291,
+    "slug": "2018-11-13-UNIVEN",
+    "start": "2018-11-13",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2018-11-13-UNIVEN/",
+    "venue": "University of Venda"
   },
   {
     "address": "Room 1H, Via Mesiano 77, 38123 Trento",
