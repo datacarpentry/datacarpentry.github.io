@@ -1,77 +1,5 @@
 [
   {
-    "address": "FIXME",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 40.92569,
-    "longitude": -73.141129,
-    "slug": "2018-10-22-Stonybrook-IACS-R",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://jjborrelli.github.io/2018-10-22-Stonybrook-IACS-R/",
-    "venue": "Stonybrook"
-  },
-  {
-    "address": "East Asia Library Room 224, 518 Memorial Way, Stanford University",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 37.429175,
-    "longitude": -122.167326,
-    "slug": "2018-10-22-ttt-stanford",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "TTT"
-      }
-    ],
-    "url": "https://amyehodge.github.io/2018-10-22-ttt-stanford/",
-    "venue": "Stanford University"
-  },
-  {
-    "address": "Woods Hole, MA 02543, USA",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 41.524235,
-    "longitude": -70.671161,
-    "slug": "2018-10-22-whoi",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://jules32.github.io/2018-10-22-whoi/",
-    "venue": "Woods Hole Oceanographic Institution"
-  },
-  {
-    "address": "Rockefeller Library, 10 Prospect Street, Providence, RI 02912",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "48562683293",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 41.825748,
-    "longitude": -71.405109,
-    "slug": "2018-10-22-yale",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://nesclic.github.io/2018-10-22-NEASIST-Brown/",
-    "venue": "Brown University Library"
-  },
-  {
     "address": "Informatics Institute Lecture Room",
     "country": "US",
     "end": "2018-10-24",
@@ -270,6 +198,24 @@
     "venue": "UCT Faculty of Health Sciences - Postgrad Room 2"
   },
   {
+    "address": "KL 371, Kolligian Library, 5200 N. Lake Road, 5200 Lake Rd #275, Merced, CA 95343",
+    "country": "US",
+    "end": "2018-11-02",
+    "eventbrite_id": "",
+    "humandate": "Nov 01 - 02, 2018",
+    "latitude": 37.366363,
+    "longitude": -120.424329,
+    "slug": "2018-11-01-ucmerced",
+    "start": "2018-11-01",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://noracmitchell.github.io/2018-11-01-ucmerced/",
+    "venue": "UC Merced"
+  },
+  {
     "address": "Continuing Education Centre, Grahamstown",
     "country": "ZA",
     "end": "2018-11-09",
@@ -304,6 +250,24 @@
     ],
     "url": "https://tenet-rccpii.github.io/2018-11-07-SMU/",
     "venue": "Sefako Makgatho University"
+  },
+  {
+    "address": "Christopher Ingold Building, Cluster Room G20, 20 Gordon Street, London WC1H 0AJ",
+    "country": "GB",
+    "end": "2018-11-08",
+    "eventbrite_id": "",
+    "humandate": "Nov 07 - 08, 2018",
+    "latitude": 51.52538039,
+    "longitude": -0.132326449,
+    "slug": "2018-11-07-UCL_software_carpentry",
+    "start": "2018-11-07",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "http://rits.github-pages.ucl.ac.uk/2018-11-07-UCL_software_carpentry/",
+    "venue": "University College London"
   },
   {
     "address": "Teorifagbygget 1 room 1.425 (Nov 8) and room 1.343 (Nov 9), UiT",
@@ -415,7 +379,7 @@
   },
   {
     "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
-    "country": "CH",
+    "country": "",
     "end": "2018-11-29",
     "eventbrite_id": "",
     "humandate": "Nov 20 - 29, 2018",
@@ -429,7 +393,7 @@
       }
     ],
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
-    "venue": "Rolex Learning Center - Hodler"
+    "venue": "EPFL Library - Ecole Polytechnique Fédérale de Lausanne"
   },
   {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
