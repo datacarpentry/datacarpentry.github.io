@@ -1,23 +1,5 @@
 [
   {
-    "address": "Informatics Institute Lecture Room",
-    "country": "US",
-    "end": "2018-10-24",
-    "eventbrite_id": "",
-    "humandate": "Oct 23 - 24, 2018",
-    "latitude": 29.64804,
-    "longitude": -82.34406,
-    "slug": "2018-10-23-ufii-geospatial",
-    "start": "2018-10-23",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/",
-    "venue": "UF Informatics Institute Geospatial Workshop"
-  },
-  {
     "address": "Gleueler Straße 60, 50931 Köln",
     "country": "DE",
     "end": "2018-10-25",
