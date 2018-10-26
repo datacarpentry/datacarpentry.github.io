@@ -153,7 +153,7 @@ in late 2018.
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="Repository for shell genomics lesson"></a></td>
    	<td><a href="{{site.dc_github_site_url}}/shell-genomics/reference/" target="_blank" class="icon-eye" title="Reference for shell genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/shell-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for shell genomics lesson"></a></td>
-    <td>Shichen Wang, Anita Schürch, Bastian Greshak, Sue McClatchy</td>
+    <td>Shichen Wang, Anita Schürch, Bastian Greshak</td>
   </tr>
     <tr>
     <td>Data Wrangling and Processing for Genomics</td>
