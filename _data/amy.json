@@ -1,77 +1,5 @@
 [
   {
-    "address": "Gleueler Straße 60, 50931 Köln",
-    "country": "DE",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": 50.924681,
-    "longitude": 50.924681,
-    "slug": "2018-10-24-Library_Carpentry_Cologne",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://zbmed.github.io/2018-10-24-Library_Carpentry_Cologne/",
-    "venue": "ZB MED"
-  },
-  {
-    "address": "15 Lippitt Rd, Kingston, RI 02881",
-    "country": "US",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": 41.4877084,
-    "longitude": -71.5288092,
-    "slug": "2018-10-24-ttt-uri",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "TTT"
-      }
-    ],
-    "url": "https://jt14den.github.io/2018-10-24-ttt-providence/",
-    "venue": "Carrothers Library, URI Kingston Campus"
-  },
-  {
-    "address": "Room: Vergaderzaal B0.1, Campus Coupure, Coupure Links 653, 9000 Gent, Belgium",
-    "country": "BE",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": 51.052779,
-    "longitude": 3.708959,
-    "slug": "2018-10-24-ugent",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://orchid00.github.io/2018-10-24-ugent/",
-    "venue": "University of Ghent"
-  },
-  {
-    "address": "Building 13, Vaal Library Research Commons",
-    "country": "ZA",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": -26.72557,
-    "longitude": 27.87926,
-    "slug": "2018-10-25-Open-Access-Week",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://nwu-eresearch.github.io/2018-10-25-Open-Access-Week/",
-    "venue": "North West University, Vaal Campus Library"
-  },
-  {
     "address": "Old Dominion University, Perry Library Learning Commons, Conference Room 1310-1311",
     "country": "US",
     "end": "2018-10-26",
@@ -252,6 +180,24 @@
     "venue": "University College London"
   },
   {
+    "address": "Room B1.15A, Cruciform Building, UCL, Gower Street WC1E 6BT",
+    "country": "GB",
+    "end": "2018-11-09",
+    "eventbrite_id": "",
+    "humandate": "Nov 08 - 09, 2018",
+    "latitude": 51.524,
+    "longitude": -0.13512,
+    "slug": "2018-11-08-ucl",
+    "start": "2018-11-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ucl-hep.github.io/2018-11-08-ucl/",
+    "venue": "University College London, High-Energy Physics Group"
+  },
+  {
     "address": "Teorifagbygget 1 room 1.425 (Nov 8) and room 1.343 (Nov 9), UiT",
     "country": "NO",
     "end": "2018-11-09",
@@ -412,6 +358,24 @@
     ],
     "url": "https://uci-libraries.github.io/2018-11-28-UCI/",
     "venue": "UC Irvine Libraries"
+  },
+  {
+    "address": "Gladys Valley Hall, Room 2030, Davis, California 95616",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": 38.532812,
+    "longitude": -121.763881,
+    "slug": "2018-11-29-davis-geospatial",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://mikoontz.github.io/2018-11-29-davis-geospatial/",
+    "venue": "University of California, Davis"
   },
   {
     "address": "Gleueler Straße 60, 50931 Köln",
