@@ -1,59 +1,5 @@
 [
   {
-    "address": "Old Dominion University, Perry Library Learning Commons, Conference Room 1310-1311",
-    "country": "US",
-    "end": "2018-10-26",
-    "eventbrite_id": "",
-    "humandate": "Oct 25 - 26, 2018",
-    "latitude": 36.884672,
-    "longitude": -76.300612,
-    "slug": "2018-10-25-odu",
-    "start": "2018-10-25",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://rbavery.github.io/2018-10-25-odu/",
-    "venue": "Old Dominion University"
-  },
-  {
-    "address": "Willis Library, Room 443, 1506 Highland St., Denton, TX 76203",
-    "country": "US",
-    "end": "2018-10-26",
-    "eventbrite_id": "50968632552",
-    "humandate": "Oct 25 - 26, 2018",
-    "latitude": 33.210068,
-    "longitude": -97.148954,
-    "slug": "2018-10-25-unt-swc",
-    "start": "2018-10-25",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://unt-carpentries.github.io/2018-10-25-unt-swc/",
-    "venue": "University of North Texas"
-  },
-  {
-    "address": "Room 202, PACCAR building (2001 Grimes Way), Pullman, WA",
-    "country": "US",
-    "end": "2018-10-26",
-    "eventbrite_id": "",
-    "humandate": "Oct 25 - 26, 2018",
-    "latitude": 46.7295857,
-    "longitude": -117.1545807,
-    "slug": "2018-10-25-wsu",
-    "start": "2018-10-25",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://mbrousil.github.io/2018-10-25-wsu/",
-    "venue": "Washington State University"
-  },
-  {
     "address": "강원도 춘천시 한림대학길 1 공학관 1116-3호",
     "country": "KR",
     "end": "2018-10-28",
