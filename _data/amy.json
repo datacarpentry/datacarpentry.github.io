@@ -1,23 +1,5 @@
 [
   {
-    "address": "강원도 춘천시 한림대학길 1 공학관 1116-3호",
-    "country": "KR",
-    "end": "2018-10-28",
-    "eventbrite_id": "51353898894",
-    "humandate": "Oct 27 - 28, 2018",
-    "latitude": 37.8863,
-    "longitude": 127.7358,
-    "slug": "2018-10-27-hallym",
-    "start": "2018-10-27",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://statkclee.github.io/2018-10-27-hallym/",
-    "venue": "한림대학교"
-  },
-  {
     "address": "Frontier Room, Discovery Hall, Building 3400, Richland WA",
     "country": "US",
     "end": "2018-10-30",
@@ -70,6 +52,60 @@
     ],
     "url": "https://noracmitchell.github.io/2018-11-01-ucmerced/",
     "venue": "UC Merced"
+  },
+  {
+    "address": "206 Edmon Low Library",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "51815645992",
+    "humandate": "Nov 02 - 30, 2018",
+    "latitude": 36.122953,
+    "longitude": -97.069701,
+    "slug": "2018-11-02-okstate-afternoon",
+    "start": "2018-11-02",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2018-11-02-okstate-afternoon/",
+    "venue": "Oklahoma State University"
+  },
+  {
+    "address": "206 Edmon Low Library",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "51782146795",
+    "humandate": "Nov 02 - 30, 2018",
+    "latitude": 36.122953,
+    "longitude": -97.069701,
+    "slug": "2018-11-02-okstate-morning",
+    "start": "2018-11-02",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2018-11-02-okstate-morning/",
+    "venue": "Oklahoma State University"
+  },
+  {
+    "address": "Pavillon Lionel Groulx C-2086,  3150 rue Jean Brillant, Montréal, QC, H3T 1N8",
+    "country": "CA",
+    "end": "2018-11-06",
+    "eventbrite_id": "50357001146",
+    "humandate": "Nov 05 - 06, 2018",
+    "latitude": 45.498663,
+    "longitude": -73.618536,
+    "slug": "2018-11-05-umontreal",
+    "start": "2018-11-05",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://computecanada.github.io/2018-11-05-umontreal/",
+    "venue": "Université de Montréal"
   },
   {
     "address": "Continuing Education Centre, Grahamstown",
@@ -234,6 +270,24 @@
     "venue": "University of Venda"
   },
   {
+    "address": "Bell Room (room 103), 3600 Rue University, Montréal",
+    "country": "CA",
+    "end": "2018-11-21",
+    "eventbrite_id": "50372379142",
+    "humandate": "Nov 14 - 21, 2018",
+    "latitude": 45.506864,
+    "longitude": -73.578345,
+    "slug": "2018-11-14-mcgill",
+    "start": "2018-11-14",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://computecanada.github.io/2018-11-14-mcgill/",
+    "venue": "McGill University"
+  },
+  {
     "address": "Room 1H, Via Mesiano 77, 38123 Trento",
     "country": "IT",
     "end": "2018-11-15",
@@ -252,6 +306,24 @@
     "venue": "University of Trento"
   },
   {
+    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
+    "country": "US",
+    "end": "2018-11-20",
+    "eventbrite_id": "51666722558",
+    "humandate": "Nov 19 - 20, 2018",
+    "latitude": 35.208275,
+    "longitude": -97.445848,
+    "slug": "2018-11-19-ou-dc",
+    "start": "2018-11-19",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://oulib-swc.github.io/2018-11-19-ou-dc/",
+    "venue": "University of Oklahoma"
+  },
+  {
     "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
     "country": "",
     "end": "2018-11-29",
@@ -268,6 +340,42 @@
     ],
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
     "venue": "EPFL Library - Ecole Polytechnique Fédérale de Lausanne"
+  },
+  {
+    "address": "Classroom 4, Biomedical Library Building, 9500 Gilman Dr., La Jolla, CA 92093",
+    "country": "",
+    "end": "2018-11-28",
+    "eventbrite_id": "51557953226",
+    "humandate": "Nov 27 - 28, 2018",
+    "latitude": 32.875527,
+    "longitude": -117.237224,
+    "slug": "2018-11-27-UCSD",
+    "start": "2018-11-27",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ucsdlib.github.io/2018-11-27-UCSD/",
+    "venue": "UC San Diego Library"
+  },
+  {
+    "address": "Parliament Hall, University of St Andrews, St Mary's College, St Andrews, KY16 9JU",
+    "country": "GB",
+    "end": "2018-11-28",
+    "eventbrite_id": "",
+    "humandate": "Nov 27 - 28, 2018",
+    "latitude": 56.339324,
+    "longitude": -2.793983,
+    "slug": "2018-11-27-standrews",
+    "start": "2018-11-27",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://starescomp.github.io/2018-11-27-standrews/",
+    "venue": "University of St Andrews"
   },
   {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
@@ -322,6 +430,24 @@
     ],
     "url": "https://mikoontz.github.io/2018-11-29-davis-geospatial/",
     "venue": "University of California, Davis"
+  },
+  {
+    "address": "Universidad Nacional de Quilmes",
+    "country": "AR",
+    "end": "2018-12-07",
+    "eventbrite_id": "",
+    "humandate": "Dec 05 - 07, 2018",
+    "latitude": 6.26282,
+    "longitude": -75.576103,
+    "slug": "2018-12-05-quilmes",
+    "start": "2018-12-05",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://malvikasharan.github.io/2018-12-05-quilmes/",
+    "venue": "Computational Skills for Life Scientists, Universidad Nacional de Quilmes"
   },
   {
     "address": "Gleueler Straße 60, 50931 Köln",
