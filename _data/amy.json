@@ -108,6 +108,24 @@
     "venue": "Université de Montréal"
   },
   {
+    "address": "CDT space, Central Library level 4, access from the 2nd floor of Sherfield building (SW corner, towards the Great Hall, follow the signs to Software Carpentry), South Kensington Campus, Imperial College London, SW7 2AZ",
+    "country": "GB",
+    "end": "2018-11-08",
+    "eventbrite_id": "",
+    "humandate": "Nov 07 - 08, 2018",
+    "latitude": 51.4988,
+    "longitude": -0.174877,
+    "slug": "2018-11-07-Imperial",
+    "start": "2018-11-07",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kmichali.github.io/2018-11-07-Imperial/",
+    "venue": "Imperial College London"
+  },
+  {
     "address": "Continuing Education Centre, Grahamstown",
     "country": "ZA",
     "end": "2018-11-09",
@@ -322,6 +340,24 @@
     ],
     "url": "https://oulib-swc.github.io/2018-11-19-ou-dc/",
     "venue": "University of Oklahoma"
+  },
+  {
+    "address": "Room 115&116, Ülikooli 17, Tartu",
+    "country": "EE",
+    "end": "2018-11-20",
+    "eventbrite_id": "",
+    "humandate": "Nov 19 - 20, 2018",
+    "latitude": 59.432257,
+    "longitude": 24.742271,
+    "slug": "2018-11-19-tartu",
+    "start": "2018-11-19",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://elixirestonia.github.io/2018-11-19-tartu/",
+    "venue": "University of Tartu"
   },
   {
     "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
