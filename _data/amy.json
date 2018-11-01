@@ -1,41 +1,5 @@
 [
   {
-    "address": "Frontier Room, Discovery Hall, Building 3400, Richland WA",
-    "country": "US",
-    "end": "2018-10-30",
-    "eventbrite_id": "",
-    "humandate": "Oct 29 - 30, 2018",
-    "latitude": 46.3513347,
-    "longitude": -119.2783712,
-    "slug": "2018-10-29-PNNL-SWC",
-    "start": "2018-10-29",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://pnnl-compbio.github.io/2018-10-29-PNNL-SWC/",
-    "venue": "Pacific Northwest National Laboratory"
-  },
-  {
-    "address": "Barnard Fuller Building, Anzio Road, Observatory, Cape Town",
-    "country": "ZA",
-    "end": "2018-10-31",
-    "eventbrite_id": "",
-    "humandate": "Oct 30 - 31, 2018",
-    "latitude": -33.93755,
-    "longitude": 18.51933,
-    "slug": "2018-10-30-SWC-course",
-    "start": "2018-10-30",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://h3abionet.github.io/2018-10-30-SWC-course/",
-    "venue": "UCT Faculty of Health Sciences - Postgrad Room 2"
-  },
-  {
     "address": "KL 371, Kolligian Library, 5200 N. Lake Road, 5200 Lake Rd #275, Merced, CA 95343",
     "country": "US",
     "end": "2018-11-02",
@@ -106,6 +70,24 @@
     ],
     "url": "https://computecanada.github.io/2018-11-05-umontreal/",
     "venue": "Université de Montréal"
+  },
+  {
+    "address": "Holt Conference Room, 10 Discovery Drive, Farmington CT",
+    "country": "US",
+    "end": "2018-11-07",
+    "eventbrite_id": "51267634876",
+    "humandate": "Nov 06 - 07, 2018",
+    "latitude": 41.732284,
+    "longitude": -72.793404,
+    "slug": "2018-11-06-jax",
+    "start": "2018-11-06",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://thejacksonlaboratory.github.io/2018-11-06-jax/",
+    "venue": "The Jackson Laboratory for Genomic Medicine"
   },
   {
     "address": "CDT space, Central Library level 4, access from the 2nd floor of Sherfield building (SW corner, towards the Great Hall, follow the signs to Software Carpentry), South Kensington Campus, Imperial College London, SW7 2AZ",
