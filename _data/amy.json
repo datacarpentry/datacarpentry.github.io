@@ -306,6 +306,24 @@
     "venue": "University of Trento"
   },
   {
+    "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
+    "country": "GB",
+    "end": "2018-11-20",
+    "eventbrite_id": "",
+    "humandate": "Nov 19 - 20, 2018",
+    "latitude": 53.4640904,
+    "longitude": -2.2296408,
+    "slug": "2018-11-19-manchester",
+    "start": "2018-11-19",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://anenadic.github.io/2018-11-19-manchester/",
+    "venue": "University of Manchester"
+  },
+  {
     "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
     "country": "US",
     "end": "2018-11-20",
@@ -466,6 +484,24 @@
     ],
     "url": "https://malvikasharan.github.io/2018-12-05-quilmes/",
     "venue": "Computational Skills for Life Scientists, Universidad Nacional de Quilmes"
+  },
+  {
+    "address": "New Law Building Learning Studio 030, University of Sydney Camperdown Campus, NSW 2050",
+    "country": "AU",
+    "end": "2018-12-11",
+    "eventbrite_id": "51950887503",
+    "humandate": "Dec 10 - 11, 2018",
+    "latitude": -33.887563,
+    "longitude": 151.190263,
+    "slug": "2018-12-10-USyd",
+    "start": "2018-12-10",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://sydney-informatics-hub.github.io/2018_12_10_GISworkshop/",
+    "venue": "University of Sydney"
   },
   {
     "address": "Gleueler Straße 60, 50931 Köln",
