@@ -1,23 +1,5 @@
 [
   {
-    "address": "KL 371, Kolligian Library, 5200 N. Lake Road, 5200 Lake Rd #275, Merced, CA 95343",
-    "country": "US",
-    "end": "2018-11-02",
-    "eventbrite_id": "",
-    "humandate": "Nov 01 - 02, 2018",
-    "latitude": 37.366363,
-    "longitude": -120.424329,
-    "slug": "2018-11-01-ucmerced",
-    "start": "2018-11-01",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://noracmitchell.github.io/2018-11-01-ucmerced/",
-    "venue": "UC Merced"
-  },
-  {
     "address": "206 Edmon Low Library",
     "country": "US",
     "end": "2018-11-30",
