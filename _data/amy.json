@@ -289,7 +289,7 @@
   },
   {
     "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
-    "country": "GB",
+    "country": "",
     "end": "2018-11-20",
     "eventbrite_id": "",
     "humandate": "Nov 19 - 20, 2018",
@@ -432,6 +432,24 @@
     "venue": "UC Irvine Libraries"
   },
   {
+    "address": "LSC 200 (15 Dewey Field Rd, Hanover, NH 03755)",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": 43.70903,
+    "longitude": -72.2839,
+    "slug": "2018-11-29-dartmouth",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2018-11-29-dartmouth/",
+    "venue": "Dartmouth College"
+  },
+  {
     "address": "Gladys Valley Hall, Room 2030, Davis, California 95616",
     "country": "US",
     "end": "2018-11-30",
@@ -520,6 +538,42 @@
     ],
     "url": "https://libcce.github.io/2018-12-13-GMU/",
     "venue": "George Mason University Libraries"
+  },
+  {
+    "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
+    "country": "GR",
+    "end": "2019-01-11",
+    "eventbrite_id": "52153548668",
+    "humandate": "Jan 10 - 11, 2019",
+    "latitude": 37.991431,
+    "longitude": 23.780932,
+    "slug": "2019-01-10-elixir-athens",
+    "start": "2019-01-10",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
+    "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
+  },
+  {
+    "address": "Room 107, Mathewson-IGT Knowledge Center, 1664 North Virginia St, Reno",
+    "country": "US",
+    "end": "2019-01-16",
+    "eventbrite_id": "",
+    "humandate": "Jan 15 - 16, 2019",
+    "latitude": 39.57427,
+    "longitude": -119.82982,
+    "slug": "2018-01-15-reno",
+    "start": "2019-01-15",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://sateeshperi.github.io/2019-01-15-reno/",
+    "venue": "University of Nevada, Reno"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
