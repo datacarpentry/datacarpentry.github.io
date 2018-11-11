@@ -36,117 +36,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Continuing Education Centre, Grahamstown",
-    "country": "ZA",
-    "end": "2018-11-09",
-    "eventbrite_id": "",
-    "humandate": "Nov 07 - 09, 2018",
-    "latitude": -33.3170479,
-    "longitude": 26.5108861,
-    "slug": "2018-11-07-Rhodes-Uni",
-    "start": "2018-11-07",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://TENET-RCCPII.github.io/2018-11-07-Rhodes-Uni/",
-    "venue": "Rhodes University"
-  },
-  {
-    "address": "Skills Centre, Sefako Makgatho University",
-    "country": "ZA",
-    "end": "2018-11-09",
-    "eventbrite_id": "",
-    "humandate": "Nov 07 - 09, 2018",
-    "latitude": -25.6211893,
-    "longitude": 28.0147046,
-    "slug": "2018-11-07-SMU",
-    "start": "2018-11-07",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-11-07-SMU/",
-    "venue": "Sefako Makgatho University"
-  },
-  {
-    "address": "Room B1.15A, Cruciform Building, UCL, Gower Street WC1E 6BT",
-    "country": "GB",
-    "end": "2018-11-09",
-    "eventbrite_id": "",
-    "humandate": "Nov 08 - 09, 2018",
-    "latitude": 51.524,
-    "longitude": -0.13512,
-    "slug": "2018-11-08-ucl",
-    "start": "2018-11-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ucl-hep.github.io/2018-11-08-ucl/",
-    "venue": "University College London, High-Energy Physics Group"
-  },
-  {
-    "address": "Teorifagbygget 1 room 1.425 (Nov 8) and room 1.343 (Nov 9), UiT",
-    "country": "NO",
-    "end": "2018-11-09",
-    "eventbrite_id": "",
-    "humandate": "Nov 08 - 09, 2018",
-    "latitude": 69.681359,
-    "longitude": 18.972166,
-    "slug": "2018-11-08-uit",
-    "start": "2018-11-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://uit-no.github.io/2018-11-08-uit/",
-    "venue": "UiT The Arctic University of Norway"
-  },
-  {
-    "address": "Business & Science Building, 227 Penn Street, Camden, NJ 08102",
-    "country": "US",
-    "end": "2018-11-10",
-    "eventbrite_id": "",
-    "humandate": "Nov 09 - 10, 2018",
-    "latitude": 39.948788,
-    "longitude": -75.124219,
-    "slug": "2018-11-09-rutgers_camden",
-    "start": "2018-11-09",
-    "tags": [
-      {
-        "name": "SWC"
-      },
-      {
-        "name": "stalled"
-      }
-    ],
-    "url": "https://sshende.github.io/2018-11-09-rutgers_camden/",
-    "venue": "Rutgers University, Camden"
-  },
-  {
-    "address": "Tisch Library, Room 302",
-    "country": "US",
-    "end": "2018-11-10",
-    "eventbrite_id": "50143390230",
-    "humandate": "Nov 09 - 10, 2018",
-    "latitude": 42.406172,
-    "longitude": -71.11884,
-    "slug": "2018-11-09-tufts",
-    "start": "2018-11-09",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://nesclic.github.io/2018-11-09-tufts/",
-    "venue": "Tufts University"
-  },
-  {
     "address": "University of Fort Hare, Alice Campus",
     "country": "ZA",
     "end": "2018-11-14",
@@ -235,6 +124,24 @@
     ],
     "url": "https://mkcor.github.io/2018-11-14-trento/",
     "venue": "University of Trento"
+  },
+  {
+    "address": "1510 E. University Blvd., Tucson, AZ, USA",
+    "country": "US",
+    "end": "2018-11-16",
+    "eventbrite_id": "",
+    "humandate": "Nov 15 - 16, 2018",
+    "latitude": 32.231035,
+    "longitude": -110.949291,
+    "slug": "2018-11-15-ttt-cyverse",
+    "start": "2018-11-15",
+    "tags": [
+      {
+        "name": "TTT"
+      }
+    ],
+    "url": "https://jcoliver.github.io/2018-11-15-ttt-cyverse/",
+    "venue": "University of Arizona"
   },
   {
     "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
