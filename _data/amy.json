@@ -72,24 +72,6 @@
     "venue": "University of Venda"
   },
   {
-    "address": "Room 009",
-    "country": "GB",
-    "end": "2018-11-13",
-    "eventbrite_id": "",
-    "humandate": "Nov 13 - 13, 2018",
-    "latitude": 52.176783,
-    "longitude": 0.135569,
-    "slug": "2018-11-13-shell",
-    "start": "2018-11-13",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://bioinformatics-core-shared-training.github.io/2018-11-13-shell/",
-    "venue": "CRUK Cambridge Institute"
-  },
-  {
     "address": "Bell Room (room 103), 3600 Rue University, Montréal",
     "country": "CA",
     "end": "2018-11-21",
@@ -145,7 +127,7 @@
   },
   {
     "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
-    "country": "",
+    "country": "GB",
     "end": "2018-11-20",
     "eventbrite_id": "",
     "humandate": "Nov 19 - 20, 2018",
@@ -342,6 +324,24 @@
     "venue": "University of California, Davis"
   },
   {
+    "address": "27 Creyke Rd, Ilam, Christchurch 8041",
+    "country": "NZ",
+    "end": "2018-11-30",
+    "eventbrite_id": "",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": -43.5225534,
+    "longitude": 172.5866404,
+    "slug": "2018-11-29-esr",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://otagocarpentries.github.io/2018-11-29-esr/",
+    "venue": "ESR Christchurch Science Centre - Kawakawa Room"
+  },
+  {
     "address": "Universidad Nacional de Quilmes",
     "country": "AR",
     "end": "2018-12-07",
@@ -469,6 +469,24 @@
     ],
     "url": "https://sateeshperi.github.io/2019-01-15-reno/",
     "venue": "University of Nevada, Reno"
+  },
+  {
+    "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
+    "country": "US",
+    "end": "2019-01-17",
+    "eventbrite_id": "",
+    "humandate": "Jan 16 - 17, 2019",
+    "latitude": 43.0729163,
+    "longitude": -89.410268,
+    "slug": "2019-01-16-uwmadison-dc",
+    "start": "2019-01-16",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
+    "venue": "Data Carpentry @ UW Madison"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
