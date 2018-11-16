@@ -36,42 +36,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "University of Fort Hare, Alice Campus",
-    "country": "ZA",
-    "end": "2018-11-14",
-    "eventbrite_id": "",
-    "humandate": "Nov 12 - 14, 2018",
-    "latitude": -32.7891356,
-    "longitude": 26.7897755,
-    "slug": "2018-11-12-UFH-Alice",
-    "start": "2018-11-12",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/",
-    "venue": "University of Fort Hare - Alice Campus"
-  },
-  {
-    "address": "CAD Lab, School of Environmental Sciences, University of Venda, University Street",
-    "country": "ZA",
-    "end": "2018-11-15",
-    "eventbrite_id": "",
-    "humandate": "Nov 13 - 15, 2018",
-    "latitude": -22.9761353,
-    "longitude": 30.444291,
-    "slug": "2018-11-13-UNIVEN",
-    "start": "2018-11-13",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-11-13-UNIVEN/",
-    "venue": "University of Venda"
-  },
-  {
     "address": "Bell Room (room 103), 3600 Rue University, Montréal",
     "country": "CA",
     "end": "2018-11-21",
@@ -88,24 +52,6 @@
     ],
     "url": "https://computecanada.github.io/2018-11-14-mcgill/",
     "venue": "McGill University"
-  },
-  {
-    "address": "Room 1H, Via Mesiano 77, 38123 Trento",
-    "country": "IT",
-    "end": "2018-11-15",
-    "eventbrite_id": "",
-    "humandate": "Nov 14 - 15, 2018",
-    "latitude": 46.06703,
-    "longitude": 11.13908,
-    "slug": "2018-11-14-trento",
-    "start": "2018-11-14",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://mkcor.github.io/2018-11-14-trento/",
-    "venue": "University of Trento"
   },
   {
     "address": "1510 E. University Blvd., Tucson, AZ, USA",
@@ -433,6 +379,24 @@
     ],
     "url": "https://libcce.github.io/2018-12-13-GMU/",
     "venue": "George Mason University Libraries"
+  },
+  {
+    "address": "2710 Med Sci II, 1137 Catherine Street, Ann Arbor, MI",
+    "country": "US",
+    "end": "2018-12-18",
+    "eventbrite_id": "",
+    "humandate": "Dec 17 - 18, 2018",
+    "latitude": 42.283312,
+    "longitude": -83.734801,
+    "slug": "2018-12-17-umich",
+    "start": "2018-12-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://umswc.github.io/2018-12-17-umich/",
+    "venue": "University of Michigan"
   },
   {
     "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
