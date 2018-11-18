@@ -54,24 +54,6 @@
     "venue": "McGill University"
   },
   {
-    "address": "1510 E. University Blvd., Tucson, AZ, USA",
-    "country": "US",
-    "end": "2018-11-16",
-    "eventbrite_id": "",
-    "humandate": "Nov 15 - 16, 2018",
-    "latitude": 32.231035,
-    "longitude": -110.949291,
-    "slug": "2018-11-15-ttt-cyverse",
-    "start": "2018-11-15",
-    "tags": [
-      {
-        "name": "TTT"
-      }
-    ],
-    "url": "https://jcoliver.github.io/2018-11-15-ttt-cyverse/",
-    "venue": "University of Arizona"
-  },
-  {
     "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
     "country": "GB",
     "end": "2018-11-20",
