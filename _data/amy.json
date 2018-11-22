@@ -36,78 +36,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Bell Room (room 103), 3600 Rue University, Montréal",
-    "country": "CA",
-    "end": "2018-11-21",
-    "eventbrite_id": "50372379142",
-    "humandate": "Nov 14 - 21, 2018",
-    "latitude": 45.506864,
-    "longitude": -73.578345,
-    "slug": "2018-11-14-mcgill",
-    "start": "2018-11-14",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://computecanada.github.io/2018-11-14-mcgill/",
-    "venue": "McGill University"
-  },
-  {
-    "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
-    "country": "GB",
-    "end": "2018-11-20",
-    "eventbrite_id": "",
-    "humandate": "Nov 19 - 20, 2018",
-    "latitude": 53.4640904,
-    "longitude": -2.2296408,
-    "slug": "2018-11-19-manchester",
-    "start": "2018-11-19",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://anenadic.github.io/2018-11-19-manchester/",
-    "venue": "University of Manchester"
-  },
-  {
-    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
-    "country": "US",
-    "end": "2018-11-20",
-    "eventbrite_id": "51666722558",
-    "humandate": "Nov 19 - 20, 2018",
-    "latitude": 35.208275,
-    "longitude": -97.445848,
-    "slug": "2018-11-19-ou-dc",
-    "start": "2018-11-19",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://oulib-swc.github.io/2018-11-19-ou-dc/",
-    "venue": "University of Oklahoma"
-  },
-  {
-    "address": "Room 115&116, Ülikooli 17, Tartu",
-    "country": "EE",
-    "end": "2018-11-20",
-    "eventbrite_id": "",
-    "humandate": "Nov 19 - 20, 2018",
-    "latitude": 59.432257,
-    "longitude": 24.742271,
-    "slug": "2018-11-19-tartu",
-    "start": "2018-11-19",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://elixirestonia.github.io/2018-11-19-tartu/",
-    "venue": "University of Tartu"
-  },
-  {
     "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
     "country": "",
     "end": "2018-11-29",
@@ -324,6 +252,24 @@
     "venue": "University of Minnesota, Minneapolis"
   },
   {
+    "address": "CFM Computer Room SSB-008A, basement floor",
+    "country": "ES",
+    "end": "2018-12-20",
+    "eventbrite_id": "",
+    "humandate": "Dec 05 - 20, 2018",
+    "latitude": 43.305667,
+    "longitude": -2.009502,
+    "slug": "2018-12-05-cfm",
+    "start": "2018-12-05",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://scw-ss.github.io/2018-12-05-cfm/",
+    "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
+  },
+  {
     "address": "Universidad Nacional de Quilmes",
     "country": "AR",
     "end": "2018-12-07",
@@ -435,6 +381,24 @@
     "venue": "University of Michigan"
   },
   {
+    "address": "Peter Kiewit Institute - Room 158, 1110 S 67th St, Omaha, NE 68182",
+    "country": "US",
+    "end": "2019-01-04",
+    "eventbrite_id": "",
+    "humandate": "Jan 03 - 04, 2019",
+    "latitude": 41.247015,
+    "longitude": -96.016604,
+    "slug": "2019-01-03-UNO",
+    "start": "2019-01-03",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://unlhcc.github.io/2019-01-03-UNO/",
+    "venue": "University of Nebraska at Omaha"
+  },
+  {
     "address": "Business and Aerospace Building (S316 and S326), 1642 MTSU Blvd, Murfreesboro, TN",
     "country": "US",
     "end": "2019-01-09",
@@ -453,6 +417,24 @@
     "venue": "MTSU (Business & Aerospace Building)"
   },
   {
+    "address": "Du Bois Library, 154 Hicks Way, Amherst, MA 01003",
+    "country": "US",
+    "end": "2019-01-09",
+    "eventbrite_id": "",
+    "humandate": "Jan 08 - 09, 2019",
+    "latitude": 42.389813,
+    "longitude": -72.52825,
+    "slug": "2019-01-08-umass",
+    "start": "2019-01-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2019-01-08-umass/",
+    "venue": "University of Massachusetts Amherst"
+  },
+  {
     "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
     "country": "GR",
     "end": "2019-01-11",
@@ -469,6 +451,24 @@
     ],
     "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
     "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
+  },
+  {
+    "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
+    "country": "US",
+    "end": "2019-01-15",
+    "eventbrite_id": "",
+    "humandate": "Jan 14 - 15, 2019",
+    "latitude": 43.0729163,
+    "longitude": -89.410268,
+    "slug": "2019-01-14-uwmadison-swc",
+    "start": "2019-01-14",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uw-madison-datascience.github.io/2019-01-14-uwmadison-swc/",
+    "venue": "Software Carpentry @ UW Madison"
   },
   {
     "address": "Room 107, Mathewson-IGT Knowledge Center, 1664 North Virginia St, Reno",
