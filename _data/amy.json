@@ -54,24 +54,6 @@
     "venue": "EPFL Library - Ecole Polytechnique Fédérale de Lausanne"
   },
   {
-    "address": "Pam Liversidge Building, Design Studio 1, D06, Corner of Broad Lane and Newcastle Street, Sheffield S1 3JD",
-    "country": "GB",
-    "end": "2018-11-27",
-    "eventbrite_id": "",
-    "humandate": "Nov 26 - 27, 2018",
-    "latitude": 53.382624,
-    "longitude": -1.477762,
-    "slug": "2018-11-26-sheffield",
-    "start": "2018-11-26",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "http://sbc.shef.ac.uk/2018-11-26-sheffield/",
-    "venue": "University of Sheffield"
-  },
-  {
     "address": "Classroom 4, Biomedical Library Building, 9500 Gilman Dr., La Jolla, CA 92093",
     "country": "",
     "end": "2018-11-28",
