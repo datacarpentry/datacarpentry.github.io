@@ -36,94 +36,22 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
-    "country": "",
-    "end": "2018-11-29",
+    "address": "DILLA, Ethiopia",
+    "country": "ET",
+    "end": "2018-11-30",
     "eventbrite_id": "",
-    "humandate": "Nov 20 - 29, 2018",
-    "latitude": 46.518304,
-    "longitude": 6.568269,
-    "slug": "2018-11-20-epfl",
-    "start": "2018-11-20",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
-    "venue": "EPFL Library - Ecole Polytechnique Fédérale de Lausanne"
-  },
-  {
-    "address": "Classroom 4, Biomedical Library Building, 9500 Gilman Dr., La Jolla, CA 92093",
-    "country": "",
-    "end": "2018-11-28",
-    "eventbrite_id": "51557953226",
-    "humandate": "Nov 27 - 28, 2018",
-    "latitude": 32.875527,
-    "longitude": -117.237224,
-    "slug": "2018-11-27-UCSD",
-    "start": "2018-11-27",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ucsdlib.github.io/2018-11-27-UCSD/",
-    "venue": "UC San Diego Library"
-  },
-  {
-    "address": "Parliament Hall, University of St Andrews, St Mary's College, St Andrews, KY16 9JU",
-    "country": "GB",
-    "end": "2018-11-28",
-    "eventbrite_id": "",
-    "humandate": "Nov 27 - 28, 2018",
-    "latitude": 56.339324,
-    "longitude": -2.793983,
-    "slug": "2018-11-27-standrews",
-    "start": "2018-11-27",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://starescomp.github.io/2018-11-27-standrews/",
-    "venue": "University of St Andrews"
-  },
-  {
-    "address": "Nicolas Cabrera 13, Madrid, Spain",
-    "country": "ES",
-    "end": "2018-11-29",
-    "eventbrite_id": "48796912880",
-    "humandate": "Nov 28 - 29, 2018",
-    "latitude": 40.549532,
-    "longitude": -3.687608,
-    "slug": "2018-11-28-cftmat",
+    "humandate": "Nov 28 - 30, 2018",
+    "latitude": 8.64001,
+    "longitude": 38.04957,
+    "slug": "2018-11-28-SWC-DU",
     "start": "2018-11-28",
     "tags": [
       {
         "name": "SWC"
       }
     ],
-    "url": "https://adgdt.github.io/2018-11-28-cftmat/",
-    "venue": "Centro de Física Teórica y Matemáticas"
-  },
-  {
-    "address": "Langson Library RM 570",
-    "country": "US",
-    "end": "2018-11-29",
-    "eventbrite_id": "50242892845",
-    "humandate": "Nov 28 - 29, 2018",
-    "latitude": 33.647111,
-    "longitude": -117.8411,
-    "slug": "2018-11-28-ucirvine",
-    "start": "2018-11-28",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://uci-libraries.github.io/2018-11-28-UCI/",
-    "venue": "UC Irvine Libraries"
+    "url": "https://dagimy.github.io/2018-11-28-SWC-DU/",
+    "venue": "Dilla University"
   },
   {
     "address": "LSC 200 (15 Dewey Field Rd, Hanover, NH 03755)",
@@ -198,6 +126,24 @@
     "venue": "Stanford University Medicine"
   },
   {
+    "address": "Dean's Office, International Training Coordination Center, Nagyerdei krt. 98, H-4032 Debrecen, Hungary",
+    "country": "HU",
+    "end": "2018-12-02",
+    "eventbrite_id": "51195018679",
+    "humandate": "Dec 01 - 02, 2018",
+    "latitude": 47.53986,
+    "longitude": 21.63517,
+    "slug": "2018-12-01-elixir-debrecen",
+    "start": "2018-12-01",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fpsom.github.io/2018-12-01-elixir-debrecen/",
+    "venue": "University of Debrecen, Medical Faculty"
+  },
+  {
     "address": "RE220, 711 W 40th St, Baltimore, MD 21211",
     "country": "US",
     "end": "2018-12-04",
@@ -232,6 +178,60 @@
     ],
     "url": "https://matthewclark1223.github.io/2018-12-03-umn/",
     "venue": "University of Minnesota, Minneapolis"
+  },
+  {
+    "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
+    "country": "ZA",
+    "end": "2018-12-06",
+    "eventbrite_id": "",
+    "humandate": "Dec 04 - 06, 2018",
+    "latitude": -29.8536081,
+    "longitude": 31.0039191,
+    "slug": "2018-12-04-DUT-DC",
+    "start": "2018-12-04",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-DC/",
+    "venue": "Durban University of Technology"
+  },
+  {
+    "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
+    "country": "ZA",
+    "end": "2018-12-06",
+    "eventbrite_id": "",
+    "humandate": "Dec 04 - 06, 2018",
+    "latitude": -29.8536081,
+    "longitude": 31.0039191,
+    "slug": "2018-12-04-DUT-SWC",
+    "start": "2018-12-04",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-SWC/",
+    "venue": "Durban University of Technology"
+  },
+  {
+    "address": "Seminar Room, H-Block (Physics), Westville Campus",
+    "country": "ZA",
+    "end": "2018-12-05",
+    "eventbrite_id": "",
+    "humandate": "Dec 04 - 05, 2018",
+    "latitude": -29.817262,
+    "longitude": 30.943994,
+    "slug": "2018-12-04-UKZN-SWC",
+    "start": "2018-12-04",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://workshops-ukzn.github.io/2018-12-04-UKZN-SWC/",
+    "venue": "UKZN, Westville Campus"
   },
   {
     "address": "CFM Computer Room SSB-008A, basement floor",
@@ -489,6 +489,24 @@
     "venue": "Data Carpentry @ UW Madison"
   },
   {
+    "address": "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA",
+    "country": "US",
+    "end": "2019-01-23",
+    "eventbrite_id": "52371395253",
+    "humandate": "Jan 22 - 23, 2019",
+    "latitude": 42.31326,
+    "longitude": -71.035406,
+    "slug": "2019-01-22-umb",
+    "start": "2019-01-22",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://jebyrnes.github.io/2019-01-22-UMB/",
+    "venue": "University of Massachusetts Boston"
+  },
+  {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
     "country": "GB",
     "end": "2019-01-23",
@@ -505,5 +523,23 @@
     ],
     "url": "https://tgac.github.io/2019-01-23-SWC/",
     "venue": "Earlham Institute"
+  },
+  {
+    "address": "Seminarraum Y27-H-25, Irchel Campus, Winterthurerstrasse 190, 8057 Zürich",
+    "country": "CH",
+    "end": "2019-02-08",
+    "eventbrite_id": "",
+    "humandate": "Feb 07 - 08, 2019",
+    "latitude": 47.3966,
+    "longitude": 8.55013,
+    "slug": "2019-02-07-zurich",
+    "start": "2019-02-07",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
+    "venue": "University of Zurich"
   }
 ]
