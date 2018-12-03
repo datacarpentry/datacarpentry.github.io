@@ -1,23 +1,5 @@
 [
   {
-    "address": "Dean's Office, International Training Coordination Center, Nagyerdei krt. 98, H-4032 Debrecen, Hungary",
-    "country": "HU",
-    "end": "2018-12-02",
-    "eventbrite_id": "51195018679",
-    "humandate": "Dec 01 - 02, 2018",
-    "latitude": 47.53986,
-    "longitude": 21.63517,
-    "slug": "2018-12-01-elixir-debrecen",
-    "start": "2018-12-01",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://fpsom.github.io/2018-12-01-elixir-debrecen/",
-    "venue": "University of Debrecen, Medical Faculty"
-  },
-  {
     "address": "RE220, 711 W 40th St, Baltimore, MD 21211",
     "country": "US",
     "end": "2018-12-04",
