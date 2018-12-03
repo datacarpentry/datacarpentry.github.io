@@ -161,7 +161,7 @@ in late 2018.
    <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="Repository for Data wrangling genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/reference/" target="_blank" class="icon-eye" title="Reference for data wrangling genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for data wrangling genomics lesson"></a></td>
-    <td>Josh Herr, Ming Tang, Fotis Psomopoulos, Malvika Sharan</td>
+    <td>Josh Herr, Fotis Psomopoulos, Malvika Sharan</td>
   </tr>
   <tr>
     <td>Introduction to Cloud Computing for Genomics</td>
