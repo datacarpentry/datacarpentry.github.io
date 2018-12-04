@@ -90,6 +90,24 @@
     "venue": "UKZN, Westville Campus"
   },
   {
+    "address": "Building 215, Room C103, 100 Bureau Drive, Gaithersburg, MD",
+    "country": "US",
+    "end": "2018-12-05",
+    "eventbrite_id": "",
+    "humandate": "Dec 04 - 05, 2018",
+    "latitude": 39.135171,
+    "longitude": -77.215829,
+    "slug": "2018-12-04-nist",
+    "start": "2018-12-04",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://pages.nist.gov/2018-12-04-nist/",
+    "venue": "National Institute of Standards and Technology"
+  },
+  {
     "address": "CFM Computer Room SSB-008A, basement floor",
     "country": "ES",
     "end": "2018-12-20",
@@ -219,6 +237,24 @@
     "venue": "University of Michigan"
   },
   {
+    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
+    "country": "US",
+    "end": "2018-12-20",
+    "eventbrite_id": "53114200002",
+    "humandate": "Dec 19 - 20, 2018",
+    "latitude": 35.208275,
+    "longitude": -97.445848,
+    "slug": "2018-12-19-ou-swc",
+    "start": "2018-12-19",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://oulib-swc.github.io/2018-12-19-ou-swc/",
+    "venue": "University of Oklahoma"
+  },
+  {
     "address": "Peter Kiewit Institute - Room 158, 1110 S 67th St, Omaha, NE 68182",
     "country": "US",
     "end": "2019-01-04",
@@ -289,6 +325,24 @@
     ],
     "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
     "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
+  },
+  {
+    "address": "Plantage Muidergracht 12, 1018 TV Amsterdam, Roetersstraat, 1012 WX Amsterdam, The Netherlands",
+    "country": "NL",
+    "end": "2019-01-15",
+    "eventbrite_id": "51358690225",
+    "humandate": "Jan 14 - 15, 2019",
+    "latitude": 52.36349,
+    "longitude": 4.91191,
+    "slug": "2019-01-14-Amsterdam-Python-SWC",
+    "start": "2019-01-14",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://scienceparkstudygroup.github.io/2019-01-14-Amsterdam-Python-SWC/",
+    "venue": "Computational skills for Life Scientists - Amsterdam"
   },
   {
     "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
@@ -397,5 +451,23 @@
     ],
     "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
     "venue": "University of Zurich"
+  },
+  {
+    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
+    "country": "US",
+    "end": "2019-09-21",
+    "eventbrite_id": "",
+    "humandate": "Sep 20 - 21, 2019",
+    "latitude": 41.791836,
+    "longitude": -87.602679,
+    "slug": "2019-01-12-chicago",
+    "start": "2019-09-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
+    "venue": "University of Chicago"
   }
 ]
