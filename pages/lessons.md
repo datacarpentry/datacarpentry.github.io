@@ -107,6 +107,17 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>April Wright, Maxim Belkin, Tania Allard</td>
   </tr>
+	
+  <tr>
+    <td>Análisis y visualización de datos usando Python</td>
+    <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/" target="_blank" class="icon-browser" title="
+Sitio web para la lección de Python"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson-es/" target="_blank" class="icon-github" title="Repositorio python-ecology-es"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/reference/" target="_blank" class="icon-eye" title="Referencia para la lección de Python"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
+    <td>Paula Andrea Martinez, Heladia Salgado, Rayna Harris</td>
+  </tr>	
+	
 </table>
 
 <hr>
