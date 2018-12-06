@@ -1,41 +1,5 @@
 [
   {
-    "address": "RE220, 711 W 40th St, Baltimore, MD 21211",
-    "country": "US",
-    "end": "2018-12-04",
-    "eventbrite_id": "",
-    "humandate": "Dec 03 - 04, 2018",
-    "latitude": 39.336979,
-    "longitude": -76.630592,
-    "slug": "2018-12-03-STSCI",
-    "start": "2018-12-03",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://dpnemergut.github.io/2018-12-03-STSCI/",
-    "venue": "Space Telescope Science Institute"
-  },
-  {
-    "address": "Walter Library, 117 Pleasant St. SE, Room 101, Minneapolis, MN 55455",
-    "country": "US",
-    "end": "2018-12-04",
-    "eventbrite_id": "51669978296",
-    "humandate": "Dec 03 - 04, 2018",
-    "latitude": 44.97532,
-    "longitude": -93.236408,
-    "slug": "2018-12-03-umn",
-    "start": "2018-12-03",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://matthewclark1223.github.io/2018-12-03-umn/",
-    "venue": "University of Minnesota, Minneapolis"
-  },
-  {
     "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
     "country": "ZA",
     "end": "2018-12-06",
@@ -70,42 +34,6 @@
     ],
     "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-SWC/",
     "venue": "Durban University of Technology"
-  },
-  {
-    "address": "Seminar Room, H-Block (Physics), Westville Campus",
-    "country": "ZA",
-    "end": "2018-12-05",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 05, 2018",
-    "latitude": -29.817262,
-    "longitude": 30.943994,
-    "slug": "2018-12-04-UKZN-SWC",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://workshops-ukzn.github.io/2018-12-04-UKZN-SWC/",
-    "venue": "UKZN, Westville Campus"
-  },
-  {
-    "address": "Building 215, Room C103, 100 Bureau Drive, Gaithersburg, MD",
-    "country": "US",
-    "end": "2018-12-05",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 05, 2018",
-    "latitude": 39.135171,
-    "longitude": -77.215829,
-    "slug": "2018-12-04-nist",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://pages.nist.gov/2018-12-04-nist/",
-    "venue": "National Institute of Standards and Technology"
   },
   {
     "address": "CFM Computer Room SSB-008A, basement floor",
@@ -183,6 +111,24 @@
     "venue": "University of Sydney"
   },
   {
+    "address": "School of Medicine, University of St Andrews, North Haugh, St Andrews, Fife, KY16 9TF. Scotland UK",
+    "country": "GB",
+    "end": "2018-12-11",
+    "eventbrite_id": "52254244853",
+    "humandate": "Dec 10 - 11, 2018",
+    "latitude": 56.339324,
+    "longitude": -2.793983,
+    "slug": "2018-12-10-standrews",
+    "start": "2018-12-10",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://starescomp.github.io/2018-12-10-standrews/",
+    "venue": "University of St Andrews"
+  },
+  {
     "address": "Gleueler Straße 60, 50931 Köln",
     "country": "DE",
     "end": "2018-12-13",
@@ -217,6 +163,24 @@
     ],
     "url": "https://libcce.github.io/2018-12-13-GMU/",
     "venue": "George Mason University Libraries"
+  },
+  {
+    "address": "206 Edmon Low Library",
+    "country": "US",
+    "end": "2018-12-18",
+    "eventbrite_id": "53147228792",
+    "humandate": "Dec 17 - 18, 2018",
+    "latitude": 36.122953,
+    "longitude": -97.069701,
+    "slug": "2018-12-17-okstate",
+    "start": "2018-12-17",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2018-12-17-okstate/",
+    "venue": "Oklahoma State University"
   },
   {
     "address": "2710 Med Sci II, 1137 Catherine Street, Ann Arbor, MI",
