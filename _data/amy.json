@@ -1,41 +1,5 @@
 [
   {
-    "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
-    "country": "ZA",
-    "end": "2018-12-06",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 06, 2018",
-    "latitude": -29.8536081,
-    "longitude": 31.0039191,
-    "slug": "2018-12-04-DUT-DC",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-DC/",
-    "venue": "Durban University of Technology"
-  },
-  {
-    "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
-    "country": "ZA",
-    "end": "2018-12-06",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 06, 2018",
-    "latitude": -29.8536081,
-    "longitude": 31.0039191,
-    "slug": "2018-12-04-DUT-SWC",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-SWC/",
-    "venue": "Durban University of Technology"
-  },
-  {
     "address": "CFM Computer Room SSB-008A, basement floor",
     "country": "ES",
     "end": "2018-12-20",
@@ -219,6 +183,24 @@
     "venue": "University of Oklahoma"
   },
   {
+    "address": "Room 360, Shields Library, 100 North West Quad, Davis, CA 95616",
+    "country": "US",
+    "end": "2019-01-04",
+    "eventbrite_id": "",
+    "humandate": "Jan 03 - 04, 2019",
+    "latitude": 38.539534,
+    "longitude": -121.748514,
+    "slug": "2019-01-03-Davis",
+    "start": "2019-01-03",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://micheletobias.github.io/2019-01-03-Davis/",
+    "venue": "UC Davis Library"
+  },
+  {
     "address": "Peter Kiewit Institute - Room 158, 1110 S 67th St, Omaha, NE 68182",
     "country": "US",
     "end": "2019-01-04",
@@ -343,6 +325,24 @@
     ],
     "url": "https://sateeshperi.github.io/2019-01-15-reno/",
     "venue": "University of Nevada, Reno"
+  },
+  {
+    "address": "Room 240, Avedesian Hall,  College of Pharmacy, 7 Greenhouse Rd., Kingston RI 02881",
+    "country": "US",
+    "end": "2019-01-16",
+    "eventbrite_id": "",
+    "humandate": "Jan 15 - 16, 2019",
+    "latitude": 41.48942,
+    "longitude": -71.52748,
+    "slug": "2019-01-15-uri",
+    "start": "2019-01-15",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://rhodyrstats.github.io/2019-01-15-uri/",
+    "venue": "University of Rhode Island"
   },
   {
     "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
