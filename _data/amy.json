@@ -18,45 +18,6 @@
     "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
   },
   {
-    "address": "Universidad Nacional de Quilmes",
-    "country": "AR",
-    "end": "2018-12-07",
-    "eventbrite_id": "",
-    "humandate": "Dec 05 - 07, 2018",
-    "latitude": 6.26282,
-    "longitude": -75.576103,
-    "slug": "2018-12-05-quilmes",
-    "start": "2018-12-05",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://malvikasharan.github.io/2018-12-05-quilmes/",
-    "venue": "Computational Skills for Life Scientists, Universidad Nacional de Quilmes"
-  },
-  {
-    "address": "Internet",
-    "country": "W3",
-    "end": "2018-12-07",
-    "eventbrite_id": "",
-    "humandate": "Dec 06 - 07, 2018",
-    "latitude": -48.876667,
-    "longitude": -123.393333,
-    "slug": "2018-11-29-ttt-online",
-    "start": "2018-12-06",
-    "tags": [
-      {
-        "name": "TTT"
-      },
-      {
-        "name": "online"
-      }
-    ],
-    "url": "https://allegravia.github.io/2018-11-29-ttt-online/",
-    "venue": "Internet"
-  },
-  {
     "address": "New Law Building Learning Studio 030, University of Sydney Camperdown Campus, NSW 2050",
     "country": "AU",
     "end": "2018-12-11",
