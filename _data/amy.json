@@ -90,6 +90,24 @@
     "venue": "George Mason University Libraries"
   },
   {
+    "address": "Murray Learning Centre - UG10",
+    "country": "GB",
+    "end": "2018-12-18",
+    "eventbrite_id": "",
+    "humandate": "Dec 17 - 18, 2018",
+    "latitude": 52.450693,
+    "longitude": -1.935646,
+    "slug": "2018-12-17-bham",
+    "start": "2018-12-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://bham-carpentries.github.io/2018-12-17-bham/",
+    "venue": "University of Birmingham"
+  },
+  {
     "address": "206 Edmon Low Library",
     "country": "US",
     "end": "2018-12-18",
@@ -123,6 +141,24 @@
       }
     ],
     "url": "https://umswc.github.io/2018-12-17-umich/",
+    "venue": "University of Michigan"
+  },
+  {
+    "address": "204 Washtenaw Ave, Ann Arbor, MI 48109",
+    "country": "US",
+    "end": "2018-12-18",
+    "eventbrite_id": "",
+    "humandate": "Dec 17 - 18, 2018",
+    "latitude": 42.277102,
+    "longitude": -83.733373,
+    "slug": "2019-01-07-umich-wise",
+    "start": "2018-12-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://umswc.github.io/2019-01-07-umich-wise/",
     "venue": "University of Michigan"
   },
   {
@@ -214,6 +250,24 @@
     ],
     "url": "https://libcce.github.io/2019-01-07-MTSU/",
     "venue": "MTSU (Business & Aerospace Building)"
+  },
+  {
+    "address": "Engineering Research Center ENRC 3211, 700 Research Center Blvd, Fayetteville, AR 72701",
+    "country": "US",
+    "end": "2019-01-08",
+    "eventbrite_id": "",
+    "humandate": "Jan 07 - 08, 2019",
+    "latitude": 36.042345,
+    "longitude": -94.168058,
+    "slug": "2019-01-07-uark",
+    "start": "2019-01-07",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://software-carpentry-uark.github.io/2019-01-07-uark/",
+    "venue": "Software Carpentry @ University of Arkansas"
   },
   {
     "address": "Du Bois Library, 154 Hicks Way, Amherst, MA 01003",
