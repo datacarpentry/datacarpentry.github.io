@@ -47,8 +47,7 @@ This workshop uses a [tabular ecology dataset](https://github.com/datacarpentry/
 
 The Ecology workshop can be taught using R or Python as the base language.
 
-#### Lessons
-
+#### Lessons in English
 
 <table class="table table-striped">
   <tr>
@@ -106,8 +105,20 @@ The Ecology workshop can be taught using R or Python as the base language.
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>April Wright, Maxim Belkin, Tania Allard</td>
-  </tr>
+  </tr>	
+</table>	
 	
+#### Lecciones en español
+
+<table class="table table-striped">
+  <tr>
+    <th>Lección</th>
+    <th>Sitio web</th>
+    <th>Repositorio</th>
+	<th>Referencia</th>
+    <th>Guía del instructor</th>
+    <th>Mantenedor(es)</th>
+  </tr>
   <tr>
     <td>Análisis y visualización de datos usando Python</td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/" target="_blank" class="icon-browser" title="
@@ -116,9 +127,10 @@ Sitio web para la lección de Python"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/reference/" target="_blank" class="icon-eye" title="Referencia para la lección de Python"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Paula Andrea Martinez, Heladia Salgado, Rayna Harris</td>
-  </tr>	
-	
+  </tr>		
 </table>
+ 
+[La plantilla de taller](https://github.com/carpentries/workshop-template-es) también está disponible en español. Si está interesado en participar con nuestras lecciones, contáctenos en [team@carpentries.org](mailto:team@carpentries.org).
 
 <hr>
 
