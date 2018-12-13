@@ -18,42 +18,6 @@
     "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
   },
   {
-    "address": "New Law Building Learning Studio 030, University of Sydney Camperdown Campus, NSW 2050",
-    "country": "AU",
-    "end": "2018-12-11",
-    "eventbrite_id": "51950887503",
-    "humandate": "Dec 10 - 11, 2018",
-    "latitude": -33.887563,
-    "longitude": 151.190263,
-    "slug": "2018-12-10-USyd",
-    "start": "2018-12-10",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://sydney-informatics-hub.github.io/2018_12_10_GISworkshop/",
-    "venue": "University of Sydney"
-  },
-  {
-    "address": "School of Medicine, University of St Andrews, North Haugh, St Andrews, Fife, KY16 9TF. Scotland UK",
-    "country": "GB",
-    "end": "2018-12-11",
-    "eventbrite_id": "52254244853",
-    "humandate": "Dec 10 - 11, 2018",
-    "latitude": 56.339324,
-    "longitude": -2.793983,
-    "slug": "2018-12-10-standrews",
-    "start": "2018-12-10",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://starescomp.github.io/2018-12-10-standrews/",
-    "venue": "University of St Andrews"
-  },
-  {
     "address": "Gleueler Straße 60, 50931 Köln",
     "country": "DE",
     "end": "2018-12-13",
@@ -378,6 +342,24 @@
     "venue": "University of Rhode Island"
   },
   {
+    "address": "Price Computing Center Auditorium, Lawrence, Kansas",
+    "country": "US",
+    "end": "2019-01-17",
+    "eventbrite_id": "",
+    "humandate": "Jan 16 - 17, 2019",
+    "latitude": 38.95487,
+    "longitude": -95.246741,
+    "slug": "2019-01-16-gpn",
+    "start": "2019-01-16",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kulibraries.github.io/2019-01-16-gpn/",
+    "venue": "University of Kansas"
+  },
+  {
     "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
     "country": "US",
     "end": "2019-01-17",
@@ -394,6 +376,24 @@
     ],
     "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
     "venue": "Data Carpentry @ UW Madison"
+  },
+  {
+    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
+    "country": "US",
+    "end": "2019-01-21",
+    "eventbrite_id": "",
+    "humandate": "Jan 20 - 21, 2019",
+    "latitude": 41.791836,
+    "longitude": -87.602679,
+    "slug": "2019-01-12-chicago",
+    "start": "2019-01-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
+    "venue": "University of Chicago"
   },
   {
     "address": "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA",
@@ -432,6 +432,42 @@
     "venue": "Earlham Institute"
   },
   {
+    "address": "Hartley Conference Center, Mitchell Earth Sciences Building",
+    "country": "US",
+    "end": "2019-01-24",
+    "eventbrite_id": "",
+    "humandate": "Jan 23 - 24, 2019",
+    "latitude": 37.426478,
+    "longitude": -122.172797,
+    "slug": "2019-01-23-stanford",
+    "start": "2019-01-23",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://cengel.github.io/2019-01-23-stanford/",
+    "venue": "Stanford University"
+  },
+  {
+    "address": "TBD",
+    "country": "US",
+    "end": "2019-01-27",
+    "eventbrite_id": "",
+    "humandate": "Jan 26 - 27, 2019",
+    "latitude": 39.904034,
+    "longitude": -75.352318,
+    "slug": "2019-01-26-swarthmore",
+    "start": "2019-01-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://timothylwarren.github.io/2019-01-26-swarthmore/",
+    "venue": "Swarthmore College"
+  },
+  {
     "address": "Seminarraum Y27-H-25, Irchel Campus, Winterthurerstrasse 190, 8057 Zürich",
     "country": "CH",
     "end": "2019-02-08",
@@ -448,23 +484,5 @@
     ],
     "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
     "venue": "University of Zurich"
-  },
-  {
-    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
-    "country": "US",
-    "end": "2019-09-21",
-    "eventbrite_id": "",
-    "humandate": "Sep 20 - 21, 2019",
-    "latitude": 41.791836,
-    "longitude": -87.602679,
-    "slug": "2019-01-12-chicago",
-    "start": "2019-09-20",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
-    "venue": "University of Chicago"
   }
 ]
