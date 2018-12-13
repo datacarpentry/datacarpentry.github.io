@@ -120,7 +120,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <th>Mantenedor(es)</th>
   </tr>
   <tr>
-    <td>Análisis y visualización de datos usando Python (_Beta_)</td>
+    <td>Análisis y visualización de datos usando Python (Beta)</td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/" target="_blank" class="icon-browser" title="
 Sitio web para la lección de Python"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson-es/" target="_blank" class="icon-github" title="Repositorio python-ecology-es"></a></td>
