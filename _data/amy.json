@@ -18,42 +18,6 @@
     "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
   },
   {
-    "address": "Gleueler Straße 60, 50931 Köln",
-    "country": "DE",
-    "end": "2018-12-13",
-    "eventbrite_id": "",
-    "humandate": "Dec 12 - 13, 2018",
-    "latitude": 50.924681,
-    "longitude": 50.924681,
-    "slug": "2018-12-12-Library_Carpentry_Cologne",
-    "start": "2018-12-12",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://zbmed.github.io/2018-12-12-Library_Carpentry_Cologne/",
-    "venue": "ZB MED"
-  },
-  {
-    "address": "George Mason University Libraries, 1014 A & B Fenwick Library, 4400 University Dr, Fairfax, VA 22030",
-    "country": "US",
-    "end": "2018-12-14",
-    "eventbrite_id": "",
-    "humandate": "Dec 13 - 14, 2018",
-    "latitude": 38.832139,
-    "longitude": -77.3093677,
-    "slug": "2018-12-13-GMU",
-    "start": "2018-12-13",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://libcce.github.io/2018-12-13-GMU/",
-    "venue": "George Mason University Libraries"
-  },
-  {
     "address": "Murray Learning Centre - UG10",
     "country": "GB",
     "end": "2018-12-18",
@@ -448,6 +412,24 @@
     ],
     "url": "https://cengel.github.io/2019-01-23-stanford/",
     "venue": "Stanford University"
+  },
+  {
+    "address": "7 World Trade Center, 250 Greenwich St Fl 40, New York",
+    "country": "US",
+    "end": "2019-01-27",
+    "eventbrite_id": "",
+    "humandate": "Jan 26 - 27, 2019",
+    "latitude": 40.766389,
+    "longitude": -73.971111,
+    "slug": "2019-01-26-nyas-R",
+    "start": "2019-01-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://matthewclark1223.github.io/2019-01-26-nyas-R/",
+    "venue": "New York Academy of Sciences"
   },
   {
     "address": "TBD",
