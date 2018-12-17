@@ -18,6 +18,24 @@
     "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
   },
   {
+    "address": "Aksum, Ethiopia",
+    "country": "ET",
+    "end": "2018-12-19",
+    "eventbrite_id": "",
+    "humandate": "Dec 17 - 19, 2018",
+    "latitude": 9.03314,
+    "longitude": 38.75008,
+    "slug": "2018-12-17-DC-AKU",
+    "start": "2018-12-17",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://dagimy.github.io/2018-12-17-DC-AKU/",
+    "venue": "Aksum University"
+  },
+  {
     "address": "Murray Learning Centre - UG10",
     "country": "GB",
     "end": "2018-12-18",
@@ -88,6 +106,24 @@
     ],
     "url": "https://umswc.github.io/2019-01-07-umich-wise/",
     "venue": "University of Michigan"
+  },
+  {
+    "address": "Aksum, Ethiopia",
+    "country": "ET",
+    "end": "2018-12-21",
+    "eventbrite_id": "",
+    "humandate": "Dec 19 - 21, 2018",
+    "latitude": 9.03314,
+    "longitude": 38.75008,
+    "slug": "2018-12-19-SWC-AKU",
+    "start": "2018-12-19",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://dagimy.github.io/2018-12-19-SWC-AKU/",
+    "venue": "Aksum University"
   },
   {
     "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
@@ -214,6 +250,30 @@
     ],
     "url": "https://nesclic.github.io/2019-01-08-umass/",
     "venue": "University of Massachusetts Amherst"
+  },
+  {
+    "address": "TBD,",
+    "country": "US",
+    "end": "2019-01-11",
+    "eventbrite_id": "53747482166",
+    "humandate": "Jan 10 - 11, 2019",
+    "latitude": 40.1149832,
+    "longitude": -88.2271851,
+    "slug": "2019-01-10-dch-illinois",
+    "start": "2019-01-10",
+    "tags": [
+      {
+        "name": "SWC"
+      },
+      {
+        "name": "DC"
+      },
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2019-01-10-dch-illinois/",
+    "venue": "University of Illinois"
   },
   {
     "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
