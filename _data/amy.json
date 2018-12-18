@@ -252,6 +252,24 @@
     "venue": "University of Massachusetts Amherst"
   },
   {
+    "address": "Hunt Library, IDeaTE Studio A, 1st floor, 4909 Frew Street, Pittsburgh, PA 15217",
+    "country": "US",
+    "end": "2019-01-10",
+    "eventbrite_id": "53446211056",
+    "humandate": "Jan 09 - 10, 2019",
+    "latitude": 40.4410639,
+    "longitude": -79.9439424,
+    "slug": "2019-01-09-carnegie",
+    "start": "2019-01-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://lo5an.github.io/2019-01-09-carnegie/",
+    "venue": "Carnegie Mellon University"
+  },
+  {
     "address": "TBD,",
     "country": "US",
     "end": "2019-01-11",
