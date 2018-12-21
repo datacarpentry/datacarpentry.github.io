@@ -227,7 +227,12 @@ and the materials assume no prior knowledge about the tools.* We use
 a single dataset throughout the workshop to model the data management 
 and analysis workflow that a researcher would use.
 
-The Social Sciences workshop can be taught using R as the base language. Please note that workshop materials for working with Social Science data in Python and SQL are under development.
+The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials? 
+We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI&t=2s) available to prepare Instructors to teach these lessons. After watching this video, 
+please contact [team@carpentries.org](mailto:team@carpentries.org) so that we can record your status as an onboarded Instructor. Instructors who 
+have completed onboarding will be given priority status for teaching at centrally-organized Carpentries workshops.
+
+Please note that workshop materials for working with Social Science data in Python and SQL are under development. 
 
 #### Lessons
 
