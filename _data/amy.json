@@ -1,23 +1,5 @@
 [
   {
-    "address": "CFM Computer Room SSB-008A, basement floor",
-    "country": "ES",
-    "end": "2018-12-20",
-    "eventbrite_id": "",
-    "humandate": "Dec 05 - 20, 2018",
-    "latitude": 43.305667,
-    "longitude": -2.009502,
-    "slug": "2018-12-05-cfm",
-    "start": "2018-12-05",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://scw-ss.github.io/2018-12-05-cfm/",
-    "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
-  },
-  {
     "address": "Aksum, Ethiopia",
     "country": "ET",
     "end": "2018-12-21",
@@ -34,24 +16,6 @@
     ],
     "url": "https://dagimy.github.io/2018-12-19-SWC-AKU/",
     "venue": "Aksum University"
-  },
-  {
-    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
-    "country": "US",
-    "end": "2018-12-20",
-    "eventbrite_id": "53114200002",
-    "humandate": "Dec 19 - 20, 2018",
-    "latitude": 35.208275,
-    "longitude": -97.445848,
-    "slug": "2018-12-19-ou-swc",
-    "start": "2018-12-19",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://oulib-swc.github.io/2018-12-19-ou-swc/",
-    "venue": "University of Oklahoma"
   },
   {
     "address": "Seminar Room, Faculty of Mathematical Sciences, Al-Gamaa Street, Khartoum",
