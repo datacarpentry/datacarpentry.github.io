@@ -240,6 +240,24 @@
     "venue": "University of Nevada, Reno"
   },
   {
+    "address": "Gleueler Straße 60, 50931 Köln",
+    "country": "DE",
+    "end": "2019-01-16",
+    "eventbrite_id": "",
+    "humandate": "Jan 15 - 16, 2019",
+    "latitude": 50.92465,
+    "longitude": 6.91646,
+    "slug": "2019-01-15-Library_Carpentry_Cologne",
+    "start": "2019-01-15",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/",
+    "venue": "ZB MED"
+  },
+  {
     "address": "Room 240, Avedesian Hall,  College of Pharmacy, 7 Greenhouse Rd., Kingston RI 02881",
     "country": "US",
     "end": "2019-01-16",
@@ -490,5 +508,23 @@
     ],
     "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
     "venue": "University of Zurich"
+  },
+  {
+    "address": "100 Woodruff Cir Suite 231, Rooms 110 and 120, Atlanta, GA 30322",
+    "country": "US",
+    "end": "2019-02-10",
+    "eventbrite_id": "",
+    "humandate": "Feb 09 - 10, 2019",
+    "latitude": 33.79434,
+    "longitude": -84.32145,
+    "slug": "2019-02-09-emory",
+    "start": "2019-02-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://data-science-for-scientists-atl.github.io/2019-02-09-emory/",
+    "venue": "Emory University"
   }
 ]
