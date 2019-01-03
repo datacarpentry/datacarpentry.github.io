@@ -86,7 +86,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td>Data Management with SQL for Ecologists</td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/" target="_blank" class="icon-browser" title="Website for SQL ecology lesson"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="Repository for SQL ecology lesson"></a></td>
-		<td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for SQL Ecology Lesson"></a></td>
+		<td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for SQL Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
 	<td>Timothée Poisot, Rémi Rampin, Donal Heidenblad</td>
   </tr>
