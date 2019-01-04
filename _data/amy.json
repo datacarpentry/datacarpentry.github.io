@@ -155,13 +155,7 @@
     "start": "2019-01-10",
     "tags": [
       {
-        "name": "SWC"
-      },
-      {
         "name": "DC"
-      },
-      {
-        "name": "LC"
       }
     ],
     "url": "https://swc-uiuc.github.io/2019-01-10-dch-illinois/",
@@ -184,6 +178,27 @@
     ],
     "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
     "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
+  },
+  {
+    "address": "Internet",
+    "country": "W3",
+    "end": "2019-01-11",
+    "eventbrite_id": "",
+    "humandate": "Jan 10 - 11, 2019",
+    "latitude": -48.876667,
+    "longitude": -123.393333,
+    "slug": "2019-01-10-ttt-online_CST",
+    "start": "2019-01-10",
+    "tags": [
+      {
+        "name": "TTT"
+      },
+      {
+        "name": "online"
+      }
+    ],
+    "url": "https://christinalk.github.io/2019-01-10-ttt-online_CST/",
+    "venue": "Internet"
   },
   {
     "address": "Plantage Muidergracht 12, 1018 TV Amsterdam, Roetersstraat, 1012 WX Amsterdam, The Netherlands",
@@ -382,6 +397,24 @@
     ],
     "url": "https://columbiaswc.github.io/2019-01-17-Columbia-Section-4/",
     "venue": "Columbia University, Computing Fundamentals with R (Section 4)"
+  },
+  {
+    "address": "Goldsmith Lounge, Virtue Field House, Middlebury, VT 05753",
+    "country": "FI",
+    "end": "2019-01-18",
+    "eventbrite_id": "",
+    "humandate": "Jan 17 - 18, 2019",
+    "latitude": 44.003645,
+    "longitude": -73.177909,
+    "slug": "2019-01-17-middlebury",
+    "start": "2019-01-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://rkclement.github.io/2019-01-17-middlebury/",
+    "venue": "Middlebury College"
   },
   {
     "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
