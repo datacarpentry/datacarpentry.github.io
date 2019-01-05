@@ -1,41 +1,5 @@
 [
   {
-    "address": "Room 360, Shields Library, 100 North West Quad, Davis, CA 95616",
-    "country": "US",
-    "end": "2019-01-04",
-    "eventbrite_id": "",
-    "humandate": "Jan 03 - 04, 2019",
-    "latitude": 38.539534,
-    "longitude": -121.748514,
-    "slug": "2019-01-03-Davis",
-    "start": "2019-01-03",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://micheletobias.github.io/2019-01-03-Davis/",
-    "venue": "UC Davis Library"
-  },
-  {
-    "address": "Peter Kiewit Institute - Room 158, 1110 S 67th St, Omaha, NE 68182",
-    "country": "US",
-    "end": "2019-01-04",
-    "eventbrite_id": "",
-    "humandate": "Jan 03 - 04, 2019",
-    "latitude": 41.247015,
-    "longitude": -96.016604,
-    "slug": "2019-01-03-UNO",
-    "start": "2019-01-03",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://unlhcc.github.io/2019-01-03-UNO/",
-    "venue": "University of Nebraska at Omaha"
-  },
-  {
     "address": "Room 211, Washington State Convention Center, 705 Pike St., Seattle, WA 98101",
     "country": "US",
     "end": "2019-01-06",
@@ -400,7 +364,7 @@
   },
   {
     "address": "Goldsmith Lounge, Virtue Field House, Middlebury, VT 05753",
-    "country": "FI",
+    "country": "US",
     "end": "2019-01-18",
     "eventbrite_id": "",
     "humandate": "Jan 17 - 18, 2019",
