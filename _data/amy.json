@@ -1,23 +1,5 @@
 [
   {
-    "address": "Room 211, Washington State Convention Center, 705 Pike St., Seattle, WA 98101",
-    "country": "US",
-    "end": "2019-01-06",
-    "eventbrite_id": "",
-    "humandate": "Jan 05 - 06, 2019",
-    "latitude": 47.61267,
-    "longitude": -122.33203,
-    "slug": "2019-01-05-aas",
-    "start": "2019-01-05",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://abostroem.github.io/2019-01-05-aas/",
-    "venue": "Software Carpentry at AAS 223"
-  },
-  {
     "address": "Business and Aerospace Building (S316 and S326), 1642 MTSU Blvd, Murfreesboro, TN",
     "country": "US",
     "end": "2019-01-09",
@@ -54,6 +36,24 @@
     "venue": "Software Carpentry @ University of Arkansas"
   },
   {
+    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
+    "country": "US",
+    "end": "2019-01-09",
+    "eventbrite_id": "53866055823",
+    "humandate": "Jan 08 - 09, 2019",
+    "latitude": 35.208275,
+    "longitude": -97.445848,
+    "slug": "2019-01-08-ou-swc",
+    "start": "2019-01-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://oulib-swc.github.io/2019-01-08-ou-swc/",
+    "venue": "University of Oklahoma"
+  },
+  {
     "address": "Du Bois Library, 154 Hicks Way, Amherst, MA 01003",
     "country": "US",
     "end": "2019-01-09",
@@ -88,6 +88,24 @@
     ],
     "url": "https://lo5an.github.io/2019-01-09-carnegie/",
     "venue": "Carnegie Mellon University"
+  },
+  {
+    "address": "IDRE Portal",
+    "country": "US",
+    "end": "2019-01-10",
+    "eventbrite_id": "52891375528",
+    "humandate": "Jan 09 - 10, 2019",
+    "latitude": 34.069599,
+    "longitude": -118.443266,
+    "slug": "2019-01-09-ucla",
+    "start": "2019-01-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ucla-data-archive.github.io/2019-01-09-ucla/",
+    "venue": "UCLA"
   },
   {
     "address": "2100 Hillside Rd, Storrs, CT 06269",
@@ -142,6 +160,24 @@
     ],
     "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
     "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
+  },
+  {
+    "address": "Edmon Low Library, Room 206, Stillwater, OK 74078",
+    "country": "US",
+    "end": "2019-10-11",
+    "eventbrite_id": "54004288280",
+    "humandate": "Jan 10 - Oct 11, 2019",
+    "latitude": 36.12297,
+    "longitude": -97.069754,
+    "slug": "2019-01-10-okstate",
+    "start": "2019-01-10",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2019-01-10-okstate/",
+    "venue": "Oklahoma State University"
   },
   {
     "address": "Internet",
@@ -289,6 +325,24 @@
     ],
     "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
     "venue": "Data Carpentry @ UW Madison"
+  },
+  {
+    "address": "190 Doe Library, University of California, Berkeley",
+    "country": "US",
+    "end": "2019-01-18",
+    "eventbrite_id": "",
+    "humandate": "Jan 17 - 18, 2019",
+    "latitude": 37.872495,
+    "longitude": -122.259556,
+    "slug": "2019-01-17-BIDS",
+    "start": "2019-01-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://code.nimahejazi.org/2019-01-17-bids/",
+    "venue": "Berkeley Institute for Data Science"
   },
   {
     "address": "Butler Library, 535 W 114th St, New York, NY 10027",
@@ -523,5 +577,41 @@
     ],
     "url": "https://data-science-for-scientists-atl.github.io/2019-02-09-emory/",
     "venue": "Emory University"
+  },
+  {
+    "address": "Langson Library RM 228",
+    "country": "US",
+    "end": "2019-03-27",
+    "eventbrite_id": "54304950569",
+    "humandate": "Mar 26 - 27, 2019",
+    "latitude": 33.647111,
+    "longitude": -117.8411,
+    "slug": "2019-03-26-UCI",
+    "start": "2019-03-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
+    "venue": "UC Irvine Libraries"
+  },
+  {
+    "address": "Tisch Library, Room 302",
+    "country": "US",
+    "end": "2019-04-13",
+    "eventbrite_id": "",
+    "humandate": "Apr 12 - 13, 2019",
+    "latitude": 42.406172,
+    "longitude": -71.11884,
+    "slug": "2019-04-12-tufts",
+    "start": "2019-04-12",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2019-04-12-tufts/",
+    "venue": "Tufts University"
   }
 ]
