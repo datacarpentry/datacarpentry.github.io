@@ -1,77 +1,5 @@
 [
   {
-    "address": "Business and Aerospace Building (S316 and S326), 1642 MTSU Blvd, Murfreesboro, TN",
-    "country": "US",
-    "end": "2019-01-09",
-    "eventbrite_id": "",
-    "humandate": "Jan 07 - 09, 2019",
-    "latitude": 35.8480208,
-    "longitude": -86.3654459,
-    "slug": "2019-01-07-mtsu",
-    "start": "2019-01-07",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://libcce.github.io/2019-01-07-MTSU/",
-    "venue": "MTSU (Business & Aerospace Building)"
-  },
-  {
-    "address": "Engineering Research Center ENRC 3211, 700 Research Center Blvd, Fayetteville, AR 72701",
-    "country": "US",
-    "end": "2019-01-08",
-    "eventbrite_id": "",
-    "humandate": "Jan 07 - 08, 2019",
-    "latitude": 36.042345,
-    "longitude": -94.168058,
-    "slug": "2019-01-07-uark",
-    "start": "2019-01-07",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://software-carpentry-uark.github.io/2019-01-07-uark/",
-    "venue": "Software Carpentry @ University of Arkansas"
-  },
-  {
-    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
-    "country": "US",
-    "end": "2019-01-09",
-    "eventbrite_id": "53866055823",
-    "humandate": "Jan 08 - 09, 2019",
-    "latitude": 35.208275,
-    "longitude": -97.445848,
-    "slug": "2019-01-08-ou-swc",
-    "start": "2019-01-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://oulib-swc.github.io/2019-01-08-ou-swc/",
-    "venue": "University of Oklahoma"
-  },
-  {
-    "address": "Du Bois Library, 154 Hicks Way, Amherst, MA 01003",
-    "country": "US",
-    "end": "2019-01-09",
-    "eventbrite_id": "",
-    "humandate": "Jan 08 - 09, 2019",
-    "latitude": 42.389813,
-    "longitude": -72.52825,
-    "slug": "2019-01-08-umass",
-    "start": "2019-01-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://nesclic.github.io/2019-01-08-umass/",
-    "venue": "University of Massachusetts Amherst"
-  },
-  {
     "address": "Hunt Library, IDeaTE Studio A, 1st floor, 4909 Frew Street, Pittsburgh, PA 15217",
     "country": "US",
     "end": "2019-01-10",
@@ -180,6 +108,24 @@
     "venue": "Oklahoma State University"
   },
   {
+    "address": "100 Boyd St, Room N106, Sarkeys Energy Center, Norman, Ok",
+    "country": "US",
+    "end": "2019-01-11",
+    "eventbrite_id": "53752050831",
+    "humandate": "Jan 10 - 11, 2019",
+    "latitude": 35.21,
+    "longitude": -97.44,
+    "slug": "2019-01-10-ou-dcgeo",
+    "start": "2019-01-10",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://oulib-swc.github.io/2019-01-10-ou-dcgeo/",
+    "venue": "University of Oklahoma"
+  },
+  {
     "address": "Internet",
     "country": "W3",
     "end": "2019-01-11",
@@ -199,6 +145,42 @@
     ],
     "url": "https://christinalk.github.io/2019-01-10-ttt-online_CST/",
     "venue": "Internet"
+  },
+  {
+    "address": "A-141, Department of Computer Science",
+    "country": "PR",
+    "end": "2019-01-12",
+    "eventbrite_id": "",
+    "humandate": "Jan 11 - 12, 2019",
+    "latitude": 18.4044218,
+    "longitude": -66.0463582,
+    "slug": "2019-01-11-puerto_rico-Python",
+    "start": "2019-01-11",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://idi-bd2k.github.io/2019-01-11-puerto_rico-Python/",
+    "venue": "University of Puerto Rico Río Piedras"
+  },
+  {
+    "address": "Room A-143, Department of Computer Science, San Juan",
+    "country": "PR",
+    "end": "2019-01-12",
+    "eventbrite_id": "",
+    "humandate": "Jan 11 - 12, 2019",
+    "latitude": 18.4044218,
+    "longitude": -66.0463582,
+    "slug": "2019-01-11-puerto_rico-R",
+    "start": "2019-01-11",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://idi-bd2k.github.io/2019-01-11-puerto_rico-R/",
+    "venue": "University of Puerto Rico Río Piedras"
   },
   {
     "address": "Plantage Muidergracht 12, 1018 TV Amsterdam, Roetersstraat, 1012 WX Amsterdam, The Netherlands",
@@ -543,6 +525,42 @@
     "venue": "Swarthmore College"
   },
   {
+    "address": "607 Institute for Genomic Biology",
+    "country": "US",
+    "end": "2019-01-31",
+    "eventbrite_id": "53442062648",
+    "humandate": "Jan 31 - 31, 2019",
+    "latitude": 40.1047754,
+    "longitude": -88.2269122,
+    "slug": "2019-01-31-dc-illinois",
+    "start": "2019-01-31",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2019-01-31-dc-illinois/",
+    "venue": "University of Illinois"
+  },
+  {
+    "address": "1030 National Center for Supercomputing Applications",
+    "country": "US",
+    "end": "2019-02-08",
+    "eventbrite_id": "53441740685",
+    "humandate": "Feb 07 - 08, 2019",
+    "latitude": 40.1149832,
+    "longitude": -88.2271851,
+    "slug": "2019-02-07-illinois",
+    "start": "2019-02-07",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2019-02-07-illinois/",
+    "venue": "University of Illinois"
+  },
+  {
     "address": "Seminarraum Y27-H-25, Irchel Campus, Winterthurerstrasse 190, 8057 Zürich",
     "country": "CH",
     "end": "2019-02-08",
@@ -579,6 +597,42 @@
     "venue": "Emory University"
   },
   {
+    "address": "1040 National Center for Supercomputing Applications",
+    "country": "US",
+    "end": "2019-02-15",
+    "eventbrite_id": "53441690535",
+    "humandate": "Feb 14 - 15, 2019",
+    "latitude": 40.1149832,
+    "longitude": -88.2271851,
+    "slug": "2019-02-14-illinois",
+    "start": "2019-02-14",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2019-02-14-illinois/",
+    "venue": "University of Illinois"
+  },
+  {
+    "address": "Norwich Research Park, Norwich, NR4 7UZ",
+    "country": "GB",
+    "end": "2019-03-06",
+    "eventbrite_id": "",
+    "humandate": "Mar 05 - 06, 2019",
+    "latitude": 52.621741,
+    "longitude": 1.218987,
+    "slug": "2019-03-05-earlham",
+    "start": "2019-03-05",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tgac.github.io/2019-03-05-earlham/",
+    "venue": "Earlham Institute"
+  },
+  {
     "address": "Langson Library RM 228",
     "country": "US",
     "end": "2019-03-27",
@@ -613,5 +667,41 @@
     ],
     "url": "https://nesclic.github.io/2019-04-12-tufts/",
     "venue": "Tufts University"
+  },
+  {
+    "address": "U-residence Free University of Brussels, Generaal Jacqueslaan 271, 1050 Brussels",
+    "country": "BE",
+    "end": "2019-07-17",
+    "eventbrite_id": "",
+    "humandate": "Apr 16 - Jul 17, 2019",
+    "latitude": 50.824343,
+    "longitude": 4.394176,
+    "slug": "2019-04-16-BRU",
+    "start": "2019-04-16",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
+    "venue": "ELIXIR-Belgium Brussels"
+  },
+  {
+    "address": "Overwale 3, 9000 Gent. Clemenspoort: Zaal Neumann",
+    "country": "BE",
+    "end": "2019-05-14",
+    "eventbrite_id": "",
+    "humandate": "May 13 - 14, 2019",
+    "latitude": 51.033718,
+    "longitude": 3.70654,
+    "slug": "2019-05-13-Ghent",
+    "start": "2019-05-13",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
+    "venue": "ELIXIR-BE"
   }
 ]
