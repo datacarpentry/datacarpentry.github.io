@@ -1,41 +1,5 @@
 [
   {
-    "address": "Hunt Library, IDeaTE Studio A, 1st floor, 4909 Frew Street, Pittsburgh, PA 15217",
-    "country": "US",
-    "end": "2019-01-10",
-    "eventbrite_id": "53446211056",
-    "humandate": "Jan 09 - 10, 2019",
-    "latitude": 40.4410639,
-    "longitude": -79.9439424,
-    "slug": "2019-01-09-carnegie",
-    "start": "2019-01-09",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://lo5an.github.io/2019-01-09-carnegie/",
-    "venue": "Carnegie Mellon University"
-  },
-  {
-    "address": "IDRE Portal",
-    "country": "US",
-    "end": "2019-01-10",
-    "eventbrite_id": "52891375528",
-    "humandate": "Jan 09 - 10, 2019",
-    "latitude": 34.069599,
-    "longitude": -118.443266,
-    "slug": "2019-01-09-ucla",
-    "start": "2019-01-09",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ucla-data-archive.github.io/2019-01-09-ucla/",
-    "venue": "UCLA"
-  },
-  {
     "address": "2100 Hillside Rd, Storrs, CT 06269",
     "country": "US",
     "end": "2019-01-11",
@@ -253,6 +217,24 @@
     ],
     "url": "https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/",
     "venue": "ZB MED"
+  },
+  {
+    "address": "Arts Auditorium in the Arts Building, KwaDlangezwa Campus",
+    "country": "ZA",
+    "end": "2019-01-17",
+    "eventbrite_id": "",
+    "humandate": "Jan 15 - 17, 2019",
+    "latitude": -28.852418,
+    "longitude": 31.849152,
+    "slug": "2019-01-15-UNIZULU",
+    "start": "2019-01-15",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2019-01-15-UNIZULU/",
+    "venue": "University of Zululand"
   },
   {
     "address": "Room 240, Avedesian Hall,  College of Pharmacy, 7 Greenhouse Rd., Kingston RI 02881",
@@ -525,6 +507,60 @@
     "venue": "Swarthmore College"
   },
   {
+    "address": "TBC, Somaliland",
+    "country": "SO",
+    "end": "2019-01-29",
+    "eventbrite_id": "",
+    "humandate": "Jan 28 - 29, 2019",
+    "latitude": 9.7231322,
+    "longitude": 43.5502927,
+    "slug": "2019-01-28-SomaliREN",
+    "start": "2019-01-28",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://anelda.github.io/2019-01-28-SomaliREN/",
+    "venue": "Somaliland"
+  },
+  {
+    "address": "Room 516, Vivian Tower, Swansea University, Singleton Park, Swansea SA2 8PP",
+    "country": "GB",
+    "end": "2019-01-29",
+    "eventbrite_id": "",
+    "humandate": "Jan 28 - 29, 2019",
+    "latitude": 51.609049,
+    "longitude": -3.9825905,
+    "slug": "2019-01-28-swansea",
+    "start": "2019-01-28",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://sa2c.github.io/swc-swansea-january-2019/",
+    "venue": "Swansea University"
+  },
+  {
+    "address": "3rd Floor, Collaborative Library, East London",
+    "country": "ZA",
+    "end": "2019-02-02",
+    "eventbrite_id": "",
+    "humandate": "Jan 31 - Feb 02, 2019",
+    "latitude": -33.0211839,
+    "longitude": 27.9058585,
+    "slug": "2019-01-22-WSU-EastLondon",
+    "start": "2019-01-31",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2019-01-22-WSU-EastLondon/",
+    "venue": "Walter Sisulu University"
+  },
+  {
     "address": "607 Institute for Genomic Biology",
     "country": "US",
     "end": "2019-01-31",
@@ -595,6 +631,24 @@
     ],
     "url": "https://data-science-for-scientists-atl.github.io/2019-02-09-emory/",
     "venue": "Emory University"
+  },
+  {
+    "address": "via Pietro Castellino 111, 80131 Naples",
+    "country": "IT",
+    "end": "2019-02-15",
+    "eventbrite_id": "",
+    "humandate": "Feb 11 - 15, 2019",
+    "latitude": 40.855535,
+    "longitude": 14.224429,
+    "slug": "2019-02-11-Naples",
+    "start": "2019-02-11",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://mchiapello.github.io/2019-02-11-Naples/",
+    "venue": "National Research Council"
   },
   {
     "address": "1040 National Center for Supercomputing Applications",
