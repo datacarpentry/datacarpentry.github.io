@@ -108,6 +108,24 @@
     "venue": "University of Zululand"
   },
   {
+    "address": "Room 120, Elmer L. Andersen Library, 222 21st Ave S, Minneapolis, MN 55455, USA",
+    "country": "US",
+    "end": "2019-01-16",
+    "eventbrite_id": "",
+    "humandate": "Jan 15 - 16, 2019",
+    "latitude": 44.973167,
+    "longitude": -93.243016,
+    "slug": "2019-01-15-umn",
+    "start": "2019-01-15",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://khojanator.github.io/2019-01-15-umn/",
+    "venue": "University of Minnesota"
+  },
+  {
     "address": "Room 240, Avedesian Hall,  College of Pharmacy, 7 Greenhouse Rd., Kingston RI 02881",
     "country": "US",
     "end": "2019-01-16",
@@ -522,6 +540,24 @@
     "venue": "National Research Council"
   },
   {
+    "address": "U7 building, Via Bicocca degli Arcimboldi, 8, Milano",
+    "country": "IT",
+    "end": "2019-02-15",
+    "eventbrite_id": "",
+    "humandate": "Feb 14 - 15, 2019",
+    "latitude": 45.51729,
+    "longitude": 9.21341,
+    "slug": "2019-02-14-elixir-milano",
+    "start": "2019-02-14",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
+    "venue": "University Milano-Bicocca"
+  },
+  {
     "address": "1040 National Center for Supercomputing Applications",
     "country": "US",
     "end": "2019-02-15",
@@ -538,6 +574,24 @@
     ],
     "url": "https://swc-uiuc.github.io/2019-02-14-illinois/",
     "venue": "University of Illinois"
+  },
+  {
+    "address": "Plaza 600F, 1812 Sir Isaac Brock Way",
+    "country": "CA",
+    "end": "2019-02-22",
+    "eventbrite_id": "54591271964",
+    "humandate": "Feb 21 - 22, 2019",
+    "latitude": 43.11721,
+    "longitude": -79.24318,
+    "slug": "2019-02-21-BrockU",
+    "start": "2019-02-21",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
+    "venue": "Brock University"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
