@@ -18,78 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Plantage Muidergracht 12, 1018 TV Amsterdam, Roetersstraat, 1012 WX Amsterdam, The Netherlands",
-    "country": "NL",
-    "end": "2019-01-15",
-    "eventbrite_id": "51358690225",
-    "humandate": "Jan 14 - 15, 2019",
-    "latitude": 52.36349,
-    "longitude": 4.91191,
-    "slug": "2019-01-14-Amsterdam-Python-SWC",
-    "start": "2019-01-14",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://scienceparkstudygroup.github.io/2019-01-14-Amsterdam-Python-SWC/",
-    "venue": "Computational skills for Life Scientists - Amsterdam"
-  },
-  {
-    "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
-    "country": "US",
-    "end": "2019-01-15",
-    "eventbrite_id": "",
-    "humandate": "Jan 14 - 15, 2019",
-    "latitude": 43.0729163,
-    "longitude": -89.410268,
-    "slug": "2019-01-14-uwmadison-swc",
-    "start": "2019-01-14",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://uw-madison-datascience.github.io/2019-01-14-uwmadison-swc/",
-    "venue": "Software Carpentry @ UW Madison"
-  },
-  {
-    "address": "Room 107, Mathewson-IGT Knowledge Center, 1664 North Virginia St, Reno",
-    "country": "US",
-    "end": "2019-01-16",
-    "eventbrite_id": "",
-    "humandate": "Jan 15 - 16, 2019",
-    "latitude": 39.57427,
-    "longitude": -119.82982,
-    "slug": "2018-01-15-reno",
-    "start": "2019-01-15",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://sateeshperi.github.io/2019-01-15-reno/",
-    "venue": "University of Nevada, Reno"
-  },
-  {
-    "address": "Gleueler Straße 60, 50931 Köln",
-    "country": "DE",
-    "end": "2019-01-16",
-    "eventbrite_id": "",
-    "humandate": "Jan 15 - 16, 2019",
-    "latitude": 50.92465,
-    "longitude": 6.91646,
-    "slug": "2019-01-15-Library_Carpentry_Cologne",
-    "start": "2019-01-15",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/",
-    "venue": "ZB MED"
-  },
-  {
     "address": "Arts Auditorium in the Arts Building, KwaDlangezwa Campus",
     "country": "ZA",
     "end": "2019-01-17",
@@ -106,42 +34,6 @@
     ],
     "url": "https://tenet-rccpii.github.io/2019-01-15-UNIZULU/",
     "venue": "University of Zululand"
-  },
-  {
-    "address": "Room 120, Elmer L. Andersen Library, 222 21st Ave S, Minneapolis, MN 55455, USA",
-    "country": "US",
-    "end": "2019-01-16",
-    "eventbrite_id": "",
-    "humandate": "Jan 15 - 16, 2019",
-    "latitude": 44.973167,
-    "longitude": -93.243016,
-    "slug": "2019-01-15-umn",
-    "start": "2019-01-15",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://khojanator.github.io/2019-01-15-umn/",
-    "venue": "University of Minnesota"
-  },
-  {
-    "address": "Room 240, Avedesian Hall,  College of Pharmacy, 7 Greenhouse Rd., Kingston RI 02881",
-    "country": "US",
-    "end": "2019-01-16",
-    "eventbrite_id": "",
-    "humandate": "Jan 15 - 16, 2019",
-    "latitude": 41.48942,
-    "longitude": -71.52748,
-    "slug": "2019-01-15-uri",
-    "start": "2019-01-15",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://rhodyrstats.github.io/2019-01-15-uri/",
-    "venue": "University of Rhode Island"
   },
   {
     "address": "Price Computing Center Auditorium, Lawrence, Kansas",
@@ -306,6 +198,24 @@
     "venue": "University of Chicago"
   },
   {
+    "address": "1100 Fairview Ave. N., Seattle, WA 98109",
+    "country": "US",
+    "end": "2019-01-25",
+    "eventbrite_id": "",
+    "humandate": "Jan 22 - 25, 2019",
+    "latitude": 47.628251,
+    "longitude": -122.330025,
+    "slug": "2019-01-22-fredhutch",
+    "start": "2019-01-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
+    "venue": "Fred Hutch"
+  },
+  {
     "address": "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA",
     "country": "US",
     "end": "2019-01-23",
@@ -358,6 +268,78 @@
     ],
     "url": "https://cengel.github.io/2019-01-23-stanford/",
     "venue": "Stanford University"
+  },
+  {
+    "address": "Annex 405, West Campus Library, TAMU",
+    "country": "US",
+    "end": "2019-01-25",
+    "eventbrite_id": "",
+    "humandate": "Jan 24 - 25, 2019",
+    "latitude": 30.627977,
+    "longitude": -96.334404,
+    "slug": "2019-01-24-tamu",
+    "start": "2019-01-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://swang8.github.io/2019-01-24-tamu/",
+    "venue": "Texas A&M University"
+  },
+  {
+    "address": "Willis Library, Room 250H, 1506 Highland St., Denton, TX 76203",
+    "country": "US",
+    "end": "2019-01-25",
+    "eventbrite_id": "54602259829",
+    "humandate": "Jan 24 - 25, 2019",
+    "latitude": 33.210068,
+    "longitude": -97.148954,
+    "slug": "2019-01-24-unt-swc",
+    "start": "2019-01-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://unt-carpentries.github.io/2019-01-24-unt-swc/",
+    "venue": "University of North Texas"
+  },
+  {
+    "address": "UCSB, Santa Barbara, CA 93106",
+    "country": "US",
+    "end": "2019-01-26",
+    "eventbrite_id": "",
+    "humandate": "Jan 25 - 26, 2019",
+    "latitude": 34.414354,
+    "longitude": -119.845506,
+    "slug": "2019-01-25-UCSBLibrary",
+    "start": "2019-01-25",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/",
+    "venue": "UCSB Library, classroom 1312"
+  },
+  {
+    "address": "FIXME",
+    "country": "US",
+    "end": "2019-01-26",
+    "eventbrite_id": "",
+    "humandate": "Jan 25 - 26, 2019",
+    "latitude": 47.66035,
+    "longitude": -122.30001,
+    "slug": "2019-01-25-uw",
+    "start": "2019-01-25",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ca2783.github.io/2019-02-07-uw/",
+    "venue": "Universty Of Washington"
   },
   {
     "address": "7 World Trade Center, 250 Greenwich St Fl 40, New York",
@@ -466,6 +448,24 @@
     ],
     "url": "https://swc-uiuc.github.io/2019-01-31-dc-illinois/",
     "venue": "University of Illinois"
+  },
+  {
+    "address": "Edmon Low Library—Room 206, Stillwater, OK 74078",
+    "country": "US",
+    "end": "2019-02-22",
+    "eventbrite_id": "54670284292",
+    "humandate": "Feb 01 - 22, 2019",
+    "latitude": 36.12297,
+    "longitude": -97.069754,
+    "slug": "2019-02-01-okstate",
+    "start": "2019-02-01",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2019-02-01-okstate/",
+    "venue": "Oklahoma State University"
   },
   {
     "address": "1030 National Center for Supercomputing Applications",
@@ -592,6 +592,24 @@
     ],
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "venue": "Brock University"
+  },
+  {
+    "address": "Room 302, Rock Hall (Mission Bay)",
+    "country": "US",
+    "end": "2019-03-01",
+    "eventbrite_id": "",
+    "humandate": "Feb 28 - Mar 01, 2019",
+    "latitude": 37.769398,
+    "longitude": -122.391498,
+    "slug": "2019-02-28-UCSF",
+    "start": "2019-02-28",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://aseveritt.github.io/2019-02-28-UCSF/",
+    "venue": "IND-UCSF"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
