@@ -18,60 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Arts Auditorium in the Arts Building, KwaDlangezwa Campus",
-    "country": "ZA",
-    "end": "2019-01-17",
-    "eventbrite_id": "",
-    "humandate": "Jan 15 - 17, 2019",
-    "latitude": -28.852418,
-    "longitude": 31.849152,
-    "slug": "2019-01-15-UNIZULU",
-    "start": "2019-01-15",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2019-01-15-UNIZULU/",
-    "venue": "University of Zululand"
-  },
-  {
-    "address": "Price Computing Center Auditorium, Lawrence, Kansas",
-    "country": "US",
-    "end": "2019-01-17",
-    "eventbrite_id": "",
-    "humandate": "Jan 16 - 17, 2019",
-    "latitude": 38.95487,
-    "longitude": -95.246741,
-    "slug": "2019-01-16-gpn",
-    "start": "2019-01-16",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://kulibraries.github.io/2019-01-16-gpn/",
-    "venue": "University of Kansas"
-  },
-  {
-    "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
-    "country": "US",
-    "end": "2019-01-17",
-    "eventbrite_id": "",
-    "humandate": "Jan 16 - 17, 2019",
-    "latitude": 43.0729163,
-    "longitude": -89.410268,
-    "slug": "2019-01-16-uwmadison-dc",
-    "start": "2019-01-16",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
-    "venue": "Data Carpentry @ UW Madison"
-  },
-  {
     "address": "190 Doe Library, University of California, Berkeley",
     "country": "US",
     "end": "2019-01-18",
@@ -86,7 +32,7 @@
         "name": "SWC"
       }
     ],
-    "url": "https://code.nimahejazi.org/2019-01-17-bids/",
+    "url": "https://bids.github.io/2019-01-17-bids/",
     "venue": "Berkeley Institute for Data Science"
   },
   {
@@ -216,6 +162,27 @@
     "venue": "Fred Hutch"
   },
   {
+    "address": "Internet",
+    "country": "W3",
+    "end": "2019-01-23",
+    "eventbrite_id": "",
+    "humandate": "Jan 22 - 23, 2019",
+    "latitude": -48.876667,
+    "longitude": -123.393333,
+    "slug": "2019-01-22-ttt-online-westeurope",
+    "start": "2019-01-22",
+    "tags": [
+      {
+        "name": "TTT"
+      },
+      {
+        "name": "online"
+      }
+    ],
+    "url": "https://annefou.github.io/2019-01-22-ttt-online-westeurope/",
+    "venue": "Internet"
+  },
+  {
     "address": "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA",
     "country": "US",
     "end": "2019-01-23",
@@ -248,8 +215,29 @@
         "name": "SWC"
       }
     ],
-    "url": "https://tgac.github.io/2019-01-23-SWC/",
+    "url": "https://tgac.github.io/2019-01-23-earlham/",
     "venue": "Earlham Institute"
+  },
+  {
+    "address": "Internet",
+    "country": "W3",
+    "end": "2019-01-24",
+    "eventbrite_id": "",
+    "humandate": "Jan 23 - 24, 2019",
+    "latitude": -48.876667,
+    "longitude": -123.393333,
+    "slug": "2019-01-22-ttt-online_EST",
+    "start": "2019-01-23",
+    "tags": [
+      {
+        "name": "TTT"
+      },
+      {
+        "name": "online"
+      }
+    ],
+    "url": "https://kcranston.github.io/2019-01-22-ttt-online/",
+    "venue": "Internet"
   },
   {
     "address": "Hartley Conference Center, Mitchell Earth Sciences Building",
