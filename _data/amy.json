@@ -510,6 +510,60 @@
     "venue": "Earlham Institute"
   },
   {
+    "address": "Mission Hall, 550 16th Street, San Francisco, Rm 1402",
+    "country": "US",
+    "end": "2019-03-09",
+    "eventbrite_id": "53042637958",
+    "humandate": "Mar 08 - 09, 2019",
+    "latitude": 37.767411,
+    "longitude": -122.390344,
+    "slug": "2019-03-08-UCSF-Python",
+    "start": "2019-03-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
+    "venue": "University of California, San Francisco"
+  },
+  {
+    "address": "Mission Hall, 550 16th Street, San Francisco, Rm 1401",
+    "country": "US",
+    "end": "2019-03-09",
+    "eventbrite_id": "",
+    "humandate": "Mar 08 - 09, 2019",
+    "latitude": 37.76755,
+    "longitude": -122.39038,
+    "slug": "2019-03-08-UCSF-R",
+    "start": "2019-03-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kjlquist.github.io/2019-03-08-UCSF-R/",
+    "venue": "UCSF"
+  },
+  {
+    "address": "Owen Graduate School of Management: 21st Ave S, Nashville, TN 37203, Room #222",
+    "country": "US",
+    "end": "2019-04-19",
+    "eventbrite_id": "",
+    "humandate": "Mar 15 - Apr 19, 2019",
+    "latitude": 36.14743,
+    "longitude": -86.79943,
+    "slug": "2019-03-15-vanderbilt",
+    "start": "2019-03-15",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://broadwym.github.io/2019-03-15-vanderbilt/",
+    "venue": "Vanderbilt University"
+  },
+  {
     "address": "Langson Library RM 228",
     "country": "US",
     "end": "2019-03-27",
@@ -580,5 +634,23 @@
     ],
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "venue": "ELIXIR-BE"
+  },
+  {
+    "address": "CDU Darwin Waterfront",
+    "country": "AU",
+    "end": "2019-06-10",
+    "eventbrite_id": "",
+    "humandate": "Jun 10 - 10, 2019",
+    "latitude": -12.467735,
+    "longitude": 130.84543,
+    "slug": "2019-06-10-amos",
+    "start": "2019-06-10",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://damienirving.github.io/2019-06-10-amos/",
+    "venue": "AMOS 2019"
   }
 ]
