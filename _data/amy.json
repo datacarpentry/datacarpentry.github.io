@@ -18,24 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
-    "country": "US",
-    "end": "2019-01-21",
-    "eventbrite_id": "",
-    "humandate": "Jan 20 - 21, 2019",
-    "latitude": 41.791836,
-    "longitude": -87.602679,
-    "slug": "2019-01-12-chicago",
-    "start": "2019-01-20",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
-    "venue": "University of Chicago"
-  },
-  {
     "address": "1100 Fairview Ave. N., Seattle, WA 98109",
     "country": "US",
     "end": "2019-01-25",
@@ -227,6 +209,24 @@
     "end": "2019-01-27",
     "eventbrite_id": "",
     "humandate": "Jan 26 - 27, 2019",
+    "latitude": 45.25876,
+    "longitude": -66.37021,
+    "slug": "2019-01-26-nyas-Python",
+    "start": "2019-01-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://julesfowler.github.io/2019-01-26-nyas-Python/",
+    "venue": "The New York Academy of Sciences"
+  },
+  {
+    "address": "7 World Trade Center, 250 Greenwich St Fl 40, New York",
+    "country": "US",
+    "end": "2019-01-27",
+    "eventbrite_id": "",
+    "humandate": "Jan 26 - 27, 2019",
     "latitude": 40.766389,
     "longitude": -73.971111,
     "slug": "2019-01-26-nyas-R",
@@ -330,6 +330,24 @@
     "venue": "University of Illinois"
   },
   {
+    "address": "Science & Engineering Library Room 108 (SSL 108), 910 Bloom Walk, Los Angeles CA 90089",
+    "country": "US",
+    "end": "2019-02-01",
+    "eventbrite_id": "53353175785",
+    "humandate": "Jan 31 - Feb 01, 2019",
+    "latitude": 34.019611,
+    "longitude": -118.288799,
+    "slug": "2019-01-31-usc",
+    "start": "2019-01-31",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://butterflyology.github.io/2019-01-31-usc/",
+    "venue": "University of Southern California"
+  },
+  {
     "address": "Edmon Low Library—Room 206, Stillwater, OK 74078",
     "country": "US",
     "end": "2019-02-22",
@@ -346,6 +364,24 @@
     ],
     "url": "https://osu-carpentry.github.io/2019-02-01-okstate/",
     "venue": "Oklahoma State University"
+  },
+  {
+    "address": "Room 109AB, 72 E. Concord St., Boston, MA",
+    "country": "US",
+    "end": "2019-02-05",
+    "eventbrite_id": "",
+    "humandate": "Feb 04 - 05, 2019",
+    "latitude": 42.378044,
+    "longitude": -71.060886,
+    "slug": "2019-02-04-boston",
+    "start": "2019-02-04",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://taylorreiter.github.io/2019-02-04-boston/",
+    "venue": "Boston University"
   },
   {
     "address": "1030 National Center for Supercomputing Applications",
