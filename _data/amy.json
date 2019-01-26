@@ -18,60 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "1100 Fairview Ave. N., Seattle, WA 98109",
-    "country": "US",
-    "end": "2019-01-25",
-    "eventbrite_id": "",
-    "humandate": "Jan 22 - 25, 2019",
-    "latitude": 47.628251,
-    "longitude": -122.330025,
-    "slug": "2019-01-22-fredhutch",
-    "start": "2019-01-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
-    "venue": "Fred Hutch"
-  },
-  {
-    "address": "Annex 405, West Campus Library, TAMU",
-    "country": "US",
-    "end": "2019-01-25",
-    "eventbrite_id": "",
-    "humandate": "Jan 24 - 25, 2019",
-    "latitude": 30.627977,
-    "longitude": -96.334404,
-    "slug": "2019-01-24-tamu",
-    "start": "2019-01-24",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://swang8.github.io/2019-01-24-tamu/",
-    "venue": "Texas A&M University"
-  },
-  {
-    "address": "Willis Library, Room 250H, 1506 Highland St., Denton, TX 76203",
-    "country": "US",
-    "end": "2019-01-25",
-    "eventbrite_id": "54602259829",
-    "humandate": "Jan 24 - 25, 2019",
-    "latitude": 33.210068,
-    "longitude": -97.148954,
-    "slug": "2019-01-24-unt-swc",
-    "start": "2019-01-24",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://unt-carpentries.github.io/2019-01-24-unt-swc/",
-    "venue": "University of North Texas"
-  },
-  {
     "address": "UCSB, Santa Barbara, CA 93106",
     "country": "US",
     "end": "2019-01-26",
