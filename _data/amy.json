@@ -18,96 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "UCSB, Santa Barbara, CA 93106",
-    "country": "US",
-    "end": "2019-01-26",
-    "eventbrite_id": "",
-    "humandate": "Jan 25 - 26, 2019",
-    "latitude": 34.414354,
-    "longitude": -119.845506,
-    "slug": "2019-01-25-UCSBLibrary",
-    "start": "2019-01-25",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/",
-    "venue": "UCSB Library, classroom 1312"
-  },
-  {
-    "address": "FIXME",
-    "country": "US",
-    "end": "2019-01-26",
-    "eventbrite_id": "",
-    "humandate": "Jan 25 - 26, 2019",
-    "latitude": 47.66035,
-    "longitude": -122.30001,
-    "slug": "2019-01-25-uw",
-    "start": "2019-01-25",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ca2783.github.io/2019-02-07-uw/",
-    "venue": "Universty Of Washington"
-  },
-  {
-    "address": "7 World Trade Center, 250 Greenwich St Fl 40, New York",
-    "country": "US",
-    "end": "2019-01-27",
-    "eventbrite_id": "",
-    "humandate": "Jan 26 - 27, 2019",
-    "latitude": 45.25876,
-    "longitude": -66.37021,
-    "slug": "2019-01-26-nyas-Python",
-    "start": "2019-01-26",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://julesfowler.github.io/2019-01-26-nyas-Python/",
-    "venue": "The New York Academy of Sciences"
-  },
-  {
-    "address": "7 World Trade Center, 250 Greenwich St Fl 40, New York",
-    "country": "US",
-    "end": "2019-01-27",
-    "eventbrite_id": "",
-    "humandate": "Jan 26 - 27, 2019",
-    "latitude": 40.766389,
-    "longitude": -73.971111,
-    "slug": "2019-01-26-nyas-R",
-    "start": "2019-01-26",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://matthewclark1223.github.io/2019-01-26-nyas-R/",
-    "venue": "New York Academy of Sciences"
-  },
-  {
-    "address": "TBD",
-    "country": "US",
-    "end": "2019-01-27",
-    "eventbrite_id": "",
-    "humandate": "Jan 26 - 27, 2019",
-    "latitude": 39.904034,
-    "longitude": -75.352318,
-    "slug": "2019-01-26-swarthmore",
-    "start": "2019-01-26",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://timothylwarren.github.io/2019-01-26-swarthmore/",
-    "venue": "Swarthmore College"
-  },
-  {
     "address": "TBC, Somaliland",
     "country": "SO",
     "end": "2019-01-29",
@@ -466,6 +376,24 @@
     ],
     "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
     "venue": "UC Irvine Libraries"
+  },
+  {
+    "address": "Data Science Initiative, 100 NW Quad, Davis, CA 95616",
+    "country": "",
+    "end": "2019-03-28",
+    "eventbrite_id": "55000045617",
+    "humandate": "Mar 27 - 28, 2019",
+    "latitude": 38.542591,
+    "longitude": -121.750221,
+    "slug": "2019-03-27-ttt-uc_davis",
+    "start": "2019-03-27",
+    "tags": [
+      {
+        "name": "TTT"
+      }
+    ],
+    "url": "https://karenword.github.io/2019-03-27-ttt-uc_davis/",
+    "venue": "UC Davis"
   },
   {
     "address": "Tisch Library, Room 302",
