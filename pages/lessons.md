@@ -340,7 +340,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_website_url}}/geospatial-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
         <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
         <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="icon-eye"></a></td>
         <td>Anne Fouilloux, Arthur Endsley, Chris Prener, Jeff Hollister, Joseph Stachelek, Leah Wasser, Michael Sumner, Michele Tobias, Stace Maples</td>
     </tr>
     <tr>
@@ -353,18 +353,18 @@ Instructor. Instructors who have completed onboarding will be given priority sta
     </tr>
     <tr>
         <td>Introduction to R for Geospatial Data</td>
-        <td><a href="{{site.dc_website_url}}/r-intro-geospatial" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td><a href="{{site.dc_website_url}}/r-intro-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to R for Geospatial Data lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to R for Geospatial Data lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
-        <td>&nbsp;</td>
+        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to R for Geospatial Data lesson"></a></td>
         <td>Lachlan Deer, Juan Fung</td>        
     </tr>
     <tr>
         <td>Introduction to Geospatial Raster and Vector Data with R</td>
-        <td><a href="{{site.dc_website_url}}/r-raster-vector-geospatial" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Data with R lesson"></a></td>
-        <td>&nbsp;</td>
+        <td><a href="{{site.dc_website_url}}/r-raster-vector-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="Repository for  Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td>Joseph Stachelek, Lauren O'Brien, Jane Wyngaard</td>
   </tr>
 
