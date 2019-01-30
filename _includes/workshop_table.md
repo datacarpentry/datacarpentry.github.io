@@ -6,7 +6,7 @@
 			<a href="{{w.url}}">{{w.venue}}</a>
 	</td>
 	<td>
-		{{w.humandate}}
+        {{w.start_date | date: "%b %-d"}} - {{w.end_date | date: "%b %-d, %Y"}}
 	</td>
 	</tr>
 {% endfor %}
