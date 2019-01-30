@@ -276,6 +276,18 @@
     "start_date": "2019-01-10"
   },
   {
+    "end_date": "2019-01-11",
+    "url": "https://osu-carpentry.github.io/2019-01-10-okstate/",
+    "country": "US",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-01-10-okstate",
+    "tag_name": "SWC",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
+    "start_date": "2019-01-10"
+  },
+  {
     "end_date": "2019-01-10",
     "url": "https://lo5an.github.io/2019-01-09-carnegie/",
     "country": "US",
