@@ -1,4 +1,4 @@
-<table class="table table-striped workshops">
+<table class="table table-striped workshops" style="width: 100%">
 {% for w in site.data.DC_upcoming_workshops_plain  %}
 	<tr>
 	<td>
