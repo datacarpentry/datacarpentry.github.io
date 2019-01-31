@@ -132,6 +132,18 @@
     "start_date": "2019-02-21"
   },
   {
+    "end_date": "2019-02-21",
+    "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
+    "country": "US",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-02-20-carpentry",
+    "tag_name": "SWC,DC",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-02-20"
+  },
+  {
     "end_date": "2019-02-15",
     "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
     "country": "IT",
@@ -165,6 +177,18 @@
     "tag_name": "SWC",
     "host_name": "ELIXIR-UK",
     "latitude": 40.855535,
+    "start_date": "2019-02-11"
+  },
+  {
+    "end_date": "2019-02-12",
+    "url": "https://uf-carpentry.github.io/2019-02-11-ufii/",
+    "country": "US",
+    "venue": "UF Informatics Institute",
+    "longitude": -82.344031,
+    "slug": "2019-02-11-ufii",
+    "tag_name": "SWC",
+    "host_name": "University of Florida",
+    "latitude": 29.648248,
     "start_date": "2019-02-11"
   },
   {

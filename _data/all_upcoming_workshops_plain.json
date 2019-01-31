@@ -24,18 +24,6 @@
     "start_date": "2019-01-31"
   },
   {
-    "end_date": "2019-01-31",
-    "url": "https://swc-uiuc.github.io/2019-01-31-dc-illinois/",
-    "country": "US",
-    "venue": "University of Illinois",
-    "longitude": -88.2269122,
-    "slug": "2019-01-31-dc-illinois",
-    "tag_name": "DC",
-    "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
-    "latitude": 40.1047754,
-    "start_date": "2019-01-31"
-  },
-  {
     "end_date": "2019-02-01",
     "url": "https://butterflyology.github.io/2019-01-31-usc/",
     "country": "US",
@@ -120,6 +108,18 @@
     "start_date": "2019-02-11"
   },
   {
+    "end_date": "2019-02-12",
+    "url": "https://uf-carpentry.github.io/2019-02-11-ufii/",
+    "country": "US",
+    "venue": "UF Informatics Institute",
+    "longitude": -82.344031,
+    "slug": "2019-02-11-ufii",
+    "tag_name": "SWC",
+    "host_name": "University of Florida",
+    "latitude": 29.648248,
+    "start_date": "2019-02-11"
+  },
+  {
     "end_date": "2019-02-15",
     "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
     "country": "IT",
@@ -142,6 +142,18 @@
     "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
     "latitude": 40.1149832,
     "start_date": "2019-02-14"
+  },
+  {
+    "end_date": "2019-02-21",
+    "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
+    "country": "US",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-02-20-carpentry",
+    "tag_name": "SWC,DC",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-02-20"
   },
   {
     "end_date": "2019-02-22",
