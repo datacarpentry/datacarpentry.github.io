@@ -22,24 +22,10 @@
     "longitude": 6.91646,
     "slug": "2019-01-15-Library_Carpentry_Cologne",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Eva Seidlmayer,Christian Kurrat",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-01-15"
-  },
-  {
-    "end_date": "2018-12-13",
-    "url": "https://zbmed.github.io/2018-12-12-Library_Carpentry_Cologne/",
-    "country": "DE",
-    "instructors": "Silvia Di Giorgio,Konrad Förstner",
-    "venue": "ZB MED",
-    "longitude": 50.924681,
-    "slug": "2018-12-12-Library_Carpentry_Cologne",
-    "tag_name": "LC",
-    "helpers": "Christian Kurrat,Muhammad Elhossary,Eva Seidlmayer",
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.924681,
-    "start_date": "2018-12-12"
   },
   {
     "end_date": "2018-11-30",

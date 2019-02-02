@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-02",
-    "url": "https://tenet-rccpii.github.io/2019-01-22-WSU-EastLondon",
-    "country": "ZA",
-    "instructors": "Katrin Tirok",
-    "venue": "Walter Sisulu University",
-    "longitude": 27.9058585,
-    "slug": "2019-01-22-WSU-EastLondon",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Walter Sisulu University",
-    "latitude": -33.0211839,
-    "start_date": "2019-01-31"
-  },
-  {
     "end_date": "2019-02-05",
     "url": "https://taylorreiter.github.io/2019-02-04-boston/",
     "country": "US",
