@@ -28,6 +28,20 @@
     "start_date": "2019-01-31"
   },
   {
+    "end_date": "2019-01-31",
+    "url": "https://tavareshugo.github.io/2019-01-29-EMBL/",
+    "country": "DE",
+    "instructors": "Florian Huber,Hugo Tavares,Thea Van Rossum,Georg Zeller",
+    "venue": "EMBL Heidelberg",
+    "longitude": 8.70907,
+    "slug": "2019-01-29-EMBL",
+    "tag_name": "DC",
+    "helpers": "Toby Hodges,Malvika Sharan",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384368,
+    "start_date": "2019-01-29"
+  },
+  {
     "end_date": "2019-01-29",
     "url": "https://anelda.github.io/2019-01-28-SomaliREN/",
     "country": "SO",
@@ -47,12 +61,12 @@
     "country": "US",
     "instructors": "Donal Heidenblad,Fred Boehm",
     "venue": "George Mason University",
-    "longitude": null,
+    "longitude": -77.07993,
     "slug": "2019-01-25-gmu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Debby Kermer",
     "host_name": "George Mason University",
-    "latitude": null,
+    "latitude": 38.888309,
     "start_date": "2019-01-25"
   },
   {
@@ -320,20 +334,6 @@
     "host_name": "University of Illinois",
     "latitude": 40.1149832,
     "start_date": "2018-10-18"
-  },
-  {
-    "end_date": "2018-10-16",
-    "url": "https://orchid00.github.io/2018-10-15-elixir-igc/",
-    "country": "PT",
-    "instructors": "Paula Andrea Martinez,Mateusz Kuzak",
-    "venue": "Instituto Gulbenkian de Ciência",
-    "longitude": null,
-    "slug": "2018-10-15-elixir-igc",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": null,
-    "start_date": "2018-10-15"
   },
   {
     "end_date": "2018-10-07",

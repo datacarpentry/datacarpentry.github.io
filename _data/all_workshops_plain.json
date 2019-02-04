@@ -168,6 +168,20 @@
     "start_date": "2019-02-28"
   },
   {
+    "end_date": "2019-03-01",
+    "url": "https://umswc.github.io/2019-02-28-umich/",
+    "country": "US",
+    "instructors": "Chris Gates,Ry4an Brase",
+    "venue": "University of Michigan",
+    "longitude": -83.71569,
+    "slug": "2019-02-28-umich",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.2912,
+    "start_date": "2019-02-28"
+  },
+  {
     "end_date": "2019-02-22",
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "country": "CA",
@@ -194,6 +208,20 @@
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-02-20"
+  },
+  {
+    "end_date": "2019-02-16",
+    "url": "https://russodanielp.github.io/2019-02-15-rutgers_cmd/",
+    "country": "US",
+    "instructors": "Daniel Russo,Heather Ciallella,Liam Sharp,Sunil Shende",
+    "venue": "Rutgers University - Camden",
+    "longitude": -75.118828,
+    "slug": "2019-02-15-rutgers_cmd",
+    "tag_name": "SWC",
+    "helpers": "James Brown,Traci DuBose,adam okulicz-kozaryn",
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.94521,
+    "start_date": "2019-02-15"
   },
   {
     "end_date": "2019-02-15",
@@ -235,6 +263,20 @@
     "helpers": "Dario Righelli",
     "host_name": "ELIXIR-UK",
     "latitude": 40.855535,
+    "start_date": "2019-02-11"
+  },
+  {
+    "end_date": "2019-02-12",
+    "url": "https://bsurc.github.io/2019-02-11-rc-days/",
+    "country": "US",
+    "instructors": "Eric Jankowski,Vicken Hillis,Eric Hayden,Brian Jackson,Mike Henry,Matthew Jones,Kyle Shannon",
+    "venue": "Boise State University",
+    "longitude": -116.209994,
+    "slug": "2019-02-11-rc-days",
+    "tag_name": "SWC",
+    "helpers": "Matt Clark,Kendra Kaiser",
+    "host_name": "Boise State University",
+    "latitude": 43.604172,
     "start_date": "2019-02-11"
   },
   {
@@ -378,6 +420,20 @@
     "start_date": "2019-01-30"
   },
   {
+    "end_date": "2019-01-31",
+    "url": "https://tavareshugo.github.io/2019-01-29-EMBL/",
+    "country": "DE",
+    "instructors": "Florian Huber,Hugo Tavares,Thea Van Rossum,Georg Zeller",
+    "venue": "EMBL Heidelberg",
+    "longitude": 8.70907,
+    "slug": "2019-01-29-EMBL",
+    "tag_name": "DC",
+    "helpers": "Toby Hodges,Malvika Sharan",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384368,
+    "start_date": "2019-01-29"
+  },
+  {
     "end_date": "2019-01-29",
     "url": "https://anelda.github.io/2019-01-28-SomaliREN/",
     "country": "SO",
@@ -453,12 +509,12 @@
     "country": "US",
     "instructors": "Donal Heidenblad,Fred Boehm",
     "venue": "George Mason University",
-    "longitude": null,
+    "longitude": -77.07993,
     "slug": "2019-01-25-gmu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Debby Kermer",
     "host_name": "George Mason University",
-    "latitude": null,
+    "latitude": 38.888309,
     "start_date": "2019-01-25"
   },
   {
@@ -2033,12 +2089,12 @@
     "end_date": "2018-10-19",
     "url": "https://sriharisundar.github.io/2018-10-18-jcsu/",
     "country": "FI",
-    "instructors": "Srihari Sundar,Jacob Koehler",
+    "instructors": "Srihari Sundar,Srihari Sundar,Jacob Koehler,Jacob Koehler",
     "venue": "Johnson C. Smith University",
     "longitude": null,
     "slug": "2018-10-18-jcsu",
-    "tag_name": "SWC",
-    "helpers": "Monika Rhue,Sandra Phoenix",
+    "tag_name": "SWC,unresponsive",
+    "helpers": "Monika Rhue,Monika Rhue,Sandra Phoenix,Sandra Phoenix",
     "host_name": "Johnson C. Smith University",
     "latitude": null,
     "start_date": "2018-10-18"
@@ -2131,11 +2187,11 @@
     "end_date": "2018-10-16",
     "url": "https://orchid00.github.io/2018-10-15-elixir-igc/",
     "country": "PT",
-    "instructors": "Paula Andrea Martinez,Mateusz Kuzak",
+    "instructors": "Paula Andrea Martinez,Paula Andrea Martinez,Mateusz Kuzak,Mateusz Kuzak",
     "venue": "Instituto Gulbenkian de Ciência",
     "longitude": null,
     "slug": "2018-10-15-elixir-igc",
-    "tag_name": "DC",
+    "tag_name": "DC,unresponsive",
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": null,

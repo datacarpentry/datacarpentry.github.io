@@ -85,6 +85,20 @@
   },
   {
     "end_date": "2019-02-12",
+    "url": "https://bsurc.github.io/2019-02-11-rc-days/",
+    "country": "US",
+    "instructors": "Eric Jankowski,Vicken Hillis,Eric Hayden,Brian Jackson,Mike Henry,Matthew Jones,Kyle Shannon",
+    "venue": "Boise State University",
+    "longitude": -116.209994,
+    "slug": "2019-02-11-rc-days",
+    "tag_name": "SWC",
+    "helpers": "Matt Clark,Kendra Kaiser",
+    "host_name": "Boise State University",
+    "latitude": 43.604172,
+    "start_date": "2019-02-11"
+  },
+  {
+    "end_date": "2019-02-12",
     "url": "https://uf-carpentry.github.io/2019-02-11-ufii/",
     "country": "US",
     "instructors": "Brian Stucky,Ellen Bledsoe,Joe Andreoli,Sasha Lavrentovich",
@@ -126,6 +140,20 @@
     "start_date": "2019-02-14"
   },
   {
+    "end_date": "2019-02-16",
+    "url": "https://russodanielp.github.io/2019-02-15-rutgers_cmd/",
+    "country": "US",
+    "instructors": "Daniel Russo,Heather Ciallella,Liam Sharp,Sunil Shende",
+    "venue": "Rutgers University - Camden",
+    "longitude": -75.118828,
+    "slug": "2019-02-15-rutgers_cmd",
+    "tag_name": "SWC",
+    "helpers": "James Brown,Traci DuBose,adam okulicz-kozaryn",
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.94521,
+    "start_date": "2019-02-15"
+  },
+  {
     "end_date": "2019-02-21",
     "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
     "country": "US",
@@ -165,6 +193,20 @@
     "helpers": null,
     "host_name": "University of California San Francisco",
     "latitude": 37.769398,
+    "start_date": "2019-02-28"
+  },
+  {
+    "end_date": "2019-03-01",
+    "url": "https://umswc.github.io/2019-02-28-umich/",
+    "country": "US",
+    "instructors": "Chris Gates,Ry4an Brase",
+    "venue": "University of Michigan",
+    "longitude": -83.71569,
+    "slug": "2019-02-28-umich",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.2912,
     "start_date": "2019-02-28"
   },
   {
