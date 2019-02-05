@@ -140,6 +140,20 @@
     "start_date": "2019-02-21"
   },
   {
+    "end_date": "2019-02-22",
+    "url": "https://uomresearchit.github.io/2019-02-21-manchester",
+    "country": "GB",
+    "instructors": "Gerard Capes,Ann Gledson",
+    "venue": "University Of Manchester",
+    "longitude": -2.23603,
+    "slug": "2019-02-21-manchester",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.47634,
+    "start_date": "2019-02-21"
+  },
+  {
     "end_date": "2019-03-01",
     "url": "https://aseveritt.github.io/2019-02-28-UCSF/",
     "country": "US",

@@ -196,6 +196,20 @@
     "start_date": "2019-02-21"
   },
   {
+    "end_date": "2019-02-22",
+    "url": "https://uomresearchit.github.io/2019-02-21-manchester",
+    "country": "GB",
+    "instructors": "Gerard Capes,Ann Gledson",
+    "venue": "University Of Manchester",
+    "longitude": -2.23603,
+    "slug": "2019-02-21-manchester",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.47634,
+    "start_date": "2019-02-21"
+  },
+  {
     "end_date": "2019-02-21",
     "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
     "country": "US",
@@ -348,6 +362,20 @@
     "host_name": "University of Zurich",
     "latitude": 47.3966,
     "start_date": "2019-02-07"
+  },
+  {
+    "end_date": "2019-02-07",
+    "url": "https://alevigi.github.io/2019-2-6-SZN/",
+    "country": "IT",
+    "instructors": "Alessandra Vigilante",
+    "venue": "Stazione Zoologica Anton Dohrn Napoli",
+    "longitude": 14.23563,
+    "slug": "2019-02-06-SZN",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "King's College London",
+    "latitude": 40.832726,
+    "start_date": "2019-02-06"
   },
   {
     "end_date": "2019-02-05",
