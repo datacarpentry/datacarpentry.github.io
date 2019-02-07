@@ -84,6 +84,20 @@
     "start_date": "2019-04-12"
   },
   {
+    "end_date": "2019-03-29",
+    "url": "https://timothylwarren.github.io/2019-02-22-claremont/",
+    "country": "US",
+    "instructors": "Jacob Fosso Tande,Timothy Warren",
+    "venue": "Claremont McKenna College",
+    "longitude": -117.7106,
+    "slug": "2019-02-22-claremont",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Claremont Colleges",
+    "latitude": 34.1024,
+    "start_date": "2019-03-28"
+  },
+  {
     "end_date": "2019-03-27",
     "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
     "country": "US",
@@ -182,6 +196,20 @@
     "start_date": "2019-02-28"
   },
   {
+    "end_date": "2019-03-01",
+    "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
+    "country": "US",
+    "instructors": "Sarah Supp,Robert Flight",
+    "venue": "Wright State University",
+    "longitude": -84.063072,
+    "slug": "2019-02-28-wrightstateu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Wright State University",
+    "latitude": 39.781158,
+    "start_date": "2019-02-28"
+  },
+  {
     "end_date": "2019-02-22",
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "country": "CA",
@@ -222,6 +250,20 @@
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-02-20"
+  },
+  {
+    "end_date": "2019-02-17",
+    "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
+    "country": "US",
+    "instructors": "Sheldon McKay,Michael Zingale",
+    "venue": "Stony Brook University",
+    "longitude": -73.121199,
+    "slug": "2019-xx-xx-stonybrook-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.909835,
+    "start_date": "2019-02-16"
   },
   {
     "end_date": "2019-02-16",
@@ -813,6 +855,20 @@
   },
   {
     "end_date": "2019-01-16",
+    "url": "https://bioinformatics-core-shared-training.github.io/2019-01-15-CRUK-Cambridge-DCinR/",
+    "country": "GB",
+    "instructors": "Mark Fernandes,Anne Pajon,Jing Su,Ashley Sawle",
+    "venue": "School of Clinical Medicine",
+    "longitude": 0.1374,
+    "slug": "2019-01-15-CRUK-Cambridge-DCinR",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Cambridge",
+    "latitude": 52.1869,
+    "start_date": "2019-01-15"
+  },
+  {
+    "end_date": "2019-01-16",
     "url": "https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/",
     "country": "DE",
     "instructors": "Silvia Di Giorgio,Konrad Förstner",
@@ -1039,12 +1095,12 @@
     "end_date": "2019-01-10",
     "url": "https://lo5an.github.io/2019-01-09-carnegie/",
     "country": "US",
-    "instructors": "Logan Cox",
+    "instructors": "Logan Cox,Daniel Kerchner",
     "venue": "Carnegie Mellon University",
     "longitude": -79.9439424,
     "slug": "2019-01-09-carnegie",
     "tag_name": "SWC",
-    "helpers": "Daniel Kerchner,Eric Kaltman,Huajin Wang",
+    "helpers": "Eric Kaltman,Huajin Wang",
     "host_name": "Carnegie Mellon University",
     "latitude": 40.4410639,
     "start_date": "2019-01-09"

@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-02-07",
+    "url": "https://alevigi.github.io/2019-2-6-SZN/",
+    "country": "IT",
+    "instructors": "Alessandra Vigilante",
+    "venue": "Stazione Zoologica Anton Dohrn Napoli",
+    "longitude": 14.23563,
+    "slug": "2019-02-06-SZN",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "King's College London",
+    "latitude": 40.832726,
+    "start_date": "2019-02-06"
+  },
+  {
     "end_date": "2019-02-05",
     "url": "https://taylorreiter.github.io/2019-02-04-boston/",
     "country": "US",
@@ -435,6 +449,20 @@
   },
   {
     "end_date": "2019-01-16",
+    "url": "https://bioinformatics-core-shared-training.github.io/2019-01-15-CRUK-Cambridge-DCinR/",
+    "country": "GB",
+    "instructors": "Mark Fernandes,Anne Pajon,Jing Su,Ashley Sawle",
+    "venue": "School of Clinical Medicine",
+    "longitude": 0.1374,
+    "slug": "2019-01-15-CRUK-Cambridge-DCinR",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Cambridge",
+    "latitude": 52.1869,
+    "start_date": "2019-01-15"
+  },
+  {
+    "end_date": "2019-01-16",
     "url": "https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/",
     "country": "DE",
     "instructors": "Silvia Di Giorgio,Konrad Förstner",
@@ -661,12 +689,12 @@
     "end_date": "2019-01-10",
     "url": "https://lo5an.github.io/2019-01-09-carnegie/",
     "country": "US",
-    "instructors": "Logan Cox",
+    "instructors": "Logan Cox,Daniel Kerchner",
     "venue": "Carnegie Mellon University",
     "longitude": -79.9439424,
     "slug": "2019-01-09-carnegie",
     "tag_name": "SWC",
-    "helpers": "Daniel Kerchner,Eric Kaltman,Huajin Wang",
+    "helpers": "Eric Kaltman,Huajin Wang",
     "host_name": "Carnegie Mellon University",
     "latitude": 40.4410639,
     "start_date": "2019-01-09"

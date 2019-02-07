@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-07",
-    "url": "https://alevigi.github.io/2019-2-6-SZN/",
-    "country": "IT",
-    "instructors": "Alessandra Vigilante",
-    "venue": "Stazione Zoologica Anton Dohrn Napoli",
-    "longitude": 14.23563,
-    "slug": "2019-02-06-SZN",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "King's College London",
-    "latitude": 40.832726,
-    "start_date": "2019-02-06"
-  },
-  {
     "end_date": "2019-02-15",
     "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
     "country": "IT",
@@ -26,6 +12,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 45.51729,
     "start_date": "2019-02-14"
+  },
+  {
+    "end_date": "2019-03-01",
+    "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
+    "country": "US",
+    "instructors": "Sarah Supp,Robert Flight",
+    "venue": "Wright State University",
+    "longitude": -84.063072,
+    "slug": "2019-02-28-wrightstateu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Wright State University",
+    "latitude": 39.781158,
+    "start_date": "2019-02-28"
   },
   {
     "end_date": "2019-03-06",
