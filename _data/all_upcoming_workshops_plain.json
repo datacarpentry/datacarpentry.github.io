@@ -1,47 +1,5 @@
 [
   {
-    "end_date": "2019-02-08",
-    "url": "https://swc-uiuc.github.io/2019-02-07-illinois/",
-    "country": "US",
-    "instructors": "Madicken Munk,Lindsay Clark",
-    "venue": "University of Illinois",
-    "longitude": -88.2271851,
-    "slug": "2019-02-07-illinois",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
-    "latitude": 40.1149832,
-    "start_date": "2019-02-07"
-  },
-  {
-    "end_date": "2019-02-08",
-    "url": "https://ca2783.github.io/2019-02-07-uw/",
-    "country": "US",
-    "instructors": "TJ Nguyen,Cesar Arias",
-    "venue": "Universty Of Washington",
-    "longitude": -122.30001,
-    "slug": "2019-02-07-uw",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Washington",
-    "latitude": 47.66035,
-    "start_date": "2019-02-07"
-  },
-  {
-    "end_date": "2019-02-08",
-    "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
-    "country": "CH",
-    "instructors": "Lachlan Deer,Julian Langer",
-    "venue": "University of Zurich",
-    "longitude": 8.55013,
-    "slug": "2019-02-07-zurich",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Zurich",
-    "latitude": 47.3966,
-    "start_date": "2019-02-07"
-  },
-  {
     "end_date": "2019-02-10",
     "url": "https://data-science-for-scientists-atl.github.io/2019-02-09-emory/",
     "country": "US",
@@ -98,6 +56,20 @@
     "start_date": "2019-02-11"
   },
   {
+    "end_date": "2019-02-14",
+    "url": "https://amyehodge.github.io/2019-02-13-ttt-stanford/",
+    "country": "US",
+    "instructors": "Amy Hodge,Karen Word",
+    "venue": "Stanford University",
+    "longitude": 122.172656,
+    "slug": "2019-02-13-ttt-stanford",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 37.426666,
+    "start_date": "2019-02-13"
+  },
+  {
     "end_date": "2019-02-15",
     "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
     "country": "IT",
@@ -123,6 +95,20 @@
     "helpers": null,
     "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
     "latitude": 40.1149832,
+    "start_date": "2019-02-14"
+  },
+  {
+    "end_date": "2019-02-15",
+    "url": "http://sarahlrstevens.info/2019-02-14-ttt-online-EST/",
+    "country": "W3",
+    "instructors": "Greg Wilson,Greg Wilson,Sarah Stevens,Sarah Stevens",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-02-14-ttt-online-EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
     "start_date": "2019-02-14"
   },
   {

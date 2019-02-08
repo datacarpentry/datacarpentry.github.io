@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-02-08",
+    "url": "https://swc-uiuc.github.io/2019-02-07-illinois/",
+    "country": "US",
+    "instructors": "Madicken Munk,Lindsay Clark",
+    "venue": "University of Illinois",
+    "longitude": -88.2271851,
+    "slug": "2019-02-07-illinois",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
+    "latitude": 40.1149832,
+    "start_date": "2019-02-07"
+  },
+  {
+    "end_date": "2019-02-08",
+    "url": "https://ca2783.github.io/2019-02-07-uw/",
+    "country": "US",
+    "instructors": "TJ Nguyen,Cesar Arias",
+    "venue": "Universty Of Washington",
+    "longitude": -122.30001,
+    "slug": "2019-02-07-uw",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Washington",
+    "latitude": 47.66035,
+    "start_date": "2019-02-07"
+  },
+  {
+    "end_date": "2019-02-08",
+    "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
+    "country": "CH",
+    "instructors": "Lachlan Deer,Julian Langer",
+    "venue": "University of Zurich",
+    "longitude": 8.55013,
+    "slug": "2019-02-07-zurich",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Zurich",
+    "latitude": 47.3966,
+    "start_date": "2019-02-07"
+  },
+  {
     "end_date": "2019-02-07",
     "url": "https://alevigi.github.io/2019-2-6-SZN/",
     "country": "IT",
