@@ -16,29 +16,29 @@ format: blog-index
 *
 {% endcomment %}
 <div class="row t60">
-<div class="medium-20">
-Data Carpentry develops and teaches workshops on the fundamental data skills needed to 
-conduct research. Our mission is to provide researchers high-quality, domain-specific 
-training covering the full lifecycle of data-driven research.
-Data Carpentry is now a lesson project within <a href=https://carpentries.org>The Carpentries</a>, having merged with 
- <a href=http://software-carpentry.org>Software Carpentry</a> in January, 2018. Data Carpentry's focus is on the 
-introductory computational skills needed for data management and analysis
-in all domains of research. Our lessons are domain-specific, and build on
-the existing knowledge of learners to enable them to quickly apply skills
-learned to their own research. <i>Our initial target audience is learners who have
-little to no prior computational experience.</i> We create a friendly 
-environment for learning to empower researchers and enable data driven discovery. 
+  <div class="medium-20">
+    <h2>What is Data Carpentry?</h2>
+    <p>
+      Data Carpentry develops and teaches workshops on the fundamental data
+      skills needed to conduct research. Our mission is to provide researchers
+      high-quality, domain-specific training covering the full lifecycle of
+      data-driven research.
+    </p>
 
-<p>
-<br>
-<!--
-<strong>Recent News >></strong> 
-<a href=/blog/moore/>Data Carpentry has received a grant from the Gordon and Betty Moore Foundation</a>
-<p>
--->
-<strong>Recent Blog Posts >></strong> {% include list-front.html entries='1' %}
-
-</div>
+    <p>
+      Data Carpentry is now a lesson project within
+      <a href="https://carpentries.org">The Carpentries</a>, having merged with
+      <a href="http://software-carpentry.org">Software Carpentry</a> in January,
+      2018. Data Carpentry's focus is on the introductory computational skills
+      needed for data management and analysis in all domains of research.
+      Our lessons are domain-specific, and build on the existing knowledge of
+      learners to enable them to quickly apply skills learned to their own
+      research. <i>Our initial target audience is learners who have
+        little to no prior computational experience.</i> We create a friendly
+      environment for learning to empower researchers and enable data driven
+      discovery.
+    </p>
+  </div>
 
     {% if page.widget-1.title %}
     <div class="medium-4 columns">
@@ -79,23 +79,26 @@ environment for learning to empower researchers and enable data driven discovery
 *
 {% endcomment %}
 
-{% unless site.posts == empty %}
-
-
     <div class="row">
+        <div class="medium-6 columns">
+          <h2>{{ site.data.language.more_articles }}</h2>
+          <p>
+            In addition of the posts below,
+            find out what's happening in our community through
+            <a href="https://carpentries.org/blog">The Carpentries blog</a>,
+            a great resource that collates posts from Data Carpentry,
+            Library Carpentry, and Software Carpentry, and
+            publishes updates of general interest to the community.
+          </p>
+          {% include list-posts.html entries='3' offset='1' %}
+        </div><!-- /.medium-7.columns -->
+
 
         <div class="medium-6 columns">
-	  <p><strong>{{ site.data.language.upcoming_workshops }}</strong></p>
+	  <h2>{{ site.data.language.upcoming_workshops }}</h2>
 	  {% include workshop_table.md %}
 	</div>
-
-
-        <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts.html entries='3' offset='1' %}
-        </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
-{% endunless %}
 
 
 {% comment %}
