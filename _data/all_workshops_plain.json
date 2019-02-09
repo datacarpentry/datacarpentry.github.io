@@ -84,6 +84,20 @@
     "start_date": "2019-04-12"
   },
   {
+    "end_date": "2019-04-04",
+    "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
+    "country": "W3",
+    "instructors": "Malvika Sharan,Malvika Sharan,Allegra Via,Allegra Via",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-04-03-ttt-stockholm",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-04-03"
+  },
+  {
     "end_date": "2019-03-29",
     "url": "https://timothylwarren.github.io/2019-02-22-claremont/",
     "country": "US",
