@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-02-10",
+    "url": "https://data-science-for-scientists-atl.github.io/2019-02-09-emory/",
+    "country": "US",
+    "instructors": "Elyse Morin,David Nicholson,Jay Lee,Sena Agezo",
+    "venue": "Emory University",
+    "longitude": -84.32145,
+    "slug": "2019-02-09-emory",
+    "tag_name": "SWC",
+    "helpers": "Stephanie Prince,Kate Roman",
+    "host_name": "Emory University",
+    "latitude": 33.79434,
+    "start_date": "2019-02-09"
+  },
+  {
     "end_date": "2019-02-08",
     "url": "https://swc-uiuc.github.io/2019-02-07-illinois/",
     "country": "US",
