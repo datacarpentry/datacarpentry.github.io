@@ -15,6 +15,20 @@
   },
   {
     "end_date": "2019-02-08",
+    "url": "https://swang8.github.io/2019-01-24-tamu/",
+    "country": "US",
+    "instructors": "Noushin Ghaffari,David Bapst,Ramalingam Saravanan,Shichen Wang",
+    "venue": "Texas A&M University",
+    "longitude": -96.334404,
+    "slug": "2019-01-24-tamu",
+    "tag_name": "SWC",
+    "helpers": "Jian Tao",
+    "host_name": "Texas A&M University",
+    "latitude": 30.627977,
+    "start_date": "2019-02-07"
+  },
+  {
+    "end_date": "2019-02-08",
     "url": "https://swc-uiuc.github.io/2019-02-07-illinois/",
     "country": "US",
     "instructors": "Madicken Munk,Lindsay Clark",
@@ -124,20 +138,6 @@
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414354,
     "start_date": "2019-01-25"
-  },
-  {
-    "end_date": "2019-01-25",
-    "url": "https://swang8.github.io/2019-01-24-tamu/",
-    "country": "US",
-    "instructors": "Noushin Ghaffari,David Bapst,Ramalingam Saravanan,Shichen Wang",
-    "venue": "Texas A&M University",
-    "longitude": -96.334404,
-    "slug": "2019-01-24-tamu",
-    "tag_name": "SWC",
-    "helpers": "Jian Tao",
-    "host_name": "Texas A&M University",
-    "latitude": 30.627977,
-    "start_date": "2019-01-24"
   },
   {
     "end_date": "2019-01-25",
