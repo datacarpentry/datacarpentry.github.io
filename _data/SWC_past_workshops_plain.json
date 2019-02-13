@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-02-12",
+    "url": "https://bsurc.github.io/2019-02-11-rc-days/",
+    "country": "US",
+    "instructors": "Eric Jankowski,Vicken Hillis,Eric Hayden,Brian Jackson,Mike Henry,Matthew Jones,Kyle Shannon",
+    "venue": "Boise State University",
+    "longitude": -116.209994,
+    "slug": "2019-02-11-rc-days",
+    "tag_name": "SWC",
+    "helpers": "Matt Clark,Kendra Kaiser",
+    "host_name": "Boise State University",
+    "latitude": 43.604172,
+    "start_date": "2019-02-11"
+  },
+  {
+    "end_date": "2019-02-12",
+    "url": "https://uf-carpentry.github.io/2019-02-11-ufii/",
+    "country": "US",
+    "instructors": "Brian Stucky,Ellen Bledsoe,Joe Andreoli,Sasha Lavrentovich",
+    "venue": "UF Informatics Institute",
+    "longitude": -82.344031,
+    "slug": "2019-02-11-ufii",
+    "tag_name": "SWC",
+    "helpers": "Christine Swanson,Falcon Restrepo Ramos",
+    "host_name": "University of Florida",
+    "latitude": 29.648248,
+    "start_date": "2019-02-11"
+  },
+  {
     "end_date": "2019-02-10",
     "url": "https://data-science-for-scientists-atl.github.io/2019-02-09-emory/",
     "country": "US",

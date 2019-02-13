@@ -14,6 +14,20 @@
     "start_date": "2019-02-06"
   },
   {
+    "end_date": "2019-02-06",
+    "url": "https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/",
+    "country": "NL",
+    "instructors": "Like Fokkens,Mattias de Hollander,Marc Galland",
+    "venue": "Wageningen Univeristy & Research (WUR)",
+    "longitude": 5.66364,
+    "slug": "2019-02-05-wageningen-genomics",
+    "tag_name": "DC",
+    "helpers": "Miaomiao Zhao",
+    "host_name": "Wageningen University & Research",
+    "latitude": 51.98527,
+    "start_date": "2019-02-05"
+  },
+  {
     "end_date": "2019-02-05",
     "url": "https://taylorreiter.github.io/2019-02-04-boston/",
     "country": "US",

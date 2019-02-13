@@ -140,6 +140,20 @@
     "start_date": "2019-03-15"
   },
   {
+    "end_date": "2019-03-12",
+    "url": "https://jordanpedersen.github.io/2019-03-11-UniversityofToronto/",
+    "country": "CA",
+    "instructors": "Rachel Wang",
+    "venue": "University of Toronto",
+    "longitude": -79.39801,
+    "slug": "2019-03-11-UniversityofToronto",
+    "tag_name": "LC",
+    "helpers": "Jordan Pedersen,Sarah Gorman,Angel Su,Dominique Glassman",
+    "host_name": "University of Toronto",
+    "latitude": 43.66304,
+    "start_date": "2019-03-11"
+  },
+  {
     "end_date": "2019-03-09",
     "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
     "country": "US",
@@ -185,7 +199,7 @@
     "end_date": "2019-03-01",
     "url": "https://aseveritt.github.io/2019-02-28-UCSF/",
     "country": "US",
-    "instructors": "Amanda Everitt Amanda Everitt",
+    "instructors": "Amanda Everitt",
     "venue": "IND-UCSF",
     "longitude": -122.391498,
     "slug": "2019-02-28-UCSF",
@@ -474,6 +488,20 @@
     "host_name": "King's College London",
     "latitude": 40.832726,
     "start_date": "2019-02-06"
+  },
+  {
+    "end_date": "2019-02-06",
+    "url": "https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/",
+    "country": "NL",
+    "instructors": "Like Fokkens,Mattias de Hollander,Marc Galland",
+    "venue": "Wageningen Univeristy & Research (WUR)",
+    "longitude": 5.66364,
+    "slug": "2019-02-05-wageningen-genomics",
+    "tag_name": "DC",
+    "helpers": "Miaomiao Zhao",
+    "host_name": "Wageningen University & Research",
+    "latitude": 51.98527,
+    "start_date": "2019-02-05"
   },
   {
     "end_date": "2019-02-05",
