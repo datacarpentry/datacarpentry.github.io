@@ -1,5 +1,61 @@
 [
   {
+    "end_date": "2019-02-16",
+    "url": "https://russodanielp.github.io/2019-02-15-rutgers_cmd/",
+    "country": "US",
+    "instructors": "Daniel Russo,Heather Ciallella,Liam Sharp,Sunil Shende",
+    "venue": "Rutgers University - Camden",
+    "longitude": -75.118828,
+    "slug": "2019-02-15-rutgers_cmd",
+    "tag_name": "SWC",
+    "helpers": "James Brown,Traci DuBose,adam okulicz-kozaryn",
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.94521,
+    "start_date": "2019-02-15"
+  },
+  {
+    "end_date": "2019-02-15",
+    "url": "https://swc-uiuc.github.io/2019-02-14-illinois/",
+    "country": "US",
+    "instructors": "Stuti Shrivastava",
+    "venue": "University of Illinois",
+    "longitude": -88.2271851,
+    "slug": "2019-02-14-illinois",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
+    "latitude": 40.1149832,
+    "start_date": "2019-02-14"
+  },
+  {
+    "end_date": "2019-02-13",
+    "url": "https://bio-swc-bne.github.io/2019-02-12-GriffithUni-R/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2019-02-12-GriffithUni-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2019-02-12"
+  },
+  {
+    "end_date": "2019-02-15",
+    "url": "https://mchiapello.github.io/2019-02-11-Naples/",
+    "country": "IT",
+    "instructors": "Wagner Barløse Mathias,Marco Chiapello",
+    "venue": "National Research Council",
+    "longitude": 14.224429,
+    "slug": "2019-02-11-Naples",
+    "tag_name": "SWC",
+    "helpers": "Dario Righelli",
+    "host_name": "ELIXIR-UK",
+    "latitude": 40.855535,
+    "start_date": "2019-02-11"
+  },
+  {
     "end_date": "2019-02-12",
     "url": "https://bsurc.github.io/2019-02-11-rc-days/",
     "country": "US",
@@ -36,7 +92,7 @@
     "longitude": -84.32145,
     "slug": "2019-02-09-emory",
     "tag_name": "SWC",
-    "helpers": "Stephanie Prince,Kate Roman",
+    "helpers": "Stephanie Prince,Kate Roman,Sara Fielder,Robert Thorstadt,Marko Bajic,Matt Malishev,Jessica Owensby",
     "host_name": "Emory University",
     "latitude": 33.79434,
     "start_date": "2019-02-09"
@@ -78,7 +134,7 @@
     "longitude": -122.30001,
     "slug": "2019-02-07-uw",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jacob Deppen,Scott Henderson,Rob Fatland,Helen Deweese",
     "host_name": "University of Washington",
     "latitude": 47.66035,
     "start_date": "2019-02-07"
@@ -120,7 +176,7 @@
     "longitude": -66.37021,
     "slug": "2019-01-26-nyas-Python",
     "tag_name": "SWC",
-    "helpers": "Esther Jackson",
+    "helpers": "Esther Jackson,Karoline Dubin,Yamuna Devi Gangadharan ,Laura Yu",
     "host_name": "New York Academy of Sciences",
     "latitude": 45.25876,
     "start_date": "2019-01-26"
@@ -148,7 +204,7 @@
     "longitude": -75.352318,
     "slug": "2019-01-26-swarthmore",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Paul Jacobs,Adam Light",
     "host_name": "Swarthmore College",
     "latitude": 39.904034,
     "start_date": "2019-01-26"
@@ -204,7 +260,7 @@
     "longitude": -122.330025,
     "slug": "2019-01-22-fredhutch",
     "tag_name": "SWC",
-    "helpers": "Michael Gutteridge,Dane Gellerup",
+    "helpers": "Michael Gutteridge,Dane Gellerup,John Huddleston,Zach Romer",
     "host_name": "Fred Hutchinson Cancer Research Center",
     "latitude": 47.628251,
     "start_date": "2019-01-22"
@@ -246,7 +302,7 @@
     "longitude": -73.963191,
     "slug": "2019-01-17-Columbia-Section-1",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Fatimazohra Koli,George Garrett,Jochen Weber",
     "host_name": "Columbia University",
     "latitude": 40.806367,
     "start_date": "2019-01-17"
@@ -260,7 +316,7 @@
     "longitude": -73.963191,
     "slug": "2019-01-17-Columbia-Section-2",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jonathan Reeve,Kathryn Engelhardt,Oliver Bear",
     "host_name": "Columbia University",
     "latitude": 40.806367,
     "start_date": "2019-01-17"
@@ -274,7 +330,7 @@
     "longitude": -73.963191,
     "slug": "2019-01-17-Columbia-Section-3",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Parixit Davé,Rebecca Yohannes",
     "host_name": "Columbia University",
     "latitude": 40.806367,
     "start_date": "2019-01-17"
@@ -288,7 +344,7 @@
     "longitude": -73.963191,
     "slug": "2019-01-17-Columbia-Section-4",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Shreyas Bhave,Thomas Barraro",
     "host_name": "Columbia University",
     "latitude": 40.806367,
     "start_date": "2019-01-17"
@@ -316,7 +372,7 @@
     "longitude": -81.201653,
     "slug": "2019-01-17-tartu-NelC",
     "tag_name": "SWC",
-    "helpers": "Priit Adler",
+    "helpers": "Priit Adler,Mikhail Papkov,Ivan Kuzmin,Uku Raudvere",
     "host_name": "University of Tartu",
     "latitude": 28.599171,
     "start_date": "2019-01-17"
@@ -330,7 +386,7 @@
     "longitude": -95.246741,
     "slug": "2019-01-16-gpn",
     "tag_name": "SWC",
-    "helpers": "Mark Holder,Miloche Kottman,Andrea Pitt,Greta Valentine",
+    "helpers": "Mark Holder,Miloche Kottman,Andrea Pitt,Greta Valentine,Neal Axton,Elizabeth Everman,Tom Hill,Micki Lubbers,Samantha Thomas,Aake Vaestermark,Erin Wolfe",
     "host_name": "University of Kansas",
     "latitude": 38.95487,
     "start_date": "2019-01-16"
@@ -358,7 +414,7 @@
     "longitude": -93.243016,
     "slug": "2019-01-15-umn",
     "tag_name": "SWC",
-    "helpers": "Nick Dunn",
+    "helpers": "Nick Dunn,Katie Wilson,Chaochih Liu,Tim Hendrickson",
     "host_name": "University of Minnesota",
     "latitude": 44.973167,
     "start_date": "2019-01-15"
@@ -400,7 +456,7 @@
     "longitude": -66.0463582,
     "slug": "2019-01-11-puerto_rico-Python",
     "tag_name": "SWC",
-    "helpers": "Israel Dilán",
+    "helpers": "Israel Dilán,Lillian Gonzalez",
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2019-01-11"
@@ -414,7 +470,7 @@
     "longitude": -66.0463582,
     "slug": "2019-01-11-puerto_rico-R",
     "tag_name": "SWC",
-    "helpers": "Israel Dilán",
+    "helpers": "Israel Dilán,Jeffrey Chan,Heriberto Camacho,Louis Gil,Briknie Báez",
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2019-01-11"
@@ -423,12 +479,12 @@
     "end_date": "2019-01-11",
     "url": "https://mickley.github.io/2019-01-10-UCONN/",
     "country": "US",
-    "instructors": "Timothy Moore,James Mickley,Cera Fisher,Jeremy Teitelbaum",
+    "instructors": "Timothy Moore,James Mickley,Cera Fisher,Jeremy Teitelbaum,Artemis Louyaki",
     "venue": "University of Connecticut",
     "longitude": -72.253772,
     "slug": "2019-01-10-UCONN",
     "tag_name": "SWC",
-    "helpers": "Pariksheet Nanda",
+    "helpers": "Pariksheet Nanda,Eliza Grames,Dipanjana Dalui,Alex Trouern-Trend",
     "host_name": "University of Connecticut",
     "latitude": 41.805992,
     "start_date": "2019-01-10"
@@ -470,38 +526,10 @@
     "longitude": -79.9439424,
     "slug": "2019-01-09-carnegie",
     "tag_name": "SWC",
-    "helpers": "Eric Kaltman,Huajin Wang",
+    "helpers": "Eric Kaltman,Huajin Wang,Emma Slayton",
     "host_name": "Carnegie Mellon University",
     "latitude": 40.4410639,
     "start_date": "2019-01-09"
-  },
-  {
-    "end_date": "2019-01-10",
-    "url": "https://ucla-data-archive.github.io/2019-01-09-ucla/",
-    "country": "US",
-    "instructors": "Kristian Allen,Scott Friedman,Deidre Whitmore,Tim Dennis",
-    "venue": "UCLA",
-    "longitude": -118.443266,
-    "slug": "2019-01-09-ucla",
-    "tag_name": "SWC",
-    "helpers": "Tim Dennis,Jamie Jamison,Leigh Phan,Madeline Cowen",
-    "host_name": "University of California Los Angeles",
-    "latitude": 34.069599,
-    "start_date": "2019-01-09"
-  },
-  {
-    "end_date": "2019-01-09",
-    "url": "https://oulib-swc.github.io/2019-01-08-ou-swc/",
-    "country": "US",
-    "instructors": "Claire Curry,Traci DuBose,Sarah Pugachev,Brent Tweedy",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445848,
-    "slug": "2019-01-08-ou-swc",
-    "tag_name": "SWC",
-    "helpers": "Mark Laufersweiler,Amanda Schilling",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.208275,
-    "start_date": "2019-01-08"
   },
   {
     "end_date": "2019-01-09",
@@ -540,7 +568,7 @@
     "longitude": -94.168058,
     "slug": "2019-01-07-uark",
     "tag_name": "SWC",
-    "helpers": "Mary Leverance",
+    "helpers": "Mary Leverance,James McCartney,Les Seigneur,Nick Salonen,Joe Paparo",
     "host_name": "University of Arkansas",
     "latitude": 36.042345,
     "start_date": "2019-01-07"
@@ -596,7 +624,7 @@
     "longitude": -83.734801,
     "slug": "2018-12-17-umich",
     "tag_name": "SWC",
-    "helpers": "Ada Hagan,Josie Libertucci",
+    "helpers": "Ada Hagan,Josie Libertucci,Kelly Sovacool",
     "host_name": "University of Michigan",
     "latitude": 42.283312,
     "start_date": "2018-12-17"
@@ -610,7 +638,7 @@
     "longitude": -83.733373,
     "slug": "2019-01-07-umich-wise",
     "tag_name": "SWC",
-    "helpers": "Begum Topcuoglu",
+    "helpers": "Begum Topcuoglu,Katie Saund",
     "host_name": "University of Michigan",
     "latitude": 42.277102,
     "start_date": "2018-12-17"

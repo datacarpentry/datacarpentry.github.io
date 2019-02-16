@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-15",
-    "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
-    "country": "IT",
-    "instructors": "Ana Costa Conrado,MONAH ABOU ALEZZ",
-    "venue": "University Milano-Bicocca",
-    "longitude": 9.21341,
-    "slug": "2019-02-14-elixir-milano",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": 45.51729,
-    "start_date": "2019-02-14"
-  },
-  {
     "end_date": "2019-03-01",
     "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
     "country": "US",
@@ -28,6 +14,20 @@
     "start_date": "2019-02-28"
   },
   {
+    "end_date": "2019-03-05",
+    "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
+    "country": "US",
+    "instructors": "Stephanie Thiede,Zena Lapp",
+    "venue": "University of Michigan",
+    "longitude": -83.734886,
+    "slug": "2019-03-04-umich-genomics",
+    "tag_name": "DC",
+    "helpers": "Evan Snitkin",
+    "host_name": "University of Michigan",
+    "latitude": 42.280093,
+    "start_date": "2019-03-04"
+  },
+  {
     "end_date": "2019-03-06",
     "url": "https://tgac.github.io/2019-03-05-earlham/",
     "country": "GB",
@@ -40,6 +40,34 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621741,
     "start_date": "2019-03-05"
+  },
+  {
+    "end_date": "2019-03-13",
+    "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
+    "country": "US",
+    "instructors": "Chris Hamm",
+    "venue": "Carnegie Mellon University",
+    "longitude": null,
+    "slug": "2019-03-12-carnegie",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-03-12"
+  },
+  {
+    "end_date": "2019-03-26",
+    "url": "https://bigelowlab.github.io/2019-03-25-Bigelow-DataCarpentry/",
+    "country": "US",
+    "instructors": "Julia Brown,Sue McClatchy",
+    "venue": "Bigelow Laboratory for Ocean Sciences",
+    "longitude": -69.579876,
+    "slug": "2019-03-25-Bigelow-DataCarpentry",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 43.859824,
+    "start_date": "2019-03-25"
   },
   {
     "end_date": "2019-05-14",

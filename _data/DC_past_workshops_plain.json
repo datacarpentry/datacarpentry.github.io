@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-02-15",
+    "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
+    "country": "IT",
+    "instructors": "Ana Costa Conrado,MONAH ABOU ALEZZ",
+    "venue": "University Milano-Bicocca",
+    "longitude": 9.21341,
+    "slug": "2019-02-14-elixir-milano",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 45.51729,
+    "start_date": "2019-02-14"
+  },
+  {
     "end_date": "2019-02-07",
     "url": "https://alevigi.github.io/2019-2-6-SZN/",
     "country": "IT",
@@ -59,12 +73,12 @@
     "end_date": "2019-01-31",
     "url": "https://swc-uiuc.github.io/2019-01-31-dc-illinois/",
     "country": "US",
-    "instructors": "Jenny Drnevich,Jessica Holmes",
+    "instructors": "Jenny Drnevich,Jessica Holmes,Neal Davis",
     "venue": "University of Illinois",
     "longitude": -88.2269122,
     "slug": "2019-01-31-dc-illinois",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Samniqueka Halsey,Kavya Kannan",
     "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
     "latitude": 40.1047754,
     "start_date": "2019-01-31"
@@ -120,7 +134,7 @@
     "longitude": -71.035406,
     "slug": "2019-01-22-umb",
     "tag_name": "DC",
-    "helpers": "Isaac Rosenthal,Christopher Beltz",
+    "helpers": "Isaac Rosenthal,Christopher Beltz,Caroline David,Laura Ganley",
     "host_name": "University of Massachusetts Boston",
     "latitude": 42.31326,
     "start_date": "2019-01-22"
@@ -134,7 +148,7 @@
     "longitude": null,
     "slug": "2019-01-18-rutgers",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Katarzyna Tyc,Zhenru Zhou,Roman Wernyj",
     "host_name": "Rutgers University",
     "latitude": null,
     "start_date": "2019-01-17"
@@ -241,12 +255,12 @@
     "end_date": "2019-01-04",
     "url": "https://micheletobias.github.io/2019-01-03-Davis/",
     "country": "US",
-    "instructors": "Michele Tobias,Vessela Ensberg,Quinn Hart,Pamela Reynolds",
+    "instructors": "Michele Tobias,Vessela Ensberg,Quinn Hart,Pamela Reynolds,Jane Carlen",
     "venue": "UC Davis Library",
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
     "tag_name": "DC",
-    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon",
+    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,Mahesh L. Maskey,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
     "start_date": "2019-01-03"
