@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-17",
-    "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
-    "country": "US",
-    "instructors": "Sheldon McKay,Michael Zingale",
-    "venue": "Stony Brook University",
-    "longitude": -73.121199,
-    "slug": "2019-xx-xx-stonybrook-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Stony Brook University",
-    "latitude": 40.909835,
-    "start_date": "2019-02-16"
-  },
-  {
     "end_date": "2019-02-21",
     "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
     "country": "US",
