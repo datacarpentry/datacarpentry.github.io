@@ -6,16 +6,16 @@ header:
 permalink: "/involved/"
 ---
 
-Data Carpentry is primarily a volunteer lesson project, and is now part of [The Carpentries](https://carpentries.org/) 
-with [Software Carpentry](http://software-carpentry.org). We work with [Software Carpentry](http://software-carpentry.org) to train instructors, and all content is developed collaboratively
+Data Carpentry is primarily a volunteer lesson project, and is part of [The Carpentries](https://carpentries.org/) 
+with [Software Carpentry](http://software-carpentry.org) and [Library Carpentry](https://librarycarpentry.org/). We work with the other Carpentries lesson programs to train instructors, and all content is developed collaboratively
 by volunteers. We also have volunteer helpers at workshops and can use help on infrastructure
 such as the web site or workshop coordination.
 
 ### Become a Member!
 
-A Mamber is an organization that has made a commitment to the growth and spread of The Carpentries. Partners receive annual access to instructor training and guidance with capacity building at their organization. Partners are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research.
+A Mamber is an organization that has made a commitment to the growth and spread of The Carpentries. Members receive annual access to instructor training and guidance with capacity building at their organization. Members are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research.
 
-#### [Information on how to become a Partner](https://carpentries.org/membership/)
+#### [Information on how to become a Members](https://carpentries.org/membership/)
 
 ### Other ways to be involved
 
