@@ -15,7 +15,7 @@ such as the web site or workshop coordination.
 
 A Member is an organization that has made a commitment to the growth and spread of The Carpentries. Members receive annual access to instructor training and guidance with capacity building at their organization. Members are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research.
 
-#### [Information on how to become a Members](https://carpentries.org/membership/)
+#### [Information on how to become a Member](https://carpentries.org/membership/)
 
 ### Other ways to be involved
 
