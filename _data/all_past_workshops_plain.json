@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-02-21",
+    "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
+    "country": "US",
+    "instructors": "Jason Hurlburt,Jason Hurlburt,Daniel Kerchner,Daniel Kerchner,Laura Wrubel,Laura Wrubel",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-02-20-carpentry",
+    "tag_name": "SWC,DC",
+    "helpers": "Megan Potterbusch,Megan Potterbusch",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-02-20"
+  },
+  {
     "end_date": "2019-02-17",
     "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
     "country": "US",
@@ -4432,7 +4446,7 @@
     "longitude": -77.026065,
     "slug": "2018-06-12-nmnh",
     "tag_name": "DC",
-    "helpers": "Mirian Tsuchiya,Mauro Lepore",
+    "helpers": "Mirian Tieko Nunes Tsuchiya,Mauro Lepore",
     "host_name": "Smithsonian Institution, National Museum of Natural History",
     "latitude": 38.891266,
     "start_date": "2018-06-12"

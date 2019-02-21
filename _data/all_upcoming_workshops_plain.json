@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-21",
-    "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
-    "country": "US",
-    "instructors": "Jason Hurlburt,Jason Hurlburt,Daniel Kerchner,Daniel Kerchner,Laura Wrubel,Laura Wrubel",
-    "venue": "George Washington University",
-    "longitude": -77.048386,
-    "slug": "2019-02-20-carpentry",
-    "tag_name": "SWC,DC",
-    "helpers": "Megan Potterbusch,Megan Potterbusch",
-    "host_name": "George Washington University",
-    "latitude": 38.899233,
-    "start_date": "2019-02-20"
-  },
-  {
     "end_date": "2019-02-22",
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "country": "CA",
@@ -58,7 +44,7 @@
   {
     "end_date": "2019-02-22",
     "url": "https://ucsbcarpentry.github.io/2019-03-21-UCSBLibrary/",
-    "country": "",
+    "country": "US",
     "instructors": "Jon Jablonski,Ian Lessing,Greg Janée,Sharon Solis,Mary Donovan,Yuan Wu",
     "venue": "UCSB Library, Classroom 1312",
     "longitude": -119.845506,
@@ -68,6 +54,34 @@
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414354,
     "start_date": "2019-02-21"
+  },
+  {
+    "end_date": "2019-02-26",
+    "url": "http://www.sarah-pugachev.com/2019-02-25-ttt-online-CST/",
+    "country": "W3",
+    "instructors": "Sarah Pugachev,Sarah Pugachev,Juliane Schneider,Juliane Schneider",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-02-25-ttt-online-CST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-02-25"
+  },
+  {
+    "end_date": "2019-03-01",
+    "url": "https://cqueresearch.github.io/2019-02-28-CQUni-Python/",
+    "country": "AU",
+    "instructors": "Jason Bell",
+    "venue": "Central Queensland University",
+    "longitude": 150.520228,
+    "slug": "2019-02-28-CQUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.327335,
+    "start_date": "2019-02-28"
   },
   {
     "end_date": "2019-03-01",
@@ -239,6 +253,20 @@
   },
   {
     "end_date": "2019-03-19",
+    "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
+    "country": "US",
+    "instructors": "Devasena Inupakutika,Arne Grimstrup",
+    "venue": "Iowa State University",
+    "longitude": -93.638586,
+    "slug": "2019-03-18-iowa_state",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Iowa State University",
+    "latitude": 42.010613,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
     "url": "https://unt-carpentries.github.io/2019-03-18-unt-swc/",
     "country": "US",
     "instructors": "Manuel (Gio) Gottardi,Kristy Phillips,Pamela Andrews",
@@ -257,12 +285,12 @@
     "country": "US",
     "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
     "venue": "Yale University Library",
-    "longitude": null,
+    "longitude": -72.923454,
     "slug": "2019-03-21-Yale",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "New England Software Carpentry Library Consortium",
-    "latitude": null,
+    "latitude": 41.312756,
     "start_date": "2019-03-21"
   },
   {

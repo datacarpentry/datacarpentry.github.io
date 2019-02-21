@@ -145,13 +145,27 @@
     "country": "US",
     "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
     "venue": "Yale University Library",
-    "longitude": null,
+    "longitude": -72.923454,
     "slug": "2019-03-21-Yale",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "New England Software Carpentry Library Consortium",
-    "latitude": null,
+    "latitude": 41.312756,
     "start_date": "2019-03-21"
+  },
+  {
+    "end_date": "2019-03-19",
+    "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
+    "country": "US",
+    "instructors": "Devasena Inupakutika,Arne Grimstrup",
+    "venue": "Iowa State University",
+    "longitude": -93.638586,
+    "slug": "2019-03-18-iowa_state",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Iowa State University",
+    "latitude": 42.010613,
+    "start_date": "2019-03-18"
   },
   {
     "end_date": "2019-03-19",
@@ -295,6 +309,20 @@
   },
   {
     "end_date": "2019-03-01",
+    "url": "https://cqueresearch.github.io/2019-02-28-CQUni-Python/",
+    "country": "AU",
+    "instructors": "Jason Bell",
+    "venue": "Central Queensland University",
+    "longitude": 150.520228,
+    "slug": "2019-02-28-CQUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.327335,
+    "start_date": "2019-02-28"
+  },
+  {
+    "end_date": "2019-03-01",
     "url": "https://aseveritt.github.io/2019-02-28-UCSF/",
     "country": "US",
     "instructors": "Amanda Everitt",
@@ -334,6 +362,20 @@
     "host_name": "Wright State University",
     "latitude": 39.781158,
     "start_date": "2019-02-28"
+  },
+  {
+    "end_date": "2019-02-26",
+    "url": "http://www.sarah-pugachev.com/2019-02-25-ttt-online-CST/",
+    "country": "W3",
+    "instructors": "Sarah Pugachev,Sarah Pugachev,Juliane Schneider,Juliane Schneider",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-02-25-ttt-online-CST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-02-25"
   },
   {
     "end_date": "2019-02-22",
@@ -380,7 +422,7 @@
   {
     "end_date": "2019-02-22",
     "url": "https://ucsbcarpentry.github.io/2019-03-21-UCSBLibrary/",
-    "country": "",
+    "country": "US",
     "instructors": "Jon Jablonski,Ian Lessing,Greg Janée,Sharon Solis,Mary Donovan,Yuan Wu",
     "venue": "UCSB Library, Classroom 1312",
     "longitude": -119.845506,
@@ -4852,7 +4894,7 @@
     "longitude": -77.026065,
     "slug": "2018-06-12-nmnh",
     "tag_name": "DC",
-    "helpers": "Mirian Tsuchiya,Mauro Lepore",
+    "helpers": "Mirian Tieko Nunes Tsuchiya,Mauro Lepore",
     "host_name": "Smithsonian Institution, National Museum of Natural History",
     "latitude": 38.891266,
     "start_date": "2018-06-12"
