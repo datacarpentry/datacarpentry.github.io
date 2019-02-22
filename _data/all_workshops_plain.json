@@ -70,6 +70,20 @@
     "start_date": "2019-04-16"
   },
   {
+    "end_date": "2019-04-12",
+    "url": "https://angela-li.github.io/2019-04-12-chicago/",
+    "country": "US",
+    "instructors": "Angela Li",
+    "venue": "University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-04-12-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-04-12"
+  },
+  {
     "end_date": "2019-04-13",
     "url": "https://nesclic.github.io/2019-04-12-tufts/",
     "country": "US",
@@ -152,6 +166,20 @@
     "host_name": "New England Software Carpentry Library Consortium",
     "latitude": 41.312756,
     "start_date": "2019-03-21"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
+    "country": "FR",
+    "instructors": "Bartosz Telenczuk,Marcel Stimberg,Loïc Estève",
+    "venue": "Inria Saclay, Turing building",
+    "longitude": 2.2057,
+    "slug": "2019-03-19-inria-saclay",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "INRIA (Paris)",
+    "latitude": 48.7145,
+    "start_date": "2019-03-19"
   },
   {
     "end_date": "2019-03-19",
@@ -378,6 +406,20 @@
     "start_date": "2019-02-25"
   },
   {
+    "end_date": "2019-02-24",
+    "url": "https://utacarpentries.github.io/2019-02-23-UTA/",
+    "country": "US",
+    "instructors": "Balan Ramesh,Nitin Kanwar,Farah Shamma,Joe Cloud,Seyedeh Ayda Mirsalehi,Anna Williford",
+    "venue": "University of Texas at Arlington",
+    "longitude": -97.112926,
+    "slug": "2019-02-23-UTA",
+    "tag_name": "SWC",
+    "helpers": "Nicole Hales",
+    "host_name": "University of Texas Arlington",
+    "latitude": 32.729678,
+    "start_date": "2019-02-23"
+  },
+  {
     "end_date": "2019-02-22",
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "country": "CA",
@@ -434,20 +476,6 @@
     "start_date": "2019-02-21"
   },
   {
-    "end_date": "2019-02-21",
-    "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
-    "country": "US",
-    "instructors": "Jason Hurlburt,Jason Hurlburt,Daniel Kerchner,Daniel Kerchner,Laura Wrubel,Laura Wrubel",
-    "venue": "George Washington University",
-    "longitude": -77.048386,
-    "slug": "2019-02-20-carpentry",
-    "tag_name": "SWC,DC",
-    "helpers": "Megan Potterbusch,Megan Potterbusch",
-    "host_name": "George Washington University",
-    "latitude": 38.899233,
-    "start_date": "2019-02-20"
-  },
-  {
     "end_date": "2019-02-17",
     "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
     "country": "US",
@@ -456,7 +484,7 @@
     "longitude": -73.121199,
     "slug": "2019-xx-xx-stonybrook-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Alan Calder,Pooja Rao",
     "host_name": "Stony Brook University",
     "latitude": 40.909835,
     "start_date": "2019-02-16"

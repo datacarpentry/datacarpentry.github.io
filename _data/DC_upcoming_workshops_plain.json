@@ -70,6 +70,20 @@
     "start_date": "2019-03-25"
   },
   {
+    "end_date": "2019-04-12",
+    "url": "https://angela-li.github.io/2019-04-12-chicago/",
+    "country": "US",
+    "instructors": "Angela Li",
+    "venue": "University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-04-12-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-04-12"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
