@@ -280,6 +280,20 @@
     "start_date": "2019-03-25"
   },
   {
+    "end_date": "2019-03-26",
+    "url": "https://ucrlibrary.github.io/2019-03-25-ucr/",
+    "country": "US",
+    "instructors": "Noah Geraci,Katherine Koziar",
+    "venue": "University of California, Riverside",
+    "longitude": -117.327482,
+    "slug": "2019-03-25-ucr",
+    "tag_name": "SWC",
+    "helpers": "Swati Bhattacharyya",
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
+    "start_date": "2019-03-25"
+  },
+  {
     "end_date": "2019-03-27",
     "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
     "country": "US",

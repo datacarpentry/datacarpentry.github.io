@@ -8,7 +8,7 @@
     "longitude": 9.21341,
     "slug": "2019-02-14-elixir-milano",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Gianluca Della Vedova,Murray Patterson,Simone Ciccolella",
     "host_name": "ELIXIR-UK",
     "latitude": 45.51729,
     "start_date": "2019-02-14"
@@ -31,12 +31,12 @@
     "end_date": "2019-02-06",
     "url": "https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/",
     "country": "NL",
-    "instructors": "Like Fokkens,Mattias de Hollander,Marc Galland",
+    "instructors": "Like Fokkens,Mattias de Hollander,Marc Galland,Saskia Hiltemann",
     "venue": "Wageningen Univeristy & Research (WUR)",
     "longitude": 5.66364,
     "slug": "2019-02-05-wageningen-genomics",
     "tag_name": "DC",
-    "helpers": "Miaomiao Zhao",
+    "helpers": "Miaomiao Zhao,Fleur Gawehns,Raúl Wijfjes,Vittorio Tracanna,Thijmen Breeschoten,Roven Fuentes",
     "host_name": "Wageningen University & Research",
     "latitude": 51.98527,
     "start_date": "2019-02-05"
@@ -50,9 +50,23 @@
     "longitude": -71.060886,
     "slug": "2019-02-04-boston",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Zhaorong Li",
     "host_name": "Data Carpentry",
     "latitude": 42.378044,
+    "start_date": "2019-02-04"
+  },
+  {
+    "end_date": "2019-02-05",
+    "url": "https://smithsonianworkshops.github.io/2019-02-04-castle/",
+    "country": "US",
+    "instructors": "Susan (Sue) Zwicker,Rebecca Dikow,Mike Trizna,Matthew Kweskin",
+    "venue": "Data Carpentry Workshop at Smithsonian Castle Library",
+    "longitude": -77.025991,
+    "slug": "2019-02-04-castle",
+    "tag_name": "DC",
+    "helpers": "Lucy Chang,Amanda Devine,Vanessa Gonzalez,Jen Hammock,Mirian Tieko Nunes Tsuchiya",
+    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "latitude": 38.888778,
     "start_date": "2019-02-04"
   },
   {
@@ -126,20 +140,6 @@
     "start_date": "2019-01-25"
   },
   {
-    "end_date": "2019-01-23",
-    "url": "https://jebyrnes.github.io/2019-01-22-UMB/",
-    "country": "US",
-    "instructors": "Jarrett Byrnes,Klaus Schliep,Kathleen Lotterhos",
-    "venue": "University of Massachusetts Boston",
-    "longitude": -71.035406,
-    "slug": "2019-01-22-umb",
-    "tag_name": "DC",
-    "helpers": "Isaac Rosenthal,Christopher Beltz,Caroline David,Laura Ganley",
-    "host_name": "University of Massachusetts Boston",
-    "latitude": 42.31326,
-    "start_date": "2019-01-22"
-  },
-  {
     "end_date": "2019-01-18",
     "url": "https://nielinfante.github.io/2019-01-18-rutgers/",
     "country": "FI",
@@ -152,20 +152,6 @@
     "host_name": "Rutgers University",
     "latitude": null,
     "start_date": "2019-01-17"
-  },
-  {
-    "end_date": "2019-01-16",
-    "url": "https://sateeshperi.github.io/2019-01-15-reno/",
-    "country": "US",
-    "instructors": "Sateesh Peri,Elias Oziolor",
-    "venue": "University of Nevada, Reno",
-    "longitude": -119.82982,
-    "slug": "2018-01-15-reno",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "The University of Nevada, Reno",
-    "latitude": 39.57427,
-    "start_date": "2019-01-15"
   },
   {
     "end_date": "2019-01-16",
@@ -235,20 +221,6 @@
     "helpers": "Nicholas Wolf,Heiko Mueller",
     "host_name": "New York University",
     "latitude": 40.729429,
-    "start_date": "2019-01-10"
-  },
-  {
-    "end_date": "2019-01-11",
-    "url": "https://oulib-swc.github.io/2019-01-10-ou-dcgeo/",
-    "country": "US",
-    "instructors": "Joshua Hatzis,Braden Owsley",
-    "venue": "University of Oklahoma",
-    "longitude": -97.44,
-    "slug": "2019-01-10-ou-dcgeo",
-    "tag_name": "DC",
-    "helpers": "Dawn Nekorchuk,Mark Laufersweiler",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.21,
     "start_date": "2019-01-10"
   },
   {

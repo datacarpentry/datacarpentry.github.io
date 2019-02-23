@@ -120,7 +120,7 @@
     "longitude": 14.224429,
     "slug": "2019-02-11-Naples",
     "tag_name": "SWC",
-    "helpers": "Dario Righelli",
+    "helpers": "Dario Righelli,Eugenio Del Prete,Nico Criscuolo",
     "host_name": "ELIXIR-UK",
     "latitude": 40.855535,
     "start_date": "2019-02-11"
@@ -129,12 +129,12 @@
     "end_date": "2019-02-12",
     "url": "https://bsurc.github.io/2019-02-11-rc-days/",
     "country": "US",
-    "instructors": "Eric Jankowski,Vicken Hillis,Eric Hayden,Brian Jackson,Mike Henry,Matthew Jones,Kyle Shannon",
+    "instructors": "Eric Jankowski,Vicken Hillis,Eric Hayden,Brian Jackson,Mike Henry,Matthew Jones,Matt Clark,Kendra Kaiser,Olga Goulko",
     "venue": "Boise State University",
     "longitude": -116.209994,
     "slug": "2019-02-11-rc-days",
     "tag_name": "SWC",
-    "helpers": "Matt Clark,Kendra Kaiser",
+    "helpers": "Kyle Shannon,Tyler Bevan",
     "host_name": "Boise State University",
     "latitude": 43.604172,
     "start_date": "2019-02-11"
@@ -148,7 +148,7 @@
     "longitude": -82.344031,
     "slug": "2019-02-11-ufii",
     "tag_name": "SWC",
-    "helpers": "Christine Swanson,Falcon Restrepo Ramos",
+    "helpers": "Falcon Restrepo Ramos",
     "host_name": "University of Florida",
     "latitude": 29.648248,
     "start_date": "2019-02-11"
@@ -176,7 +176,7 @@
     "longitude": -96.334404,
     "slug": "2019-01-24-tamu",
     "tag_name": "SWC",
-    "helpers": "Jian Tao",
+    "helpers": "Jian Tao,Adrian Castellanos,Danielle Walkup,Katherine Beall,Marcel Brun",
     "host_name": "Texas A&M University",
     "latitude": 30.627977,
     "start_date": "2019-02-07"
@@ -213,12 +213,12 @@
     "end_date": "2019-02-08",
     "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
     "country": "CH",
-    "instructors": "Lachlan Deer,Julian Langer",
+    "instructors": "Lachlan Deer,Julian Langer,Ulrich Bergmann",
     "venue": "University of Zurich",
     "longitude": 8.55013,
     "slug": "2019-02-07-zurich",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Stephan Schmeing,Bret Benheim",
     "host_name": "University of Zurich",
     "latitude": 47.3966,
     "start_date": "2019-02-07"
@@ -232,7 +232,7 @@
     "longitude": -118.288799,
     "slug": "2019-01-31-usc",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Meng Li,Eddie Loh",
     "host_name": "University of Southern California",
     "latitude": 34.019611,
     "start_date": "2019-01-31"
@@ -266,34 +266,6 @@
     "start_date": "2019-01-26"
   },
   {
-    "end_date": "2019-01-27",
-    "url": "https://timothylwarren.github.io/2019-01-26-swarthmore/",
-    "country": "US",
-    "instructors": "Timothy Warren,Nihan Pol",
-    "venue": "Swarthmore College",
-    "longitude": -75.352318,
-    "slug": "2019-01-26-swarthmore",
-    "tag_name": "SWC",
-    "helpers": "Paul Jacobs,Adam Light",
-    "host_name": "Swarthmore College",
-    "latitude": 39.904034,
-    "start_date": "2019-01-26"
-  },
-  {
-    "end_date": "2019-01-26",
-    "url": "https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/",
-    "country": "US",
-    "instructors": "Jon Jablonski,Ian Lessing,Greg Janée,Sharon Solis,Mary Donovan,Katja Seltmann,Yuan Wu",
-    "venue": "UCSB Library, classroom 1312",
-    "longitude": -119.845506,
-    "slug": "2019-01-25-UCSBLibrary",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California Santa Barbara",
-    "latitude": 34.414354,
-    "start_date": "2019-01-25"
-  },
-  {
     "end_date": "2019-01-25",
     "url": "https://unt-carpentries.github.io/2019-01-24-unt-swc/",
     "country": "US",
@@ -320,20 +292,6 @@
     "host_name": "Stanford University",
     "latitude": 37.426478,
     "start_date": "2019-01-23"
-  },
-  {
-    "end_date": "2019-01-25",
-    "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
-    "country": "US",
-    "instructors": "Kate Hertweck",
-    "venue": "Fred Hutch",
-    "longitude": -122.330025,
-    "slug": "2019-01-22-fredhutch",
-    "tag_name": "SWC",
-    "helpers": "Michael Gutteridge,Dane Gellerup,John Huddleston,Zach Romer",
-    "host_name": "Fred Hutchinson Cancer Research Center",
-    "latitude": 47.628251,
-    "start_date": "2019-01-22"
   },
   {
     "end_date": "2019-01-23",
@@ -516,34 +474,6 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2019-01-14"
-  },
-  {
-    "end_date": "2019-01-12",
-    "url": "https://idi-bd2k.github.io/2019-01-11-puerto_rico-Python/",
-    "country": "PR",
-    "instructors": "Patricia Ordóñez,Wilson Lozano",
-    "venue": "University of Puerto Rico Río Piedras",
-    "longitude": -66.0463582,
-    "slug": "2019-01-11-puerto_rico-Python",
-    "tag_name": "SWC",
-    "helpers": "Israel Dilán,Lillian Gonzalez",
-    "host_name": "University of Puerto Rico",
-    "latitude": 18.4044218,
-    "start_date": "2019-01-11"
-  },
-  {
-    "end_date": "2019-01-12",
-    "url": "https://idi-bd2k.github.io/2019-01-11-puerto_rico-R/",
-    "country": "PR",
-    "instructors": "Humberto Ortiz-Zuazaga,Sofia Melendez-Cartagena",
-    "venue": "University of Puerto Rico Río Piedras",
-    "longitude": -66.0463582,
-    "slug": "2019-01-11-puerto_rico-R",
-    "tag_name": "SWC",
-    "helpers": "Israel Dilán,Jeffrey Chan,Heriberto Camacho,Louis Gil,Briknie Báez",
-    "host_name": "University of Puerto Rico",
-    "latitude": 18.4044218,
-    "start_date": "2019-01-11"
   },
   {
     "end_date": "2019-01-11",
