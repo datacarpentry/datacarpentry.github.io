@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-01",
-    "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
-    "country": "US",
-    "instructors": "Sarah Supp,Robert Flight",
-    "venue": "Wright State University",
-    "longitude": -84.063072,
-    "slug": "2019-02-28-wrightstateu",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Wright State University",
-    "latitude": 39.781158,
-    "start_date": "2019-02-28"
-  },
-  {
     "end_date": "2019-03-05",
     "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
     "country": "US",

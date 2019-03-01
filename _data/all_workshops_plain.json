@@ -770,6 +770,20 @@
     "start_date": "2019-02-04"
   },
   {
+    "end_date": "2019-02-22",
+    "url": "https://osu-carpentry.github.io/2019-02-01-okstate/",
+    "country": "US",
+    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Kevin Dyke",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-02-01-okstate",
+    "tag_name": "DC",
+    "helpers": "Surya Ayyalasomayajula,Evan Linde,Peter Hoyt,Damith Mahapatabendige",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
+    "start_date": "2019-02-01"
+  },
+  {
     "end_date": "2019-02-02",
     "url": "https://tenet-rccpii.github.io/2019-01-22-WSU-EastLondon",
     "country": "ZA",
@@ -885,12 +899,12 @@
     "end_date": "2019-01-27",
     "url": "https://timothylwarren.github.io/2019-01-26-swarthmore/",
     "country": "US",
-    "instructors": "Timothy Warren,Timothy Warren,Nihan Pol,Nihan Pol",
+    "instructors": "Timothy Warren,Nihan Pol",
     "venue": "Swarthmore College",
     "longitude": -75.352318,
     "slug": "2019-01-26-swarthmore",
-    "tag_name": "SWC,unresponsive",
-    "helpers": "Paul Jacobs,Paul Jacobs,Adam Light,Adam Light",
+    "tag_name": "SWC",
+    "helpers": "Paul Jacobs,Adam Light",
     "host_name": "Swarthmore College",
     "latitude": 39.904034,
     "start_date": "2019-01-26"
@@ -22128,7 +22142,7 @@
     "longitude": -71.11884,
     "slug": "2019-02-15-tufts",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Annie Swafford",
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2015-02-15"

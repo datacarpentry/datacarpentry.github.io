@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-01",
+    "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
+    "country": "US",
+    "instructors": "Sarah Supp,Robert Flight",
+    "venue": "Wright State University",
+    "longitude": -84.063072,
+    "slug": "2019-02-28-wrightstateu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Wright State University",
+    "latitude": 39.781158,
+    "start_date": "2019-02-28"
+  },
+  {
     "end_date": "2019-02-15",
     "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
     "country": "IT",
@@ -68,6 +82,20 @@
     "host_name": "Smithsonian Institution, National Museum of Natural History",
     "latitude": 38.888778,
     "start_date": "2019-02-04"
+  },
+  {
+    "end_date": "2019-02-22",
+    "url": "https://osu-carpentry.github.io/2019-02-01-okstate/",
+    "country": "US",
+    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Kevin Dyke",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-02-01-okstate",
+    "tag_name": "DC",
+    "helpers": "Surya Ayyalasomayajula,Evan Linde,Peter Hoyt,Damith Mahapatabendige",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
+    "start_date": "2019-02-01"
   },
   {
     "end_date": "2019-02-02",
@@ -3634,7 +3662,7 @@
     "longitude": -71.11884,
     "slug": "2019-02-15-tufts",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Annie Swafford",
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2015-02-15"

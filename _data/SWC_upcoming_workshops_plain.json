@@ -1,47 +1,5 @@
 [
   {
-    "end_date": "2019-03-01",
-    "url": "https://cqueresearch.github.io/2019-02-28-CQUni-Python/",
-    "country": "AU",
-    "instructors": "Jason Bell",
-    "venue": "Central Queensland University",
-    "longitude": 150.520228,
-    "slug": "2019-02-28-CQUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "CQUniversity",
-    "latitude": -23.327335,
-    "start_date": "2019-02-28"
-  },
-  {
-    "end_date": "2019-03-01",
-    "url": "https://aseveritt.github.io/2019-02-28-UCSF/",
-    "country": "US",
-    "instructors": "Amanda Everitt",
-    "venue": "IND-UCSF",
-    "longitude": -122.391498,
-    "slug": "2019-02-28-UCSF",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Francisco",
-    "latitude": 37.769398,
-    "start_date": "2019-02-28"
-  },
-  {
-    "end_date": "2019-03-01",
-    "url": "https://umswc.github.io/2019-02-28-umich/",
-    "country": "US",
-    "instructors": "Chris Gates,Ry4an Brase",
-    "venue": "University of Michigan",
-    "longitude": -83.71569,
-    "slug": "2019-02-28-umich",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Michigan",
-    "latitude": 42.2912,
-    "start_date": "2019-02-28"
-  },
-  {
     "end_date": "2019-03-09",
     "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
     "country": "US",
