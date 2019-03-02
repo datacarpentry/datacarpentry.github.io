@@ -85,6 +85,20 @@
   },
   {
     "end_date": "2019-03-19",
+    "url": "https://mleverance.github.io/2019-03-18-uark/",
+    "country": "US",
+    "instructors": "Boryana Koseva,Mary Leverance",
+    "venue": "University of Arkansas",
+    "longitude": -94.176036,
+    "slug": "2019-03-18-uark",
+    "tag_name": "SWC",
+    "helpers": "James McCartney,Nick Salonen,Joe Paparo",
+    "host_name": "University of Arkansas",
+    "latitude": 36.068644,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
     "url": "https://unt-carpentries.github.io/2019-03-18-unt-swc/",
     "country": "US",
     "instructors": "Manuel (Gio) Gottardi,Kristy Phillips,Pamela Andrews",
