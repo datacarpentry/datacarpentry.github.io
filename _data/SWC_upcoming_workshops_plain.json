@@ -85,6 +85,20 @@
   },
   {
     "end_date": "2019-03-19",
+    "url": "https://osu-carpentry.github.io/2019-03-18-okstate/",
+    "country": "US",
+    "instructors": "Patrice-Andre Prud'homme",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-03-18-okstate",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
     "url": "https://mleverance.github.io/2019-03-18-uark/",
     "country": "US",
     "instructors": "Boryana Koseva,Mary Leverance",
@@ -95,6 +109,20 @@
     "helpers": "James McCartney,Nick Salonen,Joe Paparo",
     "host_name": "University of Arkansas",
     "latitude": 36.068644,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
+    "url": "https://chaochihl.github.io/2019-03-18-umntc/",
+    "country": "US",
+    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "venue": "University of Minnesota",
+    "longitude": -93.23136,
+    "slug": "2019-03-18-umntc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Minnesota",
+    "latitude": 44.97173,
     "start_date": "2019-03-18"
   },
   {
@@ -123,6 +151,20 @@
     "helpers": null,
     "host_name": "INRIA (Paris)",
     "latitude": 48.7145,
+    "start_date": "2019-03-19"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://mbonsma.github.io/2019-03-19-oxford/",
+    "country": "US",
+    "instructors": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "venue": "University of Oxford",
+    "longitude": -1.215058,
+    "slug": "2019-03-19-oxford",
+    "tag_name": "SWC",
+    "helpers": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "host_name": "University of Oxford",
+    "latitude": 51.7517961,
     "start_date": "2019-03-19"
   },
   {
@@ -179,6 +221,20 @@
     "helpers": null,
     "host_name": "Claremont Colleges",
     "latitude": 34.1024,
+    "start_date": "2019-03-28"
+  },
+  {
+    "end_date": "2019-03-29",
+    "url": "http://vwkoppejan.github.io/2019-03-28-Delft",
+    "country": "NL",
+    "instructors": "Victor Koppejan,Ruud Steltenpool",
+    "venue": "March 2019 SWC Workshop @TU Delft",
+    "longitude": 4.37564,
+    "slug": "2019-03-28-Delft",
+    "tag_name": "SWC",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 51.998153,
     "start_date": "2019-03-28"
   },
   {

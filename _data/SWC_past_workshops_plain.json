@@ -112,6 +112,20 @@
     "start_date": "2019-02-21"
   },
   {
+    "end_date": "2019-02-21",
+    "url": "https://bham-carpentries.github.io/2019-02-18-bham/",
+    "country": "GB",
+    "instructors": "Andris Jankevics,Laurence Hurst",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-02-18-bham",
+    "tag_name": "SWC",
+    "helpers": "Cerys Lewis,Simon Hartley",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-02-18"
+  },
+  {
     "end_date": "2019-02-17",
     "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
     "country": "US",
@@ -179,6 +193,20 @@
     "helpers": "Dario Righelli,Eugenio Del Prete,Nico Criscuolo",
     "host_name": "ELIXIR-UK",
     "latitude": 40.855535,
+    "start_date": "2019-02-11"
+  },
+  {
+    "end_date": "2019-02-13",
+    "url": "https://bham-carpentries.github.io/2019-02-11-bham",
+    "country": "GB",
+    "instructors": "Simon Branford,Mark Slater",
+    "venue": "University of Birmingham",
+    "longitude": -1.928941,
+    "slug": "2019-02-11-bham",
+    "tag_name": "SWC",
+    "helpers": "James Carpenter,Michael Allaway",
+    "host_name": "University of Birmingham",
+    "latitude": 52.449875,
     "start_date": "2019-02-11"
   },
   {

@@ -14,6 +14,20 @@
     "start_date": "2019-02-13"
   },
   {
+    "end_date": "2019-02-01",
+    "url": "https://anelda.github.io/2019-01-31-SomaliREN/",
+    "country": "SO",
+    "instructors": "Mateusz Kuzak,Jessica Upani",
+    "venue": "Hargeisa, Somaliland",
+    "longitude": 43.5502927,
+    "slug": "2019-01-31-SomaliREN",
+    "tag_name": "TTT",
+    "helpers": "Dagim Mengesha",
+    "host_name": "Somali Research and Education Network",
+    "latitude": 9.7231322,
+    "start_date": "2019-01-31"
+  },
+  {
     "end_date": "2018-12-18",
     "url": "https://computecanada.github.io/2018-12-17-ttt-computecanada/",
     "country": "CA",

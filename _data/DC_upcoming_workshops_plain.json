@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-05",
-    "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
-    "country": "US",
-    "instructors": "Stephanie Thiede,Zena Lapp",
-    "venue": "University of Michigan",
-    "longitude": -83.734886,
-    "slug": "2019-03-04-umich-genomics",
-    "tag_name": "DC",
-    "helpers": "Evan Snitkin",
-    "host_name": "University of Michigan",
-    "latitude": 42.280093,
-    "start_date": "2019-03-04"
-  },
-  {
     "end_date": "2019-03-06",
     "url": "https://tgac.github.io/2019-03-05-earlham/",
     "country": "GB",
@@ -40,6 +26,20 @@
     "host_name": "Carnegie Mellon University",
     "latitude": null,
     "start_date": "2019-03-12"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
+    "country": "ZA",
+    "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
+    "venue": "Sol Plaatjies University",
+    "longitude": 24.7642707,
+    "slug": "2019-03-18-SPU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Sol Plaatjies University",
+    "latitude": -28.7451135,
+    "start_date": "2019-03-18"
   },
   {
     "end_date": "2019-03-18",

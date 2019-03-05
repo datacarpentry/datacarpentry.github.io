@@ -126,6 +126,20 @@
     "start_date": "2019-03-28"
   },
   {
+    "end_date": "2019-03-29",
+    "url": "http://vwkoppejan.github.io/2019-03-28-Delft",
+    "country": "NL",
+    "instructors": "Victor Koppejan,Ruud Steltenpool",
+    "venue": "March 2019 SWC Workshop @TU Delft",
+    "longitude": 4.37564,
+    "slug": "2019-03-28-Delft",
+    "tag_name": "SWC",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 51.998153,
+    "start_date": "2019-03-28"
+  },
+  {
     "end_date": "2019-03-27",
     "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
     "country": "US",
@@ -182,6 +196,20 @@
     "start_date": "2019-03-21"
   },
   {
+    "end_date": "2019-03-21",
+    "url": "https://jcoliver.github.io/2019-03-20-ttt-online_PST/",
+    "country": "",
+    "instructors": "Kate Hertweck,Kate Hertweck,Jeffrey Oliver,Jeffrey Oliver",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-20-ttt-online_PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-20"
+  },
+  {
     "end_date": "2019-03-20",
     "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
     "country": "FR",
@@ -196,6 +224,34 @@
     "start_date": "2019-03-19"
   },
   {
+    "end_date": "2019-03-20",
+    "url": "https://mbonsma.github.io/2019-03-19-oxford/",
+    "country": "US",
+    "instructors": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "venue": "University of Oxford",
+    "longitude": -1.215058,
+    "slug": "2019-03-19-oxford",
+    "tag_name": "SWC",
+    "helpers": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "host_name": "University of Oxford",
+    "latitude": 51.7517961,
+    "start_date": "2019-03-19"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
+    "country": "ZA",
+    "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
+    "venue": "Sol Plaatjies University",
+    "longitude": 24.7642707,
+    "slug": "2019-03-18-SPU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Sol Plaatjies University",
+    "latitude": -28.7451135,
+    "start_date": "2019-03-18"
+  },
+  {
     "end_date": "2019-03-19",
     "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
     "country": "US",
@@ -207,6 +263,20 @@
     "helpers": null,
     "host_name": "Iowa State University",
     "latitude": 42.010613,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
+    "url": "https://osu-carpentry.github.io/2019-03-18-okstate/",
+    "country": "US",
+    "instructors": "Patrice-Andre Prud'homme",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-03-18-okstate",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
     "start_date": "2019-03-18"
   },
   {
@@ -235,6 +305,20 @@
     "helpers": "James McCartney,Nick Salonen,Joe Paparo",
     "host_name": "University of Arkansas",
     "latitude": 36.068644,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
+    "url": "https://chaochihl.github.io/2019-03-18-umntc/",
+    "country": "US",
+    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "venue": "University of Minnesota",
+    "longitude": -93.23136,
+    "slug": "2019-03-18-umntc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Minnesota",
+    "latitude": 44.97173,
     "start_date": "2019-03-18"
   },
   {
@@ -518,6 +602,20 @@
     "start_date": "2019-02-21"
   },
   {
+    "end_date": "2019-02-21",
+    "url": "https://bham-carpentries.github.io/2019-02-18-bham/",
+    "country": "GB",
+    "instructors": "Andris Jankevics,Laurence Hurst",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-02-18-bham",
+    "tag_name": "SWC",
+    "helpers": "Cerys Lewis,Simon Hartley",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-02-18"
+  },
+  {
     "end_date": "2019-02-17",
     "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
     "country": "US",
@@ -627,6 +725,20 @@
     "helpers": "Dario Righelli,Eugenio Del Prete,Nico Criscuolo",
     "host_name": "ELIXIR-UK",
     "latitude": 40.855535,
+    "start_date": "2019-02-11"
+  },
+  {
+    "end_date": "2019-02-13",
+    "url": "https://bham-carpentries.github.io/2019-02-11-bham",
+    "country": "GB",
+    "instructors": "Simon Branford,Mark Slater",
+    "venue": "University of Birmingham",
+    "longitude": -1.928941,
+    "slug": "2019-02-11-bham",
+    "tag_name": "SWC",
+    "helpers": "James Carpenter,Michael Allaway",
+    "host_name": "University of Birmingham",
+    "latitude": 52.449875,
     "start_date": "2019-02-11"
   },
   {
@@ -801,14 +913,28 @@
     "end_date": "2019-02-02",
     "url": "https://tenet-rccpii.github.io/2019-01-22-WSU-EastLondon",
     "country": "ZA",
-    "instructors": "Katrin Tirok",
+    "instructors": "Katrin Tirok,Tadiwanashe Gutsa,Kudakwashe Madzima,Bianca Peterson,Zolani Sita",
     "venue": "Walter Sisulu University",
     "longitude": 27.9058585,
-    "slug": "2019-01-22-WSU-EastLondon",
+    "slug": "2019-01-30-WSU-EastLondon",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Andiswa Bukula,Funmilola Kemi Megbowon",
     "host_name": "Walter Sisulu University",
     "latitude": -33.0211839,
+    "start_date": "2019-01-31"
+  },
+  {
+    "end_date": "2019-02-01",
+    "url": "https://anelda.github.io/2019-01-31-SomaliREN/",
+    "country": "SO",
+    "instructors": "Mateusz Kuzak,Jessica Upani",
+    "venue": "Hargeisa, Somaliland",
+    "longitude": 43.5502927,
+    "slug": "2019-01-31-SomaliREN",
+    "tag_name": "TTT",
+    "helpers": "Dagim Mengesha",
+    "host_name": "Somali Research and Education Network",
+    "latitude": 9.7231322,
     "start_date": "2019-01-31"
   },
   {
@@ -871,7 +997,7 @@
     "end_date": "2019-01-29",
     "url": "https://anelda.github.io/2019-01-28-SomaliREN/",
     "country": "SO",
-    "instructors": "Mateusz Kuzak,Jessica Upani",
+    "instructors": "Mateusz Kuzak,Jessica Upani,Dagim Mengesha",
     "venue": "Somaliland",
     "longitude": 43.5502927,
     "slug": "2019-01-28-SomaliREN",
