@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-06",
-    "url": "https://tgac.github.io/2019-03-05-earlham/",
-    "country": "GB",
-    "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
-    "venue": "Earlham Institute",
-    "longitude": 1.218987,
-    "slug": "2019-03-05-earlham",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Earlham Institute",
-    "latitude": 52.621741,
-    "start_date": "2019-03-05"
-  },
-  {
     "end_date": "2019-03-09",
     "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
     "country": "US",
@@ -224,20 +210,6 @@
     "start_date": "2019-03-19"
   },
   {
-    "end_date": "2019-03-20",
-    "url": "https://mbonsma.github.io/2019-03-19-oxford/",
-    "country": "US",
-    "instructors": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
-    "venue": "University of Oxford",
-    "longitude": -1.215058,
-    "slug": "2019-03-19-oxford",
-    "tag_name": "SWC",
-    "helpers": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
-    "host_name": "University of Oxford",
-    "latitude": 51.7517961,
-    "start_date": "2019-03-19"
-  },
-  {
     "end_date": "2019-03-21",
     "url": "https://jcoliver.github.io/2019-03-20-ttt-online_PST/",
     "country": "",
@@ -308,6 +280,20 @@
     "start_date": "2019-03-26"
   },
   {
+    "end_date": "2019-03-28",
+    "url": "https://karenword.github.io/2019-03-27-ttt-uc_davis/",
+    "country": "US",
+    "instructors": "Karen Word,Elizabeth Williams",
+    "venue": "UC Davis",
+    "longitude": -121.750221,
+    "slug": "2019-03-27-ttt-uc_davis",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.542591,
+    "start_date": "2019-03-27"
+  },
+  {
     "end_date": "2019-03-29",
     "url": "https://timothylwarren.github.io/2019-02-22-claremont/",
     "country": "US",
@@ -348,6 +334,20 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2019-04-03"
+  },
+  {
+    "end_date": "2019-04-09",
+    "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
+    "country": "",
+    "instructors": "François Michonneau,Amy Hodge",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-08-ttt-ufl",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-08"
   },
   {
     "end_date": "2019-04-12",

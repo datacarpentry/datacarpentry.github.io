@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-06",
+    "url": "https://tgac.github.io/2019-03-05-earlham/",
+    "country": "GB",
+    "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
+    "venue": "Earlham Institute",
+    "longitude": 1.218987,
+    "slug": "2019-03-05-earlham",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621741,
+    "start_date": "2019-03-05"
+  },
+  {
     "end_date": "2019-03-05",
     "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
     "country": "US",
