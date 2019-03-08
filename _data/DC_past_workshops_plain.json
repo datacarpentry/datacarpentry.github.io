@@ -504,6 +504,20 @@
     "start_date": "2018-09-14"
   },
   {
+    "end_date": "2018-09-14",
+    "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.19018,
+    "slug": "2018-09-13-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.94424,
+    "start_date": "2018-09-13"
+  },
+  {
     "end_date": "2018-09-13",
     "url": "https://smcclatchy.github.io/2018-09-12-new_england_tribes_USGS/",
     "country": "US",

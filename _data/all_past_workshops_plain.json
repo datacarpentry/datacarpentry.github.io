@@ -946,7 +946,7 @@
     "longitude": -93.243016,
     "slug": "2019-01-15-umn",
     "tag_name": "SWC",
-    "helpers": "Nick Dunn,Katie Wilson,Chaochih Liu,Tim Hendrickson",
+    "helpers": "Nicholas Dunn,Katie Wilson,Chaochih Liu,Tim Hendrickson",
     "host_name": "University of Minnesota",
     "latitude": 44.973167,
     "start_date": "2019-01-15"
@@ -1506,7 +1506,7 @@
     "longitude": -93.236408,
     "slug": "2018-12-03-umn",
     "tag_name": "SWC",
-    "helpers": "Cody Hennesy,Peter Wiringa,Nick Dunn,Alicia Hofelich-Mohr,Seth Mayotte",
+    "helpers": "Cody Hennesy,Peter Wiringa,Nicholas Dunn,Alicia Hofelich-Mohr,Seth Mayotte",
     "host_name": "University of Minnesota",
     "latitude": 44.97532,
     "start_date": "2018-12-03"
@@ -2980,6 +2980,20 @@
     "host_name": "University of Southern California",
     "latitude": 34.0218002,
     "start_date": "2018-09-14"
+  },
+  {
+    "end_date": "2018-09-14",
+    "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.19018,
+    "slug": "2018-09-13-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.94424,
+    "start_date": "2018-09-13"
   },
   {
     "end_date": "2018-09-14",

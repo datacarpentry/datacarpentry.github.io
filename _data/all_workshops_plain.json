@@ -14,6 +14,20 @@
     "start_date": "2019-10-02"
   },
   {
+    "end_date": "2019-07-17",
+    "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
+    "country": "GR",
+    "instructors": "Allegra Via,Fotis Psomopoulos,Mateusz Kuzak",
+    "venue": "Information Management Systems Institute (IMSI), Athena Research Center",
+    "longitude": 23.8025,
+    "slug": "2019-07-15-ttt-elixir_greece",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.03647,
+    "start_date": "2019-07-15"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
@@ -42,6 +56,20 @@
     "start_date": "2019-06-10"
   },
   {
+    "end_date": "2019-06-04",
+    "url": "https://fpsom.github.io/2019-06-03-elixir-athens-eie",
+    "country": "GR",
+    "instructors": "Thor Wikfeldt,Fotis Psomopoulos",
+    "venue": "National Hellenic Research Foundation",
+    "longitude": 23.745407,
+    "slug": "2019-06-03-elixir-athens-eie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 37.973198,
+    "start_date": "2019-06-03"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -54,6 +82,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 51.033718,
     "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-04-30",
+    "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
+    "country": "",
+    "instructors": "Kate Hertweck,Ariel Rokem",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-29-ttt-hutchinson_uw",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-29"
   },
   {
     "end_date": "2019-07-17",
@@ -325,7 +367,7 @@
     "end_date": "2019-03-19",
     "url": "https://chaochihl.github.io/2019-03-18-umntc/",
     "country": "US",
-    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "instructors": "Chaochih Liu,Nicholas Dunn,Cody Hennesy",
     "venue": "University of Minnesota",
     "longitude": -93.23136,
     "slug": "2019-03-18-umntc",
@@ -417,6 +459,20 @@
     "helpers": "Jordan Pedersen,Sarah Gorman,Angel Su,Dominique Glassman",
     "host_name": "University of Toronto",
     "latitude": 43.66304,
+    "start_date": "2019-03-11"
+  },
+  {
+    "end_date": "2019-03-12",
+    "url": "https://jasonjwilliamsny.github.io/2019-03-11-ttt-online_EST/",
+    "country": "",
+    "instructors": "Jason Williams,Jason Williams,Mark Laufersweiler,Mark Laufersweiler",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-11-ttt-online_EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-03-11"
   },
   {
@@ -1394,7 +1450,7 @@
     "longitude": -93.243016,
     "slug": "2019-01-15-umn",
     "tag_name": "SWC",
-    "helpers": "Nick Dunn,Katie Wilson,Chaochih Liu,Tim Hendrickson",
+    "helpers": "Nicholas Dunn,Katie Wilson,Chaochih Liu,Tim Hendrickson",
     "host_name": "University of Minnesota",
     "latitude": 44.973167,
     "start_date": "2019-01-15"
@@ -1954,7 +2010,7 @@
     "longitude": -93.236408,
     "slug": "2018-12-03-umn",
     "tag_name": "SWC",
-    "helpers": "Cody Hennesy,Peter Wiringa,Nick Dunn,Alicia Hofelich-Mohr,Seth Mayotte",
+    "helpers": "Cody Hennesy,Peter Wiringa,Nicholas Dunn,Alicia Hofelich-Mohr,Seth Mayotte",
     "host_name": "University of Minnesota",
     "latitude": 44.97532,
     "start_date": "2018-12-03"
@@ -3428,6 +3484,20 @@
     "host_name": "University of Southern California",
     "latitude": 34.0218002,
     "start_date": "2018-09-14"
+  },
+  {
+    "end_date": "2018-09-14",
+    "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.19018,
+    "slug": "2018-09-13-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.94424,
+    "start_date": "2018-09-13"
   },
   {
     "end_date": "2018-09-14",

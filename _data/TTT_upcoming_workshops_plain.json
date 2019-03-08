@@ -26,5 +26,33 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-30",
+    "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
+    "country": "",
+    "instructors": "Kate Hertweck,Ariel Rokem",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-29-ttt-hutchinson_uw",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-29"
+  },
+  {
+    "end_date": "2019-07-17",
+    "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
+    "country": "GR",
+    "instructors": "Allegra Via,Fotis Psomopoulos,Mateusz Kuzak",
+    "venue": "Information Management Systems Institute (IMSI), Athena Research Center",
+    "longitude": 23.8025,
+    "slug": "2019-07-15-ttt-elixir_greece",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.03647,
+    "start_date": "2019-07-15"
   }
 ]

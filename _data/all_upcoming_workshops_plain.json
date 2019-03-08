@@ -42,6 +42,20 @@
     "start_date": "2019-03-11"
   },
   {
+    "end_date": "2019-03-12",
+    "url": "https://jasonjwilliamsny.github.io/2019-03-11-ttt-online_EST/",
+    "country": "",
+    "instructors": "Jason Williams,Jason Williams,Mark Laufersweiler,Mark Laufersweiler",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-11-ttt-online_EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-11"
+  },
+  {
     "end_date": "2019-03-13",
     "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
     "country": "US",
@@ -171,7 +185,7 @@
     "end_date": "2019-03-19",
     "url": "https://chaochihl.github.io/2019-03-18-umntc/",
     "country": "US",
-    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "instructors": "Chaochih Liu,Nicholas Dunn,Cody Hennesy",
     "venue": "University of Minnesota",
     "longitude": -93.23136,
     "slug": "2019-03-18-umntc",
@@ -392,6 +406,20 @@
     "start_date": "2019-04-16"
   },
   {
+    "end_date": "2019-04-30",
+    "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
+    "country": "",
+    "instructors": "Kate Hertweck,Ariel Rokem",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-29-ttt-hutchinson_uw",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-29"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -404,6 +432,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 51.033718,
     "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://fpsom.github.io/2019-06-03-elixir-athens-eie",
+    "country": "GR",
+    "instructors": "Thor Wikfeldt,Fotis Psomopoulos",
+    "venue": "National Hellenic Research Foundation",
+    "longitude": 23.745407,
+    "slug": "2019-06-03-elixir-athens-eie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 37.973198,
+    "start_date": "2019-06-03"
   },
   {
     "end_date": "2019-06-10",
@@ -432,6 +474,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-07-17",
+    "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
+    "country": "GR",
+    "instructors": "Allegra Via,Fotis Psomopoulos,Mateusz Kuzak",
+    "venue": "Information Management Systems Institute (IMSI), Athena Research Center",
+    "longitude": 23.8025,
+    "slug": "2019-07-15-ttt-elixir_greece",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.03647,
+    "start_date": "2019-07-15"
   },
   {
     "end_date": "2019-10-03",

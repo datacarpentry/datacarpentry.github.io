@@ -115,7 +115,7 @@
     "end_date": "2019-03-19",
     "url": "https://chaochihl.github.io/2019-03-18-umntc/",
     "country": "US",
-    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "instructors": "Chaochih Liu,Nicholas Dunn,Cody Hennesy",
     "venue": "University of Minnesota",
     "longitude": -93.23136,
     "slug": "2019-03-18-umntc",
@@ -250,6 +250,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 50.824343,
     "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://fpsom.github.io/2019-06-03-elixir-athens-eie",
+    "country": "GR",
+    "instructors": "Thor Wikfeldt,Fotis Psomopoulos",
+    "venue": "National Hellenic Research Foundation",
+    "longitude": 23.745407,
+    "slug": "2019-06-03-elixir-athens-eie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 37.973198,
+    "start_date": "2019-06-03"
   },
   {
     "end_date": "2019-06-25",
