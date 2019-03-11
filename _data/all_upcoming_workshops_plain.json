@@ -392,6 +392,20 @@
     "start_date": "2019-04-29"
   },
   {
+    "end_date": "2019-05-10",
+    "url": "https://uomresearchit.github.io/2019-05-09-manchester/",
+    "country": "GB",
+    "instructors": "Gerard Capes,Ann Gledson,Peter Crowther",
+    "venue": "University Of Manchester",
+    "longitude": -2.233694,
+    "slug": "2019-05-09-manchester",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.466817,
+    "start_date": "2019-05-09"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
