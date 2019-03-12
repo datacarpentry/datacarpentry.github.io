@@ -22,7 +22,7 @@
     "longitude": -83.734886,
     "slug": "2019-03-04-umich-genomics",
     "tag_name": "DC",
-    "helpers": "Evan Snitkin",
+    "helpers": "Evan Snitkin,Michael Wolfe",
     "host_name": "University of Michigan",
     "latitude": 42.280093,
     "start_date": "2019-03-04"
@@ -42,6 +42,34 @@
     "start_date": "2019-02-28"
   },
   {
+    "end_date": "2019-02-28",
+    "url": "https://edcarp.github.io/2019-02-20-edinburgh-sbs-dc/",
+    "country": "GB",
+    "instructors": "Weronika Borek,Edward Wallace,Mario Antonioletti",
+    "venue": "The University of Edinburgh, School of Biological Sciences",
+    "longitude": -3.173672,
+    "slug": "2019-02-20-edinburgh-sbs-dc",
+    "tag_name": "DC",
+    "helpers": "Jen Daub,Lora Boteva,Sam Haynes,Rosey Bayne,Giacomo Peru,Edward Wallace,Shaun Webb,Alastair Kerr,Daniel Robertson",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921804,
+    "start_date": "2019-02-20"
+  },
+  {
+    "end_date": "2019-02-19",
+    "url": "https://edcarp.github.io/2019-02-18-edinburgh-business-school/",
+    "country": "GB",
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho",
+    "venue": "The University of Edinburgh - Business School",
+    "longitude": null,
+    "slug": "2019-02-18-edinburgh-business-school",
+    "tag_name": "DC",
+    "helpers": "Kiyoshi Bhuiyan,Jen Daub,Martin Hendrickse,Chris Hill,Andrzej Romaniuk,Jim Trappitt",
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2019-02-18"
+  },
+  {
     "end_date": "2019-02-15",
     "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
     "country": "IT",
@@ -54,6 +82,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 45.51729,
     "start_date": "2019-02-14"
+  },
+  {
+    "end_date": "2019-02-07",
+    "url": "https://edcarp.github.io/2019-02-07-Edinburgh-OpenRefine/",
+    "country": "GB",
+    "instructors": "Jen Daub",
+    "venue": "The University of Edinburgh - Lister Learning and Teaching Centre (Central Area)",
+    "longitude": -3.184586,
+    "slug": "2019-02-07-Edinburgh-OpenRefine",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947457,
+    "start_date": "2019-02-07"
   },
   {
     "end_date": "2019-02-07",
@@ -322,6 +364,20 @@
     "start_date": "2018-12-10"
   },
   {
+    "end_date": "2018-12-07",
+    "url": "https://edcarp.github.io/2018-12-06-edinburgh-dc-genomics/",
+    "country": "GB",
+    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2018-12-06-edinburgh-dc-genomics",
+    "tag_name": "DC",
+    "helpers": "Jen Daub,Giacomo Peru,Mario Antonioletti,Graeme Grimes,Fiona Reid,Linus Schumacher,Steve Thorn",
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2018-12-06"
+  },
+  {
     "end_date": "2018-11-30",
     "url": "https://otagocarpentries.github.io/2018-11-29-esr/",
     "country": "NZ",
@@ -512,7 +568,7 @@
     "longitude": -3.19018,
     "slug": "2018-09-13-edinburgh",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Jen Daub,Kiyoshi Bhuiyan,Sarah Ames,Graeme Grimes,Ewan McDowall,Steve Carlysle-Davies,Edward Wallace,Stephen Cass,Nigel Binns",
     "host_name": "University of Edinburgh",
     "latitude": 55.94424,
     "start_date": "2018-09-13"
@@ -3704,7 +3760,7 @@
     "longitude": -71.11884,
     "slug": "2019-02-15-tufts",
     "tag_name": "DC",
-    "helpers": "Annie Swafford",
+    "helpers": "Annie Swafford,Nicole Bookout,Adrienne Pruitt",
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2015-02-15"

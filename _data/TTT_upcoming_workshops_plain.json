@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Malvika Sharan,Saymore Chifamba,Samar Elsheikh",
+    "venue": "Instructor Training - UKZN Big Data & Informatics / RCCPII",
+    "longitude": 30.946017,
+    "slug": "2019-03-18-UKZN-ttt",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818169,
+    "start_date": "2019-03-18"
+  },
+  {
     "end_date": "2019-03-28",
     "url": "https://karenword.github.io/2019-03-27-ttt-uc_davis/",
     "country": "US",

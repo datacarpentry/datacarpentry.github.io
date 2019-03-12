@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-12",
+    "url": "https://jordanpedersen.github.io/2019-03-11-UniversityofToronto/",
+    "country": "CA",
+    "instructors": "Rachel Wang",
+    "venue": "University of Toronto",
+    "longitude": -79.39801,
+    "slug": "2019-03-11-UniversityofToronto",
+    "tag_name": "LC",
+    "helpers": "Jordan Pedersen,Sarah Gorman,Angel Su,Dominique Glassman",
+    "host_name": "University of Toronto",
+    "latitude": 43.66304,
+    "start_date": "2019-03-11"
+  },
+  {
     "end_date": "2019-02-01",
     "url": "https://dh-southernafrica.github.io/2019-01-30-WITS-LC/",
     "country": "ZA",

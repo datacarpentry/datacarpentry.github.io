@@ -1,33 +1,5 @@
 [
   {
-    "end_date": "2019-03-12",
-    "url": "https://jordanpedersen.github.io/2019-03-11-UniversityofToronto/",
-    "country": "CA",
-    "instructors": "Rachel Wang",
-    "venue": "University of Toronto",
-    "longitude": -79.39801,
-    "slug": "2019-03-11-UniversityofToronto",
-    "tag_name": "LC",
-    "helpers": "Jordan Pedersen,Sarah Gorman,Angel Su,Dominique Glassman",
-    "host_name": "University of Toronto",
-    "latitude": 43.66304,
-    "start_date": "2019-03-11"
-  },
-  {
-    "end_date": "2019-03-12",
-    "url": "https://jasonjwilliamsny.github.io/2019-03-11-ttt-online_EST/",
-    "country": "",
-    "instructors": "Jason Williams,Jason Williams,Mark Laufersweiler,Mark Laufersweiler",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-03-11-ttt-online_EST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-03-11"
-  },
-  {
     "end_date": "2019-03-13",
     "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
     "country": "US",
@@ -42,6 +14,20 @@
     "start_date": "2019-03-12"
   },
   {
+    "end_date": "2019-03-14",
+    "url": "https://otagocarpentries.github.io/2019-03-13-otago/",
+    "country": "NZ",
+    "instructors": "Murray Cadzow,Antje Lubcke,Matt Bixley",
+    "venue": "Science library",
+    "longitude": 170.51131,
+    "slug": "2019-03-13-Otago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -45.8639,
+    "start_date": "2019-03-13"
+  },
+  {
     "end_date": "2019-03-15",
     "url": "https://pnnl-compbio.github.io/2019-03.14-15-PNNL-SWC/",
     "country": "US",
@@ -53,6 +39,20 @@
     "helpers": "Jeremy Zucker,Balwinder Singh",
     "host_name": "Pacific Northwest National Lab ",
     "latitude": 46.3513347,
+    "start_date": "2019-03-14"
+  },
+  {
+    "end_date": "2019-03-15",
+    "url": "https://oulib-swc.github.io/2019-03-14-ou-tulsa-dc/",
+    "country": "US",
+    "instructors": "Tyler Pearson,Logan Cox",
+    "venue": "University of Oklahoma Schusterman Library, Tulsa",
+    "longitude": -95.922955,
+    "slug": "2019-03-14-ou-tulsa-dc",
+    "tag_name": "DC",
+    "helpers": "Toni Hoberecht,Krista Kezbers",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101228,
     "start_date": "2019-03-14"
   },
   {
@@ -95,6 +95,20 @@
     "helpers": null,
     "host_name": "Sol Plaatjies University",
     "latitude": -28.7451135,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Malvika Sharan,Saymore Chifamba,Samar Elsheikh",
+    "venue": "Instructor Training - UKZN Big Data & Informatics / RCCPII",
+    "longitude": 30.946017,
+    "slug": "2019-03-18-UKZN-ttt",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818169,
     "start_date": "2019-03-18"
   },
   {
@@ -148,7 +162,7 @@
     "longitude": -94.176036,
     "slug": "2019-03-18-uark",
     "tag_name": "SWC",
-    "helpers": "James McCartney,Nick Salonen,Joe Paparo",
+    "helpers": "James McCartney,Nick Salonen,Joe Paparo,Michael Gibbs",
     "host_name": "University of Arkansas",
     "latitude": 36.068644,
     "start_date": "2019-03-18"
@@ -308,6 +322,62 @@
     "start_date": "2019-03-28"
   },
   {
+    "end_date": "2019-03-29",
+    "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
+    "country": "",
+    "instructors": "Martino Sorbaro Sindaci,Ruairidh Macleod,Mario Antonioletti",
+    "venue": "Heriot Watt University",
+    "longitude": -3.26227,
+    "slug": "2019-03-28-heriotwatt",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Heriot Watt University",
+    "latitude": 55.92261,
+    "start_date": "2019-03-28"
+  },
+  {
+    "end_date": "2019-04-03",
+    "url": "https://dgrell.github.io/2019-04-01-ELIXIR-NORWAY_BERGEN/",
+    "country": "NO",
+    "instructors": "Joaquín Morís,David Grellscheid",
+    "venue": "ELIXIR - University of Bergen",
+    "longitude": 5.333,
+    "slug": "2019-04-01-ELIXIR-NORWAY_BERGEN",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 60.381,
+    "start_date": "2019-04-01"
+  },
+  {
+    "end_date": "2019-04-04",
+    "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
+    "country": "US",
+    "instructors": "Jason Hurlburt,Daniel Kerchner,Laura Wrubel",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-04-03-carpentry",
+    "tag_name": "SWC",
+    "helpers": "Marco Suarez",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-04-03"
+  },
+  {
+    "end_date": "2019-04-04",
+    "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
+    "country": "ZA",
+    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
+    "venue": "The Professional Development Hub (satRday)",
+    "longitude": 28.0369,
+    "slug": "2019-04-03-satRday-jhb",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -26.1808,
+    "start_date": "2019-04-03"
+  },
+  {
     "end_date": "2019-04-04",
     "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
     "country": "W3",
@@ -323,6 +393,34 @@
   },
   {
     "end_date": "2019-04-09",
+    "url": "https://mattgillucl.github.io/2019-04-08-UCL_software_carpentry/",
+    "country": "GB",
+    "instructors": "Vilma Agalioti Sgompou,Thomas Dowrick,Anastasis Georgoulas,Shikta Das",
+    "venue": "UCL",
+    "longitude": 0.02097,
+    "slug": "2019-04-08-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.52508,
+    "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-08",
+    "url": "https://aschuerch.github.io/2019-04-08-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2019-04-08-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-09",
     "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
     "country": "",
     "instructors": "François Michonneau,Amy Hodge",
@@ -334,6 +432,34 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
+    "country": "",
+    "instructors": "Sateesh Peri,Aniello Infante",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-11-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": null,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
+    "country": "US",
+    "instructors": null,
+    "venue": "UF Emerging Pathogens Institute",
+    "longitude": -82.351971,
+    "slug": "2019-04-11-ufepi-genomics",
+    "tag_name": "DC",
+    "helpers": "Geraldine Klarenberg",
+    "host_name": "University of Florida",
+    "latitude": 29.637414,
+    "start_date": "2019-04-11"
   },
   {
     "end_date": "2019-04-12",
@@ -375,6 +501,20 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 50.824343,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
+    "url": "https://zpainter.github.io/2019-04-16-Stanford/",
+    "country": "US",
+    "instructors": "Kim Durante,Zac Painter,Mary-Ellen Petrich",
+    "venue": "Stanford University Libraries",
+    "longitude": -122.169716,
+    "slug": "2019-04-16-Stanford",
+    "tag_name": "SWC",
+    "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota",
+    "host_name": "Stanford University",
+    "latitude": 37.427475,
     "start_date": "2019-04-16"
   },
   {

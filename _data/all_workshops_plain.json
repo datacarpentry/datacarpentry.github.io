@@ -126,6 +126,20 @@
     "start_date": "2019-04-16"
   },
   {
+    "end_date": "2019-04-17",
+    "url": "https://zpainter.github.io/2019-04-16-Stanford/",
+    "country": "US",
+    "instructors": "Kim Durante,Zac Painter,Mary-Ellen Petrich",
+    "venue": "Stanford University Libraries",
+    "longitude": -122.169716,
+    "slug": "2019-04-16-Stanford",
+    "tag_name": "SWC",
+    "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota",
+    "host_name": "Stanford University",
+    "latitude": 37.427475,
+    "start_date": "2019-04-16"
+  },
+  {
     "end_date": "2019-04-12",
     "url": "https://angela-li.github.io/2019-04-12-chicago/",
     "country": "US",
@@ -154,6 +168,62 @@
     "start_date": "2019-04-12"
   },
   {
+    "end_date": "2019-04-12",
+    "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
+    "country": "",
+    "instructors": "Sateesh Peri,Aniello Infante",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-11-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": null,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
+    "country": "US",
+    "instructors": null,
+    "venue": "UF Emerging Pathogens Institute",
+    "longitude": -82.351971,
+    "slug": "2019-04-11-ufepi-genomics",
+    "tag_name": "DC",
+    "helpers": "Geraldine Klarenberg",
+    "host_name": "University of Florida",
+    "latitude": 29.637414,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-09",
+    "url": "https://mattgillucl.github.io/2019-04-08-UCL_software_carpentry/",
+    "country": "GB",
+    "instructors": "Vilma Agalioti Sgompou,Thomas Dowrick,Anastasis Georgoulas,Shikta Das",
+    "venue": "UCL",
+    "longitude": 0.02097,
+    "slug": "2019-04-08-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.52508,
+    "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-08",
+    "url": "https://aschuerch.github.io/2019-04-08-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2019-04-08-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2019-04-08"
+  },
+  {
     "end_date": "2019-04-09",
     "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
     "country": "",
@@ -169,6 +239,34 @@
   },
   {
     "end_date": "2019-04-04",
+    "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
+    "country": "US",
+    "instructors": "Jason Hurlburt,Daniel Kerchner,Laura Wrubel",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-04-03-carpentry",
+    "tag_name": "SWC",
+    "helpers": "Marco Suarez",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-04-03"
+  },
+  {
+    "end_date": "2019-04-04",
+    "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
+    "country": "ZA",
+    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
+    "venue": "The Professional Development Hub (satRday)",
+    "longitude": 28.0369,
+    "slug": "2019-04-03-satRday-jhb",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -26.1808,
+    "start_date": "2019-04-03"
+  },
+  {
+    "end_date": "2019-04-04",
     "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
     "country": "W3",
     "instructors": "Malvika Sharan,Malvika Sharan,Allegra Via,Allegra Via",
@@ -180,6 +278,20 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2019-04-03"
+  },
+  {
+    "end_date": "2019-04-03",
+    "url": "https://dgrell.github.io/2019-04-01-ELIXIR-NORWAY_BERGEN/",
+    "country": "NO",
+    "instructors": "Joaquín Morís,David Grellscheid",
+    "venue": "ELIXIR - University of Bergen",
+    "longitude": 5.333,
+    "slug": "2019-04-01-ELIXIR-NORWAY_BERGEN",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 60.381,
+    "start_date": "2019-04-01"
   },
   {
     "end_date": "2019-03-29",
@@ -207,6 +319,20 @@
     "helpers": "Raúl Ortiz-Merino,Kees den Heijer",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
+    "start_date": "2019-03-28"
+  },
+  {
+    "end_date": "2019-03-29",
+    "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
+    "country": "",
+    "instructors": "Martino Sorbaro Sindaci,Ruairidh Macleod,Mario Antonioletti",
+    "venue": "Heriot Watt University",
+    "longitude": -3.26227,
+    "slug": "2019-03-28-heriotwatt",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Heriot Watt University",
+    "latitude": 55.92261,
     "start_date": "2019-03-28"
   },
   {
@@ -322,6 +448,20 @@
     "start_date": "2019-03-18"
   },
   {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Malvika Sharan,Saymore Chifamba,Samar Elsheikh",
+    "venue": "Instructor Training - UKZN Big Data & Informatics / RCCPII",
+    "longitude": 30.946017,
+    "slug": "2019-03-18-UKZN-ttt",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818169,
+    "start_date": "2019-03-18"
+  },
+  {
     "end_date": "2019-03-19",
     "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
     "country": "US",
@@ -372,7 +512,7 @@
     "longitude": -94.176036,
     "slug": "2019-03-18-uark",
     "tag_name": "SWC",
-    "helpers": "James McCartney,Nick Salonen,Joe Paparo",
+    "helpers": "James McCartney,Nick Salonen,Joe Paparo,Michael Gibbs",
     "host_name": "University of Arkansas",
     "latitude": 36.068644,
     "start_date": "2019-03-18"
@@ -446,6 +586,34 @@
     "host_name": "Pacific Northwest National Lab ",
     "latitude": 46.3513347,
     "start_date": "2019-03-14"
+  },
+  {
+    "end_date": "2019-03-15",
+    "url": "https://oulib-swc.github.io/2019-03-14-ou-tulsa-dc/",
+    "country": "US",
+    "instructors": "Tyler Pearson,Logan Cox",
+    "venue": "University of Oklahoma Schusterman Library, Tulsa",
+    "longitude": -95.922955,
+    "slug": "2019-03-14-ou-tulsa-dc",
+    "tag_name": "DC",
+    "helpers": "Toni Hoberecht,Krista Kezbers",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101228,
+    "start_date": "2019-03-14"
+  },
+  {
+    "end_date": "2019-03-14",
+    "url": "https://otagocarpentries.github.io/2019-03-13-otago/",
+    "country": "NZ",
+    "instructors": "Murray Cadzow,Antje Lubcke,Matt Bixley",
+    "venue": "Science library",
+    "longitude": 170.51131,
+    "slug": "2019-03-13-Otago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -45.8639,
+    "start_date": "2019-03-13"
   },
   {
     "end_date": "2019-03-13",
@@ -540,7 +708,7 @@
     "longitude": -83.734886,
     "slug": "2019-03-04-umich-genomics",
     "tag_name": "DC",
-    "helpers": "Evan Snitkin",
+    "helpers": "Evan Snitkin,Michael Wolfe",
     "host_name": "University of Michigan",
     "latitude": 42.280093,
     "start_date": "2019-03-04"
@@ -577,12 +745,12 @@
     "end_date": "2019-03-01",
     "url": "https://umswc.github.io/2019-02-28-umich/",
     "country": "US",
-    "instructors": "Chris Gates,Ry4an Brase",
+    "instructors": "Chris Gates,Ry4an Brase,Zena Lapp,Ada Hagan",
     "venue": "University of Michigan",
     "longitude": -83.71569,
     "slug": "2019-02-28-umich",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kelly Sovacool",
     "host_name": "University of Michigan",
     "latitude": 42.2912,
     "start_date": "2019-02-28"
@@ -614,6 +782,20 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2019-02-25"
+  },
+  {
+    "end_date": "2019-02-24",
+    "url": "https://UA-Carpentries-Workshops.github.io/2019-02-23-Tucson",
+    "country": "US",
+    "instructors": "Upendra Kumar Devisetty,Dawson Fairbanks,Blake Joyce,Chun Ly,Susan Miller,Kristina Riemer",
+    "venue": "Learn Data Wrangling at the University of Arizona!",
+    "longitude": -110.9495,
+    "slug": "2019-02-23-Tucson",
+    "tag_name": "SWC",
+    "helpers": "Jiali Han,Matthew Miller,Cristian Palacios,Travis Struck,Marnee Dearman",
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2019-02-23"
   },
   {
     "end_date": "2019-02-24",
@@ -666,7 +848,7 @@
     "longitude": -2.23603,
     "slug": "2019-02-21-manchester",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Peter Crowther",
     "host_name": "University of Manchester",
     "latitude": 53.47634,
     "start_date": "2019-02-21"
@@ -686,6 +868,20 @@
     "start_date": "2019-02-21"
   },
   {
+    "end_date": "2019-02-28",
+    "url": "https://edcarp.github.io/2019-02-20-edinburgh-sbs-dc/",
+    "country": "GB",
+    "instructors": "Weronika Borek,Edward Wallace,Mario Antonioletti",
+    "venue": "The University of Edinburgh, School of Biological Sciences",
+    "longitude": -3.173672,
+    "slug": "2019-02-20-edinburgh-sbs-dc",
+    "tag_name": "DC",
+    "helpers": "Jen Daub,Lora Boteva,Sam Haynes,Rosey Bayne,Giacomo Peru,Edward Wallace,Shaun Webb,Alastair Kerr,Daniel Robertson",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921804,
+    "start_date": "2019-02-20"
+  },
+  {
     "end_date": "2019-02-21",
     "url": "https://bham-carpentries.github.io/2019-02-18-bham/",
     "country": "GB",
@@ -700,13 +896,27 @@
     "start_date": "2019-02-18"
   },
   {
+    "end_date": "2019-02-19",
+    "url": "https://edcarp.github.io/2019-02-18-edinburgh-business-school/",
+    "country": "GB",
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho",
+    "venue": "The University of Edinburgh - Business School",
+    "longitude": null,
+    "slug": "2019-02-18-edinburgh-business-school",
+    "tag_name": "DC",
+    "helpers": "Kiyoshi Bhuiyan,Jen Daub,Martin Hendrickse,Chris Hill,Andrzej Romaniuk,Jim Trappitt",
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2019-02-18"
+  },
+  {
     "end_date": "2019-02-17",
     "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
     "country": "US",
     "instructors": "Sheldon McKay,Michael Zingale",
     "venue": "Stony Brook University",
     "longitude": -73.121199,
-    "slug": "2019-xx-xx-stonybrook-Python",
+    "slug": "2019-02-16-stonybrook-Python",
     "tag_name": "SWC",
     "helpers": "Alan Calder,Pooja Rao",
     "host_name": "Stony Brook University",
@@ -848,7 +1058,7 @@
     "longitude": -82.344031,
     "slug": "2019-02-11-ufii",
     "tag_name": "SWC",
-    "helpers": "Falcon Restrepo Ramos",
+    "helpers": "Falcon Restrepo Ramos,Elise Morrison,Philip Chase,Eduardo Bongiolo",
     "host_name": "University of Florida",
     "latitude": 29.648248,
     "start_date": "2019-02-11"
@@ -879,6 +1089,20 @@
     "helpers": "Jian Tao,Adrian Castellanos,Danielle Walkup,Katherine Beall,Marcel Brun",
     "host_name": "Texas A&M University",
     "latitude": 30.627977,
+    "start_date": "2019-02-07"
+  },
+  {
+    "end_date": "2019-02-07",
+    "url": "https://edcarp.github.io/2019-02-07-Edinburgh-OpenRefine/",
+    "country": "GB",
+    "instructors": "Jen Daub",
+    "venue": "The University of Edinburgh - Lister Learning and Teaching Centre (Central Area)",
+    "longitude": -3.184586,
+    "slug": "2019-02-07-Edinburgh-OpenRefine",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947457,
     "start_date": "2019-02-07"
   },
   {
@@ -1187,6 +1411,20 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
+    "start_date": "2019-01-23"
+  },
+  {
+    "end_date": "2019-01-24",
+    "url": "https://edcarp.github.io/2019-01-23-edinburgh-geosc-sc/",
+    "country": "GB",
+    "instructors": "Declan Valters,Magnus Hagdorn",
+    "venue": "University of Edinburgh, GeoSciences (Drummond St)",
+    "longitude": -3.183886,
+    "slug": "2019-01-23-edinburgh-geosc-sc",
+    "tag_name": "SWC",
+    "helpers": "Chris Hill,James Fulton,Martino Sorbaro Sindaci",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.948253,
     "start_date": "2019-01-23"
   },
   {
@@ -1946,6 +2184,20 @@
     "start_date": "2018-12-06"
   },
   {
+    "end_date": "2018-12-07",
+    "url": "https://edcarp.github.io/2018-12-06-edinburgh-dc-genomics/",
+    "country": "GB",
+    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2018-12-06-edinburgh-dc-genomics",
+    "tag_name": "DC",
+    "helpers": "Jen Daub,Giacomo Peru,Mario Antonioletti,Graeme Grimes,Fiona Reid,Linus Schumacher,Steve Thorn",
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2018-12-06"
+  },
+  {
     "end_date": "2018-12-20",
     "url": "https://scw-ss.github.io/2018-12-05-cfm/",
     "country": "ES",
@@ -2198,6 +2450,20 @@
     "start_date": "2018-11-27"
   },
   {
+    "end_date": "2018-11-21",
+    "url": "https://edcarp.github.io/2018-11-21-edinburgh-igmm-git/",
+    "country": "GB",
+    "instructors": "Mario Antonioletti",
+    "venue": "Western General Hospital, Ediniburgh",
+    "longitude": -3.23186,
+    "slug": "2018-11-21-edinburgh-igmm-git",
+    "tag_name": "SWC",
+    "helpers": "John Ireland,Ewan McDowall,Sean McGeever,Declan Valters",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.96286,
+    "start_date": "2018-11-21"
+  },
+  {
     "end_date": "2018-11-29",
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
     "country": "",
@@ -2364,6 +2630,20 @@
     "host_name": "University College London",
     "latitude": 51.52538039,
     "start_date": "2018-11-07"
+  },
+  {
+    "end_date": "2018-11-07",
+    "url": "https://edcarp.github.io/2018-11-06-edinburgh-igmm-python/",
+    "country": "GB",
+    "instructors": "Andrew Turner",
+    "venue": "Computing Lab 1, Medical Education Centre",
+    "longitude": -3.23186,
+    "slug": "2018-11-06-edinburgh-igmm-python",
+    "tag_name": "SWC",
+    "helpers": "John Ireland,Ewan McDowall",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.96286,
+    "start_date": "2018-11-06"
   },
   {
     "end_date": "2018-11-07",
@@ -2896,6 +3176,20 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2018-10-10"
+  },
+  {
+    "end_date": "2018-10-09",
+    "url": "https://edcarp.github.io/2018-10-08-edinburgh-igmm-shell",
+    "country": "GB",
+    "instructors": "David McKain",
+    "venue": "Western General Hospital, Ediniburgh",
+    "longitude": -3.23186,
+    "slug": "2018-10-08-edinburgh-igmm-shell",
+    "tag_name": "SWC",
+    "helpers": "John Ireland,Ewan McDowall,Sean McGeever,Mario Antonioletti,Giacomo Peru",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.96286,
+    "start_date": "2018-10-09"
   },
   {
     "end_date": "2018-10-10",
@@ -3508,7 +3802,7 @@
     "longitude": -3.19018,
     "slug": "2018-09-13-edinburgh",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Jen Daub,Kiyoshi Bhuiyan,Sarah Ames,Graeme Grimes,Ewan McDowall,Steve Carlysle-Davies,Edward Wallace,Stephen Cass,Nigel Binns",
     "host_name": "University of Edinburgh",
     "latitude": 55.94424,
     "start_date": "2018-09-13"
@@ -3592,7 +3886,7 @@
     "longitude": -3.173591,
     "slug": "2018-09-11-edinburgh",
     "tag_name": "SWC",
-    "helpers": "Ruairidh Macleod,Fiona Reid,Steve Carlysle-Davies,Philip Cass,Oliver Brown,Evgenij Belikov,John Ireland,David McKain",
+    "helpers": "Ruairidh Macleod,Fiona Reid,Steve Carlysle-Davies,Philip Cass,Oliver Brown,Evgenij Belikov,John Ireland,David McKain,Sean McGeever,Fiona Bisset",
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2018-09-11"
@@ -22380,7 +22674,7 @@
     "longitude": -71.11884,
     "slug": "2019-02-15-tufts",
     "tag_name": "DC",
-    "helpers": "Annie Swafford",
+    "helpers": "Annie Swafford,Nicole Bookout,Adrienne Pruitt",
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2015-02-15"
