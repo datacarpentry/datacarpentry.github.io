@@ -140,8 +140,7 @@ The focus of this workshop is on working with genomics data, and data management
 command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
 cloud computing.
 
-Please note that workshop materials for working with Genomics data in R are under development and will become available
-in late 2018.
+Please note that workshop materials for working with Genomics data in R in "alpha" development.  These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries' official lesson offerings.
 
 #### Lessons
 
