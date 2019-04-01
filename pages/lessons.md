@@ -209,10 +209,10 @@ Please note that workshop materials for working with Genomics data in R in "alph
 
   <tr>
     <td>Data Analysis and Visualization in R *alpha*</td>
-    <td><a href="{{site.dc_website_url}}/R-genomics/" target="_blank" class="icon-browser" title="Website for data analysis of genomics data in R"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/R-genomics/" target="_blank" class="icon-github" title="Repository for data analysis of genomics data in R"></a></td>
-	<td><a href="{{site.dc_github_site_url}}/R-genomics/reference/" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/R-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for R genomics lesson"></a></td>
+    <td><a href="{{site.dc_website_url}}/genomics-r-intro/" target="_blank" class="icon-browser" title="Website for data analysis of genomics data in R"></a></td>
+    <td><a href="{{site.dc_github_repo_url}}/genomics-r-intro/" target="_blank" class="icon-github" title="Repository for data analysis of genomics data in R"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/genomics-r-intro/reference/" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/genomics-r-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor guide for R genomics lesson"></a></td>
     <td>Naupaka Zimmerman, Ahmed Moustafa, Krzysztof Poterlowicz, Jason Williams</td>
   </tr>
 </table>
