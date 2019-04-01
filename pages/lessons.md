@@ -373,7 +373,10 @@ Instructor. Instructors who have completed onboarding will be given priority sta
 
 ## Materials in Early Development
 
-*These materials are at the initial stages of development, identifying the core concepts to teach and piloting materials.*
+These materials are in early stages of development, and have not yet been incorporated into the official Data Carpentry lesson
+offerings. If you are interested in being involved in developing one of these lessons, see the information under each lesson
+description. If you are interested in developing a different curriculum, using The Carpentries lesson templates and pedagogical
+model, see our [Curriculum Development Handbook](https://cdh.carpentries.org) for information about how to get started.
 
 ### <a id="dh-curriculum"></a> Digital Humanities Curriculum
 
