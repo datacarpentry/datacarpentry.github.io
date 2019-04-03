@@ -373,7 +373,10 @@ Instructor. Instructors who have completed onboarding will be given priority sta
 
 ## Materials in Early Development
 
-*These materials are at the initial stages of development, identifying the core concepts to teach and piloting materials.*
+These materials are in early stages of development, and have not yet been incorporated into the official Data Carpentry lesson
+offerings. If you are interested in being involved in developing one of these lessons, see the information under each lesson
+description. If you are interested in developing a different curriculum, using The Carpentries lesson templates and pedagogical
+model, see our [Curriculum Development Handbook](https://cdh.carpentries.org) for information about how to get started.
 
 ### <a id="dh-curriculum"></a> Digital Humanities Curriculum
 
@@ -383,15 +386,23 @@ If you are interested in following or being involved in development of this curr
 
 ### <a id="image-analysis-curriculum"></a> Image analysis Curriculum
 
-Groups at Stanford, Doane College, and attendees of the ImageXD meeting have piloted ideas for curriculum in teaching image analysis. There is not yet one set of lessons under active development. Development is planned for 2018.
+With support from an NSF iUSE grant, Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA have developed
+a curriculum for teaching image analysis in Python. The [materials are available](https://mmeysenburg.github.io/image-processing/),
+and are being piloted locally. This pilot phase will be followed by a clean-up phase to incorporate suggestions and feedback from the
+pilots into the lessons and to make the lessons teachable by the broader community.
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [image-analysis-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image)
+If you are interested in contributing to this curriculum, please visit its 
+[GitHub repository](https://github.com/mmeysenburg/image-processing/). For broader discussion about image analysis curriculum 
+development, sign up for the [image-analysis-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image).
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
-There is initial interest on economics curriculum. Development is planned for 2018.
+A pre-alpha version of a potential Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central 
+European University. These materials will be piloted in June 2019. 
 
-If you are interested in following or being involved in development of this curriculum, please sign up for the [economics-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-economics)
+If you are interested in following or being involved in development of this curriculum, please visit the associated GitHub repositories
+for the [Stata](https://github.com/datacarpentry/stata-economics) and [bash shell](https://github.com/datacarpentry/shell-economics)
+lessons. For broader discussion about economics curriculum development, sign up for the [economics-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-economics).
 
 ### <a id="astronomy-curriculum"></a> Astronomy Curriculum
 
