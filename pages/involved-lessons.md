@@ -7,6 +7,8 @@ header:
 permalink: "/involved-lessons/"
 ---
 
+To learn more about how The Carpentries develops its lessons, please refer to the [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/).
+
 We are always in the process of developing content for new domains and topics.
 If you are interested in participating, please apply for a hackathon,
 help develop on line, [get in touch](https://carpentries.org/contact/) or see our [lessons under
