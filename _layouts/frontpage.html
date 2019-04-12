@@ -96,6 +96,7 @@ format: blog-index
 
         <div class="medium-6 columns">
 	  <h2>{{ site.data.language.upcoming_workshops }}</h2>
+          {% assign workshop_list = site.data.dc_upcoming_workshops %}
 	  {% include workshop_table.md %}
 	</div>
     </div><!-- /.row -->

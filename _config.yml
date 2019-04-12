@@ -42,8 +42,8 @@ urlimg: "https://datacarpentry.org/images/"
 # Logo size is 600x80 pixels
 logo: "DC_logo_vision.png"
 
-# Flag size for workshop display is 16x16 pixels
-flag_size       : 16
+# Flag size for workshop display
+flag_size: 24
 
 
 # Paginates all X entries

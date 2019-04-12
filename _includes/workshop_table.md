@@ -1,10 +1,8 @@
 <table class="table table-striped workshops" style="width: 100%">
-{% for w in site.data.DC_upcoming_workshops_plain  %}
+{% for w in workshop_list  %}
 	<tr>
 	<td>
-		<img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
-    </td>
-    <td>
+        <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
         <b><a href="{{w.url}}">{{w.venue}}</a></b>
         {% if w.instructors %}
         <br/>

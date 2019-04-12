@@ -25,4 +25,4 @@ script:
   - yaml-lint -q -n -i  $(find _posts -regex ".*.md\|.*html" )
   - yaml-lint -q -n -i  $(find pages -regex ".*.md\|.*html" )
   - bundle update && make test-site
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./amy_add.sh; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./update_feeds.sh; fi'
