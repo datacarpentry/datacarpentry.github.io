@@ -1,9 +1,51 @@
 [
   {
+    "end_date": "2019-04-19",
+    "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
+    "country": "US",
+    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
+    "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
+    "longitude": -96.005624,
+    "slug": "2019-04-18-okstate",
+    "tag_name": "DC",
+    "helpers": "Evan Linde",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.137965,
+    "start_date": "2019-04-18"
+  },
+  {
+    "end_date": "2019-04-18",
+    "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
+    "country": "HU",
+    "instructors": "Dmytro Fishman,Mark Robinson",
+    "venue": "Semmelweis University Data Carpentry Workshop",
+    "longitude": 19.06711,
+    "slug": "2019-04-17-semmelweis",
+    "tag_name": "DC",
+    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
+    "host_name": "Semmelweis University",
+    "latitude": 47.4873,
+    "start_date": "2019-04-17"
+  },
+  {
+    "end_date": "2019-04-17",
+    "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
+    "venue": "Data Carpentry at UKZN, Howard College",
+    "longitude": 30.9797,
+    "slug": "2019-04-16-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Thembelihle Luthuli,Abdulaziz Yakubu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.8677,
+    "start_date": "2019-04-16"
+  },
+  {
     "end_date": "2019-04-12",
     "url": "https://angela-li.github.io/2019-04-12-chicago/",
     "country": "US",
-    "instructors": "Angela Li",
+    "instructors": "Angela Li,Colin Quirk",
     "venue": "University of Chicago",
     "longitude": -87.601003,
     "slug": "2019-04-12-chicago",
@@ -45,12 +87,12 @@
     "end_date": "2019-04-12",
     "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
     "country": "US",
-    "instructors": null,
+    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte,Nitya Singh",
     "venue": "UF Emerging Pathogens Institute",
     "longitude": -82.351971,
     "slug": "2019-04-11-ufepi-genomics",
     "tag_name": "DC",
-    "helpers": "Geraldine Klarenberg",
+    "helpers": "Geraldine Klarenberg,Henry Senyondo,Miao Sun,Caroline Storer,Kok Ben Toh",
     "host_name": "University of Florida",
     "latitude": 29.637414,
     "start_date": "2019-04-11"
@@ -101,12 +143,12 @@
     "end_date": "2019-03-31",
     "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
     "country": "CA",
-    "instructors": "Danielle Quinn,Elnaz Bodaghkhani,Joany Mariño",
+    "instructors": "Danielle Quinn,Joany Mariño",
     "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
     "longitude": -52.73703,
     "slug": "2019-03-30-WISE2",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Emilie Novaczek,Diana Sankar",
     "host_name": "Memorial University",
     "latitude": 47.573853,
     "start_date": "2019-03-30"
@@ -162,7 +204,7 @@
     "longitude": 24.7642707,
     "slug": "2019-03-18-SPU",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Edward Jantjie",
     "host_name": "Sol Plaatjies University",
     "latitude": -28.7451135,
     "start_date": "2019-03-18"
@@ -568,10 +610,24 @@
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
     "tag_name": "DC",
-    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,Mahesh L. Maskey,Chris Miller",
+    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
     "start_date": "2019-01-03"
+  },
+  {
+    "end_date": "2018-12-19",
+    "url": "https://dagimy.github.io/2018-12-17-DC-AKU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha,Yirga Abebe",
+    "venue": "Aksum University",
+    "longitude": 38.75008,
+    "slug": "2018-12-17-DC-AKU",
+    "tag_name": "DC",
+    "helpers": "Eyerusalem Dagnew",
+    "host_name": "Addis Ababa University",
+    "latitude": 9.03314,
+    "start_date": "2018-12-17"
   },
   {
     "end_date": "2018-12-18",
@@ -616,6 +672,34 @@
     "start_date": "2018-12-06"
   },
   {
+    "end_date": "2018-12-06",
+    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-DC/",
+    "country": "ZA",
+    "instructors": "Zine Sapula,Anelda van der Walt",
+    "venue": "Durban University of Technology",
+    "longitude": 31.0039191,
+    "slug": "2018-12-04-DUT-DC",
+    "tag_name": "DC",
+    "helpers": "Thobani Njapa,Tadiwanashe Gutsa,Zolani Sita",
+    "host_name": "Durban University of Technology",
+    "latitude": -29.8536081,
+    "start_date": "2018-12-04"
+  },
+  {
+    "end_date": "2018-12-05",
+    "url": "https://workshops-ukzn.github.io/2018-12-04-UKZN-DC/",
+    "country": "ZA",
+    "instructors": "Amieroh Abrahams,Abisola Regina Sholeye,Angelique van Rensburg",
+    "venue": "Data Carpentry at UKZN, Westville Campus",
+    "longitude": 30.943994,
+    "slug": "2018-12-04-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Amira Abbas,Naomi Kingu,Samke Phehlukwayo",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.817262,
+    "start_date": "2018-12-04"
+  },
+  {
     "end_date": "2018-11-30",
     "url": "https://otagocarpentries.github.io/2018-11-29-esr/",
     "country": "NZ",
@@ -638,10 +722,38 @@
     "longitude": -121.763881,
     "slug": "2018-11-29-davis-geospatial",
     "tag_name": "DC",
-    "helpers": "Karen Word,Erin Becker,Tracy Teal,Mahesh L. Maskey,Julia Michaels",
+    "helpers": "Karen Word,Erin Becker,Tracy Teal,MAHESH MASKEY,Julia Michaels",
     "host_name": "Data Carpentry",
     "latitude": 38.532812,
     "start_date": "2018-11-29"
+  },
+  {
+    "end_date": "2018-11-28",
+    "url": "https://dagimy.github.io/2018-11-26-DC-DU/",
+    "country": "ET",
+    "instructors": "Temesgen Philipos Philipos,Mesfin Diro Chaka",
+    "venue": "Dilla University",
+    "longitude": 38.04957,
+    "slug": "2018-11-26-DC-DU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 8.64001,
+    "start_date": "2018-11-26"
+  },
+  {
+    "end_date": "2018-11-23",
+    "url": "https://dagimy.github.io/2018-11-19-DC-WKU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha,Haftu Adhena",
+    "venue": "Wolkite University",
+    "longitude": 37.77865,
+    "slug": "2018-11-19-DC-WKU",
+    "tag_name": "DC",
+    "helpers": "Bonny Adane",
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 8.28871,
+    "start_date": "2018-11-21"
   },
   {
     "end_date": "2018-11-20",
@@ -672,6 +784,20 @@
     "start_date": "2018-11-19"
   },
   {
+    "end_date": "2018-11-15",
+    "url": "https://tenet-rccpii.github.io/2018-11-13-UNIVEN/",
+    "country": "ZA",
+    "instructors": "Alphonce Bere,Glenn Moncrieff,LACTATIA MOTSUKU,Martin Canaan Mafunda",
+    "venue": "University of Venda",
+    "longitude": 30.444291,
+    "slug": "2018-11-13-UNIVEN",
+    "tag_name": "DC",
+    "helpers": "Kudakwashe Madzima",
+    "host_name": "University of Venda",
+    "latitude": -22.9761353,
+    "start_date": "2018-11-13"
+  },
+  {
     "end_date": "2018-11-14",
     "url": "https://otagocarpentries.github.io/2018-11-13-otago-dc/",
     "country": "NZ",
@@ -684,6 +810,34 @@
     "host_name": "University of Otago",
     "latitude": null,
     "start_date": "2018-11-13"
+  },
+  {
+    "end_date": "2018-11-14",
+    "url": "https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/",
+    "country": "ZA",
+    "instructors": "Danielle Quinn,Gabriel Salubi,Zak (I.W) van Heerden",
+    "venue": "University of Fort Hare - Alice Campus",
+    "longitude": 26.7897755,
+    "slug": "2018-11-12-UFH-Alice",
+    "tag_name": "DC",
+    "helpers": "Kemi Megbowon",
+    "host_name": "University of Fort Hare",
+    "latitude": -32.7891356,
+    "start_date": "2018-11-12"
+  },
+  {
+    "end_date": "2018-11-09",
+    "url": "https://TENET-RCCPII.github.io/2018-11-07-Rhodes-Uni",
+    "country": "ZA",
+    "instructors": "Anne Treasure,Danielle Quinn,Zak (I.W) van Heerden",
+    "venue": "Rhodes University",
+    "longitude": 26.5108861,
+    "slug": "2018-11-07-Rhodes-Uni",
+    "tag_name": "DC",
+    "helpers": "Afrah Khairallah",
+    "host_name": "Rhodes University",
+    "latitude": -33.3170479,
+    "start_date": "2018-11-07"
   },
   {
     "end_date": "2018-11-07",
@@ -714,6 +868,20 @@
     "start_date": "2018-11-01"
   },
   {
+    "end_date": "2018-11-02",
+    "url": "https://tenet-rccpii.github.io/2018-10-31-SMU/",
+    "country": "ZA",
+    "instructors": "Anelda van der Walt,Motlagomang Khantsi",
+    "venue": "Sefako Makgatho University",
+    "longitude": 28.0147046,
+    "slug": "2018-10-31-SMU",
+    "tag_name": "DC",
+    "helpers": "Hendrik Pieterse,Abisola Regina Sholeye,Kazeem Adekunle Alayande,Rorisang mmushi",
+    "host_name": "Sefako Makgatho Health Sciences University",
+    "latitude": -25.6211893,
+    "start_date": "2018-10-31"
+  },
+  {
     "end_date": "2018-10-26",
     "url": "https://mbrousil.github.io/2018-10-25-wsu/",
     "country": "US",
@@ -728,6 +896,20 @@
     "start_date": "2018-10-25"
   },
   {
+    "end_date": "2018-10-25",
+    "url": "https://nwu-eresearch.github.io/2018-10-25-Open-Access-Week/",
+    "country": "ZA",
+    "instructors": "Zine Sapula,Martin Dreyer",
+    "venue": "North West University, Vaal Campus Library",
+    "longitude": 27.87926,
+    "slug": "2018-10-25-Open-Access-Week",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -26.72557,
+    "start_date": "2018-10-24"
+  },
+  {
     "end_date": "2018-10-19",
     "url": "https://swc-uiuc.github.io/2018-10-18-illinois/",
     "country": "US",
@@ -740,6 +922,34 @@
     "host_name": "University of Illinois",
     "latitude": 40.1149832,
     "start_date": "2018-10-18"
+  },
+  {
+    "end_date": "2018-10-17",
+    "url": "https://mesfind.github.io/2018-10-15-DC-ADU/",
+    "country": "ET",
+    "instructors": "Mekonen kahsay,Yonas Demissew,Dagim Mengesha",
+    "venue": "Adigrat  University: Data Carpentry Workshop",
+    "longitude": 39.465704,
+    "slug": "2018-10-15-DC-ADU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Adigrat University",
+    "latitude": 14.255728,
+    "start_date": "2018-10-15"
+  },
+  {
+    "end_date": "2018-10-17",
+    "url": "https://dagimy.github.io/2018-10-15-DC-AG-TVET/",
+    "country": "ET",
+    "instructors": "Mekonen kahsay,Yonas Demissew,Dagim Mengesha",
+    "venue": "Adigrat Technical Vocational Education & Training",
+    "longitude": 39.462391,
+    "slug": "2018-10-15-DC-AG-TVET",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Addis Ababa University",
+    "latitude": 14.28085,
+    "start_date": "2018-10-15"
   },
   {
     "end_date": "2018-10-07",
@@ -796,6 +1006,48 @@
     "host_name": "University of Illinois",
     "latitude": 40.1047754,
     "start_date": "2018-09-27"
+  },
+  {
+    "end_date": "2018-09-28",
+    "url": "https://jsan4christ.github.io/2018-09-27-ukzn/",
+    "country": "ZA",
+    "instructors": "James San,Katrin Tirok",
+    "venue": "Data Carpentry, in UKZN",
+    "longitude": 30.987891,
+    "slug": "2018-09-27-ukzn",
+    "tag_name": "DC",
+    "helpers": "Armstrong Dzomba,Vagner Fonseca,Tadiwanashe Gutsa,Yared Abera",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.882179,
+    "start_date": "2018-09-27"
+  },
+  {
+    "end_date": "2018-09-28",
+    "url": "https://mesfind.github.io/2018-09-26-DC-UOG/",
+    "country": "ET",
+    "instructors": "DAGIM YOSEPH,Mesfin Diro Chaka,Alehegn Adane Kinde",
+    "venue": "University of Gonder: Data Carpentry Workshop",
+    "longitude": 37.442935,
+    "slug": "2018-09-26-DC-UOG",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Gondar",
+    "latitude": 12.582234,
+    "start_date": "2018-09-26"
+  },
+  {
+    "end_date": "2018-09-19",
+    "url": "https://mesfind.github.io/2018-09-17-DC-DMU/",
+    "country": "ET",
+    "instructors": "Haleluya Kiflu,Tatek Kassu Tola,Mesfin Diro Chaka",
+    "venue": "Debre-Markos University: Data Carpentry Workshop",
+    "longitude": 37.741036,
+    "slug": "2018-09-17-DC-DMU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Debre Markos University",
+    "latitude": 10.33364,
+    "start_date": "2018-09-17"
   },
   {
     "end_date": "2018-09-15",
@@ -879,6 +1131,20 @@
     "helpers": "Angelique van Rensburg,Mojalefa Malahlela,Tadiwanashe Gutsa",
     "host_name": "Talarify",
     "latitude": -26.175525,
+    "start_date": "2018-09-03"
+  },
+  {
+    "end_date": "2018-09-04",
+    "url": "https://mesfind.github.io/2018-09-03-DC-Wollo/",
+    "country": "ET",
+    "instructors": "Muhdin Ali,Mesfin Diro Chaka",
+    "venue": "Wollo University: Data Carpentry Workshop",
+    "longitude": 36.88995,
+    "slug": "2018-09-03-DC-Wollo",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Wollo University",
+    "latitude": 9.90001,
     "start_date": "2018-09-03"
   },
   {
@@ -1036,6 +1302,20 @@
     "start_date": "2018-07-19"
   },
   {
+    "end_date": "2018-07-20",
+    "url": "https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/",
+    "country": "ZA",
+    "instructors": "Caroline Ajilogba,Martin Dreyer,Motlagomang Khantsi,Rhoda Aremu",
+    "venue": "North-West University - Mahikeng Campus",
+    "longitude": 25.6088492,
+    "slug": "2018-07-18-NWU-Mafikeng",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -25.8255172,
+    "start_date": "2018-07-18"
+  },
+  {
     "end_date": "2018-07-13",
     "url": "https://tenet-rccpii.github.io/2018-07-11-UMP/",
     "country": "ZA",
@@ -1162,6 +1442,20 @@
     "start_date": "2018-06-22"
   },
   {
+    "end_date": "2018-06-21",
+    "url": "https://african-carpentries.github.io/2018-06-21-DIRISA/",
+    "country": "ZA",
+    "instructors": "Bianca Peterson,Angelique van Rensburg",
+    "venue": "1-Day R Workshop in association with DIRISA National Research Data Workshop",
+    "longitude": 28.2745998,
+    "slug": "2018-06-21-DIRISA",
+    "tag_name": "DC",
+    "helpers": "Martin Dreyer,Leani Bothma",
+    "host_name": "CSIR (Council for Scientific and Industrial Research)",
+    "latitude": -25.7530047,
+    "start_date": "2018-06-21"
+  },
+  {
     "end_date": "2018-06-22",
     "url": "https://kokbent.github.io/2018-06-21-gatech/",
     "country": "US",
@@ -1188,6 +1482,20 @@
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2018-06-18"
+  },
+  {
+    "end_date": "2018-06-15",
+    "url": "https://amfdrey.github.io/2018-06-14-NWU/",
+    "country": "ZA",
+    "instructors": "Martin Dreyer,Zine Sapula,Bianca Peterson,Zak (I.W) van Heerden",
+    "venue": "North West University, Potchefstroom Campus, Besembos, Ferdinand Postma Library",
+    "longitude": 27.092015,
+    "slug": "2018-06-14-NWU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -26.689181,
+    "start_date": "2018-06-14"
   },
   {
     "end_date": "2018-06-14",
@@ -1347,12 +1655,12 @@
     "end_date": "2018-05-11",
     "url": "https://ufshpc.github.io/2018-05-09-ufs/",
     "country": "ZA",
-    "instructors": "Isak van der Walt,Zine Sapula",
+    "instructors": "Isak van der Walt,Zine Sapula,Isak Van der Walt,Gabriel Salubi",
     "venue": "University of the Free State",
     "longitude": 26.1832159,
     "slug": "2018-05-09-ufs",
     "tag_name": "DC",
-    "helpers": "Fanie Riekert,Oghenere Salubi,Funmilola Kemi Megbowon",
+    "helpers": "Fanie Riekert,Oghenere Salubi,Funmilola Kemi Megbowon,Kemi Megbowon",
     "host_name": "University of the Free State",
     "latitude": -29.1091105,
     "start_date": "2018-05-09"
@@ -1512,6 +1820,20 @@
     "start_date": "2018-03-20"
   },
   {
+    "end_date": "2018-04-24",
+    "url": "https://tenet-rccpii.github.io/2018-03-20-online/",
+    "country": "ZA",
+    "instructors": "Anelda van der Walt,Caroline Ajilogba,Katrin Tirok,Kayleigh Lino,LACTATIA MOTSUKU",
+    "venue": "RCCPII Online Mentoring",
+    "longitude": 18.4654324,
+    "slug": "2018-03-20-online",
+    "tag_name": "DC",
+    "helpers": "Erika Mias",
+    "host_name": "Talarify",
+    "latitude": -34.003139,
+    "start_date": "2018-03-20"
+  },
+  {
     "end_date": "2018-03-16",
     "url": "https://katrintirok.github.io/2018-03-15-satRday/",
     "country": "ZA",
@@ -1652,6 +1974,20 @@
     "start_date": "2018-02-04"
   },
   {
+    "end_date": "2018-02-01",
+    "url": "https://dh-southernafrica.github.io/2018-01-31-WITS/",
+    "country": "ZA",
+    "instructors": "Martin Canaan Mafunda,Juan Steyn,Caroline Ajilogba",
+    "venue": "Wits University",
+    "longitude": 28.0260775,
+    "slug": "2018-01-31-WITS",
+    "tag_name": "DC",
+    "helpers": "Alphonce Bere,LACTATIA MOTSUKU",
+    "host_name": "North-West University",
+    "latitude": -26.1904893,
+    "start_date": "2018-01-31"
+  },
+  {
     "end_date": "2018-01-30",
     "url": "https://liz-is.github.io/2018-01-29-maxplanck/",
     "country": "DE",
@@ -1683,12 +2019,12 @@
     "end_date": "2018-01-12",
     "url": "https://katrintirok.github.io/2018-01-11-UKZN-Civil/",
     "country": "ZA",
-    "instructors": "Katrin Tirok,Justin Pringle",
+    "instructors": "Katrin Tirok,Justin Pringle,Justin Pringle",
     "venue": "UKZN, Civil Engineering",
     "longitude": 30.982171,
     "slug": "2018-01-11-UKZN-Civil",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Atish Deoraj,Clinton Chrystal",
     "host_name": "University of KwaZulu Natal",
     "latitude": -29.866063,
     "start_date": "2018-01-11"

@@ -1,45 +1,17 @@
 [
   {
-    "end_date": "2019-04-17",
-    "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
-    "country": "ZA",
-    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
-    "venue": "Data Carpentry at UKZN, Howard College",
-    "longitude": 30.9797,
-    "slug": "2019-04-16-UKZN-DC",
+    "end_date": "2019-05-01",
+    "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
+    "country": "GB",
+    "instructors": "Edward Wallace,Steve Thorn,Shaun Webb",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2019-04-23-Edinburgh-Dc-Genomics",
     "tag_name": "DC",
-    "helpers": "Thembelihle Luthuli,Abdulaziz Yakubu",
-    "host_name": "University of KwaZulu Natal",
-    "latitude": -29.8677,
-    "start_date": "2019-04-16"
-  },
-  {
-    "end_date": "2019-04-18",
-    "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
-    "country": "HU",
-    "instructors": "Dmytro Fishman,Mark Robinson",
-    "venue": "Semmelweis University Data Carpentry Workshop",
-    "longitude": 19.06711,
-    "slug": "2019-04-17-semmelweis",
-    "tag_name": "DC",
-    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
-    "host_name": "Semmelweis University",
-    "latitude": 47.4873,
-    "start_date": "2019-04-17"
-  },
-  {
-    "end_date": "2019-04-19",
-    "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
-    "country": "US",
-    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
-    "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
-    "longitude": -96.005624,
-    "slug": "2019-04-18-okstate",
-    "tag_name": "DC",
-    "helpers": "Evan Linde",
-    "host_name": "Oklahoma State University",
-    "latitude": 36.137965,
-    "start_date": "2019-04-18"
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2019-04-23"
   },
   {
     "end_date": "2019-04-30",
@@ -84,6 +56,34 @@
     "start_date": "2019-05-02"
   },
   {
+    "end_date": "2019-05-07",
+    "url": "https://edcarp.github.io/2019-05-06-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Chris Hill,Andrzej Romaniuk",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.184216,
+    "slug": "2019-05-06-edinburgh",
+    "tag_name": "DC",
+    "helpers": "Lucia Michielin",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.946934,
+    "start_date": "2019-05-06"
+  },
+  {
+    "end_date": "2019-05-30",
+    "url": "https://otagocarpentries.github.io/2019-05-09-otago/",
+    "country": "NZ",
+    "instructors": "Murray Cadzow,Mik Black",
+    "venue": "Department of Biochemistry, University of Otago",
+    "longitude": 170.51267,
+    "slug": "2019-05-09-otago",
+    "tag_name": "DC",
+    "helpers": "Matt Bixley",
+    "host_name": "University of Otago",
+    "latitude": -45.86442,
+    "start_date": "2019-05-09"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -112,6 +112,20 @@
     "start_date": "2019-05-15"
   },
   {
+    "end_date": "2019-05-22",
+    "url": "https://adivea.github.io/2019-05-21-AU-DC/",
+    "country": "AU",
+    "instructors": "Adela Sobotkova",
+    "venue": "Aarhus University",
+    "longitude": 151.112545,
+    "slug": "2019-05-21-AU-DC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Aarhus University",
+    "latitude": -33.775015,
+    "start_date": "2019-05-21"
+  },
+  {
     "end_date": "2019-05-24",
     "url": "https://damienirving.github.io/2019-05-23-bom/",
     "country": "AU",
@@ -138,6 +152,20 @@
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-05-31"
+  },
+  {
+    "end_date": "2019-06-05",
+    "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
+    "country": "GB",
+    "instructors": "Iain Emsley",
+    "venue": "Edinburgh University",
+    "longitude": -1.260328,
+    "slug": "2019-06-04-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 51.764476,
+    "start_date": "2019-06-04"
   },
   {
     "end_date": "2019-06-10",
