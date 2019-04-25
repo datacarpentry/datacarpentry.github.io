@@ -14,9 +14,9 @@ cd ../"$REPO_NAME"  || exit
 
 git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO_ORG"/"$REPO_NAME".git
 
-git checkout gh-pages
+git checkout master
 git add _data/*.json
 git commit -m "[ci skip] update workshop data"
-git push deploy gh-pages
+git push deploy master
 
 rm -rf ../feed-data
