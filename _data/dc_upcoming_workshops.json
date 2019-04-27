@@ -15,6 +15,20 @@
   },
   {
     "end_date": "2019-04-30",
+    "url": "https://rociotmartinez.github.io/2019-04-29-KCL/",
+    "country": "GB",
+    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
+    "venue": "King's College London",
+    "longitude": -74.044636,
+    "slug": "2019-04-29-KCL",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "King's College",
+    "latitude": 40.68906,
+    "start_date": "2019-04-29"
+  },
+  {
+    "end_date": "2019-04-30",
     "url": "https://picardis.github.io/2019-04-29-uf-trec/",
     "country": "US",
     "instructors": "Simona Picardi,Zack Brym",
@@ -138,6 +152,20 @@
     "host_name": "Australian Bureau of Meteorology",
     "latitude": -37.81974,
     "start_date": "2019-05-23"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://marwahaha.github.io/2019-05-30-nas/",
+    "country": "US",
+    "instructors": "Jennifer Shelton,Kunal Marwaha",
+    "venue": "National Academy of Sciences",
+    "longitude": -90.06167,
+    "slug": "2019-05-30-nas",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Academy of Science",
+    "latitude": 29.93766,
+    "start_date": "2019-05-30"
   },
   {
     "end_date": "2019-05-31",

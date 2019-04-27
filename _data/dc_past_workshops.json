@@ -8,7 +8,7 @@
     "longitude": -96.005624,
     "slug": "2019-04-18-okstate",
     "tag_name": "DC",
-    "helpers": "Evan Linde",
+    "helpers": "Evan Linde,Kevin Drees,Peter Hoyt,Hua Lin,Michael Anderson,Gerwald Koehler",
     "host_name": "Oklahoma State University",
     "latitude": 36.137965,
     "start_date": "2019-04-18"
@@ -50,7 +50,7 @@
     "longitude": -87.601003,
     "slug": "2019-04-12-chicago",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Lilian Huang ,Cecile Murray ",
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-04-12"
@@ -64,7 +64,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
-    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement,William Bonnett ",
+    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement",
     "host_name": "George Washington University",
     "latitude": 38.899235,
     "start_date": "2019-04-11"
@@ -87,12 +87,12 @@
     "end_date": "2019-04-12",
     "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
     "country": "US",
-    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte,Nitya Singh",
+    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte,Nitya Singh,Oleksandr Moskalenko ",
     "venue": "UF Emerging Pathogens Institute",
     "longitude": -82.351971,
     "slug": "2019-04-11-ufepi-genomics",
     "tag_name": "DC",
-    "helpers": "Geraldine Klarenberg,Henry Senyondo,Miao Sun,Caroline Storer,Kok Ben Toh",
+    "helpers": "Geraldine Klarenberg,Henry Senyondo,Miao Sun,Caroline Storer,Kok Ben Toh,Stefano Nembrini ,Dan Stribiling ",
     "host_name": "University of Florida",
     "latitude": 29.637414,
     "start_date": "2019-04-11"
@@ -106,7 +106,7 @@
     "longitude": 5.169072,
     "slug": "2019-04-08-Utrecht",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Boas Van der Putten,Axel Janssen",
     "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
     "latitude": 52.085393,
     "start_date": "2019-04-08"
@@ -120,7 +120,7 @@
     "longitude": 28.0369,
     "slug": "2019-04-03-satRday-jhb",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Chris Marais,Warren Freeborough,Silviu Tomescu,Lizette Loubser",
     "host_name": "North-West University",
     "latitude": -26.1808,
     "start_date": "2019-04-03"
