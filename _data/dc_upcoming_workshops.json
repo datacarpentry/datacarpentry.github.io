@@ -14,34 +14,6 @@
     "start_date": "2019-04-23"
   },
   {
-    "end_date": "2019-04-30",
-    "url": "https://rociotmartinez.github.io/2019-04-29-KCL/",
-    "country": "GB",
-    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
-    "venue": "King's College London",
-    "longitude": -74.044636,
-    "slug": "2019-04-29-KCL",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "King's College",
-    "latitude": 40.68906,
-    "start_date": "2019-04-29"
-  },
-  {
-    "end_date": "2019-04-30",
-    "url": "https://picardis.github.io/2019-04-29-uf-trec/",
-    "country": "US",
-    "instructors": "Simona Picardi,Zack Brym",
-    "venue": "UF Tropical Research and Education Center",
-    "longitude": -80.498971,
-    "slug": "2019-04-29-uf-trec",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Florida",
-    "latitude": 25.506636,
-    "start_date": "2019-04-29"
-  },
-  {
     "end_date": "2019-05-02",
     "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
     "country": "US",
