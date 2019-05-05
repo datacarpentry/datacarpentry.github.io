@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-03",
+    "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
+    "country": "US",
+    "instructors": "Nora Mitchell,David Welch",
+    "venue": "Southwestern University",
+    "longitude": null,
+    "slug": "2019-05-02-southwestern",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
+    "latitude": null,
+    "start_date": "2019-05-02"
+  },
+  {
     "end_date": "2019-05-02",
     "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
     "country": "US",
