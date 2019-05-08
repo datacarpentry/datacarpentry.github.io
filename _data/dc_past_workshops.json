@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-07",
+    "url": "https://edcarp.github.io/2019-05-06-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Chris Hill,Andrzej Romaniuk",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.184216,
+    "slug": "2019-05-06-edinburgh",
+    "tag_name": "DC",
+    "helpers": "Lucia Michielin",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.946934,
+    "start_date": "2019-05-06"
+  },
+  {
     "end_date": "2019-05-03",
     "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
     "country": "US",
