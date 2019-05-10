@@ -19,12 +19,12 @@
     "country": "US",
     "instructors": "Nora Mitchell,David Welch",
     "venue": "Southwestern University",
-    "longitude": null,
+    "longitude": -97.6640784,
     "slug": "2019-05-02-southwestern",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
-    "latitude": null,
+    "latitude": 30.635744,
     "start_date": "2019-05-02"
   },
   {
@@ -59,7 +59,7 @@
     "end_date": "2019-04-30",
     "url": "https://picardis.github.io/2019-04-29-uf-trec/",
     "country": "US",
-    "instructors": "Simona Picardi,Zack Brym",
+    "instructors": "Simona Picardi,Zack Brym,Matt Boone",
     "venue": "UF Tropical Research and Education Center",
     "longitude": -80.498971,
     "slug": "2019-04-29-uf-trec",

@@ -99,6 +99,20 @@
   },
   {
     "end_date": "2019-06-05",
+    "url": "https://estherplomp.github.io/2019-06-04-Delft/",
+    "country": "NL",
+    "instructors": "Raúl Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
+    "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
+    "longitude": 4.357068,
+    "slug": "2019-06-04-Delft",
+    "tag_name": "DC",
+    "helpers": "Nicolas Dintzner,Kees den Heijer",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.011578,
+    "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
     "instructors": "Iain Emsley",
