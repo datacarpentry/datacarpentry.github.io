@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-14",
+    "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
+    "country": "BE",
+    "instructors": "Mateusz Kuzak,Toby Hodges",
+    "venue": "ELIXIR-BE",
+    "longitude": 3.70654,
+    "slug": "2019-05-13-Ghent",
+    "tag_name": "DC",
+    "helpers": "Christof De Bo",
+    "host_name": "ELIXIR-UK",
+    "latitude": 51.033718,
+    "start_date": "2019-05-13"
+  },
+  {
     "end_date": "2019-05-07",
     "url": "https://edcarp.github.io/2019-05-06-edinburgh/",
     "country": "GB",
@@ -106,7 +120,7 @@
     "longitude": 19.06711,
     "slug": "2019-04-17-semmelweis",
     "tag_name": "DC",
-    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
+    "helpers": "Endre Sebestyén,Tibor Nagy,Krisztina Rigó",
     "host_name": "Semmelweis University",
     "latitude": 47.4873,
     "start_date": "2019-04-17"
@@ -596,7 +610,7 @@
     "longitude": -77.07993,
     "slug": "2019-01-25-gmu",
     "tag_name": "DC",
-    "helpers": "Debby Kermer,Wendy Mann",
+    "helpers": "Deborah (Debby) Kermer,Wendy Mann",
     "host_name": "George Mason University",
     "latitude": 38.888309,
     "start_date": "2019-01-25"
