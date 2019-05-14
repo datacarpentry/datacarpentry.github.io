@@ -274,7 +274,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for R social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R social science lesson"></a></td>
-    <td>Juan Fung</td>
+    <td>Juan Fung, Angela Li</td>
 </tr>
 
 </table>
