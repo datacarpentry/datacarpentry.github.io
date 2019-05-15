@@ -15,7 +15,7 @@ authors: ["Jason Williams", "Erin Becker", "Francois Michonneau"]
 This February, a small group of committed community members, led by Taylor Reiter at the University of California, Davis, 
 completed a major update to the Data Carpentry Genomics curriculum. A huge thank you to everyone who contributed! This update 
 included significant changes to both the data set and the software used for the lessons, modernizing the workshop and keeping it 
-relevant to researchers working in the genomics field. The [new version of this curriculum](https://datacarpentry.org/genomics-workshop/) is already live and will be officially published in the [upcoming lesson release in June](). 
+relevant to researchers working in the genomics field. The [new version of this curriculum](https://datacarpentry.org/genomics-workshop/) is already live and will be officially published in the [upcoming lesson release in June](https://carpentries.org/blog/2019/05/lesson-release/). 
 
 In parallel with these updates to the core Genomics workshop curriculum, Maintainers of the [Data Analysis and Visualization in R for Genomics lesson](https://datacarpentry.org/genomics-r-intro/) have completely revamped their lesson. While previous versions focused on analysis of a small metadata dataset and was disconnected from the narrative of the remaining Genomics lessons, this revised version picks up where the core lessons leave off in analyzing and visualizing output from a variant calling pipeline. 
 
