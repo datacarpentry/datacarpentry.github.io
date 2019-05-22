@@ -8,7 +8,7 @@
     "longitude": 38.499797,
     "slug": "2019-05-15-DC-HU",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
     "start_date": "2019-05-15"
@@ -78,7 +78,7 @@
     "longitude": -77.104737,
     "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Bin Guan",
     "host_name": "National Institutes of Health",
     "latitude": 39.000789,
     "start_date": "2019-05-01"
