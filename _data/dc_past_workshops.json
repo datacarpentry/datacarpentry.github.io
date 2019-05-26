@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-05-24",
+    "url": "https://damienirving.github.io/2019-05-23-bom/",
+    "country": "AU",
+    "instructors": "Damien Irving",
+    "venue": "Australian Bureau of Meteorology",
+    "longitude": 144.95108,
+    "slug": "2019-05-23-bom",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Australian Bureau of Meteorology",
+    "latitude": -37.81974,
+    "start_date": "2019-05-23"
+  },
+  {
+    "end_date": "2019-05-24",
+    "url": "https://katiecoburn.github.io/2019-05-23-katiecoburn/",
+    "country": "US",
+    "instructors": "Matthias Bussonnier,Eve Bohnett",
+    "venue": "The University of California, Merced",
+    "longitude": -120.431913,
+    "slug": "2019-05-23-katiecoburn",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.363285,
+    "start_date": "2019-05-23"
+  },
+  {
     "end_date": "2019-05-22",
     "url": "https://adivea.github.io/2019-05-21-AU-DC/",
     "country": "AU",
