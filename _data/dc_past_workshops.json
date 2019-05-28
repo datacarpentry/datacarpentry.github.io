@@ -2971,7 +2971,7 @@
     "end_date": "2017-06-02",
     "url": "https://hpcarcher.github.io/2017-06-01-Belfast/",
     "country": "GB",
-    "instructors": "Emmanouil Farsarakis,Juan Rodriguez Herrera",
+    "instructors": "Emmanouil Farsarakis,Juan Herrera",
     "venue": "The Queen's University Belfast",
     "longitude": -5.934326,
     "slug": "2017-06-01-Belfast",
@@ -3410,7 +3410,7 @@
     "longitude": -3.174546,
     "slug": "2016-11-02-EPCC",
     "tag_name": "DC",
-    "helpers": "Clair Barrass,Amrey Krause,Juan Rodriguez Herrera,Dan Holmes",
+    "helpers": "Clair Barrass,Amrey Krause,Juan Herrera,Dan Holmes",
     "host_name": "Edinburgh Parallel Computing Centre",
     "latitude": 55.92155,
     "start_date": "2016-11-02"
