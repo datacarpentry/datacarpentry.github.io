@@ -70,7 +70,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td>Data Organization in Spreadsheets for Ecologists</td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-browser" title="Website for Spreadsheet Ecology lesson"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Spreadsheet Ecology lesson"></a></td>	
-	<td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for Spreadsheet Ecology"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Spreadsheet Ecology"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Christie Bahlai, Tracy Teal, Peter R. Hoyt</td>
   </tr>
@@ -78,7 +78,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td>Data Cleaning with OpenRefine for Ecologists</td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-browser" title="Website for OpenRefine Ecology lesson"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="Repository for OpenRefine Ecology Lesson"></a></td>
-	<td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for OpenRefine Ecology Lesson"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Deborah Paul, Cam Macdonell</td>
   </tr>
@@ -102,7 +102,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td>Data Analysis and Visualization in Python for Ecologists</td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/" target="_blank" class="icon-browser" title="Website for python ecology lesson"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="Repository for python ecology lesson"></a></td>
-	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference/" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>April Wright, Maxim Belkin, Tania Allard</td>
   </tr>	
@@ -165,7 +165,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Project Organization and Management for Genomics</td>
     <td><a href="{{site.dc_website_url}}/organization-genomics" target="_blank" class="icon-browser" title="Website for Project organization in genomics"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="Repository for Project organization in genomics"></a></td>
-	<td><a href="{{site.dc_github_site_url}}/organization-genomics/reference/" target="_blank" class="icon-eye" title="Reference for project organization and management"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/organization-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for project organization and management"></a></td>
     <td><a href="{{site.dc_github_site_url}}/organization-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for project organization and management"></a></td>
     <td>Roselyn Lemus, Yujuan Gui, Mateusz Kuzak, Rayna Harris, Peter Hoyt</td>
 </tr>
@@ -173,7 +173,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Introduction to the Command Line for Genomics</td>
     <td><a href="{{site.dc_website_url}}/shell-genomics/" target="_blank" class="icon-browser" title="Website for shell genomics lesson"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="Repository for shell genomics lesson"></a></td>
-   	<td><a href="{{site.dc_github_site_url}}/shell-genomics/reference/" target="_blank" class="icon-eye" title="Reference for shell genomics lesson"></a></td>
+   	<td><a href="{{site.dc_github_site_url}}/shell-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for shell genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/shell-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for shell genomics lesson"></a></td>
     <td>Shichen Wang, Anita Schürch, Bastian Greshak</td>
   </tr>
@@ -181,7 +181,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Data Wrangling and Processing for Genomics</td>
     <td><a href="{{site.dc_website_url}}/wrangling-genomics/" target="_blank" class="icon-browser" title="Website for Data wrangling genomics lesson"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="Repository for Data wrangling genomics lesson"></a></td>
-   <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/reference/" target="_blank" class="icon-eye" title="Reference for data wrangling genomics lesson"></a></td>
+   <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for data wrangling genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for data wrangling genomics lesson"></a></td>
     <td>Josh Herr, Fotis Psomopoulos</td>
   </tr>
@@ -189,7 +189,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Introduction to Cloud Computing for Genomics</td>
     <td><a href="{{site.dc_website_url}}/cloud-genomics" target="_blank" class="icon-browser" title="Website for introduction to cloud computing for genomics lesson"></a></td>
    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="Repository for introduction to cloud computing for genomics lesson"></a></td>
-   <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference/" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
+   <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/cloud-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for cloud computing for genomics lesson"></a></td>
     <td>Bob Freeman, Darya Vanichkina, Kevin Buckley, Amanda Charbonneau</td>
   </tr>
@@ -211,7 +211,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Data Analysis and Visualization in R *alpha*</td>
     <td><a href="{{site.dc_website_url}}/genomics-r-intro/" target="_blank" class="icon-browser" title="Website for data analysis of genomics data in R"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/genomics-r-intro/" target="_blank" class="icon-github" title="Repository for data analysis of genomics data in R"></a></td>
-	<td><a href="{{site.dc_github_site_url}}/genomics-r-intro/reference/" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
+	<td><a href="{{site.dc_github_site_url}}/genomics-r-intro/reference.html" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/genomics-r-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R genomics lesson"></a></td>
     <td>Naupaka Zimmerman, Ahmed Moustafa, Krzysztof Poterlowicz, Jason Williams</td>
   </tr>
@@ -256,7 +256,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td>Data Organization in Spreadsheets for Social Scientists</td>
     <td><a href="http://www.datacarpentry.org/spreadsheets-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for spreadsheets social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for spreadsheets social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for spreadsheets social science lesson"></a></td>
     <td>Chris Prener</td>
 </tr>
@@ -264,7 +264,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td>Data Cleaning with OpenRefine for Social Scientists</td>
     <td><a href="http://www.datacarpentry.org/openrefine-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for OpenRefine social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for OpenRefine social science lesson"></a></td>
     <td>Geoff LaFlair</td>
 </tr>
@@ -272,7 +272,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td>Data Analysis and Visualization with R for Social Scientists</td>
     <td><a href="http://www.datacarpentry.org/r-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for R social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for R social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R social science lesson"></a></td>
     <td>Juan Fung, Angela Li</td>
 </tr>
@@ -294,7 +294,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td>Data Analysis and Visualization with Python for Social Scientists *alpha*</td>
     <td><a href="http://www.datacarpentry.org/python-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for Python social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Python social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python social science lesson"></a></td>
     <td>Stephen Childs, Geoffrey Boushey</td>
 </tr>
@@ -302,7 +302,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td>Data Management with SQL for Social Scientists *alpha*</td>
     <td><a href="http://www.datacarpentry.org/sql-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/sql-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for SQL social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/sql-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for SQL social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for SQL social science lesson"></a></td>
     <td>Peter Smyth</td>
 </tr>
@@ -346,7 +346,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td>Introduction to Geospatial Concepts</td>
         <td><a href="{{site.dc_website_url}}/organization-geospatial/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
         <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Concepts lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Concepts lesson"></a></td>
         <td>&nbsp;</td>
         <td>Tyson Swetnam, Chris Prener</td>
     </tr>
@@ -354,7 +354,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td>Introduction to R for Geospatial Data</td>
         <td><a href="{{site.dc_website_url}}/r-intro-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to R for Geospatial Data lesson"></a></td>
         <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to R for Geospatial Data lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to R for Geospatial Data lesson"></a></td>
         <td>Lachlan Deer, Juan Fung</td>        
     </tr>
@@ -362,7 +362,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td>Introduction to Geospatial Raster and Vector Data with R</td>
         <td><a href="{{site.dc_website_url}}/r-raster-vector-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="Repository for  Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference/" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td>Joseph Stachelek, Lauren O'Brien, Jane Wyngaard</td>
   </tr>
