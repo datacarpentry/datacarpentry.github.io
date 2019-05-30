@@ -387,12 +387,12 @@ If you are interested in following or being involved in development of this curr
 ### <a id="image-analysis-curriculum"></a> Image analysis Curriculum
 
 With support from an NSF iUSE grant, Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA have developed
-a curriculum for teaching image analysis in Python. The [materials are available](https://mmeysenburg.github.io/image-processing/),
+a curriculum for teaching image analysis in Python. The [materials are available](https://datacarpentry.org/image-processing/),
 and are being piloted locally. This pilot phase will be followed by a clean-up phase to incorporate suggestions and feedback from the
 pilots into the lessons and to make the lessons teachable by the broader community.
 
 If you are interested in contributing to this curriculum, please visit its 
-[GitHub repository](https://github.com/mmeysenburg/image-processing/). For broader discussion about image analysis curriculum 
+[GitHub repository](https://datacarpentry.org/image-processing/). For broader discussion about image analysis curriculum 
 development, sign up for the [image-analysis-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image).
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
