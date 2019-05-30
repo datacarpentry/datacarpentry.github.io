@@ -140,6 +140,8 @@ The focus of this workshop is on working with genomics data, and data management
 command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
 cloud computing.
 
+More information about hosting and teaching a Genomics workshop can be found on our [FAQ page]({{site.dc_github_site_url}}/genomics-workshop/faq/).
+
 Please note that workshop materials for working with Genomics data in R in "alpha" development.  These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries' official lesson offerings.
 
 #### Lessons
@@ -157,7 +159,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Genomics Workshop Overview</td>
     <td><a href="{{site.dc_github_site_url}}/genomics-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/genomics-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
-	<td>&nbsp;</td>
+	<td><a href="{{site.dc_github_site_url}}/genomics-workshop/faq/" target="_blank" class="icon-eye" title="Genomics Workshop FAQ"></a></td>
     <td>&nbsp;</td>
     <td>Erin Becker</td>
   </tr>
