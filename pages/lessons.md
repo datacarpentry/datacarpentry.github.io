@@ -159,8 +159,8 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Genomics Workshop Overview</td>
     <td><a href="{{site.dc_github_site_url}}/genomics-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/genomics-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
-	<td><a href="{{site.dc_github_site_url}}/genomics-workshop/faq/" target="_blank" class="icon-eye" title="Genomics Workshop FAQ"></a></td>
-    <td>&nbsp;</td>
+    <td><a href="{{site.dc_github_site_url}}/genomics-workshop/faq/" target="_blank" class="icon-eye" title="Genomics Workshop FAQ"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/genomics-workshop/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for overall workshop"></td>
     <td>Erin Becker</td>
   </tr>
   <tr>
