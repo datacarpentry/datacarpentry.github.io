@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-05-31",
+    "url": "https://angela-li.github.io/2019-05-31-chicago/",
+    "country": "US",
+    "instructors": "Angela Li",
+    "venue": "Center for Spatial Data Science, University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-05-31-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-05-31"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://marwahaha.github.io/2019-05-30-nas/",
+    "country": "US",
+    "instructors": "Jennifer Shelton,Kunal Marwaha",
+    "venue": "National Academy of Sciences",
+    "longitude": -90.06167,
+    "slug": "2019-05-30-nas",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Academy of Science",
+    "latitude": 29.93766,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/",
+    "country": "US",
+    "instructors": "François Michonneau,Sarah Stevens,Jason Williams",
+    "venue": "University of Arizona",
+    "longitude": -110.94934,
+    "slug": "2019-05-30-uofarizona",
+    "tag_name": "DC",
+    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan",
+    "host_name": "University of Arizona",
+    "latitude": 32.231834,
+    "start_date": "2019-05-30"
+  },
+  {
     "end_date": "2019-05-29",
     "url": "https://esr-nz.github.io/2019-05-28-DC-ESR-MASC/",
     "country": "NZ",
