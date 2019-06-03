@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-04",
+    "url": "https://rociotmartinez.github.io/2019-06-03-KCL",
+    "country": "GB",
+    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
+    "venue": "King's College London",
+    "longitude": -0.096739,
+    "slug": "2019-06-03-KCL",
+    "tag_name": "DC",
+    "helpers": "Rocio Martinez Nunez,Mohab Helmy",
+    "host_name": "King's College London",
+    "latitude": 51.517146,
+    "start_date": "2019-06-03"
+  },
+  {
     "end_date": "2019-06-05",
     "url": "https://estherplomp.github.io/2019-06-04-Delft/",
     "country": "NL",
@@ -31,12 +45,12 @@
     "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
-    "instructors": "Iain Emsley,Stephen Worthington",
+    "instructors": "Iain Emsley,Stephen Worthington,Patrick McCann,Lucia Michielin",
     "venue": "Edinburgh University",
     "longitude": -1.260328,
     "slug": "2019-06-04-edinburgh",
     "tag_name": "DC",
-    "helpers": "Lucia Michielin",
+    "helpers": "Adam Ferron,Justin Chun-ting Ho,Luis Reyes,Kevin Le",
     "host_name": "University of Edinburgh",
     "latitude": 51.764476,
     "start_date": "2019-06-04"
