@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-06-05",
+    "url": "https://estherplomp.github.io/2019-06-04-Delft/",
+    "country": "NL",
+    "instructors": "Raúl Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
+    "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
+    "longitude": 4.357068,
+    "slug": "2019-06-04-Delft",
+    "tag_name": "DC",
+    "helpers": "Nicolas Dintzner,Kees den Heijer",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.011578,
+    "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-05",
+    "url": "https://itcarroll.github.io/2019-06-04-carnegie/",
+    "country": "US",
+    "instructors": "Ian Carroll,Ryan Clement",
+    "venue": "Carnegie Mellon University",
+    "longitude": -79.9438,
+    "slug": "2019-06-04-carnegie",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": 40.4411,
+    "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-05",
+    "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
+    "country": "GB",
+    "instructors": "Iain Emsley,Stephen Worthington,Patrick McCann,Lucia Michielin",
+    "venue": "Edinburgh University",
+    "longitude": -1.260328,
+    "slug": "2019-06-04-edinburgh",
+    "tag_name": "DC",
+    "helpers": "Adam Ferron,Justin Chun-ting Ho,Luis Reyes,Kevin Le",
+    "host_name": "University of Edinburgh",
+    "latitude": 51.764476,
+    "start_date": "2019-06-04"
+  },
+  {
     "end_date": "2019-06-04",
     "url": "https://rociotmartinez.github.io/2019-06-03-KCL",
     "country": "GB",
@@ -50,7 +92,7 @@
     "longitude": -110.94934,
     "slug": "2019-05-30-uofarizona",
     "tag_name": "DC",
-    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan",
+    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan,Cesar Medina,Travis Struck",
     "host_name": "University of Arizona",
     "latitude": 32.231834,
     "start_date": "2019-05-30"
@@ -106,7 +148,7 @@
     "longitude": 151.112545,
     "slug": "2019-05-21-AU-DC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Joachim Holmen Frost",
     "host_name": "Aarhus University",
     "latitude": -33.775015,
     "start_date": "2019-05-21"
