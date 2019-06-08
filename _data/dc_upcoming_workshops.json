@@ -14,20 +14,6 @@
     "start_date": "2019-06-10"
   },
   {
-    "end_date": "2019-06-12",
-    "url": "https://angela-li.github.io/2019-06-11-mbdh/",
-    "country": "US",
-    "instructors": "Ahsan Ali Khoja,Angela Li",
-    "venue": "Turtle Mountain Transportation Building",
-    "longitude": -99.748667,
-    "slug": "2019-06-11-mbdh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of North Dakota",
-    "latitude": 48.843345,
-    "start_date": "2019-06-11"
-  },
-  {
     "end_date": "2019-06-19",
     "url": "https://davemcg.github.io/2019-06-18-Data-Carpentry-NEI/",
     "country": "US",
@@ -54,6 +40,20 @@
     "host_name": "Heriot Watt University",
     "latitude": null,
     "start_date": "2019-06-26"
+  },
+  {
+    "end_date": "2019-07-24",
+    "url": "https://angela-li.github.io/2019-07-23-mbdh/",
+    "country": "US",
+    "instructors": "Ahsan Ali Khoja,Angela Li",
+    "venue": "Turtle Mountain Transportation Building",
+    "longitude": -99.748667,
+    "slug": "2019-07-23-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 48.843345,
+    "start_date": "2019-07-23"
   },
   {
     "end_date": "2019-08-23",
