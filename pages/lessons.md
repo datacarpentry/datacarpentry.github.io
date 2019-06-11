@@ -142,6 +142,9 @@ cloud computing.
 
 More information about hosting and teaching a Genomics workshop can be found on our [FAQ page]({{site.dc_github_site_url}}/genomics-workshop/faq/).
 
+
+Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/edit#slide=id.p) available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Genomics workshops.
+
 Please note that workshop materials for working with Genomics data in R in "alpha" development.  These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries' official lesson offerings.
 
 #### Lessons
@@ -231,7 +234,7 @@ and analysis workflow that a researcher would use.
 The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials? 
 We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI&t=2s) available to prepare Instructors to teach these lessons. After watching this video, 
 please contact [team@carpentries.org](mailto:team@carpentries.org) so that we can record your status as an onboarded Instructor. Instructors who 
-have completed onboarding will be given priority status for teaching at centrally-organized Carpentries workshops.
+have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Social Sciences workshops.
 
 Please note that workshop materials for working with Social Science data in Python and SQL are under development. 
 
