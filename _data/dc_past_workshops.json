@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-10",
+    "url": "https://damienirving.github.io/2019-06-10-amos/",
+    "country": "AU",
+    "instructors": "Damien Irving",
+    "venue": "AMOS 2019",
+    "longitude": 130.84543,
+    "slug": "2019-06-10-amos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Australian Meteorological and Oceanographic Society",
+    "latitude": -12.467735,
+    "start_date": "2019-06-10"
+  },
+  {
     "end_date": "2019-06-05",
     "url": "https://estherplomp.github.io/2019-06-04-Delft/",
     "country": "NL",
@@ -22,7 +36,7 @@
     "longitude": -79.9438,
     "slug": "2019-06-04-carnegie",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Ana Van Gulick",
     "host_name": "Carnegie Mellon University",
     "latitude": 40.4411,
     "start_date": "2019-06-04"
