@@ -232,7 +232,7 @@ a single dataset throughout the workshop to model the data management
 and analysis workflow that a researcher would use.
 
 The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials? 
-We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI&t=2s) available to prepare Instructors to teach these lessons. After watching this video, 
+We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI) and accompanying [slides](https://docs.google.com/presentation/d/1rR7pLSftBYBnLBmaMWeytfDtcRfwVUWxPYGx30ZJNkc/edit#slide=id.p) available to prepare Instructors to teach these lessons. After watching this video, 
 please contact [team@carpentries.org](mailto:team@carpentries.org) so that we can record your status as an onboarded Instructor. Instructors who 
 have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Social Sciences workshops.
 
@@ -324,7 +324,7 @@ This workshop is co-developed with the National Ecological Observatory Network [
 
 Join the [geospatial curriculum email list](https://carpentries.topicbox.com/groups/curriculum-geospatial) to get updates and be involved in conversations about this curriculum.
 
-Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) available to prepare Instructors to teach these lessons. After
+Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) and accompanying [slides](https://docs.google.com/presentation/d/1JRnbOLV2QIgw9WzN8KQycU8TpUnqP7_fcDyad_tF-w0/edit#slide=id.p) available to prepare Instructors to teach these lessons. After
 watching this video, please contact [team@carpentries.org](mailto:team@carpentries.org) so that we can record your status as an onboarded
 Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Geospatial workshops.
 
