@@ -92,7 +92,7 @@
     "longitude": -87.601003,
     "slug": "2019-05-31-chicago",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Marynia Kolak,Spencer Carran,Stephanie Besser",
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-05-31"
@@ -106,7 +106,7 @@
     "longitude": -90.06167,
     "slug": "2019-05-30-nas",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Kathryn Keating,Karina Khazmutdinova",
     "host_name": "National Academy of Science",
     "latitude": 29.93766,
     "start_date": "2019-05-30"
@@ -120,7 +120,7 @@
     "longitude": -110.94934,
     "slug": "2019-05-30-uofarizona",
     "tag_name": "DC",
-    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan,Cesar Medina,Travis Struck",
+    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan,Cesar Medina,Travis Struck,Ryan Bartelme,Alison Harrington",
     "host_name": "University of Arizona",
     "latitude": 32.231834,
     "start_date": "2019-05-30"
@@ -1131,6 +1131,20 @@
     "helpers": "Ruth Topless,Mandy Phipps-Green",
     "host_name": "University of Otago",
     "latitude": null,
+    "start_date": "2018-11-13"
+  },
+  {
+    "end_date": "2018-11-13",
+    "url": "https://bioinformatics-core-shared-training.github.io/2018-11-13-shell/",
+    "country": "GB",
+    "instructors": "Jon Marshall,Marc O'Brien,Anne Pajon",
+    "venue": "CRUK Cambridge Institute",
+    "longitude": 0.135569,
+    "slug": "2018-11-13-shell",
+    "tag_name": "DC",
+    "helpers": "Mark Fernandes",
+    "host_name": "University of Cambridge",
+    "latitude": 52.176783,
     "start_date": "2018-11-13"
   },
   {

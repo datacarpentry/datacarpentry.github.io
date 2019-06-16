@@ -70,6 +70,34 @@
     "start_date": "2019-06-27"
   },
   {
+    "end_date": "2019-07-02",
+    "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
+    "country": "",
+    "instructors": "Helen Lindsay,Stephan Schmeing",
+    "venue": "University of Zurich",
+    "longitude": 8.550325,
+    "slug": "2019-07-01-zurich-ELIXIR-SIB",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Zurich",
+    "latitude": 47.398203,
+    "start_date": "2019-07-01"
+  },
+  {
+    "end_date": "2019-07-10",
+    "url": "https://gederajeg.github.io/2019-07-01-sasingunud/",
+    "country": "ID",
+    "instructors": "Gede Rajeg",
+    "venue": "Fakultas Ilmu Budaya, Universitas Udayana, Indonesia",
+    "longitude": 115.213731,
+    "slug": "2019-07-01-sasingunud",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Udayana University",
+    "latitude": -8.675408,
+    "start_date": "2019-07-09"
+  },
+  {
     "end_date": "2019-07-24",
     "url": "https://angela-li.github.io/2019-07-23-mbdh/",
     "country": "US",
