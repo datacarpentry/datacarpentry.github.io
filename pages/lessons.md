@@ -64,7 +64,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/ecology-workshop/" target="_blank" class="icon-github" title="Repository for Data Carpentry Ecology workshop"></a></td>
 	<td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>Karen Cranston, Aleksandra Pawlik, Karthik Ram, Tracy Teal, Ethan White</td>
+    <td>Karen Cranston, Aleksandra Pawlik, Tracy Teal, Ethan White</td>
   </tr>
   <tr>
     <td>Data Organization in Spreadsheets for Ecologists</td>
