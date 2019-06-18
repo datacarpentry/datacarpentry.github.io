@@ -16,7 +16,7 @@
   {
     "end_date": "2019-06-20",
     "url": "https://smithsonian.github.io/2019-06-19-SERC/",
-    "country": "",
+    "country": "US",
     "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
     "venue": "Smithsonian Environmental Research Center",
     "longitude": -76.553354,
@@ -30,7 +30,7 @@
   {
     "end_date": "2019-06-20",
     "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
-    "country": "",
+    "country": "US",
     "instructors": "Robin Donatello",
     "venue": "California State University, Chico",
     "longitude": -121.846237,
@@ -72,7 +72,7 @@
   {
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
-    "country": "",
+    "country": "CH",
     "instructors": "Helen Lindsay,Stephan Schmeing",
     "venue": "University of Zurich",
     "longitude": 8.550325,
