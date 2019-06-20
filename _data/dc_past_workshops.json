@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-19",
+    "url": "https://davemcg.github.io/2019-06-18-Data-Carpentry-NEI/",
+    "country": "US",
+    "instructors": "David McGaughey",
+    "venue": "NIH Building 10 FAES Room 4 - B1C205",
+    "longitude": -77.104737,
+    "slug": "2019-06-18-Data-Carpentry-NEI",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Institutes of Health",
+    "latitude": 39.000789,
+    "start_date": "2019-06-18"
+  },
+  {
     "end_date": "2019-06-12",
     "url": "https://uw-madison-datascience.github.io/2019-06-11-uwmadison-dc/",
     "country": "US",
@@ -778,7 +792,7 @@
     "longitude": 27.9058585,
     "slug": "2019-01-30-WSU-EastLondon",
     "tag_name": "DC",
-    "helpers": "Andiswa Bukula,Funmilola Kemi Megbowon",
+    "helpers": "Andiswa Bukula,Funmilola Megbowon",
     "host_name": "Walter Sisulu University",
     "latitude": -33.0211839,
     "start_date": "2019-01-31"
@@ -1996,7 +2010,7 @@
     "longitude": 26.1832159,
     "slug": "2018-05-09-ufs",
     "tag_name": "DC",
-    "helpers": "Fanie Riekert,Oghenere Salubi,Funmilola Kemi Megbowon,Kemi Megbowon",
+    "helpers": "Fanie Riekert,Oghenere Salubi,Funmilola Megbowon,Kemi Megbowon",
     "host_name": "University of the Free State",
     "latitude": -29.1091105,
     "start_date": "2018-05-09"
