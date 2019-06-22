@@ -1,33 +1,5 @@
 [
   {
-    "end_date": "2019-06-20",
-    "url": "https://smithsonian.github.io/2019-06-19-SERC/",
-    "country": "US",
-    "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
-    "venue": "Smithsonian Environmental Research Center",
-    "longitude": -76.553354,
-    "slug": "2019-06-19-SERC",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Smithsonian Institution",
-    "latitude": 38.887823,
-    "start_date": "2019-06-19"
-  },
-  {
-    "end_date": "2019-06-20",
-    "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
-    "country": "US",
-    "instructors": "Robin Donatello",
-    "venue": "California State University, Chico",
-    "longitude": -121.846237,
-    "slug": "2019-06-19-chicostate",
-    "tag_name": "DC",
-    "helpers": "Kathleen Johnson",
-    "host_name": "California State University Chico",
-    "latitude": 39.72812,
-    "start_date": "2019-06-19"
-  },
-  {
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
     "country": "GB",
