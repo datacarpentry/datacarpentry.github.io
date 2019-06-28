@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-27",
+    "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
+    "country": "GB",
+    "instructors": "Jane Kennedy,Ruairidh Macleod,Evgenij Belikov,Chris Wood",
+    "venue": "Heriot Watt University (Riccarton campus)",
+    "longitude": null,
+    "slug": "2019-06-26-heriotwatt",
+    "tag_name": "DC",
+    "helpers": "Oliver Brown,Fiona Reid,Kenneth McLeod",
+    "host_name": "Heriot Watt University",
+    "latitude": null,
+    "start_date": "2019-06-26"
+  },
+  {
     "end_date": "2019-06-20",
     "url": "https://smithsonian.github.io/2019-06-19-SERC/",
     "country": "US",
