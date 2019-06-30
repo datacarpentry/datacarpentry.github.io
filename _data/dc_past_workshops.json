@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-28",
+    "url": "https://uw-madison-datascience.github.io/2019-06-27-uwmadison-dc/",
+    "country": "US",
+    "instructors": "Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Kimberly O'Keefe",
+    "venue": "REU Data Carpentry @ UW Madison",
+    "longitude": -89.410268,
+    "slug": "2019-06-27-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": "Srikanth Aravamuthan,Heather James,Tobin Magle,Sarah Stevens",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2019-06-27"
+  },
+  {
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
     "country": "GB",
@@ -12,6 +26,20 @@
     "host_name": "Heriot Watt University",
     "latitude": null,
     "start_date": "2019-06-26"
+  },
+  {
+    "end_date": "2019-06-26",
+    "url": "https://esr-nz.github.io/2019-06-25-DC-ESR-KSC/",
+    "country": "NZ",
+    "instructors": "Joep de Ligt,Miles Benton,Mik Black",
+    "venue": "Porirua",
+    "longitude": null,
+    "slug": "2019-06-25-ESR-Porirua",
+    "tag_name": "DC",
+    "helpers": "Ben Waite",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": null,
+    "start_date": "2019-06-25"
   },
   {
     "end_date": "2019-06-20",
@@ -53,6 +81,20 @@
     "helpers": "Vinay Swamy,Anupam Mondal",
     "host_name": "National Institutes of Health",
     "latitude": 39.000789,
+    "start_date": "2019-06-18"
+  },
+  {
+    "end_date": "2019-06-19",
+    "url": "https://pydupont.github.io/2019-06-18-TTT-ESR/",
+    "country": "NZ",
+    "instructors": "Pierre Dupont,Joep de Ligt",
+    "venue": "ESR",
+    "longitude": null,
+    "slug": "2019-06-18-ESR-Christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": null,
     "start_date": "2019-06-18"
   },
   {

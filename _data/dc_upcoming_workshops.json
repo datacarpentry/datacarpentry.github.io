@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-06-28",
-    "url": "https://uw-madison-datascience.github.io/2019-06-27-uwmadison-dc/",
-    "country": "US",
-    "instructors": "Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Kimberly O'Keefe",
-    "venue": "REU Data Carpentry @ UW Madison",
-    "longitude": -89.410268,
-    "slug": "2019-06-27-uwmadison-dc",
-    "tag_name": "DC",
-    "helpers": "Srikanth Aravamuthan,Heather James,Tobin Magle,Sarah Stevens",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.0729163,
-    "start_date": "2019-06-27"
-  },
-  {
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
     "country": "CH",
