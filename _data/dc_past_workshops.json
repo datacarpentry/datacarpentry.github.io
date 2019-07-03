@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-02",
+    "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
+    "country": "CH",
+    "instructors": "Helen Lindsay,Stephan Schmeing",
+    "venue": "University of Zurich",
+    "longitude": 8.550325,
+    "slug": "2019-07-01-zurich-ELIXIR-SIB",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Zurich",
+    "latitude": 47.398203,
+    "start_date": "2019-07-01"
+  },
+  {
     "end_date": "2019-06-28",
     "url": "https://uw-madison-datascience.github.io/2019-06-27-uwmadison-dc/",
     "country": "US",

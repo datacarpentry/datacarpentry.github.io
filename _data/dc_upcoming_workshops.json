@@ -1,17 +1,17 @@
 [
   {
-    "end_date": "2019-07-02",
-    "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
-    "country": "CH",
-    "instructors": "Helen Lindsay,Stephan Schmeing",
-    "venue": "University of Zurich",
-    "longitude": 8.550325,
-    "slug": "2019-07-01-zurich-ELIXIR-SIB",
+    "end_date": "2019-07-03",
+    "url": "http://www.ziyaadparker.com/2019-07-02-DIRISA/",
+    "country": "ZA",
+    "instructors": "Tadiwanashe Gutsa,Ziyaad Parker",
+    "venue": "CSIR ICC",
+    "longitude": 28.32715,
+    "slug": "2019-07-02-DIRISA",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "University of Zurich",
-    "latitude": 47.398203,
-    "start_date": "2019-07-01"
+    "host_name": "Data Intensive Research Initiative of South Africa (DIRISA)",
+    "latitude": -25.719151,
+    "start_date": "2019-07-02"
   },
   {
     "end_date": "2019-07-05",
