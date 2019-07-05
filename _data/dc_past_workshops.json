@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-03",
+    "url": "http://www.ziyaadparker.com/2019-07-02-DIRISA/",
+    "country": "ZA",
+    "instructors": "Tadiwanashe Gutsa,Ziyaad Parker",
+    "venue": "CSIR ICC",
+    "longitude": 28.32715,
+    "slug": "2019-07-02-DIRISA",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Data Intensive Research Initiative of South Africa (DIRISA)",
+    "latitude": -25.719151,
+    "start_date": "2019-07-02"
+  },
+  {
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
     "country": "CH",
@@ -143,7 +157,7 @@
     "end_date": "2019-06-05",
     "url": "https://estherplomp.github.io/2019-06-04-Delft/",
     "country": "NL",
-    "instructors": "Raúl Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
+    "instructors": "Raúl A. Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
     "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
     "longitude": 4.357068,
     "slug": "2019-06-04-Delft",

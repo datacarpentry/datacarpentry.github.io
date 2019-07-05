@@ -1,26 +1,12 @@
 [
   {
-    "end_date": "2019-07-03",
-    "url": "http://www.ziyaadparker.com/2019-07-02-DIRISA/",
-    "country": "ZA",
-    "instructors": "Tadiwanashe Gutsa,Ziyaad Parker",
-    "venue": "CSIR ICC",
-    "longitude": 28.32715,
-    "slug": "2019-07-02-DIRISA",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Data Intensive Research Initiative of South Africa (DIRISA)",
-    "latitude": -25.719151,
-    "start_date": "2019-07-02"
-  },
-  {
     "end_date": "2019-07-05",
     "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
     "country": "NZ",
     "instructors": "Ngonidzashe Faya,Mik Black",
     "venue": "Room 319, Department of Biochemistry",
     "longitude": 170.51267,
-    "slug": "2019-07-04-Genomics-Otago",
+    "slug": "2019-07-04-otago",
     "tag_name": "DC",
     "helpers": "Matt Bixley,Murray Cadzow",
     "host_name": "University of Otago",
