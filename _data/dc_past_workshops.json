@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-05",
+    "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
+    "country": "NZ",
+    "instructors": "Ngonidzashe Faya,Mik Black",
+    "venue": "Room 319, Department of Biochemistry",
+    "longitude": 170.51267,
+    "slug": "2019-07-04-otago",
+    "tag_name": "DC",
+    "helpers": "Matt Bixley,Murray Cadzow",
+    "host_name": "University of Otago",
+    "latitude": -45.86442,
+    "start_date": "2019-07-04"
+  },
+  {
     "end_date": "2019-07-03",
     "url": "http://www.ziyaadparker.com/2019-07-02-DIRISA/",
     "country": "ZA",
@@ -3314,7 +3328,7 @@
     "tag_name": "DC",
     "helpers": null,
     "host_name": "University of Venda",
-    "latitude": 22.9761,
+    "latitude": -22.9761,
     "start_date": "2017-05-15"
   },
   {
