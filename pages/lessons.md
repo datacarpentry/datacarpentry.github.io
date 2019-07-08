@@ -255,7 +255,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>TBA</td>
+    <td>Angela Li</td>
 </tr>
 <tr>
     <td>Data Organization in Spreadsheets for Social Scientists</td>
