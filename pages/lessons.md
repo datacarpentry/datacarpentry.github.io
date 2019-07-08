@@ -11,14 +11,14 @@ We facilitate and develop lessons for Data Carpentry workshops. These lessons ar
 
 Data Carpentry workshops are domain-specific, so that we are teaching researchers the skills most relevant to their domain and using examples from their type of work. Therefore we have several types of workshops and curriculum is organized by domain.
 
-## Workshop materials
+## Curriculum materials
 
 - [Ecology curriculum](#ecology-workshop)
 - [Genomics curriculum](#genomics-workshop)
 - [Social Sciences curriculum](#social-science-curriculum)
 - [Geospatial data curriculum](#geospatial-curriculum)
 
-## Workshop materials under development or consideration
+## Curriculum materials under development or consideration
 
 - [Digital humanities curriculum](#dh-curriculum)
 - [Image analysis curriculum](#image-curriculum)
@@ -318,7 +318,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 
 <hr>
 
-### <a id="geospatial-curriculum"></a> Geospatial Data Workshop
+### <a id="geospatial-curriculum"></a> Geospatial Data Curriculum
 
 This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with raster and vector data in R for analysis and visualization.
 
