@@ -14,6 +14,20 @@
     "start_date": "2019-07-09"
   },
   {
+    "end_date": "2019-07-23",
+    "url": "https://jfkoehler.github.io/2019-07-22-carnegie_mellon/",
+    "country": "FI",
+    "instructors": "Eve Bohnett,Jacob Koehler",
+    "venue": "Carnegie Mellon University",
+    "longitude": null,
+    "slug": "2019-07-22-carnegie_mellon",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-07-22"
+  },
+  {
     "end_date": "2019-07-24",
     "url": "https://angela-li.github.io/2019-07-23-mbdh/",
     "country": "US",

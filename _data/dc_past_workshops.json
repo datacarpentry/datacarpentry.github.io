@@ -145,7 +145,7 @@
     "country": "US",
     "instructors": "Trisha Adamus,Erin Jonaitis,Maria Kamenetsky,Tobin Magle",
     "venue": "Data Carpentry @ UW-Madison",
-    "longitude": 89.430475,
+    "longitude": -89.430475,
     "slug": "2019-06-11-uwmadison-dc",
     "tag_name": "DC",
     "helpers": "Steve Goldstein,Michael Liou,Heather Shimon,Sarah Stevens,Srikanth Aravamuthan",
@@ -320,6 +320,20 @@
     "host_name": "Aarhus University",
     "latitude": -33.775015,
     "start_date": "2019-05-21"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://smithsonianworkshops.github.io/2019-05-16-castle/.",
+    "country": "US",
+    "instructors": "Mike Trizna,Jen Hammock,Mauro Lepore,Luis Villanueva,Amanda Devine",
+    "venue": "Quarterly SI Data Carpentry: Spring 2019 Edition",
+    "longitude": -77.025991,
+    "slug": "2019-05-16-castle",
+    "tag_name": "DC",
+    "helpers": "Jennifer Giaccai,Matthew Kweskin,Mirian Tieko Nunes Tsuchiya",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
+    "start_date": "2019-05-16"
   },
   {
     "end_date": "2019-05-17",
