@@ -42,6 +42,20 @@
     "start_date": "2019-07-23"
   },
   {
+    "end_date": "2019-08-06",
+    "url": "https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc/",
+    "country": "US",
+    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
+    "venue": "Genomics Data Carpentry @ UW-Madison",
+    "longitude": -89.410268,
+    "slug": "2019-08-05-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2019-08-05"
+  },
+  {
     "end_date": "2019-08-23",
     "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
     "country": "US",
