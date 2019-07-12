@@ -14,6 +14,8 @@ currently designed for people with little to no prior computational experience a
 
 For a list of all our current workshop offerings, visit our [Lessons page](http://datacarpentry.org/lessons).
 
+Check out lists of our [upcoming](/workshops-upcoming/) and [past](/workshops-past/) workshops. 
+
 **Data Carpentry workshops must include:**
 
 - **A Data Carpentry lesson on data organization**
