@@ -15,7 +15,7 @@ The goals of the assessment network include:
 + Managing and sharing resources (quantitative/qualitative tools and approaches) across countries.
 
 ## Relevant Blog Posts
-If you are interested in learning more about assessment within the Carpentries community, we recommend the following blog posts:  
+If you are interested in learning more about assessment within The Carpentries community, we recommend the following blog posts:  
 
 [Long-Term Assessment Strategy](http://www.datacarpentry.org/blog/long-term-assessment-strategy/)   
 [Pilot Survey Focus Group Update](http://www.datacarpentry.org/blog/survey-focus-group-update/)   
