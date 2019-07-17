@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-17",
+    "url": "https://arinbasu.github.io/2019-07-16-scion/",
+    "country": "NZ",
+    "instructors": "Arindam Basu,Anton Angelo,Joep de Ligt",
+    "venue": "Scion Christchurch",
+    "longitude": 172.60816,
+    "slug": "2019-07-16-Scion_Christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Scion New Zealand",
+    "latitude": -43.53177,
+    "start_date": "2019-07-16"
+  },
+  {
     "end_date": "2019-07-23",
     "url": "https://jfkoehler.github.io/2019-07-22-carnegie_mellon/",
     "country": "FI",
