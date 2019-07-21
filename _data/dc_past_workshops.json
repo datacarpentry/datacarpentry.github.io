@@ -14,6 +14,20 @@
     "start_date": "2019-07-16"
   },
   {
+    "end_date": "2019-07-12",
+    "url": "https://uw-madison-datascience.github.io/2019-07-11-uwmadison-dc/",
+    "country": "US",
+    "instructors": "Carolyn Voter,Sarah Graves,Maria Kamenetsky",
+    "venue": "Geospatial Data Carpentry @ UW-Madison",
+    "longitude": -89.400131,
+    "slug": "2019-07-11-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": "Trisha Adamus,Srikanth Aravamuthan,Karl Broman,Cid Freitag,Christina Koch,Michael Liou,Tobin Magle,Sarah Stevens,Steve Wangen",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.075809,
+    "start_date": "2019-07-11"
+  },
+  {
     "end_date": "2019-07-10",
     "url": "https://gederajeg.github.io/2019-07-01-sasingunud/",
     "country": "ID",
