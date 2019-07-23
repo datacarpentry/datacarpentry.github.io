@@ -1,9 +1,10 @@
 [
   {
+    "instructors": "Eve Bohnett,Jacob Koehler",
     "end_date": "2019-07-23",
     "url": "https://jfkoehler.github.io/2019-07-22-carnegie_mellon/",
     "country": "FI",
-    "instructors": "Eve Bohnett,Jacob Koehler",
+    "curriculum": "Data Carpentry (Social Sciences with Python)",
     "venue": "Carnegie Mellon University",
     "longitude": null,
     "slug": "2019-07-22-carnegie_mellon",
@@ -14,10 +15,11 @@
     "start_date": "2019-07-22"
   },
   {
+    "instructors": "Justin Millar,Aleksandra Taranov",
     "end_date": "2019-07-23",
     "url": "https://justinmillar.github.io/2019-07-22-genentech/",
     "country": "US",
-    "instructors": "Justin Millar,Aleksandra Taranov",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Genentech",
     "longitude": -122.399649,
     "slug": "2019-07-22-genentech",
@@ -28,10 +30,11 @@
     "start_date": "2019-07-22"
   },
   {
+    "instructors": "Ahsan Ali Khoja,Angela Li",
     "end_date": "2019-07-24",
     "url": "https://angela-li.github.io/2019-07-23-mbdh/",
     "country": "US",
-    "instructors": "Ahsan Ali Khoja,Angela Li",
+    "curriculum": null,
     "venue": "Turtle Mountain Transportation Building",
     "longitude": -99.748667,
     "slug": "2019-07-23-mbdh",
@@ -42,10 +45,11 @@
     "start_date": "2019-07-23"
   },
   {
+    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
     "end_date": "2019-08-06",
     "url": "https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "Genomics Data Carpentry @ UW-Madison",
     "longitude": -89.410268,
     "slug": "2019-08-05-uwmadison-dc",
@@ -56,10 +60,11 @@
     "start_date": "2019-08-05"
   },
   {
+    "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
     "end_date": "2019-08-23",
     "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
     "country": "US",
-    "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
+    "curriculum": "Data Carpentry (Ecology with Python)",
     "venue": "University of Texas at Austin",
     "longitude": -97.738188,
     "slug": "2019-08-22-UT",
@@ -70,10 +75,11 @@
     "start_date": "2019-08-22"
   },
   {
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
     "country": "NL",
-    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "KNVM Division Microbial Typing",
     "longitude": null,
     "slug": "2019-11-25-Utrecht",

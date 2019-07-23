@@ -1,9 +1,10 @@
 [
   {
+    "instructors": "Arindam Basu,Anton Angelo,Joep de Ligt",
     "end_date": "2019-07-17",
     "url": "https://arinbasu.github.io/2019-07-16-scion/",
     "country": "NZ",
-    "instructors": "Arindam Basu,Anton Angelo,Joep de Ligt",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Scion Christchurch",
     "longitude": 172.60816,
     "slug": "2019-07-16-Scion_Christchurch",
@@ -14,10 +15,11 @@
     "start_date": "2019-07-16"
   },
   {
+    "instructors": "Carolyn Voter,Sarah Graves,Maria Kamenetsky",
     "end_date": "2019-07-12",
     "url": "https://uw-madison-datascience.github.io/2019-07-11-uwmadison-dc/",
     "country": "US",
-    "instructors": "Carolyn Voter,Sarah Graves,Maria Kamenetsky",
+    "curriculum": "Data Carpentry (Geospatial)",
     "venue": "Geospatial Data Carpentry @ UW-Madison",
     "longitude": -89.400131,
     "slug": "2019-07-11-uwmadison-dc",
@@ -28,10 +30,11 @@
     "start_date": "2019-07-11"
   },
   {
+    "instructors": "Gede Rajeg",
     "end_date": "2019-07-10",
     "url": "https://gederajeg.github.io/2019-07-01-sasingunud/",
     "country": "ID",
-    "instructors": "Gede Rajeg",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "Fakultas Ilmu Budaya, Universitas Udayana, Indonesia",
     "longitude": 115.213731,
     "slug": "2019-07-01-sasingunud",
@@ -42,10 +45,11 @@
     "start_date": "2019-07-09"
   },
   {
+    "instructors": "Ngonidzashe Faya,Mik Black",
     "end_date": "2019-07-05",
     "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
     "country": "NZ",
-    "instructors": "Ngonidzashe Faya,Mik Black",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "Room 319, Department of Biochemistry",
     "longitude": 170.51267,
     "slug": "2019-07-04-otago",
@@ -56,10 +60,11 @@
     "start_date": "2019-07-04"
   },
   {
+    "instructors": "Tadiwanashe Gutsa,Ziyaad Parker",
     "end_date": "2019-07-03",
     "url": "http://www.ziyaadparker.com/2019-07-02-DIRISA/",
     "country": "ZA",
-    "instructors": "Tadiwanashe Gutsa,Ziyaad Parker",
+    "curriculum": "Data Carpentry (Ecology with Python)",
     "venue": "CSIR ICC",
     "longitude": 28.32715,
     "slug": "2019-07-02-DIRISA",
@@ -70,10 +75,11 @@
     "start_date": "2019-07-02"
   },
   {
+    "instructors": "Helen Lindsay,Stephan Schmeing,Gosia Nowicka,Mark Robinson",
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
     "country": "CH",
-    "instructors": "Helen Lindsay,Stephan Schmeing,Gosia Nowicka,Mark Robinson",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "University of Zurich",
     "longitude": 8.550325,
     "slug": "2019-07-01-zurich-ELIXIR-SIB",
@@ -84,10 +90,11 @@
     "start_date": "2019-07-01"
   },
   {
+    "instructors": "Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Kimberly O'Keefe",
     "end_date": "2019-06-28",
     "url": "https://uw-madison-datascience.github.io/2019-06-27-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Kimberly O'Keefe",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "REU Data Carpentry @ UW Madison",
     "longitude": -89.410268,
     "slug": "2019-06-27-uwmadison-dc",
@@ -98,10 +105,11 @@
     "start_date": "2019-06-27"
   },
   {
+    "instructors": "Jane Kennedy,Ruairidh Macleod,Evgenij Belikov,Chris Wood",
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
     "country": "GB",
-    "instructors": "Jane Kennedy,Ruairidh Macleod,Evgenij Belikov,Chris Wood",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "Heriot Watt University (Riccarton campus)",
     "longitude": null,
     "slug": "2019-06-26-heriotwatt",
@@ -112,10 +120,11 @@
     "start_date": "2019-06-26"
   },
   {
+    "instructors": "Joep de Ligt,Miles Benton,Mik Black",
     "end_date": "2019-06-26",
     "url": "https://esr-nz.github.io/2019-06-25-DC-ESR-KSC/",
     "country": "NZ",
-    "instructors": "Joep de Ligt,Miles Benton,Mik Black",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Porirua",
     "longitude": null,
     "slug": "2019-06-25-ESR-Porirua",
@@ -126,10 +135,11 @@
     "start_date": "2019-06-25"
   },
   {
+    "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
     "end_date": "2019-06-20",
     "url": "https://smithsonian.github.io/2019-06-19-SERC/",
     "country": "US",
-    "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Smithsonian Environmental Research Center",
     "longitude": -76.553354,
     "slug": "2019-06-19-SERC",
@@ -140,10 +150,11 @@
     "start_date": "2019-06-19"
   },
   {
+    "instructors": "Robin Donatello,MAHESH MASKEY",
     "end_date": "2019-06-20",
     "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
     "country": "US",
-    "instructors": "Robin Donatello,MAHESH MASKEY",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "California State University, Chico",
     "longitude": -121.846237,
     "slug": "2019-06-19-chicostate",
@@ -154,10 +165,11 @@
     "start_date": "2019-06-19"
   },
   {
+    "instructors": "David McGaughey,Matthew Brooks",
     "end_date": "2019-06-19",
     "url": "https://davemcg.github.io/2019-06-18-Data-Carpentry-NEI/",
     "country": "US",
-    "instructors": "David McGaughey,Matthew Brooks",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "NIH Building 10 FAES Room 4 - B1C205",
     "longitude": -77.104737,
     "slug": "2019-06-18-Data-Carpentry-NEI",
@@ -168,10 +180,11 @@
     "start_date": "2019-06-18"
   },
   {
+    "instructors": "Pierre Dupont,Joep de Ligt",
     "end_date": "2019-06-19",
     "url": "https://pydupont.github.io/2019-06-18-TTT-ESR/",
     "country": "NZ",
-    "instructors": "Pierre Dupont,Joep de Ligt",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "ESR",
     "longitude": null,
     "slug": "2019-06-18-ESR-Christchurch",
@@ -182,10 +195,11 @@
     "start_date": "2019-06-18"
   },
   {
+    "instructors": "Trisha Adamus,Erin Jonaitis,Maria Kamenetsky,Tobin Magle",
     "end_date": "2019-06-12",
     "url": "https://uw-madison-datascience.github.io/2019-06-11-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus,Erin Jonaitis,Maria Kamenetsky,Tobin Magle",
+    "curriculum": "Data Carpentry (other)",
     "venue": "Data Carpentry @ UW-Madison",
     "longitude": -89.430475,
     "slug": "2019-06-11-uwmadison-dc",
@@ -196,10 +210,11 @@
     "start_date": "2019-06-11"
   },
   {
+    "instructors": "Damien Irving",
     "end_date": "2019-06-10",
     "url": "https://damienirving.github.io/2019-06-10-amos/",
     "country": "AU",
-    "instructors": "Damien Irving",
+    "curriculum": "Data Carpentry (other)",
     "venue": "AMOS 2019",
     "longitude": 130.84543,
     "slug": "2019-06-10-amos",
@@ -210,10 +225,11 @@
     "start_date": "2019-06-10"
   },
   {
+    "instructors": "Raúl A. Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
     "end_date": "2019-06-05",
     "url": "https://estherplomp.github.io/2019-06-04-Delft/",
     "country": "NL",
-    "instructors": "Raúl A. Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
     "longitude": 4.357068,
     "slug": "2019-06-04-Delft",
@@ -224,10 +240,11 @@
     "start_date": "2019-06-04"
   },
   {
+    "instructors": "Ian Carroll,Ryan Clement",
     "end_date": "2019-06-05",
     "url": "https://itcarroll.github.io/2019-06-04-carnegie/",
     "country": "US",
-    "instructors": "Ian Carroll,Ryan Clement",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "Carnegie Mellon University",
     "longitude": -79.9438,
     "slug": "2019-06-04-carnegie",
@@ -238,10 +255,11 @@
     "start_date": "2019-06-04"
   },
   {
+    "instructors": "Iain Emsley,Stephen Worthington,Patrick McCann,Lucia Michielin",
     "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
-    "instructors": "Iain Emsley,Stephen Worthington,Patrick McCann,Lucia Michielin",
+    "curriculum": "Data Carpentry (other)",
     "venue": "Edinburgh University",
     "longitude": -1.260328,
     "slug": "2019-06-04-edinburgh",
@@ -252,10 +270,11 @@
     "start_date": "2019-06-04"
   },
   {
+    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
     "end_date": "2019-06-04",
     "url": "https://rociotmartinez.github.io/2019-06-03-KCL",
     "country": "GB",
-    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
+    "curriculum": "Data Carpentry (other)",
     "venue": "King's College London",
     "longitude": -0.096739,
     "slug": "2019-06-03-KCL",
@@ -266,10 +285,11 @@
     "start_date": "2019-06-03"
   },
   {
+    "instructors": "Angela Li",
     "end_date": "2019-05-31",
     "url": "https://angela-li.github.io/2019-05-31-chicago/",
     "country": "US",
-    "instructors": "Angela Li",
+    "curriculum": "Data Carpentry (Geospatial)",
     "venue": "Center for Spatial Data Science, University of Chicago",
     "longitude": -87.601003,
     "slug": "2019-05-31-chicago",
@@ -280,10 +300,11 @@
     "start_date": "2019-05-31"
   },
   {
+    "instructors": "Jennifer Shelton,Kunal Marwaha",
     "end_date": "2019-05-31",
     "url": "https://marwahaha.github.io/2019-05-30-nas/",
     "country": "US",
-    "instructors": "Jennifer Shelton,Kunal Marwaha",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "National Academy of Sciences",
     "longitude": -90.06167,
     "slug": "2019-05-30-nas",
@@ -294,10 +315,11 @@
     "start_date": "2019-05-30"
   },
   {
+    "instructors": "François Michonneau,Sarah Stevens,Jason Williams",
     "end_date": "2019-05-31",
     "url": "https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/",
     "country": "US",
-    "instructors": "François Michonneau,Sarah Stevens,Jason Williams",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "University of Arizona",
     "longitude": -110.94934,
     "slug": "2019-05-30-uofarizona",
@@ -308,10 +330,11 @@
     "start_date": "2019-05-30"
   },
   {
+    "instructors": "Janet Stacey,Kim Tung Nguyen",
     "end_date": "2019-05-29",
     "url": "https://esr-nz.github.io/2019-05-28-DC-ESR-MASC/",
     "country": "NZ",
-    "instructors": "Janet Stacey,Kim Tung Nguyen",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "ESR",
     "longitude": 174.727021,
     "slug": "2019-05-28-DC-ESR-MASC",
@@ -322,10 +345,11 @@
     "start_date": "2019-05-28"
   },
   {
+    "instructors": "Damien Irving",
     "end_date": "2019-05-24",
     "url": "https://damienirving.github.io/2019-05-23-bom/",
     "country": "AU",
-    "instructors": "Damien Irving",
+    "curriculum": "Data Carpentry (other)",
     "venue": "Australian Bureau of Meteorology",
     "longitude": 144.95108,
     "slug": "2019-05-23-bom",
@@ -336,10 +360,11 @@
     "start_date": "2019-05-23"
   },
   {
+    "instructors": "Matthias Bussonnier,Eve Bohnett",
     "end_date": "2019-05-24",
     "url": "https://katiecoburn.github.io/2019-05-23-katiecoburn/",
     "country": "US",
-    "instructors": "Matthias Bussonnier,Eve Bohnett",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "The University of California, Merced",
     "longitude": -120.431913,
     "slug": "2019-05-23-katiecoburn",
@@ -350,10 +375,11 @@
     "start_date": "2019-05-23"
   },
   {
+    "instructors": "Adela Sobotkova",
     "end_date": "2019-05-22",
     "url": "https://adivea.github.io/2019-05-21-AU-DC/",
     "country": "AU",
-    "instructors": "Adela Sobotkova",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "Aarhus University",
     "longitude": 151.112545,
     "slug": "2019-05-21-AU-DC",
@@ -364,10 +390,11 @@
     "start_date": "2019-05-21"
   },
   {
+    "instructors": "Mike Trizna,Jen Hammock,Mauro Lepore,Luis Villanueva,Amanda Devine",
     "end_date": "2019-05-17",
     "url": "https://smithsonianworkshops.github.io/2019-05-16-castle/.",
     "country": "US",
-    "instructors": "Mike Trizna,Jen Hammock,Mauro Lepore,Luis Villanueva,Amanda Devine",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Quarterly SI Data Carpentry: Spring 2019 Edition",
     "longitude": -77.025991,
     "slug": "2019-05-16-castle",
@@ -378,10 +405,11 @@
     "start_date": "2019-05-16"
   },
   {
+    "instructors": "Dagim Mengesha",
     "end_date": "2019-05-17",
     "url": "https://dagimy.github.io/2019-05-15-DC-HU/",
     "country": "ET",
-    "instructors": "Dagim Mengesha",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Hawassa University",
     "longitude": 38.499797,
     "slug": "2019-05-15-DC-HU",
@@ -392,10 +420,11 @@
     "start_date": "2019-05-15"
   },
   {
+    "instructors": "Alex Nunes",
     "end_date": "2019-05-15",
     "url": "https://alexetnunes.github.io/2019-05-15-surge-halifax/",
     "country": "CA",
-    "instructors": "Alex Nunes",
+    "curriculum": "Data Carpentry (Ecology with Python)",
     "venue": "SURGE Innovation",
     "longitude": -63.572392,
     "slug": "2019-05-15-surge-halifax",
@@ -406,10 +435,11 @@
     "start_date": "2019-05-15"
   },
   {
+    "instructors": "Mateusz Kuzak,Toby Hodges",
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
-    "instructors": "Mateusz Kuzak,Toby Hodges",
+    "curriculum": null,
     "venue": "ELIXIR-BE",
     "longitude": 3.70654,
     "slug": "2019-05-13-Ghent",
@@ -420,10 +450,11 @@
     "start_date": "2019-05-13"
   },
   {
+    "instructors": "Murray Cadzow,Mik Black",
     "end_date": "2019-05-30",
     "url": "https://otagocarpentries.github.io/2019-05-09-otago/",
     "country": "NZ",
-    "instructors": "Murray Cadzow,Mik Black",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Department of Biochemistry, University of Otago",
     "longitude": 170.51267,
     "slug": "2019-05-09-otago",
@@ -434,10 +465,11 @@
     "start_date": "2019-05-09"
   },
   {
+    "instructors": "Justin Chun-ting Ho,Chris Hill,Andrzej Romaniuk",
     "end_date": "2019-05-07",
     "url": "https://edcarp.github.io/2019-05-06-edinburgh/",
     "country": "GB",
-    "instructors": "Justin Chun-ting Ho,Chris Hill,Andrzej Romaniuk",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "The University of Edinburgh",
     "longitude": -3.184216,
     "slug": "2019-05-06-edinburgh",
@@ -448,10 +480,11 @@
     "start_date": "2019-05-06"
   },
   {
+    "instructors": "Nora Mitchell,David Welch",
     "end_date": "2019-05-03",
     "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
     "country": "US",
-    "instructors": "Nora Mitchell,David Welch",
+    "curriculum": null,
     "venue": "Southwestern University",
     "longitude": -97.6640784,
     "slug": "2019-05-02-southwestern",
@@ -462,10 +495,11 @@
     "start_date": "2019-05-02"
   },
   {
+    "instructors": "David McGaughey,Martin Skarzynski,Doug Joubert,Abhijit Dasgupta",
     "end_date": "2019-05-02",
     "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
     "country": "US",
-    "instructors": "David McGaughey,Martin Skarzynski,Doug Joubert,Abhijit Dasgupta",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "NIH Library Training Room",
     "longitude": -77.104737,
     "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
@@ -476,10 +510,11 @@
     "start_date": "2019-05-01"
   },
   {
+    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
     "end_date": "2019-04-30",
     "url": "https://rociotmartinez.github.io/2019-04-29-KCL/",
     "country": "GB",
-    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "King's College London",
     "longitude": -74.044636,
     "slug": "2019-04-29-KCL",
@@ -490,10 +525,11 @@
     "start_date": "2019-04-29"
   },
   {
+    "instructors": "Simona Picardi,Zack Brym,Matt Boone",
     "end_date": "2019-04-30",
     "url": "https://picardis.github.io/2019-04-29-uf-trec/",
     "country": "US",
-    "instructors": "Simona Picardi,Zack Brym,Matt Boone",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "UF Tropical Research and Education Center",
     "longitude": -80.498971,
     "slug": "2019-04-29-uf-trec",
@@ -504,10 +540,11 @@
     "start_date": "2019-04-29"
   },
   {
+    "instructors": "Edward Wallace,Steve Thorn,Shaun Webb",
     "end_date": "2019-05-01",
     "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
     "country": "GB",
-    "instructors": "Edward Wallace,Steve Thorn,Shaun Webb",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "University of Edinburgh",
     "longitude": null,
     "slug": "2019-04-23-Edinburgh-Dc-Genomics",
@@ -518,10 +555,11 @@
     "start_date": "2019-04-23"
   },
   {
+    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
     "end_date": "2019-04-19",
     "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
     "country": "US",
-    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
     "longitude": -96.005624,
     "slug": "2019-04-18-okstate",
@@ -532,10 +570,11 @@
     "start_date": "2019-04-18"
   },
   {
+    "instructors": "Dmytro Fishman,Mark Robinson",
     "end_date": "2019-04-18",
     "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
     "country": "HU",
-    "instructors": "Dmytro Fishman,Mark Robinson",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Semmelweis University Data Carpentry Workshop",
     "longitude": 19.06711,
     "slug": "2019-04-17-semmelweis",
@@ -546,10 +585,11 @@
     "start_date": "2019-04-17"
   },
   {
+    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
     "end_date": "2019-04-17",
     "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
     "country": "ZA",
-    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
+    "curriculum": "Data Carpentry (Social Sciences with Python)",
     "venue": "Data Carpentry at UKZN, Howard College",
     "longitude": 30.9797,
     "slug": "2019-04-16-UKZN-DC",
@@ -560,10 +600,11 @@
     "start_date": "2019-04-16"
   },
   {
+    "instructors": "Angela Li,Colin Quirk",
     "end_date": "2019-04-12",
     "url": "https://angela-li.github.io/2019-04-12-chicago/",
     "country": "US",
-    "instructors": "Angela Li,Colin Quirk",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "University of Chicago",
     "longitude": -87.601003,
     "slug": "2019-04-12-chicago",
@@ -574,10 +615,11 @@
     "start_date": "2019-04-12"
   },
   {
+    "instructors": "Sateesh Peri,Aniello Infante",
     "end_date": "2019-04-12",
     "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
     "country": "US",
-    "instructors": "Sateesh Peri,Aniello Infante",
+    "curriculum": null,
     "venue": "Gelman Library, Room 301/302",
     "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
@@ -588,10 +630,11 @@
     "start_date": "2019-04-11"
   },
   {
+    "instructors": "Alexandra Provo,Andrew Battista",
     "end_date": "2019-04-12",
     "url": "https://nyu-dataservices.github.io/2019-04-11-nyu/",
     "country": "US",
-    "instructors": "Alexandra Provo,Andrew Battista",
+    "curriculum": "Data Carpentry (Ecology with Python)",
     "venue": "Bern Dibner Library, New York University",
     "longitude": -73.9878546,
     "slug": "2019-04-11-nyu",
@@ -602,10 +645,11 @@
     "start_date": "2019-04-11"
   },
   {
+    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte,Nitya Singh,Oleksandr Moskalenko ",
     "end_date": "2019-04-12",
     "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
     "country": "US",
-    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte,Nitya Singh,Oleksandr Moskalenko ",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "UF Emerging Pathogens Institute",
     "longitude": -82.351971,
     "slug": "2019-04-11-ufepi-genomics",
@@ -616,10 +660,11 @@
     "start_date": "2019-04-11"
   },
   {
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-04-08",
     "url": "https://aschuerch.github.io/2019-04-08-Utrecht/",
     "country": "NL",
-    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "Utrecht University",
     "longitude": 5.169072,
     "slug": "2019-04-08-Utrecht",
@@ -630,10 +675,11 @@
     "start_date": "2019-04-08"
   },
   {
+    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
     "end_date": "2019-04-04",
     "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
     "country": "ZA",
-    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "The Professional Development Hub (satRday)",
     "longitude": 28.0369,
     "slug": "2019-04-03-satRday-jhb",
@@ -644,10 +690,11 @@
     "start_date": "2019-04-03"
   },
   {
+    "instructors": "Punam Amratia,Rocio Martinez Nunez,Adrian Baez-Ortega",
     "end_date": "2019-04-02",
     "url": "https://punama.github.io/2019-04-01-elxir-csc/",
     "country": "FI",
-    "instructors": "Punam Amratia,Rocio Martinez Nunez,Adrian Baez-Ortega",
+    "curriculum": null,
     "venue": "CSC Training Facilities, Finland",
     "longitude": 24.8304687,
     "slug": "2019-04-01-elxir-csc",
@@ -658,10 +705,11 @@
     "start_date": "2019-04-01"
   },
   {
+    "instructors": "Danielle Quinn,Joany Mariño",
     "end_date": "2019-03-31",
     "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
     "country": "CA",
-    "instructors": "Danielle Quinn,Joany Mariño",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
     "longitude": -52.73703,
     "slug": "2019-03-30-WISE2",
@@ -672,10 +720,11 @@
     "start_date": "2019-03-30"
   },
   {
+    "instructors": "Julia Brown,Sue McClatchy",
     "end_date": "2019-03-26",
     "url": "https://bigelowlab.github.io/2019-03-25-Bigelow-DataCarpentry/",
     "country": "US",
-    "instructors": "Julia Brown,Sue McClatchy",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Bigelow Laboratory for Ocean Sciences",
     "longitude": -69.579876,
     "slug": "2019-03-25-Bigelow-DataCarpentry",
@@ -686,10 +735,11 @@
     "start_date": "2019-03-25"
   },
   {
+    "instructors": "Martin Dreyer,Zine Sapula",
     "end_date": "2019-03-27",
     "url": "https://nwu-eresearch.github.io/2019-03-25-DHASA",
     "country": "ZA",
-    "instructors": "Martin Dreyer,Zine Sapula",
+    "curriculum": "Data Carpentry (Social Sciences with Python)",
     "venue": "2019 DHASA Conference",
     "longitude": 28.231765,
     "slug": "2019-03-25-DHASA",
@@ -700,10 +750,11 @@
     "start_date": "2019-03-25"
   },
   {
+    "instructors": "Brook Moyers,Kevin Weitemier",
     "end_date": "2019-03-22",
     "url": "https://kweitemier.github.io/2019-03-21-csumb/",
     "country": "US",
-    "instructors": "Brook Moyers,Kevin Weitemier",
+    "curriculum": null,
     "venue": "California State University, Monterey Bay",
     "longitude": -121.7975,
     "slug": "2019-03-21-csumb",
@@ -714,10 +765,11 @@
     "start_date": "2019-03-21"
   },
   {
+    "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
     "end_date": "2019-03-20",
     "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
     "country": "ZA",
-    "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Sol Plaatjies University",
     "longitude": 24.7642707,
     "slug": "2019-03-18-SPU",
@@ -728,10 +780,11 @@
     "start_date": "2019-03-18"
   },
   {
+    "instructors": "Claire Curry,Zenobie Garrett,Katy Felkner",
     "end_date": "2019-03-18",
     "url": "https://oulib-swc.github.io/2019-03-18-ou-dc/",
     "country": "US",
-    "instructors": "Claire Curry,Zenobie Garrett,Katy Felkner",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "University of Oklahoma",
     "longitude": -97.445848,
     "slug": "2019-03-18-ou-dc",
@@ -742,10 +795,11 @@
     "start_date": "2019-03-18"
   },
   {
+    "instructors": "Tyler Pearson,Logan Cox",
     "end_date": "2019-03-15",
     "url": "https://oulib-swc.github.io/2019-03-14-ou-tulsa-dc/",
     "country": "US",
-    "instructors": "Tyler Pearson,Logan Cox",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "University of Oklahoma Schusterman Library, Tulsa",
     "longitude": -95.922955,
     "slug": "2019-03-14-ou-tulsa-dc",
@@ -756,10 +810,11 @@
     "start_date": "2019-03-14"
   },
   {
+    "instructors": "Murray Cadzow,Antje Lubcke,Matt Bixley",
     "end_date": "2019-03-14",
     "url": "https://otagocarpentries.github.io/2019-03-13-otago/",
     "country": "NZ",
-    "instructors": "Murray Cadzow,Antje Lubcke,Matt Bixley",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Science library",
     "longitude": 170.51131,
     "slug": "2019-03-13-Otago",
@@ -770,10 +825,11 @@
     "start_date": "2019-03-13"
   },
   {
+    "instructors": "Chris Hamm,Trisha Adamus",
     "end_date": "2019-03-13",
     "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
     "country": "US",
-    "instructors": "Chris Hamm,Trisha Adamus",
+    "curriculum": null,
     "venue": "Carnegie Mellon University",
     "longitude": -79.9438,
     "slug": "2019-03-12-carnegie",
@@ -784,10 +840,11 @@
     "start_date": "2019-03-12"
   },
   {
+    "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
     "end_date": "2019-03-06",
     "url": "https://tgac.github.io/2019-03-05-earlham/",
     "country": "GB",
-    "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Earlham Institute",
     "longitude": 1.218987,
     "slug": "2019-03-05-earlham",
@@ -798,10 +855,11 @@
     "start_date": "2019-03-05"
   },
   {
+    "instructors": "Stephanie Thiede,Zena Lapp",
     "end_date": "2019-03-05",
     "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
     "country": "US",
-    "instructors": "Stephanie Thiede,Zena Lapp",
+    "curriculum": null,
     "venue": "University of Michigan",
     "longitude": -83.734886,
     "slug": "2019-03-04-umich-genomics",
@@ -812,10 +870,11 @@
     "start_date": "2019-03-04"
   },
   {
+    "instructors": "Sarah Supp,Robert Flight",
     "end_date": "2019-03-01",
     "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
     "country": "US",
-    "instructors": "Sarah Supp,Robert Flight",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Wright State University",
     "longitude": -84.063072,
     "slug": "2019-02-28-wrightstateu",
@@ -826,10 +885,11 @@
     "start_date": "2019-02-28"
   },
   {
+    "instructors": "Weronika Borek,Edward Wallace,Mario Antonioletti",
     "end_date": "2019-02-28",
     "url": "https://edcarp.github.io/2019-02-20-edinburgh-sbs-dc/",
     "country": "GB",
-    "instructors": "Weronika Borek,Edward Wallace,Mario Antonioletti",
+    "curriculum": "Data Carpentry (other)",
     "venue": "The University of Edinburgh, School of Biological Sciences",
     "longitude": -3.173672,
     "slug": "2019-02-20-edinburgh-sbs-dc",
@@ -840,10 +900,11 @@
     "start_date": "2019-02-20"
   },
   {
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho",
     "end_date": "2019-02-19",
     "url": "https://edcarp.github.io/2019-02-18-edinburgh-business-school/",
     "country": "GB",
-    "instructors": "Lucia Michielin,Justin Chun-ting Ho",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "The University of Edinburgh - Business School",
     "longitude": null,
     "slug": "2019-02-18-edinburgh-business-school",
@@ -854,10 +915,11 @@
     "start_date": "2019-02-18"
   },
   {
+    "instructors": "Tina O'Grady,Hadrien Gourlé",
     "end_date": "2019-02-14",
     "url": "https://www.hadriengourle.com/2019-02-14-elixir-prague/",
     "country": "CZ",
-    "instructors": "Tina O'Grady,Hadrien Gourlé",
+    "curriculum": null,
     "venue": "University of Chemistry and Technology, Prague",
     "longitude": 14.39151,
     "slug": "2018-02-14-elixir-prague",
@@ -868,10 +930,11 @@
     "start_date": "2019-02-14"
   },
   {
+    "instructors": "Ana Costa Conrado,MONAH ABOU ALEZZ",
     "end_date": "2019-02-15",
     "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
     "country": "IT",
-    "instructors": "Ana Costa Conrado,MONAH ABOU ALEZZ",
+    "curriculum": null,
     "venue": "University Milano-Bicocca",
     "longitude": 9.21341,
     "slug": "2019-02-14-elixir-milano",
@@ -882,10 +945,11 @@
     "start_date": "2019-02-14"
   },
   {
+    "instructors": "Jen Daub",
     "end_date": "2019-02-07",
     "url": "https://edcarp.github.io/2019-02-07-Edinburgh-OpenRefine/",
     "country": "GB",
-    "instructors": "Jen Daub",
+    "curriculum": "Data Carpentry (other)",
     "venue": "The University of Edinburgh - Lister Learning and Teaching Centre (Central Area)",
     "longitude": -3.184586,
     "slug": "2019-02-07-Edinburgh-OpenRefine",
@@ -896,10 +960,11 @@
     "start_date": "2019-02-07"
   },
   {
+    "instructors": "Alessandra Vigilante",
     "end_date": "2019-02-07",
     "url": "https://alevigi.github.io/2019-2-6-SZN/",
     "country": "IT",
-    "instructors": "Alessandra Vigilante",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Stazione Zoologica Anton Dohrn Napoli",
     "longitude": 14.23563,
     "slug": "2019-02-06-SZN",
@@ -910,10 +975,11 @@
     "start_date": "2019-02-06"
   },
   {
+    "instructors": "Like Fokkens,Mattias de Hollander,Marc Galland,Saskia Hiltemann",
     "end_date": "2019-02-06",
     "url": "https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/",
     "country": "NL",
-    "instructors": "Like Fokkens,Mattias de Hollander,Marc Galland,Saskia Hiltemann",
+    "curriculum": null,
     "venue": "Wageningen Univeristy & Research (WUR)",
     "longitude": 5.66364,
     "slug": "2019-02-05-wageningen-genomics",
@@ -924,10 +990,11 @@
     "start_date": "2019-02-05"
   },
   {
+    "instructors": "Taylor Reiter,Sebastien Vigneau",
     "end_date": "2019-02-05",
     "url": "https://taylorreiter.github.io/2019-02-04-boston/",
     "country": "US",
-    "instructors": "Taylor Reiter,Sebastien Vigneau",
+    "curriculum": null,
     "venue": "Boston University",
     "longitude": -71.060886,
     "slug": "2019-02-04-boston",
@@ -938,10 +1005,11 @@
     "start_date": "2019-02-04"
   },
   {
+    "instructors": "Susan (Sue) Zwicker,Rebecca Dikow,Mike Trizna,Matthew Kweskin",
     "end_date": "2019-02-05",
     "url": "https://smithsonianworkshops.github.io/2019-02-04-castle/",
     "country": "US",
-    "instructors": "Susan (Sue) Zwicker,Rebecca Dikow,Mike Trizna,Matthew Kweskin",
+    "curriculum": null,
     "venue": "Data Carpentry Workshop at Smithsonian Castle Library",
     "longitude": -77.025991,
     "slug": "2019-02-04-castle",
@@ -952,10 +1020,11 @@
     "start_date": "2019-02-04"
   },
   {
+    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Kevin Dyke",
     "end_date": "2019-02-22",
     "url": "https://osu-carpentry.github.io/2019-02-01-okstate/",
     "country": "US",
-    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Kevin Dyke",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Oklahoma State University",
     "longitude": -97.069754,
     "slug": "2019-02-01-okstate",
@@ -966,10 +1035,11 @@
     "start_date": "2019-02-01"
   },
   {
+    "instructors": "Katrin Tirok,Tadiwanashe Gutsa,Kudakwashe Madzima,Bianca Peterson,Zolani Sita",
     "end_date": "2019-02-02",
     "url": "https://tenet-rccpii.github.io/2019-01-22-WSU-EastLondon",
     "country": "ZA",
-    "instructors": "Katrin Tirok,Tadiwanashe Gutsa,Kudakwashe Madzima,Bianca Peterson,Zolani Sita",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Walter Sisulu University",
     "longitude": 27.9058585,
     "slug": "2019-01-30-WSU-EastLondon",
@@ -980,10 +1050,11 @@
     "start_date": "2019-01-31"
   },
   {
+    "instructors": "Jenny Drnevich,Jessica Holmes,Neal Davis",
     "end_date": "2019-01-31",
     "url": "https://swc-uiuc.github.io/2019-01-31-dc-illinois/",
     "country": "US",
-    "instructors": "Jenny Drnevich,Jessica Holmes,Neal Davis",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "University of Illinois",
     "longitude": -88.2269122,
     "slug": "2019-01-31-dc-illinois",
@@ -994,10 +1065,11 @@
     "start_date": "2019-01-31"
   },
   {
+    "instructors": "Florian Huber,Hugo Tavares,Thea Van Rossum,Georg Zeller",
     "end_date": "2019-01-31",
     "url": "https://tavareshugo.github.io/2019-01-29-EMBL/",
     "country": "DE",
-    "instructors": "Florian Huber,Hugo Tavares,Thea Van Rossum,Georg Zeller",
+    "curriculum": null,
     "venue": "EMBL Heidelberg",
     "longitude": 8.70907,
     "slug": "2019-01-29-EMBL",
@@ -1008,10 +1080,11 @@
     "start_date": "2019-01-29"
   },
   {
+    "instructors": "Mateusz Kuzak,Jessica Upani,Dagim Mengesha",
     "end_date": "2019-01-29",
     "url": "https://anelda.github.io/2019-01-28-SomaliREN/",
     "country": "SO",
-    "instructors": "Mateusz Kuzak,Jessica Upani,Dagim Mengesha",
+    "curriculum": "Data Carpentry (Ecology with Python)",
     "venue": "Somaliland",
     "longitude": 43.5502927,
     "slug": "2019-01-28-SomaliREN",
@@ -1022,10 +1095,11 @@
     "start_date": "2019-01-28"
   },
   {
+    "instructors": "Donal Heidenblad,Fred Boehm",
     "end_date": "2019-01-26",
     "url": "https://fboehm.github.io/2019-01-25-gmu/",
     "country": "US",
-    "instructors": "Donal Heidenblad,Fred Boehm",
+    "curriculum": null,
     "venue": "George Mason University",
     "longitude": -77.07993,
     "slug": "2019-01-25-gmu",
@@ -1036,10 +1110,11 @@
     "start_date": "2019-01-25"
   },
   {
+    "instructors": "Aniello Infante,Amanda Charbonneau",
     "end_date": "2019-01-18",
     "url": "https://nielinfante.github.io/2019-01-18-rutgers/",
     "country": "FI",
-    "instructors": "Aniello Infante,Amanda Charbonneau",
+    "curriculum": null,
     "venue": "Rutgers University",
     "longitude": null,
     "slug": "2019-01-18-rutgers",
@@ -1050,10 +1125,11 @@
     "start_date": "2019-01-17"
   },
   {
+    "instructors": "Mark Fernandes,Anne Pajon,Jing Su,Ashley Sawle",
     "end_date": "2019-01-16",
     "url": "https://bioinformatics-core-shared-training.github.io/2019-01-15-CRUK-Cambridge-DCinR/",
     "country": "GB",
-    "instructors": "Mark Fernandes,Anne Pajon,Jing Su,Ashley Sawle",
+    "curriculum": "Data Carpentry (other)",
     "venue": "School of Clinical Medicine",
     "longitude": 0.1374,
     "slug": "2019-01-15-CRUK-Cambridge-DCinR",
@@ -1064,10 +1140,11 @@
     "start_date": "2019-01-15"
   },
   {
+    "instructors": "Katrin Tirok,Caroll Hermann,Ziphozakhe Mashologu,Mojalefa Malahlela",
     "end_date": "2019-01-17",
     "url": "https://tenet-rccpii.github.io/2019-01-15-UNIZULU/",
     "country": "ZA",
-    "instructors": "Katrin Tirok,Caroll Hermann,Ziphozakhe Mashologu,Mojalefa Malahlela",
+    "curriculum": "Data Carpentry (Social Sciences with Python)",
     "venue": "University of Zululand",
     "longitude": 31.849152,
     "slug": "2019-01-15-UNIZULU",
@@ -1078,10 +1155,11 @@
     "start_date": "2019-01-15"
   },
   {
+    "instructors": "Harrison Dekker,Robert Literman,Stephen Shivers",
     "end_date": "2019-01-16",
     "url": "https://rhodyrstats.github.io/2019-01-15-uri/",
     "country": "US",
-    "instructors": "Harrison Dekker,Robert Literman,Stephen Shivers",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "University of Rhode Island",
     "longitude": -71.52748,
     "slug": "2019-01-15-uri",
@@ -1092,10 +1170,11 @@
     "start_date": "2019-01-15"
   },
   {
+    "instructors": "Ashley Hetrick,Dena Strong,Elizabeth Wickes,Colleen Fallaw,Halle Burns",
     "end_date": "2019-01-11",
     "url": "https://swc-uiuc.github.io/2019-01-10-dch-illinois/",
     "country": "US",
-    "instructors": "Ashley Hetrick,Dena Strong,Elizabeth Wickes,Colleen Fallaw,Halle Burns",
+    "curriculum": "Data Carpentry (other)",
     "venue": "University of Illinois",
     "longitude": -88.2271851,
     "slug": "2019-01-10-dch-illinois",
@@ -1106,10 +1185,11 @@
     "start_date": "2019-01-10"
   },
   {
+    "instructors": "Sarah Brown,Ian Carroll",
     "end_date": "2019-01-11",
     "url": "https://nyu-dataservices.github.io/2019-01-10-nyu/",
     "country": "US",
-    "instructors": "Sarah Brown,Ian Carroll",
+    "curriculum": null,
     "venue": "New York University",
     "longitude": -73.997218,
     "slug": "2019-01-10-nyu",
@@ -1120,10 +1200,11 @@
     "start_date": "2019-01-10"
   },
   {
+    "instructors": "Michele Tobias,Vessela Ensberg,Quinn Hart,Pamela Reynolds,Jane Carlen",
     "end_date": "2019-01-04",
     "url": "https://micheletobias.github.io/2019-01-03-Davis/",
     "country": "US",
-    "instructors": "Michele Tobias,Vessela Ensberg,Quinn Hart,Pamela Reynolds,Jane Carlen",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "UC Davis Library",
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
@@ -1134,10 +1215,11 @@
     "start_date": "2019-01-03"
   },
   {
+    "instructors": "Dagim Mengesha,Yirga Abebe",
     "end_date": "2018-12-19",
     "url": "https://dagimy.github.io/2018-12-17-DC-AKU/",
     "country": "ET",
-    "instructors": "Dagim Mengesha,Yirga Abebe",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Aksum University",
     "longitude": 38.75008,
     "slug": "2018-12-17-DC-AKU",
@@ -1148,10 +1230,11 @@
     "start_date": "2018-12-17"
   },
   {
+    "instructors": "Ki Cole,Kay BJornen,Pratishtha Poudel,Gautham Brahma Ponnaganti,Kevin Dyke",
     "end_date": "2018-12-18",
     "url": "https://osu-carpentry.github.io/2018-12-17-okstate/",
     "country": "US",
-    "instructors": "Ki Cole,Kay BJornen,Pratishtha Poudel,Gautham Brahma Ponnaganti,Kevin Dyke",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Oklahoma State University",
     "longitude": -97.069701,
     "slug": "2018-12-17-okstate",
@@ -1162,10 +1245,11 @@
     "start_date": "2018-12-17"
   },
   {
+    "instructors": "Darya Vanichkina,Maryam Montazerolghaem",
     "end_date": "2018-12-11",
     "url": "https://sydney-informatics-hub.github.io/2018_12_10_GISworkshop/",
     "country": "AU",
-    "instructors": "Darya Vanichkina,Maryam Montazerolghaem",
+    "curriculum": "Data Carpentry (Geospatial)",
     "venue": "University of Sydney",
     "longitude": 151.190263,
     "slug": "2018-12-10-USyd",
@@ -1176,10 +1260,11 @@
     "start_date": "2018-12-10"
   },
   {
+    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis",
     "end_date": "2018-12-07",
     "url": "https://edcarp.github.io/2018-12-06-edinburgh-dc-genomics/",
     "country": "GB",
-    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis",
+    "curriculum": "Data Carpentry (Genomics)",
     "venue": "University of Edinburgh",
     "longitude": null,
     "slug": "2018-12-06-edinburgh-dc-genomics",
@@ -1190,10 +1275,11 @@
     "start_date": "2018-12-06"
   },
   {
+    "instructors": "Zine Sapula,Anelda van der Walt",
     "end_date": "2018-12-06",
     "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-DC/",
     "country": "ZA",
-    "instructors": "Zine Sapula,Anelda van der Walt",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Durban University of Technology",
     "longitude": 31.0039191,
     "slug": "2018-12-04-DUT-DC",
@@ -1204,10 +1290,11 @@
     "start_date": "2018-12-04"
   },
   {
+    "instructors": "Amieroh Abrahams,Abisola Regina Sholeye,Angelique van Rensburg",
     "end_date": "2018-12-05",
     "url": "https://workshops-ukzn.github.io/2018-12-04-UKZN-DC/",
     "country": "ZA",
-    "instructors": "Amieroh Abrahams,Abisola Regina Sholeye,Angelique van Rensburg",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "Data Carpentry at UKZN, Westville Campus",
     "longitude": 30.943994,
     "slug": "2018-12-04-UKZN-DC",
@@ -1218,10 +1305,11 @@
     "start_date": "2018-12-04"
   },
   {
+    "instructors": "Arindam Basu,Murray Cadzow",
     "end_date": "2018-11-30",
     "url": "https://otagocarpentries.github.io/2018-11-29-esr/",
     "country": "NZ",
-    "instructors": "Arindam Basu,Murray Cadzow",
+    "curriculum": null,
     "venue": "ESR Christchurch Science Centre - Kawakawa Room",
     "longitude": 172.5866404,
     "slug": "2018-11-29-ESR-CHC",
@@ -1232,10 +1320,11 @@
     "start_date": "2018-11-29"
   },
   {
+    "instructors": "Michele Tobias,Michael Koontz,Ryan Peek,Michael Culshaw-Maurer",
     "end_date": "2018-11-30",
     "url": "https://mikoontz.github.io/2018-11-29-davis-geospatial/",
     "country": "US",
-    "instructors": "Michele Tobias,Michael Koontz,Ryan Peek,Michael Culshaw-Maurer",
+    "curriculum": null,
     "venue": "University of California, Davis",
     "longitude": -121.763881,
     "slug": "2018-11-29-davis-geospatial",
@@ -1246,10 +1335,11 @@
     "start_date": "2018-11-29"
   },
   {
+    "instructors": "Temesgen Philipos Philipos,Mesfin Diro Chaka",
     "end_date": "2018-11-28",
     "url": "https://dagimy.github.io/2018-11-26-DC-DU/",
     "country": "ET",
-    "instructors": "Temesgen Philipos Philipos,Mesfin Diro Chaka",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Dilla University",
     "longitude": 38.04957,
     "slug": "2018-11-26-DC-DU",
@@ -1260,10 +1350,11 @@
     "start_date": "2018-11-26"
   },
   {
+    "instructors": "Dagim Mengesha,Haftu Adhena",
     "end_date": "2018-11-23",
     "url": "https://dagimy.github.io/2018-11-19-DC-WKU/",
     "country": "ET",
-    "instructors": "Dagim Mengesha,Haftu Adhena",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "Wolkite University",
     "longitude": 37.77865,
     "slug": "2018-11-19-DC-WKU",
@@ -1274,10 +1365,11 @@
     "start_date": "2018-11-21"
   },
   {
+    "instructors": "Logan Cox,Claire Curry,Sarah Pugachev",
     "end_date": "2018-11-20",
     "url": "https://oulib-swc.github.io/2018-11-19-ou-dc/",
     "country": "US",
-    "instructors": "Logan Cox,Claire Curry,Sarah Pugachev",
+    "curriculum": null,
     "venue": "University of Oklahoma",
     "longitude": -97.445848,
     "slug": "2018-11-19-ou-dc",
@@ -1288,10 +1380,11 @@
     "start_date": "2018-11-19"
   },
   {
+    "instructors": "Dmytro Fishman,Liis Kolberg",
     "end_date": "2018-11-20",
     "url": "https://elixirestonia.github.io/2018-11-19-tartu/",
     "country": "EE",
-    "instructors": "Dmytro Fishman,Liis Kolberg",
+    "curriculum": null,
     "venue": "University of Tartu",
     "longitude": 24.742271,
     "slug": "2018-11-19-tartu",
@@ -1302,10 +1395,11 @@
     "start_date": "2018-11-19"
   },
   {
+    "instructors": "Alphonce Bere,Glenn Moncrieff,Lactatia Motsuku,Martin Canaan Mafunda",
     "end_date": "2018-11-15",
     "url": "https://tenet-rccpii.github.io/2018-11-13-UNIVEN/",
     "country": "ZA",
-    "instructors": "Alphonce Bere,Glenn Moncrieff,Lactatia Motsuku,Martin Canaan Mafunda",
+    "curriculum": null,
     "venue": "University of Venda",
     "longitude": 30.444291,
     "slug": "2018-11-13-UNIVEN",
@@ -1316,10 +1410,11 @@
     "start_date": "2018-11-13"
   },
   {
+    "instructors": "Antje Lubcke,Mik Black,Alana Alexander,Riku Takei",
     "end_date": "2018-11-14",
     "url": "https://otagocarpentries.github.io/2018-11-13-otago-dc/",
     "country": "NZ",
-    "instructors": "Antje Lubcke,Mik Black,Alana Alexander,Riku Takei",
+    "curriculum": null,
     "venue": "University of Otago - Data Carpentry",
     "longitude": null,
     "slug": "2018-11-13-otago-dc",
@@ -1330,10 +1425,11 @@
     "start_date": "2018-11-13"
   },
   {
+    "instructors": "Jon Marshall,Marc O'Brien,Anne Pajon",
     "end_date": "2018-11-13",
     "url": "https://bioinformatics-core-shared-training.github.io/2018-11-13-shell/",
     "country": "GB",
-    "instructors": "Jon Marshall,Marc O'Brien,Anne Pajon",
+    "curriculum": null,
     "venue": "CRUK Cambridge Institute",
     "longitude": 0.135569,
     "slug": "2018-11-13-shell",
@@ -1344,10 +1440,11 @@
     "start_date": "2018-11-13"
   },
   {
+    "instructors": "Danielle Quinn,Gabriel Salubi,Zak (I.W) van Heerden",
     "end_date": "2018-11-14",
     "url": "https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/",
     "country": "ZA",
-    "instructors": "Danielle Quinn,Gabriel Salubi,Zak (I.W) van Heerden",
+    "curriculum": null,
     "venue": "University of Fort Hare - Alice Campus",
     "longitude": 26.7897755,
     "slug": "2018-11-12-UFH-Alice",
@@ -1358,10 +1455,11 @@
     "start_date": "2018-11-12"
   },
   {
+    "instructors": "Anne Treasure,Danielle Quinn,Zak (I.W) van Heerden",
     "end_date": "2018-11-09",
     "url": "https://TENET-RCCPII.github.io/2018-11-07-Rhodes-Uni",
     "country": "ZA",
-    "instructors": "Anne Treasure,Danielle Quinn,Zak (I.W) van Heerden",
+    "curriculum": null,
     "venue": "Rhodes University",
     "longitude": 26.5108861,
     "slug": "2018-11-07-Rhodes-Uni",
@@ -1372,10 +1470,11 @@
     "start_date": "2018-11-07"
   },
   {
+    "instructors": "Shane Sanders,David McKenzie,Anne Deslattes Mays,Neil Kindlon,Jason Macklin,Diogo Troggian Veiga,Sandeep Namburi",
     "end_date": "2018-11-07",
     "url": "https://thejacksonlaboratory.github.io/2018-11-06-jax/",
     "country": "US",
-    "instructors": "Shane Sanders,David McKenzie,Anne Deslattes Mays,Neil Kindlon,Jason Macklin,Diogo Troggian Veiga,Sandeep Namburi",
+    "curriculum": null,
     "venue": "The Jackson Laboratory for Genomic Medicine",
     "longitude": -72.793404,
     "slug": "2018-11-06-jax",
@@ -1386,10 +1485,11 @@
     "start_date": "2018-11-06"
   },
   {
+    "instructors": "Rocio Martinez Nunez,Alessandra Vigilante",
     "end_date": "2018-11-02",
     "url": "https://rociotmartinez.github.io/2018-11-01-london-kcl/",
     "country": "GB",
-    "instructors": "Rocio Martinez Nunez,Alessandra Vigilante",
+    "curriculum": null,
     "venue": "King's College London",
     "longitude": -0.073967,
     "slug": "2018-11-01-london-kcl",
@@ -1400,10 +1500,11 @@
     "start_date": "2018-11-01"
   },
   {
+    "instructors": "Anelda van der Walt,Motlagomang Khantsi",
     "end_date": "2018-11-02",
     "url": "https://tenet-rccpii.github.io/2018-10-31-SMU/",
     "country": "ZA",
-    "instructors": "Anelda van der Walt,Motlagomang Khantsi",
+    "curriculum": null,
     "venue": "Sefako Makgatho University",
     "longitude": 28.0147046,
     "slug": "2018-10-31-SMU",
@@ -1414,10 +1515,11 @@
     "start_date": "2018-10-31"
   },
   {
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Jordan Munson,Devi Gurung",
     "end_date": "2018-10-26",
     "url": "https://mbrousil.github.io/2018-10-25-wsu/",
     "country": "US",
-    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Jordan Munson,Devi Gurung",
+    "curriculum": null,
     "venue": "Washington State University",
     "longitude": -117.1545807,
     "slug": "2018-10-25-wsu",
@@ -1428,10 +1530,11 @@
     "start_date": "2018-10-25"
   },
   {
+    "instructors": "Zine Sapula,Martin Dreyer",
     "end_date": "2018-10-25",
     "url": "https://nwu-eresearch.github.io/2018-10-25-Open-Access-Week/",
     "country": "ZA",
-    "instructors": "Zine Sapula,Martin Dreyer",
+    "curriculum": null,
     "venue": "North West University, Vaal Campus Library",
     "longitude": 27.87926,
     "slug": "2018-10-25-Open-Access-Week",
@@ -1442,10 +1545,11 @@
     "start_date": "2018-10-24"
   },
   {
+    "instructors": "Ashley Hetrick,Dena Strong,Elizabeth Wickes,Colleen Fallaw",
     "end_date": "2018-10-19",
     "url": "https://swc-uiuc.github.io/2018-10-18-illinois/",
     "country": "US",
-    "instructors": "Ashley Hetrick,Dena Strong,Elizabeth Wickes,Colleen Fallaw",
+    "curriculum": null,
     "venue": "University of Illinois",
     "longitude": -88.2271851,
     "slug": "2018-10-18-illinois",
@@ -1456,10 +1560,11 @@
     "start_date": "2018-10-18"
   },
   {
+    "instructors": "Mekonen kahsay,Yonas Demissew,Dagim Mengesha",
     "end_date": "2018-10-17",
     "url": "https://mesfind.github.io/2018-10-15-DC-ADU/",
     "country": "ET",
-    "instructors": "Mekonen kahsay,Yonas Demissew,Dagim Mengesha",
+    "curriculum": null,
     "venue": "Adigrat  University: Data Carpentry Workshop",
     "longitude": 39.465704,
     "slug": "2018-10-15-DC-ADU",
@@ -1470,10 +1575,11 @@
     "start_date": "2018-10-15"
   },
   {
+    "instructors": "Mekonen kahsay,Yonas Demissew,Dagim Mengesha",
     "end_date": "2018-10-17",
     "url": "https://dagimy.github.io/2018-10-15-DC-AG-TVET/",
     "country": "ET",
-    "instructors": "Mekonen kahsay,Yonas Demissew,Dagim Mengesha",
+    "curriculum": null,
     "venue": "Adigrat Technical Vocational Education & Training",
     "longitude": 39.462391,
     "slug": "2018-10-15-DC-AG-TVET",
@@ -1484,10 +1590,11 @@
     "start_date": "2018-10-15"
   },
   {
+    "instructors": "Shaily Gandhi,Bindi Dave",
     "end_date": "2018-10-07",
     "url": "https://shailygandhi.github.io/2018-10-06-CEPT/",
     "country": "IN",
-    "instructors": "Shaily Gandhi,Bindi Dave",
+    "curriculum": null,
     "venue": "Faculty of Technology, CEPT University",
     "longitude": 72.549742,
     "slug": "2018-10-06-CEPT",
@@ -1498,10 +1605,11 @@
     "start_date": "2018-10-06"
   },
   {
+    "instructors": "Binod Pokharel,Betty Rozum,Curtis Dyreson,Carol Rowe,Paul Wolf",
     "end_date": "2018-10-22",
     "url": "https://carol-rowe666.github.io/2018-10-USU-DataCarpentry/",
     "country": "US",
-    "instructors": "Binod Pokharel,Betty Rozum,Curtis Dyreson,Carol Rowe,Paul Wolf",
+    "curriculum": null,
     "venue": "Utah State University - Data Carpentry",
     "longitude": -111.809742,
     "slug": "2018-10-01-USU-DataCarpentry",
@@ -1512,10 +1620,11 @@
     "start_date": "2018-10-01"
   },
   {
+    "instructors": "Valentina Staneva,Cecilia Noecker,Jose Hernandez",
     "end_date": "2018-10-02",
     "url": "https://uwescience.github.io/2018-10-01-UW-dc/",
     "country": "US",
-    "instructors": "Valentina Staneva,Cecilia Noecker,Jose Hernandez",
+    "curriculum": null,
     "venue": "The University of Washington eScience Institute",
     "longitude": -122.332071,
     "slug": "2018-10-01-UW-dc",
@@ -1526,10 +1635,11 @@
     "start_date": "2018-10-01"
   },
   {
+    "instructors": "Jenny Drnevich,Jessica Holmes,Neal Davis",
     "end_date": "2018-09-28",
     "url": "https://swc-uiuc.github.io/2018-09-27-dc-illinois/",
     "country": "US",
-    "instructors": "Jenny Drnevich,Jessica Holmes,Neal Davis",
+    "curriculum": null,
     "venue": "University of Illinois",
     "longitude": -88.2269122,
     "slug": "2018-09-27-dc-illinois",
@@ -1540,10 +1650,11 @@
     "start_date": "2018-09-27"
   },
   {
+    "instructors": "James San,Katrin Tirok",
     "end_date": "2018-09-28",
     "url": "https://jsan4christ.github.io/2018-09-27-ukzn/",
     "country": "ZA",
-    "instructors": "James San,Katrin Tirok",
+    "curriculum": null,
     "venue": "Data Carpentry, in UKZN",
     "longitude": 30.987891,
     "slug": "2018-09-27-ukzn",
@@ -1554,10 +1665,11 @@
     "start_date": "2018-09-27"
   },
   {
+    "instructors": "DAGIM YOSEPH,Mesfin Diro Chaka,Alehegn Adane Kinde",
     "end_date": "2018-09-28",
     "url": "https://mesfind.github.io/2018-09-26-DC-UOG/",
     "country": "ET",
-    "instructors": "DAGIM YOSEPH,Mesfin Diro Chaka,Alehegn Adane Kinde",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "University of Gonder: Data Carpentry Workshop",
     "longitude": 37.442935,
     "slug": "2018-09-26-DC-UOG",
@@ -1568,10 +1680,11 @@
     "start_date": "2018-09-26"
   },
   {
+    "instructors": "Haleluya Kiflu,Tatek Kassu Tola,Mesfin Diro Chaka",
     "end_date": "2018-09-19",
     "url": "https://mesfind.github.io/2018-09-17-DC-DMU/",
     "country": "ET",
-    "instructors": "Haleluya Kiflu,Tatek Kassu Tola,Mesfin Diro Chaka",
+    "curriculum": null,
     "venue": "Debre-Markos University: Data Carpentry Workshop",
     "longitude": 37.741036,
     "slug": "2018-09-17-DC-DMU",
@@ -1582,10 +1695,11 @@
     "start_date": "2018-09-17"
   },
   {
+    "instructors": "Tim Dennis,Kristian Allen",
     "end_date": "2018-09-15",
     "url": "https://ucla-data-archive.github.io/2018-08-28-usc/",
     "country": "US",
-    "instructors": "Tim Dennis,Kristian Allen",
+    "curriculum": null,
     "venue": "USC",
     "longitude": -118.2828296,
     "slug": "2018-08-28-usc",
@@ -1596,10 +1710,11 @@
     "start_date": "2018-09-14"
   },
   {
+    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
     "end_date": "2018-09-14",
     "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
     "country": "GB",
-    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "The University of Edinburgh",
     "longitude": -3.19018,
     "slug": "2018-09-13-edinburgh",
@@ -1610,10 +1725,11 @@
     "start_date": "2018-09-13"
   },
   {
+    "instructors": "Sue McClatchy,Julia Brown",
     "end_date": "2018-09-13",
     "url": "https://smcclatchy.github.io/2018-09-12-new_england_tribes_USGS/",
     "country": "US",
-    "instructors": "Sue McClatchy,Julia Brown",
+    "curriculum": null,
     "venue": "USGS New England Water Science Center",
     "longitude": -69.809235,
     "slug": "2018-09-12-new_england_tribes_USGS",
@@ -1624,10 +1740,11 @@
     "start_date": "2018-09-12"
   },
   {
+    "instructors": "Sam Nooij,Anita Schürch,Marieke Dirksen,Dennis Schmitz",
     "end_date": "2018-09-11",
     "url": "https://rivm-bioinformatics.github.io/2018-09-10-RIVM/",
     "country": "NL",
-    "instructors": "Sam Nooij,Anita Schürch,Marieke Dirksen,Dennis Schmitz",
+    "curriculum": null,
     "venue": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM)",
     "longitude": 5.189059,
     "slug": "2018-09-10-RIVM",
@@ -1638,10 +1755,11 @@
     "start_date": "2018-09-10"
   },
   {
+    "instructors": "Joel Ostblom,Ahmed Hasan,Sarah Mahallati,Lina Tran",
     "end_date": "2018-09-10",
     "url": "https://uoftcoders.github.io/2018-09-10-utoronto",
     "country": "CA",
-    "instructors": "Joel Ostblom,Ahmed Hasan,Sarah Mahallati,Lina Tran",
+    "curriculum": null,
     "venue": "University of Toronto",
     "longitude": -79.393965,
     "slug": "2018-09-10-utoronto",
@@ -1652,10 +1770,11 @@
     "start_date": "2018-09-10"
   },
   {
+    "instructors": "Bianca Peterson,Katrin Tirok,Nikki Gentle,Sarah Brown",
     "end_date": "2018-09-05",
     "url": "https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/",
     "country": "ZA",
-    "instructors": "Bianca Peterson,Katrin Tirok,Nikki Gentle,Sarah Brown",
+    "curriculum": null,
     "venue": "CarpentryConnect Johannesburg 2018 - Social Sciences Data Carpentry",
     "longitude": 28.2483343,
     "slug": "2018-09-03-CarpentryConnect-JHB-Social-Sciences",
@@ -1666,10 +1785,11 @@
     "start_date": "2018-09-03"
   },
   {
+    "instructors": "Muhdin Ali,Mesfin Diro Chaka",
     "end_date": "2018-09-04",
     "url": "https://mesfind.github.io/2018-09-03-DC-Wollo/",
     "country": "ET",
-    "instructors": "Muhdin Ali,Mesfin Diro Chaka",
+    "curriculum": null,
     "venue": "Wollo University: Data Carpentry Workshop",
     "longitude": 36.88995,
     "slug": "2018-09-03-DC-Wollo",
@@ -1680,10 +1800,11 @@
     "start_date": "2018-09-03"
   },
   {
+    "instructors": "Trisha Adamus,Karl Broman,Maria Kamenetsky,Christina Koch",
     "end_date": "2018-08-28",
     "url": "https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus,Karl Broman,Maria Kamenetsky,Christina Koch",
+    "curriculum": null,
     "venue": "Data Carpentry @ UW Madison",
     "longitude": -89.410268,
     "slug": "2018-08-27-uwmadison-dc",
@@ -1694,10 +1815,11 @@
     "start_date": "2018-08-27"
   },
   {
+    "instructors": "Rebecca Hartman-Baker,Arthur Endsley",
     "end_date": "2018-08-24",
     "url": "https://arthur-e.github.io/2018-08-23-LBNL/",
     "country": "US",
-    "instructors": "Rebecca Hartman-Baker,Arthur Endsley",
+    "curriculum": null,
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -122.250481,
     "slug": "2018-08-23-LBNL",
@@ -1708,10 +1830,11 @@
     "start_date": "2018-08-23"
   },
   {
+    "instructors": "Tobin Magle,Brook Moyers",
     "end_date": "2018-08-24",
     "url": "https://btmoyers.github.io/2018-08-22-USDA/",
     "country": "US",
-    "instructors": "Tobin Magle,Brook Moyers",
+    "curriculum": null,
     "venue": "USDA Long Term Agoecosystem Research Network",
     "longitude": -105.084415,
     "slug": "2018-08-22-USDA",
@@ -1722,10 +1845,11 @@
     "start_date": "2018-08-22"
   },
   {
+    "instructors": "Nelly Sélem,Humberto Ortiz-Zuazaga,Israel Dilán",
     "end_date": "2018-08-18",
     "url": "https://idi-bd2k.github.io/2018-08-17-puertorico-genomics/",
     "country": "PR",
-    "instructors": "Nelly Sélem,Humberto Ortiz-Zuazaga,Israel Dilán",
+    "curriculum": null,
     "venue": "University of Puerto Rico",
     "longitude": -66.046144,
     "slug": "2018-08-17-puertorico",
@@ -1736,10 +1860,11 @@
     "start_date": "2018-08-17"
   },
   {
+    "instructors": "Francisco Palm,Ana Beatriz Villaseñor Altamirano",
     "end_date": "2018-08-16",
     "url": "https://map0logo.github.io/2018-08-15-puerto-rico-ecology/",
     "country": "PR",
-    "instructors": "Francisco Palm,Ana Beatriz Villaseñor Altamirano",
+    "curriculum": null,
     "venue": "University of Puerto Rico",
     "longitude": -66.0456309,
     "slug": "2018-08-15-puerto-rico",
@@ -1750,10 +1875,11 @@
     "start_date": "2018-08-15"
   },
   {
+    "instructors": "Kristina Riemer,Punam Amratia,Kok Ben Toh,Joe Andreoli,Geraldine Klarenberg",
     "end_date": "2018-08-16",
     "url": "https://picardis.github.io/2018-08-15-ufii/",
     "country": "US",
-    "instructors": "Kristina Riemer,Punam Amratia,Kok Ben Toh,Joe Andreoli,Geraldine Klarenberg",
+    "curriculum": null,
     "venue": "University of Florida Informatics Institute",
     "longitude": -82.344031,
     "slug": "2018-08-15-ufii",
@@ -1764,10 +1890,11 @@
     "start_date": "2018-08-15"
   },
   {
+    "instructors": "Damien Irving",
     "end_date": "2018-08-15",
     "url": "https://damienirving.github.io/2018-08-15-whoi/",
     "country": "US",
-    "instructors": "Damien Irving",
+    "curriculum": null,
     "venue": "Woods Hole Oceanographic Institution",
     "longitude": -70.647926,
     "slug": "2018-08-15-whoi",
@@ -1778,10 +1905,11 @@
     "start_date": "2018-08-15"
   },
   {
+    "instructors": "Jason Williams",
     "end_date": "2018-08-14",
     "url": "https://jasonjwilliamsny.github.io/2018-08-13-csu/",
     "country": "US",
-    "instructors": "Jason Williams",
+    "curriculum": null,
     "venue": "Genomics Data Carpentry",
     "longitude": -105.0865473,
     "slug": "2018-08-13-csu",
@@ -1792,10 +1920,11 @@
     "start_date": "2018-08-13"
   },
   {
+    "instructors": "Caroline Cypranowska,Diya Das",
     "end_date": "2018-08-07",
     "url": "https://bids.github.io/2018-08-06-bids/",
     "country": "US",
-    "instructors": "Caroline Cypranowska,Diya Das",
+    "curriculum": null,
     "venue": "Berkeley Institute for Data Science",
     "longitude": -122.259556,
     "slug": "2018-08-06-bids",
@@ -1806,10 +1935,11 @@
     "start_date": "2018-08-06"
   },
   {
+    "instructors": "Brook Moyers,Hilmar Lapp,Dan Leehr",
     "end_date": "2018-07-27",
     "url": "https://duke-gcb.github.io/2018-07-26-Duke/",
     "country": "US",
-    "instructors": "Brook Moyers,Hilmar Lapp,Dan Leehr",
+    "curriculum": null,
     "venue": "Duke University",
     "longitude": -78.943498,
     "slug": "2018-07-26-duke",
@@ -1820,10 +1950,11 @@
     "start_date": "2018-07-26"
   },
   {
+    "instructors": "Peter Smyth,Aleksandra Nenadic",
     "end_date": "2018-07-20",
     "url": "https://petersmyth12.github.io/2018-07-19-ss-dc-manchester/",
     "country": "GB",
-    "instructors": "Peter Smyth,Aleksandra Nenadic",
+    "curriculum": null,
     "venue": "Basement Lab, Humanities Bridgeford St. Building, Cathie Marsh Institute for Social Research",
     "longitude": -2.236463,
     "slug": "2018-07-19-ss-dc-manchester",
@@ -1834,10 +1965,11 @@
     "start_date": "2018-07-19"
   },
   {
+    "instructors": "Caroline Ajilogba,Martin Dreyer,Motlagomang Khantsi,Rhoda Aremu",
     "end_date": "2018-07-20",
     "url": "https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/",
     "country": "ZA",
-    "instructors": "Caroline Ajilogba,Martin Dreyer,Motlagomang Khantsi,Rhoda Aremu",
+    "curriculum": null,
     "venue": "North-West University - Mahikeng Campus",
     "longitude": 25.6088492,
     "slug": "2018-07-18-NWU-Mafikeng",
@@ -1848,10 +1980,11 @@
     "start_date": "2018-07-18"
   },
   {
+    "instructors": "Anelda van der Walt,Oghenere Salubi,Bukola Rhoda Aremu",
     "end_date": "2018-07-13",
     "url": "https://tenet-rccpii.github.io/2018-07-11-UMP/",
     "country": "ZA",
-    "instructors": "Anelda van der Walt,Oghenere Salubi,Bukola Rhoda Aremu",
+    "curriculum": null,
     "venue": "University of Mpumalanga",
     "longitude": 30.9796137,
     "slug": "2018-07-11-UMP",
@@ -1862,10 +1995,11 @@
     "start_date": "2018-07-11"
   },
   {
+    "instructors": "Katrin Tirok,Justin Pringle,James San,Justin Pringle",
     "end_date": "2018-07-11",
     "url": "https://katrintirok.github.io/2018-07-10-UKZN-PMB/",
     "country": "ZA",
-    "instructors": "Katrin Tirok,Justin Pringle,James San,Justin Pringle",
+    "curriculum": null,
     "venue": "UKZN, Bioresources Engineering",
     "longitude": 30.396608,
     "slug": "2018-07-10-UKZN-PMB",
@@ -1876,10 +2010,11 @@
     "start_date": "2018-07-10"
   },
   {
+    "instructors": "Murray Cadzow,Mik Black,Greg Gimenez",
     "end_date": "2018-07-05",
     "url": "https://murraycadzow.github.io/2018-07-04-otago-dc/",
     "country": "NZ",
-    "instructors": "Murray Cadzow,Mik Black,Greg Gimenez",
+    "curriculum": null,
     "venue": "St David St Lecture Theatre Seminar Rooms",
     "longitude": 170.513837,
     "slug": "2018-07-04-otago-dc",
@@ -1890,10 +2025,11 @@
     "start_date": "2018-07-04"
   },
   {
+    "instructors": "Darya Vanichkina,Gordon McDonald,Paddy Tobias,Richard Miller,Jerry Lai,Fiona Jones",
     "end_date": "2018-07-04",
     "url": "http://daryavanichkina.com/2018-07-03-ResbazSydney/",
     "country": "AU",
-    "instructors": "Darya Vanichkina,Gordon McDonald,Paddy Tobias,Richard Miller,Jerry Lai,Fiona Jones",
+    "curriculum": null,
     "venue": "ResBaz Sydney (novice R stream)",
     "longitude": 151.1121539,
     "slug": "2018-07-03-ResbazSydney",
@@ -1904,10 +2040,11 @@
     "start_date": "2018-07-03"
   },
   {
+    "instructors": "Sandra Cortijo,Hugo Tavares,Sergio Martínez Cuesta",
     "end_date": "2018-06-29",
     "url": "https://tavareshugo.github.io/2018-06-28-cambridge/",
     "country": "GB",
-    "instructors": "Sandra Cortijo,Hugo Tavares,Sergio Martínez Cuesta",
+    "curriculum": null,
     "venue": "University of Cambridge",
     "longitude": 0.122514,
     "slug": "2018-06-28-cambridge",
@@ -1918,10 +2055,11 @@
     "start_date": "2018-06-28"
   },
   {
+    "instructors": "Ryan Peek,Taylor Reiter",
     "end_date": "2018-06-28",
     "url": "https://dib-lab.github.io/2018-06-27-DIBSI-Genomics/",
     "country": "US",
-    "instructors": "Ryan Peek,Taylor Reiter",
+    "curriculum": null,
     "venue": "UC Davis - DIBSI Genomics",
     "longitude": -121.7658964,
     "slug": "2018-06-27-DIBSI-Genomics",
@@ -1932,10 +2070,11 @@
     "start_date": "2018-06-27"
   },
   {
+    "instructors": "Michele Tobias,Michael Culshaw-Maurer,Stewart Wilson",
     "end_date": "2018-06-28",
     "url": "https://dib-lab.github.io/2018-06-27-DIBSI-Geospatial/",
     "country": "US",
-    "instructors": "Michele Tobias,Michael Culshaw-Maurer,Stewart Wilson",
+    "curriculum": null,
     "venue": "UC Davis - DIBSI Geospatial Workshop",
     "longitude": -121.7658964,
     "slug": "2018-06-27-DIBSI-Geospatial",
@@ -1946,10 +2085,11 @@
     "start_date": "2018-06-27"
   },
   {
+    "instructors": "Punam Amratia,Justin Millar,Geraldine Klarenberg,Hao Ye,David Jennings",
     "end_date": "2018-06-25",
     "url": "https://punama.github.io/2018-25-06-UF-DataCarp/",
     "country": "US",
-    "instructors": "Punam Amratia,Justin Millar,Geraldine Klarenberg,Hao Ye,David Jennings",
+    "curriculum": null,
     "venue": "UF Informatics Institute",
     "longitude": -82.344031,
     "slug": "2018-25-06-UF-DataCarp",
@@ -1960,10 +2100,11 @@
     "start_date": "2018-06-25"
   },
   {
+    "instructors": "Hugo Bowne-Anderson,Jason Williams",
     "end_date": "2018-06-24",
     "url": "https://jasonjwilliamsny.github.io/2018-06-22-cshl/",
     "country": "US",
-    "instructors": "Hugo Bowne-Anderson,Jason Williams",
+    "curriculum": null,
     "venue": "Genomics Data Carpentry and Machine Learning in R",
     "longitude": -73.469841,
     "slug": "2018-06-22-cshl",
@@ -1974,10 +2115,11 @@
     "start_date": "2018-06-22"
   },
   {
+    "instructors": "Bianca Peterson,Angelique van Rensburg",
     "end_date": "2018-06-21",
     "url": "https://african-carpentries.github.io/2018-06-21-DIRISA/",
     "country": "ZA",
-    "instructors": "Bianca Peterson,Angelique van Rensburg",
+    "curriculum": "Data Carpentry (Ecology with R)",
     "venue": "1-Day R Workshop in association with DIRISA National Research Data Workshop",
     "longitude": 28.2745998,
     "slug": "2018-06-21-DIRISA",
@@ -1988,10 +2130,11 @@
     "start_date": "2018-06-21"
   },
   {
+    "instructors": "Ashwin Srinath,Kok Ben Toh",
     "end_date": "2018-06-22",
     "url": "https://kokbent.github.io/2018-06-21-gatech/",
     "country": "US",
-    "instructors": "Ashwin Srinath,Kok Ben Toh",
+    "curriculum": null,
     "venue": "Georgia Institute of Technology",
     "longitude": -84.404414,
     "slug": "2018-06-21-gatech",
@@ -2002,10 +2145,11 @@
     "start_date": "2018-06-21"
   },
   {
+    "instructors": "Joel Ostblom,Francis Nguyen,Lina Tran,Sarah Mahallati",
     "end_date": "2018-06-19",
     "url": "https://uoftcoders.github.io/2018-06-18-utoronto/",
     "country": "CA",
-    "instructors": "Joel Ostblom,Francis Nguyen,Lina Tran,Sarah Mahallati",
+    "curriculum": null,
     "venue": "MADLab, GersteinScience Information Centre, Room B112",
     "longitude": -79.393965,
     "slug": "2018-06-18-utoronto",
@@ -2016,10 +2160,11 @@
     "start_date": "2018-06-18"
   },
   {
+    "instructors": "Martin Dreyer,Zine Sapula,Bianca Peterson,Zak (I.W) van Heerden",
     "end_date": "2018-06-15",
     "url": "https://amfdrey.github.io/2018-06-14-NWU/",
     "country": "ZA",
-    "instructors": "Martin Dreyer,Zine Sapula,Bianca Peterson,Zak (I.W) van Heerden",
+    "curriculum": null,
     "venue": "North West University, Potchefstroom Campus, Besembos, Ferdinand Postma Library",
     "longitude": 27.092015,
     "slug": "2018-06-14-NWU",
@@ -2030,10 +2175,11 @@
     "start_date": "2018-06-14"
   },
   {
+    "instructors": "Sarah Brown,Stuart Geiger,Geoffrey Boushey",
     "end_date": "2018-06-14",
     "url": "https://brownsarahm.github.io/2018-06-13-afog/",
     "country": "US",
-    "instructors": "Sarah Brown,Stuart Geiger,Geoffrey Boushey",
+    "curriculum": null,
     "venue": "University of California, Berkeley School of information",
     "longitude": -122.258521,
     "slug": "2018-06-13-BIDS",
@@ -2044,10 +2190,11 @@
     "start_date": "2018-06-13"
   },
   {
+    "instructors": "Paula Andrea Martinez,Stijn Van Hoey,Tina O'Grady,Christof De Bo",
     "end_date": "2018-06-13",
     "url": "https://inbo.github.io/2018-06-12-bru-datacarpentry-inbo-elixir/",
     "country": "BE",
-    "instructors": "Paula Andrea Martinez,Stijn Van Hoey,Tina O'Grady,Christof De Bo",
+    "curriculum": null,
     "venue": "U-residence",
     "longitude": 4.394176,
     "slug": "2018-06-12-bru-datacarpentry-inbo-elixir",
@@ -2058,10 +2205,11 @@
     "start_date": "2018-06-12"
   },
   {
+    "instructors": "Rebecca Dikow,Vanessa Gonzalez,Matthew Kweskin,Mike Trizna",
     "end_date": "2018-06-12",
     "url": "https://smithsonianworkshops.github.io/2018-06-12-nmnh/",
     "country": "US",
-    "instructors": "Rebecca Dikow,Vanessa Gonzalez,Matthew Kweskin,Mike Trizna",
+    "curriculum": null,
     "venue": "Data Carpentry Genomics at NMNH",
     "longitude": -77.026065,
     "slug": "2018-06-12-nmnh",
@@ -2072,10 +2220,11 @@
     "start_date": "2018-06-12"
   },
   {
+    "instructors": "Upendra Kumar Devisetty,Elijah Lowe",
     "end_date": "2018-06-06",
     "url": "https://upendrak.github.io/2018-06-05-noble/",
     "country": "US",
-    "instructors": "Upendra Kumar Devisetty,Elijah Lowe",
+    "curriculum": null,
     "venue": "Noble Research Institute",
     "longitude": -97.081259,
     "slug": "2018-06-05-noble",
@@ -2086,10 +2235,11 @@
     "start_date": "2018-06-05"
   },
   {
+    "instructors": "Lauren Michael,Michelle Craft,Karl Broman,Dorothea Salo,Maria Kamenetsky",
     "end_date": "2018-06-05",
     "url": "https://uw-madison-aci.github.io/2018-06-04-uwmadison-dc/",
     "country": "US",
-    "instructors": "Lauren Michael,Michelle Craft,Karl Broman,Dorothea Salo,Maria Kamenetsky",
+    "curriculum": null,
     "venue": "3218 Sewell Social Sciences Building",
     "longitude": -89.4052577,
     "slug": "2018-06-04-uwmadison-dc",
@@ -2100,10 +2250,11 @@
     "start_date": "2018-06-04"
   },
   {
+    "instructors": "David Yakobovitch,Gaurav Vaidya",
     "end_date": "2018-06-03",
     "url": "https://ntmoore.github.io/2018-06-02-stcloud/",
     "country": "US",
-    "instructors": "David Yakobovitch,Gaurav Vaidya",
+    "curriculum": null,
     "venue": "St. Cloud State University",
     "longitude": -94.151514,
     "slug": "2018-06-02-stcloud",
@@ -2114,10 +2265,11 @@
     "start_date": "2018-06-02"
   },
   {
+    "instructors": "Malvika Sharan,Jason Williams",
     "end_date": "2018-05-29",
     "url": "https://malvikasharan.github.io/2018-05-28-Dublin/",
     "country": "IE",
-    "instructors": "Malvika Sharan,Jason Williams",
+    "curriculum": null,
     "venue": "Data Carpentry Workshop, UCD Conway Institute",
     "longitude": -7.692054,
     "slug": "2018-05-28-Dublin",
@@ -2128,10 +2280,11 @@
     "start_date": "2018-05-28"
   },
   {
+    "instructors": "Heather Gibling,Ahmed Hasan,Catalina Anghel",
     "end_date": "2018-05-23",
     "url": "https://canghel.github.io/2018-05-22-camh/",
     "country": "CA",
-    "instructors": "Heather Gibling,Ahmed Hasan,Catalina Anghel",
+    "curriculum": null,
     "venue": "Centre for Addiction and Mental Health (CAMH)",
     "longitude": -79.38967,
     "slug": "2018-05-22-camh",
@@ -2142,10 +2295,11 @@
     "start_date": "2018-05-22"
   },
   {
+    "instructors": "Kevin Vilbig,Vinh Pham",
     "end_date": "2018-05-17",
     "url": "https://kevin-vilbig.github.io/2018-05-16-rutgers/",
     "country": "US",
-    "instructors": "Kevin Vilbig,Vinh Pham",
+    "curriculum": null,
     "venue": "Rutgers University",
     "longitude": null,
     "slug": "2018-05-16-rutgers",
@@ -2156,10 +2310,11 @@
     "start_date": "2018-05-16"
   },
   {
+    "instructors": "Jason Williams,Kapeel Chougule",
     "end_date": "2018-05-17",
     "url": "https://jasonjwilliamsny.github.io/2018-05-16-uno/",
     "country": "US",
-    "instructors": "Jason Williams,Kapeel Chougule",
+    "curriculum": null,
     "venue": "Genomics Data Carpentry, University of New Orleans",
     "longitude": -90.0682305,
     "slug": "2018-05-16-uno",
@@ -2170,10 +2325,11 @@
     "start_date": "2018-05-16"
   },
   {
+    "instructors": "John Simpson,Chris Want",
     "end_date": "2018-05-10",
     "url": "https://computecanada.github.io/2018-05-09-ualberta-dc/",
     "country": "CA",
-    "instructors": "John Simpson,Chris Want",
+    "curriculum": null,
     "venue": "University of Alberta",
     "longitude": -113.524765,
     "slug": "2018-05-09-ualberta-dc",
@@ -2184,10 +2340,11 @@
     "start_date": "2018-05-09"
   },
   {
+    "instructors": "Isak van der Walt,Zine Sapula,Isak Van der Walt,Gabriel Salubi",
     "end_date": "2018-05-11",
     "url": "https://ufshpc.github.io/2018-05-09-ufs/",
     "country": "ZA",
-    "instructors": "Isak van der Walt,Zine Sapula,Isak Van der Walt,Gabriel Salubi",
+    "curriculum": null,
     "venue": "University of the Free State",
     "longitude": 26.1832159,
     "slug": "2018-05-09-ufs",
@@ -2198,10 +2355,11 @@
     "start_date": "2018-05-09"
   },
   {
+    "instructors": "Krzysztof Poterlowicz,Christopher Mędrela",
     "end_date": "2018-05-04",
     "url": "https://kpoterlowicz.github.io/2018-05-03-KCL/",
     "country": "GB",
-    "instructors": "Krzysztof Poterlowicz,Christopher Mędrela",
+    "curriculum": null,
     "venue": "King's College London",
     "longitude": -0.087794,
     "slug": "2018-05-03-KCL",
@@ -2212,10 +2370,11 @@
     "start_date": "2018-05-03"
   },
   {
+    "instructors": "Nima Hejazi,Adam Orr",
     "end_date": "2018-05-04",
     "url": "http://code.nimahejazi.org/2018-05-03-LBNL/",
     "country": "US",
-    "instructors": "Nima Hejazi,Adam Orr",
+    "curriculum": null,
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -122.250014,
     "slug": "2018-05-03-LBNL",
@@ -2226,10 +2385,11 @@
     "start_date": "2018-05-03"
   },
   {
+    "instructors": "Hugo Tavares,Florian Huber",
     "end_date": "2018-05-04",
     "url": "https://tavareshugo.github.io/2018-05-02-EMBL/",
     "country": "DE",
-    "instructors": "Hugo Tavares,Florian Huber",
+    "curriculum": null,
     "venue": "ATC Computer Training Lab, EMBL Heidelberg",
     "longitude": 8.70907,
     "slug": "2018-05-02-EMBL",
@@ -2240,10 +2400,11 @@
     "start_date": "2018-05-02"
   },
   {
+    "instructors": "Kate Hertweck,Phillip Doehle",
     "end_date": "2018-05-02",
     "url": "https://k8hertweck.github.io/2018-05-01-noble/",
     "country": "US",
-    "instructors": "Kate Hertweck,Phillip Doehle",
+    "curriculum": null,
     "venue": "Noble Research Institute",
     "longitude": -97.086589,
     "slug": "2018-05-01-noble",
@@ -2254,10 +2415,11 @@
     "start_date": "2018-05-01"
   },
   {
+    "instructors": "Simona Picardi,Rocio Joo,Brian Stucky,Geraldine Klarenberg",
     "end_date": "2018-04-24",
     "url": "https://picardis.github.io/2018-04-23-uf-flrec/",
     "country": "US",
-    "instructors": "Simona Picardi,Rocio Joo,Brian Stucky,Geraldine Klarenberg",
+    "curriculum": null,
     "venue": "Fort Lauderdale Research and Education Center, University of Florida",
     "longitude": -80.237204,
     "slug": "2018-04-23-uf-flrec",
@@ -2268,10 +2430,11 @@
     "start_date": "2018-04-23"
   },
   {
+    "instructors": "Mesfin Diro Chaka,Dagim Mengesha,Margareth Gfrerer",
     "end_date": "2018-04-18",
     "url": "https://mesfind.github.io/2018-04-16-DC-DU/",
     "country": "ET",
-    "instructors": "Mesfin Diro Chaka,Dagim Mengesha,Margareth Gfrerer",
+    "curriculum": null,
     "venue": "Dilla University",
     "longitude": 38.2789,
     "slug": "2018-04-16-DC-DU",
@@ -2282,10 +2445,11 @@
     "start_date": "2018-04-16"
   },
   {
+    "instructors": "Brook Moyers,Brian Teague",
     "end_date": "2018-04-18",
     "url": "https://bpteague.github.io/2018-04-16-nas/",
     "country": "US",
-    "instructors": "Brook Moyers,Brian Teague",
+    "curriculum": null,
     "venue": "NAS Gulf Research Program",
     "longitude": -97.328816,
     "slug": "2018-04-16-nas",
@@ -2296,10 +2460,11 @@
     "start_date": "2018-04-16"
   },
   {
+    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
     "end_date": "2018-04-18",
     "url": "https://mesfind.github.io/2018-04-26-DC-AAU/",
     "country": "ET",
-    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
+    "curriculum": null,
     "venue": "Addis Ababa University",
     "longitude": 38.759166,
     "slug": "2018-04-26-DC-AAU",
@@ -2310,10 +2475,11 @@
     "start_date": "2018-04-16"
   },
   {
+    "instructors": "Marieke Dirksen,Dennis Schmitz,Sam Nooij,Anita Schürch",
     "end_date": "2018-04-04",
     "url": "https://aschuerch.github.io/2018-04-03-Utrecht/",
     "country": "NL",
-    "instructors": "Marieke Dirksen,Dennis Schmitz,Sam Nooij,Anita Schürch",
+    "curriculum": null,
     "venue": "University of Utrecht",
     "longitude": 5.169072,
     "slug": "2018-04-03-Utrecht",
@@ -2324,10 +2490,11 @@
     "start_date": "2018-04-03"
   },
   {
+    "instructors": "Simona Picardi,Kristina Riemer,Daijiang Li,Michael Heslar",
     "end_date": "2018-03-21",
     "url": "https://uf-carpentry.github.io/2018-03-20-UFDataSymposium/",
     "country": "US",
-    "instructors": "Simona Picardi,Kristina Riemer,Daijiang Li,Michael Heslar",
+    "curriculum": null,
     "venue": "University of Florida Informatics Institute",
     "longitude": -82.344103,
     "slug": "2018-03-20-UFDataSymposium",
@@ -2338,10 +2505,11 @@
     "start_date": "2018-03-20"
   },
   {
+    "instructors": "Erin Becker,Asli Uyar",
     "end_date": "2018-03-21",
     "url": "https://erinbecker.github.io/2018-03-08-genentech/",
     "country": "US",
-    "instructors": "Erin Becker,Asli Uyar",
+    "curriculum": null,
     "venue": "Genentech",
     "longitude": -122.39914,
     "slug": "2018-03-20-genentech",
@@ -2352,10 +2520,11 @@
     "start_date": "2018-03-20"
   },
   {
+    "instructors": "Anelda van der Walt,Caroline Ajilogba,Katrin Tirok,Kayleigh Lino,Lactatia Motsuku",
     "end_date": "2018-04-24",
     "url": "https://tenet-rccpii.github.io/2018-03-20-online/",
     "country": "ZA",
-    "instructors": "Anelda van der Walt,Caroline Ajilogba,Katrin Tirok,Kayleigh Lino,Lactatia Motsuku",
+    "curriculum": null,
     "venue": "RCCPII Online Mentoring",
     "longitude": 18.4654324,
     "slug": "2018-03-20-online",
@@ -2366,10 +2535,11 @@
     "start_date": "2018-03-20"
   },
   {
+    "instructors": "Glenn Moncrieff,Kayleigh Lino,Katrin Tirok",
     "end_date": "2018-03-16",
     "url": "https://katrintirok.github.io/2018-03-15-satRday/",
     "country": "ZA",
-    "instructors": "Glenn Moncrieff,Kayleigh Lino,Katrin Tirok",
+    "curriculum": null,
     "venue": "satRday",
     "longitude": 18.4544602,
     "slug": "2018-03-15-satRday",
@@ -2380,10 +2550,11 @@
     "start_date": "2018-03-15"
   },
   {
+    "instructors": "Jason Williams",
     "end_date": "2018-03-08",
     "url": "https://jasonjwilliamsny.github.io/2018-03-07-ncstate/",
     "country": "US",
-    "instructors": "Jason Williams",
+    "curriculum": null,
     "venue": "James B. Hunt Jr. Library, NC State",
     "longitude": -78.7114493,
     "slug": "2018-03-07-ncstate",
@@ -2394,10 +2565,11 @@
     "start_date": "2018-03-07"
   },
   {
+    "instructors": "Rebecca Dikow,James Holmquist,Matthew Kweskin,Holly Little",
     "end_date": "2018-03-08",
     "url": "https://smithsonianworkshops.github.io/2018-03-07-serc/",
     "country": "US",
-    "instructors": "Rebecca Dikow,James Holmquist,Matthew Kweskin,Holly Little",
+    "curriculum": null,
     "venue": "Data Carpentry at SERC",
     "longitude": -76.540474,
     "slug": "2018-03-07-serc",
@@ -2408,10 +2580,11 @@
     "start_date": "2018-03-07"
   },
   {
+    "instructors": "Mesfin Diro Chaka,Bonny Adane,Margareth Gfrerer",
     "end_date": "2018-03-06",
     "url": "https://mesfind.github.io/2018-03-05-DC-AU/",
     "country": "ET",
-    "instructors": "Mesfin Diro Chaka,Bonny Adane,Margareth Gfrerer",
+    "curriculum": null,
     "venue": "Axum University: Data Carpentry Workshop",
     "longitude": 38.7045213,
     "slug": "2018-03-05-DC-AU",
@@ -2422,10 +2595,11 @@
     "start_date": "2018-03-05"
   },
   {
+    "instructors": "Hugo Tavares,Krzysztof Poterlowicz",
     "end_date": "2018-02-23",
     "url": "https://tavareshugo.github.io/2018-02-22-KCL/",
     "country": "GB",
-    "instructors": "Hugo Tavares,Krzysztof Poterlowicz",
+    "curriculum": null,
     "venue": "King's College London",
     "longitude": -0.087794,
     "slug": "2018-02-22-KCL",
@@ -2436,10 +2610,11 @@
     "start_date": "2018-02-22"
   },
   {
+    "instructors": "Adela Sobotkova,Ingrid Tarr,Vince Polito",
     "end_date": "2018-02-21",
     "url": "https://adivea.github.io/2018-02-20-MQU-DC/",
     "country": "AU",
-    "instructors": "Adela Sobotkova,Ingrid Tarr,Vince Polito",
+    "curriculum": null,
     "venue": "Macquarie University",
     "longitude": 151.112545,
     "slug": "2018-02-20-MQU-DC",
@@ -2450,10 +2625,11 @@
     "start_date": "2018-02-20"
   },
   {
+    "instructors": "Jessica Holmes,Jenny Drnevich,Samniqueka Halsey",
     "end_date": "2018-02-21",
     "url": "https://swc-uiuc.github.io/2018-02-20-uiuc/",
     "country": "US",
-    "instructors": "Jessica Holmes,Jenny Drnevich,Samniqueka Halsey",
+    "curriculum": null,
     "venue": "University of Illinois",
     "longitude": -88.2272995,
     "slug": "2018-02-20-uiuc",
@@ -2464,10 +2640,11 @@
     "start_date": "2018-02-20"
   },
   {
+    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
     "end_date": "2018-02-09",
     "url": "https://mesfind.github.io/2018-02-08-AAU/",
     "country": "ET",
-    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
+    "curriculum": null,
     "venue": "Data Carpentry Workshop at Center for Environmental Sciences",
     "longitude": 38.7662,
     "slug": "2018-02-08-AAU",
@@ -2478,10 +2655,11 @@
     "start_date": "2018-02-08"
   },
   {
+    "instructors": "Lisa Johnson,Susan (Sue) Zwicker,Mike Trizna,Matthew Kweskin",
     "end_date": "2018-02-08",
     "url": "https://ljcohen.github.io/2018-02-07-smithsonian/",
     "country": "US",
-    "instructors": "Lisa Johnson,Susan (Sue) Zwicker,Mike Trizna,Matthew Kweskin",
+    "curriculum": null,
     "venue": "Smithsonian Institution, National Museum of Natural History",
     "longitude": -77.026065,
     "slug": "2018-02-07-smithsonian",
@@ -2492,10 +2670,11 @@
     "start_date": "2018-02-07"
   },
   {
+    "instructors": "Damien Irving",
     "end_date": "2018-02-04",
     "url": "https://damienirving.github.io/2018-02-04-amos-icshmo/",
     "country": "AU",
-    "instructors": "Damien Irving",
+    "curriculum": null,
     "venue": "AMOS-ICSHMO Conference",
     "longitude": 151.23423,
     "slug": "2018-02-04-amos-icshmo",
@@ -2506,10 +2685,11 @@
     "start_date": "2018-02-04"
   },
   {
+    "instructors": "Martin Canaan Mafunda,Juan Steyn,Caroline Ajilogba",
     "end_date": "2018-02-01",
     "url": "https://dh-southernafrica.github.io/2018-01-31-WITS/",
     "country": "ZA",
-    "instructors": "Martin Canaan Mafunda,Juan Steyn,Caroline Ajilogba",
+    "curriculum": null,
     "venue": "Wits University",
     "longitude": 28.0260775,
     "slug": "2018-01-31-WITS",
@@ -2520,10 +2700,11 @@
     "start_date": "2018-01-31"
   },
   {
+    "instructors": "Liz Ing-Simmons,Tina O'Grady",
     "end_date": "2018-01-30",
     "url": "https://liz-is.github.io/2018-01-29-maxplanck/",
     "country": "DE",
-    "instructors": "Liz Ing-Simmons,Tina O'Grady",
+    "curriculum": null,
     "venue": "Max Planck Institute for Molecular Biomedicine",
     "longitude": 7.59117,
     "slug": "2018-01-29-maxplanck",
@@ -2534,10 +2715,11 @@
     "start_date": "2018-01-29"
   },
   {
+    "instructors": "Michael Heslar,Dev Paudel,Simona Picardi,Shawn Taylor,Miao Sun,Ellen Bledsoe",
     "end_date": "2018-03-01",
     "url": "https://ufrmeetup.github.io/2018-01-18-UF-R/",
     "country": "US",
-    "instructors": "Michael Heslar,Dev Paudel,Simona Picardi,Shawn Taylor,Miao Sun,Ellen Bledsoe",
+    "curriculum": null,
     "venue": "University of Florida",
     "longitude": -82.344002,
     "slug": "2018-01-18-UF-R",
@@ -2548,10 +2730,11 @@
     "start_date": "2018-01-18"
   },
   {
+    "instructors": "Katrin Tirok,Justin Pringle,Justin Pringle",
     "end_date": "2018-01-12",
     "url": "https://katrintirok.github.io/2018-01-11-UKZN-Civil/",
     "country": "ZA",
-    "instructors": "Katrin Tirok,Justin Pringle,Justin Pringle",
+    "curriculum": null,
     "venue": "UKZN, Civil Engineering",
     "longitude": 30.982171,
     "slug": "2018-01-11-UKZN-Civil",
@@ -2562,10 +2745,11 @@
     "start_date": "2018-01-11"
   },
   {
+    "instructors": "David Yakobovitch,Jacob Koehler",
     "end_date": "2018-01-12",
     "url": "https://jfkoehler.github.io/2018-01-11-rutgers/",
     "country": "US",
-    "instructors": "David Yakobovitch,Jacob Koehler",
+    "curriculum": null,
     "venue": "Rutgers University",
     "longitude": -74.17531,
     "slug": "2018-01-11-rutgers",
@@ -2576,10 +2760,11 @@
     "start_date": "2018-01-11"
   },
   {
+    "instructors": "Emily Jane McTavish,Hilmar Lapp,Tracy Teal",
     "end_date": "2018-01-12",
     "url": "http://www.datacarpentry.org/2018-01-11-ucmerced/",
     "country": "US",
-    "instructors": "Emily Jane McTavish,Hilmar Lapp,Tracy Teal",
+    "curriculum": null,
     "venue": "UC Merced",
     "longitude": -120.4254,
     "slug": "2018-01-11-ucmerced",
@@ -2590,10 +2775,11 @@
     "start_date": "2018-01-11"
   },
   {
+    "instructors": "Trisha Adamus,Alex Bajcz,Karl Broman,Michelle Craft,Lauren Michael",
     "end_date": "2018-01-09",
     "url": "https://uw-madison-aci.github.io/2018-01-08-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus,Alex Bajcz,Karl Broman,Michelle Craft,Lauren Michael",
+    "curriculum": null,
     "venue": "UW Madison",
     "longitude": -89.4103303,
     "slug": "2018-01-08-uwmadison-dc",
@@ -2604,10 +2790,11 @@
     "start_date": "2018-01-08"
   },
   {
+    "instructors": "Chris Hamm,Auriel Fournier",
     "end_date": "2017-12-19",
     "url": "https://aurielfournier.github.io/2017-12-18-grand-valley/",
     "country": "US",
-    "instructors": "Chris Hamm,Auriel Fournier",
+    "curriculum": null,
     "venue": "Grand Valley State University",
     "longitude": -85.889903,
     "slug": "2017-12-18-grand-valley",
@@ -2618,10 +2805,11 @@
     "start_date": "2017-12-18"
   },
   {
+    "instructors": "Jake Szamosi,Ben Bolker",
     "end_date": "2017-12-15",
     "url": "https://jcszamosi.github.io/2017-12-14-McMaster/",
     "country": "CA",
-    "instructors": "Jake Szamosi,Ben Bolker",
+    "curriculum": null,
     "venue": "McMaster University",
     "longitude": -79.916996,
     "slug": "2017-12-14-mcmaster",
@@ -2632,10 +2820,11 @@
     "start_date": "2017-12-14"
   },
   {
+    "instructors": "Dennis Schmitz,Sam Nooij,Marc Galland,Anita Schürch",
     "end_date": "2017-12-14",
     "url": "https://aschuerch.github.io/2017-12-13-amsterdam/",
     "country": "NL",
-    "instructors": "Dennis Schmitz,Sam Nooij,Marc Galland,Anita Schürch",
+    "curriculum": null,
     "venue": "University of Amsterdam",
     "longitude": 4.912404,
     "slug": "2017-12-13-amsterdam",
@@ -2646,10 +2835,11 @@
     "start_date": "2017-12-13"
   },
   {
+    "instructors": "Chris Hamm,Jennifer Shelton",
     "end_date": "2017-12-06",
     "url": "https://butterflyology.github.io/2017-12-05-rutgers/",
     "country": "US",
-    "instructors": "Chris Hamm,Jennifer Shelton",
+    "curriculum": null,
     "venue": "Rutgers University",
     "longitude": -74.189704,
     "slug": "2017-12-05-rutgers",
@@ -2660,10 +2850,11 @@
     "start_date": "2017-12-05"
   },
   {
+    "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
     "end_date": "2017-11-22",
     "url": "http://tgac.github.io/2017-11-21-EI",
     "country": "GB",
-    "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
+    "curriculum": null,
     "venue": "Earlham Institute",
     "longitude": 1.219461,
     "slug": "2017-11-21-EI",
@@ -2674,10 +2865,11 @@
     "start_date": "2017-11-21"
   },
   {
+    "instructors": "Brian Rusk,John Simpson,James Koch",
     "end_date": "2017-11-16",
     "url": "https://computecanada.github.io/2017-11-15-ualberta/",
     "country": "CA",
-    "instructors": "Brian Rusk,John Simpson,James Koch",
+    "curriculum": null,
     "venue": "University of Alberta",
     "longitude": -113.529153,
     "slug": "2017-11-15-ualberta",
@@ -2688,10 +2880,11 @@
     "start_date": "2017-11-15"
   },
   {
+    "instructors": "Frank Pennekamp,Helen Lindsay,Lukas Weber",
     "end_date": "2017-11-10",
     "url": "https://pennekampster.github.io/2017-11-08-lugano/",
     "country": "CH",
-    "instructors": "Frank Pennekamp,Helen Lindsay,Lukas Weber",
+    "curriculum": null,
     "venue": "Continental Parkhotel Lugano",
     "longitude": 8.946719,
     "slug": "2017-11-08-lugano",
@@ -2702,10 +2895,11 @@
     "start_date": "2017-11-08"
   },
   {
+    "instructors": "Angelique van Rensburg,Amy Hodge,Ian van der Linde,Juan Steyn",
     "end_date": "2017-11-08",
     "url": "https://suncarpentry.github.io/2017-11-06-SUN-DC/",
     "country": "ZA",
-    "instructors": "Angelique van Rensburg,Amy Hodge,Ian van der Linde,Juan Steyn",
+    "curriculum": null,
     "venue": "Stellenbosch University",
     "longitude": 18.864142,
     "slug": "2017-11-06-SUN-DC",
@@ -2716,10 +2910,11 @@
     "start_date": "2017-11-06"
   },
   {
+    "instructors": "Helen Lindsay,Andrew MacDonald,Malgorzata Nowicka,Frank Pennekamp",
     "end_date": "2017-11-08",
     "url": "https://pennekampster.github.io/2017-11-06-lugano/",
     "country": "CH",
-    "instructors": "Helen Lindsay,Andrew MacDonald,Malgorzata Nowicka,Frank Pennekamp",
+    "curriculum": null,
     "venue": "Continental Parkhotel Lugano",
     "longitude": 8.946719,
     "slug": "2017-11-06-lugano",
@@ -2730,10 +2925,11 @@
     "start_date": "2017-11-06"
   },
   {
+    "instructors": "Mesfin Diro Chaka,Bonny Adane",
     "end_date": "2017-11-06",
     "url": "https://mesfind.github.io/2017-11-05-AAU/",
     "country": "ET",
-    "instructors": "Mesfin Diro Chaka,Bonny Adane",
+    "curriculum": null,
     "venue": "Data Carpentry Workshop at Zoological Sciences",
     "longitude": 38.7662,
     "slug": "2017-11-05-AAU",
@@ -2744,10 +2940,11 @@
     "start_date": "2017-11-05"
   },
   {
+    "instructors": "Caroline Ajilogba,Bennett Kankuzi,Amy Hodge,Martin Dreyer",
     "end_date": "2017-11-03",
     "url": "https://nwu-eresearch.github.io/2017-11-01-NWU-Mafikeng/",
     "country": "ZA",
-    "instructors": "Caroline Ajilogba,Bennett Kankuzi,Amy Hodge,Martin Dreyer",
+    "curriculum": null,
     "venue": "Mafikeng Campus, North-West University",
     "longitude": 25.611265,
     "slug": "2017-11-01-NWU-Mafikeng",
@@ -2758,10 +2955,11 @@
     "start_date": "2017-11-01"
   },
   {
+    "instructors": "Yoseph Abate,Mesfin Diro Chaka,Anelda van der Walt",
     "end_date": "2017-10-31",
     "url": "https://anelda.github.io/2017-10-30-Ethiopia/",
     "country": "ET",
-    "instructors": "Yoseph Abate,Mesfin Diro Chaka,Anelda van der Walt",
+    "curriculum": null,
     "venue": "Ethiopian Research and Education Network",
     "longitude": 38.762582,
     "slug": "2017-10-30-Ethiopia",
@@ -2772,10 +2970,11 @@
     "start_date": "2017-10-30"
   },
   {
+    "instructors": "Deborah Paul,David Jennings,Elise Morrison,Daniel Maxwell",
     "end_date": "2017-10-31",
     "url": "https://idigbio.github.io/2017-10-30-iDigBio-Summit-UFII/",
     "country": "US",
-    "instructors": "Deborah Paul,David Jennings,Elise Morrison,Daniel Maxwell",
+    "curriculum": null,
     "venue": "University of Florida Informatics Institute",
     "longitude": -82.344031,
     "slug": "2017-10-30-iDigBio-Summit-UFII",
@@ -2786,10 +2985,11 @@
     "start_date": "2017-10-30"
   },
   {
+    "instructors": "Lisa Johnson,David Yakobovitch",
     "end_date": "2017-10-27",
     "url": "https://davidyakobovitch.github.io/2017-10-26-ucmerced/",
     "country": "US",
-    "instructors": "Lisa Johnson,David Yakobovitch",
+    "curriculum": null,
     "venue": "University of California MERCED",
     "longitude": -120.43111,
     "slug": "2017-10-26-merced",
@@ -2800,10 +3000,11 @@
     "start_date": "2017-10-26"
   },
   {
+    "instructors": "Tonya Ward,Bianca Peterson,Tomasz Sanko,Caroline Ajilogba,Leani Bothma,Andries van der Walt",
     "end_date": "2017-10-27",
     "url": "https://nwu-eresearch.github.io/2017-10-24-ARC-16S/",
     "country": "ZA",
-    "instructors": "Tonya Ward,Bianca Peterson,Tomasz Sanko,Caroline Ajilogba,Leani Bothma,Andries van der Walt",
+    "curriculum": null,
     "venue": "Metagenomics Data Carpentry Workshop",
     "longitude": 27.094667,
     "slug": "2017-10-24-ARC-16S",
@@ -2814,10 +3015,11 @@
     "start_date": "2017-10-24"
   },
   {
+    "instructors": "Tobin Magle,Brook Moyers",
     "end_date": "2017-10-04",
     "url": "https://maglet.github.io/2017-10-03-NDIC/",
     "country": "US",
-    "instructors": "Tobin Magle,Brook Moyers",
+    "curriculum": null,
     "venue": "National Data Integrity Conference",
     "longitude": -105.084407,
     "slug": "2017-10-03-NDIC",
@@ -2828,10 +3030,11 @@
     "start_date": "2017-10-03"
   },
   {
+    "instructors": "Karen Cranston,Matthew Collins,Deborah Paul,Jake Szamosi",
     "end_date": "2017-10-01",
     "url": "https://idigbio.github.io/2017-09-30-TDWG-Ottawa/",
     "country": "CA",
-    "instructors": "Karen Cranston,Matthew Collins,Deborah Paul,Jake Szamosi",
+    "curriculum": null,
     "venue": "Canadian Museum of Nature",
     "longitude": -75.688662,
     "slug": "2017-09-30-TDWG-Ottawa",
@@ -2842,10 +3045,11 @@
     "start_date": "2017-09-30"
   },
   {
+    "instructors": "Paul Wolf,Carol Rowe,Betty Rozum,Binod Pokharel,Curtis Dyreson,Shawn Taylor",
     "end_date": "2017-09-30",
     "url": "https://wolflab.github.io/2017-09-29-DC_USU/",
     "country": "US",
-    "instructors": "Paul Wolf,Carol Rowe,Betty Rozum,Binod Pokharel,Curtis Dyreson,Shawn Taylor",
+    "curriculum": null,
     "venue": "Utah State University",
     "longitude": -111.809627,
     "slug": "2017-09-29-DC_USU",
@@ -2856,10 +3060,11 @@
     "start_date": "2017-09-29"
   },
   {
+    "instructors": "Kari Jordan,Christina Koch,Karl Broman",
     "end_date": "2017-09-28",
     "url": "https://christinalk.github.io/2017-09-28-nsbe/",
     "country": "US",
-    "instructors": "Kari Jordan,Christina Koch,Karl Broman",
+    "curriculum": null,
     "venue": "National Society of Black Engineers Professional Development Conference",
     "longitude": -87.6216582,
     "slug": "2017-09-28-nsbe",
@@ -2870,10 +3075,11 @@
     "start_date": "2017-09-28"
   },
   {
+    "instructors": "Joseph Stachelek,Ben Best",
     "end_date": "2017-09-28",
     "url": "https://jsta.github.io/2017-09-27-LBNL/",
     "country": "US",
-    "instructors": "Joseph Stachelek,Ben Best",
+    "curriculum": null,
     "venue": "Lawrence Berkeley National Lab",
     "longitude": -122.248899,
     "slug": "2017-09-27-LBNL",
@@ -2884,10 +3090,11 @@
     "start_date": "2017-09-27"
   },
   {
+    "instructors": "Iain Emsley,Pip Willcox,Lucia Michielin",
     "end_date": "2017-09-27",
     "url": "https://rroxford.github.io/2017-09-26-oxford/",
     "country": "GB",
-    "instructors": "Iain Emsley,Pip Willcox,Lucia Michielin",
+    "curriculum": null,
     "venue": "University of Oxford",
     "longitude": -1.260328,
     "slug": "2017-09-26-oxford",
@@ -2898,10 +3105,11 @@
     "start_date": "2017-09-26"
   },
   {
+    "instructors": "Erin Becker,Asli Uyar",
     "end_date": "2017-09-20",
     "url": "https://asliuyar.github.io/2017-09-19-berkeleylab",
     "country": "US",
-    "instructors": "Erin Becker,Asli Uyar",
+    "curriculum": null,
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -71.062263,
     "slug": "2017-09-19-LBNL",
@@ -2912,10 +3120,11 @@
     "start_date": "2017-09-19"
   },
   {
+    "instructors": "Martin Canaan Mafunda,Anelda van der Walt,Katrin Tirok,Jacqueline Muller,Ivo Agbor Arrey",
     "end_date": "2017-09-20",
     "url": "https://anelda.github.io/2017-09-18-UniversityLimpopo/",
     "country": "ZA",
-    "instructors": "Martin Canaan Mafunda,Anelda van der Walt,Katrin Tirok,Jacqueline Muller,Ivo Agbor Arrey",
+    "curriculum": null,
     "venue": "Lab 10, Maths Building, First Floor, University of Limpopo",
     "longitude": 29.73855,
     "slug": "2017-09-18-UniversityLimpopo",
@@ -2926,10 +3135,11 @@
     "start_date": "2017-09-18"
   },
   {
+    "instructors": "Marco Chiapello,Laurent Gatto,Hugo Tavares",
     "end_date": "2017-09-12",
     "url": "https://tavareshugo.github.io/2017-09-11-cambridge/",
     "country": "GB",
-    "instructors": "Marco Chiapello,Laurent Gatto,Hugo Tavares",
+    "curriculum": null,
     "venue": "University of Cambridge",
     "longitude": 0.122514,
     "slug": "2017-09-11-cambridge",
@@ -2940,10 +3150,11 @@
     "start_date": "2017-09-11"
   },
   {
+    "instructors": "Rachel Schwartz,Harrison Dekker",
     "end_date": "2017-09-01",
     "url": "http://rhodyrstats.org/2017-08-31-uri/",
     "country": "US",
-    "instructors": "Rachel Schwartz,Harrison Dekker",
+    "curriculum": null,
     "venue": "University of Rhode Island",
     "longitude": -71.527459,
     "slug": "2017-08-31-uri",
@@ -2954,10 +3165,11 @@
     "start_date": "2017-08-31"
   },
   {
+    "instructors": "Jason Williams",
     "end_date": "2017-08-29",
     "url": "https://jasonjwilliamsny.github.io/2017-08-28-nmsu/",
     "country": "US",
-    "instructors": "Jason Williams",
+    "curriculum": null,
     "venue": "New Mexico State University",
     "longitude": -106.7479059,
     "slug": "2017-08-28-nmsu",
@@ -2968,10 +3180,11 @@
     "start_date": "2017-08-28"
   },
   {
+    "instructors": "Trisha Adamus,Alex Bajcz,Fred Boehm,Christina Koch,Sarah Stevens",
     "end_date": "2017-08-23",
     "url": "https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus,Alex Bajcz,Fred Boehm,Christina Koch,Sarah Stevens",
+    "curriculum": null,
     "venue": "UW Madison",
     "longitude": -89.4103303,
     "slug": "2017-08-22-uwmadison-dc",
@@ -2982,10 +3195,11 @@
     "start_date": "2017-08-22"
   },
   {
+    "instructors": "Karen Cranston,Julia Lowndes",
     "end_date": "2017-08-18",
     "url": "https://snacktavish.github.io/2017-08-17-Yosemite/",
     "country": "US",
-    "instructors": "Karen Cranston,Julia Lowndes",
+    "curriculum": null,
     "venue": "UC Merced, Yosemite Field Station",
     "longitude": -119.6577967,
     "slug": "2017-08-17-Yosemite",
@@ -2996,10 +3210,11 @@
     "start_date": "2017-08-17"
   },
   {
+    "instructors": "Christian Barra,Mateusz Kuzak",
     "end_date": "2017-08-18",
     "url": "https://mkuzak.github.io/2017-08-16-pyconpl/",
     "country": "PL",
-    "instructors": "Christian Barra,Mateusz Kuzak",
+    "curriculum": null,
     "venue": "Reproducible Reasearch Workshop @ PyCon PL",
     "longitude": 20.381442,
     "slug": "2017-08-16-pyconpl",
@@ -3010,10 +3225,11 @@
     "start_date": "2017-08-16"
   },
   {
+    "instructors": "Anelda van der Walt,Lactatia Motsuku,Glenn Moncrieff",
     "end_date": "2017-08-16",
     "url": "https://anelda.github.io/2017-08-14-Ethiopia/",
     "country": "ET",
-    "instructors": "Anelda van der Walt,Lactatia Motsuku,Glenn Moncrieff",
+    "curriculum": null,
     "venue": "Ethiopian Research and Education Network",
     "longitude": 38.762582,
     "slug": "2017-08-14-Ethiopia",
@@ -3024,10 +3240,11 @@
     "start_date": "2017-08-14"
   },
   {
+    "instructors": "Sergio Marconi,Daijiang Li,Henry Senyondo,Justin Millar",
     "end_date": "2017-08-15",
     "url": "https://uf-carpentry.github.io/2017-08-14-UFII-DC/",
     "country": "US",
-    "instructors": "Sergio Marconi,Daijiang Li,Henry Senyondo,Justin Millar",
+    "curriculum": null,
     "venue": "University of Florida Marston Science Library",
     "longitude": -82.344105,
     "slug": "2017-08-14-UFII-DC",
@@ -3038,10 +3255,11 @@
     "start_date": "2017-08-14"
   },
   {
+    "instructors": "Erin Becker,Kate Hertweck",
     "end_date": "2017-08-08",
     "url": "https://k8hertweck.github.io/2017-08-07-LBNL/",
     "country": "US",
-    "instructors": "Erin Becker,Kate Hertweck",
+    "curriculum": null,
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -122.250006,
     "slug": "2017-08-07-LBNL",
@@ -3052,10 +3270,11 @@
     "start_date": "2017-08-07"
   },
   {
+    "instructors": "Erin Becker,Kristina Riemer",
     "end_date": "2017-08-02",
     "url": "https://kristinariemer.github.io/2017-08-01-berkeleylab/",
     "country": "US",
-    "instructors": "Erin Becker,Kristina Riemer",
+    "curriculum": null,
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -122.250027,
     "slug": "2017-08-01-LBNL",
@@ -3066,10 +3285,11 @@
     "start_date": "2017-08-01"
   },
   {
+    "instructors": "Simon Hettrick,Alistair Bailey,Rob Blair",
     "end_date": "2017-08-02",
     "url": "https://southampton-rsg.github.io/2017-08-01-southampton-dc/",
     "country": "GB",
-    "instructors": "Simon Hettrick,Alistair Bailey,Rob Blair",
+    "curriculum": null,
     "venue": "University of Southampton",
     "longitude": -1.395341,
     "slug": "2017-08-01-southampton-dc",
@@ -3080,10 +3300,11 @@
     "start_date": "2017-08-01"
   },
   {
+    "instructors": "Kevin Dyke,Ross Bowman,Dave Lampert,Phillip Doehle",
     "end_date": "2017-07-28",
     "url": "https://osu-carpentry.github.io/2017-07-27-okstate/",
     "country": "US",
-    "instructors": "Kevin Dyke,Ross Bowman,Dave Lampert,Phillip Doehle",
+    "curriculum": null,
     "venue": "Oklahoma State University",
     "longitude": -97.069724,
     "slug": "2017-07-27-okstate",
@@ -3094,10 +3315,11 @@
     "start_date": "2017-07-27"
   },
   {
+    "instructors": "Jez Cope,Beth Montague-Hellen,Anna Krystalli,Will Furnass",
     "end_date": "2017-07-27",
     "url": "https://alfawolf140.github.io/2017-07-26-Sheffield/",
     "country": "GB",
-    "instructors": "Jez Cope,Beth Montague-Hellen,Anna Krystalli,Will Furnass",
+    "curriculum": null,
     "venue": "University of Sheffield",
     "longitude": -1.488683,
     "slug": "2017-07-26-Sheffield",
@@ -3108,10 +3330,11 @@
     "start_date": "2017-07-26"
   },
   {
+    "instructors": "Gail Clement,Tommy Keswick,Thomas Morrell,Donna Wrublewski",
     "end_date": "2017-07-21",
     "url": "https://caltechlibrary.github.io/2017-07-20-caltech/",
     "country": "US",
-    "instructors": "Gail Clement,Tommy Keswick,Thomas Morrell,Donna Wrublewski",
+    "curriculum": null,
     "venue": "Caltech",
     "longitude": -118.1247,
     "slug": "2017-07-20-caltech",
@@ -3122,10 +3345,11 @@
     "start_date": "2017-07-20"
   },
   {
+    "instructors": "Jarek Bryk,Martin Callaghan,Mateusz Kuzak",
     "end_date": "2017-07-18",
     "url": "https://mkuzak.github.io/2017-07-17-imperial/",
     "country": "GB",
-    "instructors": "Jarek Bryk,Martin Callaghan,Mateusz Kuzak",
+    "curriculum": null,
     "venue": "Imperial College London",
     "longitude": -0.176343,
     "slug": "2017-07-17-imperial",
@@ -3136,10 +3360,11 @@
     "start_date": "2017-07-17"
   },
   {
+    "instructors": "John Simpson,Alicia Cappello,Brian Rusk",
     "end_date": "2017-07-13",
     "url": "https://computecanada.github.io/2017-07-12-ualberta-DC/",
     "country": "CA",
-    "instructors": "John Simpson,Alicia Cappello,Brian Rusk",
+    "curriculum": null,
     "venue": "University of Alberta",
     "longitude": -113.52955,
     "slug": "2017-07-12-ualberta-DC",
@@ -3150,10 +3375,11 @@
     "start_date": "2017-07-12"
   },
   {
+    "instructors": "Jason Williams,John Fonner",
     "end_date": "2017-07-07",
     "url": "https://jasonjwilliamsny.github.io/2017-07-05-uniarkansas/",
     "country": "US",
-    "instructors": "Jason Williams,John Fonner",
+    "curriculum": null,
     "venue": "University of Arkansas",
     "longitude": -94.1682237,
     "slug": "2017-07-05-uniarkansas",
@@ -3164,10 +3390,11 @@
     "start_date": "2017-07-06"
   },
   {
+    "instructors": "Samar Elsheikh",
     "end_date": "2017-07-08",
     "url": "https://software-carpentry.org/blog/2017/11/gabon-bioinformatics.html",
     "country": "GA",
-    "instructors": "Samar Elsheikh",
+    "curriculum": null,
     "venue": "Université des Sciences et Techniques de Masuku",
     "longitude": 13.550041,
     "slug": "2017-07-03-cab",
@@ -3178,10 +3405,11 @@
     "start_date": "2017-07-03"
   },
   {
+    "instructors": "Deborah Paul,Matthew Collins,Sergio Marconi",
     "end_date": "2017-06-30",
     "url": "https://fsulib.github.io/2017-06-29-fsu/",
     "country": "US",
-    "instructors": "Deborah Paul,Matthew Collins,Sergio Marconi",
+    "curriculum": null,
     "venue": "Florida State University",
     "longitude": -84.294984,
     "slug": "2017-06-29-fsu",
@@ -3192,10 +3420,11 @@
     "start_date": "2017-06-29"
   },
   {
+    "instructors": "Avishek Kumar,Athanassios Kintsakis",
     "end_date": "2017-06-28",
     "url": "https://akintsakis.github.io/2017-06-27-lbnl/",
     "country": "US",
-    "instructors": "Avishek Kumar,Athanassios Kintsakis",
+    "curriculum": null,
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -122.250027,
     "slug": "2017-06-27-LBL",
@@ -3206,10 +3435,11 @@
     "start_date": "2017-06-27"
   },
   {
+    "instructors": "Marco Chiapello,Laurent Gatto,Hugo Tavares",
     "end_date": "2017-06-22",
     "url": "https://lgatto.github.io/2017-06-21-Crick/",
     "country": "GB",
-    "instructors": "Marco Chiapello,Laurent Gatto,Hugo Tavares",
+    "curriculum": null,
     "venue": "The Francis Crick Institute",
     "longitude": -0.1304385,
     "slug": "2017-06-21-Crick",
@@ -3220,10 +3450,11 @@
     "start_date": "2017-06-21"
   },
   {
+    "instructors": "Trisha Adamus,Christina Koch,Fred Boehm,Karl Broman,Brian Yandell",
     "end_date": "2017-06-20",
     "url": "https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus,Christina Koch,Fred Boehm,Karl Broman,Brian Yandell",
+    "curriculum": null,
     "venue": "University of Wisconsin-Madison",
     "longitude": -89.430135,
     "slug": "2017-06-19-uwmadison-dc",
@@ -3234,10 +3465,11 @@
     "start_date": "2017-06-19"
   },
   {
+    "instructors": "Naupaka Zimmerman,Ted Hart",
     "end_date": "2017-06-18",
     "url": "https://naupaka.github.io/2017-06-17-stanford/",
     "country": "US",
-    "instructors": "Naupaka Zimmerman,Ted Hart",
+    "curriculum": null,
     "venue": "Stanford University",
     "longitude": -122.175758,
     "slug": "2017-06-17-stanford",
@@ -3248,10 +3480,11 @@
     "start_date": "2017-06-17"
   },
   {
+    "instructors": "Tom Allard,Chris Hamm,Rebecca Wysak",
     "end_date": "2017-06-16",
     "url": "https://butterflyology.github.io/2017-06-15-FRB/",
     "country": "US",
-    "instructors": "Tom Allard,Chris Hamm,Rebecca Wysak",
+    "curriculum": null,
     "venue": "Federal Reserve Board",
     "longitude": -77.040452,
     "slug": "2017-06-15-frb_washingtondc",
@@ -3262,10 +3495,11 @@
     "start_date": "2017-06-15"
   },
   {
+    "instructors": "Ben Marwick",
     "end_date": "2017-06-16",
     "url": "https://benmarwick.github.io/2017-06-15-uow/",
     "country": "AU",
-    "instructors": "Ben Marwick",
+    "curriculum": null,
     "venue": "University of Wollongong",
     "longitude": 150.881288,
     "slug": "2017-06-15-uow",
@@ -3276,10 +3510,11 @@
     "start_date": "2017-06-15"
   },
   {
+    "instructors": "Erika Mudrak,David Kent,Lynn Johnson,Stephen Parry",
     "end_date": "2017-06-15",
     "url": "https://emudrak.github.io/2017-06-14-cornell/",
     "country": "US",
-    "instructors": "Erika Mudrak,David Kent,Lynn Johnson,Stephen Parry",
+    "curriculum": null,
     "venue": "Cornell University",
     "longitude": -76.47657,
     "slug": "2017-06-14-cornell",
@@ -3290,10 +3525,11 @@
     "start_date": "2017-06-14"
   },
   {
+    "instructors": "Jaime Ashander,April Wright",
     "end_date": "2017-06-09",
     "url": "http://www.ashander.info/2017-06-08-QuARRC-UMN/",
     "country": "US",
-    "instructors": "Jaime Ashander,April Wright",
+    "curriculum": null,
     "venue": "Bruininks Hall 530B,",
     "longitude": -93.237358,
     "slug": "2017-06-08-minnesota",
@@ -3304,10 +3540,11 @@
     "start_date": "2017-06-08"
   },
   {
+    "instructors": "Stephanie Labou",
     "end_date": "2017-06-12",
     "url": "https://stephlabou.github.io/2017-06-08-wsu/",
     "country": "US",
-    "instructors": "Stephanie Labou",
+    "curriculum": null,
     "venue": "Washington State University",
     "longitude": -117.1817,
     "slug": "2017-06-08-wsu",
@@ -3318,10 +3555,11 @@
     "start_date": "2017-06-08"
   },
   {
+    "instructors": "Jeff Hollister,Rachel Schwartz",
     "end_date": "2017-06-08",
     "url": "http://rhodyrstats.org/2017-06-07-uri/",
     "country": "US",
-    "instructors": "Jeff Hollister,Rachel Schwartz",
+    "curriculum": null,
     "venue": "University of Rhode Island - Coastal Institute",
     "longitude": -71.422119,
     "slug": "2017-06-07-uri",
@@ -3332,10 +3570,11 @@
     "start_date": "2017-06-07"
   },
   {
+    "instructors": "Emmanouil Farsarakis,Juan Herrera",
     "end_date": "2017-06-02",
     "url": "https://hpcarcher.github.io/2017-06-01-Belfast/",
     "country": "GB",
-    "instructors": "Emmanouil Farsarakis,Juan Herrera",
+    "curriculum": null,
     "venue": "The Queen's University Belfast",
     "longitude": -5.934326,
     "slug": "2017-06-01-Belfast",
@@ -3346,10 +3585,11 @@
     "start_date": "2017-06-01"
   },
   {
+    "instructors": "Angelique van Rensburg,Jacqueline Muller,Juan Steyn,Martin Dreyer,Bianca Peterson,Samar Elsheikh",
     "end_date": "2017-06-01",
     "url": "https://nwu-digitalhumanities.github.io/2017-05-31-Vaal/",
     "country": "ZA",
-    "instructors": "Angelique van Rensburg,Jacqueline Muller,Juan Steyn,Martin Dreyer,Bianca Peterson,Samar Elsheikh",
+    "curriculum": null,
     "venue": "North-West University",
     "longitude": 27.880881,
     "slug": "2017-05-31-Vaal",
@@ -3360,10 +3600,11 @@
     "start_date": "2017-05-31"
   },
   {
+    "instructors": "Kathleen Lotterhos,Jarrett Byrnes,Brian Teague",
     "end_date": "2017-05-19",
     "url": "https://drk-lo.github.io/2017-05-18-NahantNUMSC/",
     "country": "US",
-    "instructors": "Kathleen Lotterhos,Jarrett Byrnes,Brian Teague",
+    "curriculum": null,
     "venue": "Northeastern University Marine Science Center",
     "longitude": -70.906186,
     "slug": "2017-05-18-northeastern",
@@ -3374,10 +3615,11 @@
     "start_date": "2017-05-18"
   },
   {
+    "instructors": "Anelda van der Walt,Aleksandra Pawlik,Ivo Agbor Arrey",
     "end_date": "2017-05-17",
     "url": "https://arreyves.github.io/2017-05-15-UNIVENDA/",
     "country": "ZA",
-    "instructors": "Anelda van der Walt,Aleksandra Pawlik,Ivo Agbor Arrey",
+    "curriculum": null,
     "venue": "CAD Lab, School of Environmental Sciences, University of Venda, University Street",
     "longitude": 30.4465,
     "slug": "2017-05-15-UNIVENDA",
@@ -3388,10 +3630,11 @@
     "start_date": "2017-05-15"
   },
   {
+    "instructors": "Giacomo Peru,Mike Jackson,Emmanouil Farsarakis,Eilidh Troup",
     "end_date": "2017-05-12",
     "url": "https://hpcarcher.github.io/2017-05-11-edinburgh/",
     "country": "GB",
-    "instructors": "Giacomo Peru,Mike Jackson,Emmanouil Farsarakis,Eilidh Troup",
+    "curriculum": null,
     "venue": "University of Edinburgh, King's Buildings, JCMB",
     "longitude": -3.1749893,
     "slug": "2017-05-11-edinburgh",
@@ -3402,10 +3645,11 @@
     "start_date": "2017-05-11"
   },
   {
+    "instructors": "Daren Card,Lingling Jiang",
     "end_date": "2017-05-05",
     "url": "https://darencard.github.io/2017-05-04-SUNY-Upstate/",
     "country": "US",
-    "instructors": "Daren Card,Lingling Jiang",
+    "curriculum": null,
     "venue": "SUNY Upstate Medical University",
     "longitude": -76.138991,
     "slug": "2017-05-04-upstate_medical_university",
@@ -3416,10 +3660,11 @@
     "start_date": "2017-05-04"
   },
   {
+    "instructors": "Lachlan Deer,Easton White",
     "end_date": "2017-05-02",
     "url": "https://lachlandeer.github.io/2017-05-01-dc-frb/",
     "country": "US",
-    "instructors": "Lachlan Deer,Easton White",
+    "curriculum": null,
     "venue": "Federal Reserve Board of Governors",
     "longitude": -77.044948,
     "slug": "2017-05-01-frb_datacarp",
@@ -3430,10 +3675,11 @@
     "start_date": "2017-05-01"
   },
   {
+    "instructors": "Gail Clement,Thomas Morrell",
     "end_date": "2017-04-27",
     "url": "https://caltechlibrary.github.io/2017-04-26-caltech/",
     "country": "US",
-    "instructors": "Gail Clement,Thomas Morrell",
+    "curriculum": null,
     "venue": "Caltech",
     "longitude": -118.126089,
     "slug": "2017-04-26-caltech",
@@ -3444,10 +3690,11 @@
     "start_date": "2017-04-26"
   },
   {
+    "instructors": "Gail Clement,Thomas Morrell",
     "end_date": "2017-04-27",
     "url": "https://caltechlibrary.github.io/2017-05-06-caltech/",
     "country": "US",
-    "instructors": "Gail Clement,Thomas Morrell",
+    "curriculum": null,
     "venue": "Caltech",
     "longitude": -118.1247,
     "slug": "2017-05-06-caltech",
@@ -3458,10 +3705,11 @@
     "start_date": "2017-04-26"
   },
   {
+    "instructors": "Murray Cadzow,Mik Black,Tanya Flynn,Jonah Duckles,Elizabeth Permina",
     "end_date": "2017-04-21",
     "url": "https://mikblack.github.io/2017-04-20-otago",
     "country": "NZ",
-    "instructors": "Murray Cadzow,Mik Black,Tanya Flynn,Jonah Duckles,Elizabeth Permina",
+    "curriculum": null,
     "venue": "University of Otago",
     "longitude": 170.513253,
     "slug": "2017-04-20-otago",
@@ -3472,10 +3720,11 @@
     "start_date": "2017-04-20"
   },
   {
+    "instructors": "Jay van Schyndel,Collin Storlie",
     "end_date": "2017-04-07",
     "url": "https://jcu-eresearch.github.io/2017-04-06-DataCarpentry-Genomics-TSV",
     "country": "AU",
-    "instructors": "Jay van Schyndel,Collin Storlie",
+    "curriculum": null,
     "venue": "Room 306",
     "longitude": 146.815951,
     "slug": "2017-04-06-DataCarpentry-Genomics-TSV",
@@ -3486,10 +3735,11 @@
     "start_date": "2017-04-06"
   },
   {
+    "instructors": "Sue McClatchy,Saira Kazmi,Shane Sanders,Sandeep Namburi",
     "end_date": "2017-04-07",
     "url": "https://smcclatchy.github.io/2017-04-06-farmington/",
     "country": "US",
-    "instructors": "Sue McClatchy,Saira Kazmi,Shane Sanders,Sandeep Namburi",
+    "curriculum": null,
     "venue": "The Jackson Laboratory for Genomic Medicine",
     "longitude": -72.793404,
     "slug": "2017-04-06-farmington",
@@ -3500,10 +3750,11 @@
     "start_date": "2017-04-06"
   },
   {
+    "instructors": "Martin Callaghan,Aleksandra Nenadic,Raniere Silva",
     "end_date": "2017-03-31",
     "url": "https://anenadic.github.io/2017-03-30-manchester/",
     "country": "GB",
-    "instructors": "Martin Callaghan,Aleksandra Nenadic,Raniere Silva",
+    "curriculum": null,
     "venue": "Cathie Marsh Institute for Social Research, University of Manchester",
     "longitude": -2.23654,
     "slug": "2017-03-30-manchester",
@@ -3514,10 +3765,11 @@
     "start_date": "2017-03-30"
   },
   {
+    "instructors": "Becca Love,Pariksheet Nanda",
     "end_date": "2017-03-30",
     "url": "https://udel-dc-2017.github.io/2017-03-29-udel/",
     "country": "US",
-    "instructors": "Becca Love,Pariksheet Nanda",
+    "curriculum": null,
     "venue": "University of Delaware",
     "longitude": -75.734856,
     "slug": "2017-03-29-delaware",
@@ -3528,10 +3780,11 @@
     "start_date": "2017-03-29"
   },
   {
+    "instructors": "Mateusz Kuzak,Lex Nederbragt,Anita Schürch",
     "end_date": "2017-03-23",
     "url": "https://aschuerch.github.io/2017-03-22-amsterdam/",
     "country": "NL",
-    "instructors": "Mateusz Kuzak,Lex Nederbragt,Anita Schürch",
+    "curriculum": null,
     "venue": "Amsterdam Science park",
     "longitude": 4.952676,
     "slug": "2017-03-22-amsterdam",
@@ -3542,10 +3795,11 @@
     "start_date": "2017-03-22"
   },
   {
+    "instructors": "Daniel Standage,Chris Hamm",
     "end_date": "2017-03-23",
     "url": "https://butterflyology.github.io/2017-03-22-csumb/",
     "country": "US",
-    "instructors": "Daniel Standage,Chris Hamm",
+    "curriculum": null,
     "venue": "California State University, Monterey Bay",
     "longitude": -121.8017,
     "slug": "2017-03-22-calstate_Monterey",
@@ -3556,10 +3810,11 @@
     "start_date": "2017-03-22"
   },
   {
+    "instructors": "Stephanie Labou",
     "end_date": "2017-03-21",
     "url": "https://stephlabou.github.io/2017-03-20-wsu/",
     "country": "US",
-    "instructors": "Stephanie Labou",
+    "curriculum": null,
     "venue": "Washington State University",
     "longitude": -117.1817,
     "slug": "2017-03-20-wsu",
@@ -3570,10 +3825,11 @@
     "start_date": "2017-03-20"
   },
   {
+    "instructors": "Likit Preeyanon",
     "end_date": "2017-02-13",
     "url": "https://likit.github.io/2017-02-12-Chiangmai-data/",
     "country": "TH",
-    "instructors": "Likit Preeyanon",
+    "curriculum": null,
     "venue": "Chiangmai University",
     "longitude": 98.954987,
     "slug": "2017-02-12-Chiangmai-data",
@@ -3584,10 +3840,11 @@
     "start_date": "2017-02-12"
   },
   {
+    "instructors": "Saira Kazmi,Sue McClatchy,Shane Sanders",
     "end_date": "2017-02-10",
     "url": "https://smcclatchy.github.io/2017-02-09-farmington/",
     "country": "US",
-    "instructors": "Saira Kazmi,Sue McClatchy,Shane Sanders",
+    "curriculum": null,
     "venue": "The Jackson Laboratory for Genomic Medicine",
     "longitude": -72.793415,
     "slug": "2017-02-09-jax",
@@ -3598,10 +3855,11 @@
     "start_date": "2017-02-09"
   },
   {
+    "instructors": "Sue McClatchy,Daniel Gatti,Eric Ma,Brian Teague",
     "end_date": "2017-01-27",
     "url": "https://smcclatchy.github.io/2017-01-26-tufts",
     "country": "US",
-    "instructors": "Sue McClatchy,Daniel Gatti,Eric Ma,Brian Teague",
+    "curriculum": null,
     "venue": "Tufts University Sackler School of Graduate Biomedical Sciences",
     "longitude": -71.061511,
     "slug": "2017-01-26-tufts",
@@ -3612,10 +3870,11 @@
     "start_date": "2017-01-26"
   },
   {
+    "instructors": "Ryan Peek,Catalina Anghel",
     "end_date": "2017-01-22",
     "url": "https://ryanpeek.github.io/2017-01-22-stanford/",
     "country": "US",
-    "instructors": "Ryan Peek,Catalina Anghel",
+    "curriculum": null,
     "venue": "Stanford University School of Medicine",
     "longitude": -122.175804,
     "slug": "2017-01-21-stanford",
@@ -3626,10 +3885,11 @@
     "start_date": "2017-01-21"
   },
   {
+    "instructors": "Lisa Breckels,Laurent Gatto,Hugo Tavares,Marco Chiapello",
     "end_date": "2017-01-19",
     "url": "https://lgatto.github.io/2017-01-18-CAM/",
     "country": "GB",
-    "instructors": "Lisa Breckels,Laurent Gatto,Hugo Tavares,Marco Chiapello",
+    "curriculum": null,
     "venue": "University of Cambridge",
     "longitude": 0.122514,
     "slug": "2017-01-18-CAM",
@@ -3640,10 +3900,11 @@
     "start_date": "2017-01-18"
   },
   {
+    "instructors": "Trisha Adamus,Karl Broman,Cameron Cook,Christina Koch,Sarah Stevens",
     "end_date": "2017-01-11",
     "url": "https://uw-madison-aci.github.io/2017-01-10-uwmadison/",
     "country": "US",
-    "instructors": "Trisha Adamus,Karl Broman,Cameron Cook,Christina Koch,Sarah Stevens",
+    "curriculum": null,
     "venue": "UW Madison",
     "longitude": -89.408136,
     "slug": "2017-01-10-uw_madison",
@@ -3654,10 +3915,11 @@
     "start_date": "2017-01-10"
   },
   {
+    "instructors": "Arthur Endsley,Brook Moyers",
     "end_date": "2017-01-06",
     "url": "https://arthur-e.github.io/2017-01-05-AGCI/",
     "country": "US",
-    "instructors": "Arthur Endsley,Brook Moyers",
+    "curriculum": null,
     "venue": "Aspen Global Change Institute (AGCI)",
     "longitude": -107.034601,
     "slug": "2017-01-05-agci",
@@ -3668,10 +3930,11 @@
     "start_date": "2017-01-05"
   },
   {
+    "instructors": "Michael Levy,Bob Freeman,Troy Adair,Ista Zahn",
     "end_date": "2016-12-02",
     "url": "https://hbs-rcs.github.io/2016-12-01-DC-Social-Sciences/",
     "country": "US",
-    "instructors": "Michael Levy,Bob Freeman,Troy Adair,Ista Zahn",
+    "curriculum": null,
     "venue": "Harvard Business School",
     "longitude": -71.1200943,
     "slug": "2016-12-01-DC-Social-Sciences",
@@ -3682,10 +3945,11 @@
     "start_date": "2016-12-01"
   },
   {
+    "instructors": "Jon Badalamenti,Tracy Teal",
     "end_date": "2016-11-22",
     "url": "https://tracykteal.github.io/2016-11-21-genomics-unm/",
     "country": "US",
-    "instructors": "Jon Badalamenti,Tracy Teal",
+    "curriculum": null,
     "venue": "105 Cargill Building, University of Minnesota",
     "longitude": -93.22807,
     "slug": "2016-11-21-genomics-unm",
@@ -3696,10 +3960,11 @@
     "start_date": "2016-11-21"
   },
   {
+    "instructors": "Brenda Moon,Martin Callaghan,Andy Evans",
     "end_date": "2016-11-22",
     "url": "https://arcleeds.github.io/2016-11-21-leeds/",
     "country": "GB",
-    "instructors": "Brenda Moon,Martin Callaghan,Andy Evans",
+    "curriculum": null,
     "venue": "University of Leeds",
     "longitude": -1.554303,
     "slug": "2016-11-21-leeds",
@@ -3710,10 +3975,11 @@
     "start_date": "2016-11-21"
   },
   {
+    "instructors": "Moritz Neeb,Mateusz Kuzak",
     "end_date": "2016-11-15",
     "url": "https://zormit.github.io/2016-11-14-FRB/",
     "country": "FR",
-    "instructors": "Moritz Neeb,Mateusz Kuzak",
+    "curriculum": null,
     "venue": "Fondation pour la Recherche sur la Biodiversité",
     "longitude": 2.350376,
     "slug": "2016-11-14-CESAB",
@@ -3724,10 +3990,11 @@
     "start_date": "2016-11-14"
   },
   {
+    "instructors": "Kari Jordan,Kwangchun Lee",
     "end_date": "2016-11-07",
     "url": "https://statkclee.github.io/2016-11-06-sogang/",
     "country": "KR",
-    "instructors": "Kari Jordan,Kwangchun Lee",
+    "curriculum": null,
     "venue": "서강대학교",
     "longitude": 126.939991,
     "slug": "2016-11-06-sogang",
@@ -3738,10 +4005,11 @@
     "start_date": "2016-11-06"
   },
   {
+    "instructors": "Neem Serra,Alex Viana",
     "end_date": "2016-11-04",
     "url": "https://teamneem.github.io/2016-11-03-nsbe/",
     "country": "US",
-    "instructors": "Neem Serra,Alex Viana",
+    "curriculum": null,
     "venue": "NSBE Fall Regional Conference - Sheraton Atlanta Airport Hotel",
     "longitude": -84.4277,
     "slug": "2016-11-03-nsbe_atlanta",
@@ -3752,10 +4020,11 @@
     "start_date": "2016-11-03"
   },
   {
+    "instructors": "Jennifer Shelton,Daniel Chen",
     "end_date": "2016-11-04",
     "url": "https://chendaniely.github.io/2016-11-03-nsbe/",
     "country": "US",
-    "instructors": "Jennifer Shelton,Daniel Chen",
+    "curriculum": null,
     "venue": "National Society of Black Engineers: Region II Fall Regional Conference",
     "longitude": -76.290971,
     "slug": "2016-11-03-nsbe_norfolk",
@@ -3766,10 +4035,11 @@
     "start_date": "2016-11-03"
   },
   {
+    "instructors": "Emmanouil Farsarakis,Ally Hume",
     "end_date": "2016-11-03",
     "url": "https://hpcarcher.github.io/2016-11-02-EPCC/",
     "country": "GB",
-    "instructors": "Emmanouil Farsarakis,Ally Hume",
+    "curriculum": null,
     "venue": "EPCC - The University of Edinburgh",
     "longitude": -3.174546,
     "slug": "2016-11-02-EPCC",
@@ -3780,10 +4050,11 @@
     "start_date": "2016-11-02"
   },
   {
+    "instructors": "Ivo Agbor Arrey,Naudene Maree,Andy South",
     "end_date": "2016-11-03",
     "url": "https://arreyves.github.io/2016-10-31-univenda/",
     "country": "ZA",
-    "instructors": "Ivo Agbor Arrey,Naudene Maree,Andy South",
+    "curriculum": null,
     "venue": "University of Venda",
     "longitude": 30.4465,
     "slug": "2016-10-31-univenda",
@@ -3794,10 +4065,11 @@
     "start_date": "2016-11-01"
   },
   {
+    "instructors": "Alistair Walsh,Philipp Bayer",
     "end_date": "2016-10-26",
     "url": "https://philippbayer.github.io/2016-10-25-uwa/",
     "country": "AU",
-    "instructors": "Alistair Walsh,Philipp Bayer",
+    "curriculum": null,
     "venue": "University of Western Australia",
     "longitude": 115.817742,
     "slug": "2016-10-25-uwa",
@@ -3808,10 +4080,11 @@
     "start_date": "2016-10-25"
   },
   {
+    "instructors": "Jose Nandez,Baolai Ge",
     "end_date": "2016-10-23",
     "url": "https://jnandez.github.io/2016-10-22-uwo/",
     "country": "CA",
-    "instructors": "Jose Nandez,Baolai Ge",
+    "curriculum": null,
     "venue": "Western University, PAB 150",
     "longitude": -81.27266,
     "slug": "2016-10-22-uwo",
@@ -3822,10 +4095,11 @@
     "start_date": "2016-10-22"
   },
   {
+    "instructors": "Rob Davey,Mateusz Kuzak,Anthony Etuk",
     "end_date": "2016-10-19",
     "url": "https://tgac.github.io/2016-10-18-EI/",
     "country": "GB",
-    "instructors": "Rob Davey,Mateusz Kuzak,Anthony Etuk",
+    "curriculum": null,
     "venue": "Earlham Institute - Darwin Room",
     "longitude": 1.219461,
     "slug": "2016-10-18-EI",
@@ -3836,10 +4110,11 @@
     "start_date": "2016-10-18"
   },
   {
+    "instructors": "Shawn Taylor,Deborah Paul,François Michonneau",
     "end_date": "2016-10-18",
     "url": "https://weecology.github.io/2016-10-17-uf/",
     "country": "US",
-    "instructors": "Shawn Taylor,Deborah Paul,François Michonneau",
+    "curriculum": null,
     "venue": "University of Florida Informatics Institute",
     "longitude": -82.344031,
     "slug": "2016-10-17-uf",
@@ -3850,10 +4125,11 @@
     "start_date": "2016-10-17"
   },
   {
+    "instructors": "Adam Obeng,Joona Lehtomäki",
     "end_date": "2016-10-04",
     "url": "https://adamobeng.github.io/2016-10-03-Uni-Neuchatel",
     "country": "CH",
-    "instructors": "Adam Obeng,Joona Lehtomäki",
+    "curriculum": null,
     "venue": "University of Neuchâtel",
     "longitude": 6.9490189,
     "slug": "2016-10-03-Uni-Neuchatel",
@@ -3864,10 +4140,11 @@
     "start_date": "2016-10-03"
   },
   {
+    "instructors": "Sue McClatchy,Narayanan Raghupathy,Petr Simecek",
     "end_date": "2016-09-30",
     "url": "https://smcclatchy.github.io/2016-09-29-jackson/",
     "country": "US",
-    "instructors": "Sue McClatchy,Narayanan Raghupathy,Petr Simecek",
+    "curriculum": null,
     "venue": "The Jackson Laboratory",
     "longitude": -68.196586,
     "slug": "2016-09-29-jackson",
@@ -3878,10 +4155,11 @@
     "start_date": "2016-09-29"
   },
   {
+    "instructors": "Amanda Charbonneau,Will Pitchers",
     "end_date": "2016-09-29",
     "url": "https://acharbonneau.github.io/2016-09-28-MSU/",
     "country": "US",
-    "instructors": "Amanda Charbonneau,Will Pitchers",
+    "curriculum": null,
     "venue": "BPS room 1455(A)",
     "longitude": -84.4843606,
     "slug": "2016-09-28-MSU",
@@ -3892,10 +4170,11 @@
     "start_date": "2016-09-28"
   },
   {
+    "instructors": "Martin Callaghan,Elena Sügis,Dmytro Fishman",
     "end_date": "2016-09-28",
     "url": "https://arcleeds.github.io/2016-09-27-milan/",
     "country": "IT",
-    "instructors": "Martin Callaghan,Elena Sügis,Dmytro Fishman",
+    "curriculum": null,
     "venue": "IFOM - Istituto FIRC di Oncologia Molecolare",
     "longitude": 9.203042,
     "slug": "2016-09-27-milan",
@@ -3906,10 +4185,11 @@
     "start_date": "2016-09-27"
   },
   {
+    "instructors": "Bianca Peterson,Maryke Schoonen,Jason Williams",
     "end_date": "2016-09-29",
     "url": "https://nwu-eresearch.github.io/2016-09-26-nwu-genomics/",
     "country": "ZA",
-    "instructors": "Bianca Peterson,Maryke Schoonen,Jason Williams",
+    "curriculum": null,
     "venue": "North-West University",
     "longitude": 27.094909,
     "slug": "2016-09-26-nwu-genomics",
@@ -3920,10 +4200,11 @@
     "start_date": "2016-09-26"
   },
   {
+    "instructors": "Steve Van Tuyl,Adelaide Rhodes",
     "end_date": "2016-09-07",
     "url": "https://vantuyls.github.io/2016-09-06-OSUHMSC/",
     "country": "US",
-    "instructors": "Steve Van Tuyl,Adelaide Rhodes",
+    "curriculum": null,
     "venue": "Oregon State University - Hatfield Marine Science Center - Guin Library Seminar Room",
     "longitude": -124.045127,
     "slug": "2016-09-06-OSUHMSC",
@@ -3934,10 +4215,11 @@
     "start_date": "2016-09-06"
   },
   {
+    "instructors": "Jeff Hollister,Ryan Peek",
     "end_date": "2016-08-30",
     "url": "http://rhodyrstats.github.io/2016-08-29-uri",
     "country": "US",
-    "instructors": "Jeff Hollister,Ryan Peek",
+    "curriculum": null,
     "venue": "University of Rhode Island, Coastal Institute",
     "longitude": -71.422119,
     "slug": "2016-08-29-uri",
@@ -3948,10 +4230,11 @@
     "start_date": "2016-08-29"
   },
   {
+    "instructors": "Trisha Adamus,Karl Broman,Christina Koch",
     "end_date": "2016-08-24",
     "url": "https://uw-madison-aci.github.io/2016-08-23-uwmadison/",
     "country": "US",
-    "instructors": "Trisha Adamus,Karl Broman,Christina Koch",
+    "curriculum": null,
     "venue": "University of Wisconsin, Madison",
     "longitude": -89.408136,
     "slug": "2016-08-23-uw_madison",
@@ -3962,10 +4245,11 @@
     "start_date": "2016-08-23"
   },
   {
+    "instructors": "Martin Callaghan,Mario Antonioletti,Alexey Tarutin",
     "end_date": "2016-08-23",
     "url": "https://rgaiacs.github.io/2016-08-22-edinburgh",
     "country": "GB",
-    "instructors": "Martin Callaghan,Mario Antonioletti,Alexey Tarutin",
+    "curriculum": null,
     "venue": "University of Edinburgh",
     "longitude": -3.189147,
     "slug": "2016-08-22-edinburgh",
@@ -3976,10 +4260,11 @@
     "start_date": "2016-08-22"
   },
   {
+    "instructors": "Chris Hamm,Hani Nakhoul",
     "end_date": "2016-08-20",
     "url": "https://hnakhoul.github.io/2016-08-18-stonybrook/",
     "country": "US",
-    "instructors": "Chris Hamm,Hani Nakhoul",
+    "curriculum": null,
     "venue": "Stony Brook University",
     "longitude": -96.29399,
     "slug": "2016-08-19-stonybrook",
@@ -3990,10 +4275,11 @@
     "start_date": "2016-08-19"
   },
   {
+    "instructors": "Jinsu Choi,Fan Yang,Carolyn Lawrence-Dill,Renee Walton",
     "end_date": "2016-08-12",
     "url": "https://metajinomics.github.io/2016-08-11-ISU/",
     "country": "US",
-    "instructors": "Jinsu Choi,Fan Yang,Carolyn Lawrence-Dill,Renee Walton",
+    "curriculum": null,
     "venue": "Iowa State University",
     "longitude": -93.652643,
     "slug": "2016-08-11-ISU",
@@ -4004,10 +4290,11 @@
     "start_date": "2016-08-11"
   },
   {
+    "instructors": "Alistair Walsh,Darya Vanichkina,Talitha Ford",
     "end_date": "2016-08-11",
     "url": "https://alistairwalsh.github.io/2016-08-10-Pre-Pycon_Data_Carpentry_Workshop/",
     "country": "AU",
-    "instructors": "Alistair Walsh,Darya Vanichkina,Talitha Ford",
+    "curriculum": null,
     "venue": "VLSCI",
     "longitude": 144.9643461,
     "slug": "2016-08-10-Pre-Pycon_Data_Carpentry_Workshop",
@@ -4018,10 +4305,11 @@
     "start_date": "2016-08-10"
   },
   {
+    "instructors": "Daniel Chen,Arthur Endsley",
     "end_date": "2016-08-03",
     "url": "https://arthur-e.github.io/2016-08-03-FederalReserveBoard/",
     "country": "US",
-    "instructors": "Daniel Chen,Arthur Endsley",
+    "curriculum": null,
     "venue": "Federal Reserve Board",
     "longitude": -77.044948,
     "slug": "2016-08-03-frb_washingtondc",
@@ -4032,10 +4320,11 @@
     "start_date": "2016-08-02"
   },
   {
+    "instructors": "Jeff Hollister",
     "end_date": "2016-07-27",
     "url": "https://jhollist.github.io/2016-07-26-boston-university/",
     "country": "US",
-    "instructors": "Jeff Hollister",
+    "curriculum": null,
     "venue": "Boston University School of Medicine",
     "longitude": -71.072403,
     "slug": "2016-07-26-BU",
@@ -4046,10 +4335,11 @@
     "start_date": "2016-07-26"
   },
   {
+    "instructors": "Mahdi Belcaid,Paula Andrea Martinez",
     "end_date": "2016-07-26",
     "url": "http://dipnet.github.io/2016-07-25-Philippines/",
     "country": "PH",
-    "instructors": "Mahdi Belcaid,Paula Andrea Martinez",
+    "curriculum": null,
     "venue": "Philippines",
     "longitude": 121.044617,
     "slug": "2016-07-25-philippines",
@@ -4060,10 +4350,11 @@
     "start_date": "2016-07-25"
   },
   {
+    "instructors": "Joseph Stachelek,Christa Zweig",
     "end_date": "2016-07-22",
     "url": "https://jsta.github.io/2016-07-21-sfwmd/",
     "country": "US",
-    "instructors": "Joseph Stachelek,Christa Zweig",
+    "curriculum": null,
     "venue": "South Florida Water Management District",
     "longitude": -80.095131,
     "slug": "2016-07-21-sfwmd",
@@ -4074,10 +4365,11 @@
     "start_date": "2016-07-21"
   },
   {
+    "instructors": "Mark Robinson,Lukas Weber,Jennifer Bryan,Diana Marek",
     "end_date": "2016-07-19",
     "url": "https://markrobinsonuzh.github.io/2016-07-18-zurich/",
     "country": "CH",
-    "instructors": "Mark Robinson,Lukas Weber,Jennifer Bryan,Diana Marek",
+    "curriculum": null,
     "venue": "University of Zurich",
     "longitude": 8.550574,
     "slug": "2016-07-18-zurich",
@@ -4088,10 +4380,11 @@
     "start_date": "2016-07-18"
   },
   {
+    "instructors": "Alistair Walsh",
     "end_date": "2016-07-14",
     "url": "https://alistairwalsh.github.io/2016-07-20-UTS_Library_Data_Carpentry/",
     "country": "AU",
-    "instructors": "Alistair Walsh",
+    "curriculum": null,
     "venue": "University of Technology Sydney",
     "longitude": 151.202238,
     "slug": "2016-07-20-UTS_Library_Data_Carpentry",
@@ -4102,10 +4395,11 @@
     "start_date": "2016-07-12"
   },
   {
+    "instructors": "Cam Macdonell,John Simpson",
     "end_date": "2016-06-24",
     "url": "http://www.datacarpentry.org/2016-06-23-CC/",
     "country": "CA",
-    "instructors": "Cam Macdonell,John Simpson",
+    "curriculum": null,
     "venue": "University of Alberta",
     "longitude": -113.519881,
     "slug": "2016-06-23-ualberta-DC",
@@ -4116,10 +4410,11 @@
     "start_date": "2016-06-23"
   },
   {
+    "instructors": "Hani Nakhoul,Auriel Fournier",
     "end_date": "2016-06-16",
     "url": "http://aurielfournier.github.io/2016-06-15-USDA-NOLA/",
     "country": "US",
-    "instructors": "Hani Nakhoul,Auriel Fournier",
+    "curriculum": null,
     "venue": "SRRC, USDA-ARS, New Orleans, LA",
     "longitude": -90.089545,
     "slug": "2016-06-15-USDA-NOLA",
@@ -4130,10 +4425,11 @@
     "start_date": "2016-06-15"
   },
   {
+    "instructors": "Erika Mudrak,Emily Davenport,Lynn Johnson",
     "end_date": "2016-06-14",
     "url": "http://erdavenport.github.io/2016-06-13-cornell/",
     "country": "US",
-    "instructors": "Erika Mudrak,Emily Davenport,Lynn Johnson",
+    "curriculum": null,
     "venue": "Cornell University Statistical Consulting Unit (CSCU)",
     "longitude": -76.47657,
     "slug": "2016-06-13-cornell",
@@ -4144,10 +4440,11 @@
     "start_date": "2016-06-13"
   },
   {
+    "instructors": "Kevin Vilbig,John Gosset",
     "end_date": "2016-06-08",
     "url": "http://qjcg.github.io/2016-06-07-ucincinnati/",
     "country": "US",
-    "instructors": "Kevin Vilbig,John Gosset",
+    "curriculum": null,
     "venue": "University of Cincinnati",
     "longitude": -84.5065134,
     "slug": "2016-06-07-ucincinnati",
@@ -4158,10 +4455,11 @@
     "start_date": "2016-06-07"
   },
   {
+    "instructors": "John Moreau,Kyler Brown",
     "end_date": "2016-06-03",
     "url": "http://johnrmoreau.github.io/2016-06-02-FederalReserveBoard/",
     "country": "US",
-    "instructors": "John Moreau,Kyler Brown",
+    "curriculum": null,
     "venue": "Federal Reserve Board",
     "longitude": -77.040452,
     "slug": "2016-06-02-frb_washingtondc",
@@ -4172,10 +4470,11 @@
     "start_date": "2016-06-02"
   },
   {
+    "instructors": "Christina Koch,Karl Broman,Michelle Craft",
     "end_date": "2016-06-02",
     "url": "http://uw-madison-aci.github.io/2016-06-01-uwmadison/",
     "country": "US",
-    "instructors": "Christina Koch,Karl Broman,Michelle Craft",
+    "curriculum": null,
     "venue": "University of Wisconsin - Madison",
     "longitude": -89.4100213,
     "slug": "2016-06-01-wisc",
@@ -4186,10 +4485,11 @@
     "start_date": "2016-06-01"
   },
   {
+    "instructors": "April Wright,François Michonneau",
     "end_date": "2016-06-01",
     "url": "http://fmichonneau.github.io/2016-06-03-upr-mayaguez/",
     "country": "PR",
-    "instructors": "April Wright,François Michonneau",
+    "curriculum": null,
     "venue": "University of Puerto Rico Mayagüez",
     "longitude": -67.2105816,
     "slug": "2016-05-31-puertorico",
@@ -4200,10 +4500,11 @@
     "start_date": "2016-05-31"
   },
   {
+    "instructors": "Lukas Weber,Frank Pennekamp,Geoffrey Fucile",
     "end_date": "2016-05-31",
     "url": "http://lmweber.github.io/2016-05-30-Zurich/",
     "country": "CH",
-    "instructors": "Lukas Weber,Frank Pennekamp,Geoffrey Fucile",
+    "curriculum": null,
     "venue": "University of Zurich",
     "longitude": 8.549121,
     "slug": "2016-05-30-Zurich",
@@ -4214,10 +4515,11 @@
     "start_date": "2016-05-30"
   },
   {
+    "instructors": "Jason Williams,Ryan Dale,Adam Thomas",
     "end_date": "2016-05-27",
     "url": "http://datacarpentry.github.io/2016-05-26-NIH/",
     "country": "US",
-    "instructors": "Jason Williams,Ryan Dale,Adam Thomas",
+    "curriculum": null,
     "venue": "National Institutes of Health",
     "longitude": -77.1044218,
     "slug": "2016-05-26-NIH",
@@ -4228,10 +4530,11 @@
     "start_date": "2016-05-26"
   },
   {
+    "instructors": "Joseph Stachelek,Christa Zweig",
     "end_date": "2016-05-27",
     "url": "http://jsta.github.io/2016-05-26-sfwmd/",
     "country": "US",
-    "instructors": "Joseph Stachelek,Christa Zweig",
+    "curriculum": null,
     "venue": "South Florida Water Management District",
     "longitude": -80.095131,
     "slug": "2016-05-26-sfwmd",
@@ -4242,10 +4545,11 @@
     "start_date": "2016-05-26"
   },
   {
+    "instructors": "Laurent Gatto",
     "end_date": "2016-05-16",
     "url": "http://lgatto.github.io/2016-05-16-CAM/",
     "country": "GB",
-    "instructors": "Laurent Gatto",
+    "curriculum": null,
     "venue": "University of Cambridge",
     "longitude": 0.122514,
     "slug": "2016-05-16-CAM",
@@ -4256,10 +4560,11 @@
     "start_date": "2016-05-16"
   },
   {
+    "instructors": "Sherry Lake,Steve Van Tuyl",
     "end_date": "2016-05-06",
     "url": "http://vantuyls.github.io/2016-05-06-RDAP16-Atlanta/",
     "country": "US",
-    "instructors": "Sherry Lake,Steve Van Tuyl",
+    "curriculum": null,
     "venue": "RDAP16",
     "longitude": -84.3950201,
     "slug": "2016-05-06-RDAP16-Atlanta",
@@ -4270,10 +4575,11 @@
     "start_date": "2016-05-06"
   },
   {
+    "instructors": "Kevin Vilbig,John Gosset",
     "end_date": "2016-05-05",
     "url": "http://qjcg.github.io/2016-05-04-dupont",
     "country": "US",
-    "instructors": "Kevin Vilbig,John Gosset",
+    "curriculum": null,
     "venue": "DuPont Industrial Biosciences",
     "longitude": -122.145905,
     "slug": "2016-05-04-dupont",
@@ -4284,10 +4590,11 @@
     "start_date": "2016-05-04"
   },
   {
+    "instructors": "Steve Van Tuyl",
     "end_date": "2016-04-24",
     "url": "http://vantuyls.github.io/2016-04-23-OSU-Spring",
     "country": "US",
-    "instructors": "Steve Van Tuyl",
+    "curriculum": null,
     "venue": "Oregon State University Libraries",
     "longitude": -123.2760448,
     "slug": "2016-04-23-OSU-Spring",
@@ -4298,10 +4605,11 @@
     "start_date": "2016-04-23"
   },
   {
+    "instructors": "Kevin Vilbig,Adam Obeng",
     "end_date": "2016-04-20",
     "url": "https://adamobeng.github.io/2016-04-19-USDA-Athens-GA/",
     "country": "US",
-    "instructors": "Kevin Vilbig,Adam Obeng",
+    "curriculum": null,
     "venue": "Richard Russell US National Poultry Research Center",
     "longitude": -83.3606096,
     "slug": "2016-04-19-USDA-Athens-GA",
@@ -4312,10 +4620,11 @@
     "start_date": "2016-04-19"
   },
   {
+    "instructors": "Meeta Mistry,Radhika Khetani,Mary Piper",
     "end_date": "2016-04-15",
     "url": "http://smcclatchy.github.io/2016-04-14-jackson/",
     "country": "US",
-    "instructors": "Meeta Mistry,Radhika Khetani,Mary Piper",
+    "curriculum": null,
     "venue": "The Jackson Laboratory",
     "longitude": -68.196586,
     "slug": "2016-04-14-jacksonlabs",
@@ -4326,10 +4635,11 @@
     "start_date": "2016-04-14"
   },
   {
+    "instructors": "Ivan Gonzalez,Sheldon McKay",
     "end_date": "2016-04-13",
     "url": "https://iglpdc.github.io/2016-04-11-bu",
     "country": "US",
-    "instructors": "Ivan Gonzalez,Sheldon McKay",
+    "curriculum": null,
     "venue": "Boston University",
     "longitude": -87.6007318,
     "slug": "2016-04-12-boston_university",
@@ -4340,10 +4650,11 @@
     "start_date": "2016-04-12"
   },
   {
+    "instructors": "Leah Wasser,Megan A. Jones,Natalie Robinson",
     "end_date": "2016-04-13",
     "url": "http://neondataskills.org/workshop-event/NEON-DC-Spatial-04-12-2016",
     "country": "US",
-    "instructors": "Leah Wasser,Megan A. Jones,Natalie Robinson",
+    "curriculum": null,
     "venue": "",
     "longitude": null,
     "slug": "2016-04-12-usgs_denver_DC",
@@ -4354,10 +4665,11 @@
     "start_date": "2016-04-12"
   },
   {
+    "instructors": "Dirk Eddelbuettel,John Moreau",
     "end_date": "2016-04-08",
     "url": "https://johnrmoreau.github.io/2016-04-07-FederalReserveBoard/",
     "country": "US",
-    "instructors": "Dirk Eddelbuettel,John Moreau",
+    "curriculum": null,
     "venue": "Federal Reserve Board",
     "longitude": -77.044948,
     "slug": "2016-04-07-FederalReserveBoard",
@@ -4368,10 +4680,11 @@
     "start_date": "2016-04-07"
   },
   {
+    "instructors": "Tracy Teal",
     "end_date": "2016-04-07",
     "url": "http://datacarpentry.github.io/2016-04-04-gonzaga/",
     "country": "US",
-    "instructors": "Tracy Teal",
+    "curriculum": null,
     "venue": "Gonzaga, Office of Research Integrity",
     "longitude": -117.402992,
     "slug": "2016-04-04-gonzaga",
@@ -4382,10 +4695,11 @@
     "start_date": "2016-04-04"
   },
   {
+    "instructors": "Tracy Teal,Lex Nederbragt,Carrie Andrew",
     "end_date": "2016-03-15",
     "url": "http://uio-carpentry.github.io/2016-03-15-Oslo-data-bio",
     "country": "NO",
-    "instructors": "Tracy Teal,Lex Nederbragt,Carrie Andrew",
+    "curriculum": null,
     "venue": "University of Oslo",
     "longitude": 10.7210814,
     "slug": "2016-03-15-Oslo-data-bio",
@@ -4396,10 +4710,11 @@
     "start_date": "2016-03-15"
   },
   {
+    "instructors": "Kevin Vilbig,Ivan Gonzalez",
     "end_date": "2016-03-08",
     "url": "http://iglpdc.github.io/2016-03-07-bc/",
     "country": "US",
-    "instructors": "Kevin Vilbig,Ivan Gonzalez",
+    "curriculum": null,
     "venue": "Boston College Libraries, National Networks of Libraries of Medicine, New England Region",
     "longitude": -71.169151,
     "slug": "2016-03-07-boston",
@@ -4410,10 +4725,11 @@
     "start_date": "2016-03-07"
   },
   {
+    "instructors": "François Michonneau,Chris Hamm",
     "end_date": "2016-03-08",
     "url": "http://fmichonneau.github.io/2016-03-07-notre-dame/",
     "country": "US",
-    "instructors": "François Michonneau,Chris Hamm",
+    "curriculum": null,
     "venue": "Notre Dame",
     "longitude": -86.2376697,
     "slug": "2016-03-07-notredame",
@@ -4424,10 +4740,11 @@
     "start_date": "2016-03-07"
   },
   {
+    "instructors": "Kate Hertweck,Joshua Herr",
     "end_date": "2016-03-08",
     "url": "http://jrherr.github.io/2016-03-07-uconn",
     "country": "US",
-    "instructors": "Kate Hertweck,Joshua Herr",
+    "curriculum": null,
     "venue": "University of Connecticut",
     "longitude": -72.254259,
     "slug": "2016-03-07-uconn",
@@ -4438,10 +4755,11 @@
     "start_date": "2016-03-07"
   },
   {
+    "instructors": "Tracy Teal,Karthik Ram",
     "end_date": "2016-03-04",
     "url": "datacarpentry.github.io/2016-03-03-ucmp/",
     "country": "US",
-    "instructors": "Tracy Teal,Karthik Ram",
+    "curriculum": null,
     "venue": "UC Berkeley",
     "longitude": -122.262385,
     "slug": "2016-03-04-ucmp",
@@ -4452,10 +4770,11 @@
     "start_date": "2016-03-03"
   },
   {
+    "instructors": "Adina Howe,Qingpeng Zhang,April Wright,Joshua Herr,Jinlyung(Jin) Choi",
     "end_date": "2016-02-23",
     "url": "http://qingpeng.github.io/2016-02-22-isu/",
     "country": "US",
-    "instructors": "Adina Howe,Qingpeng Zhang,April Wright,Joshua Herr,Jinlyung(Jin) Choi",
+    "curriculum": null,
     "venue": "Iowa State University",
     "longitude": -93.64597,
     "slug": "2016-02-22-iastate",
@@ -4466,10 +4785,11 @@
     "start_date": "2016-02-22"
   },
   {
+    "instructors": "Marianne Corvellec,Matt Dickenson",
     "end_date": "2016-02-23",
     "url": "http://mattdickenson.com/2016-02-22-university-of-miami/",
     "country": "US",
-    "instructors": "Marianne Corvellec,Matt Dickenson",
+    "curriculum": null,
     "venue": "University of Miami",
     "longitude": -80.210732,
     "slug": "2016-02-22-miami-dc",
@@ -4480,10 +4800,11 @@
     "start_date": "2016-02-22"
   },
   {
+    "instructors": "Shoaib Sufi,Malcom Penn,Consuelo Sendino,Ahmad Alam",
     "end_date": "2016-01-27",
     "url": "http://callaghanmt.github.io/2016-01-26-london-nhm/",
     "country": "GB",
-    "instructors": "Shoaib Sufi,Malcom Penn,Consuelo Sendino,Ahmad Alam",
+    "curriculum": null,
     "venue": "Natural History Museum",
     "longitude": -0.176367,
     "slug": "2016-01-26-london-nhm",
@@ -4494,10 +4815,11 @@
     "start_date": "2016-01-26"
   },
   {
+    "instructors": "Martin Callaghan,Ahmad Alam,Consuelo Sendino,Malcom Penn",
     "end_date": "2016-01-20",
     "url": "http://callaghanmt.github.io/2016-01-19-london-nhm/",
     "country": "GB",
-    "instructors": "Martin Callaghan,Ahmad Alam,Consuelo Sendino,Malcom Penn",
+    "curriculum": null,
     "venue": "Natural History Museum",
     "longitude": -0.176367,
     "slug": "2016-01-19-london-nhm",
@@ -4508,10 +4830,11 @@
     "start_date": "2016-01-19"
   },
   {
+    "instructors": "Jason Williams,Sheldon McKay,Matthew Aiello-Lammens",
     "end_date": "2016-01-20",
     "url": "http://www.datacarpentry.org/2016-01-19-sbu/",
     "country": "US",
-    "instructors": "Jason Williams,Sheldon McKay,Matthew Aiello-Lammens",
+    "curriculum": null,
     "venue": "Stonybrook University",
     "longitude": -73.1220717,
     "slug": "2016-01-19-sbu",
@@ -4522,10 +4845,11 @@
     "start_date": "2016-01-19"
   },
   {
+    "instructors": "Zhuo Fu,John Moreau",
     "end_date": "2016-01-20",
     "url": "http://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/",
     "country": "US",
-    "instructors": "Zhuo Fu,John Moreau",
+    "curriculum": null,
     "venue": "USDA-ARS",
     "longitude": -90.909457,
     "slug": "2016-01-19-usda",
@@ -4536,10 +4860,11 @@
     "start_date": "2016-01-19"
   },
   {
+    "instructors": "Amanda Charbonneau,Will Pitchers",
     "end_date": "2016-01-18",
     "url": "http://acharbonneau.github.io/2016-01-18-MSU/",
     "country": "US",
-    "instructors": "Amanda Charbonneau,Will Pitchers",
+    "curriculum": null,
     "venue": "BEACON @ MSU",
     "longitude": -84.4843606,
     "slug": "2016-01-18-msu",
@@ -4550,10 +4875,11 @@
     "start_date": "2016-01-18"
   },
   {
+    "instructors": "Naupaka Zimmerman,Sarah Supp",
     "end_date": "2016-01-12",
     "url": "http://uw-madison-aci.github.io/2016-01-11-uwmadison/",
     "country": "US",
-    "instructors": "Naupaka Zimmerman,Sarah Supp",
+    "curriculum": null,
     "venue": "UW-Madison",
     "longitude": -89.4080793,
     "slug": "2016-01-11-uwmadison",
@@ -4564,10 +4890,11 @@
     "start_date": "2016-01-11"
   },
   {
+    "instructors": "Chris Friedline,Leigh Sheneman",
     "end_date": "2015-12-16",
     "url": "https://cfriedline.github.io/2015-12-15-rutgers/",
     "country": "US",
-    "instructors": "Chris Friedline,Leigh Sheneman",
+    "curriculum": null,
     "venue": "Rutgers University",
     "longitude": -74.443728,
     "slug": "2015-12-15-rutgers",
@@ -4578,10 +4905,11 @@
     "start_date": "2015-12-15"
   },
   {
+    "instructors": "Mateusz Kuzak,Carlos Martinez-Ortiz",
     "end_date": "2015-12-08",
     "url": "http://www.datacarpentry.org/2015-12-07-Rijkzwaan/",
     "country": "NL",
-    "instructors": "Mateusz Kuzak,Carlos Martinez-Ortiz",
+    "curriculum": null,
     "venue": "Rijk Zwaan",
     "longitude": 4.251641,
     "slug": "2015-12-07-rijkzwaan",
@@ -4592,10 +4920,11 @@
     "start_date": "2015-12-07"
   },
   {
+    "instructors": "Clare Sloggett,Matthew Wakefield,Ira Cooke",
     "end_date": "2015-11-24",
     "url": "http://vlsci.github.io/datacarpentry_2015-11-23_VLSCI/",
     "country": "AU",
-    "instructors": "Clare Sloggett,Matthew Wakefield,Ira Cooke",
+    "curriculum": null,
     "venue": "VLSCI, University of Melbourne",
     "longitude": 144.964362,
     "slug": "2015-11-23-VLSCI",
@@ -4606,10 +4935,11 @@
     "start_date": "2015-11-23"
   },
   {
+    "instructors": "Tracy Teal,C. Titus Brown",
     "end_date": "2015-11-24",
     "url": "http://www.datacarpentry.org/2015-11-23-caltech/",
     "country": "US",
-    "instructors": "Tracy Teal,C. Titus Brown",
+    "curriculum": null,
     "venue": "California Institute of Technology",
     "longitude": -118.124514,
     "slug": "2015-11-23-caltech",
@@ -4620,10 +4950,11 @@
     "start_date": "2015-11-23"
   },
   {
+    "instructors": "Cam Macdonell",
     "end_date": "2015-11-05",
     "url": "http://www.datacarpentry.org/2015-11-04-ACUNS/",
     "country": "US",
-    "instructors": "Cam Macdonell",
+    "curriculum": null,
     "venue": "Arctic Institute of North America (ACUNS) Student Conference",
     "longitude": -114.12871,
     "slug": "2015-11-04-ACUNS",
@@ -4634,10 +4965,11 @@
     "start_date": "2015-11-04"
   },
   {
+    "instructors": "Aleksandra Pawlik,Martin Callaghan,Krzysztof Poterlowicz",
     "end_date": "2015-10-30",
     "url": "https://hpcarcher.github.io/2015-10-29-Leeds-DC/",
     "country": "GB",
-    "instructors": "Aleksandra Pawlik,Martin Callaghan,Krzysztof Poterlowicz",
+    "curriculum": null,
     "venue": "University of Leeds",
     "longitude": -1.555022,
     "slug": "2015-10-29-Leeds-DC",
@@ -4648,10 +4980,11 @@
     "start_date": "2015-10-29"
   },
   {
+    "instructors": "Westa Domanova,Harriet Dashnow,Andrew Lonsdale,Fabian Held",
     "end_date": "2015-10-08",
     "url": "https://combine-australia.github.io/2015-10-07-R-Data-Sydney/",
     "country": "AU",
-    "instructors": "Westa Domanova,Harriet Dashnow,Andrew Lonsdale,Fabian Held",
+    "curriculum": null,
     "venue": "COMBINE - University of Sydney",
     "longitude": 151.19028,
     "slug": "2015-10-07-R-Data-Sydney",
@@ -4662,10 +4995,11 @@
     "start_date": "2015-10-07"
   },
   {
+    "instructors": "Matthew Collins,Deborah Paul",
     "end_date": "2015-09-24",
     "url": "http://www.datacarpentry.org/2015-09-23-TDWG/",
     "country": "KE",
-    "instructors": "Matthew Collins,Deborah Paul",
+    "curriculum": null,
     "venue": "Multimedia University of Kenya",
     "longitude": 36.7218768,
     "slug": "2015-09-23-TDWG",
@@ -4676,10 +5010,11 @@
     "start_date": "2015-09-23"
   },
   {
+    "instructors": "Jason Williams,Tracy Teal,John Fonner",
     "end_date": "2015-09-23",
     "url": "http://www.datacarpentry.org/2015-09-22-UCDavis/",
     "country": "US",
-    "instructors": "Jason Williams,Tracy Teal,John Fonner",
+    "curriculum": null,
     "venue": "UC Davis",
     "longitude": -121.75,
     "slug": "2015-09-22-ucdavis",
@@ -4690,10 +5025,11 @@
     "start_date": "2015-09-22"
   },
   {
+    "instructors": "Tracy Teal,Ben Johnson",
     "end_date": "2015-09-22",
     "url": "http://datacarpentry.github.io/2015-09-21-Genentech/",
     "country": "US",
-    "instructors": "Tracy Teal,Ben Johnson",
+    "curriculum": null,
     "venue": "",
     "longitude": null,
     "slug": "2015-09-21-Genentech",
@@ -4704,10 +5040,11 @@
     "start_date": "2015-09-21"
   },
   {
+    "instructors": "Laurent Gatto,Krzysztof Strug",
     "end_date": "2015-09-11",
     "url": "https://lgatto.github.io/2015-09-10-CAM/",
     "country": "GB",
-    "instructors": "Laurent Gatto,Krzysztof Strug",
+    "curriculum": null,
     "venue": "University of Cambridge",
     "longitude": 0.122514,
     "slug": "2015-09-10-CAM",
@@ -4718,10 +5055,11 @@
     "start_date": "2015-09-10"
   },
   {
+    "instructors": "Jason Pell,Jennifer Shelton,Jared Camins-Esakov",
     "end_date": "2015-08-25",
     "url": "https://datacarpentry.github.io/2015-08-24-Sloan-Kettering/",
     "country": "US",
-    "instructors": "Jason Pell,Jennifer Shelton,Jared Camins-Esakov",
+    "curriculum": null,
     "venue": "Sloan-Kettering",
     "longitude": -73.9565137,
     "slug": "2015-08-24-Sloan-Kettering",
@@ -4732,10 +5070,11 @@
     "start_date": "2015-08-24"
   },
   {
+    "instructors": "Jason Williams,Sheldon McKay,Ryan Williams",
     "end_date": "2015-07-31",
     "url": "http://www.datacarpentry.org/2015-07-30-ASPB/",
     "country": "US",
-    "instructors": "Jason Williams,Sheldon McKay,Ryan Williams",
+    "curriculum": null,
     "venue": "Minneapolis, Minnesota",
     "longitude": -93.265,
     "slug": "2015-07-30-ASPB",
@@ -4746,10 +5085,11 @@
     "start_date": "2015-07-30"
   },
   {
+    "instructors": "Stephen Turner,Amanda Charbonneau",
     "end_date": "2015-07-23",
     "url": "http://www.datacarpentry.org/2015-07-22-JamesMadison/",
     "country": "US",
-    "instructors": "Stephen Turner,Amanda Charbonneau",
+    "curriculum": null,
     "venue": "James Madison University",
     "longitude": -78.869273,
     "slug": "2015-07-22-JamesMadison",
@@ -4760,10 +5100,11 @@
     "start_date": "2015-07-22"
   },
   {
+    "instructors": "Aleksandra Pawlik,Aleksandra Nenadic,Peter Juvan",
     "end_date": "2015-07-21",
     "url": "http://anenadic.github.io/2015-07-22-ljubljana/",
     "country": "SI",
-    "instructors": "Aleksandra Pawlik,Aleksandra Nenadic,Peter Juvan",
+    "curriculum": null,
     "venue": "Faculty of Medicine, University of Ljubljana<br>National Institute of Biology, Ljubljana",
     "longitude": 14.518528,
     "slug": "2015-07-22-ljubljana",
@@ -4774,10 +5115,11 @@
     "start_date": "2015-07-20"
   },
   {
+    "instructors": "Aleksandra Pawlik,Karthik Ram,Mateusz Kuzak",
     "end_date": "2015-06-25",
     "url": "https://apawlik.github.io/2015-06-24-dc-utrecht/",
     "country": "NL",
-    "instructors": "Aleksandra Pawlik,Karthik Ram,Mateusz Kuzak",
+    "curriculum": null,
     "venue": "Utrecht University",
     "longitude": 5.12142,
     "slug": "2015-06-24-dc-utrecht",
@@ -4788,10 +5130,11 @@
     "start_date": "2015-06-24"
   },
   {
+    "instructors": "Tracy Teal,Sean Pue,Cam Macdonell",
     "end_date": "2015-05-31",
     "url": "https://datacarpentry.github.io/2015-05-30-HASTAC/",
     "country": "US",
-    "instructors": "Tracy Teal,Sean Pue,Cam Macdonell",
+    "curriculum": null,
     "venue": "HASTAC Conference (Data Carpentry)",
     "longitude": -84.478175,
     "slug": "2015-05-30-HASTAC",
@@ -4802,10 +5145,11 @@
     "start_date": "2015-05-30"
   },
   {
+    "instructors": "Naupaka Zimmerman,Kara Woo",
     "end_date": "2015-05-15",
     "url": "http://datacarpentry.github.io/2015-05-14-wsu/",
     "country": "US",
-    "instructors": "Naupaka Zimmerman,Kara Woo",
+    "curriculum": null,
     "venue": "Washington State University",
     "longitude": -117.1544,
     "slug": "2015-05-14-wsu",
@@ -4816,10 +5160,11 @@
     "start_date": "2015-05-14"
   },
   {
+    "instructors": "Amy Hodge,Tracy Teal",
     "end_date": "2015-04-24",
     "url": "https://datacarpentry.github.io/2015-04-23-stanford/",
     "country": "US",
-    "instructors": "Amy Hodge,Tracy Teal",
+    "curriculum": null,
     "venue": "Stanford",
     "longitude": -122.172659,
     "slug": "2015-04-23-stanford",
@@ -4830,10 +5175,11 @@
     "start_date": "2015-04-23"
   },
   {
+    "instructors": "Tracy Teal,Ben Marwick",
     "end_date": "2015-03-30",
     "url": "http://datacarpentry.github.io/2015-03-30-AAAS/",
     "country": "US",
-    "instructors": "Tracy Teal,Ben Marwick",
+    "curriculum": null,
     "venue": "AAAS",
     "longitude": -77.0284,
     "slug": "2015-03-30-AAAS",
@@ -4844,10 +5190,11 @@
     "start_date": "2015-03-30"
   },
   {
+    "instructors": "François Michonneau,Aleksandra Pawlik",
     "end_date": "2015-03-18",
     "url": "https://apawlik.github.io/2015-03-18-csc-espoo/",
     "country": "FI",
-    "instructors": "François Michonneau,Aleksandra Pawlik",
+    "curriculum": null,
     "venue": "CSC - IT Center for Science",
     "longitude": 24.6559,
     "slug": "2015-03-18-csc-espoo",
@@ -4858,10 +5205,11 @@
     "start_date": "2015-03-18"
   },
   {
+    "instructors": "Clare Sloggett,Harriet Dashnow",
     "end_date": "2015-03-13",
     "url": "https://datacarpentry.github.io/2015-03-09-ISI-CODATA/",
     "country": "IN",
-    "instructors": "Clare Sloggett,Harriet Dashnow",
+    "curriculum": null,
     "venue": "ISI CODATA International Training Workshop on Big Data",
     "longitude": 88.376473,
     "slug": "2015-03-09-ISI-CODATA",
@@ -4872,10 +5220,11 @@
     "start_date": "2015-03-10"
   },
   {
+    "instructors": "Allison Gofman,Kristin Lee,Kyle Monahan,Berika Williams",
     "end_date": "2015-02-16",
     "url": "https://nesclic.github.io/2019-02-15-tufts/",
     "country": "US",
-    "instructors": "Allison Gofman,Kristin Lee,Kyle Monahan,Berika Williams",
+    "curriculum": "Data Carpentry (Social Sciences with R)",
     "venue": "Tisch Library, Tufts University",
     "longitude": -71.11884,
     "slug": "2019-02-15-tufts",
@@ -4886,10 +5235,11 @@
     "start_date": "2015-02-15"
   },
   {
+    "instructors": "Michael Levy,Noam Ross,Tracy Teal,Easton White",
     "end_date": "2015-02-10",
     "url": "https://datacarpentry.github.io/2015-02-09-ucdavis/",
     "country": "US",
-    "instructors": "Michael Levy,Noam Ross,Tracy Teal,Easton White",
+    "curriculum": null,
     "venue": "UC Davis",
     "longitude": -121.740517,
     "slug": "2015-02-09-ucdavis",
@@ -4900,10 +5250,11 @@
     "start_date": "2015-02-09"
   },
   {
+    "instructors": "Emily Davenport,Erika Mudrak,Jeramia Ory",
     "end_date": "2015-01-16",
     "url": "https://emudrak.github.io/2015-01-15-cornell/",
     "country": "US",
-    "instructors": "Emily Davenport,Erika Mudrak,Jeramia Ory",
+    "curriculum": null,
     "venue": "Cornell University Research Community",
     "longitude": -76.476148,
     "slug": "2015-01-15-cornell",
@@ -4914,10 +5265,11 @@
     "start_date": "2015-01-15"
   },
   {
+    "instructors": "Ian Munoz,Mike Smorul",
     "end_date": "2015-01-16",
     "url": "https://sesync-ci.github.io/2015-01-15-umd/",
     "country": "US",
-    "instructors": "Ian Munoz,Mike Smorul",
+    "curriculum": null,
     "venue": "University of Maryland",
     "longitude": -76.941699,
     "slug": "2015-01-15-umd",
@@ -4928,10 +5280,11 @@
     "start_date": "2015-01-15"
   },
   {
+    "instructors": "Matthew Collins,François Michonneau,Katja Seltmann,Tracy Teal",
     "end_date": "2014-09-30",
     "url": "https://datacarpentry.github.io/2014-09-29-iDigBio/",
     "country": "US",
-    "instructors": "Matthew Collins,François Michonneau,Katja Seltmann,Tracy Teal",
+    "curriculum": null,
     "venue": "University of Florida",
     "longitude": -84.47978,
     "slug": "2014-09-29-iDigBio",
@@ -4942,10 +5295,11 @@
     "start_date": "2014-09-29"
   },
   {
+    "instructors": "Christie Bahlai,Joshua Herr,Elijah Lowe,Tracy Teal",
     "end_date": "2014-07-25",
     "url": "https://datacarpentry.github.io/2014-07-24-beacon/",
     "country": "US",
-    "instructors": "Christie Bahlai,Joshua Herr,Elijah Lowe,Tracy Teal",
+    "curriculum": null,
     "venue": "MSU BEACON",
     "longitude": -84.47978,
     "slug": "2014-07-24-beacon",
