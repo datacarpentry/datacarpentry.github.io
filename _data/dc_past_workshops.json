@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Eve Bohnett,Jacob Koehler",
+    "end_date": "2019-07-23",
+    "url": "https://jfkoehler.github.io/2019-07-22-carnegie_mellon/",
+    "country": "FI",
+    "curriculum": "Data Carpentry (Social Sciences with Python)",
+    "venue": "Carnegie Mellon University",
+    "longitude": null,
+    "slug": "2019-07-22-carnegie_mellon",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-07-22"
+  },
+  {
+    "instructors": "Justin Millar,Aleksandra Taranov",
+    "end_date": "2019-07-23",
+    "url": "https://justinmillar.github.io/2019-07-22-genentech/",
+    "country": "US",
+    "curriculum": "Data Carpentry (Ecology with R)",
+    "venue": "Genentech",
+    "longitude": -122.399649,
+    "slug": "2019-07-22-genentech",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.659286,
+    "start_date": "2019-07-22"
+  },
+  {
     "instructors": "Arindam Basu,Anton Angelo,Joep de Ligt",
     "end_date": "2019-07-17",
     "url": "https://arinbasu.github.io/2019-07-16-scion/",
@@ -193,6 +223,21 @@
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": null,
     "start_date": "2019-06-18"
+  },
+  {
+    "instructors": "Holly Little,Mike Trizna",
+    "end_date": "2019-06-12",
+    "url": "https://smithsonianworkshops.github.io/2019-06-12-Yale/",
+    "country": "US",
+    "curriculum": "Data Carpentry (other)",
+    "venue": "Tools and Best Practices for Biodiversity Data Science: A Data Carpentries Introduction with Python",
+    "longitude": null,
+    "slug": "2019-06-12-Yale_DC",
+    "tag_name": "DC",
+    "helpers": "Jen Hammock,Mirian Tieko Nunes Tsuchiya,Alex White",
+    "host_name": "Smithsonian Institution",
+    "latitude": null,
+    "start_date": "2019-06-12"
   },
   {
     "instructors": "Trisha Adamus,Erin Jonaitis,Maria Kamenetsky,Tobin Magle",
@@ -1029,7 +1074,7 @@
     "longitude": -97.069754,
     "slug": "2019-02-01-okstate",
     "tag_name": "DC",
-    "helpers": "Surya Ayyalasomayajula,Evan Linde,Peter Hoyt,Damith Mahapatabendige",
+    "helpers": "SURYA AYYALASOMAYAJULA,Evan Linde,Peter Hoyt,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-02-01"
