@@ -11,6 +11,8 @@ We facilitate and develop lessons for Data Carpentry workshops. These lessons ar
 
 Data Carpentry workshops are domain-specific, so that we are teaching researchers the skills most relevant to their domain and using examples from their type of work. Therefore we have several types of workshops and curriculum is organized by domain.
 
+[Curriculum Advisors](https://datacarpentry.org/lesson-leadership/) are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. More information about the role of the Curriculum Advisory Committee can be found in the [Carpentries Handbook](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee).
+
 ## Curriculum materials
 
 - [Ecology curriculum](#ecology-workshop)
