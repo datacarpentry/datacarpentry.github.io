@@ -60,6 +60,21 @@
     "start_date": "2019-08-22"
   },
   {
+    "instructors": "Jon Wheeler,Mark Servilla",
+    "end_date": "2019-08-30",
+    "url": "https://nmcarpentries.github.io/2019-08-29-unm/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "University of New Mexico",
+    "longitude": -106.621745,
+    "slug": "2019-08-29-unm",
+    "tag_name": "DC",
+    "helpers": "Karl Benedict,Nitin Bhandari",
+    "host_name": "University of New Mexico",
+    "latitude": 35.083328,
+    "start_date": "2019-08-29"
+  },
+  {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
