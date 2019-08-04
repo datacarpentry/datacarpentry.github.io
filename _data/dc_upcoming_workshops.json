@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "JIANJUN HUA,Matt Clark",
-    "end_date": "2019-08-02",
-    "url": "https://matthewclark1223.github.io/2019-08-01-mbdh/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Midwest Big Data Hub",
-    "longitude": -81.642343,
-    "slug": "2019-08-01-mbdh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of North Dakota",
-    "latitude": 41.504746,
-    "start_date": "2019-08-01"
-  },
-  {
     "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
     "end_date": "2019-08-06",
     "url": "https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc/",

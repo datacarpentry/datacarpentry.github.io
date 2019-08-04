@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "JIANJUN HUA,Matt Clark",
+    "end_date": "2019-08-02",
+    "url": "https://matthewclark1223.github.io/2019-08-01-mbdh/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Midwest Big Data Hub",
+    "longitude": -81.642343,
+    "slug": "2019-08-01-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 41.504746,
+    "start_date": "2019-08-01"
+  },
+  {
     "instructors": "Ahsan Ali Khoja,Angela Li",
     "end_date": "2019-07-24",
     "url": "https://angela-li.github.io/2019-07-23-mbdh/",
