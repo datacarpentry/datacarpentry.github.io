@@ -29,10 +29,10 @@
     url: "/workshops-host/"
   - title: "Attend a Workshop"
     url: "/workshops-attend/"
-  - title: "Past Workshops"
-    url: "/workshops-past"
   - title: "Upcoming Workshops"
     url: "/workshops-upcoming"
+  - title: "Past Workshops"
+    url: "/workshops-past"
 
 - title: "Get Involved"
   url: "https://carpentries.org/join/"
