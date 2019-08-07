@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
+    "end_date": "2019-08-06",
+    "url": "https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Genomics Data Carpentry @ UW-Madison",
+    "longitude": -89.410268,
+    "slug": "2019-08-05-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2019-08-05"
+  },
+  {
+    "instructors": "Ngonidzashe Faya,Christina Straub",
+    "end_date": "2019-08-02",
+    "url": "https://foreal17.github.io/2019-08-01-auckland/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "University of Auckland",
+    "longitude": 174.770935,
+    "slug": "2019-08-01-auckland",
+    "tag_name": "DC",
+    "helpers": "Dinindu Senanayake,Florian Pichlmueller,David Waite",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -36.853298,
+    "start_date": "2019-08-01"
+  },
+  {
     "instructors": "JIANJUN HUA,Matt Clark",
     "end_date": "2019-08-02",
     "url": "https://matthewclark1223.github.io/2019-08-01-mbdh/",
@@ -591,12 +621,12 @@
     "country": "GB",
     "curriculum": "dc-ecology-r",
     "venue": "King's College London",
-    "longitude": -74.044636,
+    "longitude": -0.086809,
     "slug": "2019-04-29-KCL",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "King's College London",
-    "latitude": 40.68906,
+    "latitude": 51.503356,
     "start_date": "2019-04-29"
   },
   {
