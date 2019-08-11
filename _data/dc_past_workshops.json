@@ -135,6 +135,21 @@
     "start_date": "2019-07-09"
   },
   {
+    "instructors": "Murray Cadzow,Matt Bixley",
+    "end_date": "2019-07-09",
+    "url": "https://otagocarpentries.github.io/2019-07-08-wellington/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago Wellington Campus",
+    "longitude": 174.78064,
+    "slug": "2019-07-08-wellington",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -41.31058,
+    "start_date": "2019-07-08"
+  },
+  {
     "instructors": "Ngonidzashe Faya,Mik Black",
     "end_date": "2019-07-05",
     "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
