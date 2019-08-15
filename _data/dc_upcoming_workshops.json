@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jamie Hadwin,Nathalia Graf-Grachet,Dave Lampert,Gautham Brahma Ponnaganti",
-    "end_date": "2019-08-14",
-    "url": "https://osu-carpentry.github.io/2019-08-12-UCO/",
-    "country": "US",
-    "curriculum": "dc-ecology-python",
-    "venue": "Software Carpentry Workshop at University of Central Oklahoma (EDMOND)",
-    "longitude": -97.470976,
-    "slug": "2019-08-12-UCO",
-    "tag_name": "DC",
-    "helpers": "Phillip Doehle,Kay BJornen",
-    "host_name": "Oklahoma State University",
-    "latitude": 35.654009,
-    "start_date": "2019-08-12"
-  },
-  {
     "instructors": "Trisha Adamus,Aniello Infante",
     "end_date": "2019-08-15",
     "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
