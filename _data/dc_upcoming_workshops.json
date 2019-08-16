@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Trisha Adamus,Aniello Infante",
-    "end_date": "2019-08-15",
-    "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "OSU Translational Data Analytics Institute",
-    "longitude": -83.014899,
-    "slug": "2019-08-26-mbdh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of North Dakota",
-    "latitude": 39.997111,
-    "start_date": "2019-08-14"
-  },
-  {
     "instructors": "Ngonidzashe Faya,Murray Cox,Dinindu Senanayake",
     "end_date": "2019-08-22",
     "url": "https://foreal17.github.io/2019-08-21-palmy/",
