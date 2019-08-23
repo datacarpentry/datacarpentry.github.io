@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Ngonidzashe Faya,Murray Cox,Dinindu Senanayake",
-    "end_date": "2019-08-22",
-    "url": "https://foreal17.github.io/2019-08-21-palmy/",
-    "country": "NZ",
-    "curriculum": "dc-genomics",
-    "venue": "Massey University",
-    "longitude": 174.770935,
-    "slug": "2019-08-21-palmy",
-    "tag_name": "DC",
-    "helpers": "Kate Lee",
-    "host_name": "Genomics Aotearoa",
-    "latitude": -36.853298,
-    "start_date": "2019-08-21"
-  },
-  {
     "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
     "end_date": "2019-08-23",
     "url": "https://ajdabrowski.github.io/2019-08-22-UT/",

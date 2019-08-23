@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ngonidzashe Faya,Murray Cox,Dinindu Senanayake",
+    "end_date": "2019-08-22",
+    "url": "https://foreal17.github.io/2019-08-21-palmy/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Massey University",
+    "longitude": 174.770935,
+    "slug": "2019-08-21-palmy",
+    "tag_name": "DC",
+    "helpers": "Kate Lee",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -36.853298,
+    "start_date": "2019-08-21"
+  },
+  {
     "instructors": "Trisha Adamus,Aniello Infante",
     "end_date": "2019-08-15",
     "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
@@ -261,12 +276,12 @@
     "country": "NZ",
     "curriculum": "dc-ecology-r",
     "venue": "Porirua",
-    "longitude": null,
+    "longitude": 174.839536,
     "slug": "2019-06-25-ESR-Porirua",
     "tag_name": "DC",
     "helpers": "Ben Waite",
     "host_name": "The Institute of Environmental Science and Research",
-    "latitude": null,
+    "latitude": -41.147487,
     "start_date": "2019-06-25"
   },
   {
@@ -321,12 +336,12 @@
     "country": "NZ",
     "curriculum": "dc-ecology-r",
     "venue": "ESR",
-    "longitude": null,
+    "longitude": 172.586962,
     "slug": "2019-06-18-ESR-Christchurch",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "The Institute of Environmental Science and Research",
-    "latitude": null,
+    "latitude": -43.522577,
     "start_date": "2019-06-18"
   },
   {
