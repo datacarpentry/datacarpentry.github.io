@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
-    "end_date": "2019-08-23",
-    "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
-    "country": "US",
-    "curriculum": "dc-ecology-python",
-    "venue": "University of Texas at Austin",
-    "longitude": -97.738188,
-    "slug": "2019-08-22-UT",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Texas (Austin)",
-    "latitude": 30.282826,
-    "start_date": "2019-08-22"
-  },
-  {
     "instructors": "Murray Cadzow,Matt Bixley",
     "end_date": "2019-08-29",
     "url": "https://otagocarpentries.github.io/2019-08-28-otago/",
