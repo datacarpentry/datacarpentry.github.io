@@ -60,6 +60,36 @@
     "start_date": "2019-09-14"
   },
   {
+    "instructors": "Christina Straub,Joep de Ligt,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2019-09-20",
+    "url": "https://genomicsaotearoa.github.io/2019-09-19-ESR/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "ESR Porirua",
+    "longitude": 174.83953,
+    "slug": "2019-09-19-ESR",
+    "tag_name": "DC",
+    "helpers": "Miles Benton",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -41.1475,
+    "start_date": "2019-09-19"
+  },
+  {
+    "instructors": "Ben Waite,Joep de Ligt",
+    "end_date": "2019-10-08",
+    "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
+    "country": "NZ",
+    "curriculum": "dc-ecology-r",
+    "venue": "National Centre for Biosecurity and Infectious Disease",
+    "longitude": 175.057558,
+    "slug": "2019-10-04-ncbid",
+    "tag_name": "DC",
+    "helpers": "Richard Dean",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -41.131402,
+    "start_date": "2019-10-04"
+  },
+  {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
