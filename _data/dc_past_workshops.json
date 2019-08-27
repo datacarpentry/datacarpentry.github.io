@@ -495,21 +495,6 @@
     "start_date": "2019-05-30"
   },
   {
-    "instructors": "François Michonneau,Sarah Stevens,Jason Williams",
-    "end_date": "2019-05-31",
-    "url": "https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "University of Arizona",
-    "longitude": -110.94934,
-    "slug": "2019-05-30-uofarizona",
-    "tag_name": "DC",
-    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan,Cesar Medina,Travis Struck,Ryan Bartelme,Alison Harrington",
-    "host_name": "University of Arizona",
-    "latitude": 32.231834,
-    "start_date": "2019-05-30"
-  },
-  {
     "instructors": "Janet Stacey,Kim Tung Nguyen",
     "end_date": "2019-05-29",
     "url": "https://esr-nz.github.io/2019-05-28-DC-ESR-MASC/",
