@@ -99,3 +99,7 @@
 - title: "Contact"
   url: "https://carpentries.org/contact/"
   side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
