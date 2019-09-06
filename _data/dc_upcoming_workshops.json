@@ -105,6 +105,21 @@
     "start_date": "2019-10-28"
   },
   {
+    "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
+    "end_date": "2019-11-13",
+    "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
+    "country": "DE",
+    "curriculum": "dc-socsci-r",
+    "venue": "SUB Göttingen",
+    "longitude": 9.934055,
+    "slug": "2019-11-12-ugoe-carpentries",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Göttingen",
+    "latitude": 51.540162,
+    "start_date": "2019-11-12"
+  },
+  {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
