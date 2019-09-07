@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Darya Vanichkina,Steefan Contractor",
+    "end_date": "2019-09-12",
+    "url": "https://dvanic.github.io/2019-09-11-resbazsydGIS/",
+    "country": "AU",
+    "curriculum": "dc-geospatial",
+    "venue": "Resbaz Sydney (GIS)",
+    "longitude": 151.231191,
+    "slug": "2019-09-11-resbazsydGIS",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New South Wales",
+    "latitude": -33.916604,
+    "start_date": "2019-09-11"
+  },
+  {
     "instructors": "Trisha Adamus,Srikanth Aravamuthan,Michael Liou,Clare Michaud",
     "end_date": "2019-10-09",
     "url": "https://uw-madison-datascience.github.io/2019-09-11-uwmadison-dc/",
@@ -133,5 +148,20 @@
     "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
     "latitude": 52.0873658,
     "start_date": "2019-11-25"
+  },
+  {
+    "instructors": "Damien Irving,Holger Wolff",
+    "end_date": "2020-02-09",
+    "url": "https://damienirving.github.io/2020-02-09-amos/",
+    "country": "AU",
+    "curriculum": "dc-other",
+    "venue": "AMOS 2020",
+    "longitude": 115.748589,
+    "slug": "2020-02-09-amos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Australian Meteorological and Oceanographic Society",
+    "latitude": -32.053903,
+    "start_date": "2020-02-09"
   }
 ]
