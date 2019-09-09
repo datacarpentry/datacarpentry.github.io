@@ -1,0 +1,28 @@
+{% comment %}
+*
+*   Possible parameter for this loop:
+*
+*    › entries
+*    › offset
+*    › tag
+*
+*   Example for Tag: {% include list-posts entries='5' tag='terminal' %}
+*
+{% endcomment %}
+
+
+
+{% assign tag = include.tag %}
+<ul>
+
+    {% for post in site.tags.[tag] limit:include.entries %}
+      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a>
+      <p class="post-meta">
+      {% if post.date %}
+	<time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time>
+	{% endif %}
+        </p>
+      </li>
+    {% endfor %}
+
+</ul>

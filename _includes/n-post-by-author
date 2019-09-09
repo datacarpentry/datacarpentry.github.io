@@ -1,0 +1,21 @@
+{% comment %}
+*
+*   Possible parameter for this loop:
+*
+*    › author
+*
+*   Example for Tag: {% include n-post-by-author author='terminal' %}
+*
+{% endcomment %}
+
+
+
+{% assign author = include.author %}
+{% assign post_author = site.posts | where_exp: "item", "item.authors contains author" %}
+
+{% assign n = 0 %}
+
+{% for post in post_author %}
+{% assign n = n | plus: 1 %}
+{% endfor %}
+({{ n }})

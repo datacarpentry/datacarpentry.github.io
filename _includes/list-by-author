@@ -1,0 +1,29 @@
+{% comment %}
+*
+*   Possible parameter for this loop:
+*
+*    › entries
+*    › offset
+*    › author
+*
+*   Example for Tag: {% include list-by-author entries='5' author='terminal' %}
+*
+{% endcomment %}
+
+
+
+{% assign author = include.author %}
+{% assign post_author = site.posts | where_exp: "item", "item.authors contains author" %}
+<ul>
+
+    {% for post in post_author limit:include.entries %}
+      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a>
+      <p class="post-meta">
+      {% if post.date %}
+	<time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time>
+	{% endif %}
+        </p>
+      </li>
+    {% endfor %}
+
+</ul>

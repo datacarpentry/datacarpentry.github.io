@@ -1,14 +1,15 @@
 <div id="page-meta" class="t30">
   <p>
-    Authors:   {% for author in page.authors %}<span itemprop="name" class="pr20 icon-edit">{{ author }}</span>{% endfor %}
+    Authors:  {% for author in page.authors %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="{% link blog/browse_by_author.md %}#blog-author-{{ author | slugify: 'pretty'}}">{{ author }}</a></span></span>{% endfor %}
     
     {% if page.date %}
     <time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ page.date | date: "%Y-%m-%d" }}</time>
     {% endif %}
     
     {% if page.categories %}<span class="icon-archive pr20">{{ page.categories | join: ' · ' | upcase }}</span>{% endif %}
+
     <br />
-    <span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10">{{tag}}</span> {% endfor %}</span>
+    <span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> <a href="{% link blog/browse_by_tag.md %}#blog-tag-{{ tag | slugify: 'pretty'}}">{{tag}}</a></span> {% endfor %}</span>
   </p>
 
 <!--  

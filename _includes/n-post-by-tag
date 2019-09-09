@@ -1,0 +1,19 @@
+{% comment %}
+*
+*   Possible parameter for this loop:
+*
+*    › tag
+*
+*   Example for Tag: {% include n-post-by-tag tag='terminal' %}
+*
+{% endcomment %}
+
+
+
+{% assign tag = include.tag %}
+{% assign n = 0 %}
+
+{% for post in site.tags.[tag] %}
+{% assign n = n | plus: 1 %}
+{% endfor %}
+({{ n }})

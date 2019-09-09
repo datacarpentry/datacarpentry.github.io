@@ -1,0 +1,16 @@
+{% comment %}
+* when the side column with the tags is displayed, we need to make it
+* as tall as the other side of the page, so the stickyness of the
+* 'back to the top' works. This jQuery is activated when scrolling happens
+* and checks that the screen is 628px wide to change the height of the column
+{% endcomment %}
+<script>
+  $( window ).scroll(function() {
+  if (window.innerWidth > 628) {
+        $(".list-tags").css({'height':($(".list-posts").height()+'px')});
+  }
+  else {
+        $(".list-tags").css({'height': '100%'});
+  }
+ });
+</script>
