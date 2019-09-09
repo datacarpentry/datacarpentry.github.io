@@ -36,7 +36,7 @@ Want more details to help you plan your workshop?  Check out these resources:
 - [Email templates](/email-templates/)  
 - [Troubleshooting and helpful resources](/troubleshooting/)  
 
-Data Carpentry administration will take care of all non-local logistical details. You can see a list of what we take care of [here](/admin/). If you have special needs for any of these pieces of the workshop, please contact the [Data Carpentry workshop coordinator](mailto:admin@datacarpentry.org) (admin@datacarpentry.org).  
+Data Carpentry administration will take care of all non-local logistical details. You can see a list of what we take care of [here](/admin/). If you have special needs for any of these pieces of the workshop, please contact the [Carpentries workshop coordinator](mailto:{{ site.dc_email }}).  
 
 For information on what we teach, see our [Lessons](/lessons/).
 
@@ -47,7 +47,7 @@ If you would like a Software Carpentry workshop instead, please [visit their web
 The cost of hosting a workshop is both the Workshop Administration Fee and travel expenses for the two instructors. 
 
 **Workshop Administration Fee (Government and non-profit institutions):** $2500 US  
-* This is the fee for not-for-profit organizations, such as universities and government labs. For information on fees for for-profit organizations, please [contact us](mailto:tkteal@datacarpentry.org). 50% of workshop coordination fees for for-profit organizations go towards supporting workshops in areas with financial need. Partial or full waivers for fees will be considered on an as-needed basis.  
+* This is the fee for not-for-profit organizations, such as universities and government labs. For information on fees for for-profit organizations, please [contact us](mailto:{{ site.dc_email }}). 50% of workshop coordination fees for for-profit organizations go towards supporting workshops in areas with financial need. Partial or full waivers for fees will be considered on an as-needed basis.  
 
 All invoices will be issued by Community Initiatives, our fiscal sponsor.  The Carpentries staff will work with host sites to manage the invoicing process. 
 

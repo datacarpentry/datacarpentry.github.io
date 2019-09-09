@@ -31,7 +31,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 ## Semester materials
 
 - [Biology semester long curriculum](#biology-semester-long-course)  
-*We don't offer these as a course, but they are freely available for reuse and revision.*  For more information on these materials, contact [team@carpentries.org](mailto:team@carpentries.org).
+*We don't offer these as a course, but they are freely available for reuse and revision.*  For more information on these materials, contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}).
 
 ## Community-Contributed materials
 
@@ -132,7 +132,7 @@ Sitio web para la lección de Python"></a></td>
   </tr>		
 </table>
  
-[La plantilla de taller](https://github.com/carpentries/workshop-template-es) también está disponible en español. Si está interesado en participar con nuestras lecciones, contáctenos en [team@carpentries.org](mailto:team@carpentries.org).
+[La plantilla de taller](https://github.com/carpentries/workshop-template-es) también está disponible en español. Si está interesado en participar con nuestras lecciones, contáctenos en [{{ site.dc_email }}](mailto:{{ site.dc_email }}).
 
 <hr>
 
@@ -145,7 +145,7 @@ cloud computing.
 More information about hosting and teaching a Genomics workshop can be found on our [FAQ page]({{site.dc_github_site_url}}/genomics-workshop/faq/).
 
 
-Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/) available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Genomics workshops.
+Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/) available to prepare Instructors to teach these lessons. After watching this video, please contact {{ site.dc_email }} so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Genomics workshops.
 
 Please note that workshop materials for working with Genomics data in R in "alpha" development.  These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries' official lesson offerings.
 
@@ -235,7 +235,7 @@ and analysis workflow that a researcher would use.
 
 The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials? 
 We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI) and accompanying [slides](https://docs.google.com/presentation/d/1rR7pLSftBYBnLBmaMWeytfDtcRfwVUWxPYGx30ZJNkc/) available to prepare Instructors to teach these lessons. After watching this video, 
-please contact [team@carpentries.org](mailto:team@carpentries.org) so that we can record your status as an onboarded Instructor. Instructors who 
+please contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}) so that we can record your status as an onboarded Instructor. Instructors who 
 have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Social Sciences workshops.
 
 Please note that workshop materials for working with Social Science data in Python and SQL are under development. 
@@ -327,7 +327,7 @@ This workshop is co-developed with the National Ecological Observatory Network [
 Join the [geospatial curriculum email list](https://carpentries.topicbox.com/groups/curriculum-geospatial) to get updates and be involved in conversations about this curriculum.
 
 Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) and accompanying [slides](https://docs.google.com/presentation/d/1JRnbOLV2QIgw9WzN8KQycU8TpUnqP7_fcDyad_tF-w0/) available to prepare Instructors to teach these lessons. After
-watching this video, please contact [team@carpentries.org](mailto:team@carpentries.org) so that we can record your status as an onboarded
+watching this video, please contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}) so that we can record your status as an onboarded
 Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Geospatial workshops.
 
 #### Lessons
