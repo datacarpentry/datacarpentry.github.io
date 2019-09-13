@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Darya Vanichkina,Steefan Contractor",
+    "end_date": "2019-09-12",
+    "url": "https://dvanic.github.io/2019-09-11-resbazsydGIS/",
+    "country": "AU",
+    "curriculum": "dc-geospatial",
+    "venue": "Resbaz Sydney (GIS)",
+    "longitude": 151.231191,
+    "slug": "2019-09-11-resbazsydGIS",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New South Wales",
+    "latitude": -33.916604,
+    "start_date": "2019-09-11"
+  },
+  {
     "instructors": "Jon Wheeler,Mark Servilla",
     "end_date": "2019-08-30",
     "url": "https://nmcarpentries.github.io/2019-08-29-unm/",
