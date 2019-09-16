@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Rita Kuo,Eve Bohnett",
+    "end_date": "2019-09-15",
+    "url": "https://evebohnett.github.io/2019-09-14-nmt/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "New Mexico Institute of Mining and Technology",
+    "longitude": 77.03527,
+    "slug": "2019-09-14-nmt",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 28.60957,
+    "start_date": "2019-09-14"
+  },
+  {
     "instructors": "Darya Vanichkina,Steefan Contractor",
     "end_date": "2019-09-12",
     "url": "https://dvanic.github.io/2019-09-11-resbazsydGIS/",
