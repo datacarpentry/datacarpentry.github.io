@@ -135,6 +135,21 @@
     "start_date": "2019-10-28"
   },
   {
+    "instructors": "Nick Wong",
+    "end_date": "2019-11-13",
+    "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "Central Clinical School, Monash University",
+    "longitude": 144.984459,
+    "slug": "2019-11-12-GenomicsWorkshop",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Monash University",
+    "latitude": -37.846468,
+    "start_date": "2019-11-12"
+  },
+  {
     "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
     "end_date": "2019-11-13",
     "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",

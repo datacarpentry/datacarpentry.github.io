@@ -15,21 +15,6 @@
     "start_date": "2019-09-14"
   },
   {
-    "instructors": "Nick Wong",
-    "end_date": "2019-09-13",
-    "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
-    "country": "AU",
-    "curriculum": "dc-genomics",
-    "venue": "Central Clinical School, Monash University",
-    "longitude": 144.984459,
-    "slug": "2019-11-12-GenomicsWorkshop",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Monash University",
-    "latitude": -37.846468,
-    "start_date": "2019-09-12"
-  },
-  {
     "instructors": "Darya Vanichkina,Steefan Contractor",
     "end_date": "2019-09-12",
     "url": "https://dvanic.github.io/2019-09-11-resbazsydGIS/",
