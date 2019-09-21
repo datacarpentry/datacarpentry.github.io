@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Christina Straub,Joep de Ligt,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2019-09-20",
+    "url": "https://genomicsaotearoa.github.io/2019-09-19-ESR/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "ESR Porirua",
+    "longitude": 174.83953,
+    "slug": "2019-09-19-ESR",
+    "tag_name": "DC",
+    "helpers": "Miles Benton",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -41.1475,
+    "start_date": "2019-09-19"
+  },
+  {
+    "instructors": "Ryan Avery,Kunal Marwaha",
+    "end_date": "2019-09-19",
+    "url": "https://rbavery.github.io/2019-09-18-DEVELOPJPL/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "NASA JPL",
+    "longitude": null,
+    "slug": "2019-09-18-DEVELOPJPL",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": null,
+    "start_date": "2019-09-18"
+  },
+  {
     "instructors": "Rita Kuo,Eve Bohnett",
     "end_date": "2019-09-15",
     "url": "https://evebohnett.github.io/2019-09-14-nmt/",
@@ -103,6 +133,21 @@
     "host_name": "Genomics Aotearoa",
     "latitude": -36.853298,
     "start_date": "2019-08-21"
+  },
+  {
+    "instructors": "Eve Bohnett,Jaime Ashander",
+    "end_date": "2019-08-20",
+    "url": "https://gwu-libraries.github.io/2019-08-19-gwu/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-08-19-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-08-19"
   },
   {
     "instructors": "Trisha Adamus,Aniello Infante",
