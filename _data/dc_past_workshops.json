@@ -144,7 +144,7 @@
     "longitude": -77.048386,
     "slug": "2019-08-19-gwu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Daniel Kerchner,Kean McDermott,Megan Potterbusch,Laura Wrubel",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-08-19"
@@ -339,7 +339,7 @@
     "longitude": 170.51267,
     "slug": "2019-07-04-otago",
     "tag_name": "DC",
-    "helpers": "Matt Bixley,Murray Cadzow",
+    "helpers": "Matt Bixley,Murray Cadzow,Dinindu Senanayake",
     "host_name": "University of Otago",
     "latitude": -45.86442,
     "start_date": "2019-07-04"
@@ -373,6 +373,21 @@
     "host_name": "University of Zurich",
     "latitude": 47.398203,
     "start_date": "2019-07-01"
+  },
+  {
+    "instructors": "Bukola Rhoda Aremu,Mita Williams",
+    "end_date": "2019-06-28",
+    "url": "https://copystar.github.io/2019-06-27-agriculture-canada/",
+    "country": "CA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Harrow R&D Centre, Agriculture Canada",
+    "longitude": -82.898594,
+    "slug": "2019-06-27-agriculture-canada",
+    "tag_name": "DC",
+    "helpers": "Roger Reka",
+    "host_name": "Agriculture Canada",
+    "latitude": 42.03467,
+    "start_date": "2019-06-27"
   },
   {
     "instructors": "Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Kimberly O'Keefe",
