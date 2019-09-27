@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Jen Hammock,Luis Villanueva,Mirian Tieko Nunes Tsuchiya",
+    "end_date": "2019-09-26",
+    "url": "https://smithsonianworkshops.github.io/2019-09-25-SCBI/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Data Carpentry Workshop with R at Smithsonian Conservation Biology Institute",
+    "longitude": -78.165391,
+    "slug": "2019-09-25-SCBI",
+    "tag_name": "DC",
+    "helpers": "Valentine Herrmann",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.887172,
+    "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Murray Cadzow,Matt Bixley,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2019-09-26",
+    "url": "https://otagocarpentries.github.io/2019-09-25-otago/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "University of Otago",
+    "longitude": 170.513082,
+    "slug": "2019-09-25-otago",
+    "tag_name": "DC",
+    "helpers": "Alana Alexander",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -45.863838,
+    "start_date": "2019-09-25"
+  },
+  {
     "instructors": "Christina Straub,Joep de Ligt,Ngonidzashe Faya,Dinindu Senanayake",
     "end_date": "2019-09-20",
     "url": "https://genomicsaotearoa.github.io/2019-09-19-ESR/",

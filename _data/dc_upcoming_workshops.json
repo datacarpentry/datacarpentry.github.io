@@ -15,36 +15,6 @@
     "start_date": "2019-09-11"
   },
   {
-    "instructors": "Jen Hammock,Luis Villanueva,Mirian Tieko Nunes Tsuchiya",
-    "end_date": "2019-09-26",
-    "url": "https://smithsonianworkshops.github.io/2019-09-25-SCBI/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Data Carpentry Workshop with R at Smithsonian Conservation Biology Institute",
-    "longitude": -78.165391,
-    "slug": "2019-09-25-SCBI",
-    "tag_name": "DC",
-    "helpers": "Valentine Herrmann",
-    "host_name": "Smithsonian Institution",
-    "latitude": 38.887172,
-    "start_date": "2019-09-25"
-  },
-  {
-    "instructors": "Murray Cadzow,Matt Bixley,Ngonidzashe Faya,Dinindu Senanayake",
-    "end_date": "2019-09-26",
-    "url": "https://otagocarpentries.github.io/2019-09-25-otago/",
-    "country": "NZ",
-    "curriculum": "dc-genomics",
-    "venue": "University of Otago",
-    "longitude": 170.513082,
-    "slug": "2019-09-25-otago",
-    "tag_name": "DC",
-    "helpers": "Alana Alexander",
-    "host_name": "Genomics Aotearoa",
-    "latitude": -45.863838,
-    "start_date": "2019-09-25"
-  },
-  {
     "instructors": "Ben Waite,Joep de Ligt",
     "end_date": "2019-10-08",
     "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
@@ -90,6 +60,21 @@
     "start_date": "2019-10-10"
   },
   {
+    "instructors": "Deidre Whitmore,Jamie Jamison,Kristian Allen,Leigh Phan",
+    "end_date": "2019-10-24",
+    "url": "https://ucla-data-archive.github.io/2019-10-16-ucla/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "UCLA",
+    "longitude": -118.4421809,
+    "slug": "2019-10-16-ucla",
+    "tag_name": "DC",
+    "helpers": "Tim Dennis,Geno Sanchez,Mark Matney",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.0716126,
+    "start_date": "2019-10-16"
+  },
+  {
     "instructors": "Angela Li,Colin Quirk",
     "end_date": "2019-10-18",
     "url": "https://uc-carpentries.github.io/2019-10-17-chicago/",
@@ -103,6 +88,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-10-17"
+  },
+  {
+    "instructors": "Berika Williams,Allison Gofman,Kristin Lee,Kyle Monahan",
+    "end_date": "2019-10-22",
+    "url": "https://tufts-carpentries.github.io/2019-10-21-tuftsHirsh/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Tufts University, Hirsh Library",
+    "longitude": -71.062314,
+    "slug": "2019-10-21-tuftsHirsh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Tufts University",
+    "latitude": 42.350078,
+    "start_date": "2019-10-21"
   },
   {
     "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
