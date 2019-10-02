@@ -105,6 +105,21 @@
     "start_date": "2019-10-21"
   },
   {
+    "instructors": "Matt Bixley",
+    "end_date": "2019-10-25",
+    "url": "https://otagocarpentries.github.io/2019-10-24-christchurch/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago - Christchurch",
+    "longitude": 172.6236363,
+    "slug": "2019-10-24-christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -43.534003,
+    "start_date": "2019-10-24"
+  },
+  {
     "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
     "end_date": "2019-10-26",
     "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",
