@@ -120,6 +120,21 @@
     "start_date": "2019-10-24"
   },
   {
+    "instructors": "Kay BJornen,Madison Chartier,Phillip Doehle,Clarke Iakovakis,Hua Lin",
+    "end_date": "2019-10-25",
+    "url": "https://osu-carpentry.github.io/2019-10-24-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-10-24-okstate",
+    "tag_name": "DC",
+    "helpers": "Ki Cole,Peter Hoyt,Rajendra Maharjan",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-10-24"
+  },
+  {
     "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
     "end_date": "2019-10-26",
     "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",
@@ -193,6 +208,21 @@
     "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
     "latitude": 52.0873658,
     "start_date": "2019-11-25"
+  },
+  {
+    "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",
+    "end_date": "2019-12-17",
+    "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-12-16-okstate",
+    "tag_name": "DC",
+    "helpers": "Ki Cole,Madison Chartier",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-12-16"
   },
   {
     "instructors": "Damien Irving,Holger Wolff",
