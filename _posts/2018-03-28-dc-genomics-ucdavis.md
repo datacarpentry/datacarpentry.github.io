@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Lisa K. Johnson"]
 redirect_from: /blog/dc-genomics-ucdavis/
 ---

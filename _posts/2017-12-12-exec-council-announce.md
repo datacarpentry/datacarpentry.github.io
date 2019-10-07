@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Kate Hertweck"]
 redirect_from: /blog/exec-council-announce/
 ---

@@ -9,6 +9,7 @@ categories:
   - blog
 show_meta: true
 comments: true
+tags: [""]
 authors: [Karen Cranston, Hilmar Lapp, Aleksandra Pawlik, Karthik Ram, Tracy Teal, Ethan White]
 redirect_from: /blog/datacarpentry-looking-forward-looking-back/
 ---

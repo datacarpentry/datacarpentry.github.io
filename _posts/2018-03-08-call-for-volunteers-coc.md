@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Kari L. Jordan, Tracy Teal, Erin Becker"]
 redirect_from: /blog/call-for-volunteers-coc/
 ---

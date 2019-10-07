@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Tracy Teal", "Elizabeth Williams", "Karen Word"]
 redirect_from: /blog/new-staff-intro/
 ---

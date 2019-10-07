@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Data Carpentry Steering Committee and Staff"]
 redirect_from: /blog/thanks-to-greg/
 ---

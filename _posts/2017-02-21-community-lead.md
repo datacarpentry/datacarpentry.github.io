@@ -9,6 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Tracy Teal, Jonah Duckles"]
 redirect_from: /blog/community-lead/
 ---

@@ -9,6 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/long-term-assessment-strategy/
 ---

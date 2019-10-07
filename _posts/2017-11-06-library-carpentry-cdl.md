@@ -9,6 +9,7 @@ Categories:
 comments: true
 show_meta: true
 date: 2017-11-06
+tags: [""]
 authors: ["John Chodacki"]
 ---
 

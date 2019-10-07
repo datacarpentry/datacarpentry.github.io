@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Karen Word", "Erin Becker"]
 redirect_from: /blog/adding-new-trainers/
 ---
