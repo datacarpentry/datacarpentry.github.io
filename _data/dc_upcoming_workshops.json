@@ -15,21 +15,6 @@
     "start_date": "2019-09-11"
   },
   {
-    "instructors": "Ben Waite,Joep de Ligt",
-    "end_date": "2019-10-08",
-    "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
-    "country": "NZ",
-    "curriculum": "dc-ecology-r",
-    "venue": "National Centre for Biosecurity and Infectious Disease",
-    "longitude": 175.057558,
-    "slug": "2019-10-04-ncbid",
-    "tag_name": "DC",
-    "helpers": "Richard Dean",
-    "host_name": "The Institute of Environmental Science and Research",
-    "latitude": -41.131402,
-    "start_date": "2019-10-04"
-  },
-  {
     "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
     "end_date": "2019-10-11",
     "url": "https://foreal17.github.io/2019-10-10-christchurch/",
