@@ -9,6 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["K.A.S. Mislan"]
 redirect_from: /blog/discovering/
 ---

@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Erin Becker", "Bob Freeman", "Mateusz Kuzak", "Sue McClatchy", "Tracy Teal", "Jason Williams"]
 redirect_from: /blog/genomics-interest/
 ---

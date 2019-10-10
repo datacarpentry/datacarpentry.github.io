@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Fotis Psomopoulos", "Belinda Weaver"]
 redirect_from: /blog/carpcon-announce/
 ---

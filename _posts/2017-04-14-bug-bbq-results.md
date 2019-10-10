@@ -9,6 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: [Tracy Teal, Erin Becker]
 redirect_from: /blog/bug-bbq-results/
 ---

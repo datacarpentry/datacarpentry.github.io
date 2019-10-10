@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Tracy Teal", "Gina Helfrich"]
 redirect_from: /blog/fiscal-sponsor-transition/
 ---

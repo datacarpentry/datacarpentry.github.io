@@ -1,6 +1,7 @@
 ---
 layout: post
 subheadline: "Data in the Field"
+tags: [""]
 authors: ["Damien Irving - Postdoctoral Research Fellow, CSIRO Oceans and Atmosphere"]
 title: "Climate Science and the Command Line"
 teaser: ""

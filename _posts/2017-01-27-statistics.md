@@ -9,6 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Susan J. Simmons, NCSU Analytics", "Ann E. Stapleton, UNCW Biology"]
 redirect_from: /blog/statistics/
 ---

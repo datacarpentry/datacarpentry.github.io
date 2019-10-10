@@ -9,6 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Karen Word"]
 redirect_from: /blog/new-trainer-round/
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [""]
 authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2017 September meeting"
 teaser: "This post will cover the topics discussed and their resolutions."

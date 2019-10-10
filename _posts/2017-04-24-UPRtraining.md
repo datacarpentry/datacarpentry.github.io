@@ -9,6 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: [Rayna Harris, Sue McClatchy, Tracy Teal]
 redirect_from: /blog/UPRtraining/
 ---

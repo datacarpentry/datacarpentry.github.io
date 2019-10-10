@@ -9,6 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
+tags: [""]
 authors: ["Timothée Poisot"]
 redirect_from: /blog/whyweteach-sql/
 ---
