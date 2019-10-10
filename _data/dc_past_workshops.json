@@ -105,6 +105,21 @@
     "start_date": "2019-09-11"
   },
   {
+    "instructors": "Trisha Adamus,Srikanth Aravamuthan,Michael Liou,Clare Michaud",
+    "end_date": "2019-10-09",
+    "url": "https://uw-madison-datascience.github.io/2019-09-11-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Data Carpentry for Ecology @ UW-Madison",
+    "longitude": -89.41338,
+    "slug": "2019-09-11-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": "Trisha Adamus,Tobin Magle,Lauren Michael,Michael Liou,Clare Michaud",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.07609,
+    "start_date": "2019-09-11"
+  },
+  {
     "instructors": "Amieroh Abrahams,Peter van Heusden,Oghenere Salubi,Raniere Silva",
     "end_date": "2019-09-11",
     "url": "https://uwc-eresearch.github.io/2019-09-10-UWC_Bellville/",

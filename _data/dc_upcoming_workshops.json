@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Trisha Adamus,Srikanth Aravamuthan,Michael Liou,Clare Michaud",
-    "end_date": "2019-10-09",
-    "url": "https://uw-madison-datascience.github.io/2019-09-11-uwmadison-dc/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Data Carpentry for Ecology @ UW-Madison",
-    "longitude": -89.41338,
-    "slug": "2019-09-11-uwmadison-dc",
-    "tag_name": "DC",
-    "helpers": "Trisha Adamus,Tobin Magle,Lauren Michael,Michael Liou,Clare Michaud",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.07609,
-    "start_date": "2019-09-11"
-  },
-  {
     "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
     "end_date": "2019-10-11",
     "url": "https://foreal17.github.io/2019-10-10-christchurch/",
@@ -88,6 +73,21 @@
     "host_name": "Tufts University",
     "latitude": 42.350078,
     "start_date": "2019-10-21"
+  },
+  {
+    "instructors": "Zine Sapula",
+    "end_date": "2019-10-23",
+    "url": "https://libraryump.github.io/2019-10-22-OA-data-carpentry/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Mpumalanga,Mbombela Campus, Building 4",
+    "longitude": null,
+    "slug": "2019-10-22-OA-data-carpentry",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Mpumalanga",
+    "latitude": null,
+    "start_date": "2019-10-22"
   },
   {
     "instructors": "Matt Bixley",
