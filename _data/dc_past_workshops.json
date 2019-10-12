@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
+    "end_date": "2019-10-11",
+    "url": "https://foreal17.github.io/2019-10-10-christchurch/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "University of Canterbury, Christchurch",
+    "longitude": 172.466797,
+    "slug": "2019-10-10-christchurch",
+    "tag_name": "DC",
+    "helpers": "Anton Angelo,John McCallum",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -43.643051,
+    "start_date": "2019-10-10"
+  },
+  {
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Alex Kappes",
+    "end_date": "2019-10-11",
+    "url": "https://mbrousil.github.io/2019-10-10-wsu",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Washington State University",
+    "longitude": -117.155013,
+    "slug": "2019-10-10-wsu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Walter Sisulu University",
+    "latitude": 46.72944,
+    "start_date": "2019-10-10"
+  },
+  {
+    "instructors": "Martin Jean",
+    "end_date": "2019-10-08",
+    "url": "https://martinjeanphd.github.io/2019-10-07-ECCC/",
+    "country": "CA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Environnement et changement climatique Canada",
+    "longitude": -73.554894,
+    "slug": "2019-10-07-ECCC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Environment and Climate Change Canada",
+    "latitude": 45.499504,
+    "start_date": "2019-10-07"
+  },
+  {
     "instructors": "Ben Waite,Joep de Ligt",
     "end_date": "2019-10-08",
     "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
@@ -658,6 +703,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-05-31"
+  },
+  {
+    "instructors": "Martin Jean",
+    "end_date": "2019-05-31",
+    "url": "https://martinjeanphd.github.io/2019-05-30-ECCC/",
+    "country": "CA",
+    "curriculum": "dc-ecology-r",
+    "venue": "ECCC - Édifice Dominique-Ducharme, Montréal",
+    "longitude": -73.554894,
+    "slug": "2019-05-30-ECCC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Environment and Climate Change Canada",
+    "latitude": 45.499504,
+    "start_date": "2019-05-30"
   },
   {
     "instructors": "Jennifer Shelton,Kunal Marwaha",
