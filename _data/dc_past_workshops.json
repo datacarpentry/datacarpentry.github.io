@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Krzysztof Poterlowicz",
+    "end_date": "2019-10-15",
+    "url": "https://kpoterlowicz.github.io/2019-10-14-bradford/",
+    "country": "",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Bradford",
+    "longitude": -1.765402,
+    "slug": "2019-10-14-bradford",
+    "tag_name": "DC",
+    "helpers": "Katarzyna Murat",
+    "host_name": "University of Bradford",
+    "latitude": 53.79044,
+    "start_date": "2019-10-14"
+  },
+  {
     "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
     "end_date": "2019-10-11",
     "url": "https://foreal17.github.io/2019-10-10-christchurch/",
