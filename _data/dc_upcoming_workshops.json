@@ -120,6 +120,21 @@
     "start_date": "2019-10-28"
   },
   {
+    "instructors": "Juan Herrera",
+    "end_date": "2019-10-30",
+    "url": "https://hpcarcher.github.io/2019-10-29-cardiff/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ARCHER-SSI Data Carpentry at Cardiff University",
+    "longitude": -3.18543,
+    "slug": "2019-10-29-cardiff",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ARCHER",
+    "latitude": 51.49191,
+    "start_date": "2019-10-29"
+  },
+  {
     "instructors": "Nick Wong",
     "end_date": "2019-11-13",
     "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
@@ -148,6 +163,21 @@
     "host_name": "University of Göttingen",
     "latitude": 51.540162,
     "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Ryan Avery,Jon Jablonski",
+    "end_date": "2019-11-22",
+    "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UCSB Library",
+    "longitude": -119.8462413,
+    "slug": "2019-11-14-Geospatial-R",
+    "tag_name": "DC",
+    "helpers": "Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413982,
+    "start_date": "2019-11-14"
   },
   {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
