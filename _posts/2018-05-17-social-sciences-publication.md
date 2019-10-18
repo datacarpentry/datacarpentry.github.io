@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Data Carpentry", "Curriculum"]
+tags: ["Data Carpentry", "Curriculum", "Carpentries Lessons"]
 authors: ["François Michonneau", "Erin Becker"]
 redirect_from: /blog/social-sciences-publication/
 ---
