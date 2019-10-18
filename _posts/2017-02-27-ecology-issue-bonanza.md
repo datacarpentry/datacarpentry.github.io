@@ -10,7 +10,7 @@ categories:
 comments: true
 show_meta: true
 tags: [""]
-authors: [Erin Becker, Francois Michonneau, Tracy Teal]
+authors: ["Erin Becker", "François Michonneau", "Tracy Teal"]
 redirect_from: /blog/ecology-issue-bonanza/
 ---
 

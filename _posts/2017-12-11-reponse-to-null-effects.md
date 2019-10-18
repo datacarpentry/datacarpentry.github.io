@@ -10,7 +10,7 @@ categories:
 comments: true
 show_meta: true
 tags: [""]
-authors: [ "Karen R. Word"]
+authors: [ "Karen Word"]
 
 ---
 

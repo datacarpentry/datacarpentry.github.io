@@ -10,7 +10,7 @@ categories:
 comments: true
 show_meta: true
 tags: [""]
-authors: ["Jason Williams", "Erin Becker", "Francois Michonneau"]
+authors: ["Jason Williams", "Erin Becker", "François Michonneau"]
 ---
 
 This February, a small group of committed community members, led by Taylor Reiter at the University of California, Davis, 
