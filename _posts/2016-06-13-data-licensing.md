@@ -10,7 +10,7 @@ categories:
 comments: true
 show_meta: true
 tags: [""]
-authors: ["Elizabeth Wickes, Data Curation Specialist (University Library), University of Illinois at Urbana-Champaign"]
+authors: ["Elizabeth Wickes"]
 redirect_from: /blog/data-licensing/
 ---
 

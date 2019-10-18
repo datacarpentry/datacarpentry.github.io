@@ -10,7 +10,7 @@ Categories:
 comments: true  
 show_meta: true    
 tags: [""]
-authors: ["Data and Software Carpentry Steering Committees and Staff"]    
+authors: ["Data Carpentry Steering Committee", "Software Carpentry Steering Committee", "Staff"]    
 redirect_from: /blog/inclusion/
 --- 
 
