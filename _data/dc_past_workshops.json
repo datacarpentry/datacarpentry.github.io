@@ -1,15 +1,30 @@
 [
   {
-    "instructors": "Krzysztof Poterlowicz",
+    "instructors": "Angela Li,Colin Quirk",
+    "end_date": "2019-10-18",
+    "url": "https://uc-carpentries.github.io/2019-10-17-chicago/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Center for Spatial Data Science, University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-10-17-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-10-17"
+  },
+  {
+    "instructors": "Krzysztof Poterlowicz,Katarzyna Murat,Andrew Tedder",
     "end_date": "2019-10-15",
     "url": "https://kpoterlowicz.github.io/2019-10-14-bradford/",
-    "country": "",
+    "country": "GB",
     "curriculum": "dc-ecology-r",
     "venue": "University of Bradford",
     "longitude": -1.765402,
     "slug": "2019-10-14-bradford",
     "tag_name": "DC",
-    "helpers": "Katarzyna Murat",
+    "helpers": null,
     "host_name": "University of Bradford",
     "latitude": 53.79044,
     "start_date": "2019-10-14"
@@ -39,7 +54,7 @@
     "longitude": -117.155013,
     "slug": "2019-10-10-wsu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Menqi Zhao,Andrew Gillreath-Brown,Matt Brousil,Megan Asche",
     "host_name": "Walter Sisulu University",
     "latitude": 46.72944,
     "start_date": "2019-10-10"
@@ -84,7 +99,7 @@
     "longitude": -78.165391,
     "slug": "2019-09-25-SCBI",
     "tag_name": "DC",
-    "helpers": "Valentine Herrmann,Alexander Robillard",
+    "helpers": "Valentine Herrmann,Alexander Robillard,Erika Gonzalez-Akre",
     "host_name": "Smithsonian Institution",
     "latitude": 38.887172,
     "start_date": "2019-09-25"

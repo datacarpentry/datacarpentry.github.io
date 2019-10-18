@@ -15,21 +15,6 @@
     "start_date": "2019-10-16"
   },
   {
-    "instructors": "Angela Li,Colin Quirk",
-    "end_date": "2019-10-18",
-    "url": "https://uc-carpentries.github.io/2019-10-17-chicago/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Center for Spatial Data Science, University of Chicago",
-    "longitude": -87.601003,
-    "slug": "2019-10-17-chicago",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Chicago",
-    "latitude": 41.790697,
-    "start_date": "2019-10-17"
-  },
-  {
     "instructors": "Berika Williams,Allison Gofman,Kristin Lee,Kyle Monahan",
     "end_date": "2019-10-22",
     "url": "https://tufts-carpentries.github.io/2019-10-21-tuftsHirsh/",
@@ -114,7 +99,7 @@
     "longitude": -71.115471,
     "slug": "2019-10-28-harvard",
     "tag_name": "DC",
-    "helpers": "Julie Goldman",
+    "helpers": "Julie Goldman,C. M. Boyd",
     "host_name": "Harvard University",
     "latitude": 42.372784,
     "start_date": "2019-10-28"
