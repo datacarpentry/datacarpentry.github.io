@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Berika Williams,Allison Gofman,Kristin Lee,Kyle Monahan",
+    "end_date": "2019-10-22",
+    "url": "https://tufts-carpentries.github.io/2019-10-21-tuftsHirsh/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Tufts University, Hirsh Library",
+    "longitude": -71.062314,
+    "slug": "2019-10-21-tuftsHirsh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Tufts University",
+    "latitude": 42.350078,
+    "start_date": "2019-10-21"
+  },
+  {
     "instructors": "Angela Li,Colin Quirk",
     "end_date": "2019-10-18",
     "url": "https://uc-carpentries.github.io/2019-10-17-chicago/",
@@ -9,7 +24,7 @@
     "longitude": -87.601003,
     "slug": "2019-10-17-chicago",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Lilian Huang,Hamza Rarou,Kate Schertz,Will Ngiam",
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-10-17"

@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Deidre Whitmore,Jamie Jamison,Kristian Allen,Leigh Phan",
+    "instructors": "Deidre Whitmore,Jamie Jamison,Kristian Allen,Leigh Phan,Tim Dennis",
     "end_date": "2019-10-24",
     "url": "https://ucla-data-archive.github.io/2019-10-16-ucla/",
     "country": "US",
@@ -9,25 +9,10 @@
     "longitude": -118.4421809,
     "slug": "2019-10-16-ucla",
     "tag_name": "DC",
-    "helpers": "Tim Dennis,Geno Sanchez,Mark Matney",
+    "helpers": "Geno Sanchez,Mark Matney,Christine Wells,Dave George",
     "host_name": "University of California Los Angeles",
     "latitude": 34.0716126,
     "start_date": "2019-10-16"
-  },
-  {
-    "instructors": "Berika Williams,Allison Gofman,Kristin Lee,Kyle Monahan",
-    "end_date": "2019-10-22",
-    "url": "https://tufts-carpentries.github.io/2019-10-21-tuftsHirsh/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Tufts University, Hirsh Library",
-    "longitude": -71.062314,
-    "slug": "2019-10-21-tuftsHirsh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Tufts University",
-    "latitude": 42.350078,
-    "start_date": "2019-10-21"
   },
   {
     "instructors": "Zine Sapula",
