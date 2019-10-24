@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Zine Sapula",
+    "end_date": "2019-10-23",
+    "url": "https://libraryump.github.io/2019-10-22-OA-data-carpentry/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Mpumalanga,Mbombela Campus, Building 4",
+    "longitude": null,
+    "slug": "2019-10-22-OA-data-carpentry",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Mpumalanga",
+    "latitude": null,
+    "start_date": "2019-10-22"
+  },
+  {
     "instructors": "Berika Williams,Allison Gofman,Kristin Lee,Kyle Monahan",
     "end_date": "2019-10-22",
     "url": "https://tufts-carpentries.github.io/2019-10-21-tuftsHirsh/",
@@ -508,6 +523,21 @@
     "host_name": "Data Intensive Research Initiative of South Africa (DIRISA)",
     "latitude": -25.719151,
     "start_date": "2019-07-02"
+  },
+  {
+    "instructors": "Helen Lindsay,Stephan Schmeing,Malgorzata Nowicka",
+    "end_date": "2019-07-02",
+    "url": "https://www.sib.swiss/training/course/2019-07-elixir-sib-dc",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-01-elixir-sib-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": null,
+    "start_date": "2019-07-01"
   },
   {
     "instructors": "Helen Lindsay,Stephan Schmeing,Gosia Nowicka,Mark Robinson",

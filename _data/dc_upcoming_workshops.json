@@ -15,21 +15,6 @@
     "start_date": "2019-10-16"
   },
   {
-    "instructors": "Zine Sapula",
-    "end_date": "2019-10-23",
-    "url": "https://libraryump.github.io/2019-10-22-OA-data-carpentry/",
-    "country": "ZA",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Mpumalanga,Mbombela Campus, Building 4",
-    "longitude": null,
-    "slug": "2019-10-22-OA-data-carpentry",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Mpumalanga",
-    "latitude": null,
-    "start_date": "2019-10-22"
-  },
-  {
     "instructors": "Matt Bixley",
     "end_date": "2019-10-25",
     "url": "https://otagocarpentries.github.io/2019-10-24-christchurch/",
