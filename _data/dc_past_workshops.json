@@ -45,6 +45,21 @@
     "start_date": "2019-10-17"
   },
   {
+    "instructors": "Deidre Whitmore,Jamie Jamison,Kristian Allen,Leigh Phan,Tim Dennis",
+    "end_date": "2019-10-24",
+    "url": "https://ucla-data-archive.github.io/2019-10-16-ucla/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "UCLA",
+    "longitude": -118.4421809,
+    "slug": "2019-10-16-ucla",
+    "tag_name": "DC",
+    "helpers": "Geno Sanchez,Mark Matney,Christine Wells,Dave George",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.0716126,
+    "start_date": "2019-10-16"
+  },
+  {
     "instructors": "Krzysztof Poterlowicz,Katarzyna Murat,Andrew Tedder",
     "end_date": "2019-10-15",
     "url": "https://kpoterlowicz.github.io/2019-10-14-bradford/",
