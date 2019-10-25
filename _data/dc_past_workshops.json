@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Matt Bixley",
+    "end_date": "2019-10-25",
+    "url": "https://otagocarpentries.github.io/2019-10-24-christchurch/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago - Christchurch",
+    "longitude": 172.6236363,
+    "slug": "2019-10-24-christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -43.534003,
+    "start_date": "2019-10-24"
+  },
+  {
+    "instructors": "Kay BJornen,Madison Chartier,Phillip Doehle,Clarke Iakovakis,Hua Lin",
+    "end_date": "2019-10-25",
+    "url": "https://osu-carpentry.github.io/2019-10-24-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-10-24-okstate",
+    "tag_name": "DC",
+    "helpers": "Ki Cole,Peter Hoyt,Rajendra Maharjan",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-10-24"
+  },
+  {
     "instructors": "Zine Sapula",
     "end_date": "2019-10-23",
     "url": "https://libraryump.github.io/2019-10-22-OA-data-carpentry/",
