@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Instructor Development"]
 authors: ["Erin Becker", "Greg Wilson"]
 redirect_from: /blog/open-instructor-training/
 ---
