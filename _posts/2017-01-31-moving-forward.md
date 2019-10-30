@@ -9,7 +9,7 @@ Categories:
   - blog  
 comments: true  
 show_meta: true    
-tags: [""]
+tags: ["Governance", "Instructor Development"]
 authors: ["Erin Becker"]    
 redirect_from: /blog/moving-forward/
 ---  

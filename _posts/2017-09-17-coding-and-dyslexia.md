@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Accessibility"]
 authors: ["Joanna Leng"]
 redirect_from: /blog/coding-and-dyslexia/
 ---
