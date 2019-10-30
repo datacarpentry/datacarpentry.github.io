@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
+    "end_date": "2019-10-29",
+    "url": "https://nesclic.github.io/2019-10-28-harvard/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Harvard University",
+    "longitude": -71.115471,
+    "slug": "2019-10-28-harvard",
+    "tag_name": "DC",
+    "helpers": "Julie Goldman,C. M. Boyd",
+    "host_name": "Harvard University",
+    "latitude": 42.372784,
+    "start_date": "2019-10-28"
+  },
+  {
     "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
     "end_date": "2019-10-26",
     "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",

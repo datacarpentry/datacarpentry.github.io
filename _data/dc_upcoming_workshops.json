@@ -1,18 +1,18 @@
 [
   {
-    "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
-    "end_date": "2019-10-29",
-    "url": "https://nesclic.github.io/2019-10-28-harvard/",
-    "country": "US",
+    "instructors": "Janet Stacey,Kim Tung Nguyen,Kate Stevenson",
+    "end_date": "2019-10-30",
+    "url": "https://chrstraub.github.io/2019-10-29-ESR_MASC/",
+    "country": "NZ",
     "curriculum": "dc-ecology-r",
-    "venue": "Harvard University",
-    "longitude": -71.115471,
-    "slug": "2019-10-28-harvard",
+    "venue": "ESR Mt. Albert",
+    "longitude": 174.726206,
+    "slug": "2019-10-29-ESR_MASC",
     "tag_name": "DC",
-    "helpers": "Julie Goldman,C. M. Boyd",
-    "host_name": "Harvard University",
-    "latitude": 42.372784,
-    "start_date": "2019-10-28"
+    "helpers": null,
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -36.891357,
+    "start_date": "2019-10-29"
   },
   {
     "instructors": "Juan Herrera",
@@ -88,6 +88,21 @@
     "host_name": "University of California Santa Barbara",
     "latitude": 34.413982,
     "start_date": "2019-11-14"
+  },
+  {
+    "instructors": "Matt Bixley",
+    "end_date": "2019-11-21",
+    "url": "https://otagocarpentries.github.io/2019-11-20-wellington",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago - Wellington Campus",
+    "longitude": 174.78064,
+    "slug": "2019-11-20-wellington",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -41.31058,
+    "start_date": "2019-11-20"
   },
   {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
