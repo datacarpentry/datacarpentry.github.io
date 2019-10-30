@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Assessment"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/assessment/
 ---
