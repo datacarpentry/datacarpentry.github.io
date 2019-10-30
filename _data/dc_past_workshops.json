@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Janet Stacey,Kim Tung Nguyen,Kate Stevenson",
+    "end_date": "2019-10-30",
+    "url": "https://chrstraub.github.io/2019-10-29-ESR_MASC/",
+    "country": "NZ",
+    "curriculum": "dc-ecology-r",
+    "venue": "ESR Mt. Albert",
+    "longitude": 174.726206,
+    "slug": "2019-10-29-ESR_MASC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -36.891357,
+    "start_date": "2019-10-29"
+  },
+  {
+    "instructors": "Juan Herrera",
+    "end_date": "2019-10-30",
+    "url": "https://hpcarcher.github.io/2019-10-29-cardiff/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ARCHER-SSI Data Carpentry at Cardiff University",
+    "longitude": -3.18543,
+    "slug": "2019-10-29-cardiff",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ARCHER",
+    "latitude": 51.49191,
+    "start_date": "2019-10-29"
+  },
+  {
     "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
     "end_date": "2019-10-29",
     "url": "https://nesclic.github.io/2019-10-28-harvard/",
@@ -24,7 +54,7 @@
     "longitude": -75.118828,
     "slug": "2019-10-25-rutgers_cmd",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Sunil Shende,Ryan Womack",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-10-25"
@@ -60,7 +90,7 @@
     "start_date": "2019-10-24"
   },
   {
-    "instructors": "Zine Sapula",
+    "instructors": "Zine Sapula,Caroline Ajilogba,Isak van der Walt",
     "end_date": "2019-10-23",
     "url": "https://libraryump.github.io/2019-10-22-OA-data-carpentry/",
     "country": "ZA",
@@ -69,7 +99,7 @@
     "longitude": null,
     "slug": "2019-10-22-OA-data-carpentry",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mafuza Maya",
     "host_name": "University of Mpumalanga",
     "latitude": null,
     "start_date": "2019-10-22"
