@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline: "Community"
-tags: [""]
+tags: ["Discussion Sessions"]
 authors: ["Tracy Teal", "Kate Hertweck"]
 title: "September Carpentries Community Call"
 teaser: "Join the community call to connect with other instructors & get activity updates"
