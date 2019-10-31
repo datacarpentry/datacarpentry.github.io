@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops", "Community"]
 authors: ["Kari L. Jordan"]
 ---
 Two schools of thought regarding learning and how it is achieved are the **acquisition metaphor** and the **participation metaphor**.

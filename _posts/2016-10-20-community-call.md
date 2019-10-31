@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops", "Assessment","Discussion Sessions"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/community-call-1/
 ---

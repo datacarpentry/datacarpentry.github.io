@@ -2,14 +2,14 @@
 layout: post
 subheadline: "Practices"
 title: "How to approach selecting a license for data release"
-teaser: "Suggstions and perspectives on how to select a license for your data publication"
+teaser: "Suggestions and perspectives on how to select a license for your data publication"
 header:
    image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Skillshare"]
 authors: ["Elizabeth Wickes"]
 redirect_from: /blog/data-licensing/
 ---
@@ -37,13 +37,13 @@ Once you have determined that you can make your data public and need to select a
 
 What does your normal community of practice release under?  You may also be depositing your data into a repository that has some opinions or other stock licenses to choose from.  Let this group guide you, if you have one.
 
-Looking to the larger general community of datasets published with DataCite DOIs (think FigShare and Zenodo), most of the declared rights statements are within the Creative Commons family of licenses.  That doesn’t mean that Creative Commons is the best for data, but it is one of the most recognized license systems out there.
+Looking to the larger general community of datasets published with DataCite DOIs (think FigShare and Zenodo), most of the declared rights statements are within the Creative Commons family of licenses.  That doesn’t mean that Creative Commons is the best for data, but it is one of the most recognised license systems out there.
 
 **Second, select a license that you understand**
 
 When you select a license you (and your data users!) should understand the terms for release, access, reuse, and republication that the license grants. Creative Commons and Open Data Commons have a serious advantage here because they each focus on making ‘human readable’ versions to help authors make informed selections, but many other licensing schemes (particularly the software communities) have other canonical and well understood license types.
 
-Selecting the individual license type you’d like to release under means that you need to carefully consider how restrictive or permissive you’d like to be.  Generally, options like a public domain release or a simple attribution requirement are recommended for data.  Data copyright is a complex issue that differes by country, state, and age of the content, with no brief statement doing it justice.  The legal implications of data licenses are also being sorted out and differ from country to country.  While it is true that facts and other such datums cannot be copyrighted, the assembly and selection of datasets can be (depending on the country).  Given the international audience of this blog, I find it best to leave each reader to investigate the applicable copyright law.  Be sure to read about the impact of attribution stacking if you select an attribution requirement license or anything more restrictive.  
+Selecting the individual license type you’d like to release under means that you need to carefully consider how restrictive or permissive you’d like to be.  Generally, options like a public domain release or a simple attribution requirement are recommended for data.  Data copyright is a complex issue that differs by country, state, and age of the content, with no brief statement doing it justice.  The legal implications of data licenses are also being sorted out and differ from country to country.  While it is true that facts and other such datums cannot be copyrighted, the assembly and selection of datasets can be (depending on the country).  Given the international audience of this blog, I find it best to leave each reader to investigate the applicable copyright law.  Be sure to read about the impact of attribution stacking if you select an attribution requirement license or anything more restrictive.  
 
 Do not be afraid of selecting a public domain license, such as CC0.  This declaration does not mean that future users of the data are off the hook for citations from a scholarship perspective, just from legal consequences of it.  You may still put in a request to be cited and suggested citation information with your data deposit in most data repositories.
 
@@ -58,6 +58,6 @@ The UK’s Digital Curation Centre has a lengthy guide on selecting licenses: ht
 * a research data service unit, scholarly publishing commons, or copyright librarian within your university’s library system.
 * research support staff within your research unit, institute, department, or college.
 * your institutional review board if you are dealing with human subject data.
-* your office of technology transfer, if you are dealing with data that may be commercialized or the basis of a patent.
+* your office of technology transfer, if you are dealing with data that may be commercialised or the basis of a patent.
 
 

@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Assessment", "Carpentries Team"]
 authors: ["Erin Becker", "Kari L. Jordan"]
 redirect_from: /blog/new-assessment-director/
 ---
@@ -24,6 +24,6 @@ We are excited to have Kari on our team! Kari’s first day will be August 22nd.
 
 The opportunity to work with Data Carpentry as Deputy Director of Assessment is one that I truly value. I am excited to be a part of a community of practitioners and learners. We have work to do! 
 
-As a Post-Doctoral Research Associate I assessed the implementation of evidence-based instructional practices (EBIPs) among faculty in introductory engineering, mathematics, and physical sciences courses. My work as a post-doc has prepared me to lead assessment for Data Carpentry, in particular, the organization's goal to motivate participants to engage in further self-directed learning of computational and data analytic skills.
+As a Post-Doctoral Research Associate I assessed the implementation of evidence-based instructional practices (EBIPs) among faculty in introductory engineering, mathematics, and physical sciences courses. My work as a post-doc has prepared me to lead assessment for Data Carpentry, in particular, the organisation's goal to motivate participants to engage in further self-directed learning of computational and data analytic skills.
 
 My passion is inclusivity in all levels and forms of education. As such, I look forward to being a part of Data Carpentry’s continuous growth and development as we expand our workshop offerings, and working with an amazingly talented team. Thank you for having me.

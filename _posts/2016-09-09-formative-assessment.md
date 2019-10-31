@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Assessment", "Workshops"]
 authors: ["Erin Becker"]
 redirect_from: /blog/formative-assessment/
 ---

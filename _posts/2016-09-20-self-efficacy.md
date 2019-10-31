@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops", "Instructor Development", "Skillshare"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/self-efficacy/
 ---
