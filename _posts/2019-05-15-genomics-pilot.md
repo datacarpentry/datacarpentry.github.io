@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops"]
 authors: ["Jason Williams", "Erin Becker", "François Michonneau"]
 ---
 
