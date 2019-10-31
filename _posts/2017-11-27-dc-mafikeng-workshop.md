@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops"]
 authors: ["Caroline F. Ajilogba", "Amy Hodge"]
 redirect_from: /blog/dc-mafikeng-workshop/
 ---
