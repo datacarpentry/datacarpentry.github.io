@@ -54,7 +54,7 @@
     "longitude": -75.118828,
     "slug": "2019-10-25-rutgers_cmd",
     "tag_name": "DC",
-    "helpers": "Sunil Shende,Ryan Womack",
+    "helpers": "Sunil Shende,Ryan Womack,Sid Bhadra-Lobo,Ravi Kumar,Nidhi Sheth",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-10-25"
@@ -99,7 +99,7 @@
     "longitude": null,
     "slug": "2019-10-22-OA-data-carpentry",
     "tag_name": "DC",
-    "helpers": "Mafuza Maya",
+    "helpers": "Mafuza Maya,Sinazo Matyila,Zizipho Madibi",
     "host_name": "University of Mpumalanga",
     "latitude": null,
     "start_date": "2019-10-22"
@@ -114,7 +114,7 @@
     "longitude": -71.062314,
     "slug": "2019-10-21-tuftsHirsh",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Rebecca Morin,Andrea Kang",
     "host_name": "Tufts University",
     "latitude": 42.350078,
     "start_date": "2019-10-21"
@@ -939,7 +939,7 @@
     "longitude": 174.727021,
     "slug": "2019-05-28-DC-ESR-MASC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Christina Straub,Kate Stevenson",
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -36.890614,
     "start_date": "2019-05-28"
