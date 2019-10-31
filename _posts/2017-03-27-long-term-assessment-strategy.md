@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Assessment", "Community", "Reports"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/long-term-assessment-strategy/
 ---
@@ -20,6 +20,6 @@ On February 22nd we created an issue in both our [R](https://github.com/datacarp
 We are now ready to launch our new pre- and post-workshop surveys. We’d like to say thank you to all of our community members who contributed to this process. Thanks to you, our surveys will launch in April!
 
 **Long-Term Assessment**
-In an effort to gather what has transpired in our learner’s work and career since completing a Carpentry workshop, Software and Data Carpentry have launched a joint Long-Term Assessment Survey. Our staff and community members have developed a way to capture feedback from our learners about behaviors they’ve adopted since attending a Carpentry workshop, confidence in the tools covered in their workshop, and ways their work, research, and career may have been impacted. If you took a Carpentry workshop before December 2016 and would like to participate in our survey give us your [feedback](https://www.surveymonkey.com/r/carpentrieslongtermassessment). You will have the opportunity to be entered in a drawing for a Carpentry swag bag! We are collecting data until April 4th. 
+In an effort to gather what has transpired in our learner’s work and career since completing a Carpentry workshop, Software and Data Carpentry have launched a joint Long-Term Assessment Survey. Our staff and community members have developed a way to capture feedback from our learners about behaviors they’ve adopted since attending a Carpentry workshop, confidence in the tools covered in their workshop, and ways their work, research, and career may have been impacted. If you took a Carpentry workshop before December 2016 and would like to participate in our survey give us your [feedback](https://www.surveymonkey.com/r/carpentrieslongtermassessment). You will have the opportunity to be entered in a drawing for a Carpentry swag bag! We are collecting data until April 4th.
 
 As you can see, we value assessment and will continue to communicate our strategy with the community. Get involved with assessment by [contacting Kari L. Jordan](mailto:kariljordan@carpentries.org). Comment below, and tweet us your thoughts @datacarpentry and @drkariljordan.

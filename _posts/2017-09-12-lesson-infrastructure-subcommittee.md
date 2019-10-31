@@ -1,12 +1,12 @@
 ---
 layout: post
-tags: [""]
+tags: ["Lesson Infrastructure"]
 authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2017 September meeting"
 teaser: "This post will cover the topics discussed and their resolutions."
-header: 
+header:
    image_fullwidth: "light-blue-wood-texture.jpg"
-categories: 
+categories:
   - blog
 show_meta: true
 comments: true
@@ -119,7 +119,7 @@ and discuss new requests from the community.
 
 ## Acknowledgement
 
-Thanks to 
+Thanks to
 Kate Hertweck,
 Maneesha Sane,
 Mark Laufersweiler,

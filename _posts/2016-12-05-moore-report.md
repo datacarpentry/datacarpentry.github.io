@@ -9,17 +9,17 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Grants", "Funding", "Reports"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/moore-report/
 ---
 
 
-A year ago we were fortunate enough to receive a grant from the 
-[Gordon and Betty Moore Foundation](https://www.moore.org/article-detail?newsUrlName=the-gordon-and-betty-moore-foundation-selects-awardees-for-$21-million-in-grants-to-stimulate-data-driven-discovery) 
-Data-Driven Discovery initiative to support Data Carpentry to develop and deliver data skills training to researchers in the life and 
+A year ago we were fortunate enough to receive a grant from the
+[Gordon and Betty Moore Foundation](https://www.moore.org/article-detail?newsUrlName=the-gordon-and-betty-moore-foundation-selects-awardees-for-$21-million-in-grants-to-stimulate-data-driven-discovery)
+Data-Driven Discovery initiative to support Data Carpentry to develop and deliver data skills training to researchers in the life and
 physical sciences. [See our original proposal here.](https://figshare.com/articles/Data_Carpentry_Moore_Foundation_Grant_Proposal/1507552)
-Thanks to the Moore Foundation, this support has allowed us as a community to run more workshops, develop new materials, 
+Thanks to the Moore Foundation, this support has allowed us as a community to run more workshops, develop new materials,
 develop infrastructure and advocate for the importance of data skills training for more effective and reproducible research.  
 
 
@@ -41,7 +41,7 @@ Workshop attendees are primarily graduate students (31%), but there is also rese
 (12%) and PIs (12%). Workshop attendees were primarily from the life sciences (45%), with other (21%) and social sciences and
 library sciences (9%).  
 - Over 50% of learners were new to programming having never programmed or less than once per year.  
-- The vast majority (>90%) of those responding to our post-workshop survey say that participating in the 
+- The vast majority (>90%) of those responding to our post-workshop survey say that participating in the
 workshop was worth their time and led to improvements in their data management and data analysis skills.  
 - Gender balance in USA workshops (where demographic data is collected) was 51% female and 47% male.  
 - In the USA we are primarily reaching Caucasian (63%) and Asian/Pacific Islander (18%) participants. Black or African American
@@ -57,8 +57,8 @@ who have developed and run [discussion sessions](http://pad.software-carpentry.o
 - With [CyVerse](http://www.cyverse.org/) and [SESYNC](https://www.sesync.org/) we developed a
 [Genomics Data Carpentry](http://www.datacarpentry.org/genomics-workshop/) workshop, with a grant from Amazon AWS for cloud computing
 resources  
-- With [NEON](http://www.neonscience.org/) we developed Geospatial Data Carpentry lessons on 
-[working with raster data](http://neondataskills.org/tutorial-series/raster-data-series/) and 
+- With [NEON](http://www.neonscience.org/) we developed Geospatial Data Carpentry lessons on
+[working with raster data](http://neondataskills.org/tutorial-series/raster-data-series/) and
 [vector data](http://neondataskills.org/tutorial-series/vector-data-series/).  
 
 #### Strategic Planning, Sustainability, Communication and Advocacy  
@@ -67,9 +67,9 @@ and [Deputy Director of Assessment](http://www.datacarpentry.org/blog/new-assess
 - Developed a [Lesson Development Roadmap](http://www.datacarpentry.org/lessons-incubation/) to guide the development
 of new curriculum  
 - Started a joint [Partnership](http://www.datacarpentry.org/partnerships/) program with Software Carpentry.  
-- Developed criteria for [requirements for Data Carpentry workshops](http://www.datacarpentry.org/workshops-host/) and 
+- Developed criteria for [requirements for Data Carpentry workshops](http://www.datacarpentry.org/workshops-host/) and
 [self-organized](http://www.datacarpentry.org/self-organized-workshops/) workshops.  
-- Gave [presentations and wrote papers](https://www.zotero.org/groups/datacarpentry) on Data Carpentry and data skills for more 
+- Gave [presentations and wrote papers](https://www.zotero.org/groups/datacarpentry) on Data Carpentry and data skills for more
 effective and reproducible research.  
 
 

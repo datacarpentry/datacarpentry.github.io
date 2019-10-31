@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops", "Geospatial"]
 authors: ["Leah Wasser"]
 ---
 
@@ -223,9 +223,8 @@ Also check out our lessons on Time Series Data in R:
 
 ## A Personal Note
 
-I’d like to note that these lessons would not be possible without the help and support of all of the hackathon participants. Thank you all for your time in pulling the lessons together and providing feedback! 
+I’d like to note that these lessons would not be possible without the help and support of all of the hackathon participants. Thank you all for your time in pulling the lessons together and providing feedback!
 
 One last note:
 I'm so happy to be a part of the Carpentry community!
-I think it's a fantastically positive group and  look forward to teaching with other instructors in the future. 
-
+I think it's a fantastically positive group and  look forward to teaching with other instructors in the future.

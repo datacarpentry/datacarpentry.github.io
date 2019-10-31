@@ -9,7 +9,7 @@ categories:
     - blog  
 comments: true  
 show_meta: true  
-tags: [""]
+tags: ["Issue Bonanza", "Events"]
 authors: ["Erin Becker"]  
 redirect_from: /blog/genomics-bonanza-today/
 ---
@@ -23,13 +23,3 @@ Click [here](https://tinyurl.com/ycqf9l2a) to see the event start in your local 
 You can find more information, and sign up to participate, on the [event Etherpad](http://pad.software-carpentry.org/genomics-issue-bonanza).
 
 Please come join the fun and help get the Genomics materials ready for publication!
-
-
-
-
-
-
-
-
-
-

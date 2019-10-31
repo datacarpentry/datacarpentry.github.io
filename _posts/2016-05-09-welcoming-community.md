@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Inclusion", "Communications"]
 authors: ["Tracy Teal", "Jonah Duckles"]
 redirect_from: /blog/welcoming-community/
 ---

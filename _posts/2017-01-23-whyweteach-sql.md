@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Curriculum", "Motivation"]
 authors: ["Timothée Poisot"]
 redirect_from: /blog/whyweteach-sql/
 ---

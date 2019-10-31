@@ -9,15 +9,15 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Issue Bonanza"]
 authors: ["Erin Becker", "François Michonneau", "Tracy Teal"]
 redirect_from: /blog/ecology-issue-bonanza/
 ---
 
-We’re excited to announce our first lesson release! Data Carpentry is preparing to publish our Ecology workshop materials on 
-[Zenodo](https://zenodo.org/) this Spring. Software Carpentry regularly 
-[publishes their lessons](https://zenodo.org/communities/swcarpentry/) to provide stable identifiers for polished versions of the 
-lessons. This enables referenced discussions of the lesson materials and gives contributors a verifiable product to cite on their CVs 
+We’re excited to announce our first lesson release! Data Carpentry is preparing to publish our Ecology workshop materials on
+[Zenodo](https://zenodo.org/) this Spring. Software Carpentry regularly
+[publishes their lessons](https://zenodo.org/communities/swcarpentry/) to provide stable identifiers for polished versions of the
+lessons. This enables referenced discussions of the lesson materials and gives contributors a verifiable product to cite on their CVs
 or resumes.  
 
 This lesson release will include the following repos:  
@@ -29,7 +29,7 @@ This lesson release will include the following repos:
 - [Ecology Python Lesson](https://github.com/datacarpentry/python-ecology-lesson/)  
 
 # Get involved!  
-If you’ve made a contribution to one of the Data Carpentry Ecology lessons, you’re already an author. Help make sure the final product 
+If you’ve made a contribution to one of the Data Carpentry Ecology lessons, you’re already an author. Help make sure the final product
 is polished and complete by getting involved in the lesson release events.  
 
 # How does the lesson release process work?   
@@ -44,30 +44,28 @@ Here’s a run-down of the lesson release process and our timetable for this rel
 ## Issue Bonanza  
 **Thursday, March 16th 22:00 UTC - Friday, March 17th 22:00 UTC**   
 
-Click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Carpentry+Ecology+Issue+Bonanza&iso=20170317T08&p1=47&ah=23&am=55) 
+Click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Carpentry+Ecology+Issue+Bonanza&iso=20170317T08&p1=47&ah=23&am=55)
 to see the event in your local time.  
 
-Join the community in a hacky-day dedicated to creating issues and simple PRs for cleaning up the Ecology lessons. Issues to focus on 
-are in the [lesson release checklist](https://github.com/datacarpentry/lesson-release/blob/master/release-checklist.md). You don’t need to be an expert in the materials - we need people to help search for broken links 
-and typos too! We strongly encourage folks to form local or distributed working groups to catalyze activity. We’ll provide Etherpads and 
-BlueJeans rooms for you to join in the effort along with a checklist of the types of issues to look for. We’ll also send a packet of 
-Data Carpentry swag to any group of five or more who collectively create at least twenty meaningful issues. 
+Join the community in a hacky-day dedicated to creating issues and simple PRs for cleaning up the Ecology lessons. Issues to focus on
+are in the [lesson release checklist](https://github.com/datacarpentry/lesson-release/blob/master/release-checklist.md). You don’t need to be an expert in the materials - we need people to help search for broken links
+and typos too! We strongly encourage folks to form local or distributed working groups to catalyze activity. We’ll provide Etherpads and
+BlueJeans rooms for you to join in the effort along with a checklist of the types of issues to look for. We’ll also send a packet of
+Data Carpentry swag to any group of five or more who collectively create at least twenty meaningful issues.
 
-If you’re planning on joining the Issue Bonanza - add your name to the [event Etherpad](http://pad.software-carpentry.org/ecology-issue-bonanza). Stay tuned for updates about Bonanza events and 
+If you’re planning on joining the Issue Bonanza - add your name to the [event Etherpad](http://pad.software-carpentry.org/ecology-issue-bonanza). Stay tuned for updates about Bonanza events and
 how to organize your working group!  
 
 ## Bug BBQ  
 **Thursday, April 6th, 22:00 UTC - Friday, April 7th, 22:00 UTC**  
 
-Click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Carpentry+Ecology+Bug+BBQ&iso=20170407T08&p1=47&ah=23&am=55) 
+Click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Carpentry+Ecology+Bug+BBQ&iso=20170407T08&p1=47&ah=23&am=55)
 to see the event in your local time.  
 
-Our Issue Bonanza will help us identify issues that need fixing before publication. Once we know what those issues are, the next step is 
-to fix them! Join with the community to submit PRs to fix existing issues and get us ready to publish. We’ll provide Etherpads and 
-BlueJeans rooms for you to work with your community members and will be sending out swag to the groups or individuals who submit the 
+Our Issue Bonanza will help us identify issues that need fixing before publication. Once we know what those issues are, the next step is
+to fix them! Join with the community to submit PRs to fix existing issues and get us ready to publish. We’ll provide Etherpads and
+BlueJeans rooms for you to work with your community members and will be sending out swag to the groups or individuals who submit the
 most merged PRs. Keep an eye open for more information about the Bug BBQ!  
 
-We’re excited to work with the community to push out or first lesson release. Put these dates on your calendar, and we’ll send out 
+We’re excited to work with the community to push out or first lesson release. Put these dates on your calendar, and we’ll send out
 reminders and updates too. These lessons belong to the community - help us keep them great!
-
-

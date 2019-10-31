@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Collaboration", "Curriculum"]
 authors: ["Zack Brym"]
 redirect_from: /blog/course-collaboration/
 ---
@@ -22,7 +22,7 @@ My first encounter with the Carpentry community was early in my PhD training,
 understanding of computer programming was an important part of a strong career
 in science. What I didn't expect was to get inspired by a community of
 scientists and teachers that promotes openness and collaboration throughout
-their work. 
+their work.
 
 Fast forward to the present... having just accepted my first faculty position
 in agroecology (read, big data scientist in agriculture), I am very glad that I
@@ -35,7 +35,7 @@ labs. There is something about engaging students in the learning process and
 giving them an opportunity to explore the lesson material. Insightfully, the
 Carpentry community elevated this active-learning process to include their
 instructors who are empowered to contribute to the [collaborative development of
-open source lesson materials][collaborative-dev]. For new instructors and 
+open source lesson materials][collaborative-dev]. For new instructors and
 veteran Carpentry community members alike, now's an exciting time to be
 involved.
 
@@ -46,14 +46,14 @@ It doesn't take much to get involved. Instructors and students are encouraged to
 [provide feedback][feedback-contribute] for the course to help improve the content and clarity of the existing curriculum. Instructors are also welcome to
 [fork the course][fork-our-course] and use the general site structure and
 templates to develop their own course and expand the domains represented by the
-Carpentry community resources. 
+Carpentry community resources.
 
 To get the collaborative course development rolling, instructors are encouraged
 to [contribute][feedback-contribute] exercises and lessons that can be used to
 customize the existing course structure to specific needs of various classes and
 programs. We use a ['reverse instructional design'][lesson-training] to develop
 our course materials and the exercises are the heart of that approach. Strong
-exercises clearly direct the instructional materials to be presented, facilitate 
+exercises clearly direct the instructional materials to be presented, facilitate
 practice of the material, and assess learning.
 
 The Carpentry community continues to grow and we are excited for your
