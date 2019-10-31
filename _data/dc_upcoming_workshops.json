@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Janet Stacey,Kim Tung Nguyen,Kate Stevenson",
-    "end_date": "2019-10-30",
-    "url": "https://chrstraub.github.io/2019-10-29-ESR_MASC/",
-    "country": "NZ",
-    "curriculum": "dc-ecology-r",
-    "venue": "ESR Mt. Albert",
-    "longitude": 174.726206,
-    "slug": "2019-10-29-ESR_MASC",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "The Institute of Environmental Science and Research",
-    "latitude": -36.891357,
-    "start_date": "2019-10-29"
-  },
-  {
-    "instructors": "Juan Herrera",
-    "end_date": "2019-10-30",
-    "url": "https://hpcarcher.github.io/2019-10-29-cardiff/",
-    "country": "GB",
-    "curriculum": "dc-ecology-r",
-    "venue": "ARCHER-SSI Data Carpentry at Cardiff University",
-    "longitude": -3.18543,
-    "slug": "2019-10-29-cardiff",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "ARCHER",
-    "latitude": 51.49191,
-    "start_date": "2019-10-29"
-  },
-  {
     "instructors": "Jamie Jamison,Kunal Marwaha",
     "end_date": "2019-11-06",
     "url": "https://marwahaha.github.io/2019-11-05-BPT/",
@@ -90,6 +60,21 @@
     "start_date": "2019-11-14"
   },
   {
+    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte",
+    "end_date": "2019-11-15",
+    "url": "https://taylorpaisie.github.io/2019-11-14-uf-intro-to-genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UF Informatics Institute",
+    "longitude": -82.344092,
+    "slug": "2019-11-14-uf-intro-to-genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 29.648292,
+    "start_date": "2019-11-14"
+  },
+  {
     "instructors": "Matt Bixley",
     "end_date": "2019-11-21",
     "url": "https://otagocarpentries.github.io/2019-11-20-wellington",
@@ -103,6 +88,21 @@
     "host_name": "University of Otago",
     "latitude": -41.31058,
     "start_date": "2019-11-20"
+  },
+  {
+    "instructors": "Karl Benedict,Mark Servilla,Renee Brown",
+    "end_date": "2019-11-23",
+    "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of New Mexico",
+    "longitude": -106.620998,
+    "slug": "2019-11-22-unm",
+    "tag_name": "DC",
+    "helpers": "Jon Wheeler",
+    "host_name": "University of New Mexico",
+    "latitude": 35.08474,
+    "start_date": "2019-11-22"
   },
   {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
@@ -120,6 +120,21 @@
     "start_date": "2019-11-25"
   },
   {
+    "instructors": "Claire Curry,Katy Felkner",
+    "end_date": "2019-11-26",
+    "url": "http://oulib-swc.github.io/2019-11-25-ou-dc",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445845,
+    "slug": "2019-11-25-ou-dc",
+    "tag_name": "DC",
+    "helpers": "Traci DuBose,Jim Ferguson,Mahbobeh Lesani,Amanda Schilling",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
+    "start_date": "2019-11-25"
+  },
+  {
     "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
@@ -133,6 +148,21 @@
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-12-16"
+  },
+  {
+    "instructors": "Toby Hodges,Florian Huber,Fotis Psomopoulos",
+    "end_date": "2020-01-30",
+    "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
+    "country": "DE",
+    "curriculum": "dc-ecology-r",
+    "venue": "EMBL",
+    "longitude": 8.709467,
+    "slug": "2020-01-28-heidelberg",
+    "tag_name": "DC",
+    "helpers": "Malvika Sharan,Georg Zeller,Thea Van Rossum",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384151,
+    "start_date": "2020-01-28"
   },
   {
     "instructors": "Damien Irving,Holger Wolff",

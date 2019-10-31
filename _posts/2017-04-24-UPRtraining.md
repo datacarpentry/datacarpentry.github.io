@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Instructor Development", "Latin America", "Workshops"]
 authors: [Rayna Harris, Sue McClatchy, Tracy Teal]
 redirect_from: /blog/UPRtraining/
 ---

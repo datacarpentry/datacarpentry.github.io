@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Feedback","Assessment", "Report"]
 authors: ["Erin Becker"]
 redirect_from: /blog/maintainer-report/
 ---

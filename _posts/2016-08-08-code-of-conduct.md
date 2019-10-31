@@ -9,12 +9,12 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Community", "Code of Conduct", "Feedback"]
 authors: ["Erin Becker"]
 redirect_from: /blog/code-of-conduct/
 ---
 
-The Carpentries are proud to share a common Code of Conduct (CoC), which outlines acceptable standards of behavior for our community members and those interacting with the Carpentries at in-person events and online spaces. Historically, however, we have not had an official process for reporting potential Code of Conduct violations or for adjudication and resolution of reported incidents. Thanks to input from our community, we recognize that defining these procedures is an important step in ensuring that any such issues are dealt with transparently in order to keep our community welcoming and safe for all. 
+The Carpentries are proud to share a common Code of Conduct (CoC), which outlines acceptable standards of behavior for our community members and those interacting with the Carpentries at in-person events and online spaces. Historically, however, we have not had an official process for reporting potential Code of Conduct violations or for adjudication and resolution of reported incidents. Thanks to input from our community, we recognise that defining these procedures is an important step in ensuring that any such issues are dealt with transparently in order to keep our community welcoming and safe for all. 
 
 Members of the Carpentry Steering Committees and staff have been working on defining these policies, and have put together a Reporting Guide and Enforcement Manual for handling potential CoC violations. These documents are based on valuable insights gained from previous community discussions of this issue (especially [here](https://github.com/swcarpentry/board/issues/114) and [here](https://github.com/swcarpentry/board/issues/111)). While we have made every effort to represent the views voiced in these discussions, ultimately, the CoC impacts every member of our community. To ensure that these policies meet the community's needs, we would like your input. 
 

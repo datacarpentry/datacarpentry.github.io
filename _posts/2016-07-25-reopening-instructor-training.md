@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Instructor Development"]
 authors: ["Greg Wilson"]
 redirect_from: /blog/reopening-instructor-training/
 ---
@@ -26,11 +26,11 @@ for its instructor training program:
 
 They have made a lot of progress on all three,
 and are therefore now able to offer instructor training once again
-to people who aren't affiliated with our partner organizations,
+to people who aren't affiliated with our partner organisations,
 but would like to teach Data Carpentry, Software Carpentry, or both
-(as the course is shared by both organizations).
+(as the course is shared by both organisations).
 If you wish to apply to take part
-in one of the two open-enrollment classes they will offer this fall,
+in one of the two open-enrolment classes they will offer this fall,
 please fill in the form at:
 
 <https://amy.software-carpentry.org/workshops/request_training/>
@@ -45,9 +45,9 @@ please mail
 
 If you would like to accelerate the process,
 check out our [Partnership program](http://www.datacarpentry.org/partnerships/).
-Organizational partners make ongoing commitments to supporting our organization
-and are prioritized for instructor training.
-If you need help making the case at your organization,
+Organisational partners make ongoing commitments to supporting our organisation
+and are prioritised for instructor training.
+If you need help making the case at your organisation,
 please [mail us](mailto:partnerships@software-carpentry.org):
 we'd be happy to chat.
 
