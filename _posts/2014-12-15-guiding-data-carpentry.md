@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Data Carpentry"]
+tags: [""]
 authors: ["Tracy Teal"]
 redirect_from: /blog/guiding-data-carpentry/
 ---
