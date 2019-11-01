@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Version Control"]
+tags: ["Skillshare"]
 authors: ["Jeff Oliver"]
 redirect_from: /blog/oliver-fave/
 ---
