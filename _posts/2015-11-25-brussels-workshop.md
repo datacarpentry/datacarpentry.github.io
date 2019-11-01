@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Europe", "Data Carpentry", "Workshops"]
 authors: ["Tracy Teal"]
 ---
 

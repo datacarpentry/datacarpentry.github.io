@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops", "Data Carpentry", "FastTrack Application"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/fasttrack/
 ---
