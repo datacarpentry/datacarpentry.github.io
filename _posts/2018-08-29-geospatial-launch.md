@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Geospatial", "Workshops"]
+tags: ["Workshops"]
 authors: ["Erin Becker"]
 ---
 
