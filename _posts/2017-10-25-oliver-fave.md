@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Version Control", "Data Carpentry"]
+tags: ["Version Control"]
 authors: ["Jeff Oliver"]
 redirect_from: /blog/oliver-fave/
 ---
