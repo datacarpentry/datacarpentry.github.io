@@ -10,7 +10,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Communications"]
+tags: ["Communications", "Workshops"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/workshop-fees/
 ---
