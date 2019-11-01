@@ -9,20 +9,20 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Community", "USA"]
 authors: ["Lauren Michael"]
 redirect_from: /blog/uwcommunity/
 ---
 
-I am so thrilled that we have been asked to comment on our growing 
+I am so thrilled that we have been asked to comment on our growing
 [Software and Data Carpentry community](https://aci.wisc.edu/data-software-carpentry-workshops/) at the University of Wisconsin-Madison.
 While I initially joined the greater Software Carpentry community as part of my ongoing role in providing local workshops
-(four years ago!), I must say that I’ve been happy to contribute back, well outside of my typical work week. 
+(four years ago!), I must say that I’ve been happy to contribute back, well outside of my typical work week.
 These organizations do so much for the UW-Madison campus, as does our local community of ‘Carpentry’ enthusiasts.  
 
-In this second week of January 2017, we’re teaching 
+In this second week of January 2017, we’re teaching
 [our 12th Software Carpentry (SC) workshop](https://uw-madison-aci.github.io/2017-01-12-uwmadison/) since early 2013 and our
-[4th Data Carpentry (DC) workshop](https://uw-madison-aci.github.io/2017-01-10-uwmadison/) since summer 2015, with roughly 
+[4th Data Carpentry (DC) workshop](https://uw-madison-aci.github.io/2017-01-10-uwmadison/) since summer 2015, with roughly
 20 instructors and helpers, almost all of whom donate their time! As a result of prior ties with SC-extraordinaire Greg Wilson,
 we actually began cultivating this local group of enthusiasts when we ran more casual “boot camps” of test curricula even before
 Software Carpentry got it’s name. It was that early enthusiasm, and the successful leadership of individuals like Greg Wilson,
@@ -46,15 +46,15 @@ The two primary practices that have worked in developing the interest and contri
 all members to contribute to our goals and work, and  
 2. invite gradual escalation of contribution by each member, within their comfort zone.   
 
-As a prominent example of the second point, our unofficial cultural expectation within our community is that everyone serve 
+As a prominent example of the second point, our unofficial cultural expectation within our community is that everyone serve
 as a workshop helper, when available, and that anyone wanting to instruct is expected to have prominently helped at one or more
 prior workshops. Given that we have several certified instructors, we can allow non-certified community members to try instructing
 while still providing a ton of support from those who are more experienced and have gone through
 [Instructor Training](https://swcarpentry.github.io/instructor-training/). This advantage of having a local community lowers
-the barrier to entry as a workshop instructor. (Of course, all of our members who were available were ecstatic to attend our 
+the barrier to entry as a workshop instructor. (Of course, all of our members who were available were ecstatic to attend our
 first on-site Instructor Training in fall 2016!!)  
 
-On the first point, our two main organizers have gradually given more work to members with each workshop we offer, 
+On the first point, our two main organizers have gradually given more work to members with each workshop we offer,
 by even increasing their roles in logistics planning, mentoring each other, and leading sub-projects that complement our workshops.
 Our first Data Carpentry workshop, for example, was made much easier when our members leveraged their professional networks to gather
 help from instructors on- and off-campus with relevant experience in DC topics. We are also finding that our members are interested
@@ -65,7 +65,7 @@ to impact how we execute our workshops. It also allows us to extend #1, above, t
 When your instructors and helpers reflect on workshops and how to make them more effective, find ways to channel that energy
 into benefits to your local community and to the greater Software Carpentry community. In an earlier time when very few institutions
 taught and regularly contributed to the Software Carpentry curriculum, we encouraged our members interests in holding hackathons,
-at that time, and continued to develop and teach some older curricula even after Software Carpentry made its first major change 
+at that time, and continued to develop and teach some older curricula even after Software Carpentry made its first major change
 to more-novice materials in early 2014. Why fall a bit behind the SC standard? Because it kept our instructors and helpers motivated,
 kept our curriculum fresh, and allowed us to contribute more insights to Software Carpentry’s new (2014) materials when we did
 transition to it in 2015.  
@@ -82,11 +82,7 @@ are invested in the cause.
 We may have had a unique start to our local community years ago, but the methods above truly reflect what keeps
 our Carpentry community effective and productive, with members who keep coming back to continually improve our workshops
 and to contribute to the greater community. That said, we are far from perfect, and there are likely additional strategies
-that we’d love to learn about from other sites. We’re also happy to discuss the activities of our local community more, 
-should anyone like to get in touch, and hope that this blog post helps with our goal of being more formally involved in the 
+that we’d love to learn about from other sites. We’re also happy to discuss the activities of our local community more,
+should anyone like to get in touch, and hope that this blog post helps with our goal of being more formally involved in the
 international Carpentry communities. Please feel free to write to us (swc-dc-help-AT-lists.wisc.edu) or to me, directly, if you’d like
 to get in touch (lmichael-AT-wisc.edu).  
-
-
-
-

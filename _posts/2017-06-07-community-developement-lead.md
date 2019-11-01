@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Jobs", "Administration"]
 authors: ["Jonah Duckles", "Tracy Teal"]
 redirect_from: /blog/community-developement-lead/
 ---

@@ -9,24 +9,24 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Community", "Skillshare"]
 authors: ["Erin Becker"]
 redirect_from: /blog/intro-data-in-field/
 ---
 
 
-Data Carpentry learners and instructors come from a variety of backgrounds and research disciplines. Many of us, myself included, 
-don’t think of ourselves as “computer people.” We’re here because, at some point in our career, we found ourselves doing repetitive 
-and error-prone computational tasks by hand when someone looked over our shoulder and said 
-“Why on earth are you doing it **like that**!?” This person may then have leaned over our keyboard, 
-typed for a few minutes, and finished the work that would have taken us the rest of the day. At least in my case, 
+Data Carpentry learners and instructors come from a variety of backgrounds and research disciplines. Many of us, myself included,
+don’t think of ourselves as “computer people.” We’re here because, at some point in our career, we found ourselves doing repetitive
+and error-prone computational tasks by hand when someone looked over our shoulder and said
+“Why on earth are you doing it **like that**!?” This person may then have leaned over our keyboard,
+typed for a few minutes, and finished the work that would have taken us the rest of the day. At least in my case,
 this happened routinely, every time a certain person happened to walk past my work station, until it eventually became
-more work to try to justify my process (“But I only have to do this *once*”. I’d say) than to capitulate and try to learn the 
+more work to try to justify my process (“But I only have to do this *once*”. I’d say) than to capitulate and try to learn the
 computer magic.  
 
 
 That’s not to say that learning these skills was easy or fast, or that I feel proficient in many of them even years later. But once
-I committed to trying (mostly to avoid those annoying conversations) I started noticing that these dull, monotonous tasks could be 
+I committed to trying (mostly to avoid those annoying conversations) I started noticing that these dull, monotonous tasks could be
 minimized and yes, some of them could even be fun. And of course, as it turns out, you hardly ever have to do anything only once.  
 
 
@@ -40,7 +40,7 @@ that you do efficient and reproducible.
 We’re excited to learn about how the diverse members of our community use computational tools, particularly those in the
 [Data Carpentry curriculum](http://www.datacarpentry.org/lessons/), in their daily work. The Data Carpentry blog will be running
 a new series titled “Data in the Field” to highlight the many ways in which our community members integrate
-[“good enough” practices](https://arxiv.org/abs/1609.00037) for data management and analysis into their research. 
+[“good enough” practices](https://arxiv.org/abs/1609.00037) for data management and analysis into their research.
 
 Stay tuned for posts in this series every Monday. Upcoming contributors include:  
 - Naupaka Zimmerman, Asst. Professor of Biology at University of San Francisco  
@@ -75,5 +75,3 @@ to learn soon? More broadly, how do you plan on continuing to improve your skill
 
 **What advice do you have for new learners?** What do you wish someone had told you when you first started learning how to use these
 sorts of computational tools in your work? Do you have any words of wisdom?  
-
-

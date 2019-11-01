@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Instructor Development"]
 authors: ["Belinda Weaver", "Erin Becker"]
 
 redirect_from: /blog/new-trainer-cohort/

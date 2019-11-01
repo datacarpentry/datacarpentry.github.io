@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Workshops", "Reports"]
 authors: [Mateusz Kuzak]
 redirect_from: /blog/amsterdam-genomics/
 ---

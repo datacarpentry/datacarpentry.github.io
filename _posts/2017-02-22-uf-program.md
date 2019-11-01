@@ -2,14 +2,14 @@
 layout: post
 subheadline: "Building Community"  
 title: A Year to Build a Software and Data Carpentry Community at the University of Florida - The Impact of a Local Instructor Training Workshop on Building Computing Capacity
-teaser: 
+teaser:
 header:
   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Community", "USA"]
 authors: ["Matthew Collins", "François Michonneau", "Brian Stucky", "Ethan White"]
 date: 2017-02-27
 redirect_from: /blog/uf-program/
@@ -31,13 +31,13 @@ faculty. The participants received training in programming languages like R and
 Python, version control with Git and GitHub, SQL database queries, OpenRefine,
 and Excel spreadsheets.
 
-<div style="text-align:center"> 
-<img src="{{ site.urlimg }}/blog/bar_participants_affiliations.png" width="400px" 
-style="display:inline-block;margin-left:auto;margin-right: auto" /> 
+<div style="text-align:center">
+<img src="{{ site.urlimg }}/blog/bar_participants_affiliations.png" width="400px"
+style="display:inline-block;margin-left:auto;margin-right: auto" />
 <img src="{{site.urlimg }}/blog/wordcloud_participants_departments.png" width="400px"
 style="display:inline-block;margin-left:auto;margin-right: auto" />
 <br />
-<em style="font-size:80%">Graph of participants’ status at UF and word cloud of 
+<em style="font-size:80%">Graph of participants’ status at UF and word cloud of
 departments our participants hail from (<a href="https://www.jasondavies.com/wordcloud/">
 https://www.jasondavies.com/wordcloud/</a>)</em>
 </div>
@@ -129,21 +129,21 @@ maintaining volunteers’ motivation and momentum. We didn’t plan these in adv
 but now that we have them in place, we recognize them as the reasons we can
 continue to keep our community engaged and excited about putting on workshops.
 
-1. **Instructor density** - have enough instructors to get 3-6 people at each 
-workshop without burdening anyone’s schedule 
-1. **Instructor cohesion** - just like we suggest learners attend workshops with 
-a buddy, instructors who come to the instructor training from the same 
-department or discipline immediately make their own community of practice 
-1. **Instructor mentorship** - a core group of senior instructors to guide 
+1. **Instructor density** - have enough instructors to get 3-6 people at each
+workshop without burdening anyone’s schedule
+1. **Instructor cohesion** - just like we suggest learners attend workshops with
+a buddy, instructors who come to the instructor training from the same
+department or discipline immediately make their own community of practice
+1. **Instructor mentorship** - a core group of senior instructors to guide
 initial workshops (note the plural) so new instructors can focus on the teaching
 experience without the logistical burdens
-1. **Professional staff** - find staff who organize workshops as part of their 
-job to share the overhead of coordinating logistics 
-1. **Institution-level support** - a single research lab or department doesn’t 
-have enough people to do this on its own, doing it for the whole institution 
-fits the needs of everyone and shares the work 
-1. **Follow-through** - have supporting events and communities available for 
-people to keep learning and keep their experience with the Carpentries fresh in 
+1. **Professional staff** - find staff who organize workshops as part of their
+job to share the overhead of coordinating logistics
+1. **Institution-level support** - a single research lab or department doesn’t
+have enough people to do this on its own, doing it for the whole institution
+fits the needs of everyone and shares the work
+1. **Follow-through** - have supporting events and communities available for
+people to keep learning and keep their experience with the Carpentries fresh in
 their minds when it comes time to look for more instructors and helpers
 
 
@@ -227,10 +227,10 @@ instructor community
 
 To continue the rest of the key parts of our success, we still need:
 
-1. A UF department or institute to adopt the goal of informatics capacity 
+1. A UF department or institute to adopt the goal of informatics capacity
 building for the UF community.
-1. An individual to be given the task of coordinating this goal across UF. 
-1. Continuous funding and resources to provide for a pipeline of people capable 
+1. An individual to be given the task of coordinating this goal across UF.
+1. Continuous funding and resources to provide for a pipeline of people capable
 of meeting this goal.
 
 We believe UF has a unique opportunity to create a sustainable effort that cuts

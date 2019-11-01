@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Workshops", "Data Carpentry", "FastTrack Application"]
+tags: ["Communications", "Instructor Development"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/fasttrack/
 ---

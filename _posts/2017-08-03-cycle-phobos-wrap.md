@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Administration"]
 authors: ["Carpentry Staff"]
 redirect_from: /blog/cycle-phobos-wrap/
 ---
@@ -31,7 +31,7 @@ If you are interested in getting involved with our assessment efforts, you're in
 ## Data Carpentry Genomics Lesson Release
 
 **What did we do?**
-To ready the Data Carpentry Genomics lesson for release, we put out a call and were [overwhelmed with volunteers](http://www.datacarpentry.org/blog/genomics-interest/). To plan the work, we created guidelines for both lesson maintainers and the lesson advisory committee. Then, to start the work, we ran a mini bug BBQ on the lessons at the recent [UC Davis instructor training event](https://dib-lab.github.io/2017-06-19-DIBSI-TTT/). The Genomics lessons are now all in the new workshop template, which involved combining some lessons (and retiring others) to create a coherent curriculum. We now have a [Genomics workshop page](http://www.datacarpentry.org/genomics-workshop/) that links to the appropriate lessons. 
+To ready the Data Carpentry Genomics lesson for release, we put out a call and were [overwhelmed with volunteers](http://www.datacarpentry.org/blog/genomics-interest/). To plan the work, we created guidelines for both lesson maintainers and the lesson advisory committee. Then, to start the work, we ran a mini bug BBQ on the lessons at the recent [UC Davis instructor training event](https://dib-lab.github.io/2017-06-19-DIBSI-TTT/). The Genomics lessons are now all in the new workshop template, which involved combining some lessons (and retiring others) to create a coherent curriculum. We now have a [Genomics workshop page](http://www.datacarpentry.org/genomics-workshop/) that links to the appropriate lessons.
 
 **How can you help?**
 We welcome feedback on the changes made. We encourage instructors to teach the lesson and report back on how it went. We welcome further changes and suggestions for improvement.
@@ -39,10 +39,10 @@ We welcome feedback on the changes made. We encourage instructors to teach the l
 ## Recruit New Trainers  
 
 **What did we do?**
-To help meet the ever-growing demand for instructor training, we put out a call for new trainers. From the 39 applications we received, 15 new trainees were accepted. They began their eight-week ‘Train the Trainer’ program in early July and should finish soon. Thanks to the Trainers who helped design the application form and assisted with candidate selection. 
+To help meet the ever-growing demand for instructor training, we put out a call for new trainers. From the 39 applications we received, 15 new trainees were accepted. They began their eight-week ‘Train the Trainer’ program in early July and should finish soon. Thanks to the Trainers who helped design the application form and assisted with candidate selection.
 
 **How can you help?**
-We want to keep building our Trainer group. We hope to open a new round of applications sometime between September and December this year. When the call goes out, please help us spread the word. If you are already an instructor, consider becoming a Trainer. 
+We want to keep building our Trainer group. We hope to open a new round of applications sometime between September and December this year. When the call goes out, please help us spread the word. If you are already an instructor, consider becoming a Trainer.
 
 ## Open Instructor Training  
 
@@ -62,4 +62,3 @@ Join us for the [Bug BBQ](http://www.datacarpentry.org/blog/bug-bbq/). Help is w
 
 ## Our next cycle - Cycle Ganymede - July 31st through September 22nd  
 Stay tuned for an announcement of what's coming up! As always, if there's something you're excited about and would like to see, post your idea to our [Conversations repo](https://github.com/carpentries/conversations/issues) or [get in touch](mailto:bweaver@carpentries.org).
-

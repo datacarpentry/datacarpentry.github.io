@@ -9,11 +9,11 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Inclusion", "Instructor Development"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/growth-mindset/
 ---
-Each of us is born with a unique set of interests. Along the way we develop beliefs about our interests, and those beliefs determine whether we choose to cultivate our interests as we progress through adulthood. 
+Each of us is born with a unique set of interests. Along the way we develop beliefs about our interests, and those beliefs determine whether we choose to cultivate our interests as we progress through adulthood.
 
 
 For example, I think I’m a pretty “okay” singer, but I’ve always wanted to be a dynamic performer and sing in front of large audiences. Therefore, I learned to read music, joined several choruses and ensembles over the years, and frequently sing karaoke. I even auditioned for the American television series [The Voice](http://www.nbc.com/the-voice)!

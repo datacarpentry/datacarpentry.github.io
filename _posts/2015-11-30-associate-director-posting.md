@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Hiring", "Data Carpentry"]
+tags: ["Jobs"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/associate-director-posting/
 ---
