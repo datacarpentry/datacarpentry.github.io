@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Community", "Meetups"]
+tags: ["Community", "Events"]
 authors: ["Belminda Weaver"]
 redirect_from: /blog/teal-scipy/
 ---

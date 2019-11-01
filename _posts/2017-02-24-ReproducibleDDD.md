@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Hackathon"]
+tags: ["Events"]
 authors: ["Rayna Harris"]
 redirect_from: /blog/ReproducibleDDD/
 ---

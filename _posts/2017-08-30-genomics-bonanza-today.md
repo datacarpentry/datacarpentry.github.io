@@ -9,7 +9,7 @@ categories:
     - blog  
 comments: true  
 show_meta: true  
-tags: ["Issue Bonanza", "Events"]
+tags: ["Bug BBQ", "Events", "Carpentries Lessons"]
 authors: ["Erin Becker"]  
 redirect_from: /blog/genomics-bonanza-today/
 ---

@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Hackathon", "Events"]
+tags: ["Events"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/genomics-hackathon/
 ---

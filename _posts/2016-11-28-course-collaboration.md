@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Collaboration", "Curriculum"]
+tags: ["Collaborations", "Curriculum"]
 authors: ["Zack Brym"]
 redirect_from: /blog/course-collaboration/
 ---

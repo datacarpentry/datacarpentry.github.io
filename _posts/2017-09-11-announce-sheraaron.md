@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Staff"]
+tags: ["Carpentries Team"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/announce-sheraaron/
 ---
