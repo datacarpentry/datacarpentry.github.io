@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Geospatial", "Data Carpentry", "Workshops"]
+tags: ["Geospatial", "Workshops"]
 authors: ["Erin Becker"]
 ---
 
