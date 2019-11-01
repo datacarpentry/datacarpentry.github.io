@@ -3,3 +3,4 @@ _site
 _data/amy.yml
 *~
 /Gemfile.lock
+.DS_Store
