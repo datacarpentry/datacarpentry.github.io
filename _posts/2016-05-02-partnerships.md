@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Communications", "Collaborations"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/partnerships/
 ---

@@ -1,14 +1,14 @@
 ---
 layout: post
-tags: [""]
+tags: ["Bug BBQ", "Events", "Genomics", "Carpentries Lessons"]
 authors: ["Tracy Teal"]
 subheadline:
 title: "Genomics Bug BBQ"
 teaser: "Working to update the Genomics lessons"
 date: 2017-09-18
-header: 
+header:
    image_fullwidth: "light-blue-wood-texture.jpg"
-categories: 
+categories:
   - blog
 show_meta: true
 comments: true

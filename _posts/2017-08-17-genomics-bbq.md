@@ -9,7 +9,7 @@ categories:
     - blog  
 comments: true  
 show_meta: true  
-tags: [""]
+tags: ["Bug BBQ", "Genomics"]
 authors: ["Erin Becker"]  
 redirect_from: /blog/genomics-bbq/
 ---
@@ -19,7 +19,7 @@ A massive reorganization of the materials is underway, splitting the workshop in
 and the other including a variant-calling workflow. A host of folks have volunteered to serve as Maintainers for the revamped
 lessons, and others have joined a Curriculum Advisory Committee to provide high-level guidance on the workshop as a whole.   
 
-There's still a lot of work to do! It's all hands on deck for reorganizing the materials, and making sure they're up to date and 
+There's still a lot of work to do! It's all hands on deck for reorganizing the materials, and making sure they're up to date and
 clear before our first Genomics lesson release. Please help out however you can. You don't need to be a Genomics expert to contribute;
 we need folks to check for broken links and typos too!  
 

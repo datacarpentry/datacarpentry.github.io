@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Communications"]
 authors: ["Karen Cranston"]
 redirect_from: /blog/reproducible-research-curriculum/
 ---

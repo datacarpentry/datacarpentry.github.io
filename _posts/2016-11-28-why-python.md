@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline: "Why we teach what we teach"
-tags: [""]
+tags: ["Curriculum"]
 authors: ["April Wright"]
 title: "The Python ecology lessons"
 teaser: ""
@@ -23,7 +23,7 @@ A lot of what are now the Python materials came out of a Data Carpentry Hackatho
 
 Way back in those days, the materials were a lot more information dense, and lacked a real narrative threading through. In practice, that set of lessons was probably better for self-guided learning than classroom practice.
 
-The current generation materials strikes a better balance: there is enough content in the lessons that you absolutely can go through them on your own, or with a small group, without an instructor. But we've also developed a better narrative for the lessons by using an empirical ecological dataset ([Ernst et al. 2009](http://www.esapubs.org/archive/ecol/E090/118/default.htm)). 
+The current generation materials strikes a better balance: there is enough content in the lessons that you absolutely can go through them on your own, or with a small group, without an instructor. But we've also developed a better narrative for the lessons by using an empirical ecological dataset ([Ernst et al. 2009](http://www.esapubs.org/archive/ecol/E090/118/default.htm)).
 
 ## Why we teach what we teach
 
@@ -35,7 +35,7 @@ From there, we get more into the nitty-gritty. How do I subset my data? How can 
 
 There are a few immediate things that are on my TODO, for now. If you're a new instructor looking to make your check-out PR, any of these things would be great.
 
-+ One issue with the Python lessons is that they get taught less frequently than the R lessons, so we get less feedback. If you're using the Python lessons, even in self-guided study or for onboarding undergraduates in your lab (which is how I use them on a regular basis), I'd love to hear from you. More feedback will help us improve our materials. 
++ One issue with the Python lessons is that they get taught less frequently than the R lessons, so we get less feedback. If you're using the Python lessons, even in self-guided study or for onboarding undergraduates in your lab (which is how I use them on a regular basis), I'd love to hear from you. More feedback will help us improve our materials.
 + Checking over the later lessons. The early lessons ([Short Introduction to Python](http://www.datacarpentry.org/python-ecology-lesson/00-short-introduction-to-Python), [Starting With Data](http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data)) get a lot of love from new instructors, but the later lessons that build on them don't get nearly as much attention. Additional eyes checking them for errors would be great.
 + Improvements to the [instructor's guide](https://github.com/datacarpentry/python-ecology-lesson/blob/gh-pages/INSTRUCTORS.md). This is new, and for some of the exercises, there are mutliple possible solutions.
 + Adaptation of the materials to other contexts. We occasionally get pull requests that reflect a different knowledge base from the average ecologist, and the lessons are starting to get overfull. If you do genomics, or behavior, or whatever your discipline is and want to chat about adapting the materials, do get in touch. We have a really great community and we can probably find someone to work with you.

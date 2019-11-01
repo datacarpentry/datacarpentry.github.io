@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Jobs"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/assessment-director-posting/
 ---

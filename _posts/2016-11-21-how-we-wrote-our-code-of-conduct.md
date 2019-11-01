@@ -9,35 +9,35 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Code of Conduct", "Community"]
 authors: ["Erin Becker"]
 redirect_from: /blog/how-we-wrote-our-code-of-conduct/
 ---
 
 
-Codes of Conduct are important because they define behavior expectations for a community and encourage positive relationships, 
-and because of their importance, care must be taken when they are being developed. Defining the standards to which people will be 
-held when they act as part of a community is inherently difficult. Everyone has slightly (or sometimes radically) different ideas 
-about what counts as acceptable behavior, and most people are surprised that their idea of “acceptable” isn’t shared by all. 
-On the other hand, some people reject the notion that any (legal) behavior should preclude them from being part of a community. 
-In a group like the Carpentry community, with a fluid membership and a culture of co-operative, consensus based decision-making, 
-the development of these standards must be a community process that can handle this complexity. How does this collective ‘you’ 
-decide on behavioral rules for the community that reflect the diverse voices present? And how does this ‘you’ balance the need 
+Codes of Conduct are important because they define behavior expectations for a community and encourage positive relationships,
+and because of their importance, care must be taken when they are being developed. Defining the standards to which people will be
+held when they act as part of a community is inherently difficult. Everyone has slightly (or sometimes radically) different ideas
+about what counts as acceptable behavior, and most people are surprised that their idea of “acceptable” isn’t shared by all.
+On the other hand, some people reject the notion that any (legal) behavior should preclude them from being part of a community.
+In a group like the Carpentry community, with a fluid membership and a culture of co-operative, consensus based decision-making,
+the development of these standards must be a community process that can handle this complexity. How does this collective ‘you’
+decide on behavioral rules for the community that reflect the diverse voices present? And how does this ‘you’ balance the need
 to provide clear boundaries without writing a comprehensive rule book?  
 
 
 The Code of Conduct has always been important to the Carpentries, but a
-few incidents this past spring made it evident that we needed clearer 
+few incidents this past spring made it evident that we needed clearer
 guidelines and processes for handling incidents. There was significant discussion around
 these issues and some community members were also concerned about the way incidents were
-handled, calling for a closer look at how reports of Code of Conduct violations are 
+handled, calling for a closer look at how reports of Code of Conduct violations are
 adjudicated and what sorts of penalties are appropriate.  
 
 
-In response to this community conversation ([here](https://github.com/swcarpentry/board/issues/111), 
-[here](https://github.com/swcarpentry/board/issues/114), [here](https://github.com/swcarpentry/board/pull/115) 
-and [here](https://github.com/swcarpentry/board/pull/116)), Software and Data Carpentry staff began looking into 
-both how to improve the wording of our Code of Conduct to more clearly communicate our community standards, and how 
+In response to this community conversation ([here](https://github.com/swcarpentry/board/issues/111),
+[here](https://github.com/swcarpentry/board/issues/114), [here](https://github.com/swcarpentry/board/pull/115)
+and [here](https://github.com/swcarpentry/board/pull/116)), Software and Data Carpentry staff began looking into
+both how to improve the wording of our Code of Conduct to more clearly communicate our community standards, and how
 to make sure our process for handling reported violations is fair and in line with our community’s needs.  
 
 

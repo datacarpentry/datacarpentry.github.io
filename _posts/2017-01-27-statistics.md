@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Skillshare"]
 authors: ["Susan J. Simmons, NCSU Analytics", "Ann E. Stapleton, UNCW Biology"]
 redirect_from: /blog/statistics/
 ---
@@ -19,31 +19,31 @@ We’d like to talk about our experiences working together as a domain scientist
 When we say working together, we mean that we collaborate in the best sense -- we each bring our strengths and those strengths
 are complementary.  We have some suggestions for you as you get started.  First, the domain scientist should look at how statistics
 is organized at their institution.  Does your university have consulting statisticians or research-active faculty or both? Consulting can also be done as part of statistics students’ training.  Most larger universities have both consulting and research.
-Some scientific questions naturally flow into research on new statistics methods and concepts, and other science questions are a 
+Some scientific questions naturally flow into research on new statistics methods and concepts, and other science questions are a
 better fit for an analysis method that has already been published. Talk to the consulting center first if you have one.  
 
-Collaboration between scientists and statisticians is essential and it is best to start **before** actually gathering data, 
-even before the experimental design is finished. Susan has met with a number of faculty and students after data was collected 
-and had to be the bearer of bad news...the data collected could NOT answer the question at hand. This could be due to a number of 
-reasons -- small sample size, wrong experimental design, not a random sample, incorrect information collected, etc. Don’t let this 
+Collaboration between scientists and statisticians is essential and it is best to start **before** actually gathering data,
+even before the experimental design is finished. Susan has met with a number of faculty and students after data was collected
+and had to be the bearer of bad news...the data collected could NOT answer the question at hand. This could be due to a number of
+reasons -- small sample size, wrong experimental design, not a random sample, incorrect information collected, etc. Don’t let this
 happen to you!  
 
 ## What has our path been like?  
 
-**Susan:**  I have been very fortunate to have had the opportunity to work with many great scientists.  The problems that I’ve been able 
+**Susan:**  I have been very fortunate to have had the opportunity to work with many great scientists.  The problems that I’ve been able
 to work on have been extremely fun and exciting. Not only did I have a chance to answer scientific questions, but in doing so, I’ve had
-the opportunity to expand my statistics knowledge. One such example was developing a model for plant quantitative trait loci. We 
+the opportunity to expand my statistics knowledge. One such example was developing a model for plant quantitative trait loci. We
 developed a great hierarchical Bayesian model that used a Markov Chain Monte Carlo Model Composition (MC3) approach in identifying
 important markers. This was the analysis that started me down the path into Bayesian statistics. Before this analysis, most of my
 work focused on frequentist approaches.  
 
 **Ann:**  I first appreciated statisticians when I brought a difficult experimental result to a university statistics consulting
-department and the statistician both solved the problem and taught me to do bootstrapping in SAS (back then it it was a new tool, 
+department and the statistician both solved the problem and taught me to do bootstrapping in SAS (back then it it was a new tool,
 biologists had not heard of this). I then convinced my advisor
 that this was the right analysis. [Gail, I salute you!](http://www.une.edu/people/gail-e-tudor). Then Susan Simmons and the
 other statistics faculty at UNCW continued to educate me...I especially remember learning about Bayes’ theorem from Ed and Susan,
 and Susan explaining known-truth simulations and validation to me (which has let to an [ongoing cyberinfrastructure project](http://www.cyverse.org/news/passing-big-data-test) with
-many great students from computer science and statistics). I am now working 
+many great students from computer science and statistics). I am now working
 toward understanding causal calculus, tensors, and U-statistics with patient tutelage from [Yishi Wang and Cuixian Chen](https://arxiv.org/abs/1611.04619). There is always more fun stuff to learn. I have no intention of being an expert --
 and I don’t have enough formal math -- but I can bring lots of disparate and interesting data and methods to the table.  
 
@@ -52,11 +52,11 @@ and I don’t have enough formal math -- but I can bring lots of disparate and i
 As a scientist meets with a statistician, the statistician asks many questions! The statistician tries to get a good grasp
 of the problem and will therefore really probe the scientist about exactly the question at hand. The statistician will also
 question and try to assess what limitations are evident in the problem and what are the best ways to overcome these limitations.
-Also, due to the amount of probing, statisticians can sometimes help scientists think of questions about their research that 
-they did not even consider. 
+Also, due to the amount of probing, statisticians can sometimes help scientists think of questions about their research that
+they did not even consider.
 
-The goals of the statistician and scientists are the same -- they both want the best research conducted with appropriate answers 
-and solutions. With that said, the statistician must understand the data, the problem and the question to develop the correct 
+The goals of the statistician and scientists are the same -- they both want the best research conducted with appropriate answers
+and solutions. With that said, the statistician must understand the data, the problem and the question to develop the correct
 methodology to use in analyzing the data.  
 
 ## What to do  
@@ -86,17 +86,17 @@ http://simplystatistics.org/
 
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961  
 
-Everyone has a professional association -- check out these statistics societies’ 
-conferences, http://ww2.amstat.org/meetings/csp/2017/conferenceinfo.cfm and 
+Everyone has a professional association -- check out these statistics societies’
+conferences, http://ww2.amstat.org/meetings/csp/2017/conferenceinfo.cfm and
 http://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx?hkey=bc3bc257-950f-44f8-aed6-b37736571bfc
 
-Ann’s opinion article about this kind of collaboration -- 
+Ann’s opinion article about this kind of collaboration --
 http://journal.frontiersin.org/article/10.3389/fpls.2014.00250/full
 
 ### Author Bios:
 
-Ann’s highlights:  published with statistician and computer science collaborators, funded by USDA and NSF, 
+Ann’s highlights:  published with statistician and computer science collaborators, funded by USDA and NSF,
 chair of Gordon Research Conference on Quantitative Genetics, UNCW mentor award  
 
-Susan’s highlights:  published with various scientists and computer scientists; AE of Environmetrics; 
+Susan’s highlights:  published with various scientists and computer scientists; AE of Environmetrics;
 Council of Section representative for the Risk Analysis Section of ASA; elected member of the International Statistics Institute  

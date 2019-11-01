@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Communications", "Collaborations", "Events"]
 authors: ["Hilmar Lapp", "Tracy Teal", "François Michonneau", "Kellie Ottoboni", "Jamie Whitacre", "Jasmine Nirody"]
 redirect_from: /blog/rr-jupyter/
 ---
