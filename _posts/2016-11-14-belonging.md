@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Workshops", "Community"]
+tags: ["Workshops", "Community", "Inclusion"]
 authors: ["Kari L. Jordan"]
 ---
 Two schools of thought regarding learning and how it is achieved are the **acquisition metaphor** and the **participation metaphor**.
@@ -37,7 +37,7 @@ Knowing is | Having | **Belonging**
 
 In short, the acquisition metaphor views knowledge as property that one acquires, whereas the participation metaphor views knowledge as being active in a community.
 
-I, like many others in educational research, wrestle with whether or not one has to choose one metaphor over the other. Am I #teamaquisition or #teamparticipation? 
+I, like many others in educational research, wrestle with whether or not one has to choose one metaphor over the other. Am I #teamaquisition or #teamparticipation?
 I have an example. I attended my first Software Carpentry workshop about a month ago. I had never heard of many of the lessons we teach, and during the workshop I lost my way. I knew I had to learn the information to be successful at my job, so immediately following the workshop I went to the mall, sat in the foodcourt, and went through the entire lesson by myself. By the end of the lesson I was confident!
 
 Having done that I was now able to interact and be a part of the conversation during the second day of the workshop--I felt like I belonged. I found it easier to learn the material on my own, and still feel like part of this community.
@@ -47,5 +47,5 @@ What are your thoughts about these two metaphors as it relates to our learners, 
 *When did you realize you belonged to the carpentry community?*
 
 Comment below, and tweet us your thoughts @datacarpentry and @drkariljordan.   
- 
+
 **Reference:** Sfard, A. (1998). On two metaphors for learning and the dangers of choosing just one. Educational researcher, 27(2), 4-13.

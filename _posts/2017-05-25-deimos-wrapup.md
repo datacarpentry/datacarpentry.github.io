@@ -9,12 +9,12 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Administration"]
 authors: ["Erin Becker"]
 redirect_from: /blog/deimos-wrapup/
 ---
 
-We’re wrapping up Cycle Deimos! Here’s what we accomplished over the past six weeks and what we’re still working on. To help with any of these projects, please [get in touch](mailto:ebecker@carpentries.org)! 
+We’re wrapping up Cycle Deimos! Here’s what we accomplished over the past six weeks and what we’re still working on. To help with any of these projects, please [get in touch](mailto:ebecker@carpentries.org)!
 
 ## Assessing Our Impact on Learners
 **What did we do?** Data and Software Carpentry launched a [long-term assessment survey](https://www.surveymonkey.com/r/carpentrieslongtermassessment) in March 2017. The goal of this survey is to hear from our learners about what has transpired in their work and career since completing a Carpentry workshop. More information about this survey and our assessment efforts in general is located on the Assessment pages of both the [Data Carpentry](http://www.datacarpentry.org/assessment/) and [Software Carpentry](https://software-carpentry.org/assessment/) websites. The results show that a majority of respondents gained confidence in working with data (65%) and in using the tools we teach (77%), and also improved their coding practices (70%) as a result of completing a Carpentry workshop. Most of our respondents (86%) were also motivated to continue learning after the workshop, demonstrating our continued impact on learners.
@@ -30,7 +30,7 @@ As we grow, we want to be sure we're communicating clearly with our partner site
 
 **What are we still working on?**  We’re looking for our next cohort of Trainers to join the Instructor Trainer Program starting in July and will be sending out an application to become a Trainer soon! We’re also working on creating more documentation to support hosts and Trainers in running instructor training events.  
 
-**How can you help?** If you’re interested in becoming a Trainer, please fill out the application (coming soon!). 
+**How can you help?** If you’re interested in becoming a Trainer, please fill out the application (coming soon!).
 
 ## Publishing Data Carpentry Lessons
 **What did we do?** Data Carpentry had our first official lesson release this cycle. With the help of hundreds of contributors, many of whom participated in the Issue Bonanza and Bug BBQ, we’ve published the Ecology lessons for working with [SQL](https://zenodo.org/record/570049#.WSckERPyuEI), [R](https://zenodo.org/record/569875#.WSckgBMrKEI), [Python](https://zenodo.org/record/570050#.WSckHRPyuEI), [Spreadsheets](https://zenodo.org/record/570047#.WScj6RPyuEI) and [OpenRefine](https://zenodo.org/record/570048#.WSckAhPyuEI) as well as a [curriculum overview](https://zenodo.org/record/570167#.WSckOBPyuEI). For more details, check out our [blog post](http://www.datacarpentry.org/blog/lesson-release/).  

@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline: "Data in the Field"
-tags: [""]
+tags: ["Skillshare"]
 authors: ["Damien Irving"]
 title: "Climate Science and the Command Line"
 teaser: ""
@@ -21,7 +21,7 @@ Behind the glamorous media coverage and international meetings, however, researc
 around the most unglamorous tool of all: the command line. From data management and workflow coordination
 to remotely accessing supercomputing facilities and backing up code, the command line is the most critical
 part of my toolbox. Let me explain...  
- 
+
 **Data management**  
 Over 30 research groups from around the world submit data to the international climate modelling projects that form the basis of reports
 such as those produced by the Intergovernmental Panel on Climate Change (IPCC). Couple that with the multiple experiments that each of
@@ -54,19 +54,15 @@ together.
 Another consequence of the enormous size of international climate model datasets is that you can’t just store the data on your own
 computer. Instead, the data are stored and managed by a network of supercomputing facilities around the world. It would be impractical
 to shuffle small subsets of the data back and forth between the supercomputing facility and my workplace, so instead the supercomputer
-facilities (like the National Computational Infrastructure for me in Australia) encourage you to do your data analysis on their 
+facilities (like the National Computational Infrastructure for me in Australia) encourage you to do your data analysis on their
 computers, which have direct access to the data. The way to access these remote computers is via the command line.
 
 **Version control**  
 Last but not least, I use the command line when backing up my code. There are graphical user interfaces available for Git,
-but setting these up seems more trouble than it’s worth. Most days I only use four commands (`git add`, `git commit`, 
+but setting these up seems more trouble than it’s worth. Most days I only use four commands (`git add`, `git commit`,
 `git push`, `git pull`),
 so it’s easier just to type those into the command line.  
 
-I [blog](https://drclimate.wordpress.com/) and [tweet](https://twitter.com/DrClimate) 
+I [blog](https://drclimate.wordpress.com/) and [tweet](https://twitter.com/DrClimate)
 about all aspects of computational best practice in the weather and climate sciences,
 so please subscribe / follow if that sounds relevant to your work!
-
-
-
-

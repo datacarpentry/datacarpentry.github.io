@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Skillshare"]
 authors: ["Naupaka Zimmerman"]
 redirect_from: /blog/hand-crafted-databases/
 ---
@@ -123,7 +123,7 @@ you can write queries in native dplyr syntax. In Python, I've had good
 success with
 the [sqlite3 library](https://docs.python.org/2/library/sqlite3.html).
 
-Things I wish I had known about designing a database (and about doing science): 
+Things I wish I had known about designing a database (and about doing science):
 
 1. Think about your schema before you start. It will change over time
    as you learn about your system and as your projects evolve, but

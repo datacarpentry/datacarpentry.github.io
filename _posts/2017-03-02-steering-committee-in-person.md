@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Administration", "Reports"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/steering-committee-in-person/
 ---

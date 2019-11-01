@@ -9,25 +9,25 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["Community", "Merger"]
 authors: [ "Rayna Harris"]
 redirect_from: /blog/mergermotions/
 ---
 
-I am happy to announce that the Steering Committees of both Software Carpentry and Data Carpentry have approved 4 motions regarding the structure and leadership of the mergered Carpentries organization. The approved motions are: 
+I am happy to announce that the Steering Committees of both Software Carpentry and Data Carpentry have approved 4 motions regarding the structure and leadership of the mergered Carpentries organization. The approved motions are:
 
 ## Motion 1
-The Board of Directors for the combined organization will be composed of 9 members, each serving a two year term without limits on the number of terms. Five members will be appointed through a process of nomination to the board followed by voting by board members. The other four members will be elected by the membership of the organization. 
+The Board of Directors for the combined organization will be composed of 9 members, each serving a two year term without limits on the number of terms. Five members will be appointed through a process of nomination to the board followed by voting by board members. The other four members will be elected by the membership of the organization.
 
 **Background:** We anticipate that role of the Board is governance / steering rather than execution / operations. Appointed members ensure that the Board has the expertise desired for leading an organization with the legal and financial responsibilities of the combined organization, while elected members continue on the democratic traditions of SWC and allow interested community members to be part of the leadership.
 
 ## Motion 2
 The combined organization will have an Executive Director who reports to the Board of Directors. Initially, this position will be offered to Dr. Tracy Teal.  
 
-**Background:**  The ED is the link between the Board and the operations of the organization. The ED will have autonomy to make decisions about running the organization, given strategic direction from the Board. 
+**Background:**  The ED is the link between the Board and the operations of the organization. The ED will have autonomy to make decisions about running the organization, given strategic direction from the Board.
 
 ## Motion 3
-The combined organization will have a Director of Business Development who reports to the Executive Director. Initially, this position will be offered to Jonah Duckles. 
+The combined organization will have a Director of Business Development who reports to the Executive Director. Initially, this position will be offered to Jonah Duckles.
 
 **Background:** Business development is critical to the long-term sustainability of the organization. In the merger of two organizations, each with an ED, this clarifies roles and reporting.
 
