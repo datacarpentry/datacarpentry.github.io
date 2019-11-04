@@ -36,7 +36,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 ## Community-Contributed materials
 
 <p>
-The Carpentries also shares <a href="https://carpentries.org/community-lessons/">The Carpentries Community Developed Lessons</a>.  This includes <a href="https://carpentries.org/community-lessons/#the-carpentries-incubator">The Carpentries Incubator</a> (lessons under development and seeking peer review), and <a href="https://carpentries.org/community-lessons/#the-carpentrieslab">The CarpentriesLab</a> (lessons that have been approved by The Carpentries but are not part of our standard offerings).   
+The Carpentries also shares <a href="https://carpentries.org/community-lessons/">The Carpentries Community Developed Lessons</a>.  This includes <a href="https://carpentries.org/community-lessons/#the-carpentries-incubator">The Carpentries Incubator</a> (lessons under development and seeking peer review), and <a href="https://carpentries.org/community-lessons/#the-carpentrieslab">The CarpentriesLab</a> (lessons that have been vetted by The Carpentries but are not part of our standard offerings).   
 </p>
 
 <hr>
