@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jamie Jamison,Kunal Marwaha",
+    "end_date": "2019-11-06",
+    "url": "https://marwahaha.github.io/2019-11-05-BPT/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "TribalDATA / Northern Arizona University",
+    "longitude": -111.6539,
+    "slug": "2019-11-05-BPT",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Bishop Paiute Tribe / Tribal Governance Group",
+    "latitude": 35.18954,
+    "start_date": "2019-11-05"
+  },
+  {
     "instructors": "Janet Stacey,Kim Tung Nguyen,Kate Stevenson",
     "end_date": "2019-10-30",
     "url": "https://chrstraub.github.io/2019-10-29-ESR_MASC/",
