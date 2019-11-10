@@ -54,7 +54,7 @@
     "longitude": -71.115471,
     "slug": "2019-10-28-harvard",
     "tag_name": "DC",
-    "helpers": "Julie Goldman,C. M. Boyd",
+    "helpers": "Julie Goldman,C. M. Boyd,Jess Cohen-Tanugi",
     "host_name": "Harvard University",
     "latitude": 42.372784,
     "start_date": "2019-10-28"
@@ -4486,7 +4486,7 @@
   },
   {
     "instructors": "Daniel Chen,Arthur Endsley",
-    "end_date": "2016-08-03",
+    "end_date": "2016-08-04",
     "url": "https://arthur-e.github.io/2016-08-03-FederalReserveBoard/",
     "country": "US",
     "curriculum": null,
@@ -4497,7 +4497,7 @@
     "helpers": null,
     "host_name": "Federal Reserve Board",
     "latitude": 38.893403,
-    "start_date": "2016-08-02"
+    "start_date": "2016-08-03"
   },
   {
     "instructors": "Jeff Hollister",
