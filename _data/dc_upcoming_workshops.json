@@ -135,6 +135,21 @@
     "start_date": "2019-12-16"
   },
   {
+    "instructors": "Dan Leehr,Hilmar Lapp",
+    "end_date": "2019-12-19",
+    "url": "https://Duke-GCB.github.io/2019-12-18-duke",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Duke University",
+    "longitude": -78.938281,
+    "slug": "2019-12-18-duke",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Duke University",
+    "latitude": 36.002956,
+    "start_date": "2019-12-18"
+  },
+  {
     "instructors": "Toby Hodges,Florian Huber,Fotis Psomopoulos",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
