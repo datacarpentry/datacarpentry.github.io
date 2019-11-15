@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte",
+    "end_date": "2019-11-15",
+    "url": "https://taylorpaisie.github.io/2019-11-14-uf-intro-to-genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UF Informatics Institute",
+    "longitude": -82.344092,
+    "slug": "2019-11-14-uf-intro-to-genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 29.648292,
+    "start_date": "2019-11-14"
+  },
+  {
     "instructors": "Nick Wong",
     "end_date": "2019-11-13",
     "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
