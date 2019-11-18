@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Lesson Leadership"
+title: "Curriculum Advisors"
 header:
     image_fullwidth: "wood_plank.jpg"
-permalink: "/lesson-leadership/"
+permalink: "/curriculum-advisors/"
 ---
 
 Curriculum Advisors are part of a team that provides the oversight, 
