@@ -5,6 +5,8 @@ title: "Lesson Leadership"
 header:
     image_fullwidth: "wood_plank.jpg"
 permalink: "/lesson-leadership/"
+redirect_to: 
+    - "/curriculum-advisors/"
 ---
 
 Curriculum Advisors are part of a team that provides the oversight, 
