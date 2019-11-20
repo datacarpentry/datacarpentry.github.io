@@ -75,6 +75,21 @@
     "start_date": "2019-11-25"
   },
   {
+    "instructors": "Daniel Ouso,Bianca Peterson",
+    "end_date": "2019-12-11",
+    "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",
+    "country": "KE",
+    "curriculum": "dc-genomics",
+    "venue": "<strong>International Centre of Insect Physiology and Ecology (<i>icipe</i>)</strong>",
+    "longitude": 36.896486,
+    "slug": "2019-12-12-icipe_dc",
+    "tag_name": "DC",
+    "helpers": "Caleb Kibet",
+    "host_name": "International Centre of Insect Physiology and Ecology (icipe)",
+    "latitude": -1.2214958,
+    "start_date": "2019-12-10"
+  },
+  {
     "instructors": "Evan Matthews,Tim Keighley,Fiona Jones",
     "end_date": "2019-12-12",
     "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
