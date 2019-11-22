@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Matt Bixley",
+    "end_date": "2019-11-21",
+    "url": "https://otagocarpentries.github.io/2019-11-20-wellington",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago - Wellington Campus",
+    "longitude": 174.78064,
+    "slug": "2019-11-20-wellington",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -41.31058,
+    "start_date": "2019-11-20"
+  },
+  {
+    "instructors": "Ryan Avery,Jon Jablonski,Mary Donovan",
+    "end_date": "2019-11-22",
+    "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UCSB Library",
+    "longitude": -119.8462413,
+    "slug": "2019-11-14-Geospatial-R",
+    "tag_name": "DC",
+    "helpers": "Kristi Liu,Fernanda Ribeiro,Yuan Wu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413982,
+    "start_date": "2019-11-14"
+  },
+  {
     "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte",
     "end_date": "2019-11-15",
     "url": "https://taylorpaisie.github.io/2019-11-14-uf-intro-to-genomics/",
@@ -39,7 +69,7 @@
     "longitude": 9.934055,
     "slug": "2019-11-12-ugoe-carpentries",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Julika Mimkes,Anne Hobert,Astrid Orth,Hanna Varachkina,Thomas Staudt",
     "host_name": "University of Göttingen",
     "latitude": 51.540162,
     "start_date": "2019-11-12"
@@ -105,7 +135,7 @@
     "start_date": "2019-10-28"
   },
   {
-    "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
+    "instructors": "Heather Ciallella,Liam Sharp",
     "end_date": "2019-10-26",
     "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",
     "country": "US",
@@ -225,7 +255,7 @@
     "start_date": "2019-10-14"
   },
   {
-    "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
+    "instructors": "Murray Cadzow,Arindam Basu,Dinindu Senanayake",
     "end_date": "2019-10-11",
     "url": "https://foreal17.github.io/2019-10-10-christchurch/",
     "country": "NZ",
@@ -234,7 +264,7 @@
     "longitude": 172.466797,
     "slug": "2019-10-10-christchurch",
     "tag_name": "DC",
-    "helpers": "Anton Angelo,John McCallum",
+    "helpers": "Anton Angelo,John McCallum,Tammy Steeves,Aurelie Laugraud",
     "host_name": "Genomics Aotearoa",
     "latitude": -43.643051,
     "start_date": "2019-10-10"
