@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Karl Benedict,Mark Servilla,Renee Brown",
+    "end_date": "2019-11-23",
+    "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of New Mexico",
+    "longitude": -106.620998,
+    "slug": "2019-11-22-unm",
+    "tag_name": "DC",
+    "helpers": "Jon Wheeler",
+    "host_name": "University of New Mexico",
+    "latitude": 35.08474,
+    "start_date": "2019-11-22"
+  },
+  {
     "instructors": "Matt Bixley",
     "end_date": "2019-11-21",
     "url": "https://otagocarpentries.github.io/2019-11-20-wellington",

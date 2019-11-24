@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Karl Benedict,Mark Servilla,Renee Brown",
-    "end_date": "2019-11-23",
-    "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of New Mexico",
-    "longitude": -106.620998,
-    "slug": "2019-11-22-unm",
-    "tag_name": "DC",
-    "helpers": "Jon Wheeler",
-    "host_name": "University of New Mexico",
-    "latitude": 35.08474,
-    "start_date": "2019-11-22"
-  },
-  {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
@@ -43,6 +28,21 @@
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2019-11-25"
+  },
+  {
+    "instructors": "Moses Okpeku,Matthew Adeleke,Tadiwanashe Gutsa,Oluwafisayo Kaka",
+    "end_date": "2019-12-03",
+    "url": "https://workshops-ukzn.github.io/2019-12-02-UKZN-DC/",
+    "country": "ZA",
+    "curriculum": "dc-genomics",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.945906,
+    "slug": "2019-12-02-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Naomi Kingu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818203,
+    "start_date": "2019-12-02"
   },
   {
     "instructors": "Daniel Ouso,Bianca Peterson",
@@ -148,5 +148,20 @@
     "host_name": "Brock University",
     "latitude": 43.11747,
     "start_date": "2020-02-19"
+  },
+  {
+    "instructors": "Nick Wong,Will Pitchers,Paul Harrison",
+    "end_date": "2020-06-30",
+    "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "RMIT Melbourne",
+    "longitude": 144.964066,
+    "slug": "2020-06-29-RMIT-Melbourne",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "RMIT University",
+    "latitude": -37.809218,
+    "start_date": "2020-06-29"
   }
 ]
