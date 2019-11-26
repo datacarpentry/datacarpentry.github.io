@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
-    "end_date": "2019-11-26",
-    "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
-    "country": "NL",
-    "curriculum": "dc-genomics",
-    "venue": "KNVM Division Microbial Typing",
-    "longitude": 5.1570484,
-    "slug": "2019-11-25-Utrecht",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
-    "latitude": 52.0873658,
-    "start_date": "2019-11-25"
-  },
-  {
-    "instructors": "Claire Curry,Katy Felkner",
-    "end_date": "2019-11-26",
-    "url": "http://oulib-swc.github.io/2019-11-25-ou-dc",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445845,
-    "slug": "2019-11-25-ou-dc",
-    "tag_name": "DC",
-    "helpers": "Traci DuBose,Jim Ferguson,Mahbobeh Lesani,Amanda Schilling",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.207982,
-    "start_date": "2019-11-25"
-  },
-  {
     "instructors": "Moses Okpeku,Matthew Adeleke,Tadiwanashe Gutsa,Oluwafisayo Kaka",
     "end_date": "2019-12-03",
     "url": "https://workshops-ukzn.github.io/2019-12-02-UKZN-DC/",
