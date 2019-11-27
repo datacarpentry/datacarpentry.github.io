@@ -45,6 +45,21 @@
     "start_date": "2019-11-22"
   },
   {
+    "instructors": "Amanda Devine,Matthew Kweskin,Alexander Robillard,Luis Villanueva",
+    "end_date": "2019-11-22",
+    "url": "https://smithsonianworkshops.github.io/2019-11-21-castle/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Quarterly SI Data Carpentry: Fall 2019 Edition",
+    "longitude": -77.025991,
+    "slug": "2019-11-21-castle",
+    "tag_name": "DC",
+    "helpers": "Jen Hammock,Mike Trizna",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
+    "start_date": "2019-11-21"
+  },
+  {
     "instructors": "Matt Bixley",
     "end_date": "2019-11-21",
     "url": "https://otagocarpentries.github.io/2019-11-20-wellington",
@@ -360,6 +375,36 @@
     "start_date": "2019-10-04"
   },
   {
+    "instructors": "Mike Trizna,Alexander Robillard",
+    "end_date": "2019-10-02",
+    "url": "https://miketrizna.github.io/2019-10-02-iquitos/",
+    "country": "PE",
+    "curriculum": "dc-ecology-python",
+    "venue": "Compressed Data Carpentry with Python in Iquitos, Peru",
+    "longitude": -73.274527,
+    "slug": "2019-10-02-iquitos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": -3.767557,
+    "start_date": "2019-10-02"
+  },
+  {
+    "instructors": "Mike Trizna,Alexander Robillard",
+    "end_date": "2019-09-30",
+    "url": "https://miketrizna.github.io/2019-09-30-lima/",
+    "country": "PE",
+    "curriculum": "dc-ecology-python",
+    "venue": "Compressed Data Carpentry with Python in Lima, Peru",
+    "longitude": -77.021957,
+    "slug": "2019-09-30-lima",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": -12.13553,
+    "start_date": "2019-09-30"
+  },
+  {
     "instructors": "Jen Hammock,Luis Villanueva,Mirian Tieko Nunes Tsuchiya,Mike Trizna",
     "end_date": "2019-09-26",
     "url": "https://smithsonianworkshops.github.io/2019-09-25-SCBI/",
@@ -553,6 +598,21 @@
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-08-19"
+  },
+  {
+    "instructors": "Amanda Devine,Jen Hammock,Mirian Tieko Nunes Tsuchiya,Mike Trizna",
+    "end_date": "2019-08-16",
+    "url": "https://smithsonianworkshops.github.io/2019-08-15-castle/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Quarterly SI Data Carpentry: Summer 2019 Edition",
+    "longitude": -77.025991,
+    "slug": "2019-08-15-castle",
+    "tag_name": "DC",
+    "helpers": "Carrie Craig,Jesse Johnston,Alexander Robillard",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
+    "start_date": "2019-08-15"
   },
   {
     "instructors": "Trisha Adamus,Aniello Infante",
