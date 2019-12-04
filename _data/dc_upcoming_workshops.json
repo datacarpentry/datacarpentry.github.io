@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Moses Okpeku,Matthew Adeleke,Tadiwanashe Gutsa,Oluwafisayo Kaka",
-    "end_date": "2019-12-03",
-    "url": "https://workshops-ukzn.github.io/2019-12-02-UKZN-DC/",
-    "country": "ZA",
-    "curriculum": "dc-genomics",
-    "venue": "UKZN, Westville Campus",
-    "longitude": 30.945906,
-    "slug": "2019-12-02-UKZN-DC",
-    "tag_name": "DC",
-    "helpers": "Naomi Kingu",
-    "host_name": "University of KwaZulu Natal",
-    "latitude": -29.818203,
-    "start_date": "2019-12-02"
-  },
-  {
     "instructors": "Daniel Ouso,Bianca Peterson",
     "end_date": "2019-12-11",
     "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",

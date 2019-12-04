@@ -1,6 +1,21 @@
 [
   {
-    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "instructors": "Moses Okpeku,Matthew Adeleke,Tadiwanashe Gutsa,Oluwafisayo Kaka",
+    "end_date": "2019-12-03",
+    "url": "https://workshops-ukzn.github.io/2019-12-02-UKZN-DC/",
+    "country": "ZA",
+    "curriculum": "dc-genomics",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.945906,
+    "slug": "2019-12-02-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Naomi Kingu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818203,
+    "start_date": "2019-12-02"
+  },
+  {
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso,Sam Nooij,Dennis Schmitz",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
     "country": "NL",
@@ -9,13 +24,13 @@
     "longitude": 5.1570484,
     "slug": "2019-11-25-Utrecht",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Duong Vu,Jorge Navarro,Mattias de Hollander,Barbara Vreede",
     "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
     "latitude": 52.0873658,
     "start_date": "2019-11-25"
   },
   {
-    "instructors": "Claire Curry,Katy Felkner",
+    "instructors": "Claire Curry,Katy Felkner,Zenobie Garrett",
     "end_date": "2019-11-26",
     "url": "http://oulib-swc.github.io/2019-11-25-ou-dc",
     "country": "US",
@@ -24,7 +39,7 @@
     "longitude": -97.445845,
     "slug": "2019-11-25-ou-dc",
     "tag_name": "DC",
-    "helpers": "Traci DuBose,Jim Ferguson,Mahbobeh Lesani,Amanda Schilling",
+    "helpers": "Traci DuBose,Jim Ferguson,Mahbobeh Lesani,Amanda Schilling,Theo Acker,Horst Severini,Tamas Kiss,Rebekah Silverstein",
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2019-11-25"
@@ -39,7 +54,7 @@
     "longitude": -106.620998,
     "slug": "2019-11-22-unm",
     "tag_name": "DC",
-    "helpers": "Jon Wheeler",
+    "helpers": "Jon Wheeler,Nitin Bhandari,Lori Sloane",
     "host_name": "University of New Mexico",
     "latitude": 35.08474,
     "start_date": "2019-11-22"
@@ -80,7 +95,7 @@
     "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
     "country": "US",
     "curriculum": "dc-geospatial",
-    "venue": "UCSB Library",
+    "venue": "UCSB Library GeoSpatial Data Carpentry I",
     "longitude": -119.8462413,
     "slug": "2019-11-14-Geospatial-R",
     "tag_name": "DC",
@@ -90,7 +105,7 @@
     "start_date": "2019-11-14"
   },
   {
-    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte",
+    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte,Dan Stribiling ",
     "end_date": "2019-11-15",
     "url": "https://taylorpaisie.github.io/2019-11-14-uf-intro-to-genomics/",
     "country": "US",
@@ -99,7 +114,7 @@
     "longitude": -82.344092,
     "slug": "2019-11-14-uf-intro-to-genomics",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Narayani Barve,Dimitri Bourilkov,Ricardo Alcala,Melissa Moreno,Caroline Storer",
     "host_name": "University of Florida",
     "latitude": 29.648292,
     "start_date": "2019-11-14"
@@ -1215,6 +1230,21 @@
     "start_date": "2019-05-15"
   },
   {
+    "instructors": "Ana Costa Conrado",
+    "end_date": "2019-05-15",
+    "url": "https://uio-carpentry.github.io/2019-05-15-R/",
+    "country": "NO",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oslo (Data Analysis and Visualization with R for Ecology)",
+    "longitude": 10.7237,
+    "slug": "2019-05-15-R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2019-05-15"
+  },
+  {
     "instructors": "Alex Nunes",
     "end_date": "2019-05-15",
     "url": "https://alexetnunes.github.io/2019-05-15-surge-halifax/",
@@ -1558,6 +1588,21 @@
     "host_name": "Carnegie Mellon University",
     "latitude": 40.4411,
     "start_date": "2019-03-12"
+  },
+  {
+    "instructors": "Ana Costa Conrado",
+    "end_date": "2019-03-08",
+    "url": "https://uio-carpentry.github.io/2019-03-08-R/",
+    "country": "NO",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oslo (Data Analysis and Visualization with R for Ecology)",
+    "longitude": 10.7237,
+    "slug": "2019-03-08-R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2019-03-08"
   },
   {
     "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
