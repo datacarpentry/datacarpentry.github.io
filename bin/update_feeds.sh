@@ -4,6 +4,8 @@ REPO_ORG=datacarpentry
 REPO_NAME=datacarpentry.github.io
 GITHUB_PAT_USER=fmichonneau # user who generated the GITHUB PAT used here
 
+git checkout master
+
 cd .. &&
     mkdir feed-data &&
     cd feed-data &&
