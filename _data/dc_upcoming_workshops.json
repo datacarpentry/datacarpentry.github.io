@@ -105,6 +105,21 @@
     "start_date": "2020-02-19"
   },
   {
+    "instructors": "Annika Rockenberger,Matthew Good",
+    "end_date": "2020-04-29",
+    "url": "https://uio-carpentry.github.io/2020-04-28-dcssh/",
+    "country": "NO",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Oslo",
+    "longitude": 10,
+    "slug": "2020-04-28-dcssh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59,
+    "start_date": "2020-04-28"
+  },
+  {
     "instructors": "Nick Wong,Will Pitchers,Paul Harrison",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",

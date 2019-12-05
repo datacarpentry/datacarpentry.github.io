@@ -360,6 +360,21 @@
     "start_date": "2019-10-10"
   },
   {
+    "instructors": "Claudia Beleites,Claudia Beleites,Katrin Leinweber,Katrin Leinweber",
+    "end_date": "2019-10-10",
+    "url": "https://tibhannover.github.io/2019-10-08-LSE-Hannover/",
+    "country": "GE",
+    "curriculum": null,
+    "venue": "Leibniz School of Education",
+    "longitude": 9.72255,
+    "slug": "2019-10-08-tib_lse",
+    "tag_name": "CDC",
+    "helpers": null,
+    "host_name": "Technische Informationsbibliothek",
+    "latitude": 52.386,
+    "start_date": "2019-10-08"
+  },
+  {
     "instructors": "Martin Jean",
     "end_date": "2019-10-08",
     "url": "https://martinjeanphd.github.io/2019-10-07-ECCC/",
@@ -1050,6 +1065,21 @@
     "start_date": "2019-06-10"
   },
   {
+    "instructors": "Raúl Ortiz-Merino,Raúl Ortiz-Merino,Marcel van den Broek,Marcel van den Broek,Santosh Ilamparuthi,Santosh Ilamparuthi,Esther Plomp,Esther Plomp",
+    "end_date": "2019-06-05",
+    "url": "https://estherplomp.github.io/2019-06-04-Delft/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
+    "longitude": 4.357068,
+    "slug": "2019-06-04-Delft",
+    "tag_name": "DC",
+    "helpers": "Nicolas Dintzner,Nicolas Dintzner,Kees den Heijer,Kees den Heijer,Mario Beck,Mario Beck",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.011578,
+    "start_date": "2019-06-04"
+  },
+  {
     "instructors": "Ian Carroll,Ryan Clement",
     "end_date": "2019-06-05",
     "url": "https://itcarroll.github.io/2019-06-04-carnegie/",
@@ -1137,6 +1167,21 @@
     "helpers": "Kathryn Keating,Karina Khazmutdinova",
     "host_name": "National Academy of Science",
     "latitude": 29.93766,
+    "start_date": "2019-05-30"
+  },
+  {
+    "instructors": "François Michonneau,François Michonneau,Sarah Stevens,Sarah Stevens,Jason Williams,Jason Williams",
+    "end_date": "2019-05-31",
+    "url": "https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Arizona",
+    "longitude": -110.94934,
+    "slug": "2019-05-30-uofarizona",
+    "tag_name": "DC",
+    "helpers": "Upendra Kumar Devisetty,Upendra Kumar Devisetty,Sateesh Peri,Sateesh Peri,Xue Pan,Xue Pan,Cesar Medina,Cesar Medina,Travis Struck,Travis Struck,Ryan Bartelme,Ryan Bartelme,Alison Harrington,Alison Harrington",
+    "host_name": "University of Arizona",
+    "latitude": 32.231834,
     "start_date": "2019-05-30"
   },
   {
@@ -1260,6 +1305,21 @@
     "start_date": "2019-05-15"
   },
   {
+    "instructors": "Mateusz Kuzak,Mateusz Kuzak,Toby Hodges,Toby Hodges",
+    "end_date": "2019-05-14",
+    "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
+    "country": "BE",
+    "curriculum": "dc-genomics",
+    "venue": "ELIXIR-BE",
+    "longitude": 3.70654,
+    "slug": "2019-05-13-Ghent",
+    "tag_name": "DC",
+    "helpers": "Christof De Bo,Christof De Bo",
+    "host_name": "ELIXIR-UK",
+    "latitude": 51.033718,
+    "start_date": "2019-05-13"
+  },
+  {
     "instructors": "Murray Cadzow,Mik Black,Justin Farquhar",
     "end_date": "2019-05-30",
     "url": "https://otagocarpentries.github.io/2019-05-09-otago/",
@@ -1305,6 +1365,21 @@
     "start_date": "2019-05-02"
   },
   {
+    "instructors": "David McGaughey,David McGaughey,Martin Skarzynski,Martin Skarzynski,Doug Joubert,Doug Joubert,Abhijit Dasgupta,Abhijit Dasgupta",
+    "end_date": "2019-05-02",
+    "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "NIH Library Training Room",
+    "longitude": -77.104737,
+    "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
+    "tag_name": "DC",
+    "helpers": "Bin Guan,Bin Guan",
+    "host_name": "National Institutes of Health",
+    "latitude": 39.000789,
+    "start_date": "2019-05-01"
+  },
+  {
     "instructors": "Rocio Martinez Nunez,Mohab Helmy",
     "end_date": "2019-04-30",
     "url": "https://rociotmartinez.github.io/2019-04-29-KCL/",
@@ -1333,6 +1408,36 @@
     "host_name": "University of Florida",
     "latitude": 25.506636,
     "start_date": "2019-04-29"
+  },
+  {
+    "instructors": "Dennis Irorere,Dennis Irorere",
+    "end_date": "2019-04-27",
+    "url": "https://denironyx.github.io/2019-04-27-akure/",
+    "country": "NI",
+    "curriculum": "dc-socsci-r,swc-es-r",
+    "venue": "Akure Tech Hub",
+    "longitude": null,
+    "slug": "2019-04-27-akure",
+    "tag_name": "CDC",
+    "helpers": "Ayomide Ogungbe Micheal,Ayomide Ogungbe Micheal,Raji Kudus Adewale,Raji Kudus Adewale",
+    "host_name": "Federal University of Technology, Akure",
+    "latitude": null,
+    "start_date": "2019-04-27"
+  },
+  {
+    "instructors": "Edward Wallace,Edward Wallace,Steve Thorn,Steve Thorn,Shaun Webb,Shaun Webb",
+    "end_date": "2019-05-01",
+    "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
+    "country": "GB",
+    "curriculum": "dc-genomics",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2019-04-23-Edinburgh-Dc-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2019-04-23"
   },
   {
     "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
@@ -1423,6 +1528,36 @@
     "host_name": "New York University",
     "latitude": 40.6946976,
     "start_date": "2019-04-11"
+  },
+  {
+    "instructors": "carla mavian,carla mavian,Taylor Paisie,Taylor Paisie,Massimiliano Tagliamonte,Massimiliano Tagliamonte,Nitya Singh,Nitya Singh,Oleksandr Moskalenko ,Oleksandr Moskalenko ",
+    "end_date": "2019-04-12",
+    "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UF Emerging Pathogens Institute",
+    "longitude": -82.351971,
+    "slug": "2019-04-11-ufepi-genomics",
+    "tag_name": "DC",
+    "helpers": "Geraldine Klarenberg,Geraldine Klarenberg,Henry Senyondo,Henry Senyondo,Miao Sun,Miao Sun,Caroline Storer,Caroline Storer,Kok Ben Toh,Kok Ben Toh,Stefano Nembrini ,Stefano Nembrini ,Dan Stribiling ,Dan Stribiling ",
+    "host_name": "University of Florida",
+    "latitude": 29.637414,
+    "start_date": "2019-04-11"
+  },
+  {
+    "instructors": "Anita Schürch,Anita Schürch,Sergio Arredondo Alonso,Sergio Arredondo Alonso",
+    "end_date": "2019-04-08",
+    "url": "https://aschuerch.github.io/2019-04-08-Utrecht/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2019-04-08-Utrecht",
+    "tag_name": "DC",
+    "helpers": "Boas Van der Putten,Boas Van der Putten,Axel Janssen,Axel Janssen",
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2019-04-08"
   },
   {
     "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
@@ -1620,6 +1755,21 @@
     "start_date": "2019-03-05"
   },
   {
+    "instructors": "Stephanie Thiede,Stephanie Thiede,Zena Lapp,Zena Lapp",
+    "end_date": "2019-03-05",
+    "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Michigan",
+    "longitude": -83.734886,
+    "slug": "2019-03-04-umich-genomics",
+    "tag_name": "DC",
+    "helpers": "Evan Snitkin,Evan Snitkin,Michael Wolfe,Michael Wolfe",
+    "host_name": "University of Michigan",
+    "latitude": 42.280093,
+    "start_date": "2019-03-04"
+  },
+  {
     "instructors": "Sarah Supp,Robert Flight",
     "end_date": "2019-03-01",
     "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
@@ -1723,6 +1873,21 @@
     "host_name": "King's College London",
     "latitude": 40.832726,
     "start_date": "2019-02-06"
+  },
+  {
+    "instructors": "Like Fokkens,Like Fokkens,Mattias de Hollander,Mattias de Hollander,Marc Galland,Marc Galland,Saskia Hiltemann,Saskia Hiltemann",
+    "end_date": "2019-02-06",
+    "url": "https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Wageningen Univeristy & Research (WUR)",
+    "longitude": 5.66364,
+    "slug": "2019-02-05-wageningen-genomics",
+    "tag_name": "DC",
+    "helpers": "Miaomiao Zhao,Miaomiao Zhao,Fleur Gawehns,Fleur Gawehns,Raúl Wijfjes,Raúl Wijfjes,Vittorio Tracanna,Vittorio Tracanna,Thijmen Breeschoten,Thijmen Breeschoten,Roven Fuentes,Roven Fuentes",
+    "host_name": "Wageningen University & Research",
+    "latitude": 51.98527,
+    "start_date": "2019-02-05"
   },
   {
     "instructors": "Taylor Reiter,Sebastien Vigneau",
@@ -1845,6 +2010,21 @@
     "start_date": "2019-01-25"
   },
   {
+    "instructors": "Jarrett Byrnes,Jarrett Byrnes,Klaus Schliep,Klaus Schliep,Kathleen Lotterhos,Kathleen Lotterhos",
+    "end_date": "2019-01-23",
+    "url": "https://jebyrnes.github.io/2019-01-22-UMB/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Massachusetts Boston",
+    "longitude": -71.035406,
+    "slug": "2019-01-22-umb",
+    "tag_name": "DC",
+    "helpers": "Isaac Rosenthal,Isaac Rosenthal,Christopher Beltz,Christopher Beltz,Caroline David,Caroline David,Laura Ganley,Laura Ganley",
+    "host_name": "University of Massachusetts Boston",
+    "latitude": 42.31326,
+    "start_date": "2019-01-22"
+  },
+  {
     "instructors": "Aniello Infante,Amanda Charbonneau",
     "end_date": "2019-01-18",
     "url": "https://nielinfante.github.io/2019-01-18-rutgers/",
@@ -1887,6 +2067,21 @@
     "helpers": null,
     "host_name": "University of Zululand",
     "latitude": -28.852418,
+    "start_date": "2019-01-15"
+  },
+  {
+    "instructors": "Sateesh Peri,Sateesh Peri,Elias Oziolor,Elias Oziolor",
+    "end_date": "2019-01-16",
+    "url": "https://sateeshperi.github.io/2019-01-15-reno/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Nevada, Reno",
+    "longitude": -119.82982,
+    "slug": "2019-01-15-reno",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "The University of Nevada, Reno",
+    "latitude": 39.57427,
     "start_date": "2019-01-15"
   },
   {
@@ -1935,6 +2130,21 @@
     "start_date": "2019-01-10"
   },
   {
+    "instructors": "Joshua Hatzis,Joshua Hatzis,Braden Owsley,Braden Owsley",
+    "end_date": "2019-01-11",
+    "url": "https://oulib-swc.github.io/2019-01-10-ou-dcgeo/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "University of Oklahoma",
+    "longitude": -97.44,
+    "slug": "2019-01-10-ou-dcgeo",
+    "tag_name": "DC",
+    "helpers": "Dawn Nekorchuk,Dawn Nekorchuk,Mark Laufersweiler,Mark Laufersweiler",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.21,
+    "start_date": "2019-01-10"
+  },
+  {
     "instructors": "Michele Tobias,Vessela Ensberg,Quinn Hart,Pamela Reynolds,Jane Carlen",
     "end_date": "2019-01-04",
     "url": "https://micheletobias.github.io/2019-01-03-Davis/",
@@ -1947,6 +2157,21 @@
     "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
+    "start_date": "2019-01-03"
+  },
+  {
+    "instructors": "Carrie Brown,Carrie Brown,Ryan Hagenson,Ryan Hagenson,Kathryn Cooper,Kathryn Cooper",
+    "end_date": "2019-01-04",
+    "url": "https://unlhcc.github.io/2019-01-03-UNO/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Nebraska at Omaha",
+    "longitude": -96.016604,
+    "slug": "2019-01-03-UNO",
+    "tag_name": "DC",
+    "helpers": "Brian Moore,Brian Moore,Kimia Ameri,Kimia Ameri",
+    "host_name": "University of Nebraska",
+    "latitude": 41.247015,
     "start_date": "2019-01-03"
   },
   {
@@ -1995,6 +2220,21 @@
     "start_date": "2018-12-10"
   },
   {
+    "instructors": "Edward Wallace,Edward Wallace,Vasileios Panagiotis Lenis,Vasileios Panagiotis Lenis",
+    "end_date": "2018-12-07",
+    "url": "https://edcarp.github.io/2018-12-06-edinburgh-dc-genomics/",
+    "country": "GB",
+    "curriculum": "dc-genomics",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2018-12-06-edinburgh-dc-genomics",
+    "tag_name": "DC",
+    "helpers": "Jennifer Daub,Jennifer Daub,Giacomo Peru,Giacomo Peru,Mario Antonioletti,Mario Antonioletti,Graeme Grimes,Graeme Grimes,Fiona Reid,Fiona Reid,Linus Schumacher,Linus Schumacher,Steve Thorn,Steve Thorn",
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2018-12-06"
+  },
+  {
     "instructors": "Zine Sapula,Anelda van der Walt",
     "end_date": "2018-12-06",
     "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-DC/",
@@ -2037,6 +2277,21 @@
     "helpers": null,
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -43.5225534,
+    "start_date": "2018-11-29"
+  },
+  {
+    "instructors": "Michele Tobias,Michele Tobias,Michael Koontz,Michael Koontz,Ryan Peek,Ryan Peek,Michael Culshaw-Maurer,Michael Culshaw-Maurer",
+    "end_date": "2018-11-30",
+    "url": "https://mikoontz.github.io/2018-11-29-davis-geospatial/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "University of California, Davis",
+    "longitude": -121.763881,
+    "slug": "2018-11-29-davis-geospatial",
+    "tag_name": "DC",
+    "helpers": "Karen Word,Karen Word,Erin Becker,Erin Becker,Tracy Teal,Tracy Teal,MAHESH MASKEY,MAHESH MASKEY,Julia Michaels,Julia Michaels",
+    "host_name": "Data Carpentry",
+    "latitude": 38.532812,
     "start_date": "2018-11-29"
   },
   {
@@ -2250,6 +2505,21 @@
     "start_date": "2018-10-24"
   },
   {
+    "instructors": "Joe Andreoli,Joe Andreoli,Joe Andreoli,Geraldine Klarenberg,Geraldine Klarenberg,Geraldine Klarenberg,Sergio Maconi,Sergio Maconi,Sergio Maconi,Simona Picardi,Simona Picardi,Simona Picardi,Kristina Riemer,Kristina Riemer,Kristina Riemer",
+    "end_date": "2018-10-24",
+    "url": "https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UF Informatics Institute Geospatial Workshop",
+    "longitude": -82.34406,
+    "slug": "2018-10-23-ufii-geospatial",
+    "tag_name": "DC",
+    "helpers": "Punam Amratia,Punam Amratia,Punam Amratia,Justin Millar,Justin Millar,Justin Millar,Brian Stucky,Brian Stucky,Brian Stucky,Kok Ben Toh,Kok Ben Toh,Kok Ben Toh",
+    "host_name": "University of Florida",
+    "latitude": 29.64804,
+    "start_date": "2018-10-23"
+  },
+  {
     "instructors": "Ashley Hetrick,Dena Strong,Elizabeth Wickes,Colleen Fallaw",
     "end_date": "2018-10-19",
     "url": "https://swc-uiuc.github.io/2018-10-18-illinois/",
@@ -2293,6 +2563,36 @@
     "host_name": "Addis Ababa University",
     "latitude": 14.28085,
     "start_date": "2018-10-15"
+  },
+  {
+    "instructors": "Paula Andrea Martinez,Paula Andrea Martinez,Paula Andrea Martinez,Mateusz Kuzak,Mateusz Kuzak,Mateusz Kuzak",
+    "end_date": "2018-10-16",
+    "url": "https://orchid00.github.io/2018-10-15-elixir-igc/",
+    "country": "PT",
+    "curriculum": "dc-genomics",
+    "venue": "Instituto Gulbenkian de Ciência",
+    "longitude": null,
+    "slug": "2018-10-15-elixir-igc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": null,
+    "start_date": "2018-10-15"
+  },
+  {
+    "instructors": "Mesfin Diro Chaka,Mesfin Diro Chaka,Yared Ergu,Yared Ergu,Dagim Mengesha,Dagim Mengesha",
+    "end_date": "2018-10-12",
+    "url": "https://jaredabera.github.io/October-2018-08-12-MTU/",
+    "country": "ET",
+    "curriculum": null,
+    "venue": "Mizan-Tepi University",
+    "longitude": 35.582199,
+    "slug": "2018-10-08-MTU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Mizan-Tepi University",
+    "latitude": 6.993647,
+    "start_date": "2018-10-08"
   },
   {
     "instructors": "Shaily Gandhi,Bindi Dave",
@@ -2385,6 +2685,21 @@
     "start_date": "2018-09-26"
   },
   {
+    "instructors": "Yee Mey Seah,Yee Mey Seah,Fred Boehm,Fred Boehm,Dan Voss,Dan Voss",
+    "end_date": "2018-09-18",
+    "url": "https://yeemey.github.io/2018-09-15-und-mbdh/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Missouri S&T Havener Center",
+    "longitude": -91.776476,
+    "slug": "2018-09-15-und-mbdh",
+    "tag_name": "DC",
+    "helpers": "Aaron Bergstrom,Aaron Bergstrom",
+    "host_name": "University of North Dakota",
+    "latitude": 37.954755,
+    "start_date": "2018-09-17"
+  },
+  {
     "instructors": "Haleluya Kiflu,Tatek Kassu Tola,Mesfin Diro Chaka",
     "end_date": "2018-09-19",
     "url": "https://mesfind.github.io/2018-09-17-DC-DMU/",
@@ -2445,6 +2760,36 @@
     "start_date": "2018-09-12"
   },
   {
+    "instructors": "Sam Nooij,Sam Nooij,Anita Schürch,Anita Schürch,Marieke Dirksen,Marieke Dirksen,Dennis Schmitz,Dennis Schmitz",
+    "end_date": "2018-09-11",
+    "url": "https://rivm-bioinformatics.github.io/2018-09-10-RIVM/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM)",
+    "longitude": 5.189059,
+    "slug": "2018-09-10-RIVM",
+    "tag_name": "DC",
+    "helpers": "Tom van Wijk,Tom van Wijk,Paul Wackers,Paul Wackers,Rob Mariman,Rob Mariman",
+    "host_name": "National Institute for Public Health and the Environment",
+    "latitude": 52.118524,
+    "start_date": "2018-09-10"
+  },
+  {
+    "instructors": "Georgi Kolishovski,Georgi Kolishovski,Sue McClatchy,Sue McClatchy,Hongtian 'Stanley' Yang,Hongtian 'Stanley' Yang",
+    "end_date": "2018-09-11",
+    "url": "https://smcclatchy.github.io/2018-09-10-jax/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "The Jackson Laboratory",
+    "longitude": -68.197153,
+    "slug": "2018-09-10-jax",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.365646,
+    "start_date": "2018-09-10"
+  },
+  {
     "instructors": "Joel Ostblom,Ahmed Hasan,Sarah Mahallati,Lina Tran",
     "end_date": "2018-09-10",
     "url": "https://uoftcoders.github.io/2018-09-10-utoronto",
@@ -2488,6 +2833,21 @@
     "host_name": "Wollo University",
     "latitude": 9.90001,
     "start_date": "2018-09-03"
+  },
+  {
+    "instructors": "Erin Becker,Erin Becker,Kelly Rowland,Kelly Rowland",
+    "end_date": "2018-08-28",
+    "url": "https://erinbecker.github.io/2018-08-27-genentech-b/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Genentech",
+    "longitude": -122.37927,
+    "slug": "2018-08-27-genentech-b",
+    "tag_name": "DC",
+    "helpers": "Aleksandra Taranov,Aleksandra Taranov,Altaf Kassam,Altaf Kassam,Marinella Callow,Marinella Callow,Jennifer Giltnane,Jennifer Giltnane,Sarah Headland,Sarah Headland",
+    "host_name": "Genentech",
+    "latitude": 37.65633,
+    "start_date": "2018-08-27"
   },
   {
     "instructors": "Trisha Adamus,Karl Broman,Maria Kamenetsky,Christina Koch",
@@ -2535,6 +2895,21 @@
     "start_date": "2018-08-22"
   },
   {
+    "instructors": "Nelly Sélem,Nelly Sélem,Humberto Ortiz-Zuazaga,Humberto Ortiz-Zuazaga,Israel Dilán,Israel Dilán",
+    "end_date": "2018-08-18",
+    "url": "https://idi-bd2k.github.io/2018-08-17-puertorico-genomics/",
+    "country": "PR",
+    "curriculum": "dc-genomics",
+    "venue": "University of Puerto Rico",
+    "longitude": -66.046144,
+    "slug": "2018-08-17-puertorico",
+    "tag_name": "DC",
+    "helpers": "Eveliz Peguero,Eveliz Peguero,Sebastian Cruz,Sebastian Cruz,Kevin Legarreta Gonzalez,Kevin Legarreta Gonzalez",
+    "host_name": "University of Puerto Rico",
+    "latitude": 18.404008,
+    "start_date": "2018-08-17"
+  },
+  {
     "instructors": "Francisco Palm,Ana Beatriz Villaseñor Altamirano",
     "end_date": "2018-08-16",
     "url": "https://map0logo.github.io/2018-08-15-puerto-rico-ecology/",
@@ -2578,6 +2953,21 @@
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.534597,
     "start_date": "2018-08-15"
+  },
+  {
+    "instructors": "Jason Williams,Jason Williams",
+    "end_date": "2018-08-14",
+    "url": "https://jasonjwilliamsny.github.io/2018-08-13-csu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Genomics Data Carpentry",
+    "longitude": -105.0865473,
+    "slug": "2018-08-13-csu",
+    "tag_name": "DC",
+    "helpers": "Tobin Magle,Tobin Magle,Bridget Eklund,Bridget Eklund,Steven Lakin,Steven Lakin",
+    "host_name": "Colorado State University",
+    "latitude": 40.573436,
+    "start_date": "2018-08-13"
   },
   {
     "instructors": "Caroline Cypranowska,Diya Das",
@@ -2700,6 +3090,21 @@
     "start_date": "2018-07-03"
   },
   {
+    "instructors": "Rebecca Lowdon,Rebecca Lowdon,Doug Jennewein,Doug Jennewein",
+    "end_date": "2018-06-30",
+    "url": "https://rcg.usd.edu/2018-06-29-und-mbdh/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Wegner Health Science Information Center",
+    "longitude": -96.742792,
+    "slug": "2018-06-29-und-mbdh",
+    "tag_name": "DC",
+    "helpers": "Aaron Bergstrom,Aaron Bergstrom,Carrie Brown,Carrie Brown,Joseph Madison,Joseph Madison",
+    "host_name": "University of North Dakota",
+    "latitude": 43.533524,
+    "start_date": "2018-06-29"
+  },
+  {
     "instructors": "Sandra Cortijo,Hugo Tavares,Sergio Martínez Cuesta",
     "end_date": "2018-06-29",
     "url": "https://tavareshugo.github.io/2018-06-28-cambridge/",
@@ -2715,6 +3120,51 @@
     "start_date": "2018-06-28"
   },
   {
+    "instructors": "Ryan Peek,Ryan Peek,Taylor Reiter,Taylor Reiter",
+    "end_date": "2018-06-28",
+    "url": "https://dib-lab.github.io/2018-06-27-DIBSI-Genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UC Davis - DIBSI Genomics",
+    "longitude": -121.7658964,
+    "slug": "2018-06-27-DIBSI-Genomics",
+    "tag_name": "DC",
+    "helpers": "Shannon Joslin,Shannon Joslin,Azalee Bostroem,Azalee Bostroem",
+    "host_name": "University of California Davis",
+    "latitude": 38.5328167,
+    "start_date": "2018-06-27"
+  },
+  {
+    "instructors": "Michele Tobias,Michele Tobias,Michael Culshaw-Maurer,Michael Culshaw-Maurer,Stewart Wilson,Stewart Wilson",
+    "end_date": "2018-06-28",
+    "url": "https://dib-lab.github.io/2018-06-27-DIBSI-Geospatial/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UC Davis - DIBSI Geospatial Workshop",
+    "longitude": -121.7658964,
+    "slug": "2018-06-27-DIBSI-Geospatial",
+    "tag_name": "DC",
+    "helpers": "Kim Mace,Kim Mace",
+    "host_name": "University of California Davis",
+    "latitude": 38.5328167,
+    "start_date": "2018-06-27"
+  },
+  {
+    "instructors": "Aleksandra Taranov,Aleksandra Taranov,Erin Becker,Erin Becker,Daniel Hicks,Daniel Hicks",
+    "end_date": "2018-06-28",
+    "url": "https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "UC Davis - DIBSI Social Sciences Workshop",
+    "longitude": -121.7658964,
+    "slug": "2018-06-27-DIBSI-SocialSci",
+    "tag_name": "DC",
+    "helpers": "Kat Fowler,Kat Fowler,Jane Park,Jane Park,Seth Frey,Seth Frey,Seth Frey,Seth Frey",
+    "host_name": "University of California Davis",
+    "latitude": 38.5328167,
+    "start_date": "2018-06-27"
+  },
+  {
     "instructors": "Punam Amratia,Justin Millar,Geraldine Klarenberg,Hao Ye,David Jennings",
     "end_date": "2018-06-25",
     "url": "https://punama.github.io/2018-25-06-UF-DataCarp/",
@@ -2728,6 +3178,21 @@
     "host_name": "University of Florida",
     "latitude": 29.648248,
     "start_date": "2018-06-25"
+  },
+  {
+    "instructors": "Hugo Bowne-Anderson,Hugo Bowne-Anderson,Jason Williams,Jason Williams",
+    "end_date": "2018-06-24",
+    "url": "https://jasonjwilliamsny.github.io/2018-06-22-cshl/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Genomics Data Carpentry and Machine Learning in R",
+    "longitude": -73.469841,
+    "slug": "2018-06-22-cshl",
+    "tag_name": "DC",
+    "helpers": "Kapeel Chougule,Kapeel Chougule,Jorge Perez de Acha Chavez,Jorge Perez de Acha Chavez",
+    "host_name": "Cold Spring Harbor Laboratory",
+    "latitude": 40.859238,
+    "start_date": "2018-06-22"
   },
   {
     "instructors": "Bianca Peterson,Angelique van Rensburg",
@@ -2820,6 +3285,21 @@
     "start_date": "2018-06-12"
   },
   {
+    "instructors": "Rebecca Dikow,Rebecca Dikow,Vanessa Gonzalez,Vanessa Gonzalez,Matthew Kweskin,Matthew Kweskin,Mike Trizna,Mike Trizna",
+    "end_date": "2018-06-12",
+    "url": "https://smithsonianworkshops.github.io/2018-06-12-nmnh/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Data Carpentry Genomics at NMNH",
+    "longitude": -77.026065,
+    "slug": "2018-06-12-nmnh",
+    "tag_name": "DC",
+    "helpers": "Mirian Tieko Nunes Tsuchiya,Mirian Tieko Nunes Tsuchiya,Mauro Lepore,Mauro Lepore",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.891266,
+    "start_date": "2018-06-12"
+  },
+  {
     "instructors": "Upendra Kumar Devisetty,Elijah Lowe",
     "end_date": "2018-06-06",
     "url": "https://upendrak.github.io/2018-06-05-noble/",
@@ -2865,6 +3345,21 @@
     "start_date": "2018-06-02"
   },
   {
+    "instructors": "Malvika Sharan,Malvika Sharan,Jason Williams,Jason Williams",
+    "end_date": "2018-05-29",
+    "url": "https://malvikasharan.github.io/2018-05-28-Dublin/",
+    "country": "IE",
+    "curriculum": "dc-genomics",
+    "venue": "Data Carpentry Workshop, UCD Conway Institute",
+    "longitude": -7.692054,
+    "slug": "2018-05-28-Dublin",
+    "tag_name": "DC",
+    "helpers": "Bérénice Batut,Bérénice Batut",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 53.142367,
+    "start_date": "2018-05-28"
+  },
+  {
     "instructors": "Heather Gibling,Ahmed Hasan,Catalina Anghel",
     "end_date": "2018-05-23",
     "url": "https://canghel.github.io/2018-05-22-camh/",
@@ -2880,6 +3375,21 @@
     "start_date": "2018-05-22"
   },
   {
+    "instructors": "Claire Curry,Claire Curry,Phillip Doehle,Phillip Doehle,Fred Reiss,Fred Reiss,Katy Felkner,Katy Felkner",
+    "end_date": "2018-05-17",
+    "url": "https://oulib-swc.github.io/2018-05-16-ou-dc/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Oklahoma",
+    "longitude": -97.445848,
+    "slug": "2018-05-16-ou-dc",
+    "tag_name": "DC",
+    "helpers": "Traci Popejoy,Traci Popejoy,Jennifer Koch,Jennifer Koch,Jim Ferguson,Jim Ferguson,Josh Hatzis,Josh Hatzis,Mark Laufersweiler,Mark Laufersweiler",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.208275,
+    "start_date": "2018-05-16"
+  },
+  {
     "instructors": "Kevin Vilbig,Vinh Pham",
     "end_date": "2018-05-17",
     "url": "https://kevin-vilbig.github.io/2018-05-16-rutgers/",
@@ -2893,6 +3403,36 @@
     "host_name": "Rutgers University",
     "latitude": null,
     "start_date": "2018-05-16"
+  },
+  {
+    "instructors": "Jason Williams,Jason Williams,Kapeel Chougule,Kapeel Chougule",
+    "end_date": "2018-05-17",
+    "url": "https://jasonjwilliamsny.github.io/2018-05-16-uno/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Genomics Data Carpentry, University of New Orleans",
+    "longitude": -90.0682305,
+    "slug": "2018-05-16-uno",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New Orleans",
+    "latitude": 30.0285959,
+    "start_date": "2018-05-16"
+  },
+  {
+    "instructors": "Boryana Koseva,Boryana Koseva,Asli Uyar,Asli Uyar",
+    "end_date": "2018-05-11",
+    "url": "https://asliuyar.github.io/2018-05-10-czbiohub/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Chan Zuckerberg Biohub",
+    "longitude": -122.3877,
+    "slug": "2018-05-10-czbiohub",
+    "tag_name": "DC",
+    "helpers": "Paola Castro,Paola Castro,Olga Botvinnik,Olga Botvinnik,Jay Kasberger,Jay Kasberger,Spyros Darmanis,Spyros Darmanis,Josh Batson,Josh Batson,Angela Oliveira Pisco,Angela Oliveira Pisco",
+    "host_name": "Chan Zuckerberg Biohub",
+    "latitude": 37.765839,
+    "start_date": "2018-05-10"
   },
   {
     "instructors": "John Simpson,Chris Want",
@@ -3045,6 +3585,21 @@
     "start_date": "2018-04-16"
   },
   {
+    "instructors": "Ted Hart,Ted Hart,Caryn Johansen,Caryn Johansen",
+    "end_date": "2018-04-12",
+    "url": "https://jasonjwilliamsny.github.io/2018-04-11-czbiohub/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Chan Zuckerberg Biohub",
+    "longitude": -122.3896333,
+    "slug": "2018-04-11-czbiohub",
+    "tag_name": "DC",
+    "helpers": "Josh Baston,Josh Baston,Paola Castro,Paola Castro,Spyros Darmanis,Spyros Darmanis,Jay Kasberger,Jay Kasberger,Sarah Kefayati,Sarah Kefayati,Angela Oliveira Pisco,Angela Oliveira Pisco,Eric Waltari,Eric Waltari,Olga Botvinnik,Olga Botvinnik",
+    "host_name": "Chan Zuckerberg Biohub",
+    "latitude": 37.7659063,
+    "start_date": "2018-04-11"
+  },
+  {
     "instructors": "Marieke Dirksen,Dennis Schmitz,Sam Nooij,Anita Schürch",
     "end_date": "2018-04-04",
     "url": "https://aschuerch.github.io/2018-04-03-Utrecht/",
@@ -3120,6 +3675,21 @@
     "start_date": "2018-03-15"
   },
   {
+    "instructors": "Jason Williams,Jason Williams",
+    "end_date": "2018-03-08",
+    "url": "https://jasonjwilliamsny.github.io/2018-03-07-ncstate/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "James B. Hunt Jr. Library, NC State",
+    "longitude": -78.7114493,
+    "slug": "2018-03-07-ncstate",
+    "tag_name": "DC",
+    "helpers": "Jorge Perez de Acha Chavez,Jorge Perez de Acha Chavez",
+    "host_name": "North Carolina State University",
+    "latitude": 35.7692755,
+    "start_date": "2018-03-07"
+  },
+  {
     "instructors": "Rebecca Dikow,James Holmquist,Matthew Kweskin,Holly Little",
     "end_date": "2018-03-08",
     "url": "https://smithsonianworkshops.github.io/2018-03-07-serc/",
@@ -3148,6 +3718,21 @@
     "host_name": "Aksum University",
     "latitude": 14.10636,
     "start_date": "2018-03-05"
+  },
+  {
+    "instructors": "Matthew Ruttley,Matthew Ruttley,David Yakobovitch,David Yakobovitch",
+    "end_date": "2018-03-04",
+    "url": "https://davidyakobovitch.github.io/2018-03-03-nyu-python/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "New York University",
+    "longitude": -73.974332,
+    "slug": "2018-03-03-nyumc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "New York University",
+    "latitude": 40.742068,
+    "start_date": "2018-03-03"
   },
   {
     "instructors": "Hugo Tavares,Krzysztof Poterlowicz",
@@ -3375,6 +3960,21 @@
     "start_date": "2017-12-14"
   },
   {
+    "instructors": "Dennis Schmitz,Dennis Schmitz,Sam Nooij,Sam Nooij,Marc Galland,Marc Galland,Anita Schürch,Anita Schürch",
+    "end_date": "2017-12-14",
+    "url": "https://aschuerch.github.io/2017-12-13-amsterdam/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "University of Amsterdam",
+    "longitude": 4.912404,
+    "slug": "2017-12-13-amsterdam",
+    "tag_name": "DC",
+    "helpers": "Zsofia Koma,Zsofia Koma,Like Fokkens,Like Fokkens",
+    "host_name": "University of Amsterdam",
+    "latitude": 52.362934,
+    "start_date": "2017-12-13"
+  },
+  {
     "instructors": "Chris Hamm,Jennifer Shelton",
     "end_date": "2017-12-06",
     "url": "https://butterflyology.github.io/2017-12-05-rutgers/",
@@ -3540,6 +4140,36 @@
     "start_date": "2017-10-26"
   },
   {
+    "instructors": "Tonya Ward,Tonya Ward,Bianca Peterson,Bianca Peterson,Tomasz Sanko,Tomasz Sanko,Caroline Ajilogba,Caroline Ajilogba,Leani Bothma,Leani Bothma,Andries van der Walt,Andries van der Walt",
+    "end_date": "2017-10-27",
+    "url": "https://nwu-eresearch.github.io/2017-10-24-ARC-16S/",
+    "country": "ZA",
+    "curriculum": "dc-genomics",
+    "venue": "Metagenomics Data Carpentry Workshop",
+    "longitude": 27.094667,
+    "slug": "2017-10-24-ARC-16S",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -26.68556,
+    "start_date": "2017-10-24"
+  },
+  {
+    "instructors": "Tracy Teal,Tracy Teal,Camille Avestruz,Camille Avestruz",
+    "end_date": "2017-10-18",
+    "url": "https://galaxyproject.org/events/2017-sacnas/#workshop-1-software-and-data-carpentry",
+    "country": "US",
+    "curriculum": null,
+    "venue": "SACNAS Annual meeting",
+    "longitude": -111.891,
+    "slug": "2017-10-18-SACNAS",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)",
+    "latitude": 40.7608,
+    "start_date": "2017-10-18"
+  },
+  {
     "instructors": "Tobin Magle,Brook Moyers",
     "end_date": "2017-10-04",
     "url": "https://maglet.github.io/2017-10-03-NDIC/",
@@ -3600,6 +4230,21 @@
     "start_date": "2017-09-28"
   },
   {
+    "instructors": "Joseph Stachelek,Joseph Stachelek,Ben Best,Ben Best",
+    "end_date": "2017-09-28",
+    "url": "https://jsta.github.io/2017-09-27-LBNL/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "Lawrence Berkeley National Lab",
+    "longitude": -122.248899,
+    "slug": "2017-09-27-LBNL",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Lawrence Berkeley National Laboratory",
+    "latitude": 37.876793,
+    "start_date": "2017-09-27"
+  },
+  {
     "instructors": "Iain Emsley,Pip Willcox,Lucia Michielin",
     "end_date": "2017-09-27",
     "url": "https://rroxford.github.io/2017-09-26-oxford/",
@@ -3613,6 +4258,21 @@
     "host_name": "University of Oxford",
     "latitude": 51.764476,
     "start_date": "2017-09-26"
+  },
+  {
+    "instructors": "Erin Becker,Erin Becker,Asli Uyar,Asli Uyar",
+    "end_date": "2017-09-20",
+    "url": "https://asliuyar.github.io/2017-09-19-berkeleylab",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Lawrence Berkeley National Laboratory",
+    "longitude": -71.062263,
+    "slug": "2017-09-19-LBNL",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Lawrence Berkeley National Laboratory",
+    "latitude": 42.350061,
+    "start_date": "2017-09-19"
   },
   {
     "instructors": "Martin Canaan Mafunda,Anelda van der Walt,Katrin Tirok,Jacqueline Muller,Ivo Agbor Arrey",
@@ -3750,6 +4410,21 @@
     "start_date": "2017-08-14"
   },
   {
+    "instructors": "Erin Becker,Erin Becker,Kate Hertweck,Kate Hertweck",
+    "end_date": "2017-08-08",
+    "url": "https://k8hertweck.github.io/2017-08-07-LBNL/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Lawrence Berkeley National Laboratory",
+    "longitude": -122.250006,
+    "slug": "2017-08-07-LBNL",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Lawrence Berkeley National Laboratory",
+    "latitude": 37.87597,
+    "start_date": "2017-08-07"
+  },
+  {
     "instructors": "Erin Becker,Kristina Riemer",
     "end_date": "2017-08-02",
     "url": "https://kristinariemer.github.io/2017-08-01-berkeleylab/",
@@ -3762,6 +4437,21 @@
     "helpers": "Dana Miller,Scott Peterson",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.875928,
+    "start_date": "2017-08-01"
+  },
+  {
+    "instructors": "Juan Steyn,Juan Steyn,Martin Dreyer,Martin Dreyer,Angelique van Rensburg,Angelique van Rensburg,Caroline Ajilogba,Caroline Ajilogba,Riaan van der Walt,Riaan van der Walt",
+    "end_date": "2017-08-03",
+    "url": "https://dh-southernafrica.github.io/2017-08-01-Potch/",
+    "country": "ZA",
+    "curriculum": null,
+    "venue": "North-West University",
+    "longitude": 27.0920373,
+    "slug": "2017-08-01-Potch",
+    "tag_name": "DC",
+    "helpers": "Zine Sapula,Zine Sapula",
+    "host_name": "North-West University",
+    "latitude": -26.687123,
     "start_date": "2017-08-01"
   },
   {
@@ -3855,6 +4545,21 @@
     "start_date": "2017-07-12"
   },
   {
+    "instructors": "Jason Williams,Jason Williams,John Fonner,John Fonner",
+    "end_date": "2017-07-07",
+    "url": "https://jasonjwilliamsny.github.io/2017-07-05-uniarkansas/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Arkansas",
+    "longitude": -94.1682237,
+    "slug": "2017-07-05-uniarkansas",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Arkansas",
+    "latitude": 36.062913,
+    "start_date": "2017-07-06"
+  },
+  {
     "instructors": "Samar Elsheikh",
     "end_date": "2017-07-08",
     "url": "https://software-carpentry.org/blog/2017/11/gabon-bioinformatics.html",
@@ -3942,6 +4647,21 @@
     "helpers": "Claudia Engel,Mary-Ellen Petrich,Sarah Munro,Amy Hodge,Chris DeBoever,Ben Stenhaug,Kris Sankaran",
     "host_name": "Stanford University",
     "latitude": 37.43181,
+    "start_date": "2017-06-17"
+  },
+  {
+    "instructors": "Catalina Anghel,Catalina Anghel,Bo Ji,Bo Ji",
+    "end_date": "2017-06-17",
+    "url": "https://canghel.github.io/2017-06-17-stlouis/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "The Donald Danforth Plant Science Center",
+    "longitude": -90.397576,
+    "slug": "2017-06-17-stlouis",
+    "tag_name": "DC",
+    "helpers": "Alex Harkess,Alex Harkess,Patricia Baldrich,Patricia Baldrich",
+    "host_name": "University of California Davis",
+    "latitude": 38.674299,
     "start_date": "2017-06-17"
   },
   {
@@ -4185,6 +4905,21 @@
     "start_date": "2017-04-20"
   },
   {
+    "instructors": "Jay van Schyndel,Jay van Schyndel,Collin Storlie,Collin Storlie",
+    "end_date": "2017-04-07",
+    "url": "https://jcu-eresearch.github.io/2017-04-06-DataCarpentry-Genomics-TSV",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "Room 306",
+    "longitude": 146.815951,
+    "slug": "2017-04-06-DataCarpentry-Genomics-TSV",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "James Cook University",
+    "latitude": -19.260262,
+    "start_date": "2017-04-06"
+  },
+  {
     "instructors": "Sue McClatchy,Saira Kazmi,Shane Sanders,Sandeep Namburi",
     "end_date": "2017-04-07",
     "url": "https://smcclatchy.github.io/2017-04-06-farmington/",
@@ -4228,6 +4963,36 @@
     "host_name": "University of Delaware",
     "latitude": 39.677976,
     "start_date": "2017-03-29"
+  },
+  {
+    "instructors": "Juan Steyn,Juan Steyn,Martin Dreyer,Martin Dreyer,Bianca Peterson,Bianca Peterson",
+    "end_date": "2017-03-24",
+    "url": "https://nwu-digitalhumanities.github.io/2017-03-23-Mafikeng/",
+    "country": "ZA",
+    "curriculum": null,
+    "venue": "North-West University",
+    "longitude": 25.608657,
+    "slug": "2017-03-23-Mafikeng",
+    "tag_name": "DC",
+    "helpers": "Caroline Ajilogba,Caroline Ajilogba,Bennett Kankuzi,Bennett Kankuzi",
+    "host_name": "North-West University",
+    "latitude": -25.829108,
+    "start_date": "2017-03-23"
+  },
+  {
+    "instructors": "Mateusz Kuzak,Mateusz Kuzak,Lex Nederbragt,Lex Nederbragt,Anita Schürch,Anita Schürch",
+    "end_date": "2017-03-23",
+    "url": "https://aschuerch.github.io/2017-03-22-amsterdam/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Amsterdam Science park",
+    "longitude": 4.952676,
+    "slug": "2017-03-22-amsterdam",
+    "tag_name": "DC",
+    "helpers": "Sergio Arredondo Alonso,Sergio Arredondo Alonso,Malbert Rogers,Malbert Rogers",
+    "host_name": "Amsterdam Science Park",
+    "latitude": 52.355235,
+    "start_date": "2017-03-22"
   },
   {
     "instructors": "Daniel Standage,Chris Hamm",
@@ -4378,6 +5143,21 @@
     "host_name": "Harvard University",
     "latitude": 42.366524,
     "start_date": "2016-12-01"
+  },
+  {
+    "instructors": "Jon Badalamenti,Jon Badalamenti,Tracy Teal,Tracy Teal",
+    "end_date": "2016-11-22",
+    "url": "https://tracykteal.github.io/2016-11-21-genomics-unm/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "105 Cargill Building, University of Minnesota",
+    "longitude": -93.22807,
+    "slug": "2016-11-21-genomics-unm",
+    "tag_name": "DC",
+    "helpers": "C. Titus Brown,C. Titus Brown,Lauren Mills,Lauren Mills",
+    "host_name": "University of Minnesota",
+    "latitude": 44.974425,
+    "start_date": "2016-11-21"
   },
   {
     "instructors": "Brenda Moon,Martin Callaghan,Andy Evans",
@@ -4605,6 +5385,21 @@
     "start_date": "2016-09-27"
   },
   {
+    "instructors": "Bianca Peterson,Bianca Peterson,Maryke Schoonen,Maryke Schoonen,Jason Williams,Jason Williams",
+    "end_date": "2016-09-29",
+    "url": "https://nwu-eresearch.github.io/2016-09-26-nwu-genomics/",
+    "country": "ZA",
+    "curriculum": "dc-genomics",
+    "venue": "North-West University",
+    "longitude": 27.094909,
+    "slug": "2016-09-26-nwu-genomics",
+    "tag_name": "DC",
+    "helpers": "Anelda van der Walt,Anelda van der Walt",
+    "host_name": "North-West University",
+    "latitude": -26.685508,
+    "start_date": "2016-09-26"
+  },
+  {
     "instructors": "Steve Van Tuyl,Adelaide Rhodes",
     "end_date": "2016-09-07",
     "url": "https://vantuyls.github.io/2016-09-06-OSUHMSC/",
@@ -4618,6 +5413,21 @@
     "host_name": "Oregon State University",
     "latitude": 44.6220974,
     "start_date": "2016-09-06"
+  },
+  {
+    "instructors": "Cam Macdonell,Cam Macdonell,Juan Steyn,Juan Steyn",
+    "end_date": "2016-09-01",
+    "url": "https://nwu-eresearch.github.io/2016-08-29-nwu-mafikeng/",
+    "country": "ZA",
+    "curriculum": null,
+    "venue": "North-West University",
+    "longitude": 25.608657,
+    "slug": "2016-08-29-nwu-mafikeng",
+    "tag_name": "CDC",
+    "helpers": "Adewale Adeogun,Adewale Adeogun,Caroline Ajilogba,Caroline Ajilogba,Anelda van der Walt,Anelda van der Walt,Martin Dreyer,Martin Dreyer,Tshiamo Motshegwa,Tshiamo Motshegwa",
+    "host_name": "North-West University",
+    "latitude": -25.829108,
+    "start_date": "2016-08-29"
   },
   {
     "instructors": "Jeff Hollister,Ryan Peek",
@@ -4755,6 +5565,21 @@
     "start_date": "2016-07-25"
   },
   {
+    "instructors": "Joseph Stachelek,Joseph Stachelek,Christa Zweig,Christa Zweig",
+    "end_date": "2016-07-22",
+    "url": "https://jsta.github.io/2016-07-21-sfwmd/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "South Florida Water Management District",
+    "longitude": -80.095131,
+    "slug": "2016-07-21-sfwmd",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South Florida Water Management District",
+    "latitude": 26.675907,
+    "start_date": "2016-07-21"
+  },
+  {
     "instructors": "Mark Robinson,Lukas Weber,Jennifer Bryan,Diana Marek",
     "end_date": "2016-07-19",
     "url": "https://markrobinsonuzh.github.io/2016-07-18-zurich/",
@@ -4783,6 +5608,21 @@
     "host_name": "University of Melbourne",
     "latitude": -33.880842,
     "start_date": "2016-07-12"
+  },
+  {
+    "instructors": "Cam Macdonell,Cam Macdonell,John Simpson,John Simpson",
+    "end_date": "2016-06-24",
+    "url": "http://datacarpentry.github.io/2016-06-23-CC/",
+    "country": "CA",
+    "curriculum": null,
+    "venue": "University of Alberta",
+    "longitude": -113.521746,
+    "slug": "2016-06-23-CC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Compute Canada",
+    "latitude": 53.5270327,
+    "start_date": "2016-06-23"
   },
   {
     "instructors": "Cam Macdonell,John Simpson",
@@ -4905,6 +5745,36 @@
     "start_date": "2016-05-30"
   },
   {
+    "instructors": "Jason Williams,Jason Williams,Ryan Dale,Ryan Dale,Adam Thomas,Adam Thomas",
+    "end_date": "2016-05-27",
+    "url": "http://datacarpentry.github.io/2016-05-26-NIH/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "National Institutes of Health",
+    "longitude": -77.1044218,
+    "slug": "2016-05-26-NIH",
+    "tag_name": "DC",
+    "helpers": "Vinai Roopchansingh,Vinai Roopchansingh,John Lee,John Lee",
+    "host_name": "National Institutes of Health",
+    "latitude": 39.0027815,
+    "start_date": "2016-05-26"
+  },
+  {
+    "instructors": "Joseph Stachelek,Joseph Stachelek,Christa Zweig,Christa Zweig",
+    "end_date": "2016-05-27",
+    "url": "http://jsta.github.io/2016-05-26-sfwmd/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "South Florida Water Management District",
+    "longitude": -80.095131,
+    "slug": "2016-05-26-sfwmd",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South Florida Water Management District",
+    "latitude": 26.675907,
+    "start_date": "2016-05-26"
+  },
+  {
     "instructors": "Laurent Gatto",
     "end_date": "2016-05-16",
     "url": "http://lgatto.github.io/2016-05-16-CAM/",
@@ -4918,6 +5788,21 @@
     "host_name": "University of Cambridge",
     "latitude": 52.201951,
     "start_date": "2016-05-16"
+  },
+  {
+    "instructors": "Westa Domanova,Westa Domanova,Paula Andrea Martinez,Paula Andrea Martinez",
+    "end_date": "2016-05-12",
+    "url": "http://combine-australia.github.io/2016-05-12-CharlesDarwinUni/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "Charles Darwin University",
+    "longitude": 130.8689,
+    "slug": "2016-05-12-CharlesDarwinUni",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Charles Darwin University",
+    "latitude": -12.3722,
+    "start_date": "2016-05-12"
   },
   {
     "instructors": "Sherry Lake,Steve Van Tuyl",
@@ -5010,6 +5895,21 @@
     "start_date": "2016-04-12"
   },
   {
+    "instructors": "Leah Wasser,Leah Wasser,Megan A. Jones,Megan A. Jones,Natalie Robinson,Natalie Robinson",
+    "end_date": "2016-04-13",
+    "url": "http://neondataskills.org/workshop-event/NEON-DC-Spatial-04-12-2016",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "",
+    "longitude": null,
+    "slug": "2016-04-12-usgs_denver_DC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "United States Geological Survey",
+    "latitude": null,
+    "start_date": "2016-04-12"
+  },
+  {
     "instructors": "Dirk Eddelbuettel,John Moreau",
     "end_date": "2016-04-08",
     "url": "https://johnrmoreau.github.io/2016-04-07-FederalReserveBoard/",
@@ -5038,6 +5938,21 @@
     "host_name": "Gonzaga University",
     "latitude": 47.667666,
     "start_date": "2016-04-04"
+  },
+  {
+    "instructors": "Leah Wasser,Leah Wasser,Leah Wasser,Michael Heeremans,Michael Heeremans,Michael Heeremans,Anne Fouilloux,Anne Fouilloux,Anne Fouilloux",
+    "end_date": "2016-03-16",
+    "url": "http://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/",
+    "country": "NO",
+    "curriculum": "dc-geospatial",
+    "venue": "University of Oslo",
+    "longitude": 10.722441,
+    "slug": "2016-03-15-OSLOdataGeo",
+    "tag_name": "DC",
+    "helpers": "Arnstein Orten,Arnstein Orten,Arnstein Orten,Jorn Viljar Arnesen,Jorn Viljar Arnesen,Jorn Viljar Arnesen,Hans Peter Verne,Hans Peter Verne,Hans Peter Verne,Leon du Toit,Leon du Toit,Leon du Toit,Sofia Abrha,Sofia Abrha,Sofia Abrha",
+    "host_name": "University of Oslo",
+    "latitude": 59.938175,
+    "start_date": "2016-03-15"
   },
   {
     "instructors": "Tracy Teal,Lex Nederbragt,Carrie Andrew",
@@ -5145,6 +6060,21 @@
     "start_date": "2016-02-22"
   },
   {
+    "instructors": "Arvind Sundaram,Arvind Sundaram,Hugues Fontenelle,Hugues Fontenelle,Halfdan Rydbeck,Halfdan Rydbeck,Anne Fouilloux,Anne Fouilloux,Benjamin Laken,Benjamin Laken,Lex Nederbragt,Lex Nederbragt",
+    "end_date": "2016-02-02",
+    "url": "http://uio-carpentry.github.io/2016-02-01-Oslo/",
+    "country": "NO",
+    "curriculum": null,
+    "venue": "University of Oslo",
+    "longitude": 10.723464,
+    "slug": "2016-02-01-oslo",
+    "tag_name": "DC",
+    "helpers": "Halfdan Rydbeck,Halfdan Rydbeck,Hans Brenna,Hans Brenna,Katie Dean,Katie Dean,William Brynildsen,William Brynildsen",
+    "host_name": "University of Oslo",
+    "latitude": 59.94012,
+    "start_date": "2016-02-01"
+  },
+  {
     "instructors": "Shoaib Sufi,Malcom Penn,Consuelo Sendino,Ahmad Alam",
     "end_date": "2016-01-27",
     "url": "http://callaghanmt.github.io/2016-01-26-london-nhm/",
@@ -5160,6 +6090,21 @@
     "start_date": "2016-01-26"
   },
   {
+    "instructors": "Mateusz Kuzak,Mateusz Kuzak,Carlos Martinez-Ortiz,Carlos Martinez-Ortiz,Christine Staiger,Christine Staiger",
+    "end_date": "2016-01-29",
+    "url": "http://mkuzak.github.io/2016-01-25-Utrecht/",
+    "country": "NL",
+    "curriculum": null,
+    "venue": "SURF",
+    "longitude": 5.113465,
+    "slug": "2016-01-25-Utrecht",
+    "tag_name": "CDC",
+    "helpers": "Hakim Achterberg,Hakim Achterberg,Haili Hu,Haili Hu,Vincent van Hees,Vincent van Hees,Anand Gavai,Anand Gavai,Markus van Dijk,Markus van Dijk",
+    "host_name": "Netherlands eScience Center",
+    "latitude": 52.089057,
+    "start_date": "2016-01-25"
+  },
+  {
     "instructors": "Martin Callaghan,Ahmad Alam,Consuelo Sendino,Malcom Penn",
     "end_date": "2016-01-20",
     "url": "http://callaghanmt.github.io/2016-01-19-london-nhm/",
@@ -5172,6 +6117,21 @@
     "helpers": null,
     "host_name": "National History Museum",
     "latitude": 51.495933,
+    "start_date": "2016-01-19"
+  },
+  {
+    "instructors": "Jason Williams,Jason Williams,Sheldon McKay,Sheldon McKay,Matthew Aiello-Lammens,Matthew Aiello-Lammens",
+    "end_date": "2016-01-20",
+    "url": "http://www.datacarpentry.org/2016-01-19-sbu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Stonybrook University",
+    "longitude": -73.1220717,
+    "slug": "2016-01-19-sbu",
+    "tag_name": "DC",
+    "helpers": "Joslynn Lee,Joslynn Lee,Laura Graham,Laura Graham",
+    "host_name": "Stony Brook University",
+    "latitude": 40.916011,
     "start_date": "2016-01-19"
   },
   {
@@ -5295,6 +6255,21 @@
     "start_date": "2015-11-04"
   },
   {
+    "instructors": "Leszek Tarkowski,Leszek Tarkowski,Frederik Coppens,Frederik Coppens",
+    "end_date": "2015-11-02",
+    "url": "http://leszektarkowski.github.io/2015-11-02-DC-Brussels/",
+    "country": "BE",
+    "curriculum": null,
+    "venue": "BELSPO",
+    "longitude": 4.365441,
+    "slug": "2015-11-02-DC-Brussels",
+    "tag_name": "DC",
+    "helpers": "Dima Fishman,Dima Fishman,Christof De Bo,Christof De Bo",
+    "host_name": "Belgian Science Policy (BELSPO)",
+    "latitude": 50.825349,
+    "start_date": "2015-11-02"
+  },
+  {
     "instructors": "Aleksandra Pawlik,Martin Callaghan,Krzysztof Poterlowicz",
     "end_date": "2015-10-30",
     "url": "https://hpcarcher.github.io/2015-10-29-Leeds-DC/",
@@ -5340,6 +6315,21 @@
     "start_date": "2015-09-23"
   },
   {
+    "instructors": "Jason Williams,Jason Williams,Tracy Teal,Tracy Teal,John Fonner,John Fonner",
+    "end_date": "2015-09-23",
+    "url": "http://www.datacarpentry.org/2015-09-22-UCDavis/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UC Davis",
+    "longitude": -121.75,
+    "slug": "2015-09-22-ucdavis",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Davis",
+    "latitude": 38.54,
+    "start_date": "2015-09-22"
+  },
+  {
     "instructors": "Tracy Teal,Ben Johnson",
     "end_date": "2015-09-22",
     "url": "http://datacarpentry.github.io/2015-09-21-Genentech/",
@@ -5383,6 +6373,51 @@
     "host_name": "Memorial Sloan Kettering Cancer Center",
     "latitude": 40.764908,
     "start_date": "2015-08-24"
+  },
+  {
+    "instructors": "Adina Howe,Adina Howe,Fan Yang,Fan Yang",
+    "end_date": "2015-08-25",
+    "url": "http://www.datacarpentry.org/2015-08-24-ISU/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Iowa State University",
+    "longitude": -93.652714,
+    "slug": "2015-08-24-isu",
+    "tag_name": "DC",
+    "helpers": "Jinsu Choi,Jinsu Choi,Julian Trachsel,Julian Trachsel,Heather Allen,Heather Allen",
+    "host_name": "Iowa State University",
+    "latitude": 42.027372,
+    "start_date": "2015-08-24"
+  },
+  {
+    "instructors": "Karthik Ram,Karthik Ram,François Michonneau,François Michonneau,Matthias Haeni,Matthias Haeni",
+    "end_date": "2015-08-22",
+    "url": "http://www.datacarpentry.org/dc_zurich/",
+    "country": "CH",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2015-08-19-zurich",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Zurich",
+    "latitude": null,
+    "start_date": "2015-08-19"
+  },
+  {
+    "instructors": "Jason Williams,Jason Williams,Sheldon McKay,Sheldon McKay,Ryan Williams,Ryan Williams",
+    "end_date": "2015-07-31",
+    "url": "http://www.datacarpentry.org/2015-07-30-ASPB/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Minneapolis, Minnesota",
+    "longitude": -93.265,
+    "slug": "2015-07-30-ASPB",
+    "tag_name": "DC",
+    "helpers": "Christos Noustsos,Christos Noustsos,Jon Badalamenti,Jon Badalamenti,Nowlan Freese,Nowlan Freese",
+    "host_name": "American Society of Plant Biologists",
+    "latitude": 44.9778,
+    "start_date": "2015-07-30"
   },
   {
     "instructors": "Stephen Turner,Amanda Charbonneau",
