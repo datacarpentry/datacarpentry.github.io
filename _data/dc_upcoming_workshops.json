@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Daniel Ouso,Bianca Peterson",
+    "instructors": "Bianca Peterson,Daniel Ouso",
     "end_date": "2019-12-11",
     "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",
     "country": "KE",
@@ -15,7 +15,7 @@
     "start_date": "2019-12-10"
   },
   {
-    "instructors": "Evan Matthews,Tim Keighley,Fiona Jones",
+    "instructors": "Fiona Jones,Tim Keighley,Evan Matthews",
     "end_date": "2019-12-12",
     "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
     "country": "AU",
@@ -30,7 +30,22 @@
     "start_date": "2019-12-11"
   },
   {
-    "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",
+    "instructors": null,
+    "end_date": "2019-12-13",
+    "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
+    "country": "GB",
+    "curriculum": "dc-socsci-r",
+    "venue": "FIXME",
+    "longitude": -2.2360777,
+    "slug": "2019-12-12-Manchester",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.466853,
+    "start_date": "2019-12-12"
+  },
+  {
+    "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
     "country": "US",
@@ -45,7 +60,7 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Dan Leehr,Hilmar Lapp",
+    "instructors": "Hilmar Lapp,Dan Leehr",
     "end_date": "2019-12-19",
     "url": "https://Duke-GCB.github.io/2019-12-18-duke",
     "country": "US",
@@ -60,7 +75,7 @@
     "start_date": "2019-12-18"
   },
   {
-    "instructors": "Toby Hodges,Florian Huber,Fotis Psomopoulos",
+    "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
     "country": "DE",
@@ -69,7 +84,7 @@
     "longitude": 8.709467,
     "slug": "2020-01-28-heidelberg",
     "tag_name": "DC",
-    "helpers": "Malvika Sharan,Georg Zeller,Thea Van Rossum",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
@@ -90,7 +105,7 @@
     "start_date": "2020-02-09"
   },
   {
-    "instructors": "Daniel Brett,James Desjardins,Tim Ribaric",
+    "instructors": "Tim Ribaric,James Desjardins,Daniel Brett",
     "end_date": "2020-02-20",
     "url": "https://brockdsl.github.io/2020-02-19-BrockU/",
     "country": "CA",
@@ -103,6 +118,21 @@
     "host_name": "Brock University",
     "latitude": 43.11747,
     "start_date": "2020-02-19"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-03-04",
+    "url": "https://tgac.github.io/2020-03-03-earlham/",
+    "country": "",
+    "curriculum": null,
+    "venue": "Earlham Institute",
+    "longitude": 1.218976,
+    "slug": "2020-03-03-earlham",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621887,
+    "start_date": "2020-03-03"
   },
   {
     "instructors": "Annika Rockenberger,Matthew Good",
@@ -120,7 +150,7 @@
     "start_date": "2020-04-28"
   },
   {
-    "instructors": "Nick Wong,Will Pitchers,Paul Harrison",
+    "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
     "country": "AU",
