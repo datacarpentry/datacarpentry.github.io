@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Fiona Jones,Tim Keighley,Evan Matthews",
+    "end_date": "2019-12-12",
+    "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
+    "country": "AU",
+    "curriculum": "dc-other",
+    "venue": "Macquarie University",
+    "longitude": 151.113122,
+    "slug": "2019-12-11-MQ_IntroR",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Macquarie University",
+    "latitude": -33.775731,
+    "start_date": "2019-12-11"
+  },
+  {
     "instructors": "Bianca Peterson,Daniel Ouso",
     "end_date": "2019-12-11",
     "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",
