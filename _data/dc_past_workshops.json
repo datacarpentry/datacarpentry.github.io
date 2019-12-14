@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2019-12-13",
+    "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
+    "country": "GB",
+    "curriculum": "dc-socsci-r",
+    "venue": "FIXME",
+    "longitude": -2.2360777,
+    "slug": "2019-12-12-Manchester",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.466853,
+    "start_date": "2019-12-12"
+  },
+  {
     "instructors": "Fiona Jones,Tim Keighley,Evan Matthews",
     "end_date": "2019-12-12",
     "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
@@ -1365,7 +1380,7 @@
     "start_date": "2019-05-15"
   },
   {
-    "instructors": "Ana Costa Conrado",
+    "instructors": "Ana Costa Conrado,Viviane Girardin",
     "end_date": "2019-05-15",
     "url": "https://uio-carpentry.github.io/2019-05-15-R/",
     "country": "NO",
@@ -1824,7 +1839,7 @@
     "longitude": 10.7237,
     "slug": "2019-03-08-R",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Viviane Girardin",
     "host_name": "University of Oslo",
     "latitude": 59.94003,
     "start_date": "2019-03-08"
@@ -6268,21 +6283,6 @@
     "host_name": "University of Miami",
     "latitude": 25.790369,
     "start_date": "2016-02-22"
-  },
-  {
-    "instructors": "Hugues Fontenelle,Lex Nederbragt,Arvind Sundaram,Halfdan Rydbeck,Benjamin Laken,Anne Fouilloux",
-    "end_date": "2016-02-02",
-    "url": "http://uio-carpentry.github.io/2016-02-01-Oslo/",
-    "country": "NO",
-    "curriculum": null,
-    "venue": "University of Oslo",
-    "longitude": 10.723464,
-    "slug": "2016-02-01-oslo",
-    "tag_name": "DC",
-    "helpers": "Halfdan Rydbeck,Hans Brenna,Katie Dean,William Brynildsen",
-    "host_name": "University of Oslo",
-    "latitude": 59.94012,
-    "start_date": "2016-02-01"
   },
   {
     "instructors": "Shoaib Sufi,Ahmad Alam,Consuelo Sendino,Malcom Penn",
