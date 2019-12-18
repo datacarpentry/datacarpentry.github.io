@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
-    "end_date": "2019-12-17",
-    "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Oklahoma State University",
-    "longitude": -97.069612,
-    "slug": "2019-12-16-okstate",
-    "tag_name": "DC",
-    "helpers": "Ki Cole",
-    "host_name": "Oklahoma State University",
-    "latitude": 36.122987,
-    "start_date": "2019-12-16"
-  },
-  {
     "instructors": "Hilmar Lapp,Dan Leehr",
     "end_date": "2019-12-19",
     "url": "https://Duke-GCB.github.io/2019-12-18-duke",
