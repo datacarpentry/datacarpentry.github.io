@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Hilmar Lapp,Dan Leehr",
+    "end_date": "2019-12-19",
+    "url": "https://Duke-GCB.github.io/2019-12-18-duke",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Duke University",
+    "longitude": -78.938281,
+    "slug": "2019-12-18-duke",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Duke University",
+    "latitude": 36.002956,
+    "start_date": "2019-12-18"
+  },
+  {
     "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
