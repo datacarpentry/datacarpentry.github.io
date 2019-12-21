@@ -15,6 +15,21 @@
     "start_date": "2019-12-18"
   },
   {
+    "instructors": "Bonny Adane,Margareth Gfrerer,Yared Ergu",
+    "end_date": "2019-12-19",
+    "url": "https://educationstrategycenter.github.io/2019-12-17-DC/",
+    "country": "ET",
+    "curriculum": "dc-ecology-r",
+    "venue": "Increasing Researchers' Digital Literacy - Ambo University",
+    "longitude": 37.858421,
+    "slug": "2019-12-17-DC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Ambo University",
+    "latitude": 8.9824,
+    "start_date": "2019-12-17"
+  },
+  {
     "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
