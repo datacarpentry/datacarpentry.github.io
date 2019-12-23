@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Amelia McNamara,Kelsey Gonzalez",
+    "end_date": "2020-01-16",
+    "url": "https://kelseygonzalez.github.io/2020-01-15-brynmawr/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Bryn Mawr College",
+    "longitude": -83.8917,
+    "slug": "2020-01-15-bryn_mawr",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Bryn Mawr",
+    "latitude": 32.54972,
+    "start_date": "2020-01-15"
+  },
+  {
     "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
@@ -58,6 +73,36 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
     "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Kay BJornen",
+    "end_date": "2020-03-17",
+    "url": "https://osu-carpentry.github.io/2020-03-16-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069743,
+    "slug": "2020-03-16-okstate",
+    "tag_name": "DC",
+    "helpers": "Phillip Doehle",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122951,
+    "start_date": "2020-03-16"
+  },
+  {
+    "instructors": "Erich Seamon",
+    "end_date": "2020-03-27",
+    "url": "https://erichseamon.github.io/2020-03-26-uidaho-geospatial",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "University of Idaho",
+    "longitude": -117.01093,
+    "slug": "2020-03-26-uidaho-geospatial",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Idaho",
+    "latitude": 46.72696,
+    "start_date": "2020-03-26"
   },
   {
     "instructors": "Annika Rockenberger,Matthew Good",
