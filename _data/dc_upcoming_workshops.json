@@ -30,6 +30,21 @@
     "start_date": "2020-01-28"
   },
   {
+    "instructors": "Jennifer Shelton,Sebastien Vigneau",
+    "end_date": "2020-01-31",
+    "url": "https://smcclatchy.github.io/2020-01-30-jacksonLab/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "The Jackson Laboratory for Genomic Medicine",
+    "longitude": -1,
+    "slug": "2020-01-30-jacksonLab",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 45,
+    "start_date": "2020-01-30"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",
