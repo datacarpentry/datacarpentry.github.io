@@ -46,7 +46,7 @@ The membership is made up of:
 - The signatory for a Silver, Gold or Platinum Member Organization
 
 If you're not sure if you're a member, log in to
-[AMY](https://amy.software-carpentry.org/account/login/) and see if records show
+[AMY](https://amy.carpentries.org/account/login/) and see if records show
 that you have taught in the last two years. If you need records updated or have
 any questions, please email [team@carpentries.org](mailto:team@carpentries.org).
 If you have taught workshops that aren't registered, please include a link to
