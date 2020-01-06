@@ -10,11 +10,11 @@ permalink: "/workshops-host/"
 **Information on how to request and host a Data Carpentry workshop.**
 
 
-Already know the details? [Request a Workshop!](https://amy.software-carpentry.org/workshops/dc/request/)  and one of our [Regional Coordinators](https://carpentries.org/regionalcoordinators/) will be in touch to get started planning.
+Already know the details? [Request a Workshop!](https://amy.carpentries.org/workshops/dc/request/)  and one of our [Regional Coordinators](https://carpentries.org/regionalcoordinators/) will be in touch to get started planning.
 
 ### Process for Requesting and Hosting a Workshop
 
-- Request a workshop through our [Workshop Request Form](https://amy.software-carpentry.org/workshops/dc/request/). You will be asked to select a range of dates that will work for your workshop and for information about the target audience, so we know which [workshop curriculum](/workshops-offered) will be best for you.
+- Request a workshop through our [Workshop Request Form](https://amy.carpentries.org/workshops/dc/request/). You will be asked to select a range of dates that will work for your workshop and for information about the target audience, so we know which [workshop curriculum](/workshops-offered) will be best for you.
 
 - We will find Instructors for your workshop and then work with you to set a final date and curriculum for your workshop.
 

@@ -8,7 +8,7 @@ commands :
 
 ## amy        : update workshop and other data from AMY.
 amy :
-	${PY} bin/get-amy.py -u https://amy.software-carpentry.org/api/v1/ -o _data/amy.yml --tags-any=DC
+	${PY} bin/get-amy.py -u https://amy.carpentries.org/api/v1/ -o _data/amy.yml --tags-any=DC
 
 ## serve      : run a local server.
 serve : 
