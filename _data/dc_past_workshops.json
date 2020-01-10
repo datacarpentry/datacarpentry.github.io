@@ -30,7 +30,7 @@
     "start_date": "2019-12-17"
   },
   {
-    "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
+    "instructors": "Peter Hoyt,Hua Lin,Clarke Iakovakis",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
     "country": "US",
@@ -39,7 +39,7 @@
     "longitude": -97.069612,
     "slug": "2019-12-16-okstate",
     "tag_name": "DC",
-    "helpers": "Ki Cole",
+    "helpers": "Phillip Doehle,Kay BJornen,Ki Cole",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-12-16"
@@ -342,6 +342,21 @@
     "helpers": null,
     "host_name": "ARCHER",
     "latitude": 51.49191,
+    "start_date": "2019-10-29"
+  },
+  {
+    "instructors": "Lori Shapiro,Zenobie Garrett",
+    "end_date": "2019-10-30",
+    "url": "https://zenobieg.github.io/2020-01-14-nas/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "National Academy of Sciences",
+    "longitude": -89.09296,
+    "slug": "2020-01-14-nas",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Academy of Science",
+    "latitude": 30.453088,
     "start_date": "2019-10-29"
   },
   {
@@ -984,7 +999,7 @@
     "longitude": 170.51267,
     "slug": "2019-07-04-otago",
     "tag_name": "DC",
-    "helpers": "Murray Cadzow,Matt Bixley,Dinindu Senanayake",
+    "helpers": "Murray Cadzow,Matt Bixley,Dinindu Senanayake,Megan Leask",
     "host_name": "University of Otago",
     "latitude": -45.86442,
     "start_date": "2019-07-04"
