@@ -915,7 +915,7 @@
     "start_date": "2019-07-22"
   },
   {
-    "instructors": "Justin Millar,Aleksandra Taranov",
+    "instructors": "Justin Millar,Aleksandra Singer",
     "end_date": "2019-07-23",
     "url": "https://justinmillar.github.io/2019-07-22-genentech/",
     "country": "US",
@@ -2319,7 +2319,7 @@
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
     "tag_name": "DC",
-    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
+    "helpers": "Nistara Randhawa,Aleksandra Singer,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
     "start_date": "2019-01-03"
@@ -3039,7 +3039,7 @@
     "longitude": -122.37927,
     "slug": "2018-08-27-genentech-b",
     "tag_name": "DC",
-    "helpers": "Altaf Kassam,Aleksandra Taranov,Marinella Callow,Jennifer Giltnane,Sarah Headland",
+    "helpers": "Altaf Kassam,Aleksandra Singer,Marinella Callow,Jennifer Giltnane,Sarah Headland",
     "host_name": "Genentech",
     "latitude": 37.65633,
     "start_date": "2018-08-27"
@@ -3360,7 +3360,7 @@
     "start_date": "2018-06-27"
   },
   {
-    "instructors": "Erin Becker,Daniel Hicks,Aleksandra Taranov",
+    "instructors": "Erin Becker,Daniel Hicks,Aleksandra Singer",
     "end_date": "2018-06-28",
     "url": "https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/",
     "country": "US",
