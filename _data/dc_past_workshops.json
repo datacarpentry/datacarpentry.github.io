@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Dominik Kutra",
+    "end_date": "2020-01-15",
+    "url": "https://tobyhodges.github.io/2020-01-14-heidelberg/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "European Molecular Biology Laboratory",
+    "longitude": 8.709467,
+    "slug": "2020-01-14-heidelberg",
+    "tag_name": "DC",
+    "helpers": "Toby Hodges",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384151,
+    "start_date": "2020-01-14"
+  },
+  {
+    "instructors": "Mike Trizna,Amanda Devine",
+    "end_date": "2020-01-14",
+    "url": "https://miketrizna.github.io/2020-01-13-nih/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "NIH",
+    "longitude": -77.104278,
+    "slug": "2020-01-13-nih",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Institutes of Health",
+    "latitude": 39.002222,
+    "start_date": "2020-01-13"
+  },
+  {
     "instructors": "Hilmar Lapp,Dan Leehr",
     "end_date": "2019-12-19",
     "url": "https://Duke-GCB.github.io/2019-12-18-duke",
