@@ -415,7 +415,9 @@ Development of a Data Carpentry lesson immediately aimed at astronomy, but which
 
 ### <a id="other-curriculum"></a>Other curriculum
 
-If you are interested in developing other lessons or getting updates on other topics, see the [lessons ideas github repository](https://github.com/datacarpentry/lesson-ideas) for topics under consideration or discussion, or to propose new ideas.
+If you are interested in developing other lessons, please visit [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/blob/master/README.md).
+
+
 
 ## Semester materials
 
