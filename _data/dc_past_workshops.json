@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Amelia McNamara,Kelsey Gonzalez",
+    "end_date": "2020-01-16",
+    "url": "https://kelseygonzalez.github.io/2020-01-15-brynmawr/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Bryn Mawr College",
+    "longitude": -83.8917,
+    "slug": "2020-01-15-bryn_mawr",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Bryn Mawr",
+    "latitude": 32.54972,
+    "start_date": "2020-01-15"
+  },
+  {
     "instructors": "Dominik Kutra",
     "end_date": "2020-01-15",
     "url": "https://tobyhodges.github.io/2020-01-14-heidelberg/",
