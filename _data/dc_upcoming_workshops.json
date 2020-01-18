@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Megan Guidry,Ngonidzashe Faya,Dinindu Senanayake,Ann McCartney",
+    "end_date": "2020-01-29",
+    "url": "https://genomicsaotearoa.github.io/2020-01-28-auckland/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Auckland Bioengineering Institute, The University Of Auckland",
+    "longitude": 174.770935,
+    "slug": "2020-01-28-auckland",
+    "tag_name": "DC",
+    "helpers": "David Waite,Libby Li",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -36.853298,
+    "start_date": "2020-01-28"
+  },
+  {
     "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
@@ -13,6 +28,36 @@
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",
+    "end_date": "2020-02-04",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-02-03-delft/",
+    "country": "NL",
+    "curriculum": "dc-socsci-r",
+    "venue": "@TU Delft",
+    "longitude": 4.37524,
+    "slug": "2020-02-03-delft",
+    "tag_name": "DC",
+    "helpers": "Barbara Vreede,Yan Wang",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.00268,
+    "start_date": "2020-02-03"
+  },
+  {
+    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
+    "end_date": "2020-02-05",
+    "url": "https://ucsdlib.github.io/2020-02-04-UCSDsocsci/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "UC San Diego Library - Data Carpentry R for Social Science",
+    "longitude": -117.241173,
+    "slug": "2020-02-04-UCSDsocsci",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.885125,
+    "start_date": "2020-02-04"
   },
   {
     "instructors": "Damien Irving,Holger Wolff",
@@ -76,6 +121,21 @@
   },
   {
     "instructors": null,
+    "end_date": "2020-02-23",
+    "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "The University of Arizona<br>Image Processing Data Carpentry Workshop: Come for the Tucson Rodeo Parade 2020, then learn how to wrangle image data!",
+    "longitude": -110.9495,
+    "slug": "2020-02-22-Tucson",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2020-02-22"
+  },
+  {
+    "instructors": null,
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
     "country": "GB",
@@ -127,7 +187,7 @@
     "curriculum": "dc-socsci-r",
     "venue": "University of Oslo",
     "longitude": 10,
-    "slug": "2020-04-28-uio",
+    "slug": "2020-04-28-dcssh",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "University of Oslo",
