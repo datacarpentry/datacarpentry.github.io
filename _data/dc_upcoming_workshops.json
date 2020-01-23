@@ -75,6 +75,21 @@
     "start_date": "2020-02-09"
   },
   {
+    "instructors": null,
+    "end_date": "2020-02-13",
+    "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Quarterly SI Data Carpentry: Winter 2020 Edition",
+    "longitude": -77.025991,
+    "slug": "2020-02-12-castle",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
+    "start_date": "2020-02-12"
+  },
+  {
     "instructors": "Adela Sobotkova,Petra Hermankova",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
@@ -103,6 +118,21 @@
     "host_name": "Leibniz School of Education",
     "latitude": null,
     "start_date": "2020-02-13"
+  },
+  {
+    "instructors": "Jon Wheeler,Mark Servilla",
+    "end_date": "2020-02-21",
+    "url": "https://nmcarpentries.github.io/2020-02-14-cnm/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Central New Mexico Community College",
+    "longitude": -106.628748,
+    "slug": "2020-02-14-cnm",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.071743,
+    "start_date": "2020-02-14"
   },
   {
     "instructors": "Tim Ribaric,James Desjardins,Daniel Brett",
@@ -148,6 +178,21 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
     "start_date": "2020-03-03"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-03-07",
+    "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "New Mexico Highlands University",
+    "longitude": -105.22,
+    "slug": "2020-03-06-nmhu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.596306,
+    "start_date": "2020-03-06"
   },
   {
     "instructors": "Kay BJornen",
