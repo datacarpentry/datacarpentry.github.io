@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Megan Guidry,Ngonidzashe Faya,Dinindu Senanayake,Ann McCartney",
-    "end_date": "2020-01-29",
-    "url": "https://genomicsaotearoa.github.io/2020-01-28-auckland/",
-    "country": "NZ",
-    "curriculum": "dc-genomics",
-    "venue": "Auckland Bioengineering Institute, The University Of Auckland",
-    "longitude": 174.770935,
-    "slug": "2020-01-28-auckland",
-    "tag_name": "DC",
-    "helpers": "David Waite,Libby Li",
-    "host_name": "Genomics Aotearoa",
-    "latitude": -36.853298,
-    "start_date": "2020-01-28"
-  },
-  {
     "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
@@ -90,7 +75,7 @@
     "start_date": "2020-02-09"
   },
   {
-    "instructors": null,
+    "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
     "end_date": "2020-02-13",
     "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
     "country": "US",
@@ -105,18 +90,18 @@
     "start_date": "2020-02-12"
   },
   {
-    "instructors": "Adela Sobotkova,Petra Hermankova",
+    "instructors": "Adela Sobotkova,Petra Hermankova,Max Pedersen",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
     "country": "DK",
     "curriculum": "dc-socsci-r",
     "venue": "Aarhus University",
-    "longitude": null,
+    "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Antonio Rivero Ostoic",
     "host_name": "Aarhus University",
-    "latitude": null,
+    "latitude": 56.17018,
     "start_date": "2020-02-13"
   },
   {
@@ -165,11 +150,11 @@
     "start_date": "2020-02-19"
   },
   {
-    "instructors": "Trisha Adamus,Mark Meysenburg",
+    "instructors": "Trisha Adamus",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
-    "curriculum": "",
+    "curriculum": null,
     "venue": "University of Arizona",
     "longitude": -110.9495,
     "slug": "2020-02-22-Tucson",
@@ -193,6 +178,21 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
     "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Sarah Pugachev,Amelia Kallaher",
+    "end_date": "2020-03-06",
+    "url": "https://nydclc.github.io/2020-03-05-Cortland/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "The Port Watson Mini-Conference Center",
+    "longitude": -76.16979,
+    "slug": "2020-03-05-Cortland",
+    "tag_name": "DC",
+    "helpers": "Jesi Buell",
+    "host_name": "SUNY Cortland",
+    "latitude": 42.59774,
+    "start_date": "2020-03-05"
   },
   {
     "instructors": null,

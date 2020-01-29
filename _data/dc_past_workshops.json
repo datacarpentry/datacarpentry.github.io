@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Megan Guidry,Ngonidzashe Faya,Dinindu Senanayake,Ann McCartney",
+    "end_date": "2020-01-29",
+    "url": "https://genomicsaotearoa.github.io/2020-01-28-auckland/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Auckland Bioengineering Institute, The University Of Auckland",
+    "longitude": 174.770935,
+    "slug": "2020-01-28-auckland",
+    "tag_name": "DC",
+    "helpers": "David Waite,Libby Li",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -36.853298,
+    "start_date": "2020-01-28"
+  },
+  {
     "instructors": "Amelia McNamara,Kelsey Gonzalez",
     "end_date": "2020-01-16",
     "url": "https://kelseygonzalez.github.io/2020-01-15-brynmawr/",
