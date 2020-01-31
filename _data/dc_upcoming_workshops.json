@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
-    "end_date": "2020-01-30",
-    "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
-    "country": "DE",
-    "curriculum": "dc-ecology-r",
-    "venue": "EMBL",
-    "longitude": 8.709467,
-    "slug": "2020-01-28-heidelberg",
-    "tag_name": "DC",
-    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller",
-    "host_name": "European Molecular Biology Laboratory",
-    "latitude": 49.384151,
-    "start_date": "2020-01-28"
-  },
-  {
-    "instructors": "Juan Steyn,Angelique van Rensburg",
-    "end_date": "2020-01-31",
-    "url": "https://sadilar.github.io/2020-01-29-WITS/",
-    "country": "ZA",
-    "curriculum": "dc-ecology-r",
-    "venue": "Wits University",
-    "longitude": 28.024715,
-    "slug": "2020-01-29-WITS",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of the Witwatersrand",
-    "latitude": -26.189054,
-    "start_date": "2020-01-29"
-  },
-  {
     "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",
     "end_date": "2020-02-04",
     "url": "https://4turesearchdata-carpentries.github.io/2020-02-03-delft/",
@@ -75,6 +45,36 @@
     "start_date": "2020-02-09"
   },
   {
+    "instructors": "Hao Ye,Eve Bohnett,Vratika Chaudhary,Dimitri Bourilkov",
+    "end_date": "2020-02-11",
+    "url": "https://uf-carpentry.github.io/2020-02-10_SocialSciences_R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Florida Informatics Institute",
+    "longitude": -82.344092,
+    "slug": "2020-02-10-SocialSciences_R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 29.648292,
+    "start_date": "2020-02-10"
+  },
+  {
+    "instructors": "Megan Potterbusch,Daniel Kerchner,Dolsy Smith",
+    "end_date": "2020-02-12",
+    "url": "https://gwu-libraries.github.io/2020-02-11-gwu/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "George Washington University, Gelman Library",
+    "longitude": -77.04834,
+    "slug": "2020-02-11-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.89941,
+    "start_date": "2020-02-11"
+  },
+  {
     "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
     "end_date": "2020-02-13",
     "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
@@ -105,7 +105,7 @@
     "start_date": "2020-02-13"
   },
   {
-    "instructors": "Julia Scheel",
+    "instructors": "Katrin Leinweber,Julia Scheel,Sebastian Becker",
     "end_date": "2020-02-14",
     "url": "https://tibhannover.github.io/2020-02-13-LSE-Hannover/",
     "country": "DE",

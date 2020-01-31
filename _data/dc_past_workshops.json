@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Juan Steyn,Angelique van Rensburg",
+    "end_date": "2020-01-31",
+    "url": "https://sadilar.github.io/2020-01-29-WITS/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Wits University",
+    "longitude": 28.024715,
+    "slug": "2020-01-29-WITS",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of the Witwatersrand",
+    "latitude": -26.189054,
+    "start_date": "2020-01-29"
+  },
+  {
     "instructors": "Megan Guidry,Ngonidzashe Faya,Dinindu Senanayake,Ann McCartney",
     "end_date": "2020-01-29",
     "url": "https://genomicsaotearoa.github.io/2020-01-28-auckland/",
@@ -12,6 +27,21 @@
     "helpers": "David Waite,Libby Li,Eirian Perkins",
     "host_name": "Genomics Aotearoa",
     "latitude": -36.853298,
+    "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
+    "end_date": "2020-01-30",
+    "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
+    "country": "DE",
+    "curriculum": "dc-ecology-r",
+    "venue": "EMBL",
+    "longitude": 8.709467,
+    "slug": "2020-01-28-heidelberg",
+    "tag_name": "DC",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384151,
     "start_date": "2020-01-28"
   },
   {
@@ -1914,7 +1944,7 @@
     "longitude": -95.922955,
     "slug": "2019-03-14-ou-tulsa-dc",
     "tag_name": "DC",
-    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name)",
+    "helpers": "Toni Hoberecht,Krista Kezbers (Olson)",
     "host_name": "University of Oklahoma",
     "latitude": 36.101228,
     "start_date": "2019-03-14"
