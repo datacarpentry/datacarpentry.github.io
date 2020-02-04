@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",
+    "end_date": "2020-02-04",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-02-03-delft/",
+    "country": "NL",
+    "curriculum": "dc-socsci-r",
+    "venue": "@TU Delft",
+    "longitude": 4.37524,
+    "slug": "2020-02-03-delft",
+    "tag_name": "DC",
+    "helpers": "Barbara Vreede,Yan Wang",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.00268,
+    "start_date": "2020-02-03"
+  },
+  {
     "instructors": "Juan Steyn,Angelique van Rensburg",
     "end_date": "2020-01-31",
     "url": "https://sadilar.github.io/2020-01-29-WITS/",
@@ -39,7 +54,7 @@
     "longitude": 8.709467,
     "slug": "2020-01-28-heidelberg",
     "tag_name": "DC",
-    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
@@ -72,6 +87,21 @@
     "helpers": "Toby Hodges",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
+    "start_date": "2020-01-14"
+  },
+  {
+    "instructors": "Vicky Steeves,Alexandra Provo",
+    "end_date": "2020-01-15",
+    "url": "https://nyu-dataservices.github.io/2020-01-14-nyu/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-01-14-nyu",
+    "tag_name": "DC",
+    "helpers": "Heiko Mueller,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
     "start_date": "2020-01-14"
   },
   {

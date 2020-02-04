@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",
-    "end_date": "2020-02-04",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-02-03-delft/",
-    "country": "NL",
-    "curriculum": "dc-socsci-r",
-    "venue": "@TU Delft",
-    "longitude": 4.37524,
-    "slug": "2020-02-03-delft",
-    "tag_name": "DC",
-    "helpers": "Barbara Vreede,Yan Wang",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.00268,
-    "start_date": "2020-02-03"
-  },
-  {
     "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
     "end_date": "2020-02-05",
     "url": "https://ucsdlib.github.io/2020-02-04-UCSDsocsci/",
@@ -165,7 +150,7 @@
     "start_date": "2020-02-22"
   },
   {
-    "instructors": null,
+    "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
     "country": "GB",
@@ -238,6 +223,21 @@
     "host_name": "University of Idaho",
     "latitude": 46.72696,
     "start_date": "2020-03-26"
+  },
+  {
+    "instructors": "Nicholas Wolf,Alexandra Provo",
+    "end_date": "2020-04-27",
+    "url": "https://nyu-dataservices.github.io/2020-04-26-nyu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-04-26-nyu",
+    "tag_name": "DC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-04-26"
   },
   {
     "instructors": "Annika Rockenberger,Matthew Good",
