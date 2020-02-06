@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
+    "end_date": "2020-02-05",
+    "url": "https://ucsdlib.github.io/2020-02-04-UCSDsocsci/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "UC San Diego Library - Data Carpentry R for Social Science",
+    "longitude": -117.241173,
+    "slug": "2020-02-04-UCSDsocsci",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.885125,
+    "start_date": "2020-02-04"
+  },
+  {
     "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",
     "end_date": "2020-02-04",
     "url": "https://4turesearchdata-carpentries.github.io/2020-02-03-delft/",
@@ -54,7 +69,7 @@
     "longitude": 8.709467,
     "slug": "2020-01-28-heidelberg",
     "tag_name": "DC",
-    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan,Nicolai Karcher",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"

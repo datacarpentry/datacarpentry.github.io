@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
-    "end_date": "2020-02-05",
-    "url": "https://ucsdlib.github.io/2020-02-04-UCSDsocsci/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "UC San Diego Library - Data Carpentry R for Social Science",
-    "longitude": -117.241173,
-    "slug": "2020-02-04-UCSDsocsci",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of California San Diego",
-    "latitude": 32.885125,
-    "start_date": "2020-02-04"
-  },
-  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",
@@ -135,7 +120,7 @@
     "start_date": "2020-02-19"
   },
   {
-    "instructors": "Trisha Adamus",
+    "instructors": "Trisha Adamus,Melissa Fabros",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
@@ -148,6 +133,21 @@
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-22"
+  },
+  {
+    "instructors": "Ben Chiewphasa",
+    "end_date": "2020-02-26",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Mansfield Library, University of Montana",
+    "longitude": -113.985207,
+    "slug": "2020-02-26-R-ecology",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.860065,
+    "start_date": "2020-02-26"
   },
   {
     "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
@@ -283,5 +283,20 @@
     "host_name": "RMIT University",
     "latitude": -37.809218,
     "start_date": "2020-06-29"
+  },
+  {
+    "instructors": "Miklós Koren",
+    "end_date": "2020-08-24",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020",
+    "country": "NL",
+    "curriculum": "dc-economics",
+    "venue": "The Maritime Museum",
+    "longitude": 4.4799,
+    "slug": "2020-08-23-eea",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "European Economic Association",
+    "latitude": 51.9176,
+    "start_date": "2020-08-23"
   }
 ]
