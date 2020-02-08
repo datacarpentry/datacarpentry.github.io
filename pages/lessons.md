@@ -386,13 +386,9 @@ model, see our [Curriculum Development Handbook](https://cdh.carpentries.org) fo
 ### <a id="image-processing-curriculum"></a> Image Processing Curriculum
 
 With support from an NSF iUSE grant, Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA have developed
-a curriculum for teaching image processing in Python. The [materials are available](https://datacarpentry.org/image-processing/),
-and are being piloted. This pilot phase will be followed by a clean-up phase to incorporate suggestions and feedback from the
+a curriculum for teaching image processing in Python. This lesson is currently being piloted at different institutions. This pilot phase
+will be followed by a clean-up phase to incorporate suggestions and feedback from the
 pilots into the lessons and to make the lessons teachable by the broader community.
-
-If you are interested in contributing to this curriculum, please visit its 
-[GitHub repository](https://datacarpentry.org/image-processing/). For broader discussion about image analysis curriculum 
-development, sign up for the [image-analysis-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image).
 
 #### Lessons
 
@@ -417,12 +413,38 @@ development, sign up for the [image-analysis-curriculum email list](https://carp
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
-A pre-alpha version of a potential Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central 
-European University. These materials will be piloted in June 2019. 
+A potential Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central 
+European University. These materials are being piloted locally. 
 
-If you are interested in following or being involved in development of this curriculum, please visit the associated GitHub repositories
-for the [Stata](https://github.com/datacarpentry/stata-economics) and [bash shell](https://github.com/datacarpentry/shell-economics)
-lessons. For broader discussion about economics curriculum development, sign up for the [economics-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-economics).
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Site</th>
+        <th>Repository</th>
+        <th>Reference</th>
+        <th>Instructor Notes</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Introduction to Stata for Economics</td>
+        <td><a href="{{site.dc_website_url}}/stata-economics/" target="_blank" class="icon-browser" title="Website for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/stata-economics/" target="_blank" class="icon-github" title="Repository for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/stata-economics/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/stata-economics/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td>Miklós Koren, Arieda Muço</td>        
+  </tr>
+    <tr>
+        <td>Introduction to the Command Line for Economics</td>
+        <td><a href="{{site.dc_website_url}}/shell-economics/" target="_blank" class="icon-browser" title="Website for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/shell-economics/" target="_blank" class="icon-github" title="Repository for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/shell-economics/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/shell-economics/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td>Miklós Koren, Arieda Muço, Andras Vereckei</td>        
+  </tr>
+  </table>
+
 
 ### <a id="astronomy-curriculum"></a> Astronomy Curriculum
 
