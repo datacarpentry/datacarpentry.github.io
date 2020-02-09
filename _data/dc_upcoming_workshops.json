@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Damien Irving,Holger Wolff",
-    "end_date": "2020-02-09",
-    "url": "https://damienirving.github.io/2020-02-09-amos/",
-    "country": "AU",
-    "curriculum": "dc-other",
-    "venue": "AMOS 2020",
-    "longitude": 115.748589,
-    "slug": "2020-02-09-amos",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Australian Meteorological and Oceanographic Society",
-    "latitude": -32.053903,
-    "start_date": "2020-02-09"
-  },
-  {
     "instructors": "Hao Ye,Eve Bohnett,Vratika Chaudhary,Dimitri Bourilkov",
     "end_date": "2020-02-11",
     "url": "https://uf-carpentry.github.io/2020-02-10_SocialSciences_R/",

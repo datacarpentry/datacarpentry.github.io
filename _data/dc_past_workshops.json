@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Damien Irving,Holger Wolff",
+    "end_date": "2020-02-09",
+    "url": "https://damienirving.github.io/2020-02-09-amos/",
+    "country": "AU",
+    "curriculum": "dc-other",
+    "venue": "AMOS 2020",
+    "longitude": 115.748589,
+    "slug": "2020-02-09-amos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Australian Meteorological and Oceanographic Society",
+    "latitude": -32.053903,
+    "start_date": "2020-02-09"
+  },
+  {
     "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
     "end_date": "2020-02-05",
     "url": "https://ucsdlib.github.io/2020-02-04-UCSDsocsci/",
