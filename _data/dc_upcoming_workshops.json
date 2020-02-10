@@ -54,7 +54,7 @@
     "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": "Antonio Rivero Ostoic",
+    "helpers": null,
     "host_name": "Aarhus University",
     "latitude": 56.17018,
     "start_date": "2020-02-13"
@@ -272,7 +272,7 @@
   {
     "instructors": "Miklós Koren",
     "end_date": "2020-08-24",
-    "url": "https://www.eeassoc.org/index.php?site=EEA2020",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
     "country": "NL",
     "curriculum": "dc-economics",
     "venue": "The Maritime Museum",
