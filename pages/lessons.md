@@ -22,11 +22,11 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 ## Curriculum materials under development or consideration
 
-- [Digital humanities curriculum](#dh-curriculum)
-- [Image analysis curriculum](#image-curriculum)
+- [Image Processing curriculum](#image-processing-curriculum)
 - [Economics curriculum](#economics-curriculum)
 - [Astronomy curriculum](#astronomy-curriculum)
-- [Other curriculum](#other-curriculum)
+- [Digital humanities curriculum](#dh-curriculum)
+- [Other curricula](#other-curricula)
 
 ## Semester materials
 
@@ -383,35 +383,79 @@ offerings. If you are interested in being involved in developing one of these le
 description. If you are interested in developing a different curriculum, using The Carpentries lesson templates and pedagogical
 model, see our [Curriculum Development Handbook](https://cdh.carpentries.org) for information about how to get started.
 
+### <a id="image-processing-curriculum"></a> Image Processing Curriculum
+
+With support from an NSF iUSE grant, Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA have developed
+a curriculum for teaching image processing in Python. This lesson is currently being piloted at different institutions. This pilot phase
+will be followed by a clean-up phase to incorporate suggestions and feedback from the
+pilots into the lessons and to make the lessons teachable by the broader community.
+
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Site</th>
+        <th>Repository</th>
+        <th>Reference</th>
+        <th>Instructor Notes</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Image Processing with Python</td>
+        <td><a href="{{site.dc_website_url}}/image-processing/" target="_blank" class="icon-browser" title="Website for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/image-processing/" target="_blank" class="icon-github" title="Repository for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/image-processing/reference.html" target="_blank" class="icon-eye" title="Reference for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/image-processing/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td>Mark Meysenberg</td>        
+  </tr>
+  </table>
+
+### <a id="economics-curriculum"></a> Economics Curriculum
+
+A potential Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central 
+European University. These materials are being piloted locally. 
+
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Site</th>
+        <th>Repository</th>
+        <th>Reference</th>
+        <th>Instructor Notes</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Introduction to Stata for Economics</td>
+        <td><a href="{{site.dc_website_url}}/stata-economics/" target="_blank" class="icon-browser" title="Website for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/stata-economics/" target="_blank" class="icon-github" title="Repository for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/stata-economics/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/stata-economics/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
+        <td>Miklós Koren, Arieda Muço</td>        
+  </tr>
+    <tr>
+        <td>Introduction to the Command Line for Economics</td>
+        <td><a href="{{site.dc_website_url}}/shell-economics/" target="_blank" class="icon-browser" title="Website for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/shell-economics/" target="_blank" class="icon-github" title="Repository for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/shell-economics/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/shell-economics/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
+        <td>Miklós Koren, Arieda Muço, Andras Vereckei</td>        
+  </tr>
+  </table>
+
+
+### <a id="astronomy-curriculum"></a> Astronomy Curriculum
+
+Development of a Data Carpentry lesson immediately aimed at astronomy, but which can easily be extended to other physics based disciplines. American Institute of Physics/Member Society Venture Partnership funding is supporting the development and testing of the lesson. Lesson development will begin the [AAS hack day](http://www.astrobetter.com/wiki/AASHackDay) and will continue throughout the next two years. If you are interested in contributing in any way, please join the [astronomy-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-astronomy). We would especially like to encourage anyone who is part of an AIP member society (Acoustical Society of America, American Association of Physicists in Medicine, American Association of Physics Teachers, American Astronomical Society, American Crystallographic Association, American Meteorological Society, American Physics Society, AVS: Science & Technology of Materials, Interfaces, and Processing, The Optical Society, and the Society of Rheology) to join as we are eager to develop lessons that can be easily extended into these sub-fields.
+
 ### <a id="dh-curriculum"></a> Digital Humanities Curriculum
 
 Many groups are piloting different versions of this curriculum. There is not yet one set of lessons under active development.
 
 If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-dh)
 
-### <a id="image-analysis-curriculum"></a> Image analysis Curriculum
-
-With support from an NSF iUSE grant, Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA have developed
-a curriculum for teaching image analysis in Python. The [materials are available](https://datacarpentry.org/image-processing/),
-and are being piloted locally. This pilot phase will be followed by a clean-up phase to incorporate suggestions and feedback from the
-pilots into the lessons and to make the lessons teachable by the broader community.
-
-If you are interested in contributing to this curriculum, please visit its 
-[GitHub repository](https://datacarpentry.org/image-processing/). For broader discussion about image analysis curriculum 
-development, sign up for the [image-analysis-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image).
-
-### <a id="economics-curriculum"></a> Economics Curriculum
-
-A pre-alpha version of a potential Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central 
-European University. These materials will be piloted in June 2019. 
-
-If you are interested in following or being involved in development of this curriculum, please visit the associated GitHub repositories
-for the [Stata](https://github.com/datacarpentry/stata-economics) and [bash shell](https://github.com/datacarpentry/shell-economics)
-lessons. For broader discussion about economics curriculum development, sign up for the [economics-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-economics).
-
-### <a id="astronomy-curriculum"></a> Astronomy Curriculum
-
-Development of a Data Carpentry lesson immediately aimed at astronomy, but which can easily be extended to other physics based disciplines. American Institute of Physics/Member Society Venture Partnership funding is supporting the development and testing of the lesson. Lesson development will begin the [AAS hack day](http://www.astrobetter.com/wiki/AASHackDay) and will continue throughout the next two years. If you are interested in contributing in any way, please join the [astronomy-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-astronomy). We would especially like to encourage anyone who is part of an AIP member society (Acoustical Society of America, American Association of Physicists in Medicine, American Association of Physics Teachers, American Astronomical Society, American Crystallographic Association, American Meteorological Society, American Physics Society, AVS: Science & Technology of Materials, Interfaces, and Processing, The Optical Society, and the Society of Rheology) to join as we are eager to develop lessons that can be easily extended into these sub-fields.
 
 ### <a id="other-curriculum"></a>Other curriculum
 
