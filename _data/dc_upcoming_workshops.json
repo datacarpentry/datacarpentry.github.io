@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Hao Ye,Eve Bohnett,Vratika Chaudhary,Dimitri Bourilkov",
-    "end_date": "2020-02-11",
-    "url": "https://uf-carpentry.github.io/2020-02-10_SocialSciences_R/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Florida Informatics Institute",
-    "longitude": -82.344092,
-    "slug": "2020-02-10-SocialSciences_R",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Florida",
-    "latitude": 29.648292,
-    "start_date": "2020-02-10"
-  },
-  {
-    "instructors": "Megan Potterbusch,Daniel Kerchner,Dolsy Smith",
-    "end_date": "2020-02-12",
-    "url": "https://gwu-libraries.github.io/2020-02-11-gwu/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "George Washington University, Gelman Library",
-    "longitude": -77.04834,
-    "slug": "2020-02-11-gwu",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "George Washington University",
-    "latitude": 38.89941,
-    "start_date": "2020-02-11"
-  },
-  {
     "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
     "end_date": "2020-02-13",
     "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
@@ -39,7 +9,7 @@
     "longitude": -77.025991,
     "slug": "2020-02-12-castle",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Alicia Hodson",
     "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
     "start_date": "2020-02-12"
@@ -165,7 +135,7 @@
     "start_date": "2020-03-05"
   },
   {
-    "instructors": null,
+    "instructors": "Karl Benedict,Mark Servilla",
     "end_date": "2020-03-07",
     "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
     "country": "US",

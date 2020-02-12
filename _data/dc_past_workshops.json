@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Megan Potterbusch,Daniel Kerchner,Dolsy Smith",
+    "end_date": "2020-02-12",
+    "url": "https://gwu-libraries.github.io/2020-02-11-gwu/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "George Washington University, Gelman Library",
+    "longitude": -77.04834,
+    "slug": "2020-02-11-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.89941,
+    "start_date": "2020-02-11"
+  },
+  {
+    "instructors": "Hao Ye,Eve Bohnett,Vratika Chaudhary,Dimitri Bourilkov",
+    "end_date": "2020-02-11",
+    "url": "https://uf-carpentry.github.io/2020-02-10_SocialSciences_R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Florida Informatics Institute",
+    "longitude": -82.344092,
+    "slug": "2020-02-10-SocialSciences_R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 29.648292,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",
@@ -24,13 +54,13 @@
     "longitude": -117.241173,
     "slug": "2020-02-04-UCSDsocsci",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Ryan Johnson",
     "host_name": "University of California San Diego",
     "latitude": 32.885125,
     "start_date": "2020-02-04"
   },
   {
-    "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",
+    "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner,Barbara Vreede",
     "end_date": "2020-02-04",
     "url": "https://4turesearchdata-carpentries.github.io/2020-02-03-delft/",
     "country": "NL",
@@ -39,7 +69,7 @@
     "longitude": 4.37524,
     "slug": "2020-02-03-delft",
     "tag_name": "DC",
-    "helpers": "Barbara Vreede,Yan Wang",
+    "helpers": "Mateusz Kuzak,Esther Plomp,Yan Wang,Jeff Love,Masha Rudneva,Lora Armstrong",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.00268,
     "start_date": "2020-02-03"
