@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
+    "end_date": "2020-02-13",
+    "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Quarterly SI Data Carpentry: Winter 2020 Edition",
+    "longitude": -77.025991,
+    "slug": "2020-02-12-castle",
+    "tag_name": "DC",
+    "helpers": "Alicia Hodson",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
+    "start_date": "2020-02-12"
+  },
+  {
     "instructors": "Megan Potterbusch,Daniel Kerchner,Dolsy Smith",
     "end_date": "2020-02-12",
     "url": "https://gwu-libraries.github.io/2020-02-11-gwu/",

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
-    "end_date": "2020-02-13",
-    "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
-    "country": "US",
-    "curriculum": "dc-ecology-python",
-    "venue": "Quarterly SI Data Carpentry: Winter 2020 Edition",
-    "longitude": -77.025991,
-    "slug": "2020-02-12-castle",
-    "tag_name": "DC",
-    "helpers": "Alicia Hodson",
-    "host_name": "Smithsonian Institution",
-    "latitude": 38.888778,
-    "start_date": "2020-02-12"
-  },
-  {
     "instructors": "Adela Sobotkova,Petra Hermankova,Max Pedersen",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
@@ -163,6 +148,21 @@
     "host_name": "Oklahoma State University",
     "latitude": 36.122951,
     "start_date": "2020-03-16"
+  },
+  {
+    "instructors": "Eve Bohnett,Ted Laderas",
+    "end_date": "2020-03-21",
+    "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "San Diego State University",
+    "longitude": -117.073996,
+    "slug": "2020-03-20-SDSU_geospatial",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "San Diego State University",
+    "latitude": 32.777419,
+    "start_date": "2020-03-20"
   },
   {
     "instructors": "Erich Seamon",
