@@ -30,6 +30,21 @@
     "start_date": "2020-02-19"
   },
   {
+    "instructors": null,
+    "end_date": "2020-02-21",
+    "url": "https://uoftcarpentries.github.io/2020-02-20-utsg/",
+    "country": "CA",
+    "curriculum": "dc-ecology-python",
+    "venue": "University of Toronto St George Campus",
+    "longitude": -79.3993425204167,
+    "slug": "2020-02-20-utsg",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Toronto",
+    "latitude": 43.6650297,
+    "start_date": "2020-02-20"
+  },
+  {
     "instructors": "Trisha Adamus,Melissa Fabros",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
