@@ -433,7 +433,7 @@ European University. These materials are being piloted locally.
         <td><a href="{{site.dc_github_repo_url}}/stata-economics/" target="_blank" class="icon-github" title="Repository for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/stata-economics/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/stata-economics/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
-        <td>Miklós Koren, Arieda Muço</td>        
+        <td>Miklós Koren, Arieda Muço, Andras Vereckei</td>        
   </tr>
     <tr>
         <td>Introduction to the Command Line for Economics</td>
