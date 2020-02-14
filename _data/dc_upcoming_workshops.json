@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Adela Sobotkova,Petra Hermankova,Max Pedersen",
-    "end_date": "2020-02-14",
-    "url": "https://adivea.github.io/2020-02-13-AU-DC/",
-    "country": "DK",
-    "curriculum": "dc-socsci-r",
-    "venue": "Aarhus University",
-    "longitude": 10.1995,
-    "slug": "2020-02-13-AU-DC",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Aarhus University",
-    "latitude": 56.17018,
-    "start_date": "2020-02-13"
-  },
-  {
-    "instructors": "Katrin Leinweber,Julia Scheel,Sebastian Becker",
-    "end_date": "2020-02-14",
-    "url": "https://tibhannover.github.io/2020-02-13-LSE-Hannover/",
-    "country": "DE",
-    "curriculum": "dc-ecology-python",
-    "venue": "Leibniz School of Education",
-    "longitude": 9.72238,
-    "slug": "2020-02-13-LSE-Hannover",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Leibniz School of Education",
-    "latitude": 52.38602,
-    "start_date": "2020-02-13"
-  },
-  {
     "instructors": "Jon Wheeler,Mark Servilla",
     "end_date": "2020-02-21",
     "url": "https://nmcarpentries.github.io/2020-02-14-cnm/",
