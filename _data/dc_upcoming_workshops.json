@@ -105,6 +105,21 @@
     "start_date": "2020-03-05"
   },
   {
+    "instructors": "Jennifer Shelton,Schuyler Smith",
+    "end_date": "2020-03-06",
+    "url": "https://schuyler-smith.github.io/2020-03-05-gwu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "George Washington University",
+    "longitude": -77.04,
+    "slug": "2020-03-05-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.89,
+    "start_date": "2020-03-05"
+  },
+  {
     "instructors": "Karl Benedict,Mark Servilla",
     "end_date": "2020-03-07",
     "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
