@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Adela Sobotkova,Petra Hermankova,Max Pedersen",
+    "instructors": "Adela Sobotkova,Petra Heřmánková",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
     "country": "DK",
@@ -9,7 +9,7 @@
     "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Max Pedersen",
     "host_name": "Aarhus University",
     "latitude": 56.17018,
     "start_date": "2020-02-13"
@@ -1326,12 +1326,12 @@
     "country": "GB",
     "curriculum": "dc-socsci-r",
     "venue": "Heriot Watt University (Riccarton campus)",
-    "longitude": null,
+    "longitude": -3.3225381,
     "slug": "2019-06-26-heriotwatt",
     "tag_name": "DC",
     "helpers": "Oliver Brown,Fiona Reid,Kenneth McLeod",
     "host_name": "Heriot Watt University",
-    "latitude": null,
+    "latitude": 55.9096602,
     "start_date": "2019-06-26"
   },
   {
