@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Tim Ribaric,James Desjardins,Daniel Brett",
+    "end_date": "2020-02-20",
+    "url": "https://brockdsl.github.io/2020-02-19-BrockU/",
+    "country": "CA",
+    "curriculum": "dc-other",
+    "venue": "Brock Digital Scholarship Lab",
+    "longitude": -79.242897,
+    "slug": "2020-02-19-BrockU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Brock University",
+    "latitude": 43.11747,
+    "start_date": "2020-02-19"
+  },
+  {
     "instructors": "Adela Sobotkova,Petra Heřmánková",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
