@@ -990,6 +990,21 @@
     "start_date": "2019-09-10"
   },
   {
+    "instructors": "Miklós Koren",
+    "end_date": "2019-08-31",
+    "url": "http://www.eea-esem-congresses.org/index.php?sezn=7&page=143",
+    "country": "GB",
+    "curriculum": "dc-other",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-30-Manchester",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": null,
+    "start_date": "2019-08-30"
+  },
+  {
     "instructors": "Jon Wheeler,Mark Servilla",
     "end_date": "2019-08-30",
     "url": "https://nmcarpentries.github.io/2019-08-29-unm/",

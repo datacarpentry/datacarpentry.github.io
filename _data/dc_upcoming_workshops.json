@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-03-04",
+    "url": "https://edcarp.github.io/2020-02-12-edinburgh-dc-social-sciences/",
+    "country": "",
+    "curriculum": "dc-socsci-r",
+    "venue": "Room 4.2, Lister Building",
+    "longitude": -3.184209,
+    "slug": "2020-02-12-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947159,
+    "start_date": "2020-02-12"
+  },
+  {
     "instructors": "Trisha Adamus,Melissa Fabros",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
