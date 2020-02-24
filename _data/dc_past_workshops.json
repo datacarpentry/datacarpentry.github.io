@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Trisha Adamus,Melissa Fabros",
+    "end_date": "2020-02-23",
+    "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Arizona",
+    "longitude": -110.9495,
+    "slug": "2020-02-22-Tucson",
+    "tag_name": "DC",
+    "helpers": "Kelsey Gonzalez",
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2020-02-22"
+  },
+  {
     "instructors": "Kathy Chung,Ahmed Hasan,Bryan Hong,Amin Banihashemi",
     "end_date": "2020-02-21",
     "url": "https://uoftcarpentries.github.io/2020-02-20-utsg/",
