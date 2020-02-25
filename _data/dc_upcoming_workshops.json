@@ -120,6 +120,21 @@
     "start_date": "2020-03-20"
   },
   {
+    "instructors": "Nicholas Wolf,Alexandra Provo",
+    "end_date": "2020-03-27",
+    "url": "https://nyu-dataservices.github.io/2020-03-26-nyu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-03-26-nyu",
+    "tag_name": "DC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-03-26"
+  },
+  {
     "instructors": "Erich Seamon",
     "end_date": "2020-03-27",
     "url": "https://erichseamon.github.io/2020-03-26-uidaho-geospatial",
@@ -135,19 +150,19 @@
     "start_date": "2020-03-26"
   },
   {
-    "instructors": "Nicholas Wolf,Alexandra Provo",
-    "end_date": "2020-04-27",
-    "url": "https://nyu-dataservices.github.io/2020-04-26-nyu/",
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-04-10",
+    "url": "https://swc-mizzou.github.io/2020-04-09-mizzou",
     "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "New York University",
-    "longitude": -73.999364,
-    "slug": "2020-04-26-nyu",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-04-09-mizzou",
     "tag_name": "DC",
-    "helpers": "Vicky Steeves,Casey Hampsey",
-    "host_name": "New York University",
-    "latitude": 40.7294556,
-    "start_date": "2020-04-26"
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-04-09"
   },
   {
     "instructors": "Annika Rockenberger,Matthew Good",
@@ -163,6 +178,21 @@
     "host_name": "University of Oslo",
     "latitude": 59,
     "start_date": "2020-04-28"
+  },
+  {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-05-08",
+    "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-05-07-mizzou",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-05-07"
   },
   {
     "instructors": "Bishwa Ghimire,Jesse Harrison",

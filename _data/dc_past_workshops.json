@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-02-25",
+    "url": "https://caitlinbate.github.io/2020-02-23-glatos/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Weber's Inn",
+    "longitude": -83.748482,
+    "slug": "2020-02-23-glatos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Dalhousie University",
+    "latitude": 42.281422,
+    "start_date": "2020-02-24"
+  },
+  {
     "instructors": "Trisha Adamus,Melissa Fabros",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
