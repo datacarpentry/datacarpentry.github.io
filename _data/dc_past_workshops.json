@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ben Chiewphasa",
+    "end_date": "2020-02-26",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Mansfield Library, University of Montana",
+    "longitude": -113.985207,
+    "slug": "2020-02-26-R-ecology",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.860065,
+    "start_date": "2020-02-26"
+  },
+  {
     "instructors": null,
     "end_date": "2020-02-25",
     "url": "https://caitlinbate.github.io/2020-02-23-glatos/",
@@ -24,7 +39,7 @@
     "longitude": -110.9495,
     "slug": "2020-02-22-Tucson",
     "tag_name": "DC",
-    "helpers": "Kelsey Gonzalez",
+    "helpers": "Travis Struck,Kelsey Gonzalez,Artin Majdi,Amirhossein Azami,Ryan Carlson,Courtney Comrie,Gabriela De La Cruz Sanchez,Chris Klimowski,Shuailong Li,Chuan Luo,Maliaca Oxnam",
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-22"
@@ -129,7 +144,7 @@
     "longitude": -77.04834,
     "slug": "2020-02-11-gwu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Debbie Bezanson",
     "host_name": "George Washington University",
     "latitude": 38.89941,
     "start_date": "2020-02-11"
@@ -144,7 +159,7 @@
     "longitude": -82.344092,
     "slug": "2020-02-10-SocialSciences_R",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Minghao Gong,Shar Siddiqui,Amobichukwu Amanambu",
     "host_name": "University of Florida",
     "latitude": 29.648292,
     "start_date": "2020-02-10"
@@ -480,7 +495,7 @@
     "start_date": "2019-11-25"
   },
   {
-    "instructors": "Karl Benedict,Mark Servilla,Renee Brown",
+    "instructors": "Karl Benedict,Mark Servilla,Renee F. Brown",
     "end_date": "2019-11-23",
     "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
     "country": "US",
@@ -1989,7 +2004,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
-    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement",
+    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement,William Bonnett",
     "host_name": "George Washington University",
     "latitude": 38.899235,
     "start_date": "2019-04-11"
