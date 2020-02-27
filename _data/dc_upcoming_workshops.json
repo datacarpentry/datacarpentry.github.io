@@ -45,6 +45,21 @@
     "start_date": "2020-03-03"
   },
   {
+    "instructors": null,
+    "end_date": "2020-03-05",
+    "url": "https://genomicsaotearoa.github.io/2020-03-04-waikato/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "LIC, Hamilton",
+    "longitude": 175.35113,
+    "slug": "2020-03-04-waikato",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genomics Aotearoa",
+    "latitude": -37.78236,
+    "start_date": "2020-03-04"
+  },
+  {
     "instructors": "Sarah Pugachev,Amelia Kallaher",
     "end_date": "2020-03-06",
     "url": "https://nydclc.github.io/2020-03-05-Cortland/",
