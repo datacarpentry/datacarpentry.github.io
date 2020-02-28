@@ -105,6 +105,21 @@
     "start_date": "2020-03-06"
   },
   {
+    "instructors": "Martin Dreyer",
+    "end_date": "2020-03-11",
+    "url": "https://nwu-eresearch.github.io/2020-03-10-NWU-Potch-DC/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Potchefstroom Campus",
+    "longitude": 27.0929584,
+    "slug": "2020-03-10-NWU-Potch-DC",
+    "tag_name": "DC",
+    "helpers": "Sebastian Mosidi",
+    "host_name": "North-West University",
+    "latitude": -26.6901346,
+    "start_date": "2020-03-10"
+  },
+  {
     "instructors": "Lorraine Ling,Rachel Lombardi",
     "end_date": "2020-03-11",
     "url": "https://loriling96.github.io/2020-03-10-genentech/",
