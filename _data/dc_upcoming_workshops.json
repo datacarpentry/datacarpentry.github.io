@@ -135,6 +135,21 @@
     "start_date": "2020-03-10"
   },
   {
+    "instructors": "Rebecca Lowdon,Lachlan Deer",
+    "end_date": "2020-03-13",
+    "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Carnegie Mellon University",
+    "longitude": -79.94178,
+    "slug": "2020-03-12-carnegie",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": 40.44039,
+    "start_date": "2020-03-12"
+  },
+  {
     "instructors": "Kay BJornen",
     "end_date": "2020-03-17",
     "url": "https://osu-carpentry.github.io/2020-03-16-okstate/",
