@@ -1,6 +1,21 @@
 [
   {
-    "instructors": "Ben Chiewphasa",
+    "instructors": "Zena Lapp,Stephanie Thiede",
+    "end_date": "2020-03-03",
+    "url": "https://umswc.github.io/2020-03-02-umich-genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Michigan",
+    "longitude": -83.734886,
+    "slug": "2020-03-02-umich-genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.280093,
+    "start_date": "2020-03-02"
+  },
+  {
+    "instructors": "Ben Chiewphasa,Anna Moeller",
     "end_date": "2020-02-26",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
     "country": "US",
@@ -9,7 +24,7 @@
     "longitude": -113.985207,
     "slug": "2020-02-26-R-ecology",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Molly McDevitt",
     "host_name": "University of Montana",
     "latitude": 46.860065,
     "start_date": "2020-02-26"
@@ -24,7 +39,7 @@
     "longitude": -83.748482,
     "slug": "2020-02-23-glatos",
     "tag_name": "DC",
-    "helpers": "Jonathan Pye",
+    "helpers": "Jonathan Pye,Nancy Nate,Darryl Hondorp,Tom Binder",
     "host_name": "Dalhousie University",
     "latitude": 42.281422,
     "start_date": "2020-02-24"
@@ -54,7 +69,7 @@
     "longitude": -79.3993425204167,
     "slug": "2020-02-20-utsg",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Kathy Chung,Ahmed Hasan,Rachel Wang,Lise Doucette,Bryan Hong,Matt Strimas-Mackey,Gillian Chen,Samantha Daniels,Jasmine Stasiuk Riddell,Alex Wong",
     "host_name": "University of Toronto",
     "latitude": 43.6650297,
     "start_date": "2020-02-20"

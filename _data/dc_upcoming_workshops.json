@@ -15,21 +15,6 @@
     "start_date": "2020-02-12"
   },
   {
-    "instructors": "Zena Lapp,Stephanie Thiede",
-    "end_date": "2020-03-03",
-    "url": "https://umswc.github.io/2020-03-02-umich-genomics/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "University of Michigan",
-    "longitude": -83.734886,
-    "slug": "2020-03-02-umich-genomics",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Michigan",
-    "latitude": 42.280093,
-    "start_date": "2020-03-02"
-  },
-  {
     "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
