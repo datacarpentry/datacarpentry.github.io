@@ -1,5 +1,35 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-03-05",
+    "url": "https://genomicsaotearoa.github.io/2020-03-04-waikato/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "LIC, Hamilton",
+    "longitude": 175.35113,
+    "slug": "2020-03-04-waikato",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genomics Aotearoa",
+    "latitude": -37.78236,
+    "start_date": "2020-03-04"
+  },
+  {
+    "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
+    "end_date": "2020-03-04",
+    "url": "https://tgac.github.io/2020-03-03-earlham/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "Earlham Institute",
+    "longitude": 1.218976,
+    "slug": "2020-03-03-earlham",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621887,
+    "start_date": "2020-03-03"
+  },
+  {
     "instructors": "Zena Lapp,Stephanie Thiede",
     "end_date": "2020-03-03",
     "url": "https://umswc.github.io/2020-03-02-umich-genomics/",
@@ -147,6 +177,21 @@
     "helpers": "Alicia Hodson",
     "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
+    "start_date": "2020-02-12"
+  },
+  {
+    "instructors": "Evgenij Belikov,Michael Spencer",
+    "end_date": "2020-03-04",
+    "url": "https://edcarp.github.io/2020-02-12-edinburgh-dc-social-sciences/",
+    "country": "GB",
+    "curriculum": "dc-socsci-r",
+    "venue": "Room 4.2, Lister Building",
+    "longitude": -3.184209,
+    "slug": "2020-02-12-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947159,
     "start_date": "2020-02-12"
   },
   {
@@ -2367,6 +2412,21 @@
     "helpers": null,
     "host_name": "University of Edinburgh",
     "latitude": 55.947457,
+    "start_date": "2019-02-07"
+  },
+  {
+    "instructors": "Ed Bennett,Mark Dawson,Michele Mesiti",
+    "end_date": "2019-02-08",
+    "url": "https://sa2c.github.io/dc-swansea-february-2019/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "The Boardroom, Computational Foundry",
+    "longitude": -3.878851,
+    "slug": "2019-02-07-swansea",
+    "tag_name": "DC",
+    "helpers": "Jarno Rantaharju,Chennakesava Kadapa,Ben Thorpe",
+    "host_name": "Swansea University",
+    "latitude": 51.619129,
     "start_date": "2019-02-07"
   },
   {
