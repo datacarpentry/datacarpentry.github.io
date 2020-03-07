@@ -1,50 +1,5 @@
 [
   {
-    "instructors": "Sarah Pugachev,Amelia Kallaher",
-    "end_date": "2020-03-06",
-    "url": "https://nydclc.github.io/2020-03-05-Cortland/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "The Port Watson Mini-Conference Center",
-    "longitude": -76.16979,
-    "slug": "2020-03-05-Cortland",
-    "tag_name": "DC",
-    "helpers": "Jesi Buell",
-    "host_name": "SUNY Cortland",
-    "latitude": 42.59774,
-    "start_date": "2020-03-05"
-  },
-  {
-    "instructors": "Jennifer Shelton,Schuyler Smith",
-    "end_date": "2020-03-06",
-    "url": "https://schuyler-smith.github.io/2020-03-05-gwu/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "George Washington University",
-    "longitude": -77.04,
-    "slug": "2020-03-05-gwu",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "George Washington University",
-    "latitude": 38.89,
-    "start_date": "2020-03-05"
-  },
-  {
-    "instructors": "Karl Benedict,Mark Servilla",
-    "end_date": "2020-03-07",
-    "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "New Mexico Highlands University",
-    "longitude": -105.22,
-    "slug": "2020-03-06-nmhu",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of New Mexico",
-    "latitude": 35.596306,
-    "start_date": "2020-03-06"
-  },
-  {
     "instructors": "Martin Dreyer",
     "end_date": "2020-03-11",
     "url": "https://nwu-eresearch.github.io/2020-03-10-NWU-Potch-DC/",
@@ -75,6 +30,21 @@
     "start_date": "2020-03-10"
   },
   {
+    "instructors": "Paige Morgan",
+    "end_date": "2020-03-11",
+    "url": "https://paigecm.github.io/2020-03-11-udel/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Delaware",
+    "longitude": -75.753007,
+    "slug": "2020-03-11-udel",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": 39.677914,
+    "start_date": "2020-03-11"
+  },
+  {
     "instructors": "Rebecca Lowdon,Lachlan Deer",
     "end_date": "2020-03-13",
     "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
@@ -103,6 +73,21 @@
     "host_name": "Oklahoma State University",
     "latitude": 36.122951,
     "start_date": "2020-03-16"
+  },
+  {
+    "instructors": "Peter van Heusden,Oghenere Salubi",
+    "end_date": "2020-03-20",
+    "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Western Cape",
+    "longitude": 18.627851,
+    "slug": "2020-03-19-UWC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.933627,
+    "start_date": "2020-03-19"
   },
   {
     "instructors": "Eve Bohnett,Ted Laderas",

@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Karl Benedict,Mark Servilla",
+    "end_date": "2020-03-07",
+    "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "New Mexico Highlands University",
+    "longitude": -105.22,
+    "slug": "2020-03-06-nmhu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.596306,
+    "start_date": "2020-03-06"
+  },
+  {
+    "instructors": "Sarah Pugachev,Amelia Kallaher",
+    "end_date": "2020-03-06",
+    "url": "https://nydclc.github.io/2020-03-05-Cortland/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "The Port Watson Mini-Conference Center",
+    "longitude": -76.16979,
+    "slug": "2020-03-05-Cortland",
+    "tag_name": "DC",
+    "helpers": "Jesi Buell",
+    "host_name": "SUNY Cortland",
+    "latitude": 42.59774,
+    "start_date": "2020-03-05"
+  },
+  {
+    "instructors": "Jennifer Shelton,Schuyler Smith",
+    "end_date": "2020-03-06",
+    "url": "https://schuyler-smith.github.io/2020-03-05-gwu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "George Washington University",
+    "longitude": -77.04,
+    "slug": "2020-03-05-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.89,
+    "start_date": "2020-03-05"
+  },
+  {
     "instructors": null,
     "end_date": "2020-03-05",
     "url": "https://genomicsaotearoa.github.io/2020-03-04-waikato/",
@@ -27,6 +72,21 @@
     "helpers": null,
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
+    "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Mike Trizna,Matthew Kweskin,Susan (Sue) Zwicker",
+    "end_date": "2020-03-04",
+    "url": "https://smithsonianworkshops.github.io/2020-03-04-sms/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Smithsonian Marine Station",
+    "longitude": -80.311246,
+    "slug": "2020-03-04-sms",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 27.461094,
     "start_date": "2020-03-03"
   },
   {
