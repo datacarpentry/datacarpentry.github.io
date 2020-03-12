@@ -330,6 +330,21 @@
     "start_date": "2020-02-10"
   },
   {
+    "instructors": "Thomas Guignard,Ahmed Hasan,Deena Yanofsky,Mike Serafin",
+    "end_date": "2020-02-11",
+    "url": "https://mikeserafin.github.io/2020-02-10-utm/",
+    "country": "CA",
+    "curriculum": "swc-python,dc-socsci-r,dc-socsci-python,swc-r,swc-plotting,swc-reproducible-science",
+    "venue": "University of Toronto Mississauga",
+    "longitude": -79.6657487,
+    "slug": "2020-02-10-utm",
+    "tag_name": "DC",
+    "helpers": "Elizabeth Parke,Deborah (Debbie) Buehler",
+    "host_name": "University of Toronto (Mississauga)",
+    "latitude": 43.5511869,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",

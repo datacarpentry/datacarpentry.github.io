@@ -30,6 +30,21 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Logan Cox,Tyler Pearson,Jim Ferguson",
+    "end_date": "2020-03-17",
+    "url": "https://oulib-swc.github.io/2020-03-16-ou-dc/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445845,
+    "slug": "2020-03-16-ou-dc",
+    "tag_name": "DC",
+    "helpers": "Claire Curry,Theo Acker,Andrea Hess",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": "Peter van Heusden,Oghenere Salubi",
     "end_date": "2020-03-20",
     "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
@@ -58,21 +73,6 @@
     "host_name": "San Diego State University",
     "latitude": 32.777419,
     "start_date": "2020-03-20"
-  },
-  {
-    "instructors": "Tina Visnovska",
-    "end_date": "2020-03-24",
-    "url": "https://uio-carpentry.github.io/2020-03-23-uio/",
-    "country": "NO",
-    "curriculum": "dc-genomics",
-    "venue": "University of Oslo",
-    "longitude": 10.72204,
-    "slug": "2020-03-23-uio",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Oslo",
-    "latitude": 59.93824,
-    "start_date": "2020-03-23"
   },
   {
     "instructors": "Nicholas Wolf,Alexandra Provo",
@@ -120,6 +120,21 @@
     "start_date": "2020-04-01"
   },
   {
+    "instructors": "Anita Schürch",
+    "end_date": "2020-04-07",
+    "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2020-04-06-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2020-04-06"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-04-10",
     "url": "https://swc-mizzou.github.io/2020-04-09-mizzou",
@@ -133,6 +148,21 @@
     "host_name": "University of Missouri",
     "latitude": 38.95155,
     "start_date": "2020-04-09"
+  },
+  {
+    "instructors": "Brooke Luetgert,William Ngiam",
+    "end_date": "2020-04-17",
+    "url": "http://uc-carpentries.github.io/2020-04-16-chicago",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Zar Room, John Crerar Library, University of Chicago",
+    "longitude": -87,
+    "slug": "2020-04-16-chicago",
+    "tag_name": "DC",
+    "helpers": "Lachlan Deer,Angela Li",
+    "host_name": "University of Chicago",
+    "latitude": 42,
+    "start_date": "2020-04-16"
   },
   {
     "instructors": "Annika Rockenberger,Matthew Good",
