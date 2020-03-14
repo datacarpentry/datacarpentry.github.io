@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Lachlan Deer,Adam Hughes",
-    "end_date": "2020-03-13",
-    "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Carnegie Mellon University",
-    "longitude": -79.94178,
-    "slug": "2020-03-12-carnegie",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Carnegie Mellon University",
-    "latitude": 40.44039,
-    "start_date": "2020-03-12"
-  },
-  {
-    "instructors": "Kay BJornen",
-    "end_date": "2020-03-17",
-    "url": "https://osu-carpentry.github.io/2020-03-16-okstate/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Oklahoma State University",
-    "longitude": -97.069743,
-    "slug": "2020-03-16-okstate",
-    "tag_name": "DC",
-    "helpers": "Phillip Doehle",
-    "host_name": "Oklahoma State University",
-    "latitude": 36.122951,
-    "start_date": "2020-03-16"
-  },
-  {
     "instructors": "Logan Cox,Tyler Pearson,Jim Ferguson",
     "end_date": "2020-03-17",
     "url": "https://oulib-swc.github.io/2020-03-16-ou-dc/",
@@ -45,14 +15,14 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Peter van Heusden,Oghenere Salubi",
+    "instructors": "Peter van Heusden,Amieroh Abrahams,Tadiwanashe Gutsa,Oghenere Salubi",
     "end_date": "2020-03-20",
     "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
     "venue": "University of Western Cape",
     "longitude": 18.627851,
-    "slug": "2020-03-19-UWC",
+    "slug": "2020-03-19-dc_social_sciences",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "University of the Western Cape",
@@ -193,21 +163,6 @@
     "host_name": "University of Missouri",
     "latitude": 38.95155,
     "start_date": "2020-05-07"
-  },
-  {
-    "instructors": "Bishwa Ghimire,Jesse Harrison",
-    "end_date": "2020-05-15",
-    "url": "https://csc-training.github.io/2020-05-14-csc/",
-    "country": "FI",
-    "curriculum": "dc-ecology-r",
-    "venue": "CSC - IT Center for Science",
-    "longitude": 24.82828,
-    "slug": "2020-05-14-csc",
-    "tag_name": "DC",
-    "helpers": "Kerstin Lenk",
-    "host_name": "CSC - IT Center for Science",
-    "latitude": 60.1780621,
-    "start_date": "2020-05-14"
   },
   {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",

@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Lachlan Deer,Adam Hughes",
+    "end_date": "2020-03-13",
+    "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Carnegie Mellon University",
+    "longitude": -79.94178,
+    "slug": "2020-03-12-carnegie",
+    "tag_name": "DC",
+    "helpers": "Sarah Young,Ann Marie Mesco",
+    "host_name": "Carnegie Mellon University",
+    "latitude": 40.44039,
+    "start_date": "2020-03-12"
+  },
+  {
     "instructors": "Paige Morgan",
     "end_date": "2020-03-11",
     "url": "https://paigecm.github.io/2020-03-11-udel/",
@@ -15,7 +30,7 @@
     "start_date": "2020-03-11"
   },
   {
-    "instructors": "Martin Dreyer",
+    "instructors": "Martin Dreyer,Zak (I.W) van Heerden",
     "end_date": "2020-03-11",
     "url": "https://nwu-eresearch.github.io/2020-03-10-NWU-Potch-DC/",
     "country": "ZA",
@@ -69,7 +84,7 @@
     "longitude": -76.16979,
     "slug": "2020-03-05-Cortland",
     "tag_name": "DC",
-    "helpers": "Jesi Buell",
+    "helpers": "Jesi Buell,Deirdre Joyce,Josh Finnell,Tim Furgal",
     "host_name": "SUNY Cortland",
     "latitude": 42.59774,
     "start_date": "2020-03-05"
@@ -144,7 +159,7 @@
     "longitude": -83.734886,
     "slug": "2020-03-02-umich-genomics",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Tianyu Jiang,Emily Benedict,Dana King,Matthew Flickinger,Cynthia Zajac",
     "host_name": "University of Michigan",
     "latitude": 42.280093,
     "start_date": "2020-03-02"
@@ -339,7 +354,7 @@
     "longitude": -79.6657487,
     "slug": "2020-02-10-utm",
     "tag_name": "DC",
-    "helpers": "Elizabeth Parke,Deborah (Debbie) Buehler",
+    "helpers": "Elizabeth Parke,Deborah (Debbie) Buehler,Katy Czajkowski",
     "host_name": "University of Toronto (Mississauga)",
     "latitude": 43.5511869,
     "start_date": "2020-02-10"
