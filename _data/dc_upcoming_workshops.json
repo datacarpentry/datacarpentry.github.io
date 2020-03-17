@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Logan Cox,Tyler Pearson,Jim Ferguson",
-    "end_date": "2020-03-17",
-    "url": "https://oulib-swc.github.io/2020-03-16-ou-dc/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445845,
-    "slug": "2020-03-16-ou-dc",
-    "tag_name": "DC",
-    "helpers": "Claire Curry,Theo Acker,Andrea Hess",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.207982,
-    "start_date": "2020-03-16"
-  },
-  {
     "instructors": "Peter van Heusden,Amieroh Abrahams,Tadiwanashe Gutsa,Oghenere Salubi",
     "end_date": "2020-03-20",
     "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
