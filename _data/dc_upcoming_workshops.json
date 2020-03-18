@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Peter van Heusden,Amieroh Abrahams,Tadiwanashe Gutsa,Oghenere Salubi",
-    "end_date": "2020-03-20",
-    "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Western Cape",
-    "longitude": 18.627851,
-    "slug": "2020-03-19-dc_social_sciences",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of the Western Cape",
-    "latitude": -33.933627,
-    "start_date": "2020-03-19"
-  },
-  {
     "instructors": "Eve Bohnett,Ted Laderas",
     "end_date": "2020-03-21",
     "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
