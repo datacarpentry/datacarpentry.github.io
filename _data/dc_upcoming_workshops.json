@@ -45,21 +45,6 @@
     "start_date": "2020-03-26"
   },
   {
-    "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
-    "end_date": "2020-04-02",
-    "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
-    "country": "",
-    "curriculum": "",
-    "venue": "Karolinska Institutet University Library Flemingsberg",
-    "longitude": 17.940939,
-    "slug": "2020-04-01-working-with-data",
-    "tag_name": "DC",
-    "helpers": "Glenn Haya",
-    "host_name": "Karolinska Institutet",
-    "latitude": 59.219701,
-    "start_date": "2020-04-01"
-  },
-  {
     "instructors": "Anita Schürch",
     "end_date": "2020-04-07",
     "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
