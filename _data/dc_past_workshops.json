@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Eve Bohnett,Ted Laderas",
+    "end_date": "2020-03-21",
+    "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "San Diego State University",
+    "longitude": -117.073996,
+    "slug": "2020-03-20-SDSU_geospatial",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "San Diego State University",
+    "latitude": 32.777419,
+    "start_date": "2020-03-20"
+  },
+  {
     "instructors": "Lachlan Deer,Adam Hughes",
     "end_date": "2020-03-13",
     "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
