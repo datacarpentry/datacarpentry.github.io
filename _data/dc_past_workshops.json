@@ -15,21 +15,6 @@
     "start_date": "2020-03-20"
   },
   {
-    "instructors": "Lachlan Deer,Adam Hughes",
-    "end_date": "2020-03-13",
-    "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Carnegie Mellon University",
-    "longitude": -79.94178,
-    "slug": "2020-03-12-carnegie",
-    "tag_name": "DC",
-    "helpers": "Sarah Young,Ann Marie Mesco",
-    "host_name": "Carnegie Mellon University",
-    "latitude": 40.44039,
-    "start_date": "2020-03-12"
-  },
-  {
     "instructors": "Paige Morgan",
     "end_date": "2020-03-11",
     "url": "https://paigecm.github.io/2020-03-11-udel/",
@@ -57,21 +42,6 @@
     "helpers": "Sebastian Mosidi",
     "host_name": "North-West University",
     "latitude": -26.6901346,
-    "start_date": "2020-03-10"
-  },
-  {
-    "instructors": "Lorraine Ling,Rachel Lombardi",
-    "end_date": "2020-03-11",
-    "url": "https://loriling96.github.io/2020-03-10-genentech/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Genentech",
-    "longitude": -1,
-    "slug": "2020-03-10-genentech",
-    "tag_name": "DC",
-    "helpers": "Altaf Kassam",
-    "host_name": "Genentech",
-    "latitude": 45,
     "start_date": "2020-03-10"
   },
   {
