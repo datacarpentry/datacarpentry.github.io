@@ -1,18 +1,33 @@
 [
   {
-    "instructors": "Eve Bohnett,Ted Laderas",
-    "end_date": "2020-03-21",
-    "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
+    "instructors": "Nicholas Wolf,Alexandra Provo",
+    "end_date": "2020-03-27",
+    "url": "https://nyu-dataservices.github.io/2020-03-26-nyu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-03-26-nyu",
+    "tag_name": "DC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-03-26"
+  },
+  {
+    "instructors": "Erich Seamon",
+    "end_date": "2020-03-27",
+    "url": "https://erichseamon.github.io/2020-03-26-uidaho-geospatial",
     "country": "US",
     "curriculum": "dc-geospatial",
-    "venue": "San Diego State University",
-    "longitude": -117.073996,
-    "slug": "2020-03-20-SDSU_geospatial",
+    "venue": "University of Idaho",
+    "longitude": -117.01093,
+    "slug": "2020-03-26-uidaho-geospatial",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "San Diego State University",
-    "latitude": 32.777419,
-    "start_date": "2020-03-20"
+    "host_name": "University of Idaho",
+    "latitude": 46.72696,
+    "start_date": "2020-03-26"
   },
   {
     "instructors": "Paige Morgan",
