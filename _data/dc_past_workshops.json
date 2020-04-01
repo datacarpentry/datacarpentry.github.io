@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ben Curran,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2020-04-01",
+    "url": "https://genomicsaotearoa.github.io/2020-03-31-online/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Online Genomics Data Carpentry",
+    "longitude": null,
+    "slug": "2020-03-31-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genomics Aotearoa",
+    "latitude": null,
+    "start_date": "2020-03-31"
+  },
+  {
     "instructors": "Nicholas Wolf,Alexandra Provo",
     "end_date": "2020-03-27",
     "url": "https://nyu-dataservices.github.io/2020-03-26-nyu/",
