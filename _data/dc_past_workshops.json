@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Anita Schürch",
+    "end_date": "2020-04-07",
+    "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2020-04-06-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2020-04-06"
+  },
+  {
     "instructors": "Ben Curran,Ngonidzashe Faya,Dinindu Senanayake",
     "end_date": "2020-04-01",
     "url": "https://genomicsaotearoa.github.io/2020-03-31-online/",
@@ -84,7 +99,7 @@
     "longitude": -105.22,
     "slug": "2020-03-06-nmhu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Sarah Corey-Rivas,Kyle Rose",
     "host_name": "University of New Mexico",
     "latitude": 35.596306,
     "start_date": "2020-03-06"

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Anita Schürch",
-    "end_date": "2020-04-07",
-    "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
-    "country": "NL",
-    "curriculum": "dc-genomics",
-    "venue": "Utrecht University",
-    "longitude": 5.169072,
-    "slug": "2020-04-06-Utrecht",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
-    "latitude": 52.085393,
-    "start_date": "2020-04-06"
-  },
-  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-04-10",
     "url": "https://swc-mizzou.github.io/2020-04-09-mizzou",
