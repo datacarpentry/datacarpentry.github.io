@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Samniqueka Halsey,Steven Pryor",
-    "end_date": "2020-04-10",
-    "url": "https://swc-mizzou.github.io/2020-04-09-mizzou",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Missouri",
-    "longitude": -92.32859,
-    "slug": "2020-04-09-mizzou",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.95155,
-    "start_date": "2020-04-09"
-  },
-  {
     "instructors": "Brooke Luetgert,William Ngiam",
     "end_date": "2020-04-17",
     "url": "http://uc-carpentries.github.io/2020-04-16-chicago",
