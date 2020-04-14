@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Brooke Luetgert,William Ngiam",
-    "end_date": "2020-04-17",
-    "url": "http://uc-carpentries.github.io/2020-04-16-chicago",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Zar Room, John Crerar Library, University of Chicago",
-    "longitude": -87,
-    "slug": "2020-04-16-chicago",
-    "tag_name": "DC",
-    "helpers": "Lachlan Deer,Angela Li",
-    "host_name": "University of Chicago",
-    "latitude": 42,
-    "start_date": "2020-04-16"
-  },
-  {
     "instructors": "Annika Rockenberger,Matthew Good",
     "end_date": "2020-04-29",
     "url": "https://uio-carpentry.github.io/2020-04-28-dcssh/",
