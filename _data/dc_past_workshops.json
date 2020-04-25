@@ -15,7 +15,7 @@
     "start_date": "2020-04-09"
   },
   {
-    "instructors": "Anita Schürch",
+    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet",
     "end_date": "2020-04-07",
     "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
     "country": "NL",
@@ -939,7 +939,7 @@
     "longitude": -75.118828,
     "slug": "2019-10-25-rutgers_cmd",
     "tag_name": "DC",
-    "helpers": "Sunil Shende,Ryan Womack,Sid Bhadra-Lobo,Ravi Kumar,Nidhi Sheth",
+    "helpers": "Sunil Shende,Ryan Womack,Siddharth Bhadra-Lobo,Ravi Kumar,Nidhi Sheth",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-10-25"

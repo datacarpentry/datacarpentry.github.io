@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh",
+    "end_date": "2020-05-07",
+    "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
+    "country": "W3",
+    "curriculum": "dc-socsci-r",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-05-05-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-05-05"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-05-08",
     "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
