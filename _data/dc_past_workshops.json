@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-04-17",
+    "url": "https://edcarp.github.io/2020-04-16-sfc-online/",
+    "country": "W3",
+    "curriculum": "dc-ecology-python",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-16-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-04-16"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-04-10",
     "url": "https://swc-mizzou.github.io/2020-04-09-mizzou",
