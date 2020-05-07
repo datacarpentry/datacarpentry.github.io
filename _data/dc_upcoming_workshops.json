@@ -75,6 +75,21 @@
     "start_date": "2020-05-26"
   },
   {
+    "instructors": "Rebecca Lange,Cara Kreck",
+    "end_date": "2020-05-28",
+    "url": "https://curtinic.github.io/2020-05-27-Curtin/",
+    "country": "AU",
+    "curriculum": "dc-ecology-python",
+    "venue": "Curtin University",
+    "longitude": 115.892092,
+    "slug": "2020-05-27-Curtin",
+    "tag_name": "DC",
+    "helpers": "Andrew Rohl,Kevin Chai,Behrouz Khabbaz Beheshti,Kathryn Napier,Rakib Hassan,Peter Krause",
+    "host_name": "Curtin University",
+    "latitude": -32.0069186,
+    "start_date": "2020-05-27"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
