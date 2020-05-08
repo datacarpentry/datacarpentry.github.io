@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-05-08",
+    "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-05-07-mizzou",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-05-07"
+  },
+  {
+    "instructors": "François Michonneau,Maneesha Sane,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Andiswa Bukula,Dimakatso Mathe,Phathutshedzo Maxwell Ramukhadi",
+    "end_date": "2020-05-07",
+    "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
+    "country": "W3",
+    "curriculum": "dc-socsci-r",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-05-05-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": "Serah Anne Kiburu,Sebastian Mosidi",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-05-05"
+  },
+  {
     "instructors": null,
     "end_date": "2020-04-17",
     "url": "https://edcarp.github.io/2020-04-16-sfc-online/",
