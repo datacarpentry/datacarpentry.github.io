@@ -705,7 +705,7 @@
     "start_date": "2019-12-07"
   },
   {
-    "instructors": null,
+    "instructors": "Mark Dawson",
     "end_date": "2019-12-05",
     "url": "https://sa2c.github.io/2019-12-04-swansea",
     "country": "GB",
@@ -714,7 +714,7 @@
     "longitude": -3.982323,
     "slug": "2019-12-04-swansea",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.609054,
     "start_date": "2019-12-04"
