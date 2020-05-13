@@ -2580,7 +2580,7 @@
     "start_date": "2019-02-20"
   },
   {
-    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho",
     "end_date": "2019-02-19",
     "url": "https://edcarp.github.io/2019-02-18-edinburgh-business-school/",
     "country": "GB",
@@ -3540,7 +3540,7 @@
     "start_date": "2018-09-14"
   },
   {
-    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho",
     "end_date": "2018-09-14",
     "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
     "country": "GB",
@@ -3928,6 +3928,21 @@
     "host_name": "Macquarie University",
     "latitude": -33.7755405,
     "start_date": "2018-07-03"
+  },
+  {
+    "instructors": null,
+    "end_date": "2018-07-03",
+    "url": "https://african-carpentries.github.io/2018-07-02-ZIMREN/",
+    "country": "ZW",
+    "curriculum": null,
+    "venue": "Catholic University of Zimbabwe",
+    "longitude": 31.06693,
+    "slug": "2018-07-02-ZIMREN",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Catholic University of Zimbabwe",
+    "latitude": -17.869106,
+    "start_date": "2018-07-02"
   },
   {
     "instructors": "Rebecca Lowdon,Doug Jennewein",
@@ -6658,6 +6673,21 @@
     "host_name": "University of Zurich",
     "latitude": 47.397243,
     "start_date": "2016-05-30"
+  },
+  {
+    "instructors": "Camille Scott,Tracy Teal",
+    "end_date": "2016-05-29",
+    "url": "http://datacarpentry.github.io/2016-05-29-PyCon/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "PyCon 2016",
+    "longitude": -122.6632,
+    "slug": "2016-05-29-PyCon",
+    "tag_name": "DC",
+    "helpers": "Luiz Irber,Jessica Mizzi,Lisa Johnson",
+    "host_name": "PyCon",
+    "latitude": 45.5282,
+    "start_date": "2016-05-29"
   },
   {
     "instructors": "Adam Thomas,Jason Williams,Ryan Dale",

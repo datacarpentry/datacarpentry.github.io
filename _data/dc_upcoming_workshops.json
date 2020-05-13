@@ -15,7 +15,7 @@
     "start_date": "2020-05-13"
   },
   {
-    "instructors": null,
+    "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
     "end_date": "2020-05-29",
     "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
     "country": "US",
@@ -24,7 +24,7 @@
     "longitude": -1,
     "slug": "2020-05-29-UCSB-R",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Ian Lessing,Kristi Liu",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-05-22"
