@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-05-14",
+    "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-socsci-r",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-05-13-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-05-13"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-05-08",
     "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
@@ -18,9 +33,9 @@
     "instructors": "François Michonneau,Maneesha Sane,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Andiswa Bukula,Dimakatso Mathe,Phathutshedzo Maxwell Ramukhadi",
     "end_date": "2020-05-07",
     "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
-    "country": "W3",
+    "country": "ZA",
     "curriculum": "dc-socsci-r",
-    "venue": "Internet",
+    "venue": "(online)",
     "longitude": -123.393333,
     "slug": "2020-05-05-SA-ONLINE",
     "tag_name": "DC",
@@ -505,7 +520,7 @@
     "slug": "2020-01-29-WITS",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "University of the Witwatersrand",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -26.189054,
     "start_date": "2020-01-29"
   },

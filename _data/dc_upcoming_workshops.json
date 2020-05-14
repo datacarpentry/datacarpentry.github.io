@@ -1,20 +1,5 @@
 [
   {
-    "instructors": null,
-    "end_date": "2020-05-14",
-    "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
-    "country": "GB",
-    "curriculum": "dc-socsci-r",
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-05-13-sfc-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
-    "start_date": "2020-05-13"
-  },
-  {
     "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
     "end_date": "2020-05-29",
     "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
