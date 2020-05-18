@@ -45,6 +45,21 @@
     "start_date": "2020-05-27"
   },
   {
+    "instructors": null,
+    "end_date": "2020-06-05",
+    "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR",
+    "longitude": -123.393333,
+    "slug": "2020-06-01-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-06-01"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",

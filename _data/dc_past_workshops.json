@@ -1,6 +1,6 @@
 [
   {
-    "instructors": null,
+    "instructors": "Aleksandra Nenadic,Justin Chun-ting Ho",
     "end_date": "2020-05-14",
     "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
     "country": "GB",
@@ -9,7 +9,7 @@
     "longitude": -3.187347,
     "slug": "2020-05-13-sfc-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Giacomo Peru,Lucia Michielin,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-05-13"
@@ -35,7 +35,7 @@
     "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
-    "venue": "(online)",
+    "venue": "SADiLaR",
     "longitude": -123.393333,
     "slug": "2020-05-05-SA-ONLINE",
     "tag_name": "DC",
