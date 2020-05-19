@@ -15,7 +15,7 @@
     "start_date": "2020-05-13"
   },
   {
-    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "instructors": "Denice Adkins,Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-05-08",
     "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
     "country": "US",
@@ -24,7 +24,7 @@
     "longitude": -92.32859,
     "slug": "2020-05-07-mizzou",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Jamene Brooks-Kieffer,Steven Pryor,Predrag Lazic,Asif Magdoom Ali,Brian Marxkors,Christina Roberts",
     "host_name": "University of Missouri",
     "latitude": 38.95155,
     "start_date": "2020-05-07"
@@ -45,7 +45,7 @@
     "start_date": "2020-05-05"
   },
   {
-    "instructors": null,
+    "instructors": "Aleksandra Nenadic,Martino Sorbaro Sindaci,Antonia Mey",
     "end_date": "2020-04-17",
     "url": "https://edcarp.github.io/2020-04-16-sfc-online/",
     "country": "W3",
@@ -54,7 +54,7 @@
     "longitude": -123.393333,
     "slug": "2020-04-16-sfc-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Lucia Michielin,Steve Carlysle-Davies,Robert Nagy,Fazl Barez",
     "host_name": "University of Edinburgh",
     "latitude": -48.876667,
     "start_date": "2020-04-16"
@@ -1333,6 +1333,21 @@
     "host_name": "University of the Western Cape",
     "latitude": -33.930881,
     "start_date": "2019-09-10"
+  },
+  {
+    "instructors": "François Michonneau,Miklós Koren,András Vereckei",
+    "end_date": "2019-08-30",
+    "url": "https://korenmiklos.github.io/2019-08-30-EEA-Manchester/",
+    "country": "GB",
+    "curriculum": "dc-economics",
+    "venue": "Data Wrangling for Economists (EEA Annual Congress)",
+    "longitude": -2.233884,
+    "slug": "2019-08-30-EEA-Manchester",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.46685,
+    "start_date": "2019-08-30"
   },
   {
     "instructors": "Jon Wheeler,Mark Servilla",

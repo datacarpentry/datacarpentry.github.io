@@ -88,5 +88,20 @@
     "host_name": "European Economic Association",
     "latitude": 51.9176,
     "start_date": "2020-08-23"
+  },
+  {
+    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
+    "end_date": "2020-09-03",
+    "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Schusterman Library at OU-Tulsa",
+    "longitude": -95.922974,
+    "slug": "2020-09-02-dc-tulsa",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101354,
+    "start_date": "2020-09-02"
   }
 ]
