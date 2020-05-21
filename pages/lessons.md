@@ -388,7 +388,8 @@ model, see our [Curriculum Development Handbook](https://cdh.carpentries.org) fo
 With support from an NSF iUSE grant, Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA have developed
 a curriculum for teaching image processing in Python. This lesson is currently being piloted at different institutions. This pilot phase
 will be followed by a clean-up phase to incorporate suggestions and feedback from the
-pilots into the lessons and to make the lessons teachable by the broader community.
+pilots into the lessons and to make the lessons teachable by the broader community. Development for these lessons has been supported by a grant from the [Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling)/
+
 
 #### Lessons
 
@@ -413,8 +414,8 @@ pilots into the lessons and to make the lessons teachable by the broader communi
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
-A potential Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central 
-European University. These materials are being piloted locally. 
+A Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren
+at Central European University. These materials are being piloted locally. Development for these lessons has been supported by a grant from the [Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling)/
 
 #### Lessons
 
