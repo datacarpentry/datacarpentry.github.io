@@ -60,6 +60,36 @@
     "start_date": "2020-06-01"
   },
   {
+    "instructors": null,
+    "end_date": "2020-06-05",
+    "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-04-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-04"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-17",
+    "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-16-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-16"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
@@ -73,6 +103,21 @@
     "host_name": "RMIT University",
     "latitude": -37.809218,
     "start_date": "2020-06-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-07-02",
+    "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-07-01-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-07-01"
   },
   {
     "instructors": "Miklós Koren,Arieda Muço",
