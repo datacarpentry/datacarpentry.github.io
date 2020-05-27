@@ -78,9 +78,28 @@ format: blog-index
 * First check, if there are any posts at all
 *
 {% endcomment %}
+<div class="row t60">
+  <div class="medium-20">
 
-    <div class="row">
-        <div class="medium-6 columns">
+          
+    <h2>{{ site.data.language.upcoming_workshops }}</h2>
+
+    {% assign workshop_list = site.data.all_upcoming_workshops | where_exp: "item", "item.tag_name contains 'DC'" %}
+    {% include workshop_table.md %}
+
+      <h4>Check out our <a href="/workshops-past/">past workshops.</a></h4>
+
+  </div>
+    </div><!-- /.row -->
+
+    
+
+<div class="row t60">
+  <div class="medium-20">
+
+
+<!--     <div class="row">
+        <div class="medium-6 columns"> -->
           <h2>{{ site.data.language.more_articles }}</h2>
           <p>
             In addition of the posts below,
@@ -94,16 +113,9 @@ format: blog-index
         </div><!-- /.medium-7.columns -->
 
 
-        <div class="medium-6 columns">
-	  <h2>{{ site.data.language.upcoming_workshops }}</h2>
+        <!-- <div class="medium-6 columns"> -->
 
-    {% assign workshop_list = site.data.all_upcoming_workshops | where_exp: "item", "item.tag_name contains 'DC'" %}
-	  {% include workshop_table.md %}
 
-      <h4>Check out our <a href="/workshops-past/">past workshops.</a></h4>
-
-	</div>
-    </div><!-- /.row -->
 
 
 {% comment %}
