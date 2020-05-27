@@ -5,6 +5,7 @@ title: "Our Workshops"
 header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/workshops/"
+redirect_to: https://carpentries.org/workshops/
 ---
 
 A Data Carpentry workshop teaches the core skills for working with data effectively and reproducibly.
