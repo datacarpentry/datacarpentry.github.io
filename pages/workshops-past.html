@@ -14,6 +14,6 @@ Check out our <a href="/workshops-upcoming/">upcoming workshops here</a>.
 <hr>
 
 
-{% assign workshop_list = site.data.dc_past_workshops %}
+{% assign workshop_list = site.data.all_past_workshops | where_exp: "item", "item.tag_name contains 'DC'" %}
 
 {% include workshop_table.md %}

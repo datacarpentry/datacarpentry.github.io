@@ -96,7 +96,8 @@ format: blog-index
 
         <div class="medium-6 columns">
 	  <h2>{{ site.data.language.upcoming_workshops }}</h2>
-          {% assign workshop_list = site.data.dc_upcoming_workshops %}
+
+    {% assign workshop_list = site.data.all_upcoming_workshops | where_exp: "item", "item.tag_name contains 'DC'" %}
 	  {% include workshop_table.md %}
 
       <h4>Check out our <a href="/workshops-past/">past workshops.</a></h4>
