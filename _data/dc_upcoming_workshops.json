@@ -15,21 +15,6 @@
     "start_date": "2020-05-22"
   },
   {
-    "instructors": null,
-    "end_date": "2020-05-27",
-    "url": "https://edcarp.github.io/2020-05-26-sfc-online/",
-    "country": "GB",
-    "curriculum": "dc-socsci-python",
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-05-26-sfc-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
-    "start_date": "2020-05-26"
-  },
-  {
     "instructors": "Rebecca Lange,Cara Kreck",
     "end_date": "2020-05-28",
     "url": "https://curtinic.github.io/2020-05-27-Curtin/",
