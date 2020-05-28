@@ -9,7 +9,7 @@ git checkout master
 cd .. &&
     mkdir feed-data &&
     cd feed-data &&
-    curl --remote-name-all https://feeds.carpentries.org/dc_{past,upcoming}_workshops.json &&
+    curl --remote-name-all https://feeds.carpentries.org/all_{past,upcoming}_workshops.json &&
     find . -name '*.json' -exec cp {} ../"$REPO_NAME"/_data/ \;
 
 cd ../"$REPO_NAME"  || exit
