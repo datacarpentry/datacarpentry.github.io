@@ -15,6 +15,21 @@
     "start_date": "2020-05-18"
   },
   {
+    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
+    "end_date": "2020-06-04",
+    "url": "https://subugoe.github.io/2020-05-19-lc/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "SUB Göttingen",
+    "longitude": 9.935895,
+    "slug": "2020-05-19-lc",
+    "tag_name": "LC,online",
+    "helpers": "Birgit Schmidt,Astrid Orth",
+    "host_name": "University of Göttingen",
+    "latitude": 51.539741,
+    "start_date": "2020-05-19"
+  },
+  {
     "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",
     "end_date": "2020-06-10",
     "url": "https://oulib-swc.github.io/2020-05-20-ou-swc-online/",
@@ -30,79 +45,19 @@
     "start_date": "2020-05-20"
   },
   {
-    "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
-    "end_date": "2020-05-29",
-    "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of California Santa Barbara",
-    "longitude": -1,
-    "slug": "2020-05-29-UCSB-R",
-    "tag_name": "DC",
-    "helpers": "Ian Lessing,Kristi Liu",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 45,
-    "start_date": "2020-05-22"
-  },
-  {
-    "instructors": "Mark Laufersweiler,Amanda Schilling",
-    "end_date": "2020-05-29",
-    "url": "https://oulib-swc.github.io/2020-05-27-ouNWC_REU-swc",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Oklahoma (online)",
-    "longitude": -97.445717,
-    "slug": "2020-05-27-ouNWC_REU-swc",
-    "tag_name": "online,Circuits",
-    "helpers": null,
-    "host_name": "University of Oklahoma",
-    "latitude": 35.205894,
-    "start_date": "2020-05-27"
-  },
-  {
-    "instructors": "Andrew Battista,Billy Broderick",
-    "end_date": "2020-05-29",
-    "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "New York University",
-    "longitude": -73.999364,
-    "slug": "2020-05-28-nyu",
-    "tag_name": "SWC",
-    "helpers": "Vicky Steeves,Casey Hampsey",
-    "host_name": "New York University",
-    "latitude": 40.7294556,
-    "start_date": "2020-05-28"
-  },
-  {
-    "instructors": "Alexander Konovalov,Aleksandra Nenadic",
-    "end_date": "2020-05-29",
-    "url": "https://edcarp.github.io/2020-05-28-ttt-edinburgh/",
+    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
+    "end_date": "2020-06-06",
+    "url": "https://ukaea-rse-training.github.io/2020-05-29-ukaea-swcarpentry",
     "country": "GB",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-05-28-ttt-edinburgh",
-    "tag_name": "TTT,online",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": -1.23,
+    "slug": "2020-05-29-ukaea-swcarpentry",
+    "tag_name": "SWC",
     "helpers": null,
-    "host_name": "SSI Software Sustainability Institute",
-    "latitude": null,
-    "start_date": "2020-05-28"
-  },
-  {
-    "instructors": "Christina Koch,Kari Jordan",
-    "end_date": "2020-05-29",
-    "url": "https://kariljordan.github.io/2020-05-28-ttt-online-EDT/  @Talisha Sutton-Kennedy",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-05-28-ttt-online-EDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-05-28"
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": 51.657,
+    "start_date": "2020-05-29"
   },
   {
     "instructors": "Stéphane Guillou,Mark Crowe",
@@ -195,7 +150,7 @@
     "start_date": "2020-06-04"
   },
   {
-    "instructors": null,
+    "instructors": "Mario Antonioletti,Peter Smyth,Chris Wood",
     "end_date": "2020-06-05",
     "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
     "country": "GB",
@@ -204,7 +159,7 @@
     "longitude": -3.187347,
     "slug": "2020-06-04-sfc-online",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Lucia Michielin,Luis Reyes,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-04"
@@ -255,7 +210,7 @@
     "start_date": "2020-06-08"
   },
   {
-    "instructors": null,
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
     "end_date": "2020-06-11",
     "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
     "country": "GB",
@@ -264,7 +219,7 @@
     "longitude": -3.766409,
     "slug": "2020-06-09-supercomputingwales_python",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Jose Criollo",
     "host_name": "University of Aberystwyth",
     "latitude": 52.33022,
     "start_date": "2020-06-09"
@@ -285,7 +240,7 @@
     "start_date": "2020-06-15"
   },
   {
-    "instructors": null,
+    "instructors": "Lucia Michielin",
     "end_date": "2020-06-17",
     "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
     "country": "GB",
@@ -300,7 +255,7 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": null,
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
     "end_date": "2020-06-18",
     "url": "https://supercomputingwales.github.io/2020-06-16-supercomputingwales_git",
     "country": "GB",
@@ -309,7 +264,7 @@
     "longitude": -3.766409,
     "slug": "2020-06-16-supercomputingwales_git",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Jose Criollo",
     "host_name": "University of Aberystwyth",
     "latitude": 52.33022,
     "start_date": "2020-06-16"
