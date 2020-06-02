@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Stéphane Guillou,Mark Crowe",
+    "end_date": "2020-06-02",
+    "url": "https://qcif-training.github.io/2020-06-01-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-06-01-QCIF-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-06-01"
+  },
+  {
     "instructors": "Andrew Battista,Billy Broderick",
     "end_date": "2020-05-29",
     "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
@@ -413,7 +428,7 @@
     "venue": "Genentech",
     "longitude": -122.377961,
     "slug": "2020-04-28-genentech",
-    "tag_name": "automated-email,SWC",
+    "tag_name": "automated-email,SWC,online",
     "helpers": "Altaf Kassam",
     "host_name": "Genentech",
     "latitude": 37.656769,

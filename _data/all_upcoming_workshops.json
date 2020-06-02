@@ -60,21 +60,6 @@
     "start_date": "2020-05-29"
   },
   {
-    "instructors": "Stéphane Guillou,Mark Crowe",
-    "end_date": "2020-06-02",
-    "url": "https://qcif-training.github.io/2020-06-01-QCIF-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-06-01-QCIF-R",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-06-01"
-  },
-  {
     "instructors": "Martin Dreyer,Angelique van Rensburg,Sourav Singh,Shaily Gandhi,Oluwafisayo Kaka,Moses Okpeku",
     "end_date": "2020-06-05",
     "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
@@ -293,7 +278,7 @@
     "venue": "UC Merced",
     "longitude": 120.425643,
     "slug": "2020-06-17-ucmerced",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,online",
     "helpers": "Jasper Field,Erin Mutch,Derek Sollberger",
     "host_name": "University of California Merced",
     "latitude": 37.363216,
