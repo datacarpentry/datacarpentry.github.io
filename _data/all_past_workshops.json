@@ -17199,7 +17199,7 @@
     "longitude": -77.20137,
     "slug": "2018-05-31-nist",
     "tag_name": "SWC,unresponsive",
-    "helpers": "Jonathan Guyer,Dilip Banerjee,Marcus Mendenhall,Gretchen Greene,Zachary Trautt,Randal McDermott,Andrew Reid,Jared Ragland,Zak Mohamoud",
+    "helpers": "Jonathan Guyer,Dilip Banerjee,Marcus Mendenhall,Gretchen Greene,Zachary Trautt,Randall McDermott,Andrew Reid,Jared Ragland,Zak Mohamoud",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.143441,
     "start_date": "2018-05-31"
@@ -18804,7 +18804,7 @@
     "longitude": -76.928745,
     "slug": "2018-03-13-census",
     "tag_name": "SWC",
-    "helpers": "Daniel Wheeler,Philip Leclerc,Randal McDermott",
+    "helpers": "Daniel Wheeler,Philip Leclerc,Randall McDermott",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 38.84591,
     "start_date": "2018-03-13"
@@ -21084,7 +21084,7 @@
     "longitude": -77.20137,
     "slug": "2017-11-02-nist",
     "tag_name": "SWC",
-    "helpers": "Dilip Banerjee,Chandler Becker,Randal McDermott",
+    "helpers": "Dilip Banerjee,Chandler Becker,Randall McDermott",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.143441,
     "start_date": "2017-11-02"
