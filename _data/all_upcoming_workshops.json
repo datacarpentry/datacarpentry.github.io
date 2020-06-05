@@ -15,21 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
-    "end_date": "2020-06-04",
-    "url": "https://subugoe.github.io/2020-05-19-lc/",
-    "country": "DE",
-    "curriculum": "lc",
-    "venue": "SUB Göttingen",
-    "longitude": 9.935895,
-    "slug": "2020-05-19-lc",
-    "tag_name": "LC,online",
-    "helpers": "Birgit Schmidt,Astrid Orth",
-    "host_name": "University of Göttingen",
-    "latitude": 51.539741,
-    "start_date": "2020-05-19"
-  },
-  {
     "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",
     "end_date": "2020-06-10",
     "url": "https://oulib-swc.github.io/2020-05-20-ou-swc-online/",
@@ -58,21 +43,6 @@
     "host_name": "UK Atomic Energy Authority",
     "latitude": 51.657,
     "start_date": "2020-05-29"
-  },
-  {
-    "instructors": "Martin Dreyer,Angelique van Rensburg,Sourav Singh,Shaily Gandhi,Oluwafisayo Kaka,Moses Okpeku",
-    "end_date": "2020-06-05",
-    "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR (online)",
-    "longitude": -123.393333,
-    "slug": "2020-06-01-SA-ONLINE",
-    "tag_name": "automated-email,DC,online",
-    "helpers": null,
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": -48.876667,
-    "start_date": "2020-06-01"
   },
   {
     "instructors": "Humberto Ortiz-Zuazaga,Wilson Lozano,Patricia Ordóñez,Sofia Melendez-Cartagena",
@@ -117,36 +87,6 @@
     "helpers": "Ryan Avery",
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 0,
-    "start_date": "2020-06-04"
-  },
-  {
-    "instructors": "Karl Benedict,Jon Wheeler,Nitin Bhandari",
-    "end_date": "2020-06-05",
-    "url": "https://nmcarpentries.github.io/2020-06-04-epscor-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "New Mexico EPSCoR (online)",
-    "longitude": -1,
-    "slug": "2020-06-04-epscor-online",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Mark Servilla,Rita Kuo",
-    "host_name": "University of New Mexico",
-    "latitude": 45,
-    "start_date": "2020-06-04"
-  },
-  {
-    "instructors": "Mario Antonioletti,Peter Smyth,Chris Wood",
-    "end_date": "2020-06-05",
-    "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-06-04-sfc-online",
-    "tag_name": "DC,online",
-    "helpers": "Lucia Michielin,Luis Reyes,Robert Nagy",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
     "start_date": "2020-06-04"
   },
   {
@@ -210,6 +150,51 @@
     "start_date": "2020-06-09"
   },
   {
+    "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
+    "end_date": "2020-06-18",
+    "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-10-uwmadison-swc",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-10"
+  },
+  {
+    "instructors": "Michelle Rodio",
+    "end_date": "2020-06-12",
+    "url": "https://mr0dio.github.io/NASALangleySummer2020/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "NASA",
+    "longitude": -76.38001,
+    "slug": "2020-06-11-NASALangleySummer2020",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 37.08258,
+    "start_date": "2020-06-11"
+  },
+  {
+    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
+    "end_date": "2020-06-19",
+    "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-11-uwmadison-dc",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-11"
+  },
+  {
     "instructors": "Sarah Brown,Sher! Hurt",
     "end_date": "2020-06-16",
     "url": "https://brownsarahm.github.io/2020-06-15-ttt-online-CDT/",
@@ -223,6 +208,21 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-06-15"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-19",
+    "url": "https://smithsonian.github.io/2020-06-16-SERC/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Smithsonian Institution",
+    "longitude": 0,
+    "slug": "2020-06-16-SERC",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 0,
+    "start_date": "2020-06-16"
   },
   {
     "instructors": "Lucia Michielin",
@@ -255,7 +255,7 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": null,
+    "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Clare Michaud",
     "end_date": "2020-06-25",
     "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
     "country": "US",
@@ -264,7 +264,7 @@
     "longitude": -89.385239,
     "slug": "2020-06-16-uwmadison-dc",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Erin Jonaitis",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-16"
@@ -345,6 +345,36 @@
     "start_date": "2020-06-22"
   },
   {
+    "instructors": null,
+    "end_date": "2020-06-26",
+    "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
+    "country": "GB",
+    "curriculum": "dc-genomics",
+    "venue": "Edinburgh Carpentries and National Horizons Centre",
+    "longitude": -3.187158,
+    "slug": "2020-06-25-edinburgh-dc-genomics",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945541,
+    "start_date": "2020-06-25"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-06-26",
+    "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-07-02-CQU-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.326427,
+    "start_date": "2020-06-25"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
@@ -357,6 +387,36 @@
     "helpers": null,
     "host_name": "RMIT University",
     "latitude": -37.809218,
+    "start_date": "2020-06-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-07-03",
+    "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-06-29-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-06-29"
+  },
+  {
+    "instructors": "Mateusz Kuzak,Fotis Psomopoulos",
+    "end_date": "2020-07-02",
+    "url": "https://mkuzak.github.io/2020-06-29-ttt-online-CET/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-06-29-ttt-online-CET",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
     "start_date": "2020-06-29"
   },
   {
