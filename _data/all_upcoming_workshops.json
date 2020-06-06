@@ -30,21 +30,6 @@
     "start_date": "2020-05-20"
   },
   {
-    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
-    "end_date": "2020-06-06",
-    "url": "https://ukaea-rse-training.github.io/2020-05-29-ukaea-swcarpentry",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "UK Atomic Energy Authority",
-    "longitude": -1.23,
-    "slug": "2020-05-29-ukaea-swcarpentry",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "UK Atomic Energy Authority",
-    "latitude": 51.657,
-    "start_date": "2020-05-29"
-  },
-  {
     "instructors": "Humberto Ortiz-Zuazaga,Wilson Lozano,Patricia Ordóñez,Sofia Melendez-Cartagena",
     "end_date": "2020-06-09",
     "url": "https://idi-bd2k.github.io/2020-06-01-puerto-rico/",
@@ -150,6 +135,21 @@
     "start_date": "2020-06-09"
   },
   {
+    "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
+    "end_date": "2020-06-17",
+    "url": "https://svigneau.github.io/2020-06-09-uofdelaware-online/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Delaware (online)",
+    "longitude": -75.75061,
+    "slug": "2020-06-09-uofdelaware-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": 39.677952,
+    "start_date": "2020-06-09"
+  },
+  {
     "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
     "end_date": "2020-06-18",
     "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
@@ -193,6 +193,21 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-11"
+  },
+  {
+    "instructors": "Kim Keogh",
+    "end_date": "2020-06-18",
+    "url": "https://gu-eresearch.github.io/2020-06-15-GriffithUni-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2020-06-15-GriffithUni-R",
+    "tag_name": "SWC,online",
+    "helpers": "McKenna Buckley",
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2020-06-15"
   },
   {
     "instructors": "Sarah Brown,Sher! Hurt",
@@ -345,7 +360,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": null,
+    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
     "end_date": "2020-06-26",
     "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
     "country": "GB",
@@ -435,7 +450,7 @@
     "start_date": "2020-06-30"
   },
   {
-    "instructors": null,
+    "instructors": "Aleksandra Nenadic,Martino Sorbaro Sindaci",
     "end_date": "2020-07-02",
     "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
     "country": "GB",
@@ -444,7 +459,7 @@
     "longitude": -3.187347,
     "slug": "2020-07-01-sfc-online",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Lucia Michielin,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-07-01"
