@@ -30,21 +30,6 @@
     "start_date": "2020-05-20"
   },
   {
-    "instructors": "Humberto Ortiz-Zuazaga,Wilson Lozano,Patricia Ordóñez,Sofia Melendez-Cartagena",
-    "end_date": "2020-06-09",
-    "url": "https://idi-bd2k.github.io/2020-06-01-puerto-rico/",
-    "country": "PR",
-    "curriculum": "swc-r",
-    "venue": "University of Puerto Rico (online)",
-    "longitude": -66.0463582,
-    "slug": "2020-06-01-puerto-rico",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Sebastian Cruz",
-    "host_name": "University of Puerto Rico",
-    "latitude": 18.4044218,
-    "start_date": "2020-06-01"
-  },
-  {
     "instructors": "Greg Janée,Jon Jablonski",
     "end_date": "2020-06-17",
     "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
@@ -87,36 +72,6 @@
     "helpers": null,
     "host_name": "Boise State University",
     "latitude": 0,
-    "start_date": "2020-06-08"
-  },
-  {
-    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
-    "end_date": "2020-06-09",
-    "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
-    "country": "NL",
-    "curriculum": "mix-and-match",
-    "venue": "Universitaire bibliotheken Leiden",
-    "longitude": 4.48145,
-    "slug": "2020-06-08-leiden",
-    "tag_name": "SWC,LC,Circuits",
-    "helpers": "Henriette Reerink",
-    "host_name": "Vrije Universiteit",
-    "latitude": 52.15731,
-    "start_date": "2020-06-08"
-  },
-  {
-    "instructors": "Sarah Stevens,Angela Li",
-    "end_date": "2020-06-09",
-    "url": "https://uc-carpentries.github.io/2020-06-08-ttt-uchicago/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-06-08-ttt-online-uchicago",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
     "start_date": "2020-06-08"
   },
   {
