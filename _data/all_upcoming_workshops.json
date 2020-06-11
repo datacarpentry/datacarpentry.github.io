@@ -15,21 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",
-    "end_date": "2020-06-10",
-    "url": "https://oulib-swc.github.io/2020-05-20-ou-swc-online/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Oklahoma Libraries  (online)",
-    "longitude": -97.445845,
-    "slug": "2020-05-20-ou-swc-online",
-    "tag_name": "SWC,online",
-    "helpers": "Mark Laufersweiler,Tyler Pearson,Claire Curry,Horst Severini,Jim Ferguson,Amanda Schilling,Toni Hoberecht,Krista Kezbers (Olson),Theo Acker,mahbobeh lesani",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.207982,
-    "start_date": "2020-05-20"
-  },
-  {
     "instructors": "Greg Janée,Jon Jablonski",
     "end_date": "2020-06-17",
     "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
@@ -58,36 +43,6 @@
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 0,
     "start_date": "2020-06-04"
-  },
-  {
-    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
-    "end_date": "2020-06-11",
-    "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Idaho National Laboratory (online)",
-    "longitude": 0,
-    "slug": "2020-06-08-inl-bootcamp",
-    "tag_name": "SWC,online,Circuits",
-    "helpers": null,
-    "host_name": "Boise State University",
-    "latitude": 0,
-    "start_date": "2020-06-08"
-  },
-  {
-    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
-    "end_date": "2020-06-11",
-    "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
-    "country": "GB",
-    "curriculum": "mix-and-match",
-    "venue": "Supercomputing Wales (online)",
-    "longitude": -3.766409,
-    "slug": "2020-06-09-supercomputingwales_python",
-    "tag_name": "online,Circuits",
-    "helpers": "Jose Criollo",
-    "host_name": "University of Aberystwyth",
-    "latitude": 52.33022,
-    "start_date": "2020-06-09"
   },
   {
     "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
@@ -315,6 +270,36 @@
     "start_date": "2020-06-22"
   },
   {
+    "instructors": "Preethy Sasidharan Nair,Amanda Stahlke",
+    "end_date": "2020-06-26",
+    "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "CSU Monterey Bay Online",
+    "longitude": -1,
+    "slug": "2020-06-23-csumb-online",
+    "tag_name": "DC,automated-email,online",
+    "helpers": null,
+    "host_name": "California State University Monterey Bay",
+    "latitude": 45,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-06-26",
+    "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-06-25-CQU-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.326427,
+    "start_date": "2020-06-25"
+  },
+  {
     "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
     "end_date": "2020-06-26",
     "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
@@ -330,19 +315,19 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Jason Bell",
-    "end_date": "2020-06-26",
-    "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "CQ University",
-    "longitude": 150.518952,
-    "slug": "2020-07-02-CQU-R",
-    "tag_name": "SWC,online",
+    "instructors": "Ana Rivera",
+    "end_date": "2020-06-30",
+    "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "SSDA - Michigan State University",
+    "longitude": 0,
+    "slug": "2020-06-29-MSU-SSDA-online",
+    "tag_name": "online,Circuits",
     "helpers": null,
-    "host_name": "CQUniversity",
-    "latitude": -23.326427,
-    "start_date": "2020-06-25"
+    "host_name": "Michigan State University",
+    "latitude": 0,
+    "start_date": "2020-06-29"
   },
   {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
@@ -360,7 +345,7 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": null,
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Rohit Goswami,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-03",
     "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
     "country": "ZA",
