@@ -75,21 +75,6 @@
     "start_date": "2020-06-10"
   },
   {
-    "instructors": "Michelle Rodio",
-    "end_date": "2020-06-12",
-    "url": "https://mr0dio.github.io/NASALangleySummer2020/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "NASA",
-    "longitude": -76.38001,
-    "slug": "2020-06-11-NASALangleySummer2020",
-    "tag_name": "online,Circuits",
-    "helpers": null,
-    "host_name": "NASA (National Aeronautics and Space Administration)",
-    "latitude": 37.08258,
-    "start_date": "2020-06-11"
-  },
-  {
     "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
     "end_date": "2020-06-19",
     "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
@@ -354,7 +339,7 @@
     "longitude": 0,
     "slug": "2020-06-29-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
     "start_date": "2020-06-29"
