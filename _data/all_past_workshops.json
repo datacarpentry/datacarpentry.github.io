@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sarah Brown,Sher! Hurt",
+    "end_date": "2020-06-16",
+    "url": "https://brownsarahm.github.io/2020-06-15-ttt-online-CDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-06-15-ttt-online-CDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-06-15"
+  },
+  {
     "instructors": "Michelle Rodio",
     "end_date": "2020-06-12",
     "url": "https://mr0dio.github.io/NASALangleySummer2020/",
@@ -39,13 +54,13 @@
     "longitude": 0,
     "slug": "2020-06-08-inl-bootcamp",
     "tag_name": "SWC,online,Circuits",
-    "helpers": null,
+    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg",
     "host_name": "Boise State University",
     "latitude": 0,
     "start_date": "2020-06-08"
   },
   {
-    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
     "country": "NL",
@@ -54,7 +69,7 @@
     "longitude": 4.48145,
     "slug": "2020-06-08-leiden",
     "tag_name": "SWC,LC,Circuits",
-    "helpers": "Henriette Reerink",
+    "helpers": null,
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"
@@ -73,6 +88,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-06-08"
+  },
+  {
+    "instructors": "Katie Dejwakh,Sean McCartney,Brendan McAndrew,Dan Carver,Callum Wayman,Kenton Ross,Amber Jean McCullum,John Dilger",
+    "end_date": "2020-06-16",
+    "url": "https://kdottiemo.github.io/2020-06-04-DEVELOP/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "NASA DEVELOP Software Carpentry Workshop - Summer 2020 (online)",
+    "longitude": 0,
+    "slug": "2020-06-04-DEVELOP",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Ryan Avery",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 0,
+    "start_date": "2020-06-04"
   },
   {
     "instructors": "Karl Benedict,Jon Wheeler,Nitin Bhandari",
@@ -2685,7 +2715,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": "Ruairidh Macleod,David McKain,Antonia Mey",
+    "instructors": "Ruairidh MacLeod,David McKain,Antonia Mey",
     "end_date": "2020-02-18",
     "url": "https://edcarp.github.io/2020-01-21-edinburgh-swc/",
     "country": "GB",
@@ -6240,7 +6270,7 @@
     "start_date": "2019-09-05"
   },
   {
-    "instructors": "Ruairidh Macleod,David McKain,Antonia May,Chris Wood",
+    "instructors": "Ruairidh MacLeod,David McKain,Antonia May,Chris Wood",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
     "country": "GB",
@@ -7665,7 +7695,7 @@
     "start_date": "2019-06-26"
   },
   {
-    "instructors": "Evgenij Belikov,Chris Wood,Ruairidh Macleod,Jane Kennedy",
+    "instructors": "Evgenij Belikov,Chris Wood,Ruairidh MacLeod,Jane Kennedy",
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
     "country": "GB",
@@ -10140,7 +10170,7 @@
     "start_date": "2019-03-28"
   },
   {
-    "instructors": "Mario Antonioletti,Ruairidh Macleod,Martino Sorbaro Sindaci",
+    "instructors": "Mario Antonioletti,Ruairidh MacLeod,Martino Sorbaro Sindaci",
     "end_date": "2019-03-29",
     "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
     "country": "GB",
@@ -14619,7 +14649,7 @@
     "longitude": -3.173591,
     "slug": "2018-09-11-edinburgh",
     "tag_name": "SWC",
-    "helpers": "Evgenij Belikov,Oliver Brown,Fiona Reid,Steve Carlysle-Davies,Ruairidh Macleod,Philip Cass,John Ireland,David McKain,Sean McGeever,Fiona Bisset",
+    "helpers": "Evgenij Belikov,Oliver Brown,Fiona Reid,Steve Carlysle-Davies,Ruairidh MacLeod,Philip Cass,John Ireland,David McKain,Sean McGeever,Fiona Bisset",
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2018-09-11"

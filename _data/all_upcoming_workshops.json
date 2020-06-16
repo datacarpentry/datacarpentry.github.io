@@ -30,21 +30,6 @@
     "start_date": "2020-06-03"
   },
   {
-    "instructors": "Katie Dejwakh,Sean McCartney,Brendan McAndrew,Dan Carver,Callum Wayman,Kenton Ross,Amber Jean McCullum,John Dilger",
-    "end_date": "2020-06-16",
-    "url": "https://kdottiemo.github.io/2020-06-04-DEVELOP/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "NASA DEVELOP Software Carpentry Workshop - Summer 2020 (online)",
-    "longitude": 0,
-    "slug": "2020-06-04-DEVELOP",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Ryan Avery",
-    "host_name": "NASA (National Aeronautics and Space Administration)",
-    "latitude": 0,
-    "start_date": "2020-06-04"
-  },
-  {
     "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
     "end_date": "2020-06-17",
     "url": "https://svigneau.github.io/2020-06-09-uofdelaware-online/",
@@ -105,18 +90,18 @@
     "start_date": "2020-06-15"
   },
   {
-    "instructors": "Sarah Brown,Sher! Hurt",
-    "end_date": "2020-06-16",
-    "url": "https://brownsarahm.github.io/2020-06-15-ttt-online-CDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-06-15-ttt-online-CDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
+    "instructors": "Harriet Alexander,Stewart Jamieson",
+    "end_date": "2020-06-26",
+    "url": "https://alexanderlabwhoi.github.io/2020-06-16-whoipython/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.7,
+    "slug": "2020-06-16-whoipython",
+    "tag_name": "SWC,online",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.5,
     "start_date": "2020-06-15"
   },
   {
@@ -240,6 +225,21 @@
     "start_date": "2020-06-18"
   },
   {
+    "instructors": "Brett Longworth,Craig McLean",
+    "end_date": "2020-07-03",
+    "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.660599,
+    "slug": "2020-06-22-WHOI-R",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.523998,
+    "start_date": "2020-06-22"
+  },
+  {
     "instructors": "Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
@@ -300,6 +300,21 @@
     "start_date": "2020-06-25"
   },
   {
+    "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Felipe Sanchez",
+    "end_date": "2020-07-07",
+    "url": "https://uf-carpentry.github.io/2020-06-29-IFAS_REC_ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Florida IFAS REC",
+    "longitude": -82.3549302,
+    "slug": "2020-06-29-IFAS_REC_ecology",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Matthew Collins,James Colee,Jennica Poongavanan,Sharmin Siddiqui",
+    "host_name": "University of Florida",
+    "latitude": 29.6436325,
+    "start_date": "2020-06-29"
+  },
+  {
     "instructors": "Ana Rivera",
     "end_date": "2020-06-30",
     "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
@@ -342,21 +357,6 @@
     "helpers": "Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
-    "start_date": "2020-06-29"
-  },
-  {
-    "instructors": "Mateusz Kuzak,Fotis Psomopoulos",
-    "end_date": "2020-07-02",
-    "url": "https://mkuzak.github.io/2020-06-29-ttt-online-CET/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-06-29-ttt-online-CET",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
     "start_date": "2020-06-29"
   },
   {
@@ -448,6 +448,21 @@
     "host_name": "New York University",
     "latitude": 40.7294556,
     "start_date": "2020-07-09"
+  },
+  {
+    "instructors": "Eric Jankowski,Elizabeth Williams",
+    "end_date": "2020-07-14",
+    "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-07-13-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-07-13"
   },
   {
     "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
