@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Lucia Michielin",
+    "end_date": "2020-06-17",
+    "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-16-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-16"
+  },
+  {
     "instructors": "Sarah Brown,Sher! Hurt",
     "end_date": "2020-06-16",
     "url": "https://brownsarahm.github.io/2020-06-15-ttt-online-CDT/",
@@ -42,6 +57,21 @@
     "helpers": "Jose Criollo",
     "host_name": "University of Aberystwyth",
     "latitude": 52.33022,
+    "start_date": "2020-06-09"
+  },
+  {
+    "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
+    "end_date": "2020-06-17",
+    "url": "https://svigneau.github.io/2020-06-09-uofdelaware-online/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Delaware (online)",
+    "longitude": -75.75061,
+    "slug": "2020-06-09-uofdelaware-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": 39.677952,
     "start_date": "2020-06-09"
   },
   {
@@ -133,6 +163,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-04"
+  },
+  {
+    "instructors": "Greg Janée,Jon Jablonski",
+    "end_date": "2020-06-17",
+    "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (Online)",
+    "longitude": -119.845525,
+    "slug": "2020-06-03-UCSB-LibCarp",
+    "tag_name": "LC,online,Circuits",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.414398,
+    "start_date": "2020-06-03"
   },
   {
     "instructors": "Stéphane Guillou,Kasia Koziara,Adam Sparks,Kevin Bairos-Novak,Paul Melloy",
@@ -8739,7 +8784,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-22-genentech",
     "tag_name": "SWC",
-    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Sasidharan Nair",
+    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Nair",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-22"

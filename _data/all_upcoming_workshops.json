@@ -15,36 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Greg Janée,Jon Jablonski",
-    "end_date": "2020-06-17",
-    "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of California, Santa Barbara (Online)",
-    "longitude": -119.845525,
-    "slug": "2020-06-03-UCSB-LibCarp",
-    "tag_name": "LC,online,Circuits",
-    "helpers": null,
-    "host_name": "University of California Santa Barbara",
-    "latitude": 34.414398,
-    "start_date": "2020-06-03"
-  },
-  {
-    "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
-    "end_date": "2020-06-17",
-    "url": "https://svigneau.github.io/2020-06-09-uofdelaware-online/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Delaware (online)",
-    "longitude": -75.75061,
-    "slug": "2020-06-09-uofdelaware-online",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "University of Delaware",
-    "latitude": 39.677952,
-    "start_date": "2020-06-09"
-  },
-  {
     "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
     "end_date": "2020-06-18",
     "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
@@ -117,21 +87,6 @@
     "helpers": null,
     "host_name": "Smithsonian Institution",
     "latitude": 0,
-    "start_date": "2020-06-16"
-  },
-  {
-    "instructors": "Lucia Michielin",
-    "end_date": "2020-06-17",
-    "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
-    "country": "GB",
-    "curriculum": "dc-ecology-r",
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-06-16-sfc-online",
-    "tag_name": "DC,online",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
     "start_date": "2020-06-16"
   },
   {
@@ -255,7 +210,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Preethy Sasidharan Nair,Amanda Stahlke",
+    "instructors": "Preethy Nair,Amanda Stahlke",
     "end_date": "2020-06-26",
     "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
     "country": "US",
