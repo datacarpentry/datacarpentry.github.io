@@ -15,21 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
-    "end_date": "2020-06-18",
-    "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "UW-Madison",
-    "longitude": -89.385239,
-    "slug": "2020-06-10-uwmadison-swc",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.073929,
-    "start_date": "2020-06-10"
-  },
-  {
     "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
     "end_date": "2020-06-19",
     "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
@@ -43,21 +28,6 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-11"
-  },
-  {
-    "instructors": "Kim Keogh",
-    "end_date": "2020-06-18",
-    "url": "https://gu-eresearch.github.io/2020-06-15-GriffithUni-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Griffith University",
-    "longitude": 153.378868,
-    "slug": "2020-06-15-GriffithUni-R",
-    "tag_name": "SWC,online",
-    "helpers": "McKenna Buckley",
-    "host_name": "Griffith University",
-    "latitude": -27.960345,
-    "start_date": "2020-06-15"
   },
   {
     "instructors": "Harriet Alexander,Stewart Jamieson",
@@ -90,21 +60,6 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
-    "end_date": "2020-06-18",
-    "url": "https://supercomputingwales.github.io/2020-06-16-supercomputingwales_git",
-    "country": "GB",
-    "curriculum": "mix-and-match",
-    "venue": "Supercomputing Wales (online)",
-    "longitude": -3.766409,
-    "slug": "2020-06-16-supercomputingwales_git",
-    "tag_name": "online,Circuits",
-    "helpers": "Jose Criollo",
-    "host_name": "University of Aberystwyth",
-    "latitude": 52.33022,
-    "start_date": "2020-06-16"
-  },
-  {
     "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Clare Michaud",
     "end_date": "2020-06-25",
     "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
@@ -120,33 +75,18 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": "Jeffrey Oliver,Karen Word",
-    "end_date": "2020-06-18",
-    "url": "https://karenword.github.io/2020-06-17-ttt-online/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-06-17-ttt-online-PDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-06-17"
-  },
-  {
     "instructors": "Elizabeth Salmon,Sarvani Chadalapaka,Derek Devnich",
     "end_date": "2020-06-19",
     "url": "https://ucmerced.github.io/2020-06-17-ucmerced/",
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "UC Merced",
-    "longitude": 120.425643,
+    "longitude": null,
     "slug": "2020-06-17-ucmerced",
     "tag_name": "Circuits,online",
     "helpers": "Jasper Field,Erin Mutch,Derek Sollberger",
     "host_name": "University of California Merced",
-    "latitude": 37.363216,
+    "latitude": null,
     "start_date": "2020-06-17"
   },
   {
@@ -210,8 +150,23 @@
     "start_date": "2020-06-22"
   },
   {
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "end_date": "2020-07-03",
+    "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Scripps Institution of Oceanography (online)",
+    "longitude": -117.257288,
+    "slug": "2020-06-23-SIO-online",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.867068,
+    "start_date": "2020-06-23"
+  },
+  {
     "instructors": "Preethy Nair,Amanda Stahlke",
-    "end_date": "2020-06-26",
+    "end_date": "2020-06-24",
     "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
     "country": "US",
     "curriculum": "dc-genomics",
@@ -390,21 +345,6 @@
     "start_date": "2020-07-08"
   },
   {
-    "instructors": "Alexandra Provo",
-    "end_date": "2020-07-10",
-    "url": "https://nyu-dataservices.github.io/2020-07-09-nyu/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "New York University Bobst Library",
-    "longitude": -73.999364,
-    "slug": "2020-07-09-nyu",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "New York University",
-    "latitude": 40.7294556,
-    "start_date": "2020-07-09"
-  },
-  {
     "instructors": "Eric Jankowski,Elizabeth Williams",
     "end_date": "2020-07-14",
     "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
@@ -420,6 +360,21 @@
     "start_date": "2020-07-13"
   },
   {
+    "instructors": "Maria Kamenetsky,Anne Fouilloux,Sarah Graves,Clare Michaud,Cid Freitag,Stephen Appel",
+    "end_date": "2020-07-17",
+    "url": "https://uw-madison-datascience.github.io/2020-07-13-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UW-Madison (online)",
+    "longitude": -89.5465041,
+    "slug": "2020-07-13-uwmadison-dc",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Sarah Stevens",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0849081,
+    "start_date": "2020-07-13"
+  },
+  {
     "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
     "end_date": "2020-07-28",
     "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
@@ -432,6 +387,21 @@
     "helpers": "Francis Gacenga",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Saber Soleymani",
+    "end_date": "2020-07-28",
+    "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "American Society of Naturalists Graduate Council (online)",
+    "longitude": 0,
+    "slug": "2020-07-27-ecr2-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Arkansas",
+    "latitude": 0,
     "start_date": "2020-07-27"
   },
   {
