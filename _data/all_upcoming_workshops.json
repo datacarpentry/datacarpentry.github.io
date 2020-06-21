@@ -15,21 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
-    "end_date": "2020-06-19",
-    "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "UW-Madison",
-    "longitude": -89.385239,
-    "slug": "2020-06-11-uwmadison-dc",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.073929,
-    "start_date": "2020-06-11"
-  },
-  {
     "instructors": "Harriet Alexander,Stewart Jamieson",
     "end_date": "2020-06-26",
     "url": "https://alexanderlabwhoi.github.io/2020-06-16-whoipython/",
@@ -45,21 +30,6 @@
     "start_date": "2020-06-15"
   },
   {
-    "instructors": null,
-    "end_date": "2020-06-19",
-    "url": "https://smithsonian.github.io/2020-06-16-SERC/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Smithsonian Institution",
-    "longitude": 0,
-    "slug": "2020-06-16-SERC",
-    "tag_name": "automated-email,DC,online",
-    "helpers": null,
-    "host_name": "Smithsonian Institution",
-    "latitude": 0,
-    "start_date": "2020-06-16"
-  },
-  {
     "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Clare Michaud",
     "end_date": "2020-06-25",
     "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
@@ -73,51 +43,6 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-16"
-  },
-  {
-    "instructors": "Elizabeth Salmon,Sarvani Chadalapaka,Derek Devnich",
-    "end_date": "2020-06-19",
-    "url": "https://ucmerced.github.io/2020-06-17-ucmerced/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "UC Merced",
-    "longitude": null,
-    "slug": "2020-06-17-ucmerced",
-    "tag_name": "Circuits,online",
-    "helpers": "Jasper Field,Erin Mutch,Derek Sollberger",
-    "host_name": "University of California Merced",
-    "latitude": null,
-    "start_date": "2020-06-17"
-  },
-  {
-    "instructors": "Ariel Deardorff,Scott Peterson,Charlie Macquarie",
-    "end_date": "2020-06-19",
-    "url": "https://arieldeardorff.github.io/2020-06-18-BayArea-Online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Bay Area Library",
-    "longitude": 0,
-    "slug": "2020-06-18-BayArea-Online",
-    "tag_name": "Circuits,online",
-    "helpers": "Lisa Ngo,Eric Lopatin",
-    "host_name": "University of California San Francisco",
-    "latitude": 0,
-    "start_date": "2020-06-18"
-  },
-  {
-    "instructors": "Maneesha Sane,Sarah Pugachev",
-    "end_date": "2020-06-19",
-    "url": "https://www.sarah-pugachev.com/2020-06-18-ttt-NYDCLC/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-06-18-ttt-NYDCLC",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-06-18"
   },
   {
     "instructors": "Brett Longworth,Craig McLean",
@@ -204,7 +129,7 @@
     "longitude": -3.187158,
     "slug": "2020-06-25-edinburgh-dc-genomics",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,David Perez-Suarez,Asif Tamuri,Stef Piatek,Graeme Grimes,Lora Boteva,Alessandro Felder,Bailey Harrington",
     "host_name": "University of Edinburgh",
     "latitude": 55.945541,
     "start_date": "2020-06-25"
@@ -240,22 +165,7 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
-    "end_date": "2020-06-30",
-    "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
-    "country": "AU",
-    "curriculum": "dc-genomics",
-    "venue": "RMIT Melbourne",
-    "longitude": 144.964066,
-    "slug": "2020-06-29-RMIT-Melbourne",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "RMIT University",
-    "latitude": -37.809218,
-    "start_date": "2020-06-29"
-  },
-  {
-    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Rohit Goswami,Elnaz Amanzadeh Jajin",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Mmasibidi Setaka,Rohit Goswami,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-03",
     "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
     "country": "ZA",
