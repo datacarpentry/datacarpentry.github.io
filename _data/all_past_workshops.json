@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "end_date": "2020-06-23",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2020-06-22-virtual",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2020-06-22"
+  },
+  {
     "instructors": "Ariel Deardorff,Scott Peterson,Charlie Macquarie",
     "end_date": "2020-06-19",
     "url": "https://arieldeardorff.github.io/2020-06-18-BayArea-Online/",
@@ -45,18 +60,18 @@
     "start_date": "2020-06-17"
   },
   {
-    "instructors": "Elizabeth Salmon,Sarvani Chadalapaka,Derek Devnich",
+    "instructors": "Rhondene Wint,Sarvani Chadalapaka,Akshay Paropkari,Derek Devnich",
     "end_date": "2020-06-19",
     "url": "https://ucmerced.github.io/2020-06-17-ucmerced/",
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "UC Merced",
-    "longitude": null,
+    "longitude": -120.4224179,
     "slug": "2020-06-17-ucmerced",
     "tag_name": "Circuits,online",
-    "helpers": "Jasper Field,Erin Mutch,Derek Sollberger",
+    "helpers": "Matthias Bussonnier,Elizabeth Salmon,Erin Mutch,Derek Sollberger",
     "host_name": "University of California Merced",
-    "latitude": null,
+    "latitude": 37.3660652,
     "start_date": "2020-06-17"
   },
   {
@@ -204,7 +219,7 @@
     "longitude": -75.75061,
     "slug": "2020-06-09-uofdelaware-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Adam Faranda,Anders Kiledal,Heidi Van Every,Preethy Nair",
     "host_name": "University of Delaware",
     "latitude": 39.677952,
     "start_date": "2020-06-09"
@@ -300,7 +315,7 @@
     "start_date": "2020-06-04"
   },
   {
-    "instructors": "Greg Janée,Jon Jablonski",
+    "instructors": "Greg Janée,Jon Jablonski,Kristi Liu,Torin White,Sanjeev Kolli,Renata Curty",
     "end_date": "2020-06-17",
     "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
     "country": "US",
@@ -309,7 +324,7 @@
     "longitude": -119.845525,
     "slug": "2020-06-03-UCSB-LibCarp",
     "tag_name": "LC,online,Circuits",
-    "helpers": null,
+    "helpers": "Kristi Liu,Torin White",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414398,
     "start_date": "2020-06-03"
@@ -5544,7 +5559,7 @@
     "longitude": -117.155013,
     "slug": "2019-10-10-wsu",
     "tag_name": "DC",
-    "helpers": "Andrew Gillreath-Brown,Matt Brousil,Menqi Zhao,Megan Asche",
+    "helpers": "Andrew Gillreath-Brown,Matthew Brousil,Menqi Zhao,Megan Asche",
     "host_name": "Walter Sisulu University",
     "latitude": 46.72944,
     "start_date": "2019-10-10"
@@ -10140,7 +10155,7 @@
     "start_date": "2019-04-08"
   },
   {
-    "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Matt Brousil,Alex Kappes",
+    "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Matthew Brousil,Alex Kappes",
     "end_date": "2019-04-09",
     "url": "https://mbrousil.github.io/2019-04-08-wsu/",
     "country": "US",
@@ -13584,7 +13599,7 @@
     "longitude": -117.1545807,
     "slug": "2018-10-25-wsu",
     "tag_name": "DC",
-    "helpers": "Allison Cramer,Tung Nguyen,Matt Brousil,Shima Bahramvash,Brett Vanderwerff,Yuanhong Song,Menqi Zhao,Fidel Maureira Sotomayor,Joe Patten",
+    "helpers": "Allison Cramer,Tung Nguyen,Matthew Brousil,Shima Bahramvash,Brett Vanderwerff,Yuanhong Song,Menqi Zhao,Fidel Maureira Sotomayor,Joe Patten",
     "host_name": "Washington State University",
     "latitude": 46.7295857,
     "start_date": "2018-10-25"

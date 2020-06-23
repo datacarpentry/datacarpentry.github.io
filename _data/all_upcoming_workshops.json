@@ -60,21 +60,6 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
-    "end_date": "2020-06-23",
-    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Albert Einstein Science Park, Potsdam, Germany",
-    "longitude": 13.064298,
-    "slug": "2020-06-22-virtual",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "GFZ Potsdam",
-    "latitude": 52.382214,
-    "start_date": "2020-06-22"
-  },
-  {
     "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
     "end_date": "2020-07-03",
     "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
@@ -102,6 +87,36 @@
     "helpers": null,
     "host_name": "California State University Monterey Bay",
     "latitude": 45,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "David Welch,Eve Bohnett,Ann James",
+    "end_date": "2020-06-26",
+    "url": "https://evebohnett.github.io/2020-06-23-uchicago-online1/",
+    "country": "",
+    "curriculum": "swc-plotting",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-23-uchicago-online1",
+    "tag_name": "SWC,automated-email,online",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": null,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Lachlan Deer,Jacob Koehler,Sourav Singh,Jacob Deppen",
+    "end_date": "2020-06-26",
+    "url": "https://lachlandeer.github.io/2020-06-23-uchicago-online2/",
+    "country": "",
+    "curriculum": "swc-plotting",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-23-uchicago-online2",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": null,
     "start_date": "2020-06-23"
   },
   {
@@ -240,6 +255,21 @@
     "start_date": "2020-07-06"
   },
   {
+    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
+    "end_date": "2020-07-15",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "July 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-07-07-delft",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-07-07"
+  },
+  {
     "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
     "end_date": "2020-07-09",
     "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
@@ -253,6 +283,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-07-08"
+  },
+  {
+    "instructors": "Brian Ballsun-Stanton,James Tocknell,Richard Miller,Rhiannon Rasins,Nishen Naidoo",
+    "end_date": "2020-07-14",
+    "url": "https://denubis.github.io/2020-07-09-macquarie-online/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "Macquarie University",
+    "longitude": 151.1118523,
+    "slug": "2020-07-09-macquarie-online",
+    "tag_name": "Circuits",
+    "helpers": "Fiona Jones,George Milunovich",
+    "host_name": "Macquarie University",
+    "latitude": -33.7745006,
+    "start_date": "2020-07-09"
   },
   {
     "instructors": "Eric Jankowski,Elizabeth Williams",
@@ -285,6 +330,21 @@
     "start_date": "2020-07-13"
   },
   {
+    "instructors": "Allegra Via,Vincenza Colonna,Loredana Le Pera",
+    "end_date": "2020-07-17",
+    "url": "https://loredanalepera.github.io/2020-07-14-SWC-online/",
+    "country": "IT",
+    "curriculum": "mix-and-match",
+    "venue": "ELIXIR Italy (online)",
+    "longitude": -1,
+    "slug": "2020-07-14-SWC-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Gianluca Damaggio,Silvia Buonaiuto,Marco Pietrosanto",
+    "host_name": "Consiglio Nazionale delle Ricerche",
+    "latitude": 45,
+    "start_date": "2020-07-14"
+  },
+  {
     "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
     "end_date": "2020-07-28",
     "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
@@ -313,6 +373,21 @@
     "host_name": "University of Arkansas",
     "latitude": 0,
     "start_date": "2020-07-27"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-08-14",
+    "url": "https://uw-madison-datascience.github.io/2020-08-03-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UW-Madison",
+    "longitude": -89.4146762,
+    "slug": "2020-08-03-uwmadison-dc",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
+    "start_date": "2020-08-03"
   },
   {
     "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
