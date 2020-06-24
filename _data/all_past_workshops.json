@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Preethy Nair,Amanda Stahlke",
+    "end_date": "2020-06-24",
+    "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "CSU Monterey Bay Online",
+    "longitude": -1,
+    "slug": "2020-06-23-csumb-online",
+    "tag_name": "DC,automated-email,online",
+    "helpers": null,
+    "host_name": "California State University Monterey Bay",
+    "latitude": 45,
+    "start_date": "2020-06-23"
+  },
+  {
     "instructors": "Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
@@ -129,7 +144,7 @@
     "longitude": 153.378868,
     "slug": "2020-06-15-GriffithUni-R",
     "tag_name": "SWC,online",
-    "helpers": "McKenna Buckley",
+    "helpers": "McKenna Buckley,Jacob Dore-Porret",
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2020-06-15"
