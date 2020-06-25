@@ -15,6 +15,21 @@
     "start_date": "2020-06-23"
   },
   {
+    "instructors": "Lindsay Coome,Samar Elsheikh,Nilani Ganeshwaran,Rafi Ullah",
+    "end_date": "2020-06-25",
+    "url": "https://uom-nilani.github.io/2020-06-22-UD-INBRE/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Delaware (online)",
+    "longitude": -1,
+    "slug": "2020-06-22-UD-INBRE",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": 45,
+    "start_date": "2020-06-22"
+  },
+  {
     "instructors": "Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
@@ -132,6 +147,21 @@
     "helpers": "Jose Criollo",
     "host_name": "University of Aberystwyth",
     "latitude": 52.33022,
+    "start_date": "2020-06-16"
+  },
+  {
+    "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Clare Michaud",
+    "end_date": "2020-06-25",
+    "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UW-Madison (online)",
+    "longitude": -89.385239,
+    "slug": "2020-06-16-uwmadison-dc",
+    "tag_name": "online,Circuits",
+    "helpers": "Erin Jonaitis",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
     "start_date": "2020-06-16"
   },
   {
@@ -1388,7 +1418,7 @@
     "venue": "University of Queensland",
     "longitude": 153.014713,
     "slug": "2020-03-23-UQ-Python",
-    "tag_name": "SWC",
+    "tag_name": "SWC,online",
     "helpers": "Toan Phung,Dattatreya Majumdar",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,

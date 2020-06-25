@@ -30,21 +30,6 @@
     "start_date": "2020-06-15"
   },
   {
-    "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Clare Michaud",
-    "end_date": "2020-06-25",
-    "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "UW-Madison (online)",
-    "longitude": -89.385239,
-    "slug": "2020-06-16-uwmadison-dc",
-    "tag_name": "online,Circuits",
-    "helpers": "Erin Jonaitis",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.073929,
-    "start_date": "2020-06-16"
-  },
-  {
     "instructors": "Brett Longworth,Craig McLean",
     "end_date": "2020-07-03",
     "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
@@ -270,6 +255,21 @@
     "start_date": "2020-07-08"
   },
   {
+    "instructors": "Lorraine Ling,Eve Bohnett,Sichong Peng,Rachel Lombardi",
+    "end_date": "2020-07-17",
+    "url": "https://loriling96.github.io/2020-07-08-genentech-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Genentech (online)",
+    "longitude": 0,
+    "slug": "2020-07-08-genentech-online",
+    "tag_name": "DC,automated-email,online",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 0,
+    "start_date": "2020-07-08"
+  },
+  {
     "instructors": "Brian Ballsun-Stanton,James Tocknell,Richard Miller,Rhiannon Rasins,Nishen Naidoo",
     "end_date": "2020-07-14",
     "url": "https://denubis.github.io/2020-07-09-macquarie-online/",
@@ -328,6 +328,36 @@
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 45,
     "start_date": "2020-07-14"
+  },
+  {
+    "instructors": "Mauro Lepore",
+    "end_date": "2020-07-16",
+    "url": "https://maurolepore.github.io/2020-07-15-rice/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Rice University (online)",
+    "longitude": null,
+    "slug": "2020-07-15-rice",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
+    "host_name": "Rice University",
+    "latitude": null,
+    "start_date": "2020-07-15"
+  },
+  {
+    "instructors": "Matthias Liffers,Anton Angelo",
+    "end_date": "2020-07-22",
+    "url": "https://bellsm74.github.io/2020-07-21-monashmalaysia-online/",
+    "country": "MY",
+    "curriculum": "mix-and-match",
+    "venue": "Monash University Malaysia (online)",
+    "longitude": -1,
+    "slug": "2020-07-21-monashmalaysia-online",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Danping Dong,Belinda Sta Maria",
+    "host_name": "Monash University Malaysia",
+    "latitude": 45,
+    "start_date": "2020-07-21"
   },
   {
     "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
