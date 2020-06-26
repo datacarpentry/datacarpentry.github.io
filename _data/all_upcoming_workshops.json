@@ -15,21 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Harriet Alexander,Stewart Jamieson",
-    "end_date": "2020-06-26",
-    "url": "https://alexanderlabwhoi.github.io/2020-06-16-whoipython/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70.7,
-    "slug": "2020-06-16-whoipython",
-    "tag_name": "SWC,online",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41.5,
-    "start_date": "2020-06-15"
-  },
-  {
     "instructors": "Brett Longworth,Craig McLean",
     "end_date": "2020-07-03",
     "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
@@ -58,66 +43,6 @@
     "host_name": "University of California San Diego",
     "latitude": 32.867068,
     "start_date": "2020-06-23"
-  },
-  {
-    "instructors": "David Welch,Eve Bohnett,Ann James",
-    "end_date": "2020-06-26",
-    "url": "https://evebohnett.github.io/2020-06-23-uchicago-online1/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "University of Chicago Centre for Data and Computing (online)",
-    "longitude": -87.60135,
-    "slug": "2020-06-23-uchicago-online1",
-    "tag_name": "SWC,automated-email,online",
-    "helpers": null,
-    "host_name": "University of Chicago",
-    "latitude": 41.79111,
-    "start_date": "2020-06-23"
-  },
-  {
-    "instructors": "Lachlan Deer,Jacob Koehler,Sourav Singh,Jacob Deppen",
-    "end_date": "2020-06-26",
-    "url": "https://lachlandeer.github.io/2020-06-23-uchicago-online2/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "University of Chicago Centre for Data and Computing (online)",
-    "longitude": -87.60135,
-    "slug": "2020-06-23-uchicago-online2",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "University of Chicago",
-    "latitude": 41.79111,
-    "start_date": "2020-06-23"
-  },
-  {
-    "instructors": "Jason Bell",
-    "end_date": "2020-06-26",
-    "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "CQ University",
-    "longitude": 150.518952,
-    "slug": "2020-06-25-CQU-R",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "CQUniversity",
-    "latitude": -23.326427,
-    "start_date": "2020-06-25"
-  },
-  {
-    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
-    "end_date": "2020-06-26",
-    "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
-    "country": "GB",
-    "curriculum": "dc-genomics",
-    "venue": "Edinburgh Carpentries and National Horizons Centre",
-    "longitude": -3.187158,
-    "slug": "2020-06-25-edinburgh-dc-genomics",
-    "tag_name": "DC,online",
-    "helpers": "Mario Antonioletti,David Perez-Suarez,Asif Tamuri,Stef Piatek,Graeme Grimes,Lora Boteva,Alessandro Felder,Bailey Harrington",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945541,
-    "start_date": "2020-06-25"
   },
   {
     "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Felipe Sanchez",
@@ -177,6 +102,21 @@
     "helpers": "Nick Hamilton,Toan Phung",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-06-30"
+  },
+  {
+    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
+    "end_date": "2020-07-02",
+    "url": "https://tgac.github.io/2020-06-30-earlham/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Earlham Institute (online)",
+    "longitude": 0,
+    "slug": "2020-06-30-earlham-online",
+    "tag_name": "SWC,online",
+    "helpers": "Felix Shaw",
+    "host_name": "Earlham Institute",
+    "latitude": 0,
     "start_date": "2020-06-30"
   },
   {
@@ -478,5 +418,20 @@
     "host_name": "University of Oklahoma",
     "latitude": 36.101354,
     "start_date": "2020-09-02"
+  },
+  {
+    "instructors": "Stephen Crouch,Aleksandra Nenadic",
+    "end_date": "2020-09-09",
+    "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-08-ttt-ssi-online",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-08"
   }
 ]

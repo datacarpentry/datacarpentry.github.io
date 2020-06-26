@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Jason Bell",
+    "end_date": "2020-06-26",
+    "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-06-25-CQU-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.326427,
+    "start_date": "2020-06-25"
+  },
+  {
+    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
+    "end_date": "2020-06-26",
+    "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
+    "country": "GB",
+    "curriculum": "dc-genomics",
+    "venue": "Edinburgh Carpentries and National Horizons Centre",
+    "longitude": -3.187158,
+    "slug": "2020-06-25-edinburgh-dc-genomics",
+    "tag_name": "DC,online",
+    "helpers": "Mario Antonioletti,David Perez-Suarez,Asif Tamuri,Stef Piatek,Graeme Grimes,Lora Boteva,Alessandro Felder,Bailey Harrington",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945541,
+    "start_date": "2020-06-25"
+  },
+  {
     "instructors": "Preethy Nair,Amanda Stahlke",
     "end_date": "2020-06-24",
     "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
@@ -12,6 +42,36 @@
     "helpers": null,
     "host_name": "California State University Monterey Bay",
     "latitude": 45,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "David Welch,Eve Bohnett,Ann James",
+    "end_date": "2020-06-26",
+    "url": "https://evebohnett.github.io/2020-06-23-uchicago-online1/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "University of Chicago Centre for Data and Computing (online)",
+    "longitude": -87.60135,
+    "slug": "2020-06-23-uchicago-online1",
+    "tag_name": "SWC,automated-email,online",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.79111,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Lachlan Deer,Jacob Koehler,Sourav Singh,Jacob Deppen",
+    "end_date": "2020-06-26",
+    "url": "https://lachlandeer.github.io/2020-06-23-uchicago-online2/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "University of Chicago Centre for Data and Computing (online)",
+    "longitude": -87.60135,
+    "slug": "2020-06-23-uchicago-online2",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.79111,
     "start_date": "2020-06-23"
   },
   {
@@ -192,6 +252,21 @@
     "helpers": null,
     "host_name": "Instructor Training",
     "latitude": -48.876667,
+    "start_date": "2020-06-15"
+  },
+  {
+    "instructors": "Harriet Alexander,Stewart Jamieson",
+    "end_date": "2020-06-26",
+    "url": "https://alexanderlabwhoi.github.io/2020-06-16-whoipython/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.7,
+    "slug": "2020-06-16-whoipython",
+    "tag_name": "SWC,online",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.5,
     "start_date": "2020-06-15"
   },
   {
