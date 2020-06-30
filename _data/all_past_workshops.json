@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ana Rivera",
+    "end_date": "2020-06-30",
+    "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "SSDA - Michigan State University",
+    "longitude": 0,
+    "slug": "2020-06-29-MSU-SSDA-online",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "Michigan State University",
+    "latitude": 0,
+    "start_date": "2020-06-29"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-06-26",
     "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
@@ -90,7 +105,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye,Matthias Rüster,Nils Brinckmann",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
     "country": "DE",
@@ -99,7 +114,7 @@
     "longitude": 13.064298,
     "slug": "2020-06-22-virtual",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Stefan Lüdtke,Christian Meeßen",
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-06-22"
