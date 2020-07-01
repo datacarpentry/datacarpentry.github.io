@@ -75,21 +75,6 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": "Kim Keogh,Thom Cuddihy,Stéphane Guillou",
-    "end_date": "2020-07-01",
-    "url": "https://qcif-training.github.io/2020-06-30-QCIF-Python/",
-    "country": "AU",
-    "curriculum": "swc-plotting",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-06-30-QCIF-Python",
-    "tag_name": "SWC,online",
-    "helpers": "Nick Hamilton,Toan Phung",
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-06-30"
-  },
-  {
     "instructors": "Jason Wallace,Hallie Wright,Davis Gimode",
     "end_date": "2020-08-06",
     "url": "https://uga-carpentries.github.io/2020-06-30-UGA-online/",
@@ -218,7 +203,7 @@
     "venue": "Macquarie University",
     "longitude": 151.1118523,
     "slug": "2020-07-09-macquarie-online",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,online",
     "helpers": "Fiona Jones,George Milunovich",
     "host_name": "Macquarie University",
     "latitude": -33.7745006,
@@ -372,6 +357,21 @@
     "helpers": "Cheyenne Payne",
     "host_name": "University of Arkansas",
     "latitude": 0,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg",
+    "end_date": "2020-07-30",
+    "url": "https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-27-ttt-online-SAST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
     "start_date": "2020-07-27"
   },
   {

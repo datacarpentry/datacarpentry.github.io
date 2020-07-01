@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Kim Keogh,Thom Cuddihy,Stéphane Guillou",
+    "end_date": "2020-07-01",
+    "url": "https://qcif-training.github.io/2020-06-30-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-06-30-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Nick Hamilton,Toan Phung",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-06-30"
+  },
+  {
     "instructors": "Ana Rivera",
     "end_date": "2020-06-30",
     "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
