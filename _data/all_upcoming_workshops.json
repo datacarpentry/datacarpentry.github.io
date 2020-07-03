@@ -15,36 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Brett Longworth,Craig McLean",
-    "end_date": "2020-07-03",
-    "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70.660599,
-    "slug": "2020-06-22-WHOI-R",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41.523998,
-    "start_date": "2020-06-22"
-  },
-  {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
-    "end_date": "2020-07-03",
-    "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Scripps Institution of Oceanography (online)",
-    "longitude": -117.257288,
-    "slug": "2020-06-23-SIO-online",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "University of California San Diego",
-    "latitude": 32.867068,
-    "start_date": "2020-06-23"
-  },
-  {
     "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Felipe Sanchez",
     "end_date": "2020-07-07",
     "url": "https://uf-carpentry.github.io/2020-06-29-IFAS_REC_ecology/",
@@ -57,21 +27,6 @@
     "helpers": "Matthew Collins,James Colee,Jennica Poongavanan,Sharmin Siddiqui",
     "host_name": "University of Florida",
     "latitude": 29.6436325,
-    "start_date": "2020-06-29"
-  },
-  {
-    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Mmasibidi Setaka,Rohit Goswami,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-07-03",
-    "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": 0,
-    "slug": "2020-06-29-SA-ONLINE",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Sebastian Mosidi",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
     "start_date": "2020-06-29"
   },
   {
@@ -88,36 +43,6 @@
     "host_name": "University of Georgia",
     "latitude": 33.948,
     "start_date": "2020-06-30"
-  },
-  {
-    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
-    "end_date": "2020-07-02",
-    "url": "https://tgac.github.io/2020-06-30-earlham/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Earlham Institute (online)",
-    "longitude": 0,
-    "slug": "2020-06-30-earlham-online",
-    "tag_name": "SWC,online",
-    "helpers": "Felix Shaw",
-    "host_name": "Earlham Institute",
-    "latitude": 0,
-    "start_date": "2020-06-30"
-  },
-  {
-    "instructors": "Peter Smyth,Martino Sorbaro Sindaci",
-    "end_date": "2020-07-02",
-    "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-07-01-sfc-online",
-    "tag_name": "DC,online",
-    "helpers": "Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood,Robert Nagy",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
-    "start_date": "2020-07-01"
   },
   {
     "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
@@ -208,6 +133,21 @@
     "host_name": "Macquarie University",
     "latitude": -33.7745006,
     "start_date": "2020-07-09"
+  },
+  {
+    "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
+    "end_date": "2020-07-17",
+    "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
+    "country": "",
+    "curriculum": "dc-ecology-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-13-noaa-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": null,
+    "start_date": "2020-07-13"
   },
   {
     "instructors": "Eric Jankowski,Elizabeth Williams",
@@ -373,6 +313,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Nelly Sélem",
+    "end_date": "2020-07-29",
+    "url": "https://nselem.github.io/2020-07-28-posgraduados-campeche/",
+    "country": "MX",
+    "curriculum": "swc-plotting",
+    "venue": "Colegio de Postgraduados Campus Campeche",
+    "longitude": -90.54,
+    "slug": "2020-07-28-posgraduados-campeche",
+    "tag_name": "automated-email,SWC",
+    "helpers": "Abraham Avelar",
+    "host_name": "Langebio",
+    "latitude": 19.49,
+    "start_date": "2020-07-28"
   },
   {
     "instructors": null,

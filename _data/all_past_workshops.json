@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Peter Smyth,Martino Sorbaro Sindaci",
+    "end_date": "2020-07-02",
+    "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-07-01-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": "Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood,Robert Nagy",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-07-01"
+  },
+  {
     "instructors": "Kim Keogh,Thom Cuddihy,Stéphane Guillou",
     "end_date": "2020-07-01",
     "url": "https://qcif-training.github.io/2020-06-30-QCIF-Python/",
@@ -15,6 +30,21 @@
     "start_date": "2020-06-30"
   },
   {
+    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
+    "end_date": "2020-07-02",
+    "url": "https://tgac.github.io/2020-06-30-earlham/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Earlham Institute (online)",
+    "longitude": 0,
+    "slug": "2020-06-30-earlham-online",
+    "tag_name": "SWC,online",
+    "helpers": "Felix Shaw",
+    "host_name": "Earlham Institute",
+    "latitude": 0,
+    "start_date": "2020-06-30"
+  },
+  {
     "instructors": "Ana Rivera",
     "end_date": "2020-06-30",
     "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
@@ -26,6 +56,21 @@
     "tag_name": "online,Circuits",
     "helpers": null,
     "host_name": "Michigan State University",
+    "latitude": 0,
+    "start_date": "2020-06-29"
+  },
+  {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Mmasibidi Setaka,Rohit Goswami,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-07-03",
+    "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-06-29-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Sebastian Mosidi",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
     "start_date": "2020-06-29"
   },
@@ -58,6 +103,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.945541,
     "start_date": "2020-06-25"
+  },
+  {
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "end_date": "2020-07-03",
+    "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Scripps Institution of Oceanography (online)",
+    "longitude": -117.257288,
+    "slug": "2020-06-23-SIO-online",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.867068,
+    "start_date": "2020-06-23"
   },
   {
     "instructors": "Preethy Nair,Amanda Stahlke",
@@ -117,6 +177,21 @@
     "helpers": null,
     "host_name": "University of Delaware",
     "latitude": 45,
+    "start_date": "2020-06-22"
+  },
+  {
+    "instructors": "Brett Longworth,Craig McLean",
+    "end_date": "2020-07-03",
+    "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.660599,
+    "slug": "2020-06-22-WHOI-R",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.523998,
     "start_date": "2020-06-22"
   },
   {
