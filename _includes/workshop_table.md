@@ -1,3 +1,5 @@
+Click on an individual event to learn more about that event, including contact information and registration instructions.
+
 <table class="table table-striped" style="width: 100%;">
 {% for w in workshop_list  %}
       {% if w.instructors %}
