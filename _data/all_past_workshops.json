@@ -45,6 +45,21 @@
     "start_date": "2020-06-30"
   },
   {
+    "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Felipe Sanchez",
+    "end_date": "2020-07-07",
+    "url": "https://uf-carpentry.github.io/2020-06-29-IFAS_REC_ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Florida IFAS REC",
+    "longitude": -82.3549302,
+    "slug": "2020-06-29-IFAS_REC_ecology",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Matthew Collins,James Colee,Jennica Poongavanan,Sharmin Siddiqui",
+    "host_name": "University of Florida",
+    "latitude": 29.6436325,
+    "start_date": "2020-06-29"
+  },
+  {
     "instructors": "Ana Rivera",
     "end_date": "2020-06-30",
     "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
