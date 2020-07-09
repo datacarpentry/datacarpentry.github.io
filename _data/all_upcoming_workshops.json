@@ -45,21 +45,6 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-07-08",
-    "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": -27.552941,
-    "slug": "2020-07-06-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-07-06"
-  },
-  {
     "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
     "end_date": "2020-07-15",
     "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
@@ -114,7 +99,7 @@
     "longitude": 151.1118523,
     "slug": "2020-07-09-macquarie-online",
     "tag_name": "Circuits,online",
-    "helpers": "Fiona Jones,George Milunovich",
+    "helpers": "Fiona Jones,George Milunovich,Belinda Fabian,Evan Matthews",
     "host_name": "Macquarie University",
     "latitude": -33.7745006,
     "start_date": "2020-07-09"
@@ -123,15 +108,15 @@
     "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
     "end_date": "2020-07-17",
     "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
-    "country": "",
+    "country": "W3",
     "curriculum": "dc-ecology-r",
-    "venue": "",
-    "longitude": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2020-07-13-noaa-online",
     "tag_name": "automated-email,DC,online",
     "helpers": null,
     "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-07-13"
   },
   {
@@ -208,6 +193,21 @@
     "host_name": "Rice University",
     "latitude": 29.7173941,
     "start_date": "2020-07-15"
+  },
+  {
+    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
+    "end_date": "2020-08-18",
+    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-07-20-ttt-online-AEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-07-20"
   },
   {
     "instructors": "Matthias Liffers,Anton Angelo",
@@ -315,6 +315,21 @@
     "start_date": "2020-07-28"
   },
   {
+    "instructors": "Roo Mabuya",
+    "end_date": "2020-08-07",
+    "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "Online",
+    "longitude": 0,
+    "slug": "2020-08-03-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-08-03"
+  },
+  {
     "instructors": null,
     "end_date": "2020-08-14",
     "url": "https://uw-madison-datascience.github.io/2020-08-03-uwmadison-dc/",
@@ -357,6 +372,21 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2020-08-17"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-08-21",
+    "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": null,
+    "slug": "2020-08-17-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": null,
     "start_date": "2020-08-17"
   },
   {
