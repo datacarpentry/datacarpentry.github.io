@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
+    "end_date": "2020-07-09",
+    "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-07-08-QCIF-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-07-08"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
@@ -15,7 +30,22 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Peter Smyth,Martino Sorbaro Sindaci",
+    "instructors": null,
+    "end_date": "2020-07-07",
+    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-06-newcastle",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of Newcastle",
+    "latitude": null,
+    "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Peter Smyth,Martino Sorbaro Sindaci,Robert Nagy",
     "end_date": "2020-07-02",
     "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
     "country": "GB",
@@ -24,7 +54,7 @@
     "longitude": -3.187347,
     "slug": "2020-07-01-sfc-online",
     "tag_name": "DC,online",
-    "helpers": "Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood,Robert Nagy",
+    "helpers": "Mario Antonioletti,Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-07-01"
@@ -77,7 +107,7 @@
   {
     "instructors": "Ana Rivera",
     "end_date": "2020-06-30",
-    "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
+    "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online/",
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "SSDA - Michigan State University",
@@ -174,7 +204,7 @@
     "longitude": -1,
     "slug": "2020-06-23-csumb-online",
     "tag_name": "DC,automated-email,online",
-    "helpers": null,
+    "helpers": "Alexis Thorton,Brandon Saint John",
     "host_name": "California State University Monterey Bay",
     "latitude": 45,
     "start_date": "2020-06-23"
@@ -240,7 +270,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye,Matthias Rüster,Nils Brinckmann",
+    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye,Matthias Rüster,Nils Brinckmann,Johannes Petereit",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
     "country": "DE",
@@ -249,7 +279,7 @@
     "longitude": 13.064298,
     "slug": "2020-06-22-virtual",
     "tag_name": "SWC,online",
-    "helpers": "Stefan Lüdtke,Christian Meeßen",
+    "helpers": "Stefan Lüdtke,Christian Meeßen,Michael Rudolf",
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-06-22"
@@ -369,7 +399,7 @@
     "longitude": -89.385239,
     "slug": "2020-06-16-uwmadison-dc",
     "tag_name": "online,Circuits",
-    "helpers": "Erin Jonaitis",
+    "helpers": "Erin Jonaitis,Mary Murphy",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-16"
@@ -414,7 +444,7 @@
     "longitude": -70.7,
     "slug": "2020-06-16-whoipython",
     "tag_name": "SWC,online",
-    "helpers": "Stace Beaulieu",
+    "helpers": "Stace Beaulieu,Levi Cai,Arianna Krinos",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.5,
     "start_date": "2020-06-15"
@@ -429,13 +459,13 @@
     "longitude": -76.38001,
     "slug": "2020-06-11-NASALangleySummer2020",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Elizabeth Gregory",
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 37.08258,
     "start_date": "2020-06-11"
   },
   {
-    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
+    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud,Iain McConnell",
     "end_date": "2020-06-19",
     "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
     "country": "US",
@@ -444,7 +474,7 @@
     "longitude": -89.385239,
     "slug": "2020-06-11-uwmadison-dc",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino",
+    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino,Mary Murphy,Heather Scott Wildman",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-11"
@@ -459,7 +489,7 @@
     "longitude": -89.385239,
     "slug": "2020-06-10-uwmadison-swc",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
+    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino,Scott Wildman,Andrew Maule,Stephan Blanz",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-10"
@@ -489,7 +519,7 @@
     "longitude": -75.75061,
     "slug": "2020-06-09-uofdelaware-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Adam Faranda,Anders Kiledal,Heidi Van Every,Preethy Nair",
+    "helpers": "Adam Faranda,Anders Kiledal,Heidi Van Every,Preethy Nair,Iman Bhattacharya,Jose Daniel Chazi Capelo,Madolyn MacDonald,Menolin Sharma,Riza Li,Sachin Gavali",
     "host_name": "University of Delaware",
     "latitude": 39.677952,
     "start_date": "2020-06-09"
@@ -549,7 +579,7 @@
     "longitude": 0,
     "slug": "2020-06-04-DEVELOP",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": "Ryan Avery",
+    "helpers": "Kunal Marwaha,Ryan Avery,Gina Cova,Kristen Dennis,Crystal Wespestad",
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 0,
     "start_date": "2020-06-04"
@@ -3150,7 +3180,7 @@
     "start_date": "2020-01-22"
   },
   {
-    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Clare Michaud,Matt Stone,Sailen Sudakaran,Ariel Andrea",
+    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Sailendharan Sudakaran,Clare Michaud,Matt Stone,Ariel Andrea",
     "end_date": "2020-01-23",
     "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
     "country": "US",
