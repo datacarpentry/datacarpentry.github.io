@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-07-15",
+    "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Agriculture Research Services (ARS) (online)",
+    "longitude": -77.01991,
+    "slug": "2020-07-14-usda-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.89206,
+    "start_date": "2020-07-14"
+  },
+  {
+    "instructors": "Eric Jankowski,Elizabeth Williams",
+    "end_date": "2020-07-14",
+    "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-07-13-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-07-13"
+  },
+  {
+    "instructors": "Brian Ballsun-Stanton,James Tocknell,Richard Miller,Rhiannon Rasins,Nishen Naidoo",
+    "end_date": "2020-07-14",
+    "url": "https://denubis.github.io/2020-07-09-macquarie-online/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "Macquarie University",
+    "longitude": 151.1118523,
+    "slug": "2020-07-09-macquarie-online",
+    "tag_name": "Circuits,online",
+    "helpers": "Fiona Jones,George Milunovich,Belinda Fabian,Evan Matthews",
+    "host_name": "Macquarie University",
+    "latitude": -33.7745006,
+    "start_date": "2020-07-09"
+  },
+  {
     "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
     "end_date": "2020-07-09",
     "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
@@ -13,6 +58,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-07-08"
+  },
+  {
+    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
+    "end_date": "2020-07-15",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "July 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-07-07-delft",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-07-07"
   },
   {
     "instructors": "Amanda Miotto",
@@ -99,7 +159,7 @@
     "longitude": -82.3549302,
     "slug": "2020-06-29-IFAS_REC_ecology",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Matthew Collins,James Colee,Jennica Poongavanan,Sharmin Siddiqui",
+    "helpers": "Matthew Collins,Brian Stucky,James Colee,Jennica Poongavanan,Sharmin Siddiqui,Audrey Smith",
     "host_name": "University of Florida",
     "latitude": 29.6436325,
     "start_date": "2020-06-29"
@@ -180,7 +240,7 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Chris Olson,André Palóczy,Alma Carolina CastilloTrujillo",
     "end_date": "2020-07-03",
     "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
     "country": "US",
@@ -189,7 +249,7 @@
     "longitude": -117.257288,
     "slug": "2020-06-23-SIO-online",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Luke Colosi",
     "host_name": "University of California San Diego",
     "latitude": 32.867068,
     "start_date": "2020-06-23"
@@ -297,6 +357,21 @@
     "helpers": "Lisa Ngo,Eric Lopatin",
     "host_name": "University of California San Francisco",
     "latitude": 0,
+    "start_date": "2020-06-18"
+  },
+  {
+    "instructors": "Toni Hoberecht,Clarke Iakovakis",
+    "end_date": "2020-06-19",
+    "url": "https://osu-carpentry.github.io/2020-06-18-okacrl/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Online",
+    "longitude": null,
+    "slug": "2020-06-18-okacrl",
+    "tag_name": "LC,online",
+    "helpers": "Mark Laufersweiler,Kay BJornen,Emrys Moreau,Alyssa Migdalsk",
+    "host_name": "Oklahoma State University",
+    "latitude": null,
     "start_date": "2020-06-18"
   },
   {

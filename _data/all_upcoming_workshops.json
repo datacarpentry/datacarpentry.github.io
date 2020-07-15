@@ -45,21 +45,6 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
-    "end_date": "2020-07-15",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "July 2020 SWC Workshop @TU Delft (online)",
-    "longitude": 4.37524,
-    "slug": "2020-07-07-delft",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.002677,
-    "start_date": "2020-07-07"
-  },
-  {
     "instructors": "Lorraine Ling,Eve Bohnett,Sichong Peng,Rachel Lombardi",
     "end_date": "2020-07-17",
     "url": "https://loriling96.github.io/2020-07-08-genentech-online/",
@@ -75,21 +60,6 @@
     "start_date": "2020-07-08"
   },
   {
-    "instructors": "Brian Ballsun-Stanton,James Tocknell,Richard Miller,Rhiannon Rasins,Nishen Naidoo",
-    "end_date": "2020-07-14",
-    "url": "https://denubis.github.io/2020-07-09-macquarie-online/",
-    "country": "AU",
-    "curriculum": "mix-and-match",
-    "venue": "Macquarie University",
-    "longitude": 151.1118523,
-    "slug": "2020-07-09-macquarie-online",
-    "tag_name": "Circuits,online",
-    "helpers": "Fiona Jones,George Milunovich,Belinda Fabian,Evan Matthews",
-    "host_name": "Macquarie University",
-    "latitude": -33.7745006,
-    "start_date": "2020-07-09"
-  },
-  {
     "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
     "end_date": "2020-07-17",
     "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
@@ -101,21 +71,6 @@
     "tag_name": "automated-email,DC,online",
     "helpers": null,
     "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": -48.876667,
-    "start_date": "2020-07-13"
-  },
-  {
-    "instructors": "Eric Jankowski,Elizabeth Williams",
-    "end_date": "2020-07-14",
-    "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-07-13-ttt-online-PDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-07-13"
   },
@@ -150,21 +105,6 @@
     "start_date": "2020-07-14"
   },
   {
-    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-07-15",
-    "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Agriculture Research Services (ARS) (online)",
-    "longitude": -77.01991,
-    "slug": "2020-07-14-usda-online",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
-    "latitude": 38.89206,
-    "start_date": "2020-07-14"
-  },
-  {
     "instructors": "Mauro Lepore",
     "end_date": "2020-07-16",
     "url": "https://maurolepore.github.io/2020-07-15-rice/",
@@ -178,21 +118,6 @@
     "host_name": "Rice University",
     "latitude": 29.7173941,
     "start_date": "2020-07-15"
-  },
-  {
-    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
-    "end_date": "2020-08-18",
-    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-07-20-ttt-online-AEST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-07-20"
   },
   {
     "instructors": "Matthias Liffers,Anton Angelo",
@@ -282,6 +207,21 @@
     "helpers": "Francis Gacenga",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "end_date": "2020-07-30",
+    "url": "https://nairps.github.io/2020-07-27-american-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "America University (online)",
+    "longitude": -77.036873,
+    "slug": "2020-07-27-american-online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 38.907192,
     "start_date": "2020-07-27"
   },
   {
@@ -435,7 +375,7 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Bianca Peterson",
+    "instructors": "Bianca Peterson,Elnaz Amanzadeh Jajin",
     "end_date": "2020-08-21",
     "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
     "country": "ZA",
@@ -495,6 +435,21 @@
     "start_date": "2020-08-24"
   },
   {
+    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
+    "end_date": "2020-09-22",
+    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-08-31-ttt-online-AEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-08-31"
+  },
+  {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
     "end_date": "2020-09-03",
     "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
@@ -523,5 +478,20 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-09-08"
+  },
+  {
+    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
+    "end_date": "2020-09-24",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "September 2020 Genomics Workshop @TUDelft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-09-16-delft",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Mario Beck",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-09-16"
   }
 ]
