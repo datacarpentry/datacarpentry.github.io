@@ -330,6 +330,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
+    "end_date": "2020-08-27",
+    "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Discord",
+    "longitude": -1,
+    "slug": "2020-08-19-Carpentry-Online",
+    "tag_name": "LC,online",
+    "helpers": "John Fink",
+    "host_name": "Brock University",
+    "latitude": 45,
+    "start_date": "2020-08-19"
+  },
+  {
     "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
