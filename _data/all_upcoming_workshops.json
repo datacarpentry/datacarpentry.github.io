@@ -60,7 +60,7 @@
     "start_date": "2020-07-21"
   },
   {
-    "instructors": "Karl Benedict,Jon Wheeler,Mark Servilla,Nitin Bhandari",
+    "instructors": "Jon Wheeler,Mark Servilla,Nitin Bhandari",
     "end_date": "2020-07-23",
     "url": "https://nmcarpentries.github.io/2020-07-21-nmcsa-online/",
     "country": "US",
@@ -69,7 +69,7 @@
     "longitude": -1,
     "slug": "2020-07-21-nmcsa-online",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": "Dustin Allen",
+    "helpers": "Karl Benedict,Dustin Allen",
     "host_name": "University of New Mexico",
     "latitude": 45,
     "start_date": "2020-07-21"
@@ -99,7 +99,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Tami Albin",
+    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
@@ -373,6 +373,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Tim Dennis,Ariel Deardorff",
+    "end_date": "2020-08-28",
+    "url": "https://arieldeardorff.github.io/2020-08-25-ttt-online-PDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-25-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-25"
   },
   {
     "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",

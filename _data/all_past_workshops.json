@@ -30,7 +30,7 @@
     "start_date": "2020-07-14"
   },
   {
-    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
+    "instructors": "Lachlan Deer,Melissa Fabros,Kathy Yeater,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-15",
     "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
     "country": "US",
@@ -39,7 +39,7 @@
     "longitude": -77.01991,
     "slug": "2020-07-14-usda-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Steven Schroeder,Anna Childers",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.89206,
     "start_date": "2020-07-14"
@@ -48,15 +48,15 @@
     "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
     "end_date": "2020-07-17",
     "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
-    "country": "W3",
+    "country": "",
     "curriculum": "dc-ecology-r",
-    "venue": "Internet",
-    "longitude": -123.393333,
+    "venue": "NOAA Fisheries, Northeast Fisheries Science Center",
+    "longitude": null,
     "slug": "2020-07-13-noaa-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Andrew Jones",
     "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": -48.876667,
+    "latitude": null,
     "start_date": "2020-07-13"
   },
   {
@@ -129,7 +129,7 @@
     "longitude": 0,
     "slug": "2020-07-08-genentech-online",
     "tag_name": "DC,automated-email,online",
-    "helpers": null,
+    "helpers": "Altaf Kassam",
     "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-07-08"
@@ -150,6 +150,21 @@
     "start_date": "2020-07-07"
   },
   {
+    "instructors": "Jannetta Steyn",
+    "end_date": "2020-07-10",
+    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
+    "country": "",
+    "curriculum": "swc-python",
+    "venue": "Newcastle University (online)",
+    "longitude": 0,
+    "slug": "2020-07-06-Genesis",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of Newcastle",
+    "latitude": 0,
+    "start_date": "2020-07-06"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
@@ -162,21 +177,6 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
-    "start_date": "2020-07-06"
-  },
-  {
-    "instructors": null,
-    "end_date": "2020-07-07",
-    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-07-06-newcastle",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "University of Newcastle",
-    "latitude": null,
     "start_date": "2020-07-06"
   },
   {
@@ -234,7 +234,7 @@
     "longitude": -82.3549302,
     "slug": "2020-06-29-IFAS_REC_ecology",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Matthew Collins,Brian Stucky,James Colee,Jennica Poongavanan,Sharmin Siddiqui,Audrey Smith",
+    "helpers": "Matthew Collins,Brian Stucky,James Colee,Jennica Poongavanan,Sharmin Siddiqui,Audrey Smith,Robinson Botero-Arias,Haqiq Rahmani",
     "host_name": "University of Florida",
     "latitude": 29.6436325,
     "start_date": "2020-06-29"
@@ -345,7 +345,7 @@
     "start_date": "2020-06-23"
   },
   {
-    "instructors": "David Welch,Eve Bohnett,Ann James",
+    "instructors": "David Welch,Eve Bohnett,Ann James,Femi Ayoola",
     "end_date": "2020-06-26",
     "url": "https://evebohnett.github.io/2020-06-23-uchicago-online1/",
     "country": "US",
@@ -354,7 +354,7 @@
     "longitude": -87.60135,
     "slug": "2020-06-23-uchicago-online1",
     "tag_name": "SWC,automated-email,online",
-    "helpers": null,
+    "helpers": "Julia Hanson,Kyle Chard,Katie Rosengarten",
     "host_name": "University of Chicago",
     "latitude": 41.79111,
     "start_date": "2020-06-23"
@@ -384,7 +384,7 @@
     "longitude": -1,
     "slug": "2020-06-22-UD-INBRE",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Matthew Ralston",
     "host_name": "University of Delaware",
     "latitude": 45,
     "start_date": "2020-06-22"
@@ -399,7 +399,7 @@
     "longitude": -70.660599,
     "slug": "2020-06-22-WHOI-R",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Stace Beaulieu",
+    "helpers": "Stace Beaulieu,Arianna Krinos,Christina Hernandez,Ciara Willis,Ryan Govostes",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.523998,
     "start_date": "2020-06-22"
@@ -441,12 +441,12 @@
     "country": "US",
     "curriculum": "lc-other",
     "venue": "Online",
-    "longitude": null,
+    "longitude": -97.0737222,
     "slug": "2020-06-18-okacrl",
     "tag_name": "LC,online",
-    "helpers": "Mark Laufersweiler,Kay BJornen,Emrys Moreau,Alyssa Migdalsk",
+    "helpers": "Mark Laufersweiler,Kay BJornen,Emrys Moreau,Alyssa Migdalsk,Beth Jones",
     "host_name": "Oklahoma State University",
-    "latitude": null,
+    "latitude": 36.1270236,
     "start_date": "2020-06-18"
   },
   {
@@ -18923,7 +18923,7 @@
     "venue": "RCCPII Online Mentoring",
     "longitude": 18.4654324,
     "slug": "2018-03-20-online",
-    "tag_name": "DC",
+    "tag_name": "DC,online",
     "helpers": "Erika Mias",
     "host_name": "Talarify",
     "latitude": -34.003139,
