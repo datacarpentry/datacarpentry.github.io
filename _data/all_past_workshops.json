@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Matthias Liffers,Anton Angelo",
+    "end_date": "2020-07-22",
+    "url": "https://bellsm74.github.io/2020-07-21-monashmalaysia-online/",
+    "country": "MY",
+    "curriculum": "mix-and-match",
+    "venue": "Monash University Malaysia (online)",
+    "longitude": -1,
+    "slug": "2020-07-21-monashmalaysia-online",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Danping Dong,Belinda Sta Maria",
+    "host_name": "Monash University Malaysia",
+    "latitude": 45,
+    "start_date": "2020-07-21"
+  },
+  {
     "instructors": "Mauro Lepore",
     "end_date": "2020-07-16",
     "url": "https://maurolepore.github.io/2020-07-15-rice/",
@@ -148,6 +163,21 @@
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2020-07-07"
+  },
+  {
+    "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "end_date": "2020-07-22",
+    "url": "https://columbiaswc.github.io/2020-07-06-Columbia-CUIT-1/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Columbia University CUIT (online)",
+    "longitude": -1,
+    "slug": "2020-07-06-Columbia-CUIT-1",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Cesar Arias,Michael Weisner,Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "host_name": "Columbia University",
+    "latitude": 45,
+    "start_date": "2020-07-06"
   },
   {
     "instructors": "Jannetta Steyn",
