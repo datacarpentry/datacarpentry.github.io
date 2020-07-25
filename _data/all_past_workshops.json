@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Katherine Koziar",
+    "end_date": "2020-07-24",
+    "url": "https://ucrlibrary.github.io/2020-07-24-ucr/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Riverside ONLINE",
+    "longitude": -117.327482,
+    "slug": "2020-07-24-ucr",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
+    "start_date": "2020-07-24"
+  },
+  {
+    "instructors": "Amanda Hulse-Kemp,Jonathan Shao,Jacob Deppen,Preethy Nair",
+    "end_date": "2020-07-23",
+    "url": "https://nairps.github.io/2020-07-22-usda-online/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-07-22-usda-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-07-22"
+  },
+  {
     "instructors": "Matthias Liffers,Anton Angelo",
     "end_date": "2020-07-22",
     "url": "https://bellsm74.github.io/2020-07-21-monashmalaysia-online/",
@@ -11,6 +41,21 @@
     "tag_name": "automated-email,online,Circuits",
     "helpers": "Danping Dong,Belinda Sta Maria",
     "host_name": "Monash University Malaysia",
+    "latitude": 45,
+    "start_date": "2020-07-21"
+  },
+  {
+    "instructors": "Jon Wheeler,Mark Servilla,Nitin Bhandari",
+    "end_date": "2020-07-23",
+    "url": "https://nmcarpentries.github.io/2020-07-21-nmcsa-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "New Mexico EPSCoR & NM Computer Science Alliance (online)",
+    "longitude": -1,
+    "slug": "2020-07-21-nmcsa-online",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Karl Benedict,Dustin Allen",
+    "host_name": "University of New Mexico",
     "latitude": 45,
     "start_date": "2020-07-21"
   },
@@ -195,7 +240,7 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Kim Keogh",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
     "country": "AU",
@@ -204,7 +249,7 @@
     "longitude": -27.552941,
     "slug": "2020-07-06-GriffithUni-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Masami Yamaguchi,McKenna Buckley,Jon Shuker",
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2020-07-06"
@@ -7599,7 +7644,7 @@
     "longitude": null,
     "slug": "2019-08-08-LANL",
     "tag_name": "SWC",
-    "helpers": "Chris Malone,Stephen Andrews,Grant Meadors",
+    "helpers": "Chris Malone,Stephen Andrews,Grant David Meadors",
     "host_name": "Los Alamos National Laboratory",
     "latitude": null,
     "start_date": "2019-08-08"
