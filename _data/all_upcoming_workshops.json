@@ -30,6 +30,21 @@
     "start_date": "2020-06-30"
   },
   {
+    "instructors": "Neal Davis,Maxim Belkin,David Mussulman,Lena Bohman,Jenna Jordan,Yuanxi Fu",
+    "end_date": "2020-07-30",
+    "url": "https://swc-uiuc.github.io/2020-07-researchpark/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Illinois Research Park",
+    "longitude": -88.24,
+    "slug": "2020-07-01-researchpark",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of Illinois",
+    "latitude": 40.09,
+    "start_date": "2020-07-07"
+  },
+  {
     "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
     "end_date": "2020-08-14",
     "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
@@ -45,33 +60,18 @@
     "start_date": "2020-07-24"
   },
   {
-    "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
-    "end_date": "2020-07-28",
-    "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
-    "country": "AU",
-    "curriculum": "swc-plotting",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-07-27-QCIF-Python",
-    "tag_name": "SWC,online",
-    "helpers": "Francis Gacenga",
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-07-27"
-  },
-  {
-    "instructors": "Matthew Gillman,Tuomas Koskela,Heather Kelly",
-    "end_date": "2020-07-28",
-    "url": "https://rits.github-pages.ucl.ac.uk/2020-07-27-UCL_hpc_carpentry",
-    "country": "GB",
+    "instructors": "Scott Hampton,Matthew Sisk,Don Brower",
+    "end_date": "2020-07-30",
+    "url": "https://ndlib-cds.github.io/BIP-Week/",
+    "country": "US",
     "curriculum": "mix-and-match",
-    "venue": "UCL (online)",
-    "longitude": 0.13,
-    "slug": "2020-07-27-UCL_hpc_carpentry-online",
-    "tag_name": "Circuits,online",
-    "helpers": "Ian Kirker,David Perez-Suarez,Hillary Bunketi",
-    "host_name": "University College London",
-    "latitude": 51.52,
+    "venue": "University of Notre Dame (Online)",
+    "longitude": -86.2353388,
+    "slug": "2020-07-27-BIP-Week",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Notre Dame",
+    "latitude": 41.7055716,
     "start_date": "2020-07-27"
   },
   {
@@ -90,21 +90,6 @@
     "start_date": "2020-07-27"
   },
   {
-    "instructors": "Saber Soleymani,Wendy Wong",
-    "end_date": "2020-07-28",
-    "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "American Society of Naturalists Graduate Council (online)",
-    "longitude": 0,
-    "slug": "2020-07-27-ecr2-online",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Cheyenne Payne,Mariana Villalba,Reilly Cooper,Kevin Amses,Matthew Gibson",
-    "host_name": "University of Arkansas",
-    "latitude": 0,
-    "start_date": "2020-07-27"
-  },
-  {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg",
     "end_date": "2020-07-30",
     "url": "https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/",
@@ -118,21 +103,6 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-07-27"
-  },
-  {
-    "instructors": "Nelly Sélem",
-    "end_date": "2020-07-29",
-    "url": "https://nselem.github.io/2020-07-28-posgraduados-campeche/",
-    "country": "MX",
-    "curriculum": "swc-plotting",
-    "venue": "Colegio de Postgraduados Campus Campeche",
-    "longitude": -90.54,
-    "slug": "2020-07-28-posgraduados-campeche",
-    "tag_name": "automated-email,SWC",
-    "helpers": "Abraham Avelar",
-    "host_name": "Langebio",
-    "latitude": 19.49,
-    "start_date": "2020-07-28"
   },
   {
     "instructors": "Katherine Koziar",
@@ -162,6 +132,21 @@
     "helpers": "Benson Muite",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
+    "start_date": "2020-08-03"
+  },
+  {
+    "instructors": "Donny Winston,Schuyler Smith,Sichong Peng,Rachel Lombardi",
+    "end_date": "2020-08-07",
+    "url": "https://dwinston.github.io/2020-08-03-merck-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Merck & Co., Inc. (online)",
+    "longitude": -74.27373,
+    "slug": "2020-08-03-merck-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Merck & Co., Inc.",
+    "latitude": 40.67858,
     "start_date": "2020-08-03"
   },
   {
@@ -255,6 +240,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2020-08-18",
+    "url": "https://zbmed.github.io/2020-08-17_LC_FU_Berlin/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "FU Berlin (online)",
+    "longitude": null,
+    "slug": "2020-08-17-LC_FU_Berlin",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": null,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Bianca Peterson,Elnaz Amanzadeh Jajin",
     "end_date": "2020-08-21",
     "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
@@ -288,7 +288,7 @@
     "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
     "end_date": "2020-08-19",
     "url": "https://zbmed.github.io/2020-08-18-LC_at_ZB_MED_online/",
-    "country": "FI",
+    "country": "DE",
     "curriculum": "lc",
     "venue": "Library Carpentry @ ZB MED ONLINE",
     "longitude": 6.9142235,
@@ -297,6 +297,21 @@
     "helpers": null,
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Brook Moyers,Saranya Canchi,Eve Bohnett,Rachel Lombardi",
+    "end_date": "2020-08-19",
+    "url": "https://s-canchi.github.io/2020-08-18-USDA/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "USDA (online)",
+    "longitude": 0,
+    "slug": "2020-08-18-USDA",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 0,
     "start_date": "2020-08-18"
   },
   {
@@ -349,7 +364,7 @@
     "end_date": "2020-08-25",
     "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
     "country": "AU",
-    "curriculum": "swc-plotting",
+    "curriculum": "swc-python-gapminder",
     "venue": "Queensland Cyber Infrastructure Foundation",
     "longitude": 153.014713,
     "slug": "2020-08-24-QCIF-Python",
@@ -435,6 +450,21 @@
     "start_date": "2020-09-08"
   },
   {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2020-09-11",
+    "url": "https://zbiw.github.io/2020-09-10-LC_ZBIW_online/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "TH Köln – University of Applied Sciences , Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung (ZBIW) - ONLINE (online)",
+    "longitude": 6.9142235,
+    "slug": "2020-09-10-LC_ZBIW_online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-09-10"
+  },
+  {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
@@ -445,7 +475,7 @@
     "slug": "2020-09-16-delft",
     "tag_name": "automated-email,DC,online",
     "helpers": "Mario Beck",
-    "host_name": "Delft Univeristy of Technology",
+    "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-09-16"
   },
