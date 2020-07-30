@@ -15,6 +15,21 @@
     "start_date": "2020-07-28"
   },
   {
+    "instructors": "Scott Hampton,Matthew Sisk,Don Brower",
+    "end_date": "2020-07-30",
+    "url": "https://ndlib-cds.github.io/BIP-Week/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Notre Dame (Online)",
+    "longitude": -86.2353388,
+    "slug": "2020-07-27-BIP",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Notre Dame",
+    "latitude": 41.7055716,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
     "end_date": "2020-07-28",
     "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
@@ -45,6 +60,21 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "end_date": "2020-07-30",
+    "url": "https://nairps.github.io/2020-07-27-american-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "America University (online)",
+    "longitude": -77.036873,
+    "slug": "2020-07-27-american-online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 38.907192,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Saber Soleymani,Wendy Wong",
     "end_date": "2020-07-28",
     "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
@@ -57,6 +87,21 @@
     "helpers": "Cheyenne Payne,Mariana Villalba,Reilly Cooper,Kevin Amses,Matthew Gibson",
     "host_name": "University of Arkansas",
     "latitude": 0,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg",
+    "end_date": "2020-07-30",
+    "url": "https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-27-ttt-online-SAST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
     "start_date": "2020-07-27"
   },
   {
@@ -270,6 +315,21 @@
     "start_date": "2020-07-08"
   },
   {
+    "instructors": "Neal Davis,Maxim Belkin,David Mussulman,Lena Bohman,Jenna Jordan,Yuanxi Fu",
+    "end_date": "2020-07-30",
+    "url": "https://swc-uiuc.github.io/2020-07-researchpark/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Illinois Research Park",
+    "longitude": -88.24,
+    "slug": "2020-07-01-researchpark",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of Illinois",
+    "latitude": 40.09,
+    "start_date": "2020-07-07"
+  },
+  {
     "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
     "end_date": "2020-07-15",
     "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
@@ -367,7 +427,7 @@
     "curriculum": "swc-python",
     "venue": "Earlham Institute (online)",
     "longitude": 0,
-    "slug": "2020-06-30-earlham-online",
+    "slug": "2020-06-30-earlham",
     "tag_name": "SWC,online",
     "helpers": "Felix Shaw",
     "host_name": "Earlham Institute",
@@ -849,7 +909,7 @@
     "longitude": 0,
     "slug": "2020-06-08-inl-bootcamp",
     "tag_name": "SWC,online,Circuits",
-    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg,Salvador Sastaneda",
+    "helpers": "Amanda Stahlke,Breanna Sipley,Clint Elg,Salvador Sastaneda",
     "host_name": "Boise State University",
     "latitude": 0,
     "start_date": "2020-06-08"
@@ -10211,6 +10271,21 @@
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-29"
+  },
+  {
+    "instructors": "Christina Koch,Sarah Stevens",
+    "end_date": "2019-04-30",
+    "url": "https://uw-madison-datascience.github.io/2019-04-29-ttt-uwmadison/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-29-ttt-uwmadison",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
     "latitude": null,
     "start_date": "2019-04-29"
   },
