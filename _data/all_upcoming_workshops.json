@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "James Kent",
-    "end_date": "2020-07-31",
-    "url": "https://brainhack-uiowa.github.io/uibrainhack/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Iowa Brainhack (Online)",
-    "longitude": -123.393333,
-    "slug": "2020-05-18-ubrainhack",
-    "tag_name": "Circuits,online",
-    "helpers": null,
-    "host_name": "University of Iowa",
-    "latitude": -48.876667,
-    "start_date": "2020-05-18"
-  },
-  {
     "instructors": "Jason Wallace,Hallie Wright,Davis Gimode",
     "end_date": "2020-08-06",
     "url": "https://uga-carpentries.github.io/2020-06-30-UGA-online/",
@@ -39,25 +24,10 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana",
+    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
-  },
-  {
-    "instructors": "Katherine Koziar",
-    "end_date": "2020-07-31",
-    "url": "https://ucrlibrary.github.io/2020-07-31-ucr/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of California, Riverside ONLINE",
-    "longitude": -117.327482,
-    "slug": "2020-07-31-ucr",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "University of California, Riverside",
-    "latitude": 33.972643,
-    "start_date": "2020-07-31"
   },
   {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Sourav Singh,Rooweither Mabuya",
@@ -180,7 +150,7 @@
     "start_date": "2020-08-12"
   },
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How",
+    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",
     "country": "CA",
@@ -358,6 +328,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-08-25"
+  },
+  {
+    "instructors": "Tobin Magle,Rhondene Wint,Preethy Nair,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-27",
+    "url": "https://nairps.github.io/2020-08-26-usda-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-08-26-usda-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-08-26"
   },
   {
     "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",

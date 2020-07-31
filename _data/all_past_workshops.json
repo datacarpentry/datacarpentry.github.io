@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Katherine Koziar",
+    "end_date": "2020-07-31",
+    "url": "https://ucrlibrary.github.io/2020-07-31-ucr/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Riverside ONLINE",
+    "longitude": -117.327482,
+    "slug": "2020-07-31-ucr",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
+    "start_date": "2020-07-31"
+  },
+  {
     "instructors": "Nelly Sélem",
     "end_date": "2020-07-29",
     "url": "https://nselem.github.io/2020-07-28-posgraduados-campeche/",
@@ -9,13 +24,13 @@
     "longitude": -90.54,
     "slug": "2020-07-28-posgraduados-campeche",
     "tag_name": "automated-email,SWC",
-    "helpers": "Abraham Avelar",
+    "helpers": "Abraham Avelar,Aarón Jaime,Vanessa Arellano",
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-07-28"
   },
   {
-    "instructors": "Scott Hampton,Matthew Sisk,Don Brower",
+    "instructors": "Scott Hampton,Chissa Rivaldi,Natalie Meyers,Matthew Sisk,Don Brower,Holly Goodson,Julie Vecchio,Mandy Havert,Parker Ladwig,Joesph Sarro",
     "end_date": "2020-07-30",
     "url": "https://ndlib-cds.github.io/BIP-Week/",
     "country": "US",
@@ -24,7 +39,7 @@
     "longitude": -86.2353388,
     "slug": "2020-07-27-BIP",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Chissa Rivaldi,Julie Vecchio,David Molik,Mark Suhovecky,Mauna Dasari,Daniel Bruzzese,Elizabeth Brooks,Katherine Bailey,Amanda Driscoe",
     "host_name": "University of Notre Dame",
     "latitude": 41.7055716,
     "start_date": "2020-07-27"
@@ -195,7 +210,7 @@
     "start_date": "2020-07-14"
   },
   {
-    "instructors": "Selcan Aydin,Yuanxi Fu",
+    "instructors": "Selcan Aydin,Yuanxi Fu,Amnah Siddiqa",
     "end_date": "2020-07-23",
     "url": "https://smcclatchy.github.io/2020-07-14-r4ds-online/",
     "country": "US",
@@ -204,7 +219,7 @@
     "longitude": -68.196115,
     "slug": "2020-07-14-r4ds-online",
     "tag_name": "SWC,online",
-    "helpers": "Sue McClatchy",
+    "helpers": "Sue McClatchy,Isabela Gerdes Gyuricza",
     "host_name": "Jackson Laboratory",
     "latitude": 44.366032,
     "start_date": "2020-07-14"
@@ -234,7 +249,7 @@
     "longitude": null,
     "slug": "2020-07-13-noaa-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Andrew Jones",
+    "helpers": "Andrew Jones,Brooke Wright",
     "host_name": "National Oceanic and Atmospheric Administration",
     "latitude": null,
     "start_date": "2020-07-13"
@@ -369,7 +384,7 @@
     "longitude": 0,
     "slug": "2020-07-06-Genesis",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Stuart Lewis,Frances Hutchings,Oliie Turner,Rebecca Osselton,Fiona Galston",
     "host_name": "University of Newcastle",
     "latitude": 0,
     "start_date": "2020-07-06"
@@ -624,7 +639,7 @@
     "longitude": -68.196936,
     "slug": "2020-06-22-jax-r-online",
     "tag_name": "online,Circuits",
-    "helpers": "Selcan Aydin,Alexis Garretson",
+    "helpers": "Selcan Aydin,Alexis Garretson,Amnah Siddiqa",
     "host_name": "Jackson Laboratory",
     "latitude": 44.365545,
     "start_date": "2020-06-22"
@@ -1287,6 +1302,21 @@
     "helpers": "Brian Stucky,Kok Ben Toh,Minghao Gong,Audrey Smith,Dave Klinges,Di Yang",
     "host_name": "University of Florida",
     "latitude": 0,
+    "start_date": "2020-05-18"
+  },
+  {
+    "instructors": "James Kent",
+    "end_date": "2020-07-31",
+    "url": "https://brainhack-uiowa.github.io/uibrainhack/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Iowa Brainhack (Online)",
+    "longitude": -123.393333,
+    "slug": "2020-05-18-ubrainhack",
+    "tag_name": "Circuits,online",
+    "helpers": null,
+    "host_name": "University of Iowa",
+    "latitude": -48.876667,
     "start_date": "2020-05-18"
   },
   {
