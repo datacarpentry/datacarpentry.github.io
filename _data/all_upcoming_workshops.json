@@ -300,6 +300,21 @@
     "start_date": "2020-08-23"
   },
   {
+    "instructors": "Juan (Zacharias Jacobus) Steyn",
+    "end_date": "2020-08-24",
+    "url": "https://sadilar.github.io/2020-08-24-ONLINE/",
+    "country": "ZA",
+    "curriculum": "lc",
+    "venue": "SADiLaR",
+    "longitude": 0,
+    "slug": "2020-08-24-ONLINE",
+    "tag_name": "LC,online,Pilot",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-08-24"
+  },
+  {
     "instructors": "Jason Bell,Kasia Koziara,Dag Evensberget",
     "end_date": "2020-08-25",
     "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
@@ -343,6 +358,21 @@
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-09-04",
+    "url": "https://sadilar.github.io/2020-08-31-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-08-31-SA-ONLINE",
+    "tag_name": "DC,online,Pilot",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-08-31"
   },
   {
     "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
@@ -418,6 +448,21 @@
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-09-10"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-09-18",
+    "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-09-14-SA-ONLINE",
+    "tag_name": "DC,Pilot,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-09-14"
   },
   {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
