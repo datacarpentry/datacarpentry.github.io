@@ -300,7 +300,7 @@
     "start_date": "2020-08-23"
   },
   {
-    "instructors": "Juan (Zacharias Jacobus) Steyn",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka",
     "end_date": "2020-08-24",
     "url": "https://sadilar.github.io/2020-08-24-ONLINE/",
     "country": "ZA",
@@ -358,6 +358,21 @@
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
+  },
+  {
+    "instructors": "Sam Hames",
+    "end_date": "2020-08-27",
+    "url": "https://qcif-training.github.io/2020-08-27-QCIF-Git/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "QCIF (online)",
+    "longitude": 153.028383,
+    "slug": "2020-08-27-QCIF-Git",
+    "tag_name": "online,Circuits,SWC",
+    "helpers": "David Green,Betsy Alpert",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.477601,
+    "start_date": "2020-08-27"
   },
   {
     "instructors": null,
