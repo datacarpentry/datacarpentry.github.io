@@ -196,7 +196,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="Repository for introduction to cloud computing for genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/cloud-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for cloud computing for genomics lesson"></a></td>
-    <td>Kevin Buckley, Amanda Charbonneau, Bob Freeman, Darya Vanichkina, Muhammad Zohaib Anwar, Wendy Wong</td>
+    <td>Kevin Buckley, Amanda Charbonneau, Darya Vanichkina, Muhammad Zohaib Anwar, Wendy Wong</td>
   </tr>
 </table>
  
