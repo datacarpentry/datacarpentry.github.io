@@ -152,11 +152,6 @@ about the role of the Curriculum Advisory Committee can be found in the
         <td>National Center for Biotechnology Information (NCBI), USA</td>
     </tr>
     <tr>
-        <td><a href="https://scholar.harvard.edu/bobfreeman/home">Bob Freeman</a></td>
-        <td>Director, Research Technology</td>
-        <td>Harvard University, MA, USA</td>
-    </tr>
-    <tr>
         <td>Jason Williams</td>
         <td>Assistant Director, External Collaborations</td>
         <td>Cold Spring Harbor Laboratory, NY, USA</td>
