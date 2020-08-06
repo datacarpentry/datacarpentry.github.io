@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
+    "end_date": "2020-08-06",
+    "url": "https://qcif-training.github.io/2020-08-05-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-08-05-QCIF-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-08-05"
+  },
+  {
     "instructors": "Katherine Koziar",
     "end_date": "2020-07-31",
     "url": "https://ucrlibrary.github.io/2020-07-31-ucr/",
@@ -432,6 +447,21 @@
     "helpers": "Nick Hamilton,Masami Yamaguchi,Toan Phung,McKenna Buckley,Betsy Alpert",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-06-30"
+  },
+  {
+    "instructors": "Jason Wallace,Hallie Wright,Davis Gimode",
+    "end_date": "2020-08-06",
+    "url": "https://uga-carpentries.github.io/2020-06-30-UGA-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Georgia (online)",
+    "longitude": -83.3773,
+    "slug": "2020-06-30-UGA-online",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Georgia",
+    "latitude": 33.948,
     "start_date": "2020-06-30"
   },
   {
@@ -1213,6 +1243,21 @@
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41,
     "start_date": "2020-05-21"
+  },
+  {
+    "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
+    "end_date": "2020-05-28",
+    "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-01-working-with-data",
+    "tag_name": "Circuits,SWC,DC,LC,online",
+    "helpers": "Glenn Haya",
+    "host_name": "Karolinska Institutet",
+    "latitude": -48.876667,
+    "start_date": "2020-05-20"
   },
   {
     "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",

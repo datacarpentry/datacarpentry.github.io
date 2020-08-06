@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jason Wallace,Hallie Wright,Davis Gimode",
-    "end_date": "2020-08-06",
-    "url": "https://uga-carpentries.github.io/2020-06-30-UGA-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Georgia (online)",
-    "longitude": -83.3773,
-    "slug": "2020-06-30-UGA-online",
-    "tag_name": "online,Circuits",
-    "helpers": null,
-    "host_name": "University of Georgia",
-    "latitude": 33.948,
-    "start_date": "2020-06-30"
-  },
-  {
     "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
     "end_date": "2020-08-14",
     "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
@@ -75,21 +60,6 @@
     "start_date": "2020-08-03"
   },
   {
-    "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
-    "end_date": "2020-08-06",
-    "url": "https://qcif-training.github.io/2020-08-05-QCIF-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-08-05-QCIF-R",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-08-05"
-  },
-  {
     "instructors": "Katherine Koziar",
     "end_date": "2020-08-07",
     "url": "https://ucrlibrary.github.io/2020-08-07-ucr/",
@@ -133,6 +103,21 @@
     "host_name": "California State University Long Beach",
     "latitude": 0,
     "start_date": "2020-08-10"
+  },
+  {
+    "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
+    "end_date": "2020-08-25",
+    "url": "https://paocorrales.github.io/2020-08-11-ttt-online-spanish/",
+    "country": "AR",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-11-ttt-online-spanish",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-11"
   },
   {
     "instructors": "Claudia Engel,Jay Lee,MONAH ABOU ALEZZ,Adrienne Traxler",
@@ -300,7 +285,7 @@
     "start_date": "2020-08-23"
   },
   {
-    "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka,Phathutshedzo Maxwell Ramukhadi",
     "end_date": "2020-08-24",
     "url": "https://sadilar.github.io/2020-08-24-ONLINE/",
     "country": "ZA",
