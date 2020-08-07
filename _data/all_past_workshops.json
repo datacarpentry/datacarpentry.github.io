@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Katherine Koziar",
+    "end_date": "2020-08-07",
+    "url": "https://ucrlibrary.github.io/2020-08-07-ucr/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Riverside ONLINE",
+    "longitude": -117.327482,
+    "slug": "2020-08-07-ucr",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
+    "start_date": "2020-08-07"
+  },
+  {
     "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
     "end_date": "2020-08-06",
     "url": "https://qcif-training.github.io/2020-08-05-QCIF-R/",
@@ -13,6 +28,36 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-08-05"
+  },
+  {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Sourav Singh,Rooweither Mabuya",
+    "end_date": "2020-08-07",
+    "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR",
+    "longitude": -123.39333,
+    "slug": "2020-08-03-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Benson Muite",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-08-03"
+  },
+  {
+    "instructors": "Donny Winston,Schuyler Smith,Sichong Peng,Rachel Lombardi",
+    "end_date": "2020-08-07",
+    "url": "https://dwinston.github.io/2020-08-03-merck-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Merck & Co., Inc. (online)",
+    "longitude": -74.27373,
+    "slug": "2020-08-03-merck-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Merck & Co., Inc.",
+    "latitude": 40.67858,
+    "start_date": "2020-08-03"
   },
   {
     "instructors": "Katherine Koziar",
