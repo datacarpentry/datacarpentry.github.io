@@ -30,21 +30,6 @@
     "start_date": "2020-08-03"
   },
   {
-    "instructors": "Travis Seaborn,James Van Leuven,Breanna Sipley,Amanda Culley",
-    "end_date": "2020-08-10",
-    "url": "https://jtvanleuven.github.io/2020-08-10-CAES/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "UI/BSU/INL/CAES Summer Bootcamp Carpentries (online)",
-    "longitude": -1,
-    "slug": "2020-08-10-CAES",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Kyle Shannon,Mike Henry,Clint Elg",
-    "host_name": "University of Idaho",
-    "latitude": 45,
-    "start_date": "2020-08-10"
-  },
-  {
     "instructors": "Reid Otsuji,Leigh Phan",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
