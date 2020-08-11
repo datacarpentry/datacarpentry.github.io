@@ -30,7 +30,7 @@
     "start_date": "2020-08-03"
   },
   {
-    "instructors": "Reid Otsuji,Leigh Phan",
+    "instructors": "Reid Otsuji,Leigh Phan,Elizabeth McAulay",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
     "country": "US",
@@ -210,6 +210,21 @@
     "start_date": "2020-08-19"
   },
   {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-21",
+    "url": "https://elnazamanzadeh.github.io/2020-08-20-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-08-20-Data-Carpentry-Genomics",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-08-20"
+  },
+  {
     "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
@@ -252,6 +267,21 @@
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Kate Hertweck,Zac Painter",
+    "end_date": "2020-08-27",
+    "url": "https://k8hertweck.github.io/2020-08-24-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-08-24-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
     "start_date": "2020-08-24"
   },
   {
