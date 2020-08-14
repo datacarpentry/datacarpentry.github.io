@@ -15,6 +15,21 @@
     "start_date": "2020-08-13"
   },
   {
+    "instructors": "Claudia Engel,Jay Lee,MONAH ABOU ALEZZ,Adrienne Traxler",
+    "end_date": "2020-08-14",
+    "url": "https://atraxler.github.io/2020-08-12-nccu-SBDH-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "North Carolina Central University (online)",
+    "longitude": -1,
+    "slug": "2020-08-12-nccu-SBDH-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South Big Data Hub",
+    "latitude": 45,
+    "start_date": "2020-08-12"
+  },
+  {
     "instructors": "Travis Seaborn,James Van Leuven,Breanna Sipley,Amanda Culley",
     "end_date": "2020-08-10",
     "url": "https://jtvanleuven.github.io/2020-08-10-CAES/",
@@ -27,6 +42,21 @@
     "helpers": "Kyle Shannon,Mike Henry,Clint Elg",
     "host_name": "University of Idaho",
     "latitude": 45,
+    "start_date": "2020-08-10"
+  },
+  {
+    "instructors": "Reid Otsuji,Leigh Phan,Elizabeth McAulay",
+    "end_date": "2020-08-14",
+    "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "CSU Long Beach (online)",
+    "longitude": 0,
+    "slug": "2020-08-10-SoCal-Online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": "Tim Dennis,Stephanie Labou,Ariel Deardorff",
+    "host_name": "California State University Long Beach",
+    "latitude": 0,
     "start_date": "2020-08-10"
   },
   {
@@ -102,6 +132,21 @@
     "helpers": null,
     "host_name": "Merck & Co., Inc.",
     "latitude": 40.67858,
+    "start_date": "2020-08-03"
+  },
+  {
+    "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Briana Mittleman,Sailendharan Sudakaran,Madison Youngblom,Casey Schacher",
+    "end_date": "2020-08-14",
+    "url": "https://uw-madison-datascience.github.io/2020-08-03-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UW-Madison",
+    "longitude": -89.4146762,
+    "slug": "2020-08-03-uwmadison-dc",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
     "start_date": "2020-08-03"
   },
   {
@@ -223,6 +268,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
+    "end_date": "2020-08-14",
+    "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Kansas (online)",
+    "longitude": -95.238251,
+    "slug": "2020-07-24-ku-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
+    "host_name": "University of Kansas",
+    "latitude": 38.973148,
+    "start_date": "2020-07-24"
   },
   {
     "instructors": "Katherine Koziar",
@@ -4155,7 +4215,7 @@
     "start_date": "2020-01-08"
   },
   {
-    "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
+    "instructors": "Kathy Chung,Deena Yanofsky,Jordan Pedersen,Angel Su,Lise Doucette,Sarah Forbes,Bryan Hong,Mariana Jardim",
     "end_date": "2020-01-09",
     "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
     "country": "CA",
@@ -4164,7 +4224,7 @@
     "longitude": -79.19056,
     "slug": "2020-01-08-utsc",
     "tag_name": "LC",
-    "helpers": "May Chan,Deena Yanofsky,Sarah Forbes",
+    "helpers": "May Chan,Deena Yanofsky,David Kwasny,Sarah Forbes,Krista Stapelfeldt,Julia Borie",
     "host_name": "University of Toronto (Scarborough)",
     "latitude": 43.78725,
     "start_date": "2020-01-08"
