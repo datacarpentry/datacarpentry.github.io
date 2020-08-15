@@ -90,6 +90,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
+    "end_date": "2020-08-25",
+    "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
+    "country": "",
+    "curriculum": "dc-ecology-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-17-edf-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Environmental Defense Fund",
+    "latitude": null,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Rhondene Wint,Akshay Paropkari",
     "end_date": "2020-08-19",
     "url": "https://ucmerced.github.io/2020-08-17-ucmerced/",
@@ -147,6 +162,21 @@
     "helpers": null,
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Sourav Singh,Nick Wong,Aditya Bandla,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-19",
+    "url": "https://methylnick.github.io/2020-08-18-nepal-online/",
+    "country": "",
+    "curriculum": "swc-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-18-nepal-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Tribhuvan University of Nepal",
+    "latitude": null,
     "start_date": "2020-08-18"
   },
   {
