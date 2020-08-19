@@ -1,5 +1,65 @@
 [
   {
+    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
+    "end_date": "2020-08-19",
+    "url": "https://zbmed.github.io/2020-08-18-LC_at_ZB_MED_online/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "Library Carpentry @ ZB MED ONLINE",
+    "longitude": 6.9142235,
+    "slug": "2020-08-18-LC_at_ZB_MED_online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Brook Moyers,Saranya Canchi,Eve Bohnett,Rachel Lombardi",
+    "end_date": "2020-08-19",
+    "url": "https://s-canchi.github.io/2020-08-18-USDA/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "USDA (online)",
+    "longitude": 0,
+    "slug": "2020-08-18-USDA",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 0,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Sourav Singh,Nick Wong,Aditya Bandla,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-19",
+    "url": "https://methylnick.github.io/2020-08-18-nepal-online/",
+    "country": "NP",
+    "curriculum": "swc-r",
+    "venue": "Institute of Agriculture and Animal Science, Tribhuvan University (online)",
+    "longitude": 85.276944,
+    "slug": "2020-08-18-nepal-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Tribhuvan University of Nepal",
+    "latitude": 27.678056,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-08-19",
+    "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": -27.552941,
+    "slug": "2020-08-17-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Konrad Förstner,Till Sauerwein",
     "end_date": "2020-08-18",
     "url": "https://zbmed.github.io/2020-08-17_LC_FU_Berlin/",
@@ -12,6 +72,21 @@
     "helpers": null,
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
+    "start_date": "2020-08-17"
+  },
+  {
+    "instructors": "Rhondene Wint,Akshay Paropkari",
+    "end_date": "2020-08-19",
+    "url": "https://ucmerced.github.io/2020-08-17-ucmerced/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UC Merced (online)",
+    "longitude": -120.4224179,
+    "slug": "2020-08-17-ucmerced",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Derek Devnich",
+    "host_name": "University of California Merced",
+    "latitude": 37.3660652,
     "start_date": "2020-08-17"
   },
   {
@@ -39,7 +114,7 @@
     "longitude": -97.73686,
     "slug": "2020-08-13-utexas",
     "tag_name": "Circuits,online",
-    "helpers": null,
+    "helpers": "Taslima Haque",
     "host_name": "University of Texas (Austin)",
     "latitude": 30.2872,
     "start_date": "2020-08-13"
@@ -54,7 +129,7 @@
     "longitude": -1,
     "slug": "2020-08-12-nccu-SBDH-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Alade Tokuta",
     "host_name": "South Big Data Hub",
     "latitude": 45,
     "start_date": "2020-08-12"
@@ -114,7 +189,7 @@
     "longitude": -117.327482,
     "slug": "2020-08-07-ucr",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Rachel Starry",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2020-08-07"
@@ -174,7 +249,7 @@
     "longitude": -89.4146762,
     "slug": "2020-08-03-uwmadison-dc",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Heather Shimon,Jessica Vera,Andrew Maule",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.076592,
     "start_date": "2020-08-03"
