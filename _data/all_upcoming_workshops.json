@@ -120,36 +120,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Tobias Huste,Fredo Erxleben",
-    "end_date": "2020-08-20",
-    "url": "https://hifis.gitlab.io/2020-08-19-hzdr/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "longitude": 13.95057,
-    "slug": "2020-08-19-hzdr",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "latitude": 51.06284,
-    "start_date": "2020-08-19"
-  },
-  {
-    "instructors": "Maneesha Sane,Kari Jordan,Sarah Brown",
-    "end_date": "2020-08-20",
-    "url": "https://brownsarahm.github.io/2020-08-19-nsbe/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "NSBE 46th Annual Convention",
-    "longitude": -1,
-    "slug": "2020-08-19-nsbe",
-    "tag_name": "Circuits,online",
-    "helpers": null,
-    "host_name": "National Society of Black Engineers",
-    "latitude": 45,
-    "start_date": "2020-08-19"
-  },
-  {
     "instructors": "Monica Thieu,Paul Bloom,Arvind Narayanaswamy",
     "end_date": "2020-09-20",
     "url": "https://arvindnswamy.github.io/2020-08-20-NYC/",
@@ -388,6 +358,21 @@
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-09-10"
+  },
+  {
+    "instructors": "Ben Chiewphasa,Anna Moeller",
+    "end_date": "2020-09-11",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Montana (online)",
+    "longitude": -113.994034,
+    "slug": "2020-09-11-R-ecology-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.872128,
+    "start_date": "2020-09-11"
   },
   {
     "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
