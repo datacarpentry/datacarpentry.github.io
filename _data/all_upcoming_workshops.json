@@ -30,21 +30,6 @@
     "start_date": "2020-08-14"
   },
   {
-    "instructors": "Bianca Peterson,Mmasibidi Setaka,Elnaz Amanzadeh Jajin,Benson Muite",
-    "end_date": "2020-08-21",
-    "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR",
-    "longitude": -123.39333,
-    "slug": "2020-08-17-SA-ONLINE",
-    "tag_name": "automated-email,DC,online",
-    "helpers": null,
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": -48.876667,
-    "start_date": "2020-08-17"
-  },
-  {
     "instructors": "Jon Jablonski,Torin White,Robert Levenson",
     "end_date": "2020-09-01",
     "url": "https://ucsbcarpentry.github.io/2020-08-17-Summer-R/",
@@ -298,6 +283,21 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-08-31"
+  },
+  {
+    "instructors": "Sabry Razick,Charitra Kumar Mishra",
+    "end_date": "2020-09-01",
+    "url": "https://uio-carpentry.github.io/2020-09-01-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-09-01-uio",
+    "tag_name": "Circuits",
+    "helpers": "Bret Stephan Lambert",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2020-09-01"
   },
   {
     "instructors": "Michelle Rodio",

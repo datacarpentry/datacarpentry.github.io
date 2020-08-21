@@ -105,6 +105,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Bianca Peterson,Mmasibidi Setaka,Elnaz Amanzadeh Jajin,Benson Muite",
+    "end_date": "2020-08-21",
+    "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR",
+    "longitude": -123.39333,
+    "slug": "2020-08-17-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Rhondene Wint,Akshay Paropkari",
     "end_date": "2020-08-19",
     "url": "https://ucmerced.github.io/2020-08-17-ucmerced/",
