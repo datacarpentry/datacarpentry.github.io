@@ -270,21 +270,6 @@
     "start_date": "2020-08-03"
   },
   {
-    "instructors": "Donny Winston,Schuyler Smith,Sichong Peng,Rachel Lombardi",
-    "end_date": "2020-08-07",
-    "url": "https://dwinston.github.io/2020-08-03-merck-online/",
-    "country": "US",
-    "curriculum": "dc-ecology-python",
-    "venue": "Merck & Co., Inc. (online)",
-    "longitude": -74.27373,
-    "slug": "2020-08-03-merck-online",
-    "tag_name": "automated-email,DC,online",
-    "helpers": null,
-    "host_name": "Merck & Co., Inc.",
-    "latitude": 40.67858,
-    "start_date": "2020-08-03"
-  },
-  {
     "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Briana Mittleman,Sailendharan Sudakaran,Madison Youngblom,Casey Schacher",
     "end_date": "2020-08-14",
     "url": "https://uw-madison-datascience.github.io/2020-08-03-uwmadison-dc/",
