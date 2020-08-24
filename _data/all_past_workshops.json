@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka,Phathutshedzo Maxwell Ramukhadi",
+    "end_date": "2020-08-24",
+    "url": "https://sadilar.github.io/2020-08-24-ONLINE/",
+    "country": "ZA",
+    "curriculum": "lc",
+    "venue": "SADiLaR",
+    "longitude": 0,
+    "slug": "2020-08-24-ONLINE",
+    "tag_name": "LC,online,automated-email",
+    "helpers": "Sarah Schäfer",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Miklós Koren,Arieda Muço",
+    "end_date": "2020-08-24",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
+    "country": "NL",
+    "curriculum": "dc-economics",
+    "venue": "European Economic Association (Online)",
+    "longitude": 4.4799,
+    "slug": "2020-08-23-eea",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "European Economic Association",
+    "latitude": 51.9176,
+    "start_date": "2020-08-23"
+  },
+  {
     "instructors": "Tobias Huste,Fredo Erxleben",
     "end_date": "2020-08-20",
     "url": "https://hifis.gitlab.io/2020-08-19-hzdr/",
