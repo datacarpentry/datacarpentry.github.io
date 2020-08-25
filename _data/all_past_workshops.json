@@ -15,6 +15,51 @@
     "start_date": "2020-08-24"
   },
   {
+    "instructors": "Jason Bell,Kasia Koziara,Dag Evensberget",
+    "end_date": "2020-08-25",
+    "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-08-24-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Cesar Arias,Michael Weisner,Satwinder Singh,Jonathan Reeve,Paul Bloom,Axinia Radeva",
+    "end_date": "2020-08-25",
+    "url": "https://columbiaswc.github.io/2020-08-24-columbia-python",
+    "country": "",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Columbia University",
+    "longitude": 73.96333,
+    "slug": "2020-08-24-columbia-python",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Wei Yin,Rob Lane,Alan Crosswell,Matthew Harrington,Arvind Narayanaswamy,Abadali Sheikh,Roger Lefort",
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Cesar Arias,Michael Weisner,Satwinder Singh,Jonathan Reeve,Paul Bloom,Axinia Radeva",
+    "end_date": "2020-08-25",
+    "url": "https://columbiaswc.github.io/2020-08-24-columbia-r",
+    "country": "",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Columbia University",
+    "longitude": 73.96333,
+    "slug": "2020-08-24-columbia-r",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Wei Yin,Rob Lane,Alan Crosswell,Matthew Harrington,Arvind Narayanaswamy,Abadali Sheikh,Roger Lefort",
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2020-08-24"
+  },
+  {
     "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
@@ -150,6 +195,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
+    "end_date": "2020-08-25",
+    "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Environmental Defense Fund (online)",
+    "longitude": 0,
+    "slug": "2020-08-17-edf-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Environmental Defense Fund",
+    "latitude": 0,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Rhondene Wint,Akshay Paropkari",
     "end_date": "2020-08-19",
     "url": "https://ucmerced.github.io/2020-08-17-ucmerced/",
@@ -208,6 +268,21 @@
     "host_name": "South Big Data Hub",
     "latitude": 45,
     "start_date": "2020-08-12"
+  },
+  {
+    "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
+    "end_date": "2020-08-25",
+    "url": "https://paocorrales.github.io/2020-08-11-ttt-online-spanish/",
+    "country": "AR",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-11-ttt-online-spanish",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-11"
   },
   {
     "instructors": "Travis Seaborn,James Van Leuven,Breanna Sipley,Amanda Culley",

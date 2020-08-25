@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
-    "end_date": "2020-08-25",
-    "url": "https://paocorrales.github.io/2020-08-11-ttt-online-spanish/",
-    "country": "AR",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-08-11-ttt-online-spanish",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-08-11"
-  },
-  {
     "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",
@@ -42,21 +27,6 @@
     "helpers": "Sharon Solis,Kristi Liu,Torin White,Mireia Valle",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
-    "start_date": "2020-08-17"
-  },
-  {
-    "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
-    "end_date": "2020-08-25",
-    "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Environmental Defense Fund (online)",
-    "longitude": 0,
-    "slug": "2020-08-17-edf-online",
-    "tag_name": "automated-email,DC,online",
-    "helpers": null,
-    "host_name": "Environmental Defense Fund",
-    "latitude": 0,
     "start_date": "2020-08-17"
   },
   {
@@ -120,21 +90,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Jason Bell,Kasia Koziara,Dag Evensberget",
-    "end_date": "2020-08-25",
-    "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
-    "country": "AU",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-08-24-QCIF-Python",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-08-24"
-  },
-  {
     "instructors": "Kate Hertweck,Zac Painter",
     "end_date": "2020-08-27",
     "url": "https://k8hertweck.github.io/2020-08-24-ttt-online-PDT/",
@@ -172,7 +127,7 @@
     "curriculum": "swc-python-gapminder",
     "venue": "United States Department of Agriculture (online)",
     "longitude": -77.03,
-    "slug": "2020-08-26-usda-online",
+    "slug": "2020-08-26-usda-online-1",
     "tag_name": "automated-email,SWC,online",
     "helpers": null,
     "host_name": "United States Deparment of Agriculture",
@@ -300,6 +255,81 @@
     "start_date": "2020-09-02"
   },
   {
+    "instructors": "Sara Mannheimer,Mark Greenwood",
+    "end_date": "2020-11-05",
+    "url": "https://calendar.lib.montana.edu/calendar/workshops/?cid=707&t=d&d=0000-00-00&cal=707&ct=43429&inc=",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Montana State University",
+    "longitude": -111.0546211,
+    "slug": "2020-09-03-montana-state-university",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "Montana State University",
+    "latitude": 45.6673524,
+    "start_date": "2020-09-03"
+  },
+  {
+    "instructors": "Rafi Ullah,Preethy Nair",
+    "end_date": "2020-09-04",
+    "url": "https://nairps.github.io/2020-09-04-rice-online/",
+    "country": "",
+    "curriculum": "swc-python-gapminder",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-04-rice-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Rice University",
+    "latitude": null,
+    "start_date": "2020-09-03"
+  },
+  {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-09-05",
+    "url": "https://betterlabmx.github.io/2020-09-04-betterlab/",
+    "country": "MX",
+    "curriculum": "mix-and-match",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-09-04-betterlab",
+    "tag_name": "automated-email,Circuits",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-09-04"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-09-04",
+    "url": "https://swc-mizzou.github.io/2020-09-04-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri Columbia (online)",
+    "longitude": -92.334068,
+    "slug": "2020-09-04-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.951706,
+    "start_date": "2020-09-04"
+  },
+  {
+    "instructors": "Paloma Marín Arraiza",
+    "end_date": "2020-09-11",
+    "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",
+    "country": "BR",
+    "curriculum": "lc",
+    "venue": "UNESP (online)",
+    "longitude": -49.94512,
+    "slug": "2020-09-04-ppgciunesp",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "Universidade Estadual Paulista",
+    "latitude": -22.21727,
+    "start_date": "2020-09-04"
+  },
+  {
     "instructors": "Stephen Crouch,Aleksandra Nenadic",
     "end_date": "2020-09-09",
     "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
@@ -342,6 +372,21 @@
     "helpers": null,
     "host_name": "University of Montana",
     "latitude": 46.872128,
+    "start_date": "2020-09-11"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-09-18",
+    "url": "https://swc-mizzou.github.io/2020-09-11-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -92.334068,
+    "slug": "2020-09-11-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.951706,
     "start_date": "2020-09-11"
   },
   {
@@ -405,6 +450,21 @@
     "start_date": "2020-09-16"
   },
   {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-09-26",
+    "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",
+    "country": "MX",
+    "curriculum": "mix-and-match",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-09-25-betterlab",
+    "tag_name": "automated-email,Circuits",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-09-25"
+  },
+  {
     "instructors": "Mario Antonioletti,Peter Smyth",
     "end_date": "2020-10-13",
     "url": "https://softwaresaved.github.io/2020-10-13-ssi-online/",
@@ -450,6 +510,21 @@
     "start_date": "2020-10-21"
   },
   {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-10-31",
+    "url": "https://betterlabmx.github.io/2020-10-30-betterlab/",
+    "country": "MX",
+    "curriculum": "mix-and-match",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-10-30-betterlab",
+    "tag_name": "automated-email,Circuits",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-10-30"
+  },
+  {
     "instructors": "Antonia Mey",
     "end_date": "2020-11-11",
     "url": "https://softwaresaved.github.io/2020-11-10-ssi-online/",
@@ -463,5 +538,35 @@
     "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-11-10"
+  },
+  {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-12-15",
+    "url": "https://betterlabmx.github.io/2020-12-14-BetterLab/",
+    "country": "MX",
+    "curriculum": "dc-genomics",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-12-14-BetterLab",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-12-14"
+  },
+  {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2021-01-29",
+    "url": "https://betterlabmx.github.io/2021-01-29-BetterLab/",
+    "country": "MX",
+    "curriculum": "dc-ecology-python",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2021-01-29-BetterLab",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2021-01-29"
   }
 ]
