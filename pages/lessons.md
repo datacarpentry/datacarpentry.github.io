@@ -475,20 +475,20 @@ Neuroscientists rely increasingly on data accessible online and on data science 
         <th>Maintainer(s)</th>
     </tr>
     <tr>
+        <td> Introduction to MRI and BIDS</td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/" target="_blank" class="icon-browser" title="Website for Introduction to MRI and BIDS"></a></td>
+        <td><a href="https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI" target="_blank" class="icon-github" title="Repository for Introduction to MRI and BIDS"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to MRI and BIDS"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/guide/index.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to MRI and BIDS"></a></td>
+        <td>Michael Joseph</td>        
+   </tr>	
+    <tr>
         <td>Introduction to fMRI Analysis in Python</td>
         <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-fMRI/" target="_blank" class="icon-browser" title="Website for Introduction to fMRI Analysis in Python"></a></td>
         <td><a href="https://github.com/carpentries-incubator/SDC-BIDS-fMRI" target="_blank" class="icon-github" title="Repository for Introduction to fMRI Analysis in Python"></a></td>
         <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-fMRI/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to fMRI Analysis in Python"></a></td>
         <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-fMRI/guide/index.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to fMRI Analysis in Python"></a></td>
         <td>Jerrold Jeyachandra</td>        
-  </tr>
-  <tr>
-        <td>Introduction to fMRI Analysis in Python</td>
-        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/" target="_blank" class="icon-browser" title="Website for Introduction to MRI and BIDS"></a></td>
-        <td><a href="https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI" target="_blank" class="icon-github" title="Repository for Introduction to MRI and BIDS"></a></td>
-        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to MRI and BIDS"></a></td>
-        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/guide/index.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to MRI and BIDS"></a></td>
-        <td>Michael Joseph</td>        
   </tr>
   <tr>
         <td>Introduction to dMRI</td>
