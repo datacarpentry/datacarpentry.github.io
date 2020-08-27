@@ -218,7 +218,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td><a href="{{site.dc_github_repo_url}}/genomics-r-intro/" target="_blank" class="icon-github" title="Repository for data analysis of genomics data in R"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/genomics-r-intro/reference.html" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/genomics-r-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R genomics lesson"></a></td>
-    <td>Ahmed Moustafa, Andrea Ortiz, Krzysztof Poterlowicz, Jason Williams, Naupaka Zimmerman, Yuka Takemon, Alexia Cardona</td>
+    <td>Ahmed Moustafa, Krzysztof Poterlowicz, Jason Williams, Naupaka Zimmerman, Yuka Takemon, Alexia Cardona</td>
   </tr>
 </table>
 
