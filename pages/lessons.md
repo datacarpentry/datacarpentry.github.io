@@ -457,6 +457,47 @@ Many groups are piloting different versions of this curriculum. There is not yet
 
 If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-dh)
 
+### <a id="neuroimaging-curriculum"></a> Neuroimaging Curriculum
+
+Neuroscientists rely increasingly on data accessible online and on data science procedures for their investigations. Data science now offers a key set of tools and methods to efficiently analyse, visualize and interpret neuroscience data. This collection of training resources will teach students the fundamentals of data science in their daily work to produce reproducible results. And it will focus in on topics pertaining to several imaging modalities or analytic methodologies. We will take examples in neuroimaging or imaging genetics, and see how to use computational tools, statistical and machine learning techniques, and collaborative and open science methodology to generate results that are statistically solid and computationally reproducible.
+
+
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Site</th>
+        <th>Repository</th>
+        <th>Reference</th>
+        <th>Instructor Notes</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Introduction to fMRI Analysis in Python</td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-fMRI/" target="_blank" class="icon-browser" title="Website for Introduction to fMRI Analysis in Python"></a></td>
+        <td><a href="https://github.com/carpentries-incubator/SDC-BIDS-fMRI" target="_blank" class="icon-github" title="Repository for Introduction to fMRI Analysis in Python"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-fMRI/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to fMRI Analysis in Python"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-fMRI/guide/index.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to fMRI Analysis in Python"></a></td>
+        <td>Jerrold Jeyachandra</td>        
+  </tr>
+  <tr>
+        <td>Introduction to fMRI Analysis in Python</td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/" target="_blank" class="icon-browser" title="Website for Introduction to MRI and BIDS"></a></td>
+        <td><a href="https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI" target="_blank" class="icon-github" title="Repository for Introduction to MRI and BIDS"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to MRI and BIDS"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/guide/index.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to MRI and BIDS"></a></td>
+        <td>Michael Joseph</td>        
+  </tr>
+  <tr>
+        <td>Introduction to dMRI</td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-dMRI/" target="_blank" class="icon-browser" title="Website for Introduction to dMRI"></a></td>
+        <td><a href="https://github.com/carpentries-incubator/SDC-BIDS-dMRI" target="_blank" class="icon-github" title="Repository for Introduction to dMRI"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-dMRI/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to dMRI"></a></td>
+        <td><a href="https://carpentries-incubator.github.io/SDC-BIDS-dMRI/guide/index.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to dMRI"></a></td>
+        <td>Jason Kai</td>        
+  </tr>
+  </table>
 
 ### <a id="other-curriculum"></a>Other curriculum
 
