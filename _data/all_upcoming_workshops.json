@@ -30,21 +30,6 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Christina Koch,Sarah Stevens,Nancy Granda Duarte,Cid Freitag,Steve Wangen",
-    "end_date": "2020-08-26",
-    "url": "https://uw-madison-datascience.github.io/2020-08-17-uwmadison-swc/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "UW-Madison",
-    "longitude": -89.4124875,
-    "slug": "2020-08-17-uwmadison-swc",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Tobin Magle,Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Jennifer Patino,Andrew Maule",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.076592,
-    "start_date": "2020-08-17"
-  },
-  {
     "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
     "end_date": "2020-08-27",
     "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
@@ -197,16 +182,16 @@
   {
     "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
     "end_date": "2020-09-22",
-    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
-    "country": "W3",
+    "url": "https://denubis.github.io/2020-08-31-ttt-online-AEST/",
+    "country": "AU",
     "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
+    "venue": "",
+    "longitude": null,
     "slug": "2020-08-31-ttt-online-AEST",
     "tag_name": "TTT,online",
     "helpers": null,
     "host_name": "Instructor Training",
-    "latitude": -48.876667,
+    "latitude": null,
     "start_date": "2020-08-31"
   },
   {
