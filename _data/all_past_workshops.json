@@ -1,5 +1,65 @@
 [
   {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-28",
+    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-08-27-Data-Carpentry-Genomics",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-08-27"
+  },
+  {
+    "instructors": "Sam Hames",
+    "end_date": "2020-08-27",
+    "url": "https://qcif-training.github.io/2020-08-27-QCIF-Git/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "QCIF (online)",
+    "longitude": 153.028383,
+    "slug": "2020-08-27-QCIF-Git",
+    "tag_name": "online,Circuits,SWC",
+    "helpers": "David Green,Betsy Alpert",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.477601,
+    "start_date": "2020-08-27"
+  },
+  {
+    "instructors": "Tobin Magle,Rhondene Wint,Preethy Nair,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-27",
+    "url": "https://nairps.github.io/2020-08-26-usda-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-08-26-usda-online-1",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-08-26"
+  },
+  {
+    "instructors": "Tim Dennis,Ariel Deardorff",
+    "end_date": "2020-08-28",
+    "url": "https://arieldeardorff.github.io/2020-08-25-ttt-online-PDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-25-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-25"
+  },
+  {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka,Phathutshedzo Maxwell Ramukhadi",
     "end_date": "2020-08-24",
     "url": "https://sadilar.github.io/2020-08-24-ONLINE/",
@@ -60,6 +120,21 @@
     "start_date": "2020-08-24"
   },
   {
+    "instructors": "Kate Hertweck,Zac Painter",
+    "end_date": "2020-08-27",
+    "url": "https://k8hertweck.github.io/2020-08-24-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-08-24-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-08-24"
+  },
+  {
     "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
@@ -73,6 +148,21 @@
     "host_name": "European Economic Association",
     "latitude": 51.9176,
     "start_date": "2020-08-23"
+  },
+  {
+    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
+    "end_date": "2020-08-27",
+    "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Discord",
+    "longitude": -1,
+    "slug": "2020-08-19-Carpentry-Online",
+    "tag_name": "LC,online",
+    "helpers": "John Fink",
+    "host_name": "Brock University",
+    "latitude": 45,
+    "start_date": "2020-08-19"
   },
   {
     "instructors": "Tobias Huste,Fredo Erxleben",
@@ -90,7 +180,7 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Maneesha Sane,Kari Jordan,Sarah Brown",
+    "instructors": "Daniel Chen,Maneesha Sane,Kari Jordan,Sarah Brown",
     "end_date": "2020-08-20",
     "url": "https://brownsarahm.github.io/2020-08-19-nsbe/",
     "country": "US",
@@ -129,7 +219,7 @@
     "longitude": 0,
     "slug": "2020-08-18-USDA",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
     "start_date": "2020-08-18"
@@ -219,7 +309,7 @@
     "longitude": -120.4224179,
     "slug": "2020-08-17-ucmerced",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": "Derek Devnich",
+    "helpers": "Elizabeth Salmon,Tyrome Sweet,Derek Devnich",
     "host_name": "University of California Merced",
     "latitude": 37.3660652,
     "start_date": "2020-08-17"
@@ -534,7 +624,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
+    "helpers": "Mark Holder,Boryana Koseva,Jamene Brooks-Kieffer,Tami Albin,Greg Smith,Elizabeth Everman,Tom Hill,Casey Russell,Matthew Deakyne,Paul Trana,Riley Epperson,Lars Leon",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
