@@ -15,21 +15,6 @@
     "start_date": "2020-08-14"
   },
   {
-    "instructors": "Jon Jablonski,Torin White,Robert Levenson",
-    "end_date": "2020-09-01",
-    "url": "https://ucsbcarpentry.github.io/2020-08-17-Summer-R/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of California, Santa Barbara (online)",
-    "longitude": -1,
-    "slug": "2020-08-17-Summer-R",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Sharon Solis,Kristi Liu,Torin White,Mireia Valle",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 45,
-    "start_date": "2020-08-17"
-  },
-  {
     "instructors": "Ian Lessing,Kristi Liu,Torin White,Sanjeev Kolli",
     "end_date": "2020-09-03",
     "url": "https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/",
@@ -75,21 +60,6 @@
     "start_date": "2020-08-31"
   },
   {
-    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
-    "end_date": "2020-09-01",
-    "url": "https://zbmed.github.io/2020-08-31-SWC_at_ZB_MED_and_deNBI_online/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Software Carpentry @ ZB MED and de.NBI ONLINE",
-    "longitude": 6.9142235,
-    "slug": "2020-08-31-SWC_at_ZB_MED_and_deNBI_online",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.9246399,
-    "start_date": "2020-08-31"
-  },
-  {
     "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
     "end_date": "2020-09-22",
     "url": "https://denubis.github.io/2020-08-31-ttt-online-AEST/",
@@ -103,21 +73,6 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-08-31"
-  },
-  {
-    "instructors": "Sabry Razick,Charitra Kumar Mishra",
-    "end_date": "2020-09-01",
-    "url": "https://uio-carpentry.github.io/2020-09-01-uio/",
-    "country": "NO",
-    "curriculum": "mix-and-match",
-    "venue": "University of Oslo",
-    "longitude": 10.7237,
-    "slug": "2020-09-01-uio",
-    "tag_name": "Circuits",
-    "helpers": "Bret Stephan Lambert",
-    "host_name": "University of Oslo",
-    "latitude": 59.94003,
-    "start_date": "2020-09-01"
   },
   {
     "instructors": "Michelle Rodio",
@@ -162,21 +117,6 @@
     "helpers": null,
     "host_name": "Montana State University",
     "latitude": 45.6673524,
-    "start_date": "2020-09-03"
-  },
-  {
-    "instructors": "Rafi Ullah,Preethy Nair",
-    "end_date": "2020-09-04",
-    "url": "https://nairps.github.io/2020-09-04-rice-online/",
-    "country": "",
-    "curriculum": "swc-python-gapminder",
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-09-04-rice-online",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "Rice University",
-    "latitude": null,
     "start_date": "2020-09-03"
   },
   {
@@ -225,18 +165,33 @@
     "start_date": "2020-09-04"
   },
   {
+    "instructors": "Rafi Ullah,Preethy Nair",
+    "end_date": "2020-09-05",
+    "url": "https://nairps.github.io/2020-09-04-rice-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Rice University (online)",
+    "longitude": -95.401833,
+    "slug": "2020-09-04-rice-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Rice University",
+    "latitude": 29.717394,
+    "start_date": "2020-09-04"
+  },
+  {
     "instructors": "Jay Lee,Ted Laderas,Preethy Nair,Rohit Goswami",
     "end_date": "2020-09-11",
     "url": "https://nairps.github.io/2020-09-08-ggc-SBDH-online/",
     "country": "US",
     "curriculum": "dc-ecology-r",
-    "venue": "",
-    "longitude": null,
+    "venue": "Georgina Gwinnett College (online)",
+    "longitude": -83.95302,
     "slug": "2020-09-08-ggc-SBDH-online",
     "tag_name": "automated-email,DC,online",
     "helpers": null,
     "host_name": "South Big Data Hub",
-    "latitude": null,
+    "latitude": 33.98438,
     "start_date": "2020-09-08"
   },
   {

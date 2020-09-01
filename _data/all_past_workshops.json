@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Sabry Razick,Charitra Kumar Mishra",
+    "end_date": "2020-09-01",
+    "url": "https://uio-carpentry.github.io/2020-09-01-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-09-01-uio",
+    "tag_name": "Circuits",
+    "helpers": "Bret Stephan Lambert",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2020-09-01"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
+    "end_date": "2020-09-01",
+    "url": "https://zbmed.github.io/2020-08-31-SWC_at_ZB_MED_and_deNBI_online/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry @ ZB MED and de.NBI ONLINE",
+    "longitude": 6.9142235,
+    "slug": "2020-08-31-SWC_at_ZB_MED_and_deNBI_online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-08-31"
+  },
+  {
     "instructors": "Elnaz Amanzadeh Jajin",
     "end_date": "2020-08-28",
     "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
@@ -282,6 +312,21 @@
     "helpers": null,
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
+    "start_date": "2020-08-17"
+  },
+  {
+    "instructors": "Jon Jablonski,Torin White,Robert Levenson",
+    "end_date": "2020-09-01",
+    "url": "https://ucsbcarpentry.github.io/2020-08-17-Summer-R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-08-17-Summer-R",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Sharon Solis,Kristi Liu,Torin White,Mireia Valle",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
     "start_date": "2020-08-17"
   },
   {
@@ -1974,7 +2019,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-05-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Serah Anne Kiburu,Sebastian Mosidi",
+    "helpers": "Serah Rono,Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-05-05"
