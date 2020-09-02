@@ -345,6 +345,21 @@
     "start_date": "2020-09-25"
   },
   {
+    "instructors": "Aditya Bandla,Sebastian Mosidi,Benson Muite",
+    "end_date": "2020-10-02",
+    "url": "https://sadilar.github.io/2020-09-28-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR",
+    "longitude": -123.393333,
+    "slug": "2020-09-28-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-09-28"
+  },
+  {
     "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
     "end_date": "2020-10-02",
     "url": "https://rits.github-pages.ucl.ac.uk/2020-09-30_UCL_software_carpentry/",
