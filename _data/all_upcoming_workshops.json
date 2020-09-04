@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
-    "end_date": "2020-09-04",
-    "url": "https://jordanpedersen.github.io/2020-08-14-international/",
-    "country": "CA",
-    "curriculum": "lc",
-    "venue": "International Library Carpentries, sponsored by the University of Toronto (online)",
-    "longitude": -1,
-    "slug": "2020-08-14-international",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of Toronto",
-    "latitude": 45,
-    "start_date": "2020-08-14"
-  },
-  {
-    "instructors": "Ian Lessing,Kristi Liu,Torin White,Sanjeev Kolli",
-    "end_date": "2020-09-03",
-    "url": "https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/",
-    "country": "US",
-    "curriculum": "dc-socsci-python",
-    "venue": "University of California, Santa Barbara (online)",
-    "longitude": -1,
-    "slug": "2020-08-19-Summer-Python",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Sharon Solis,Jon Jablonski,Qiancheng Zhao",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 45,
-    "start_date": "2020-08-19"
-  },
-  {
     "instructors": "Monica Thieu,Paul Bloom,Arvind Narayanaswamy",
     "end_date": "2020-09-20",
     "url": "https://arvindnswamy.github.io/2020-08-20-NYC/",
@@ -45,21 +15,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Samuel Lelièvre,Lactatia Motsuku,Varshita Sher,Jannetta Steyn,Benson Muite",
-    "end_date": "2020-09-04",
-    "url": "https://sadilar.github.io/2020-08-31-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": 0,
-    "slug": "2020-08-31-SA-ONLINE",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Margaret Mars Brisbin,Marissa Griesel",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
-    "start_date": "2020-08-31"
-  },
-  {
     "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
     "end_date": "2020-09-22",
     "url": "https://denubis.github.io/2020-08-31-ttt-online-AEST/",
@@ -73,36 +28,6 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-08-31"
-  },
-  {
-    "instructors": "Michelle Rodio",
-    "end_date": "2020-09-03",
-    "url": "https://mr0dio.github.io/NASALangleyFall2020/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Online via Teams",
-    "longitude": -76.38001,
-    "slug": "2020-09-02-NASALangleyFall2020",
-    "tag_name": "automated-email,Circuits,online",
-    "helpers": "Elizabeth Gregory",
-    "host_name": "NASA (National Aeronautics and Space Administration)",
-    "latitude": 37.08258,
-    "start_date": "2020-09-02"
-  },
-  {
-    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
-    "end_date": "2020-09-03",
-    "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Schusterman Library at OU-Tulsa",
-    "longitude": -95.922974,
-    "slug": "2020-09-02-dc-tulsa",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Oklahoma",
-    "latitude": 36.101354,
-    "start_date": "2020-09-02"
   },
   {
     "instructors": "Sara Mannheimer,Mark Greenwood",
@@ -135,21 +60,6 @@
     "start_date": "2020-09-04"
   },
   {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-09-04",
-    "url": "https://swc-mizzou.github.io/2020-09-04-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri Columbia (online)",
-    "longitude": -92.334068,
-    "slug": "2020-09-04-mizzou",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.951706,
-    "start_date": "2020-09-04"
-  },
-  {
     "instructors": "Paloma Marín Arraiza",
     "end_date": "2020-09-11",
     "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",
@@ -178,6 +88,21 @@
     "host_name": "Rice University",
     "latitude": 29.717394,
     "start_date": "2020-09-04"
+  },
+  {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-09-08",
+    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-09-07-Data-Carpentry-Genomics",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-09-07"
   },
   {
     "instructors": "Jay Lee,Ted Laderas,Preethy Nair,Rohit Goswami",
@@ -222,6 +147,21 @@
     "helpers": null,
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
+    "start_date": "2020-09-10"
+  },
+  {
+    "instructors": "John Simpson,Danielle Quinn",
+    "end_date": "2020-09-11",
+    "url": "https://computecanada.github.io/2020-09-10-ttt-computecanada/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-09-10-ttt-computecanada",
+    "tag_name": "TTT,online",
+    "helpers": "Grace Fishbein",
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
     "start_date": "2020-09-10"
   },
   {
@@ -345,12 +285,12 @@
     "start_date": "2020-09-25"
   },
   {
-    "instructors": "Aditya Bandla,Sebastian Mosidi,Benson Muite",
+    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Sebastian Mosidi,Benson Muite",
     "end_date": "2020-10-02",
     "url": "https://sadilar.github.io/2020-09-28-SA-ONLINE/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR",
+    "venue": "SADiLaR, South Africa",
     "longitude": -123.393333,
     "slug": "2020-09-28-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
