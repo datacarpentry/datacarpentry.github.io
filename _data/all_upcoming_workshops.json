@@ -45,21 +45,6 @@
     "start_date": "2020-09-03"
   },
   {
-    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
-    "end_date": "2020-09-05",
-    "url": "https://betterlabmx.github.io/2020-09-04-betterlab/",
-    "country": "MX",
-    "curriculum": "mix-and-match",
-    "venue": "BetterLab",
-    "longitude": -90,
-    "slug": "2020-09-04-betterlab",
-    "tag_name": "automated-email,Circuits",
-    "helpers": null,
-    "host_name": "Langebio",
-    "latitude": 19,
-    "start_date": "2020-09-04"
-  },
-  {
     "instructors": "Paloma Marín Arraiza",
     "end_date": "2020-09-11",
     "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",
@@ -72,21 +57,6 @@
     "helpers": null,
     "host_name": "Universidade Estadual Paulista",
     "latitude": -22.21727,
-    "start_date": "2020-09-04"
-  },
-  {
-    "instructors": "Rafi Ullah,Preethy Nair",
-    "end_date": "2020-09-05",
-    "url": "https://nairps.github.io/2020-09-04-rice-online/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Rice University (online)",
-    "longitude": -95.401833,
-    "slug": "2020-09-04-rice-online",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "Rice University",
-    "latitude": 29.717394,
     "start_date": "2020-09-04"
   },
   {
