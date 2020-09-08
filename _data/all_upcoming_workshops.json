@@ -240,6 +240,21 @@
     "start_date": "2020-09-16"
   },
   {
+    "instructors": "Joakim Philipson,Thomas Lind,Glenn Haya,Lina Andrén",
+    "end_date": "2020-09-30",
+    "url": "https://linajandren.github.io/2020-09-22-stockholmtrio-online/",
+    "country": "SE",
+    "curriculum": "mix-and-match",
+    "venue": "Stockholm Trio university libraries (online)",
+    "longitude": 18,
+    "slug": "2020-09-22-stockholmtrio-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Rosa Lönneborg",
+    "host_name": "KTH Royal Institute of Technology",
+    "latitude": 59,
+    "start_date": "2020-09-22"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-09-26",
     "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",
