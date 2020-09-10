@@ -460,7 +460,7 @@ If you are interested in following or being involved in development of this curr
 
 ### <a id="neuroimaging-curriculum"></a> Neuroimaging Curriculum
 
-Neuroscientists rely increasingly on data accessible online and on data science procedures for their investigations. Data science now offers a key set of tools and methods to efficiently analyse, visualize and interpret neuroscience data. This collection of training resources will teach students the fundamentals of data science in their daily work to produce reproducible results. And it will focus in on topics pertaining to several imaging modalities or analytic methodologies. We will take examples in neuroimaging or imaging genetics, and see how to use computational tools, statistical and machine learning techniques, and collaborative and open science methodology to generate results that are statistically solid and computationally reproducible.
+Neuroscientists rely increasingly on data accessible online and on data science procedures for their investigations. Data science now offers a key set of tools and methods to efficiently analyse, visualize and interpret neuroscience data. This collection of training resources will teach students the fundamentals of data science in their daily work to produce reproducible results. And it will focus in on topics pertaining to several imaging modalities or analytic methodologies. We will take examples in neuroimaging and see how to use computational tools, statistical and machine learning techniques, and collaborative and open science methodology to generate results that are statistically solid and computationally reproducible.
 
 
 #### Lessons
