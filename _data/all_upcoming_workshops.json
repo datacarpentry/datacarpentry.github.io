@@ -9,7 +9,7 @@
     "longitude": -73.94,
     "slug": "2020-08-20-NYC",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Lei Shi",
+    "helpers": "Lei Shi,Carly Lagrotta,Prabhakar Naik,Ansh Sandhu",
     "host_name": "Columbia University",
     "latitude": 40.73,
     "start_date": "2020-08-19"
@@ -60,18 +60,18 @@
     "start_date": "2020-09-04"
   },
   {
-    "instructors": "Elnaz Amanzadeh Jajin",
-    "end_date": "2020-09-08",
-    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
-    "country": "IR",
-    "curriculum": "dc-genomics",
-    "venue": "University Of Isfahan",
-    "longitude": 51,
-    "slug": "2020-09-07-Data-Carpentry-Genomics",
-    "tag_name": "automated-email,DC,online",
+    "instructors": "Mike Renfro,Ania Jennings",
+    "end_date": "2020-09-11",
+    "url": "https://www.hpc.tntech.edu/workshop-2020-09-07/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tennessee Tech University (online)",
+    "longitude": -85.50589,
+    "slug": "2020-09-07-tntech",
+    "tag_name": "automated-email,SWC,online",
     "helpers": null,
-    "host_name": "University of Isfahan",
-    "latitude": 32,
+    "host_name": "Tennessee Tech University",
+    "latitude": 36.17537,
     "start_date": "2020-09-07"
   },
   {
@@ -87,21 +87,6 @@
     "helpers": null,
     "host_name": "South Big Data Hub",
     "latitude": 33.98438,
-    "start_date": "2020-09-08"
-  },
-  {
-    "instructors": "Stephen Crouch,Aleksandra Nenadic",
-    "end_date": "2020-09-09",
-    "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-09-08-ttt-ssi-online",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
     "start_date": "2020-09-08"
   },
   {
@@ -165,6 +150,21 @@
     "start_date": "2020-09-11"
   },
   {
+    "instructors": "MONAH ABOU ALEZZ,Preethy Nair,Annajiat Alim Rasel,Rayvn Manuel",
+    "end_date": "2020-09-13",
+    "url": "https://nairps.github.io/2020-09-12-stonybrook-online/",
+    "country": "",
+    "curriculum": "swc-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-12-stonybrook-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": null,
+    "start_date": "2020-09-12"
+  },
+  {
     "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
@@ -195,6 +195,21 @@
     "start_date": "2020-09-15"
   },
   {
+    "instructors": "Maneesha Sane,Sher! Hurt",
+    "end_date": "2020-09-16",
+    "url": "https://maneesha.github.io/2020-09-15-ttt-online-EDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-15-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-15"
+  },
+  {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
@@ -213,15 +228,15 @@
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "W3",
+    "country": "NO",
     "curriculum": "dc-socsci-r",
-    "venue": "Internet",
-    "longitude": -123.393333,
+    "venue": "Nord University (online)",
+    "longitude": 0,
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Nord University",
-    "latitude": -48.876667,
+    "latitude": 0,
     "start_date": "2020-09-16"
   },
   {
@@ -255,6 +270,21 @@
     "start_date": "2020-09-22"
   },
   {
+    "instructors": "David Naughton,yectli huerta",
+    "end_date": "2020-09-25",
+    "url": "https://chennesy.github.io/2020-09-24-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -93.2277285,
+    "slug": "2020-09-24-umntc",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Peter Wiringa,Nicholas Dunn",
+    "host_name": "University of Minnesota",
+    "latitude": 44.97399,
+    "start_date": "2020-09-24"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-09-26",
     "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",
@@ -283,6 +313,21 @@
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-09-28"
+  },
+  {
+    "instructors": "Ariel Deardorff,Zac Painter",
+    "end_date": "2020-09-30",
+    "url": "https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-29-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-29"
   },
   {
     "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",

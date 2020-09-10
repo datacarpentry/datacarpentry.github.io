@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Stephen Crouch,Aleksandra Nenadic",
+    "end_date": "2020-09-09",
+    "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-08-ttt-ssi-online",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-08"
+  },
+  {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-09-08",
+    "url": "https://elnazamanzadeh.github.io/2020-09-07-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-09-07-Data-Carpentry-Genomics",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-09-07"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-09-05",
     "url": "https://betterlabmx.github.io/2020-09-04-betterlab/",
@@ -69,7 +99,7 @@
     "longitude": -95.922974,
     "slug": "2020-09-02-dc-tulsa",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Claire Curry,Emrys Moreau,Alyssa Migdalski",
     "host_name": "University of Oklahoma",
     "latitude": 36.101354,
     "start_date": "2020-09-02"
@@ -114,7 +144,7 @@
     "longitude": 6.9142235,
     "slug": "2020-08-31-SWC_at_ZB_MED_and_deNBI_online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Alfred Wutschka",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-08-31"
@@ -144,7 +174,7 @@
     "longitude": -77.03,
     "slug": "2020-08-26-usda-online-1",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Erin Scully,Suzy Stillman,Brian Nadon",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
@@ -213,7 +243,7 @@
     "instructors": "Cesar Arias,Michael Weisner,Satwinder Singh,Jonathan Reeve,Paul Bloom,Axinia Radeva",
     "end_date": "2020-08-25",
     "url": "https://columbiaswc.github.io/2020-08-24-columbia-r",
-    "country": "",
+    "country": "US",
     "curriculum": "swc-reproducible-science",
     "venue": "Columbia University",
     "longitude": 73.96333,
@@ -240,18 +270,18 @@
     "start_date": "2020-08-24"
   },
   {
-    "instructors": "Miklós Koren,Arieda Muço",
+    "instructors": "Erin Becker,Miklós Koren,András Vereckei,Arieda Muço,Olivér Kiss",
     "end_date": "2020-08-24",
-    "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
-    "country": "NL",
+    "url": "https://korenmiklos.github.io/2020-08-23-eea",
+    "country": "HU",
     "curriculum": "dc-economics",
-    "venue": "European Economic Association (Online)",
-    "longitude": 4.4799,
+    "venue": "EEA Data Carpentry Workshop -- online",
+    "longitude": 19.0471349,
     "slug": "2020-08-23-eea",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Pavel Soriano,Rachel Forshaw,Robert Nagy,Benson Muite,Sergio Correia,M Nithin,Xinyu Ma,Charlotte Grace",
     "host_name": "European Economic Association",
-    "latitude": 51.9176,
+    "latitude": 47.5012376,
     "start_date": "2020-08-23"
   },
   {
@@ -294,7 +324,7 @@
     "longitude": 13.95057,
     "slug": "2020-08-19-hzdr",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Lokamani ",
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.06284,
     "start_date": "2020-08-19"
@@ -309,7 +339,7 @@
     "longitude": -1,
     "slug": "2020-08-19-nsbe",
     "tag_name": "Circuits,online",
-    "helpers": null,
+    "helpers": "Pazia Bermudez-Silverman",
     "host_name": "National Society of Black Engineers",
     "latitude": 45,
     "start_date": "2020-08-19"
@@ -339,7 +369,7 @@
     "longitude": 0,
     "slug": "2020-08-18-USDA",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater",
+    "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater,Jennifer Chang",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
     "start_date": "2020-08-18"
@@ -354,7 +384,7 @@
     "longitude": 85.276944,
     "slug": "2020-08-18-nepal-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Kishor Dahal,Subodh Khanal,Roshan Subedi,Rajesh Poudel",
     "host_name": "Tribhuvan University of Nepal",
     "latitude": 27.678056,
     "start_date": "2020-08-18"
@@ -384,7 +414,7 @@
     "longitude": 6.9142235,
     "slug": "2020-08-17-LC_FU_Berlin",
     "tag_name": "automated-email,LC,online",
-    "helpers": null,
+    "helpers": "Lara Schruff",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-08-17"
@@ -429,13 +459,13 @@
     "longitude": 0,
     "slug": "2020-08-17-edf-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Melissa Fabros,Paige Scudder",
     "host_name": "Environmental Defense Fund",
     "latitude": 0,
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Rhondene Wint,Akshay Paropkari",
+    "instructors": "Rhondene Wint,Akshay Paropkari,Andrea Sánchez-Tapia",
     "end_date": "2020-08-19",
     "url": "https://ucmerced.github.io/2020-08-17-ucmerced/",
     "country": "US",
@@ -444,7 +474,7 @@
     "longitude": -120.4224179,
     "slug": "2020-08-17-ucmerced",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": "Elizabeth Salmon,Tyrome Sweet,Derek Devnich",
+    "helpers": "Elizabeth Salmon,Tyrome Sweet,Derek Devnich,Oscar Davalos,Yumary Vasquez",
     "host_name": "University of California Merced",
     "latitude": 37.3660652,
     "start_date": "2020-08-17"
@@ -471,12 +501,12 @@
     "country": "US",
     "curriculum": "swc-python-gapminder",
     "venue": "UW-Madison",
-    "longitude": -89.4124875,
+    "longitude": null,
     "slug": "2020-08-17-uwmadison-swc",
     "tag_name": "automated-email,SWC,online",
     "helpers": "Tobin Magle,Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Jennifer Patino,Andrew Maule",
     "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.076592,
+    "latitude": null,
     "start_date": "2020-08-17"
   },
   {
@@ -519,7 +549,7 @@
     "longitude": -1,
     "slug": "2020-08-12-nccu-SBDH-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Alade Tokuta",
+    "helpers": "Alade Tokuta,Tonny Sangutei",
     "host_name": "South Big Data Hub",
     "latitude": 45,
     "start_date": "2020-08-12"
@@ -555,7 +585,7 @@
     "start_date": "2020-08-10"
   },
   {
-    "instructors": "Reid Otsuji,Leigh Phan,Elizabeth McAulay",
+    "instructors": "Tim Dennis,Reid Otsuji,Leigh Phan,Elizabeth McAulay",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
     "country": "US",
@@ -564,7 +594,7 @@
     "longitude": 0,
     "slug": "2020-08-10-SoCal-Online",
     "tag_name": "automated-email,LC,online",
-    "helpers": "Tim Dennis,Stephanie Labou,Ariel Deardorff",
+    "helpers": "Stephanie Labou,Ariel Deardorff,Jamie Jamison,David Palmquist,Khue Duong",
     "host_name": "California State University Long Beach",
     "latitude": 0,
     "start_date": "2020-08-10"
@@ -774,7 +804,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Mark Holder,Boryana Koseva,Jamene Brooks-Kieffer,Tami Albin,Greg Smith,Elizabeth Everman,Tom Hill,Casey Russell,Matthew Deakyne,Paul Trana,Riley Epperson,Lars Leon",
+    "helpers": "Mark Holder,Boryana Koseva,Jamene Brooks-Kieffer,Tami Albin,Greg Smith,Elizabeth Everman,Tom Hill,Casey Russell,Matthew Deakyne,Paul Trana,Riley Epperson,Lars Leon,Sam Zipper",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
@@ -2319,7 +2349,7 @@
     "longitude": null,
     "slug": "2020-04-22-ttt-online-CEST",
     "tag_name": "TTT,online",
-    "helpers": null,
+    "helpers": "Annika Rockenberger",
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2020-04-22"
