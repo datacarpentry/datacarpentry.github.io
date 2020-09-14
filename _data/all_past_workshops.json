@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "MONAH ABOU ALEZZ,Preethy Nair,Annajiat Alim Rasel,Rayvn Manuel",
+    "end_date": "2020-09-13",
+    "url": "https://nairps.github.io/2020-09-12-stonybrook-online/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Stony Brook University",
+    "longitude": -1,
+    "slug": "2020-09-12-stonybrook-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 45,
+    "start_date": "2020-09-12"
+  },
+  {
     "instructors": "Ben Chiewphasa,Anna Moeller",
     "end_date": "2020-09-11",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",
