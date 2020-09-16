@@ -90,21 +90,6 @@
     "start_date": "2020-09-15"
   },
   {
-    "instructors": "Maneesha Sane,Sher! Hurt",
-    "end_date": "2020-09-16",
-    "url": "https://maneesha.github.io/2020-09-15-ttt-online-EDT/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-09-15-ttt-online-EDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-09-15"
-  },
-  {
     "instructors": "Katie Dejwakh,Ryan Avery,Sean McCartney,Brendan McAndrew,Jessica Fayne,Dan Carver,Callum Wayman,Kenton Ross,Daniel Mangosing,John Dilger,Megan Seeley",
     "end_date": "2020-10-01",
     "url": "https://seanemccartney.github.io/2020-09-16-DEVELOP-CSU/",
@@ -253,6 +238,21 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-09-25"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-10-04",
+    "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Texas at Arlington",
+    "longitude": -97.12368,
+    "slug": "2020-09-26-UTA",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Texas Arlington",
+    "latitude": 32.72814,
+    "start_date": "2020-09-26"
   },
   {
     "instructors": "Aditya Bandla,Annajiat Alim Rasel,Sebastian Mosidi,Benson Muite",
