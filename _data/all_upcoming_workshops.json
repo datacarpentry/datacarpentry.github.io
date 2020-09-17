@@ -150,6 +150,21 @@
     "start_date": "2020-09-16"
   },
   {
+    "instructors": "Konrad Förstner,Thomas Guignard,Till Sauerwein,Martin Czygan,Rabea Müller",
+    "end_date": "2020-10-09",
+    "url": "https://zbmed.github.io/2020-09-21-LC_IG_WBS_online/",
+    "country": "DE",
+    "curriculum": "lc-other",
+    "venue": "IG WBS - Interessengruppe Wissenschaftliche BibliothekarInnen Schweiz - ONLINE (online)",
+    "longitude": null,
+    "slug": "2020-09-21-LC_IG_WBS_online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "IG WBS",
+    "latitude": null,
+    "start_date": "2020-09-21"
+  },
+  {
     "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
     "end_date": "2020-09-24",
     "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
@@ -193,6 +208,21 @@
     "host_name": "KTH Royal Institute of Technology",
     "latitude": 59,
     "start_date": "2020-09-22"
+  },
+  {
+    "instructors": "Erin Becker,Maneesha Sane,Karen Word",
+    "end_date": "2020-09-24",
+    "url": "https://erinbecker.github.io/2020-09-23-ttt-online-PDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-23-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-23"
   },
   {
     "instructors": "Melissa Fabros,Rohit Goswami,Elnaz Amanzadeh Jajin,Yuanxi Fu",
@@ -240,7 +270,7 @@
     "start_date": "2020-09-25"
   },
   {
-    "instructors": null,
+    "instructors": "kristopher row,Farah Shamma,Peace Ossom Williamson",
     "end_date": "2020-10-04",
     "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
     "country": "US",
@@ -249,7 +279,7 @@
     "longitude": -97.12368,
     "slug": "2020-09-26-UTA",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Isaac Williams,Hammad Khan,Fatema Begum Ruma",
     "host_name": "University of Texas Arlington",
     "latitude": 32.72814,
     "start_date": "2020-09-26"
@@ -270,6 +300,21 @@
     "start_date": "2020-09-28"
   },
   {
+    "instructors": "Phillip Doehle,Damith Mahapatabendige",
+    "end_date": "2020-09-29",
+    "url": "https://osu-carpentry.github.io/2020-09-28-okstate",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Oklahoma State University",
+    "longitude": -97.0737222,
+    "slug": "2020-09-28-okstate",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.1270236,
+    "start_date": "2020-09-28"
+  },
+  {
     "instructors": "Ariel Deardorff,Zac Painter",
     "end_date": "2020-09-30",
     "url": "https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT",
@@ -282,6 +327,21 @@
     "helpers": null,
     "host_name": "Instructor Training",
     "latitude": null,
+    "start_date": "2020-09-29"
+  },
+  {
+    "instructors": "Cody Hennesy,David Naughton",
+    "end_date": "2020-09-29",
+    "url": "https://njhdunn.github.io/2020-09-29-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -1,
+    "slug": "2020-09-29-umntc",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Nicholas Dunn,Wanda Marsolek,Shawn Golley",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
     "start_date": "2020-09-29"
   },
   {
@@ -306,13 +366,28 @@
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "NM EPSCoR Supercomputing Challenge (online)",
-    "longitude": null,
+    "longitude": -106.6369374,
     "slug": "2020-10-03-nmcsa-online",
     "tag_name": "automated-email,online,Circuits",
     "helpers": "Jon Wheeler",
     "host_name": "University of New Mexico",
-    "latitude": null,
+    "latitude": 35.072455,
     "start_date": "2020-10-03"
+  },
+  {
+    "instructors": "Peter Wiringa,Nicholas Dunn",
+    "end_date": "2020-10-09",
+    "url": "https://chaochihl.github.io/2020-10-05-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -1,
+    "slug": "2020-10-05-umntc",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Cody Hennesy,David Naughton,Wanda Marsolek",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
+    "start_date": "2020-10-05"
   },
   {
     "instructors": null,
@@ -343,6 +418,21 @@
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
+    "end_date": "2020-10-14",
+    "url": "https://bellsm74.github.io/2020-10-13-monashmalaysia-online/",
+    "country": "MA",
+    "curriculum": "lc",
+    "venue": "Monash University Malaysia (online)",
+    "longitude": -1,
+    "slug": "2020-10-13-monashmalaysia-online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
+    "host_name": "Monash University Malaysia",
+    "latitude": 45,
+    "start_date": "2020-10-13"
   },
   {
     "instructors": "Mario Antonioletti,Peter Smyth",
@@ -433,6 +523,21 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-10-30"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-11-06",
+    "url": "https://nyu-dataservices.github.io/2020-11-05-nyu",
+    "country": "FI",
+    "curriculum": "lc",
+    "venue": "FIXME",
+    "longitude": -1,
+    "slug": "2020-11-05-nyu",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "New York University",
+    "latitude": 45,
+    "start_date": "2020-11-05"
   },
   {
     "instructors": "Antonia Mey",
