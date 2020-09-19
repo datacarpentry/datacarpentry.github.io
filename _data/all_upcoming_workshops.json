@@ -45,36 +45,6 @@
     "start_date": "2020-09-03"
   },
   {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-09-18",
-    "url": "https://swc-mizzou.github.io/2020-09-11-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -92.334068,
-    "slug": "2020-09-11-mizzou",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.951706,
-    "start_date": "2020-09-11"
-  },
-  {
-    "instructors": "Jennifer Shelton,Caroline Ajilogba,Mmasibidi Setaka,Paige Scudder",
-    "end_date": "2020-09-18",
-    "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": 0,
-    "slug": "2020-09-14-SA-ONLINE",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Michael Landi",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
-    "start_date": "2020-09-14"
-  },
-  {
     "instructors": "Renato Alves,Nicolas Dintzner",
     "end_date": "2020-09-23",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-15-eindhoven/",
@@ -120,21 +90,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Marco Chiapello,Lars Kjær",
-    "end_date": "2020-09-18",
-    "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "NO",
-    "curriculum": "dc-socsci-r",
-    "venue": "Nord University (online)",
-    "longitude": 0,
-    "slug": "2020-09-16-nord-online",
-    "tag_name": "DC,online",
-    "helpers": null,
-    "host_name": "Nord University",
-    "latitude": 0,
-    "start_date": "2020-09-16"
-  },
-  {
     "instructors": "Christina Koch,Sarah Stevens,Clare Michaud,Madison Youngblom",
     "end_date": "2020-12-09",
     "url": "https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/",
@@ -162,6 +117,21 @@
     "helpers": null,
     "host_name": "IG WBS",
     "latitude": null,
+    "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Alejandra Gonzalez-Beltran,Emily Lewis",
+    "end_date": "2020-09-22",
+    "url": "https://esl-lewis.github.io/2020-09-21-RAL/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Rutherford Appleton Laboratory, STFC (online)",
+    "longitude": -1,
+    "slug": "2020-09-21-RAL",
+    "tag_name": "online,Circuits",
+    "helpers": "Andrew Lister",
+    "host_name": "Science & Technology Facilities Council",
+    "latitude": 52,
     "start_date": "2020-09-21"
   },
   {
@@ -193,6 +163,21 @@
     "host_name": "Macquarie University",
     "latitude": -33.774858,
     "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Janet Stacey,Christina Straub,Richard Dean,Jing Wang,Shane Sturrock",
+    "end_date": "2020-09-23",
+    "url": "https://esr-nz.github.io/2020-09-22-ESRpython/",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "ESR (online)",
+    "longitude": 174.77623,
+    "slug": "2020-09-22-ESRpython",
+    "tag_name": "Circuits",
+    "helpers": "Bridget Armstrong,Leah ",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -41.286461,
+    "start_date": "2020-09-22"
   },
   {
     "instructors": "Joakim Philipson,Thomas Lind,Glenn Haya,Lina Andrén",
@@ -420,6 +405,21 @@
     "start_date": "2020-10-07"
   },
   {
+    "instructors": "David Yakobovitch,Sichong Peng",
+    "end_date": "2020-10-22",
+    "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196874,
+    "slug": "2020-10-13-jackson-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.365622,
+    "start_date": "2020-10-13"
+  },
+  {
     "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
     "end_date": "2020-10-14",
     "url": "https://bellsm74.github.io/2020-10-13-monashmalaysia-online/",
@@ -540,6 +540,21 @@
     "start_date": "2020-11-05"
   },
   {
+    "instructors": null,
+    "end_date": "2020-11-19",
+    "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2020-11-10-jackson",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2020-11-10"
+  },
+  {
     "instructors": "Antonia Mey",
     "end_date": "2020-11-11",
     "url": "https://softwaresaved.github.io/2020-11-10-ssi-online/",
@@ -568,6 +583,21 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-12-14"
+  },
+  {
+    "instructors": null,
+    "end_date": "2021-01-29",
+    "url": "https://smcclatchy.github.io/2021-01-20-jackson/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2021-01-20-jackson",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2021-01-20"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",

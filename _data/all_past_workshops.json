@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Marco Chiapello,Lars Kjær",
+    "end_date": "2020-09-18",
+    "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
+    "country": "NO",
+    "curriculum": "dc-socsci-r",
+    "venue": "Nord University (online)",
+    "longitude": 0,
+    "slug": "2020-09-16-nord-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "Nord University",
+    "latitude": 0,
+    "start_date": "2020-09-16"
+  },
+  {
     "instructors": "Maneesha Sane,Sher! Hurt",
     "end_date": "2020-09-16",
     "url": "https://maneesha.github.io/2020-09-15-ttt-online-EDT/",
@@ -13,6 +28,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-09-15"
+  },
+  {
+    "instructors": "Jennifer Shelton,Caroline Ajilogba,Mmasibidi Setaka,Paige Scudder",
+    "end_date": "2020-09-18",
+    "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-09-14-SA-ONLINE",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Michael Landi",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-09-14"
   },
   {
     "instructors": "MONAH ABOU ALEZZ,Preethy Nair,Annajiat Alim Rasel,Rayvn Manuel",
@@ -42,6 +72,21 @@
     "helpers": null,
     "host_name": "University of Montana",
     "latitude": 46.872128,
+    "start_date": "2020-09-11"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-09-18",
+    "url": "https://swc-mizzou.github.io/2020-09-11-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -92.334068,
+    "slug": "2020-09-11-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.951706,
     "start_date": "2020-09-11"
   },
   {
@@ -298,6 +343,21 @@
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-08-26",
+    "url": "https://otagocarpentries.github.io/2020-08-25-otago",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "University of Otago",
+    "longitude": 170.512665,
+    "slug": "2020-08-25-otago",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -45.864422,
+    "start_date": "2020-08-25"
   },
   {
     "instructors": "Tim Dennis,Ariel Deardorff",
@@ -913,6 +973,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Anton Angelo",
+    "end_date": "2020-07-24",
+    "url": "https://antonangelo.github.io/2020-OpenRefine-Wellington/",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "Internet New Zealand",
+    "longitude": 174.774781,
+    "slug": "2020-07-24-OpenRefine-Wellington",
+    "tag_name": "Circuits",
+    "helpers": "Jay Gattuso",
+    "host_name": "University of Canterbury",
+    "latitude": -41.286583,
+    "start_date": "2020-07-24"
   },
   {
     "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
