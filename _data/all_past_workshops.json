@@ -525,6 +525,21 @@
     "start_date": "2020-08-19"
   },
   {
+    "instructors": "Monica Thieu,Paul Bloom,Arvind Narayanaswamy",
+    "end_date": "2020-09-20",
+    "url": "https://arvindnswamy.github.io/2020-08-20-NYC/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Columbia University (online)",
+    "longitude": -73.94,
+    "slug": "2020-08-20-NYC",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Lei Shi,Carly Lagrotta,Prabhakar Naik,Ansh Sandhu",
+    "host_name": "Columbia University",
+    "latitude": 40.73,
+    "start_date": "2020-08-19"
+  },
+  {
     "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
     "end_date": "2020-08-19",
     "url": "https://zbmed.github.io/2020-08-18-LC_at_ZB_MED_online/",
