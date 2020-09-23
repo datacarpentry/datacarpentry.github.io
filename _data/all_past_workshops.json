@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Alejandra Gonzalez-Beltran,Emily Lewis",
+    "end_date": "2020-09-22",
+    "url": "https://esl-lewis.github.io/2020-09-21-RAL/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Rutherford Appleton Laboratory, STFC (online)",
+    "longitude": -1,
+    "slug": "2020-09-21-RAL",
+    "tag_name": "online,Circuits",
+    "helpers": "Andrew Lister",
+    "host_name": "Science & Technology Facilities Council",
+    "latitude": 52,
+    "start_date": "2020-09-21"
+  },
+  {
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
@@ -312,6 +327,21 @@
     "helpers": "Alfred Wutschka",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
+    "start_date": "2020-08-31"
+  },
+  {
+    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
+    "end_date": "2020-09-22",
+    "url": "https://denubis.github.io/2020-08-31-ttt-online-AEST/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-31-ttt-online-AEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
     "start_date": "2020-08-31"
   },
   {

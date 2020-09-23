@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
-    "end_date": "2020-09-22",
-    "url": "https://denubis.github.io/2020-08-31-ttt-online-AEST/",
-    "country": "AU",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-08-31-ttt-online-AEST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-08-31"
-  },
-  {
     "instructors": "Sara Mannheimer,Mark Greenwood",
     "end_date": "2020-11-05",
     "url": "https://calendar.lib.montana.edu/calendar/workshops/?cid=707&t=d&d=0000-00-00&cal=707&ct=43429&inc=",
@@ -105,21 +90,6 @@
     "start_date": "2020-09-21"
   },
   {
-    "instructors": "Alejandra Gonzalez-Beltran,Emily Lewis",
-    "end_date": "2020-09-22",
-    "url": "https://esl-lewis.github.io/2020-09-21-RAL/",
-    "country": "GB",
-    "curriculum": "mix-and-match",
-    "venue": "Rutherford Appleton Laboratory, STFC (online)",
-    "longitude": -1,
-    "slug": "2020-09-21-RAL",
-    "tag_name": "online,Circuits",
-    "helpers": "Andrew Lister",
-    "host_name": "Science & Technology Facilities Council",
-    "latitude": 52,
-    "start_date": "2020-09-21"
-  },
-  {
     "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
     "end_date": "2020-09-24",
     "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
@@ -144,7 +114,7 @@
     "longitude": 151.113265,
     "slug": "2020-09-21-intro-to-r",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Paula Andrea Martinez,Vince Polito,Sara King,Hume Winzar,Lucie Semenec,Jon Mifsud,Ly Tong,Alex Southern,Maria Korochkina,Natalie Wall",
     "host_name": "Macquarie University",
     "latitude": -33.774858,
     "start_date": "2020-09-21"
@@ -345,6 +315,36 @@
     "start_date": "2020-10-03"
   },
   {
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
+    "end_date": "2020-10-13",
+    "url": "https://mtthsdzwn.github.io/2020-10-05-nl/",
+    "country": "NL",
+    "curriculum": "lc",
+    "venue": "Online",
+    "longitude": 4.48145,
+    "slug": "2020-10-05-nl",
+    "tag_name": "automated-email,LC,online",
+    "helpers": "Judith Spijk",
+    "host_name": "Leiden",
+    "latitude": 52.15731,
+    "start_date": "2020-10-05"
+  },
+  {
+    "instructors": "Thomas Guignard,Hamid Mokhtarzadeh,David Yakobovitch,Annajiat Alim Rasel",
+    "end_date": "2020-10-08",
+    "url": "https://davidyakobovitch.github.io/2020-10-05-noaa/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "NOAA",
+    "longitude": -1,
+    "slug": "2020-10-05-noaa",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": 45,
+    "start_date": "2020-10-05"
+  },
+  {
     "instructors": "Peter Wiringa,Nicholas Dunn",
     "end_date": "2020-10-09",
     "url": "https://chaochihl.github.io/2020-10-05-umntc/",
@@ -405,6 +405,21 @@
     "start_date": "2020-10-13"
   },
   {
+    "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
+    "end_date": "2020-10-16",
+    "url": "https://yelibrarian.github.io/2020-10-13-mit/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Carpentries @ MIT: Intro to UnixShell/Python/Git (online)",
+    "longitude": -71.090542,
+    "slug": "2020-10-13-mit",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Ye Li,Madeline Wrable,Daniel Sheehan,Christine Malinowski,Phoebe Ayers",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2020-10-13"
+  },
+  {
     "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
     "end_date": "2020-10-14",
     "url": "https://bellsm74.github.io/2020-10-13-monashmalaysia-online/",
@@ -433,6 +448,21 @@
     "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-10-13"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-10-14",
+    "url": "https://qcif-training.github.io/2020-10-14-QCIF-Unix/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.01441,
+    "slug": "2020-10-14-QCIF-Unix",
+    "tag_name": "online,Circuits",
+    "helpers": "David Green,Marlies Hankel",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.50014,
+    "start_date": "2020-10-14"
   },
   {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
@@ -493,6 +523,21 @@
     "host_name": "University of Georgia",
     "latitude": 11,
     "start_date": "2020-10-23"
+  },
+  {
+    "instructors": "Jason Bell,Stéphane Guillou,Dag Evensberget",
+    "end_date": "2020-11-03",
+    "url": "https://qcif-training.github.io/2020-10-26-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.01441,
+    "slug": "2020-10-26-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Masami Yamaguchi,Toan Phung,Mathew Fletcher",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.50014,
+    "start_date": "2020-10-26"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
