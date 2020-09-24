@@ -2,7 +2,7 @@
   {
     "instructors": "Sara Mannheimer,Mark Greenwood",
     "end_date": "2020-11-05",
-    "url": "https://calendar.lib.montana.edu/calendar/workshops/?cid=707&t=d&d=0000-00-00&cal=707&ct=43429&inc=",
+    "url": "https://saramannheimer.github.io/2020-09-03-montana-state-university/",
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "Montana State University",
@@ -13,21 +13,6 @@
     "host_name": "Montana State University",
     "latitude": 45.6673524,
     "start_date": "2020-09-03"
-  },
-  {
-    "instructors": "Renato Alves,Nicolas Dintzner",
-    "end_date": "2020-09-23",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-09-15-eindhoven/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "Eindhoven University of Technology - TU/e (online)",
-    "longitude": 5.48436,
-    "slug": "2020-09-15-eindhoven",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Peder Isager",
-    "host_name": "Delft University of Technology",
-    "latitude": 51.44949,
-    "start_date": "2020-09-15"
   },
   {
     "instructors": "Katie Dejwakh,Ryan Avery,Sean McCartney,Brendan McAndrew,Jessica Fayne,Dan Carver,Callum Wayman,Kenton Ross,Daniel Mangosing,John Dilger,Megan Seeley",
@@ -118,21 +103,6 @@
     "host_name": "Macquarie University",
     "latitude": -33.774858,
     "start_date": "2020-09-21"
-  },
-  {
-    "instructors": "Janet Stacey,Christina Straub,Richard Dean,Jing Wang,Shane Sturrock",
-    "end_date": "2020-09-23",
-    "url": "https://esr-nz.github.io/2020-09-22-ESRpython/",
-    "country": "NZ",
-    "curriculum": "mix-and-match",
-    "venue": "ESR (online)",
-    "longitude": 174.77623,
-    "slug": "2020-09-22-ESRpython",
-    "tag_name": "Circuits",
-    "helpers": "Bridget Armstrong,Leah ",
-    "host_name": "The Institute of Environmental Science and Research",
-    "latitude": -41.286461,
-    "start_date": "2020-09-22"
   },
   {
     "instructors": "Joakim Philipson,Thomas Lind,Glenn Haya,Lina Andrén",
@@ -240,7 +210,7 @@
     "start_date": "2020-09-28"
   },
   {
-    "instructors": "Phillip Doehle,Damith Mahapatabendige",
+    "instructors": "Phillip Doehle,CHARMAL MAHAPATABENDIGE",
     "end_date": "2020-09-29",
     "url": "https://osu-carpentry.github.io/2020-09-28-okstate",
     "country": "US",
@@ -267,6 +237,21 @@
     "helpers": null,
     "host_name": "Instructor Training",
     "latitude": null,
+    "start_date": "2020-09-29"
+  },
+  {
+    "instructors": "Sabry Razick,Marius Bjørnstad",
+    "end_date": "2020-09-29",
+    "url": "https://uio-carpentry.github.io/2020-09-29-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-09-29-uio",
+    "tag_name": "Circuits",
+    "helpers": "Charitra Kumar Mishra",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
     "start_date": "2020-09-29"
   },
   {
@@ -390,7 +375,22 @@
     "start_date": "2020-10-07"
   },
   {
-    "instructors": "David Yakobovitch,Sichong Peng",
+    "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-10-11",
+    "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-10-10-stonybrook-online",
+    "tag_name": "SWC,automated-email,online",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": null,
+    "start_date": "2020-10-10"
+  },
+  {
+    "instructors": "David Yakobovitch,Saranya Canchi,Aditya Bandla,Sichong Peng",
     "end_date": "2020-10-22",
     "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
     "country": "US",
