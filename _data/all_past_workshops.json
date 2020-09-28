@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-09-26",
+    "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",
+    "country": "MX",
+    "curriculum": "mix-and-match",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-09-25-betterlab",
+    "tag_name": "automated-email,Circuits",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-09-25"
+  },
+  {
     "instructors": "Melissa Fabros,Rohit Goswami,Elnaz Amanzadeh Jajin,Yuanxi Fu",
     "end_date": "2020-09-25",
     "url": "https://flatironinstitute.github.io/sciware-swc-2020-09-git/",
