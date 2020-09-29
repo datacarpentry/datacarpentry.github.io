@@ -21,7 +21,7 @@
 - name: GitHub
   url: http://github.com/datacarpentry
   class: icon-github
-  title: Code und mehr...
+  title: "Data Carpentry on GitHub"
 
 #- name: Instagram
 #  url: http://instagram.com/phlowmedia
