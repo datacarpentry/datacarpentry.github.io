@@ -269,7 +269,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td>Data Cleaning with OpenRefine for Social Scientists</td>
     <td><a href="http://www.datacarpentry.org/openrefine-socialsci/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
-    <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference" target="_blank" class="icon-eye" title="Reference for OpenRefine social science lesson"></a></td>
+    <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference/" target="_blank" class="icon-eye" title="Reference for OpenRefine social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for OpenRefine social science lesson"></a></td>
     <td>Geoff LaFlair, Isaac Williams, Sarah Brown</td>
 </tr>
