@@ -9,7 +9,7 @@
     "longitude": -111.0546211,
     "slug": "2020-09-03-montana-state-university",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Greta Linse",
     "host_name": "Montana State University",
     "latitude": 45.6673524,
     "start_date": "2020-09-03"
@@ -90,6 +90,21 @@
     "start_date": "2020-09-22"
   },
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-10-02",
+    "url": "https://swc-mizzou.github.io/2020-09-25-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-09-25-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-09-25"
+  },
+  {
     "instructors": "kristopher row,Farah Shamma,Peace Ossom Williamson",
     "end_date": "2020-10-04",
     "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
@@ -120,23 +135,23 @@
     "start_date": "2020-09-28"
   },
   {
-    "instructors": "Phillip Doehle,CHARMAL MAHAPATABENDIGE",
-    "end_date": "2020-09-29",
-    "url": "https://osu-carpentry.github.io/2020-09-28-okstate",
+    "instructors": "Tim Dennis,Reid Otsuji,Stephanie Labou,Scott Peterson,Jamie Jamison,Kristian Allen,Dave George,Mark Matney,Justin Shaffer,Alexandre Fioravante de Siqueira",
+    "end_date": "2020-10-16",
+    "url": "https://ucla-data-archive.github.io/2020-09-28-ucb-ucla-ucsd/",
     "country": "US",
     "curriculum": "mix-and-match",
-    "venue": "Oklahoma State University",
-    "longitude": -97.0737222,
-    "slug": "2020-09-28-okstate",
+    "venue": "UCSD-UCLA-UC Berkeley",
+    "longitude": -1,
+    "slug": "2020-09-28-ucb-ucla-ucsd",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": "Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones",
-    "host_name": "Oklahoma State University",
-    "latitude": 36.1270236,
+    "helpers": "Tim Dennis,Reid Otsuji,Stephanie Labou,Michael Campos-Quinn,Richard McCosh,Jamie Jamison,Leigh Phan,Geno Sanchez,Dave George,Mark Matney,Alexandre Fioravante de Siqueira",
+    "host_name": "University of California Los Angeles",
+    "latitude": 45,
     "start_date": "2020-09-28"
   },
   {
     "instructors": "Ariel Deardorff,Zac Painter",
-    "end_date": "2020-09-30",
+    "end_date": "2020-10-02",
     "url": "https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT",
     "country": "",
     "curriculum": null,
@@ -147,36 +162,6 @@
     "helpers": null,
     "host_name": "Instructor Training",
     "latitude": null,
-    "start_date": "2020-09-29"
-  },
-  {
-    "instructors": "Sabry Razick,Marius Bjørnstad",
-    "end_date": "2020-09-29",
-    "url": "https://uio-carpentry.github.io/2020-09-29-uio/",
-    "country": "NO",
-    "curriculum": "mix-and-match",
-    "venue": "University of Oslo",
-    "longitude": 10.7237,
-    "slug": "2020-09-29-uio",
-    "tag_name": "Circuits",
-    "helpers": "Charitra Kumar Mishra",
-    "host_name": "University of Oslo",
-    "latitude": 59.94003,
-    "start_date": "2020-09-29"
-  },
-  {
-    "instructors": "Cody Hennesy,David Naughton",
-    "end_date": "2020-09-29",
-    "url": "https://njhdunn.github.io/2020-09-29-umntc/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Minnesota (online)",
-    "longitude": -1,
-    "slug": "2020-09-29-umntc",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Nicholas Dunn,Wanda Marsolek,Shawn Golley",
-    "host_name": "University of Minnesota",
-    "latitude": 45,
     "start_date": "2020-09-29"
   },
   {
@@ -418,6 +403,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-10-14"
+  },
+  {
+    "instructors": "Dafne van Kuppevelt,Carlos Utrilla Guerrero",
+    "end_date": "2020-10-22",
+    "url": "https://escience-academy.github.io/2020-10-19-Data-Carpentry-with-R/",
+    "country": "NL",
+    "curriculum": "dc-socsci-r",
+    "venue": "Netherlands eScience Center (online)",
+    "longitude": -1,
+    "slug": "2020-10-19-Data-Carpentry-with-R",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Mateusz Kuzak",
+    "host_name": "Netherlands eScience Center",
+    "latitude": 45,
+    "start_date": "2020-10-19"
   },
   {
     "instructors": "Holger Dinkel,Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves",

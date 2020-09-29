@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Sabry Razick,Marius Bjørnstad",
+    "end_date": "2020-09-29",
+    "url": "https://uio-carpentry.github.io/2020-09-29-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-09-29-uio",
+    "tag_name": "Circuits",
+    "helpers": "Charitra Kumar Mishra",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2020-09-29"
+  },
+  {
+    "instructors": "Cody Hennesy,David Naughton",
+    "end_date": "2020-09-29",
+    "url": "https://njhdunn.github.io/2020-09-29-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -1,
+    "slug": "2020-09-29-umntc",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Nicholas Dunn,Wanda Marsolek,Shawn Golley",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
+    "start_date": "2020-09-29"
+  },
+  {
+    "instructors": "Phillip Doehle,CHARMAL MAHAPATABENDIGE",
+    "end_date": "2020-09-29",
+    "url": "https://osu-carpentry.github.io/2020-09-28-okstate",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Oklahoma State University",
+    "longitude": -97.0737222,
+    "slug": "2020-09-28-okstate",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.1270236,
+    "start_date": "2020-09-28"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-09-26",
     "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",
@@ -27,6 +72,21 @@
     "helpers": null,
     "host_name": "Flatiron Institute, Simons Foundation",
     "latitude": 40.740555,
+    "start_date": "2020-09-24"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-09-24",
+    "url": "https://swc-mizzou.github.io/2020-09-24-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-09-24-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
     "start_date": "2020-09-24"
   },
   {
@@ -120,7 +180,22 @@
     "start_date": "2020-09-21"
   },
   {
-    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
+    "instructors": "Steven Pryor",
+    "end_date": "2020-09-17",
+    "url": "https://swc-mizzou.github.io/2020-09-17-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri Columbia (online)",
+    "longitude": -92.334068,
+    "slug": "2020-09-17-mizzou",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.951706,
+    "start_date": "2020-09-17"
+  },
+  {
+    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek,Carlos Teijeiro Barjas",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
     "country": "NL",
@@ -129,7 +204,7 @@
     "longitude": 4.37524,
     "slug": "2020-09-16-delft",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Mario Beck",
+    "helpers": "Mario Beck,Wijb Dekker",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-09-16"
@@ -204,7 +279,7 @@
     "longitude": -1,
     "slug": "2020-09-12-stonybrook-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Kayley Abell-Hart,Logan Graham,Daniene Byrne",
     "host_name": "Stony Brook University",
     "latitude": 45,
     "start_date": "2020-09-12"
@@ -219,7 +294,7 @@
     "longitude": -113.994034,
     "slug": "2020-09-11-R-ecology-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Jennifer Helm",
     "host_name": "University of Montana",
     "latitude": 46.872128,
     "start_date": "2020-09-11"
@@ -234,7 +309,7 @@
     "longitude": -92.334068,
     "slug": "2020-09-11-mizzou",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Samniqueka Halsey",
     "host_name": "University of Missouri",
     "latitude": 38.951706,
     "start_date": "2020-09-11"
@@ -339,7 +414,7 @@
     "longitude": -90,
     "slug": "2020-09-04-betterlab",
     "tag_name": "automated-email,Circuits",
-    "helpers": null,
+    "helpers": "Vanessa Arellano,María Citlalli",
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-09-04"
@@ -360,7 +435,7 @@
     "start_date": "2020-09-04"
   },
   {
-    "instructors": "Paloma Marín Arraiza",
+    "instructors": "Paloma Marín Arraiza,Silvana Borsetti Gregorio Vidotti",
     "end_date": "2020-09-11",
     "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",
     "country": "BR",
@@ -369,7 +444,7 @@
     "longitude": -49.94512,
     "slug": "2020-09-04-ppgciunesp",
     "tag_name": "automated-email,LC,online",
-    "helpers": null,
+    "helpers": "Silvana Borsetti Gregorio Vidotti",
     "host_name": "Universidade Estadual Paulista",
     "latitude": -22.21727,
     "start_date": "2020-09-04"
@@ -612,6 +687,21 @@
     "helpers": null,
     "host_name": "Instructor Training",
     "latitude": -48.876667,
+    "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Elizabeth Wickes,Matthew Feickert,Giordon Stark,Henry Schreiner,Karol Krizka,Justin Chiu,Luke Polson,Amber Roepe,Danika MacDonell,Bingxuan Liu,Alex Schuy,Robin Newhouse",
+    "end_date": "2020-08-28",
+    "url": "https://matthewfeickert.github.io/usatlas-computing-bootcamp-2020/",
+    "country": "CH",
+    "curriculum": null,
+    "venue": "(online)",
+    "longitude": -88,
+    "slug": "2020-08-24-usatlas-computing-bootcamp",
+    "tag_name": "SWC,online",
+    "helpers": "Nils Krumnack,Adam Parker,Zachary Marshall,Mark Neubauer",
+    "host_name": "CERN",
+    "latitude": 40,
     "start_date": "2020-08-24"
   },
   {
@@ -8949,7 +9039,7 @@
     "longitude": null,
     "slug": "2019-08-08-LANL",
     "tag_name": "SWC",
-    "helpers": "Chris Malone,Stephen Andrews,Grant David Meadors",
+    "helpers": "Chris Malone,Stephen Andrews,Grant Meadors",
     "host_name": "Los Alamos National Laboratory",
     "latitude": null,
     "start_date": "2019-08-08"
