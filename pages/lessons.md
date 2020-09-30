@@ -30,13 +30,13 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 ## Semester materials
 
-- [Biology semester long curriculum](#biology-semester-long-course)  
+- [Biology semester long curriculum](#biology-semester-long-course)
 *We don't offer these as a course, but they are freely available for reuse and revision.*  For more information on these materials, contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}).
 
 ## Community-Contributed materials
 
 <p>
-The Carpentries also shares <a href="https://carpentries.org/community-lessons/">The Carpentries Community Developed Lessons</a>.  This includes <a href="https://carpentries.org/community-lessons/#the-carpentries-incubator">The Carpentries Incubator</a> (lessons under development and seeking peer review), and <a href="https://carpentries.org/community-lessons/#the-carpentrieslab">The CarpentriesLab</a> (lessons that have been vetted by The Carpentries but are not part of our standard offerings).   
+The Carpentries also shares <a href="https://carpentries.org/community-lessons/">The Carpentries Community Developed Lessons</a>.  This includes <a href="https://carpentries.org/community-lessons/#the-carpentries-incubator">The Carpentries Incubator</a> (lessons under development and seeking peer review), and <a href="https://carpentries.org/community-lessons/#the-carpentrieslab">The CarpentriesLab</a> (lessons that have been vetted by The Carpentries but are not part of our standard offerings).
 </p>
 
 <hr>
@@ -69,7 +69,7 @@ The Ecology workshop can be taught using R or Python as the base language.
   <tr>
     <td>Data Organization in Spreadsheets for Ecologists</td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-browser" title="Website for Spreadsheet Ecology lesson"></a></td>
-    <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Spreadsheet Ecology lesson"></a></td>	
+    <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Spreadsheet Ecology lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Spreadsheet Ecology"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Christie Bahlai, Peter R. Hoyt, Tracy Teal</td>
@@ -105,9 +105,9 @@ The Ecology workshop can be taught using R or Python as the base language.
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Tania Allard, Maxim Belkin</td>
-  </tr>	
-</table>	
-	
+  </tr>
+</table>
+
 #### Lecciones en español
 
 <table class="table table-striped">
@@ -127,16 +127,16 @@ Sitio web para la lección de Python"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/reference.html" target="_blank" class="icon-eye" title="Referencia para la lección de Python"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
     <td>Rayna Harris, Paula Andrea Martinez, Heladia Salgado</td>
-  </tr>		
+  </tr>
 </table>
- 
+
 [La plantilla de taller](https://github.com/carpentries/workshop-template-es) también está disponible en español. Si está interesado en participar con nuestras lecciones, contáctenos en [{{ site.dc_email }}](mailto:{{ site.dc_email }}).
 
 <hr>
 
 ### <a id="genomics-workshop"></a> Genomics Curriculum
 
-The focus of this workshop is on working with genomics data, and data management and analysis for genomics research, including best practices for organization of bioinformatics projects and data, use of 
+The focus of this workshop is on working with genomics data, and data management and analysis for genomics research, including best practices for organization of bioinformatics projects and data, use of
 command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
 cloud computing.
 
@@ -199,8 +199,8 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td>Kevin Buckley, Amanda Charbonneau, Darya Vanichkina, Muhammad Zohaib Anwar, Wendy Wong</td>
   </tr>
 </table>
- 
-#### Lessons in Development 
+
+#### Lessons in Development
 
 <table class="table table-striped">
 <tr>
@@ -226,17 +226,17 @@ Please note that workshop materials for working with Genomics data in R in "alph
 
 ### <a id="social-science-curriculum"></a> Social Science Curriculum
 
-This workshop uses a [tabular interview dataset](http://datacarpentry.org/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites, 
-and the materials assume no prior knowledge about the tools.* We use 
-a single dataset throughout the workshop to model the data management 
+This workshop uses a [tabular interview dataset](http://datacarpentry.org/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites,
+and the materials assume no prior knowledge about the tools.* We use
+a single dataset throughout the workshop to model the data management
 and analysis workflow that a researcher would use.
 
-The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials? 
-We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI) and accompanying [slides](https://docs.google.com/presentation/d/1rR7pLSftBYBnLBmaMWeytfDtcRfwVUWxPYGx30ZJNkc/) available to prepare Instructors to teach these lessons. After watching this video, 
-please contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}) so that we can record your status as an onboarded Instructor. Instructors who 
+The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials?
+We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI) and accompanying [slides](https://docs.google.com/presentation/d/1rR7pLSftBYBnLBmaMWeytfDtcRfwVUWxPYGx30ZJNkc/) available to prepare Instructors to teach these lessons. After watching this video,
+please contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}) so that we can record your status as an onboarded Instructor. Instructors who
 have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Social Sciences workshops.
 
-Please note that workshop materials for working with Social Science data in Python and SQL are under development. 
+Please note that workshop materials for working with Social Science data in Python and SQL are under development.
 
 #### Lessons
 
@@ -284,7 +284,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 
 </table>
 
-#### Lessons in Development 
+#### Lessons in Development
 
 <table class="table table-striped">
 <tr>
@@ -361,7 +361,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to R for Geospatial Data lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to R for Geospatial Data lesson"></a></td>
-        <td>Lachlan Deer, Juan Fung, Luca Di Stasio</td>        
+        <td>Lachlan Deer, Juan Fung, Luca Di Stasio</td>
     </tr>
     <tr>
         <td>Introduction to Geospatial Raster and Vector Data with R</td>
@@ -382,6 +382,9 @@ These materials are in early stages of development, and have not yet been incorp
 offerings. If you are interested in being involved in developing one of these lessons, see the information under each lesson
 description. If you are interested in developing a different curriculum, using The Carpentries lesson templates and pedagogical
 model, see our [Curriculum Development Handbook](https://cdh.carpentries.org) for information about how to get started.
+If you are interested in contributing to the development of Data Carpentry lessons in general,
+visit the [Help Wanted page on the Carpentries website](https://carpentries.org/help-wanted-issues/) to find a list of issues in need of attention.
+
 
 ### <a id="image-processing-curriculum"></a> Image Processing Curriculum
 
@@ -408,7 +411,7 @@ pilots into the lessons and to make the lessons teachable by the broader communi
         <td><a href="{{site.dc_github_repo_url}}/image-processing/" target="_blank" class="icon-github" title="Repository for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/reference.html" target="_blank" class="icon-eye" title="Reference for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td>Mark Meysenberg</td>        
+        <td>Mark Meysenberg</td>
   </tr>
   </table>
 
@@ -434,7 +437,7 @@ at Central European University. These materials are being piloted locally. Devel
         <td><a href="{{site.dc_github_repo_url}}/stata-economics/" target="_blank" class="icon-github" title="Repository for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/stata-economics/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/stata-economics/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Stata for Economics Data Carpentry Lesson"></a></td>
-        <td>Miklós Koren, Arieda Muço, Andras Vereckei</td>        
+        <td>Miklós Koren, Arieda Muço, Andras Vereckei</td>
   </tr>
     <tr>
         <td>Introduction to the Command Line for Economics</td>
@@ -442,7 +445,7 @@ at Central European University. These materials are being piloted locally. Devel
         <td><a href="{{site.dc_github_repo_url}}/shell-economics/" target="_blank" class="icon-github" title="Repository for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/shell-economics/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/shell-economics/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to the Command Line for Economics Data Carpentry Lesson"></a></td>
-        <td>Miklós Koren, Arieda Muço, Andras Vereckei</td>        
+        <td>Miklós Koren, Arieda Muço, Andras Vereckei</td>
   </tr>
   </table>
 
