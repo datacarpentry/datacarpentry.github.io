@@ -7,7 +7,7 @@ This is the repository for the Data Carpentry website: <https://datacarpentry.or
 The website template and theme is from [»Feeling Responsive«](https://github.com/Phlow/feeling-responsive), a flexible theme for Jekyll built on Foundation framework.  
 Developed by [Moritz Sauer](https://github.com/Phlow)
 
-## Setup
+## How to Setup
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
 You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
