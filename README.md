@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/datacarpentry/datacarpentry.github.io.svg?branch=master)](https://travis-ci.org/datacarpentry/datacarpentry.github.io)
 
-## Data Carpentry Website
+## Data Carpentry Website - An Amazing Project 
 
 This is the repository for the Data Carpentry website: <https://datacarpentry.org>.
 
