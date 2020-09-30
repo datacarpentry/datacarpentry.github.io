@@ -135,7 +135,37 @@
     "start_date": "2020-09-22"
   },
   {
-    "instructors": "Alejandra Gonzalez-Beltran,Emily Lewis",
+    "instructors": "Joakim Philipson,Thomas Lind,Glenn Haya,Lina Andrén",
+    "end_date": "2020-09-30",
+    "url": "https://linajandren.github.io/2020-09-22-stockholmtrio-online/",
+    "country": "SE",
+    "curriculum": "mix-and-match",
+    "venue": "Stockholm Trio university libraries (online)",
+    "longitude": 18,
+    "slug": "2020-09-22-stockholmtrio-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Rosa Lönneborg",
+    "host_name": "KTH Royal Institute of Technology",
+    "latitude": 59,
+    "start_date": "2020-09-22"
+  },
+  {
+    "instructors": "Ross Dickson,Oliver Stueker,Mathew Larade",
+    "end_date": "2020-09-30",
+    "url": "https://acenet-arc.github.io/2020-09-21-ACENET_SWC-P/",
+    "country": "CA",
+    "curriculum": "swc-python-gapminder",
+    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and Python",
+    "longitude": null,
+    "slug": "2020-09-21-ACENET_SWC-P",
+    "tag_name": "SWC,online",
+    "helpers": "Grace Fishbein",
+    "host_name": "ACENET",
+    "latitude": null,
+    "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Krishnakumar Gopalakrishnan,Alejandra Gonzalez-Beltran",
     "end_date": "2020-09-22",
     "url": "https://esl-lewis.github.io/2020-09-21-RAL/",
     "country": "GB",
@@ -144,7 +174,7 @@
     "longitude": -1,
     "slug": "2020-09-21-RAL",
     "tag_name": "online,Circuits",
-    "helpers": "Andrew Lister",
+    "helpers": "Emily Lewis,Andrew Lister,Adam Laverack,Stuart Pullinger,Dominic Oram,Cosimo Campo,Patrick Austin",
     "host_name": "Science & Technology Facilities Council",
     "latitude": 52,
     "start_date": "2020-09-21"
@@ -178,6 +208,21 @@
     "host_name": "Macquarie University",
     "latitude": -33.774858,
     "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Mario Antonioletti,Graeme Grimes,Bailey Harrington",
+    "end_date": "2020-09-30",
+    "url": "https://edcarp.github.io/2020-09-17-IGMM-swdc/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "IGMM, University of Edinburgh",
+    "longitude": -3.23,
+    "slug": "2020-09-17-IGMM-swdc",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.96,
+    "start_date": "2020-09-17"
   },
   {
     "instructors": "Steven Pryor",
@@ -37749,7 +37794,7 @@
     "longitude": -79.399387,
     "slug": "2015-02-05-toronto",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amy Brown,Kathy Chung,Brigitte Mueller,Kim Pham",
     "host_name": "University of Toronto",
     "latitude": 43.664928,
     "start_date": "2015-02-05"

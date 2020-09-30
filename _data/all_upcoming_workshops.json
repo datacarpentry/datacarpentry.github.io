@@ -45,21 +45,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Ross Dickson,Oliver Stueker,Mathew Larade",
-    "end_date": "2020-09-30",
-    "url": "https://acenet-arc.github.io/2020-09-21-ACENET_SWC-P/",
-    "country": "CA",
-    "curriculum": "swc-python-gapminder",
-    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and Python",
-    "longitude": null,
-    "slug": "2020-09-21-ACENET_SWC-P",
-    "tag_name": "SWC,online",
-    "helpers": "Grace Fishbein",
-    "host_name": "ACENET",
-    "latitude": null,
-    "start_date": "2020-09-21"
-  },
-  {
     "instructors": "Konrad Förstner,Thomas Guignard,Till Sauerwein,Martin Czygan,Rabea Müller",
     "end_date": "2020-10-09",
     "url": "https://zbmed.github.io/2020-09-21-LC_IG_WBS_online/",
@@ -73,21 +58,6 @@
     "host_name": "IG WBS",
     "latitude": null,
     "start_date": "2020-09-21"
-  },
-  {
-    "instructors": "Joakim Philipson,Thomas Lind,Glenn Haya,Lina Andrén",
-    "end_date": "2020-09-30",
-    "url": "https://linajandren.github.io/2020-09-22-stockholmtrio-online/",
-    "country": "SE",
-    "curriculum": "mix-and-match",
-    "venue": "Stockholm Trio university libraries (online)",
-    "longitude": 18,
-    "slug": "2020-09-22-stockholmtrio-online",
-    "tag_name": "online,Circuits",
-    "helpers": "Rosa Lönneborg",
-    "host_name": "KTH Royal Institute of Technology",
-    "latitude": 59,
-    "start_date": "2020-09-22"
   },
   {
     "instructors": "Samniqueka Halsey,Steven Pryor",
@@ -285,6 +255,21 @@
     "start_date": "2020-10-07"
   },
   {
+    "instructors": null,
+    "end_date": "2020-10-07",
+    "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.72204,
+    "slug": "2020-10-07-uio",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.93824,
+    "start_date": "2020-10-07"
+  },
+  {
     "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
     "end_date": "2020-10-11",
     "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
@@ -360,6 +345,21 @@
     "start_date": "2020-10-13"
   },
   {
+    "instructors": "Lachlan Deer,Preethy Nair,Annajiat Alim Rasel,Sarah Lin",
+    "end_date": "2020-10-14",
+    "url": "https://lachlandeer.github.io/2020-10-13-uwm-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Wisconsin-Milwaukee (online)",
+    "longitude": -1,
+    "slug": "2020-10-13-uwm-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Wisconsin-Milwaukee",
+    "latitude": 45,
+    "start_date": "2020-10-13"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-10-14",
     "url": "https://qcif-training.github.io/2020-10-14-QCIF-Unix/",
@@ -416,6 +416,21 @@
     "tag_name": "automated-email,DC,online",
     "helpers": "Mateusz Kuzak",
     "host_name": "Netherlands eScience Center",
+    "latitude": 45,
+    "start_date": "2020-10-19"
+  },
+  {
+    "instructors": "Lachlan Deer,Annajiat Alim Rasel,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-10-22",
+    "url": "https://lachlandeer.github.io/2020-10-19-american-online-socialscience/",
+    "country": "US",
+    "curriculum": "dc-socsci-python",
+    "venue": "American University (online)",
+    "longitude": -1,
+    "slug": "2020-10-19-american-online-socialscience",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "American University",
     "latitude": 45,
     "start_date": "2020-10-19"
   },
