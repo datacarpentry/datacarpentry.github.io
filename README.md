@@ -2,6 +2,8 @@
 
 ## Data Carpentry Website
 
+Data Carpentry is a lesson program of The Carpentries that develops and provides data skills training to researchers.
+
 This is the repository for the Data Carpentry website: <https://datacarpentry.org>.
 
 The website template and theme is from [»Feeling Responsive«](https://github.com/Phlow/feeling-responsive), a flexible theme for Jekyll built on Foundation framework.  
