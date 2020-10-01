@@ -6,7 +6,7 @@ all : commands
 commands :
 	@grep -E '^##' Makefile | sed -e 's/## //g'
 
-## amy        : update workshop and other data from AMY.
+## amy        : update workshop and update other data from AMY.
 amy :
 	${PY} bin/get-amy.py -u https://amy.carpentries.org/api/v1/ -o _data/amy.yml --tags-any=DC
 
