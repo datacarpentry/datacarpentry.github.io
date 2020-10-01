@@ -1,5 +1,5 @@
 #
-# This config-file is only needed for development. Instead of changing the url
+# This configuration-file is only needed for development. Instead of changing the url
 # everytime you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
 #
