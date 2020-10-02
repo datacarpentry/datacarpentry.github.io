@@ -240,6 +240,21 @@
     "start_date": "2020-09-17"
   },
   {
+    "instructors": "Katie Dejwakh,Ryan Avery,Sean McCartney,Brendan McAndrew,Jessica Fayne,Dan Carver,Callum Wayman,Kenton Ross,Daniel Mangosing,John Dilger,Megan Seeley",
+    "end_date": "2020-10-01",
+    "url": "https://seanemccartney.github.io/2020-09-16-DEVELOP-CSU/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "NASA",
+    "longitude": -76.839594,
+    "slug": "2020-09-16-DEVELOP-CSU",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 38.992541,
+    "start_date": "2020-09-16"
+  },
+  {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek,Carlos Teijeiro Barjas",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",

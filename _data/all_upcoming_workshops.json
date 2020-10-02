@@ -15,21 +15,6 @@
     "start_date": "2020-09-03"
   },
   {
-    "instructors": "Katie Dejwakh,Ryan Avery,Sean McCartney,Brendan McAndrew,Jessica Fayne,Dan Carver,Callum Wayman,Kenton Ross,Daniel Mangosing,John Dilger,Megan Seeley",
-    "end_date": "2020-10-01",
-    "url": "https://seanemccartney.github.io/2020-09-16-DEVELOP-CSU/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "NASA",
-    "longitude": -76.839594,
-    "slug": "2020-09-16-DEVELOP-CSU",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "NASA (National Aeronautics and Space Administration)",
-    "latitude": 38.992541,
-    "start_date": "2020-09-16"
-  },
-  {
     "instructors": "Christina Koch,Sarah Stevens,Clare Michaud,Madison Youngblom",
     "end_date": "2020-12-09",
     "url": "https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/",
@@ -255,7 +240,7 @@
     "start_date": "2020-10-07"
   },
   {
-    "instructors": null,
+    "instructors": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
     "end_date": "2020-10-07",
     "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
     "country": "NO",
@@ -264,7 +249,7 @@
     "longitude": 10.72204,
     "slug": "2020-10-07-uio",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-10-07"
