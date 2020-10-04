@@ -105,6 +105,21 @@
     "start_date": "2020-09-28"
   },
   {
+    "instructors": "kristopher row,Farah Shamma,Peace Ossom Williamson",
+    "end_date": "2020-10-04",
+    "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Texas at Arlington",
+    "longitude": -97.12368,
+    "slug": "2020-09-26-UTA",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Isaac Williams,Hammad Khan,Fatema Begum Ruma",
+    "host_name": "University of Texas Arlington",
+    "latitude": 32.72814,
+    "start_date": "2020-09-26"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-09-26",
     "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",

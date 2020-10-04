@@ -45,21 +45,6 @@
     "start_date": "2020-09-21"
   },
   {
-    "instructors": "kristopher row,Farah Shamma,Peace Ossom Williamson",
-    "end_date": "2020-10-04",
-    "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Texas at Arlington",
-    "longitude": -97.12368,
-    "slug": "2020-09-26-UTA",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Isaac Williams,Hammad Khan,Fatema Begum Ruma",
-    "host_name": "University of Texas Arlington",
-    "latitude": 32.72814,
-    "start_date": "2020-09-26"
-  },
-  {
     "instructors": "Tim Dennis,Reid Otsuji,Stephanie Labou,Scott Peterson,Jamie Jamison,Kristian Allen,Dave George,Mark Matney,Justin Shaffer,Alexandre Fioravante de Siqueira",
     "end_date": "2020-10-16",
     "url": "https://ucla-data-archive.github.io/2020-09-28-ucb-ucla-ucsd/",
