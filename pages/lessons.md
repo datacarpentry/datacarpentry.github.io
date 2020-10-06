@@ -26,7 +26,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Economics curriculum](#economics-curriculum)
 - [Astronomy curriculum](#astronomy-curriculum)
 - [Digital humanities curriculum](#dh-curriculum)
-- [Other curricula](#other-curriculum)
+- [Other curricula](#other-curricula)
 
 ## Semester materials
 
