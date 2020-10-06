@@ -24,7 +24,7 @@
     "longitude": 0,
     "slug": "2020-09-30-UCL",
     "tag_name": "SWC,online",
-    "helpers": "Tuomas Koskela,Aasiyah Rashan,Alessandro Felder,Nisha Lad",
+    "helpers": "Ben Waugh,Edd Edmondson,Matthew Gillman,Tuomas Koskela,Aasiyah Rashan,Alessandro Felder,Emily Lewis,Bailey Harrington,Nisha Lad,Mian Ahmad,Harry Moss,Jamie McGowan,Juan Miguel Carceller Lopez,Artur Sztuc,Matthew Cheng,Flic Anderson",
     "host_name": "University College London",
     "latitude": 51,
     "start_date": "2020-09-30"
@@ -159,7 +159,7 @@
     "longitude": -73.990846,
     "slug": "2020-09-24-flatiron-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Melissa Fabros,Kelle Cruz,Dylan Simon,Elnaz AmanzadehJajin",
     "host_name": "Flatiron Institute, Simons Foundation",
     "latitude": 40.740555,
     "start_date": "2020-09-24"
@@ -270,7 +270,7 @@
     "start_date": "2020-09-21"
   },
   {
-    "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
+    "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez,Jens Wehner",
     "end_date": "2020-09-24",
     "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
     "country": "NL",
@@ -279,7 +279,7 @@
     "longitude": -1,
     "slug": "2020-09-21-SWC-Gapminder",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Dafne van Kuppevelt",
+    "helpers": "Dafne van Kuppevelt,Sven van den Burg",
     "host_name": "Netherlands eScience Center",
     "latitude": 45,
     "start_date": "2020-09-21"
@@ -384,7 +384,7 @@
     "longitude": 5.48436,
     "slug": "2020-09-15-eindhoven",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Peder Isager",
+    "helpers": "Peder Isager,Sil van Lieshout,Bart Aben,Pieter Pauwels,Marjet Elemans,Gerson Chepuck Fernandes,Thom Castermans",
     "host_name": "Delft University of Technology",
     "latitude": 51.44949,
     "start_date": "2020-09-15"
@@ -465,7 +465,7 @@
     "start_date": "2020-09-11"
   },
   {
-    "instructors": "Konrad Förstner,Till Sauerwein",
+    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
     "end_date": "2020-09-11",
     "url": "https://zbiw.github.io/2020-09-10-LC_ZBIW_online/",
     "country": "DE",
@@ -474,7 +474,7 @@
     "longitude": 6.9142235,
     "slug": "2020-09-10-LC_ZBIW_online",
     "tag_name": "automated-email,LC,online",
-    "helpers": null,
+    "helpers": "Julia Cobanoglu,Mia Koch",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-09-10"
@@ -20689,7 +20689,7 @@
     "end_date": "2018-03-15",
     "url": "https://gallingerj.github.io/2018-03-14-SFU-python/",
     "country": "CA",
-    "curriculum": null,
+    "curriculum": "swc-python",
     "venue": "Simon Fraser University",
     "longitude": -122.918721,
     "slug": "2018-03-14-SFU-python",
@@ -37914,7 +37914,7 @@
     "longitude": -79.399387,
     "slug": "2015-02-05-toronto",
     "tag_name": "SWC",
-    "helpers": "Amy Brown,Kathy Chung,Brigitte Mueller,Kim Pham",
+    "helpers": "Amy Brown,Kathy Chung,Brigitte Mueller,Kim Pham,James Iveniuk,Kristina Mitova",
     "host_name": "University of Toronto",
     "latitude": 43.664928,
     "start_date": "2015-02-05"
