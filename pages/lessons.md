@@ -461,7 +461,7 @@ Many groups are piloting different versions of this curriculum. There is not yet
 If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-dh)
 
 
-### <a id="other-curriculum"></a>Other curriculum
+### <a id="other-curricula"></a>Other curricula
 
 If you are interested in developing other lessons, please visit [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/blob/master/README.md).
 
