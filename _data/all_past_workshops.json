@@ -1,5 +1,65 @@
 [
   {
+    "instructors": "Peter Steinbach,Fredo Erxleben",
+    "end_date": "2020-10-08",
+    "url": "https://hifis.gitlab.io/2020-10-07-hzdr/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "longitude": 13.95057,
+    "slug": "2020-10-07-hzdr",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Christian Hüser",
+    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "latitude": 51.06284,
+    "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
+    "end_date": "2020-10-07",
+    "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.72204,
+    "slug": "2020-10-07-uio",
+    "tag_name": "Circuits",
+    "helpers": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
+    "host_name": "University of Oslo",
+    "latitude": 59.93824,
+    "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Thomas Guignard,Hamid Mokhtarzadeh,David Yakobovitch,Annajiat Alim Rasel",
+    "end_date": "2020-10-08",
+    "url": "https://davidyakobovitch.github.io/2020-10-05-noaa/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "NOAA",
+    "longitude": -1,
+    "slug": "2020-10-05-noaa",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": 45,
+    "start_date": "2020-10-05"
+  },
+  {
+    "instructors": "Bryna Hazelton,Chad Curtis,Jacob Deppen,Noah Benson",
+    "end_date": "2020-10-08",
+    "url": "https://uwescience.github.io/2020-10-05-uw-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Washington (online)",
+    "longitude": -122.332071,
+    "slug": "2020-10-05-uw-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Emilia Gan,Bernease Herman,Rob Fatland,Noah Benson",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
+    "start_date": "2020-10-05"
+  },
+  {
     "instructors": "Karl Benedict,Mark Servilla",
     "end_date": "2020-10-03",
     "url": "https://nmcarpentries.github.io/2020-10-03-nmcsa-online/",
@@ -159,7 +219,7 @@
     "longitude": -73.990846,
     "slug": "2020-09-24-flatiron-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Melissa Fabros,Kelle Cruz,Dylan Simon,Elnaz AmanzadehJajin",
+    "helpers": "Melissa Fabros,Kelle Cruz,Dylan Simon",
     "host_name": "Flatiron Institute, Simons Foundation",
     "latitude": 40.740555,
     "start_date": "2020-09-24"
@@ -732,6 +792,21 @@
     "helpers": "Erin Scully,Suzy Stillman,Brian Nadon",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
+    "start_date": "2020-08-26"
+  },
+  {
+    "instructors": "Andre Geldenhuis,Wes Harrell,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2020-08-27",
+    "url": "https://genomicsaotearoa.github.io/2020-08-26-wellington/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Online",
+    "longitude": 174.737,
+    "slug": "2020-08-26-wellington",
+    "tag_name": "DC",
+    "helpers": "Matt Plummer,Leticia Castro,Tina Sehrish,John Henry",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -41.284901,
     "start_date": "2020-08-26"
   },
   {
@@ -3195,7 +3270,7 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Jonathan Guyer,Dilip Banerjee,Arlin Stoltzfus,Zachary Trautt,Justin Senseney,Trevor Keller,Joshua Taillon",
+    "instructors": "Jonathan Guyer,Dilip Banerjee,Arlin Stoltzfus,Zachary Trautt,Justin Senseney,Trevor Keller,Josh Taillon",
     "end_date": "2020-04-11",
     "url": "https://pages.nist.gov/2020-04-10-nist-git/",
     "country": "US",
@@ -3210,7 +3285,7 @@
     "start_date": "2020-04-10"
   },
   {
-    "instructors": "Jonathan Guyer,Daniel Wheeler,Dilip Banerjee,William Krekelberg,Chandler Becker,Zachary Trautt,Justin Senseney,Trevor Keller,Joshua Taillon",
+    "instructors": "Jonathan Guyer,Daniel Wheeler,Dilip Banerjee,William Krekelberg,Chandler Becker,Zachary Trautt,Justin Senseney,Trevor Keller,Josh Taillon",
     "end_date": "2020-04-11",
     "url": "https://pages.nist.gov/2020-04-10-nist-python",
     "country": "US",
@@ -3240,7 +3315,7 @@
     "start_date": "2020-04-10"
   },
   {
-    "instructors": "Daniel Wheeler,Zachary Trautt,Justin Senseney,Trevor Keller,Joshua Taillon,Regina Avila",
+    "instructors": "Daniel Wheeler,Zachary Trautt,Justin Senseney,Trevor Keller,Josh Taillon,Regina Avila",
     "end_date": "2020-04-11",
     "url": "https://pages.nist.gov/2020-04-10-nist-shell",
     "country": "US",
@@ -3255,7 +3330,7 @@
     "start_date": "2020-04-10"
   },
   {
-    "instructors": "Daniel Wheeler,Dilip Banerjee,Chandler Becker,Gretchen Greene,Joshua Taillon",
+    "instructors": "Daniel Wheeler,Dilip Banerjee,Chandler Becker,Gretchen Greene,Josh Taillon",
     "end_date": "2020-04-11",
     "url": "https://pages.nist.gov/2020-04-10-nist-sql",
     "country": "US",
@@ -19635,7 +19710,7 @@
     "start_date": "2018-05-08"
   },
   {
-    "instructors": "Alistair Walsh,Belinda Weaver,Nicholas Tierney",
+    "instructors": "Alistair Walsh,Belinda Weaver",
     "end_date": "2018-05-08",
     "url": "https://weaverbel.github.io/2018-05-07-monash/",
     "country": "AU",

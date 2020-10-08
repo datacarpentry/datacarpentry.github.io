@@ -75,21 +75,6 @@
     "start_date": "2020-10-05"
   },
   {
-    "instructors": "Thomas Guignard,Hamid Mokhtarzadeh,David Yakobovitch,Annajiat Alim Rasel",
-    "end_date": "2020-10-08",
-    "url": "https://davidyakobovitch.github.io/2020-10-05-noaa/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "NOAA",
-    "longitude": -1,
-    "slug": "2020-10-05-noaa",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": null,
-    "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": 45,
-    "start_date": "2020-10-05"
-  },
-  {
     "instructors": "Peter Wiringa,Nicholas Dunn",
     "end_date": "2020-10-09",
     "url": "https://chaochihl.github.io/2020-10-05-umntc/",
@@ -102,21 +87,6 @@
     "helpers": "Cody Hennesy,David Naughton,Wanda Marsolek",
     "host_name": "University of Minnesota",
     "latitude": 45,
-    "start_date": "2020-10-05"
-  },
-  {
-    "instructors": "Bryna Hazelton,Chad Curtis,Jacob Deppen,Noah Benson",
-    "end_date": "2020-10-08",
-    "url": "https://uwescience.github.io/2020-10-05-uw-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Washington (online)",
-    "longitude": -122.332071,
-    "slug": "2020-10-05-uw-online",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Emilia Gan,Bernease Herman,Rob Fatland,Noah Benson",
-    "host_name": "University of Washington",
-    "latitude": 47.606209,
     "start_date": "2020-10-05"
   },
   {
@@ -165,36 +135,6 @@
     "start_date": "2020-10-07"
   },
   {
-    "instructors": "Peter Steinbach,Fredo Erxleben",
-    "end_date": "2020-10-08",
-    "url": "https://hifis.gitlab.io/2020-10-07-hzdr/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "longitude": 13.95057,
-    "slug": "2020-10-07-hzdr",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Christian Hüser",
-    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "latitude": 51.06284,
-    "start_date": "2020-10-07"
-  },
-  {
-    "instructors": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
-    "end_date": "2020-10-07",
-    "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
-    "country": "NO",
-    "curriculum": "mix-and-match",
-    "venue": "University of Oslo",
-    "longitude": 10.72204,
-    "slug": "2020-10-07-uio",
-    "tag_name": "Circuits",
-    "helpers": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
-    "host_name": "University of Oslo",
-    "latitude": 59.93824,
-    "start_date": "2020-10-07"
-  },
-  {
     "instructors": "Nicolas Frazee,Vivian Guetler",
     "end_date": "2020-10-29",
     "url": "http://ncf0003.github.io/2020-10-08-wvu",
@@ -221,6 +161,21 @@
     "tag_name": "automated-email,online,Circuits",
     "helpers": "Ian Lessing,Kristi Liu",
     "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-10-09"
+  },
+  {
+    "instructors": "Denice Adkins",
+    "end_date": "2020-10-09",
+    "url": "https://swc-mizzou.github.io/2020-10-09-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-10-09-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Steven Pryor",
+    "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-10-09"
   },
@@ -383,11 +338,26 @@
     "venue": "University of Melbourne",
     "longitude": 144.959645,
     "slug": "2020-10-15-SCIPUniMelb-online",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,online",
     "helpers": "Trent Ryan",
     "host_name": "University of Melbourne",
     "latitude": -37.79664,
     "start_date": "2020-10-15"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-10-16",
+    "url": "https://swc-mizzou.github.io/2020-10-16-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-10-16-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-10-16"
   },
   {
     "instructors": "Dafne van Kuppevelt,Carlos Utrilla Guerrero",
@@ -435,6 +405,21 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": "Christina Koch,Sarah Stevens",
+    "end_date": "2020-10-20",
+    "url": "https://sarahlrstevens.info/2020-10-19-ttt-online-CDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-10-19-ttt-online-CDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Jeff Dusenberry",
     "end_date": "2020-10-20",
     "url": "https://jdusenberry.github.io/2020-10-19-umassboston/",
@@ -463,6 +448,21 @@
     "host_name": "Nord University",
     "latitude": -48.876667,
     "start_date": "2020-10-21"
+  },
+  {
+    "instructors": "Kelly Meehan",
+    "end_date": "2020-10-29",
+    "url": "https://eniac-6.github.io/2020-10-22-usbr/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "USBR LCR (online)",
+    "longitude": -114.843043,
+    "slug": "2020-10-22-usbr",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Bureau of Reclamation",
+    "latitude": 35.978197,
+    "start_date": "2020-10-22"
   },
   {
     "instructors": "Tito Peña Montenegro",
@@ -555,6 +555,21 @@
     "start_date": "2020-11-05"
   },
   {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-11-06",
+    "url": "https://swc-mizzou.github.io/2020-11-06-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-11-06-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-11-06"
+  },
+  {
     "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
     "end_date": "2020-11-19",
     "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
@@ -598,6 +613,21 @@
     "host_name": "University of Minnesota",
     "latitude": 0,
     "start_date": "2020-11-12"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-11-20",
+    "url": "https://swc-mizzou.github.io/2020-11-13-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-11-13-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-11-13"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
