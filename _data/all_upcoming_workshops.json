@@ -30,21 +30,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Konrad Förstner,Thomas Guignard,Till Sauerwein,Martin Czygan,Rabea Müller",
-    "end_date": "2020-10-09",
-    "url": "https://zbmed.github.io/2020-09-21-LC_IG_WBS_online/",
-    "country": "DE",
-    "curriculum": "lc-other",
-    "venue": "IG WBS - Interessengruppe Wissenschaftliche BibliothekarInnen Schweiz - ONLINE (online)",
-    "longitude": null,
-    "slug": "2020-09-21-LC_IG_WBS_online",
-    "tag_name": "automated-email,LC,online",
-    "helpers": null,
-    "host_name": "IG WBS",
-    "latitude": null,
-    "start_date": "2020-09-21"
-  },
-  {
     "instructors": "Tim Dennis,Reid Otsuji,Stephanie Labou,Scott Peterson,Jamie Jamison,Kristian Allen,Dave George,Mark Matney,Justin Shaffer,Alexandre Fioravante de Siqueira",
     "end_date": "2020-10-16",
     "url": "https://ucla-data-archive.github.io/2020-09-28-ucb-ucla-ucsd/",
@@ -72,21 +57,6 @@
     "helpers": "Judith Spijk",
     "host_name": "Leiden",
     "latitude": 52.15731,
-    "start_date": "2020-10-05"
-  },
-  {
-    "instructors": "Peter Wiringa,Nicholas Dunn",
-    "end_date": "2020-10-09",
-    "url": "https://chaochihl.github.io/2020-10-05-umntc/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Minnesota (online)",
-    "longitude": -1,
-    "slug": "2020-10-05-umntc",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Cody Hennesy,David Naughton,Wanda Marsolek",
-    "host_name": "University of Minnesota",
-    "latitude": 45,
     "start_date": "2020-10-05"
   },
   {
@@ -161,21 +131,6 @@
     "tag_name": "automated-email,online,Circuits",
     "helpers": "Ian Lessing,Kristi Liu",
     "host_name": "University of California Santa Barbara",
-    "latitude": 45,
-    "start_date": "2020-10-09"
-  },
-  {
-    "instructors": "Denice Adkins",
-    "end_date": "2020-10-09",
-    "url": "https://swc-mizzou.github.io/2020-10-09-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -1,
-    "slug": "2020-10-09-mizzou",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Steven Pryor",
-    "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-10-09"
   },
@@ -492,6 +447,21 @@
     "helpers": "Masami Yamaguchi,Toan Phung,Mathew Fletcher",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.50014,
+    "start_date": "2020-10-26"
+  },
+  {
+    "instructors": "Pratishtha Poudel,Hua Lin",
+    "end_date": "2020-10-27",
+    "url": "https://osu-carpentry.github.io/2020-10-26-okstate",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Oklahoma State University (online)",
+    "longitude": -1,
+    "slug": "2020-10-26-okstate",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "LIZBETH PENA-ZUNIGA,Jati Ariati,Jun Fu",
+    "host_name": "Oklahoma State University",
+    "latitude": 45,
     "start_date": "2020-10-26"
   },
   {

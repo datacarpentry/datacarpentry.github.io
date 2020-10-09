@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Denice Adkins",
+    "end_date": "2020-10-09",
+    "url": "https://swc-mizzou.github.io/2020-10-09-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-10-09-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Steven Pryor",
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-10-09"
+  },
+  {
     "instructors": "Peter Steinbach,Fredo Erxleben",
     "end_date": "2020-10-08",
     "url": "https://hifis.gitlab.io/2020-10-07-hzdr/",
@@ -41,6 +56,21 @@
     "tag_name": "automated-email,SWC,online",
     "helpers": null,
     "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": 45,
+    "start_date": "2020-10-05"
+  },
+  {
+    "instructors": "Peter Wiringa,Nicholas Dunn",
+    "end_date": "2020-10-09",
+    "url": "https://chaochihl.github.io/2020-10-05-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -1,
+    "slug": "2020-10-05-umntc",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Cody Hennesy,David Naughton,Wanda Marsolek",
+    "host_name": "University of Minnesota",
     "latitude": 45,
     "start_date": "2020-10-05"
   },
@@ -311,6 +341,21 @@
     "tag_name": "SWC,online",
     "helpers": "Grace Fishbein",
     "host_name": "ACENET",
+    "latitude": null,
+    "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Konrad Förstner,Thomas Guignard,Till Sauerwein,Martin Czygan,Rabea Müller",
+    "end_date": "2020-10-09",
+    "url": "https://zbmed.github.io/2020-09-21-LC_IG_WBS_online/",
+    "country": "DE",
+    "curriculum": "lc-other",
+    "venue": "IG WBS - Interessengruppe Wissenschaftliche BibliothekarInnen Schweiz - ONLINE (online)",
+    "longitude": null,
+    "slug": "2020-09-21-LC_IG_WBS_online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "IG WBS",
     "latitude": null,
     "start_date": "2020-09-21"
   },
@@ -1228,6 +1273,21 @@
     "host_name": "South Big Data Hub",
     "latitude": 45,
     "start_date": "2020-08-12"
+  },
+  {
+    "instructors": "Mike Trizna,Amanda Devine,Jen Hammock,Bruno de Medeiros",
+    "end_date": "2020-08-19",
+    "url": "https://smithsonianworkshops.github.io/2020-08-11-smithsonian/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Smithsonian Institution (online)",
+    "longitude": -77.026,
+    "slug": "2020-08-11-smithsonian",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Carrie Craig,Jennifer Giaccai",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888,
+    "start_date": "2020-08-11"
   },
   {
     "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
