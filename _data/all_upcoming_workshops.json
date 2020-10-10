@@ -60,6 +60,21 @@
     "start_date": "2020-10-05"
   },
   {
+    "instructors": "Rocio Martinez Nunez,Alessandra Vigilante",
+    "end_date": "2020-10-19",
+    "url": "https://rociotmartinez.github.io/2020-10-06-KCL-DTP/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "King's College London (online)",
+    "longitude": 0,
+    "slug": "2020-10-06-KCL-DTP",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "King's College",
+    "latitude": 0,
+    "start_date": "2020-10-05"
+  },
+  {
     "instructors": "Serguei Vassiliev",
     "end_date": "2020-10-20",
     "url": "https://acenet-arc.github.io/2020-10-06-ACENET_SWC-R/",
@@ -345,6 +360,21 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": "Juan Herrera",
+    "end_date": "2020-10-22",
+    "url": "https://archer2-hpc.github.io/2020-10-19-edinburgh-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "EPCC, The University of Edinburgh (online)",
+    "longitude": -1,
+    "slug": "2020-10-19-edinburgh-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "Edinburgh Parallel Computing Centre",
+    "latitude": 45,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Holger Dinkel,Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves",
     "end_date": "2020-10-23",
     "url": "https://unode.github.io/2020-10-19-heidelberg/",
@@ -508,6 +538,36 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-10-30"
+  },
+  {
+    "instructors": "Martin Dreyer,Sebastian Mosidi",
+    "end_date": "2020-11-06",
+    "url": "https://nwu-eresearch.github.io/2020-11-02-NWU-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "NWU, South Africa",
+    "longitude": 0,
+    "slug": "2020-11-02-NWU-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": 0,
+    "start_date": "2020-11-02"
+  },
+  {
+    "instructors": "Juan Herrera,Jose Javier Munoz Criollo",
+    "end_date": "2020-11-05",
+    "url": "https://archer2-hpc.github.io/2020-11-02-cardiff-online/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "EPCC and Cardiff University (online)",
+    "longitude": -1,
+    "slug": "2020-11-02-cardiff-online",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "Edinburgh Parallel Computing Centre",
+    "latitude": 45,
+    "start_date": "2020-11-02"
   },
   {
     "instructors": null,
