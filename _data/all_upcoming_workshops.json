@@ -150,21 +150,6 @@
     "start_date": "2020-10-09"
   },
   {
-    "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-10-11",
-    "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Institute for Advanced Computational Science, Stony Brook University",
-    "longitude": -73.12188,
-    "slug": "2020-10-10-stonybrook-online",
-    "tag_name": "SWC,automated-email,online",
-    "helpers": null,
-    "host_name": "Stony Brook University",
-    "latitude": 40.91152,
-    "start_date": "2020-10-10"
-  },
-  {
     "instructors": "Laura Wrubel,Megan Potterbusch,Daniel Kerchner,William Bonnett,Ann James,Dolsy Smith",
     "end_date": "2020-10-15",
     "url": "https://gwu-libraries.github.io/2020-10-12-gwu/",
@@ -568,6 +553,21 @@
     "host_name": "Edinburgh Parallel Computing Centre",
     "latitude": 45,
     "start_date": "2020-11-02"
+  },
+  {
+    "instructors": "Patrice-Andre Prud'homme,Ezgi Irmak Yucel,Preethy Nair,Rayvn Manuel",
+    "end_date": "2020-11-06",
+    "url": "https://nairps.github.io/2020-11-03-umaryland-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Maryland (online)",
+    "longitude": -1,
+    "slug": "2020-11-03-umaryland-online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "University of Maryland, Baltimore",
+    "latitude": 45,
+    "start_date": "2020-11-03"
   },
   {
     "instructors": null,

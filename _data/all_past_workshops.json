@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-10-11",
+    "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Institute for Advanced Computational Science, Stony Brook University",
+    "longitude": -73.12188,
+    "slug": "2020-10-10-stonybrook-online",
+    "tag_name": "SWC,automated-email,online",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.91152,
+    "start_date": "2020-10-10"
+  },
+  {
     "instructors": "Denice Adkins",
     "end_date": "2020-10-09",
     "url": "https://swc-mizzou.github.io/2020-10-09-mizzou/",
