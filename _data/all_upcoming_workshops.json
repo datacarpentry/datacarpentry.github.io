@@ -45,21 +45,6 @@
     "start_date": "2020-09-28"
   },
   {
-    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
-    "end_date": "2020-10-13",
-    "url": "https://mtthsdzwn.github.io/2020-10-05-nl/",
-    "country": "NL",
-    "curriculum": "lc",
-    "venue": "Library Carpentry Nederland",
-    "longitude": 4.48145,
-    "slug": "2020-10-05-nl",
-    "tag_name": "automated-email,LC,online",
-    "helpers": "Judith Spijk",
-    "host_name": "Leiden",
-    "latitude": 52.15731,
-    "start_date": "2020-10-05"
-  },
-  {
     "instructors": "Rocio Martinez Nunez,Alessandra Vigilante",
     "end_date": "2020-10-19",
     "url": "https://rociotmartinez.github.io/2020-10-06-KCL-DTP/",
@@ -206,21 +191,6 @@
     "tag_name": "automated-email,LC,online",
     "helpers": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
     "host_name": "Monash University Malaysia",
-    "latitude": 45,
-    "start_date": "2020-10-13"
-  },
-  {
-    "instructors": "Mario Antonioletti,Peter Smyth",
-    "end_date": "2020-10-13",
-    "url": "https://softwaresaved.github.io/2020-10-13-ssi-online/",
-    "country": "GB",
-    "curriculum": "dc-ecology-r",
-    "venue": "Software Sustainability Institute (online)",
-    "longitude": -1,
-    "slug": "2020-10-13-ssi-online",
-    "tag_name": "DC,online",
-    "helpers": "Aleksandra Nenadic,Robert Nagy",
-    "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-10-13"
   },
@@ -405,6 +375,21 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": "Cody Hennesy,Nicholas Dunn",
+    "end_date": "2020-10-23",
+    "url": "https://umn-dash.github.io/2020-10-19-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -1,
+    "slug": "2020-10-19-umntc",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Chaochih Liu,David Naughton",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
     "end_date": "2020-10-23",
     "url": "https://dcworkshopbodo.github.io/2020-10-21-nord-online/",
@@ -508,6 +493,21 @@
     "host_name": "American University",
     "latitude": 45,
     "start_date": "2020-10-27"
+  },
+  {
+    "instructors": "Sherry Lake,Jennifer Lee,Preethy Nair,Trevor Burrows",
+    "end_date": "2020-10-30",
+    "url": "https://nairps.github.io/2020-10-29-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Maryland (online)",
+    "longitude": -1,
+    "slug": "2020-10-29-NNLM-online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": 45,
+    "start_date": "2020-10-29"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
@@ -658,6 +658,21 @@
     "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-11-13"
+  },
+  {
+    "instructors": "Bret Alexander Beheim,Han Tran",
+    "end_date": "2020-11-27",
+    "url": "https://hbec-mpi-eva.github.io/2020-11-23-leipzig-online/",
+    "country": "DE",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Max Planck Institute for Evolutionary Anthropology",
+    "longitude": 12.394,
+    "slug": "2020-11-23-leipzig-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Ilaria Pretelli",
+    "host_name": "Max Planck Institute for Evolutionary Anthropology",
+    "latitude": 51.321,
+    "start_date": "2020-11-23"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
