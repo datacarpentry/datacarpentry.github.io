@@ -3,7 +3,7 @@
 *  This include lets you easily display an alert.
 *  To use the include no `.html` ending is necessary.
 *  You can use five different kinds of alerts:
-*
+*   -precautions
 *  - warning
 *  - info
 *  - success
