@@ -1,0 +1,63 @@
+name: check, build, deploy site
+
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build-website:
+    if: github.repository_owner == 'datacarpentry'
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout the Repository
+        uses: actions/checkout@master
+
+      - name: Set up Ruby
+        uses: actions/setup-ruby@main
+        with:
+          ruby-version: '2.7.1'
+
+      - name: Install GitHub Pages, Bundler, and kramdown gems
+        run: |
+          gem install bundler yaml-lint
+
+      - name: Set up caching for Bundler
+        uses: actions/cache@v2
+        with:
+          path: .vendor/bundle
+          key: gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            gems-
+
+      - name: Install & Update Ruby Gems
+        run: |
+          bundle config path .vendor/bundle
+          bundle install --jobs 4 --retry 3
+          bundle update
+
+      - name: Lint _config.yml with yaml-lint
+        run: |
+          yaml-lint  _config.yml
+
+      - name: Lint pages and blog posts
+        run: |
+          yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
+          yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
+
+      - name: Build site
+        run: make site
+
+      - name: Deploy
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && github.repository == 'datacarpentry/datacarpentry.github.io' }}
+        uses: maxheld83/ghpages@v0.3.0
+        env:
+          BUILD_DIR: _gh-site/
+          GH_PAT: ${{ secrets.GH_PAT_DEPLOY }}
