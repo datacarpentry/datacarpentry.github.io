@@ -90,21 +90,6 @@
     "start_date": "2020-10-06"
   },
   {
-    "instructors": "Heather Andrews,Nicolas Dintzner",
-    "end_date": "2020-10-14",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-10-07-delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "October 2020 SWC Workshop @TU Delft (online)",
-    "longitude": 4.37524,
-    "slug": "2020-10-07-delft",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Masha Rudneva,Lora Armstrong",
-    "host_name": "Delft University of Technology",
-    "latitude": 52.002677,
-    "start_date": "2020-10-07"
-  },
-  {
     "instructors": "Nicolas Frazee,Vivian Guetler",
     "end_date": "2020-10-29",
     "url": "http://ncf0003.github.io/2020-10-08-wvu",
@@ -178,51 +163,6 @@
     "host_name": "Massachusetts Institute of Technology",
     "latitude": 42.359689,
     "start_date": "2020-10-13"
-  },
-  {
-    "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
-    "end_date": "2020-10-14",
-    "url": "https://bellsm74.github.io/2020-10-13-monashmalaysia-online/",
-    "country": "MA",
-    "curriculum": "lc",
-    "venue": "Monash University Malaysia (online)",
-    "longitude": -1,
-    "slug": "2020-10-13-monashmalaysia-online",
-    "tag_name": "automated-email,LC,online",
-    "helpers": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
-    "host_name": "Monash University Malaysia",
-    "latitude": 45,
-    "start_date": "2020-10-13"
-  },
-  {
-    "instructors": "Lachlan Deer,Preethy Nair,Annajiat Alim Rasel,Sarah Lin",
-    "end_date": "2020-10-14",
-    "url": "https://lachlandeer.github.io/2020-10-13-uwm-online/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Wisconsin-Milwaukee (online)",
-    "longitude": -1,
-    "slug": "2020-10-13-uwm-online",
-    "tag_name": "automated-email,DC,online",
-    "helpers": null,
-    "host_name": "University of Wisconsin-Milwaukee",
-    "latitude": 45,
-    "start_date": "2020-10-13"
-  },
-  {
-    "instructors": "Jason Bell",
-    "end_date": "2020-10-14",
-    "url": "https://qcif-training.github.io/2020-10-14-QCIF-Unix/",
-    "country": "AU",
-    "curriculum": "mix-and-match",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.01441,
-    "slug": "2020-10-14-QCIF-Unix",
-    "tag_name": "online,Circuits",
-    "helpers": "David Green,Marlies Hankel",
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.50014,
-    "start_date": "2020-10-14"
   },
   {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
@@ -492,6 +432,21 @@
     "helpers": null,
     "host_name": "American University",
     "latitude": 45,
+    "start_date": "2020-10-27"
+  },
+  {
+    "instructors": "Phillip Doehle,Muhammad Zohaib Anwar,Shaohe Wang",
+    "end_date": "2020-11-05",
+    "url": "https://anwarmz.github.io/2020-10-27-stillman-SBDH/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Stillman College",
+    "longitude": -87.58503,
+    "slug": "2020-10-27-stillman-SBDH",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South Big Data Hub",
+    "latitude": 33.20113,
     "start_date": "2020-10-27"
   },
   {
