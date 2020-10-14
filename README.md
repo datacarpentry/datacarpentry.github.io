@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/datacarpentry/datacarpentry.github.io.svg?branch=master)](https://travis-ci.org/datacarpentry/datacarpentry.github.io)
+![check, build, deploy site](https://github.com/datacarpentry/datacarpentry.org/workflows/check,%20build,%20deploy%20site/badge.svg)
 
 ## Data Carpentry Website
 
@@ -10,9 +10,9 @@ Developed by [Moritz Sauer](https://github.com/Phlow)
 ## Setup
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
-You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
-Bundler can be installed with `$ gem install bundler`.
-If you are on Linux, you will need to install the Ruby header files (e.g., `$ sudo apt-get install ruby-dev` on Debian/Ubuntu).
+You need to have Version 2.7.1 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
+Bundler can be installed with `gem install bundler`.
+If you are on Linux, you will need to install the Ruby header files (e.g., `sudo apt-get install ruby-dev` on Debian/Ubuntu).
 After checking out the repository, please run:
 
 ```
@@ -22,9 +22,6 @@ $ bundle update
 to install Jekyll and the software it depends on.
 You may consult [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) for further instructions.
 
-You will also need [Python 3](http://python.org/) with
-[PyYAML](https://pypi.python.org/pypi/PyYAML/) available in order to
-re-generate the [data files](#details) the site depends on.
 
 ## Previewing
 
@@ -37,11 +34,14 @@ Instead, you should use the following commands:
 *   `make site`: build files locally, but do not serve them dynamically.
 *   `make clean` removes the `_site` directory and any Emacs editor backup files littering the source directories.
 
-The [details](#details) describes a few more advanced commands as well.
-Please note that rebuilding this site can take 3-4 minutes on a moderately powerful laptop,
-and occasionally times out on GitHub.
-We're working on it...
 
-## Travis-CI integration
+## Deployment with GitHub Actions
 
-Push to the `master` branch triggers Travis-CI for this repository. The script checks that the YAML headers in pages and blog post is valid, and updates the list of workshops from AMY.
+The default branch for this repository is `main`. All pull requests should be made from there.
+Pushing to the `main` branch triggers GitHub Actions. The script:
+- checks that the YAML headers in pages and blog posts are valid;
+- gets the latest version of the data feeds for the list of past and upcoming workshops;
+- builds the website;
+- pushes to the `master` branch.
+
+GitHub pages takes care of generating the website from the content of the `master` branch. Note that because of current limitations with GitHub, we need to use the `master` branch and keep the name of the repository `datacarpentry.github.io` to ensure that all our lessons are available from `https://datacarpentry.org/<name-of-lesson-repository>`.
