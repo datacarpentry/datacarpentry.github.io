@@ -1,15 +1,14 @@
 name: check, build, deploy site
 
-
 on:
   push:
     branches: main
+  pull_requests: []
   schedule:
     - cron: '0 */6 * * *'
 
 jobs:
   build-website:
-    if: github.repository_owner == 'datacarpentry'
     runs-on: ubuntu-latest
 
     defaults:
