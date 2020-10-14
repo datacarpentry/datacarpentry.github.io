@@ -226,3 +226,11 @@ google_analytics_tracking_id: UA-68320080-1
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-get-json
+
+## external data sources
+jekyll_get_json:
+  - data: dc_past_workshops
+    json: 'https://feeds.carpentries.org/dc_past_workshops.json'
+  - data: dc_upcoming_workshops
+    json: 'https://feeds.carpentries.org/dc_upcoming_workshops.json'
