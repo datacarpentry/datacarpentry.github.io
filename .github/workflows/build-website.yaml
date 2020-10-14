@@ -56,7 +56,7 @@ jobs:
         run: make site
 
       - name: Deploy
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' && github.repository == 'datacarpentry/datacarpentry.github.io' }}
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' && github.repository == 'datacarpentry/datacarpentry.org' }}
         uses: maxheld83/ghpages@v0.3.0
         env:
           BUILD_DIR: _site/
