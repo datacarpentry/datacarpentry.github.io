@@ -3,7 +3,7 @@ name: check, build, deploy site
 on:
   push:
     branches: main
-  pull_requests: []
+  pull_request: []
   schedule:
     - cron: '0 */6 * * *'
 
