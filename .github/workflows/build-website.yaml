@@ -20,9 +20,9 @@ jobs:
         uses: actions/checkout@master
 
       - name: Set up Ruby
-        uses: actions/setup-ruby@main
+        uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.7.1'
+          ruby-version: '2.7'
 
       - name: Install GitHub Pages, Bundler, and kramdown gems
         run: |
