@@ -301,7 +301,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="icon-github"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Python social science lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python social science lesson"></a></td>
-    <td>Geoffrey Boushey, Stephen Childs</td>
+    <td>Geoffrey Boushey, Stephen Childs, Annajiat Alim Rasel</td>
 </tr>
 <tr>
     <td>Data Management with SQL for Social Scientists *alpha*</td>
