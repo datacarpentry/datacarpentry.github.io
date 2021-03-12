@@ -180,7 +180,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="Repository for shell genomics lesson"></a></td>
    	<td><a href="{{site.dc_github_site_url}}/shell-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for shell genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/shell-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for shell genomics lesson"></a></td>
-    <td>Bastian Greshak, Russell Neches, Akshay Paropkari, Anita Schürch, Shichen Wang, Preethy Nair, Sally Chang</td>
+    <td>Bastian Greshak, Russell Neches, Akshay Paropkari, Anita Schürch, Shichen Wang, Sally Chang</td>
   </tr>
     <tr>
     <td>Data Wrangling and Processing for Genomics</td>
