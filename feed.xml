@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Carpentry</title>
+    <description>Data Carpentry is a lesson program of The Carpentries that develops and provides data skills training to researchers.</description>
+    <link>https://datacarpentry.org/</link>
+    <atom:link href="https://datacarpentry.org/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Genomics Workshop Pilot and BugBBQ at University of Arizona</title>
+        <description>&lt;p&gt;This February, a small group of committed community members, led by Taylor Reiter at the University of California, Davis, 
+completed a major update to the Data Carpentry Genomics curriculum. A huge thank you to everyone who contributed! This update 
+included significant changes to both the data set and the software used for the lessons, modernizing the workshop and keeping it 
+relevant to researchers working in the genomics field. The &lt;a href=&quot;https://datacarpentry.org/genomics-workshop/&quot;&gt;new version of this curriculum&lt;/a&gt; is already live and will be officially published in the &lt;a href=&quot;https://carpentries.org/blog/2019/05/lesson-release/&quot;&gt;upcoming lesson release in June&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In parallel with these updates to the core Genomics workshop curriculum, Maintainers of the &lt;a href=&quot;https://datacarpentry.org/genomics-r-intro/&quot;&gt;Data Analysis and Visualization in R for Genomics lesson&lt;/a&gt; have completely revamped their lesson. While previous versions focused on analysis of a small metadata dataset and was disconnected from the narrative of the remaining Genomics lessons, this revised version picks up where the core lessons leave off in analyzing and visualizing output from a variant calling pipeline.&lt;/p&gt;
+
+&lt;p&gt;Jason Williams and Uwe Hilgert will be &lt;a href=&quot;https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/&quot;&gt;hosting a pilot workshop&lt;/a&gt; using this new lesson at the University of Arizona on 30-31 May, followed by a BugBBQ hacky day in which Instructors and other Carpentries community members around the globe will use feedback from the pilot to improve the Genomics lessons and prepare them for publication in June.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-i-get-involved&quot;&gt;How can I get involved?&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If you’re interested in attending the workshop and hacky day, please fill out &lt;a href=&quot;http://bit.ly/2PBceP7&quot;&gt;this application&lt;/a&gt;. 
+Limited funding is available to support travel within the United States.&lt;/li&gt;
+  &lt;li&gt;If you can’t be present in person, the workshop and hacky day will be live-streamed from 8:30am - 5:00pm US MST. 
+To convert to your local time, click this link for 
+&lt;a href=&quot;https://www.timeanddate.com/worldclock/fixedtime.html?msg=UA+Genomics+Pilot+and+Bug+BBQ&amp;amp;iso=20190530T0830&amp;amp;p1=197&amp;amp;ah=8&amp;amp;am=30&quot;&gt;start time&lt;/a&gt;
+and this link for &lt;a href=&quot;https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190530T17&amp;amp;p1=197&quot;&gt;end time &lt;/a&gt;. 
+Start and end times are the same each day. For live-stream links, please visit the 
+&lt;a href=&quot;https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/&quot;&gt;workshop website&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Opportunities to contribute aren’t limited to just these three days! Maintainers for the Genomics lessons welcome contributions 
+and have created lists of issues that need attention. Check out the links below for each lesson to see how you can contribute.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/datacarpentry/organization-genomics/milestone/1&quot;&gt;Project Organization and Management&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/datacarpentry/shell-genomics/milestone/1&quot;&gt;Introduction to the Command Line&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/datacarpentry/wrangling-genomics/milestone/1&quot;&gt;Data Wrangling and Processing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/datacarpentry/cloud-genomics/milestones&quot;&gt;Introduction to Cloud Computing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/datacarpentry/genomics-r-intro/milestone/1&quot;&gt;Data Analysis and Visualization&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;We’re planning to start actively promoting the Genomics curriculum in June and will have more opportunities for you to teach. Make sure you’re signed up on the &lt;a href=&quot;https://carpentries.topicbox.com/groups/instructors&quot;&gt;Instructor mailing list&lt;/a&gt; to be informed of upcoming teaching opportunities. We’re also developing training materials to help Instructors prepare for this workshop. To be notified when materials are released, add your info to &lt;a href=&quot;https://forms.gle/ubxK9bApRub62vUE8&quot;&gt;this form&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;No matter how you choose to get involved, you can follow the conversation during the BugBBQ on &lt;a href=&quot;https://gitter.im/data-carpentry/Lobby&quot;&gt;this Gitter Channel&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you have any questions about how to get involved or about the Genomics curriculum, email us at &lt;a href=&quot;mailto:team@carpentries.org&quot;&gt;team@carpentries.org&lt;/a&gt;. We’re excited to work with you on publishing these lessons and making them available to a larger audience!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2019/05/genomics-pilot</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2019/05/genomics-pilot</guid>
+      </item>
+    
+      <item>
+        <title>Atmos Ocean Launch</title>
+        <description>&lt;p&gt;Back in late 2012, I was a couple of years into my first job out of college.
+My undergraduate studies had left me somewhat underprepared for the coding
+associated with analyzing climate model data for a national science organization,
+so I was searching online for assistance with Python programming.
+I stumbled upon the website of an organization called Software Carpentry,
+which at the time was a relatively small group of volunteers
+running two-day scientific computing “bootcamps” for researchers.
+I reached out to ask if they’d be interested
+in running a workshop alongside the 2013 Annual Conference
+of the Australian Meteorological and Oceanographic Society (AMOS),
+and to my surprise Greg Wilson - the co-founder of the organization -
+flew out to Australia to teach at our event in Melbourne and another in Sydney
+(the first ever bootcamps outside of North America and Europe).
+I trained up as an instructor soon after,
+and from 2014-2017 I hosted Software Carpentry workshops alongside the AMOS conference,
+as well as other ad hoc workshops in various meteorology and oceanography departments.&lt;/p&gt;
+
+&lt;p&gt;While these workshops were very popular and well received
+(Software Carpentry workshops always are),
+in the back of my mind I wanted to have a go at running a workshop
+designed specifically for atmosphere and ocean scientists.
+Instead of teaching generic skills
+in the hope that people would figure out how to apply them in their own context,
+I wanted to cut out the middle step and run a workshop
+&lt;em&gt;in&lt;/em&gt; the atmosphere and ocean science context.
+This idea of discipline (or data-type) specific workshops
+was the driving force behind the establishment of Data Carpentry,
+so this year with their assistance I’ve developed lesson materials
+for a complete one-day workshop:&lt;br /&gt;
+&lt;a href=&quot;https://carpentrieslab.github.io/python-aos-lesson&quot;&gt;https://carpentrieslab.github.io/python-aos-lesson&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The workshop centers around the task of writing a Python script
+that calculates and plots the seasonal rainfall climatology (i.e. the average rainfall)
+from the output from any arbitrary climate model.
+Such data is typically stored in netCDF file format
+and follows a strict “climate and forecasting” metadata convention.
+Along the way, we learn about the PyAOS stack
+(i.e. the ecosystem of libraries used in the atmosphere and ocean sciences),
+how to manage and share a software environment using conda,
+how to write modular/reusable code,
+how to write scripts that behave like other command line programs,
+version control,
+defensive programming strategies and
+how to capture and record the provenance of the data files and figures that we produce.&lt;/p&gt;
+
+&lt;p&gt;I’ve run the workshop twice now
+(at the 2018 AMOS Conference in Sydney and at Woods Hole Oceanographic Institution last month),
+which means I’ve completed the alpha stage of the Data Carpentry
+&lt;a href=&quot;https://carpentries.github.io/curriculum-development/the-lesson-life-cycle.html&quot;&gt;lesson development cycle&lt;/a&gt;.
+Moving from the alpha to beta stage
+involves having people other than me teach,
+which is where you come in.
+If you’re a qualified Carpentries instructor and would be interested in teaching the lessons
+(some experience with the netCDF file format and xarray Python library is useful),
+please get in touch with either &lt;a href=&quot;https://drclimate.wordpress.com/who-is-dr-climate/&quot;&gt;myself&lt;/a&gt;
+or &lt;a href=&quot;mailto:francois@carpentries.org&quot;&gt;Francois Michonneau&lt;/a&gt; (Curriculum Development Lead for Data Carpentry).
+You can also request a workshop at your institution by contacting us and we’ll reach out to instructors.
+There is no fee for a pilot workshop, but you would need to cover travel expenses for instructors.
+I’d also be happy to hear any general feedback about the lesson materials
+at the associated &lt;a href=&quot;https://github.com/carpentrieslab/python-aos-lesson&quot;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/09/atmos-ocean-launch</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/09/atmos-ocean-launch</guid>
+      </item>
+    
+      <item>
+        <title>Geospatial Launch</title>
+        <description>&lt;p&gt;The long-awaited Data Carpentry curriculum for working with Geospatial data is now ready to teach! As with all our newly developed curricula, these lessons are now in ‘beta’. We are actively promoting workshops and collecting information from those workshops to improve these lessons as they are taught more broadly and in different contexts. We will also be &lt;a href=&quot;https://pad.carpentries.org/geospatial-onboarding&quot;&gt;onboarding Instructors&lt;/a&gt; to prepare them to teach these new lessons. Keep reading for more details.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-whats-in-the-material&quot;&gt;So what’s in the material?&lt;/h3&gt;
+&lt;p&gt;This R-based geospatial workshop will introduce project organisation and management for spatial data, cover data structures and storage and transfer formats, teach the creation of summary statistics and publication-quality graphics, and help users work with and plot vector and raster-format spatial data in R. Find more information on the &lt;a href=&quot;https://datacarpentry.org/geospatial-workshop/&quot;&gt;workshop homepage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;want-to-teach-this-material&quot;&gt;Want to teach this material?&lt;/h3&gt;
+&lt;p&gt;We will be onboarding Instructors to prepare them to teach these new lessons. We also want to run some pilot workshops so that we can assess what we have got right, and what might still need some tweaking.&lt;/p&gt;
+
+&lt;h3 id=&quot;lesson-background&quot;&gt;Lesson background&lt;/h3&gt;
+
+&lt;p&gt;These lessons were initially developed in 2016 through a hackathon held in conjunction with the 
+&lt;a href=&quot;https://www.neonscience.org/&quot;&gt;National Ecological Observatory Network&lt;/a&gt; (NEON). 
+Hackathon participants included the following people who became the initial authors of the lessons: 
+Leah A. Wasser - University of Colorado, Megan A. Jones - NEON, Zack Brym - University of Florida, 
+Kristina Riemer  - University of Florida, Jason Williams - Cold Spring Harbor Lab, 
+Jeff Hollister - US Environmental Protection Agency, Mike Smorul - SESYNC, 
+Joseph Stachelek - Michigan State University, Marissa Guarinello - NKN/University of Idaho, 
+Jonah Duckles - The Carpentries, Keely Roth - University of California at Davis, 
+Mike Alonzo - NASA Goddard, Ben Best - Duke / UCSB, Matt Kwit - Duke, Tracy Teal - The Carpentries, 
+Kaitlin Stack Whitney - University of Wisconsin-Madison, 
+Dave Roberts - Montana State, Courtney Soderberg - Center for Open Science, 
+Sean Barberie - University of Alaska Fairbanks. 
+The workshop materials were &lt;a href=&quot;https://datacarpentry.org/blog/2016/03/pilot-spatial-data&quot;&gt;piloted in March 2016&lt;/a&gt;, and the lesson release has been much anticipated by Carpentries’ community members. Most of the data used in the workshop has been sourced from NEON (https://www.neonscience.org/). You can see other NEON tutorials for advanced GIS topics here (https://www.neonscience.org/resources/data-tutorials).&lt;/p&gt;
+
+&lt;h2 id=&quot;recent-community-involvement&quot;&gt;Recent community involvement&lt;/h2&gt;
+
+&lt;p&gt;Recent developments in these materials have been led by a highly active and engaged group of Maintainers (&lt;a href=&quot;https://github.com/lachlandeer&quot;&gt;Lachlan Deer&lt;/a&gt;, &lt;a href=&quot;https://github.com/juanfung&quot;&gt;Juan Fung&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/obrl_soil&quot;&gt;Lauren O’Brien&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/chrisprener&quot;&gt;Chris Prener&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jananivijayan1&quot;&gt;Janani Selvaraj&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/__jsta&quot;&gt;Joseph Stachelek&lt;/a&gt; , &lt;a href=&quot;https://twitter.com/tswetnam&quot;&gt;Tyson Swetnam&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jrwyngaard&quot;&gt;Jane Wyngaard&lt;/a&gt;) and &lt;a href=&quot;https://datacarpentry.org/lesson-leadership/#curriculum-advisors---geospatial&quot;&gt;Curriculum Advisors&lt;/a&gt; (Anne Fouilloux - University of Oslo, Arthur Endsley - University of Michigan, Chris Prener - St Louis University, Jeff Hollister - US Environmental Protection Agency, Joseph Stachelek - Michigan State University, Leah Wasser - University of Colorado, Michael Sumner - Australian Antarctic Data Centre, Michele Tobias- University of California, Davis, Stace Maples - Stanford University).&lt;/p&gt;
+
+&lt;p&gt;If you are interested in the direction and decisions the Curriculum Advisors took for the lesson, you can see their &lt;a href=&quot;https://github.com/datacarpentry/curriculum-advisors/blob/master/geospatial/minutes/march-2018-geospatial-minutes.md&quot;&gt;minutes&lt;/a&gt;. The finalisation of many parts of the material was down to a big burst of work during the &lt;a href=&quot;https://datacarpentry.org/blog/2018/04/geo-socsci-update&quot;&gt;April 2018 Bug BBQ&lt;/a&gt;. Thanks to all the community members who took part.&lt;/p&gt;
+
+&lt;p&gt;Special thanks go to:
+&lt;a href=&quot;https://twitter.com/obrl_soil&quot;&gt;Lauren O’Brien&lt;/a&gt; for re-organizing the &lt;a href=&quot;https://datacarpentry.org/organization-geospatial/&quot;&gt;Geospatial Project Organization and Management&lt;/a&gt; lesson to line up with changes to the rest of the curriculum.
+&lt;a href=&quot;https://github.com/lachlandeer&quot;&gt;Lachlan Deer&lt;/a&gt;, &lt;a href=&quot;https://github.com/juanfung&quot;&gt;Juan Fung&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/__jsta&quot;&gt;Joseph Stachelek&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/AnneFouilloux&quot;&gt;Anne Fouilloux&lt;/a&gt; and &lt;a href=&quot;https://github.com/justinmillar&quot;&gt;Justin Millar&lt;/a&gt; for converting all of the episodes to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ggplot&lt;/code&gt; from base R graphics.
+&lt;a href=&quot;https://twitter.com/__jsta&quot;&gt;Joseph Stachelek&lt;/a&gt; for transferring the lessons to the current lesson template. 
+&lt;a href=&quot;https://twitter.com/chrisprener&quot;&gt;Chris Prener&lt;/a&gt; for updating the &lt;a href=&quot;https://datacarpentry.org/geospatial-workshop/setup.html&quot;&gt;installation instructions&lt;/a&gt; and creating a Docker image for the lessons.
+&lt;a href=&quot;https://twitter.com/LeahAWasser&quot;&gt;Leah A. Wasser&lt;/a&gt; and &lt;a href=&quot;https://github.com/mjones01&quot;&gt;Megan A. Jones&lt;/a&gt; for providing an introduction to &lt;a href=&quot;http://datacarpentry.org/geospatial-workshop/data/&quot;&gt;the data used in the lesson&lt;/a&gt;. 
+Michael Culshaw-Maurer, Anne Fouilloux, Michael Heeremans, Megan A. Jones, Natalie Robinson, Joseph Stachelek, Tracy Teal, Michele Tobias, and Leah A. Wasser for teaching pilot workshops.
+NEON for collecting and sharing the data, organizing and co-hosting the 2016 Hackathon, and providing staff time to produce these lessons.&lt;/p&gt;
+
+&lt;h3 id=&quot;teach-or-host-a-geospatial-workshop&quot;&gt;Teach or host a Geospatial workshop!&lt;/h3&gt;
+
+&lt;p&gt;Want to get involved with the Geospatial materials?
+Get badged to teach the Geospatial lessons. Sign up for onboarding using this &lt;a href=&quot;https://pad.carpentries.org/geospatial-onboarding&quot;&gt;Etherpad&lt;/a&gt;. Onboarding sessions also appear on the &lt;a href=&quot;https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&quot;&gt;Community Calendar&lt;/a&gt;.
+Request a Geospatial beta pilot workshop at your institution using this &lt;a href=&quot;https://amy.carpentries.org/forms/dc/request/&quot;&gt;form&lt;/a&gt;. 
+Self-organise a Geospatial beta pilot workshop at your institution. &lt;a href=&quot;https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html&quot;&gt;Use our  self-organized workshop checklist&lt;/a&gt; to plan your workshop..&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/08/geospatial-launch</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/08/geospatial-launch</guid>
+      </item>
+    
+      <item>
+        <title>Social Sciences Lessons Published!</title>
+        <description>&lt;p&gt;We are excited to announce the initial release of a &lt;a href=&quot;http://www.datacarpentry.org/socialsci-workshop/&quot;&gt;Data Carpentry Social Sciences Curriculum&lt;/a&gt;.
+This is the first Data Carpentry Curriculum
+to be released targeted towards researchers outside of the life sciences and provides an opportunity to reach out to new communities.&lt;/p&gt;
+
+&lt;p&gt;Peter Smyth has assembled the initial content for these lessons with the guidance of Rachel Gibson, Professor of Political Science at the 
+Cathie Marsh Institute of Social Research, University of Manchester, UK. It was polished during the April 2018 Bug BBQ, and the finishing 
+was done by the lesson Maintainers in coordination with Carpentries staff.&lt;/p&gt;
+
+&lt;p&gt;This curriculum aims at teaching similar skills like the ones covered in the 
+&lt;a href=&quot;http://www.datacarpentry.org/ecology-workshop/&quot;&gt;Ecology curriculum&lt;/a&gt;. It is focused on best practices for working with rectangular and 
+tidy data. The curriculum covers &lt;a href=&quot;http://datacarpentry.org/spreadsheets-socialsci/&quot;&gt;data organization in spreadsheets&lt;/a&gt;, 
+&lt;a href=&quot;www.datacarpentry.org/openrefine-socialsci/&quot;&gt;data cleaning with OpenRefine&lt;/a&gt;, as well as 
+&lt;a href=&quot;http://www.datacarpentry.org/r-socialsci/&quot;&gt;data manipulation and visualization with R&lt;/a&gt;. 
+There are also lessons on SQL and Python that are available but are not part of this initial release.&lt;/p&gt;
+
+&lt;p&gt;As with other materials for Data Carpentry, the same dataset is used across all the lessons. Here, we use a simplified version of a 
+research datasets generated by the &lt;a href=&quot;http://www.safi-research.org/&quot;&gt;SAFI&lt;/a&gt; (Studying African Farmer-led Irrigation) research project. 
+This dataset is available on &lt;a href=&quot;https://doi.org/10.6084/m9.figshare.6262019&quot;&gt;Figshare&lt;/a&gt; and is survey data relating to households and 
+agriculture in Tanzania and Mozambique. The survey data was collected through interviews conducted between November 2016 and June 2017 
+and covered such things as household features (e.g., construction materials used, number of household members), agricultural practices 
+(e.g., water usage), assets (e.g., number and types of livestock) and details about the household members.&lt;/p&gt;
+
+&lt;p&gt;If this curriculum were a piece of software, we would say it is in “beta”. The authors of this curriculum have taught it, and it 
+is now ready to be taught by other members of The Carpentries community. We are interested in your feedback to improve it. We want
+to ensure it meets the needs and matches the skills that Social Scientists want to acquire when working with data. If you are a social 
+scientist (or studying to become one), please &lt;a href=&quot;http://datacarpentry.org/socialsci-workshop/&quot;&gt;review the lessons&lt;/a&gt; and 
+&lt;a href=&quot;https://carpentries.typeform.com/to/uMFTgM&quot;&gt;provide us with your feedback&lt;/a&gt;. If you are interested in teaching one of the first 
+Social Sciences Data Carpentry workshops, &lt;a href=&quot;https://carpentries.typeform.com/to/f8aMxM&quot;&gt;let us know by filling this form&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/05/social-sciences-publication</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/05/social-sciences-publication</guid>
+      </item>
+    
+      <item>
+        <title>An extended Data Carpentry Workshop over 7 weeks instead of 2 days</title>
+        <description>&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
+
+&lt;p&gt;The UF &lt;a href=&quot;http://www.r-gators.com/&quot;&gt;R Users Group&lt;/a&gt;  was formed in January 2017, and since then we’ve been running a weekly 
+“UF R Meetup”: A two-hour session consists of a 30 to 60 minute presentation/tutorials followed by an “open lab” session. 
+The meetup is meant to be a casual, informal opportunity to learn as a community, and seek face-to-face advice.&lt;/p&gt;
+
+&lt;p&gt;By the end of the second semester of running the meetup, we had identified a couple of issues:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The majority of the participants were either beginners or completely new to R (and programming in general).&lt;/li&gt;
+  &lt;li&gt;As our presentations shifted to cater to new users, it became difficult to engage and entice more advanced programmers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, our presentations on the basics of R were unstructured and constructed on-the-fly – not the best way to teach and learn R. 
+We felt that these disconnects were making it difficult to establish a sustainable learning community.&lt;/p&gt;
+
+&lt;p&gt;In January 2018, we decided to run an introductory workshop series separate from the meetup. The workshop would provide 
+structured lessons on the basics of R and allow the meetup to cover more advanced topics. Luckily for us, 
+&lt;a href=&quot;https://carpentries.org/&quot;&gt;The Carpentries&lt;/a&gt; already have well-structured lessons for these materials, and we 
+could rely on the strong pool of Carpentry instructors at the University of Florida.&lt;/p&gt;
+
+&lt;p&gt;The question then became: &lt;em&gt;“Do we want to run a traditional two-day Carpentry workshop, or try something different?”&lt;/em&gt;. 
+We already knew that there was interest in regular weekly meetings, and saw potential in giving access to people who 
+could not commit to a full two-day Carpentries workshop, or people who might need a refresher even though they’ve taken the 
+two-day workshop. So we decided to run our workshop a bit differently than normal.&lt;/p&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;p&gt;We used the &lt;a href=&quot;http://www.datacarpentry.org/lessons/#ecology-workshop&quot;&gt;Data Carpentry in Ecology&lt;/a&gt; curriculum as a starting point. 
+This included Data Analysis and Visualization in R, Data Organization in Spreadsheets, and Data Cleaning with OpenRefine. 
+The two-day workshops usually include the Data Management in SQL lesson as well, but we felt it may have been to much for 
+learners to learn all the SQL concepts in a two-hour session. Instead we opted to create some new material centered on the 
+join features in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;dplyr&lt;/code&gt;, which has very similar concepts. This extended naturally from the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;dplyr&lt;/code&gt; lesson, and we even 
+titled it “Advanced Dataframe Manipulation” to reflect that.&lt;/p&gt;
+
+&lt;p&gt;| Week | Lesson |
+redirect_from: /blog/dc-seven-weeks/
+| :—– |:—-|
+| 1 | Intro to R| 
+| 2 | Data Organization| 
+| 3 | Starting with Data| 
+| 4 | Manipulating Dataframes | 
+| 5 | Visualizing Data | 
+| 6 | Advanced Dataframe Manipulation | 
+| 7 | OpenRefine |&lt;/p&gt;
+
+&lt;p&gt;Besides that it was run exactly like any other Carpentry workshop. We had different instructors for each lesson, 
+there were helpers available, we created an Etherpad for collaborative note-taking, and used red and green sticky notes 
+for real time feedback. You can view the &lt;a href=&quot;https://ufrmeetup.github.io/2018-01-18-UF-R/&quot;&gt;workshop homepage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-it-went&quot;&gt;How it went&lt;/h4&gt;
+
+&lt;p&gt;We’ve been a part of many Data Carpentry and Software Carpentry workshops here at the University of Florida, and this one went as 
+well as any of them. Anonymous feedback at the end of each lesson was universally positive, and several participants told us in 
+person how much they enjoyed it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ufstickies.jpg&quot; alt=&quot;Sticky note feedback&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We capped the elongated workshop at 40 participants and it filled fairly quickly. However, at most only 18 
+came to a particular session and attendance dropped over the 7 weeks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/whocame.jpg&quot; alt=&quot;Attendance&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Several factors likely contributed to this attendance pattern. Attendance is also often low the first time a new training opportunity is offered. We also chose not to collect a registration fee, because our group is designed to be an informal alternative to other resources on our campus, including formal courses and traditional Carpentry workshops (on average there are about three Carpentry workshops each semester at UF). The lack of a financial commitment from students may have been part of the the depressed attendance. We also found that there was less interest and reduced attendance in the non-R focused lessons, as well as more interest in the tidyverse-based lessons compared to base R lessons. Scheduling conflicts also arose over the course of the series, and once someone had to miss a lesson there appeared to be a lack of motivation to continue.&lt;/p&gt;
+
+&lt;p&gt;Lastly, we were very interested in how this schedule format improved access. Anecdotally several participants told us how they preferred a two-hour-a-week workshop over a full two days. In a post-workshop survey, two of the three respondents said they preferred this schedule over a two-day workshop.&lt;/p&gt;
+
+&lt;p&gt;Scheduling-wise, the majority of material fit into the two-hour time slots. The exception was the “Manipulating Dataframes” lesson where we did not have time for the very last section. Luckily this fit in nicely with the “Advanced Dataframe Manipulation” lesson to fill the full two hours in week 6.&lt;/p&gt;
+
+&lt;h4 id=&quot;lessons-learned&quot;&gt;Lessons Learned&lt;/h4&gt;
+
+&lt;p&gt;Overall, we feel this elongated workshop was a success and we hope to run similar ones in the future. We are encouraged by the post-survey responses, as well as the anecdotal comments from the attendees. The workshop series also provided a less time- and material-intensive opportunity for newly trained instructors to gain some teaching experience.&lt;/p&gt;
+
+&lt;p&gt;There a few things we may change:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;There were participants who felt confident not attending the first few sessions and only attended specific ones such as Data Manipulation or Visualization. This likely contributed to, at most, 18 of the 40 sign ups attending. In the beginning we encouraged people to attend every lesson but did not enforce this. In the future, we would consider session-specific sign-ups where participants can express interest in any or all of the sessions based on their needs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We found it helpful to do a short recap at the beginning of each session to quickly summarize the primary lessons from the prior week.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We collected and re-distributed the post-it notes every week so as not to waste them, though some eventually lost their stickiness. In the end we used up roughly three-quarters of a single stack for each color.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/04/dc-seven-weeks</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/04/dc-seven-weeks</guid>
+      </item>
+    
+      <item>
+        <title>Launching The Carpentries Website</title>
+        <description>&lt;h3 id=&quot;website-launch&quot;&gt;Website Launch&lt;/h3&gt;
+
+&lt;p&gt;We are excited to announce that &lt;a href=&quot;https://carpentries.org/&quot;&gt;The Carpentries&lt;/a&gt; website is now live!&lt;/p&gt;
+
+&lt;p&gt;The new website celebrates our merged identity as The Carpentries.&lt;/p&gt;
+
+&lt;p&gt;The new website will give you access to all things ‘Carpentries’, in other words, it will give you easy access to what is common information across the merged organization. The sorts of things you will find there include our Code of Conduct, information about instructor training and assessment, a range of shared policies, including our privacy policy, details of staffing and project governance, and a whole lot more.&lt;/p&gt;
+
+&lt;p&gt;The existing Data and Software Carpentry sites will remain in place alongside the new site. Since Data and Software Carpentry are ongoing lesson organizations, information related to lessons belongs on those individual sites. We will gradually take down material that is now more logically based on The Carpentries website.&lt;/p&gt;
+
+&lt;p&gt;You may notice that a lot of the links on The Carpentries transfer you directly to &lt;a href=&quot;https://docs.carpentries.org/&quot;&gt;The Carpentries Handbook&lt;/a&gt; that we launched last week.&lt;/p&gt;
+
+&lt;p&gt;The Handbook has been enthusiastically received by our community. For those who haven’t seen it yet, &lt;a href=&quot;https://docs.carpentries.org/&quot;&gt;find it here&lt;/a&gt;. The aim of the Handbook is to provide a one-stop shop for people wanting all kinds of Carpentries-related information. Information is being added and updated all the time so please let us know if there is something missing. The Handbook and the website will complement each other to cover all things Carpentries.&lt;/p&gt;
+
+&lt;p&gt;Please let us know if there are errors or omissions on our new website. You can raise an issue about the website &lt;a href=&quot;https://github.com/carpentries/carpentries.org&quot;&gt;at this link&lt;/a&gt;, or about the Handbook &lt;a href=&quot;https://github.com/carpentries/handbook&quot;&gt;at this link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The launch of the new website completes our transition to a new, merged, online identity as The Carpentries. Increasingly we will blog as The Carpentries, rather than as Software or Data Carpentry, so be sure to check out our &lt;a href=&quot;https://carpentries.org/blog/&quot;&gt;new blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We also have our new merged Twitter feed. &lt;a href=&quot;https://twitter.com/thecarpentries&quot;&gt;Follow The Carpentries on Twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/04/launch-website</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/04/launch-website</guid>
+      </item>
+    
+      <item>
+        <title>Updates on the new Geospatial and Social Sciences lessons</title>
+        <description>&lt;p&gt;In December 2017, we made a &lt;a href=&quot;http://www.datacarpentry.org/blog/geospatial-socsci/&quot;&gt;call for community members to contribute&lt;/a&gt; to two new sets of Data Carpentry lessons, targeted towards researchers working with &lt;a href=&quot;http://www.datacarpentry.org/lessons/#geospatial-curriculum&quot;&gt;geospatial data&lt;/a&gt; or survey data for the &lt;a href=&quot;http://www.datacarpentry.org/lessons/#social-science-curriculum&quot;&gt;social sciences&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There was overwhelming interest from the community in working to develop and publish these two curricula. In the past few months, six new Maintainers for the Geospatial lessons, and five new Maintainers for the Social Sciences lessons have gone through &lt;a href=&quot;https://carpentries.github.io/maintainer-onboarding/&quot;&gt;Maintainer onboarding&lt;/a&gt; and begun to work with their lessons. Please join our community in welcoming Chris Prener, Geoff LaFlair, Peter Smyth, Juan Fung, Stephen Childs, Tyson Swetnam, Lauren O’Brien, Janani Selvaraj, and Lachlan Deer as new Maintainers on these lessons (Chris Prener and Juan Fung will serve as Maintainers for both the Geospatial and the Social Sciences lessons), as well as Leah Wasser and Joseph Stachelek, who will be continuing on as Maintainers for the Geospatial lessons.&lt;/p&gt;
+
+&lt;p&gt;In addition to new Maintainers, a set of &lt;a href=&quot;http://www.datacarpentry.org/lesson-leadership/&quot;&gt;Curriculum Advisors&lt;/a&gt; has also been assembled for each of these new curricula. Curriculum Advisors help to provide strategic oversight, vision, and leadership for a particular set of lessons to guide the overall development of the lessons. Please join us in welcoming Arindam Basu, Chris Prener, Geoff LaFlair, Katie Metzler, Rachel Gibson, Reka Solymosi, Peter Smyth, Scott Peterson, and Stephen Childs as the Curriculum Advisory Committee for the Social Sciences lessons and Anne Fouilloux, Arthur Endsley, Chris Prener, Jeff Hollister, Joseph Stachelek, Leah Wasser, Michael Sumner, Michele Tobias, and Stace Maples as the Curriculum Advisory Committee for the Geospatial lessons. Curriculum Advisors meet twice yearly and advise the curriculum’s Maintainers in overall strategy for the lessons. Meeting minutes for Curriculum Advisory meetings are available in the group’s &lt;a href=&quot;https://github.com/datacarpentry/curriculum-advisors/&quot;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the phenomenal support from the Maintainers and Curriculum Advisors for these lessons, as well as the support of the Carpentry community during the recent Bug BBQ, these lessons are on track for publication. The Social Sciences lessons are scheduled for release at the end of April and the Geospatial lessons will be complete in June.&lt;/p&gt;
+
+&lt;p&gt;We still have work to do before publication! Everyone is invited to help as we enter the final stretch for preparing these lessons for their first official release. If you have a few minutes to spare, head on over to one of the &lt;a href=&quot;http://www.datacarpentry.org/lessons/&quot;&gt;lesson repositories&lt;/a&gt; and check out the open issues or review an existing pull request. You can also contact the lesson Maintainers on the &lt;a href=&quot;https://swc-slack-invite.herokuapp.com/&quot;&gt;SWC Slack channel&lt;/a&gt; with specific questions.&lt;/p&gt;
+
+&lt;p&gt;Thank you to everyone who has participated in building these lessons up to this point. It has been a fantastic community effort. We’re excited to be releasing these lessons soon so that they can benefit researchers in the social sciences and geospatial communities.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/04/geo-socsci-update</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/04/geo-socsci-update</guid>
+      </item>
+    
+      <item>
+        <title>Volunteering for CarpentryCon 2018</title>
+        <description>&lt;p&gt;The first inaugural &lt;a href=&quot;http://www.carpentrycon.org/&quot;&gt;CarpentryCon&lt;/a&gt; is less than 50 days away! The taskforce is diligently working to make sure all t’s are crossed and I’s are dotted to ensure that the Community enjoys a wonderful un-conference. While doing so, we have realized that we need one more thing…&lt;strong&gt;YOU&lt;/strong&gt;!!!&lt;/p&gt;
+
+&lt;p&gt;Have you had a desire to get involved with the planning of CarpentryCon and did not have the time? Or maybe, you felt as though you did not know where you could be most valued? Or maybe, you thought the taskforce had everything under control and did not need your help?&lt;/p&gt;
+
+&lt;p&gt;If you had any of those thoughts, I’m happy to tell you those are all misconceptions. While the planning is well underway, there are areas that can use a few additional hands. And we would  &lt;strong&gt;LOVE&lt;/strong&gt; for you to get involved! You may only be able to assist for an hour, a day or possibly the entire conference. It does not matter the amount of time, if you want to help, there will be something that could use your assistance!&lt;/p&gt;
+
+&lt;p&gt;Here are areas that could use YOU!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Pre-Conference Setup&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Registration&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Speakers and Workshops&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Social Media&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;AV&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Entertainment&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are awesome benefits to becoming a volunteer. Here are just a few:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Making an impact on The Carpentries community&lt;/li&gt;
+  &lt;li&gt;Network with The Carpentries community&lt;/li&gt;
+  &lt;li&gt;Discounted items&lt;/li&gt;
+  &lt;li&gt;Free items&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CarpentryCon will be a history making event for &lt;a href=&quot;https://carpentries.org/&quot;&gt;The Carpentries&lt;/a&gt;. We would like for as many of 
+our community members to be a part of this great event. If you would like to get involved,
+please send an email &lt;a href=&quot;mailto:carpentrycon@carpentries.org&quot;&gt;carpentrycon@carpentries.org&lt;/a&gt; to receive more information.&lt;/p&gt;
+
+&lt;p&gt;We look forward to seeing you in Dublin, Ireland!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/04/volunteers-wanted</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/04/volunteers-wanted</guid>
+      </item>
+    
+      <item>
+        <title>Building Library Carpentry Community and Development</title>
+        <description>&lt;p&gt;We are excited to announce that &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt; has been hired as 
+the &lt;a href=&quot;http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/&quot;&gt;Library Carpentry Community and Development Director&lt;/a&gt; starting May 4, 2018.&lt;/p&gt;
+
+&lt;p&gt;Chris has worked in libraries for more than 21 years to integrate data management and workflows in database and library systems. 
+Through training, consulting and tool development to build programs, he has tried to empower people in research and library 
+communities to work effectively with data. Chris received his MLIS at the University of Washington iSchool 
+while working at the University’s Technology Transfer Office, where he helped automate workflows and develop the unit’s web presence 
+and analytics. He spent roughly ten years working alongside astronomers at the European Southern Observatory (ESO) and 
+Harvard-Smithsonian Center for Astrophysics to advance library data-mining and linking services, 
+e.g. &lt;a href=&quot;https://www.eso.org/sci/libraries/telbib_methodology.html&quot;&gt;ESO Telescope Bibliography&lt;/a&gt;. 
+Also during this time, he led an experimental training series 
+called &lt;a href=&quot;http://www.dst4l.info/&quot;&gt;Data Scientist Training for Librarians&lt;/a&gt; (DST4L) geared towards teaching librarians 
+data-savvy skills to help transform their library services to meet the needs of their research communities. He recently joined the 
+Library Carpentry governance group.&lt;/p&gt;
+
+&lt;p&gt;He is a co-author with Matt Burton, Liz Lyon, and Bonnie Tijerina on the 
+recent report &lt;em&gt;&lt;a href=&quot;http://d-scholarship.pitt.edu/33891/&quot;&gt;Shifting to Data Savvy: The Future of Data Science In Libraries&lt;/a&gt;&lt;/em&gt;, 
+where Library Carpentry and The Carpentries are highlighted as a necessary next step for libraries to advance their 
+research services.&lt;/p&gt;
+
+&lt;p&gt;Chris will be working with the &lt;a href=&quot;https://librarycarpentry.github.io&quot;&gt;Library Carpentry&lt;/a&gt; community and 
+The Carpentries to start mapping out the infrastructure for growing the community, formalizing lesson development processes, 
+expanding its pool of instructors, and inspiring more instructor trainers to meet the demand for Library Carpentry workshops 
+around the globe and thus reach new regions and communities.&lt;/p&gt;
+
+&lt;p&gt;This new position is funded by &lt;a href=&quot;https://www.imls.gov/grants/awarded/re-85-17-0121-17&quot;&gt;IMLS&lt;/a&gt; and hosted 
+by the University of California Curation Center (UC3), the digital curation program of 
+the &lt;a href=&quot;https://www.cdlib.org/&quot;&gt;California Digital Library&lt;/a&gt; (CDL). It is intended to support the work 
+of the &lt;a href=&quot;https://software-carpentry.org/blog/2018/02/library-carpentry-governance.html&quot;&gt;Library Carpentry governance committee&lt;/a&gt; 
+on streamlining operations with The Carpentries, determining standard curriculum, growing instructor training for librarians 
+and planning for community events like the upcoming &lt;a href=&quot;https://www.mozillapulse.org/entry/642&quot;&gt;Mozilla Sprint&lt;/a&gt; to update
+Library Carpentry materials. Chris will be helping to manage the &lt;a href=&quot;http://pad.software-carpentry.org/lc-sprint-2018&quot;&gt;sprint work&lt;/a&gt; in the northern hemisphere.&lt;/p&gt;
+
+&lt;p&gt;Chris is excited about advancing the profession and sees the Library Carpentry and The Carpentries communities as the perfect 
+catalyst to do that. He is on Twitter as &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;@libcce&lt;/a&gt;, on &lt;a href=&quot;https://github.com/libcce&quot;&gt;GitHub&lt;/a&gt; and on &lt;a href=&quot;https://www.linkedin.com/in/christopher-erdmann-1213a456/&quot;&gt;LinkedIn&lt;/a&gt;, and we’re very excited to welcome Chris to this role!&lt;/p&gt;
+
+&lt;p&gt;For more information on Library Carpentry:&lt;a href=&quot;https://librarycarpentry.github.io/&quot;&gt;https://librarycarpentry.github.io&lt;/a&gt; Follow &lt;a href=&quot;https://twitter.com/libcarpentry&quot;&gt;@libcarpentry&lt;/a&gt; on Twitter.
+For more information on UC3 and California Digital Library: &lt;a href=&quot;http://uc3.cdlib.org/&quot;&gt;http://uc3.cdlib.org&lt;/a&gt; Follow &lt;a href=&quot;https://twitter.com/caldiglib&quot;&gt;@caldiglib&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/cUC3CDL&quot;&gt;@UC3CDL&lt;/a&gt; on Twitter.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/04/announce-lc-hire</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/04/announce-lc-hire</guid>
+      </item>
+    
+      <item>
+        <title>Launching our New Handbook</title>
+        <description>&lt;p&gt;As The Carpentries, we’re excited to announce that we have consolidated and updated many
+materials and resources to more easily share them online and be a community resource.&lt;/p&gt;
+
+&lt;p&gt;Today we are launching an all-new &lt;strong&gt;The Carpentries Handbook&lt;/strong&gt;. We will also be tweeting regularly through a 
+new &lt;a href=&quot;https://twitter.com/thecarpentries&quot;&gt;Carpentries Twitter account&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-carpentries-handbook&quot;&gt;The Carpentries Handbook&lt;/h3&gt;
+
+&lt;p&gt;We are excited to release our new &lt;a href=&quot;http://docs.carpentries.org/&quot;&gt;Carpentries Handbook&lt;/a&gt;! Historically, information and resources 
+have been spread across various websites, Google docs, GitHub repos, and more. We now have a one-stop shop 
+that consolidates all these resources. In one place, you can now find information on how to run a workshop, 
+how to develop and maintain lessons, and how to participate in an instructor training event. 
+You’ll also learn about getting the word out about Carpentries activities through our communication channels, 
+and how to get involved in our global community. Many, many thanks to all the community members who helped develop this site.&lt;/p&gt;
+
+&lt;p&gt;We welcome everyone’s feedback on this Handbook. Feel free to submit issues or pull 
+requests on this &lt;a href=&quot;https://github.com/carpentries/handbook/&quot;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-carpentries-twitter&quot;&gt;The Carpentries Twitter&lt;/h3&gt;
+
+&lt;p&gt;We also will be regularly tweeting from our new &lt;strong&gt;The Carpentries&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/thecarpentries&quot;&gt;Twitter account&lt;/a&gt; from now on. 
+Data and Software Carpentry-specific 
+messages will still be tweeted from the individual Twitter accounts, and people will most likely tweet the handles of the 
+individual Carpentries when teaching workshops. People are welcome to use the &lt;a href=&quot;https://twitter.com/swcarpentry&quot;&gt;Software Carpentry&lt;/a&gt;, 
+&lt;a href=&quot;https://twitter.com/datacarpentry&quot;&gt;Data Carpentry&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/thecarpentries&quot;&gt;The Carpentries&lt;/a&gt; Twitter handles 
+in whatever combination that suits them.&lt;/p&gt;
+
+&lt;p&gt;Please take a look at all our new material and let us know what you think. You can comment 
+via &lt;a href=&quot;https://twitter.com/thecarpentries&quot;&gt;Twitter&lt;/a&gt;, 
+&lt;a href=&quot;https://swc-slack-invite.herokuapp.com&quot;&gt;Slack&lt;/a&gt;, or &lt;a href=&quot;https://www.facebook.com/carpentries&quot;&gt;Facebook&lt;/a&gt;, but since 
+issues are less ephemeral than a Tweet, raising an issue or submitting a pull request 
+to the &lt;a href=&quot;https://github.com/carpentries/handbook&quot;&gt;Handbook repo&lt;/a&gt; may work best 
+so we can have a public discussion about what still needs doing.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+        <link>https://datacarpentry.org/blog/2018/04/launch-handbook</link>
+        <guid isPermaLink="true">https://datacarpentry.org/blog/2018/04/launch-handbook</guid>
+      </item>
+    
+  </channel>
+</rss>
