@@ -472,7 +472,7 @@ in contributing in any way, please join the [astronomy-curriculum email list](ht
         <td><a href="{{site.dc_github_repo_url}}/astronomy-python/" target="_blank" class="icon-github" title="Repository for Foundations of Astronomical Data Science Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/astronomy-python/reference.html" target="_blank" class="icon-eye" title="Reference for Foundations of Astronomical Data Science Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/astronomy-python/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Foundations of Astronomical Data Science Lesson"></a></td>
-        <td>Azalee Bostroem, Allen Downey, Rodolfo Montez Jr.</td>
+        <td>Azalee Bostroem, Rodolfo Montez Jr.</td>
   </tr>
 
 
