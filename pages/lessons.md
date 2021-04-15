@@ -474,6 +474,7 @@ in contributing in any way, please join the [astronomy-curriculum email list](ht
         <td><a href="{{site.dc_website_url}}/astronomy-python/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Foundations of Astronomical Data Science Lesson"></a></td>
         <td>Azalee Bostroem, Rodolfo Montez Jr.</td>
   </tr>
+</table>
 
 
 ### <a id="dh-curriculum"></a> Digital Humanities Curriculum
