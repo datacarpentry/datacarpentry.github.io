@@ -341,17 +341,17 @@ Instructor. Instructors who have completed onboarding will be given priority sta
     </tr>
     <tr>
         <td>Geospatial Workshop Overview</td>
-        <td><a href="{{site.dc_website_url}}/geospatial-workshop/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="icon-github"></a></td>
+        <td><a href="{{site.dc_website_url}}/geospatial-workshop/" target="_blank" class="icon-browser" title="Website for Geospatial Workshop"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="Repository for Geospatial Workshop"></a></td>
         <td>&nbsp;</td>
-        <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="icon-eye"></a></td>
+        <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="Reference for Geospatial Workshop"></a></td>
         <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Chris Prener, Joseph Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
     </tr>
     <tr>
         <td>Introduction to Geospatial Concepts</td>
-        <td><a href="{{site.dc_website_url}}/organization-geospatial/" target="_blank" class="icon-browser" title="icon-browser"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="icon-github"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Concepts lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/organization-geospatial/" target="_blank" class="icon-browser" title="Website for Introduction to Geospatial Concepts"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to Geospatial Concepts"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Concepts"></a></td>
         <td>&nbsp;</td>
         <td>Chris Prener, Tyson Swetnam, Rohit Goswami</td>
     </tr>
