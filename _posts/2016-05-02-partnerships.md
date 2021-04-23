@@ -22,9 +22,9 @@ We've been hearing of the interest of organizations to build local capacity for 
 
 
 
-We wanted to provide opportunities for organizations to run multiple workshops, but who aren't currently planning to train instructors (Bronze) and help organizations build local capacity with instructor training, coordinated workshops and self-organized workshops (Silver, Gold). There is also a flexible tier for organizations who are advancing beyond just capacity building and on to sustainment and wide adoption of our methods across disciplines (Platinum).
+We wanted to provide opportunities for organizations to run multiple workshops, but who aren't currently planning to train instructors (Bronze) and help organizations build local capacity with instructor training, coordinated workshops and Self-Organised workshops (Silver, Gold). There is also a flexible tier for organizations who are advancing beyond just capacity building and on to sustainment and wide adoption of our methods across disciplines (Platinum).
 
-In all Partnerships, some [coordinated workshops](../../workshops-host/) are included, so that organizations are freely able (with a small travel budget) to bring in outside instructors to help mentor new instructors and continue to encourage cross-connections of instructors across organizational boundaries. Also, all Partner organizations can run as many [self-organized workshops](../../self-organized-workshops/) as they like.
+In all Partnerships, some [coordinated workshops](../../workshops-host/) are included, so that organizations are freely able (with a small travel budget) to bring in outside instructors to help mentor new instructors and continue to encourage cross-connections of instructors across organizational boundaries. Also, all Partner organizations can run as many [Self-Organised workshops](../../self-organized-workshops/) as they like.
 
 All currently in-place partnerships with the Software Carpentry Foundation will be grandfathered into a joint partnership consistent with their current contract until the current partnership expires, at which time they can select to have a joint partnership or a standalone Software Carpentry or Data Carpentry partnership as they choose.
 

@@ -68,7 +68,7 @@ and [Deputy Director of Assessment](http://www.datacarpentry.org/blog/new-assess
 of new curriculum  
 - Started a joint [Partnership](http://www.datacarpentry.org/partnerships/) program with Software Carpentry.  
 - Developed criteria for [requirements for Data Carpentry workshops](http://www.datacarpentry.org/workshops-host/) and
-[self-organized](http://www.datacarpentry.org/self-organized-workshops/) workshops.  
+[Self-Organised](http://www.datacarpentry.org/self-organized-workshops/) workshops.  
 - Gave [presentations and wrote papers](https://www.zotero.org/groups/datacarpentry) on Data Carpentry and data skills for more
 effective and reproducible research.  
 
