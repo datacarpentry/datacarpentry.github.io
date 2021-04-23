@@ -46,12 +46,12 @@ We are now at the point where there is sufficient experience to move these lesso
 
 ## What are some short- and long-term objectives?
 
-In the short-term, we are organizing the existing lessons repos into new layouts and formatting. Shortly after the call for contributions, we will follow the successful model of having an “Issue Bonanza” to identify problems with existing materials, followed by a “Bug BBQ” where we will fix those problems. In the longer term, we would like to have an active *Genomics Curriculum Committee* - a self-organized group that helps update and maintain the lessons to keep pace with the tools and the science.
+In the short-term, we are organizing the existing lessons repos into new layouts and formatting. Shortly after the call for contributions, we will follow the successful model of having an “Issue Bonanza” to identify problems with existing materials, followed by a “Bug BBQ” where we will fix those problems. In the longer term, we would like to have an active *Genomics Curriculum Committee* - a Self-Organised group that helps update and maintain the lessons to keep pace with the tools and the science.
 
 At the moment, a de facto committee of staff and instructors (Erin Becker, Bob Freeman, Kari Jordan, Mateusz Kuzak, Sue McClatchy, Maneesha Sane, Tracy Teal, Jason Williams) have identified some possible goals to work towards:
 
 - Offering two 2-day workshop formats (One focused on R, one focused on building genomics pipelines
-- Suggesting a comprehensive lesson sequence if workshops are self-organized and will be taught over more than 2 days
+- Suggesting a comprehensive lesson sequence if workshops are Self-Organised and will be taught over more than 2 days
 - Improving how we manage our image and making it easier to reproduce on clouds outside of AWS
 - Offering a full set of lessons adapted to be taught via HPC
 - Improving assessment

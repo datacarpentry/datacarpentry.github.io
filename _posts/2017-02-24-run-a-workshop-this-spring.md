@@ -15,9 +15,9 @@ redirect_from: /blog/run-a-workshop-this-spring/
 ---
 Did you know that 95% of Data Carpentry learners are first-timers? As a community we’ve impacted hundreds of learners around the globe, and 93% of our learners told us that their level of data management and analysis skills were higher because of our workshops!
 
-We’re doing very well as a community, so let’s keep up the good work. We want to encourage you to either [request a workshop](http://www.datacarpentry.org/workshops-host/), or run a [self-organized workshop](http://www.datacarpentry.org/self-organized-workshops/) this Spring (March-May).
+We’re doing very well as a community, so let’s keep up the good work. We want to encourage you to either [request a workshop](http://www.datacarpentry.org/workshops-host/), or run a [Self-Organised workshop](http://www.datacarpentry.org/self-organized-workshops/) this Spring (March-May).
 
-If you’d like to run a self-organized Data Carpentry workshop, but haven’t taught one yet, here are a few tips to get you started:  
+If you’d like to run a Self-Organised Data Carpentry workshop, but haven’t taught one yet, here are a few tips to get you started:  
 1. Look at the [lessons](http://www.datacarpentry.org/lessons) and decide which content you’d like to teach.  
 2. Recruit co-instructors and helpers.  
 3. Find and book a venue.  

@@ -35,7 +35,7 @@ in preparation for community contributions so those will be available for new co
 Almost everyone who responded was interested in hosting or teaching a Genomics workshop. Workshops are already
 being taught using the current versions of the lessons and updated lessons will be available for teaching in
 September. Put in your [workshop request](http://www.datacarpentry.org/workshops-host/) or
-[register for a self-organized workshop](http://www.datacarpentry.org/self-organized-workshops/) now!
+[register for a Self-Organised workshop](http://www.datacarpentry.org/self-organized-workshops/) now!
 
 Thanks to everyone for your interest. It’s great to see so many people passionate about training people in the
 skills for working effectively and reproducibly with genomic data.

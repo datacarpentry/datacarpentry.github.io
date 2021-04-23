@@ -57,6 +57,6 @@ NEON for collecting and sharing the data, organizing and co-hosting the 2016 Hac
 Want to get involved with the Geospatial materials?
 Get badged to teach the Geospatial lessons. Sign up for onboarding using this [Etherpad](https://pad.carpentries.org/geospatial-onboarding). Onboarding sessions also appear on the [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
 Request a Geospatial beta pilot workshop at your institution using this [form](https://amy.carpentries.org/forms/dc/request/). 
-Self-organise a Geospatial beta pilot workshop at your institution. [Use our  self-organized workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html) to plan your workshop..
+Self-organise a Geospatial beta pilot workshop at your institution. [Use our  Self-Organised workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html) to plan your workshop..
 
 

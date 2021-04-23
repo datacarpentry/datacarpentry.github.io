@@ -26,7 +26,7 @@ Exec. Director: Tracy Teal
 **Report on workshops**  
 Workshops since Jan 1, 2016: 48  
 Workshops since last meeting: 7  
-Breakdown: 1 paid; 1 fee waiver (Philippines); 1 fee waiver self-organized; 2 unpaid at conferences; 2 unpaid self-organized (Europe & Australia)
+Breakdown: 1 paid; 1 fee waiver (Philippines); 1 fee waiver Self-Organised; 2 unpaid at conferences; 2 unpaid Self-Organised (Europe & Australia)
 
 **Report on partnerships**  
 8 partnerships signed: Leeds, University of Washington, UCSD, Michigan State, University of Michigan, UCAR, Netherlands eScience

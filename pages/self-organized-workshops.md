@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Self-organized Workshops"
+title: "Self-Organised Workshops"
 header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/self-organized-workshops/"
