@@ -9,7 +9,7 @@ header:
 permalink: "/checkout/"
 ---
 
-After finishing the two day instructor training course, you will complete three short tasks in order to become a
+After finishing the instructor training course, you will complete three short tasks in order to become a
 certified Carpentry instructor. Detailed information about these tasks can be found on the [instructor
 training website]({{ site.instructor_training_url }}checkout/). 
 
