@@ -168,7 +168,7 @@ about the role of the Curriculum Advisory Committee can be found in the
     </tr>
     <tr>
         <td><a href="http://sarahlrstevens.info/">Sarah Stevens</a></td>
-        <td>Ph.D candidate, Microbiology</td>
+        <td>Facilitator, Data Science Hub</td>
         <td>University of Wisconsin, Madison, WI, USA</td>
     </tr>
     <tr>
