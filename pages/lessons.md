@@ -507,6 +507,10 @@ The course is accessible to:
 
 ### <a id="python-atmos"></a>Python for Atmosphere and Ocean Scientists
 
-This lesson is currently in the alpha stage. To move it to the beta stage, we are looking for feedback from people interested to teach this material. If you're a qualified Carpentries instructor and would be interested in teaching the lessons (some experience with the netCDF file format and xarray Python library is useful), please get in touch with either [Damien Irving](https://drclimate.wordpress.com/who-is-dr-climate/) or [Francois Michonneau](mailto:francois@carpentries.org). You can also request a workshop at your institution by contacting us and we’ll reach out to instructors. There is no fee for a pilot workshop, but you would need to cover travel expenses for instructors.
+This lesson in The Carpentries Lab has been peer-reviewed and [published in JOSE](https://jose.theoj.org/papers/10.21105/jose.00037), 
+and is ready to be taught by any certified Carpentries instructor (some experience with the netCDF file format and xarray Python library is useful). 
+It is aimed at learners with some prior experience of Python and the Unix Shell, who want to learn how to work with with raster or “gridded” data in Python.
+As a community-developed lesson, it is currently only available for self-organised workshops.
+If you have questions about the lesson, please contact [the Maintainers listed on the lesson README](https://github.com/carpentrieslab/python-aos-lesson/blob/gh-pages/README.md).
 
 - [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/)
