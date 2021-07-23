@@ -511,6 +511,6 @@ This lesson in The Carpentries Lab has been peer-reviewed and [published in JOSE
 and is ready to be taught by any certified Carpentries instructor (some experience with the netCDF file format and xarray Python library is useful). 
 It is aimed at learners with some prior experience of Python and the Unix Shell, who want to learn how to work with with raster or “gridded” data in Python.
 As a community-developed lesson, it is currently only available for self-organised workshops.
-If you have questions about the lesson, please contact [the Maintainers listed on the lesson README](https://github.com/carpentrieslab/python-aos-lesson/blob/gh-pages/README.md).
+If you have questions about the lesson, please contact [the Maintainers listed on the lesson README](https://github.com/carpentries-lab/python-aos-lesson/blob/gh-pages/README.md).
 
-- [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/)
+- [Python for Atmosphere and Ocean Scientists](https://carpentries-lab.github.io/python-aos-lesson/)
