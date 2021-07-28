@@ -99,7 +99,7 @@ about the role of the Curriculum Advisory Committee can be found in the
         <td>U.S. Environmental Protection Agency</td>
     </tr>
     <tr>
-        <td><a href="http://jsta.rbind.io/">Joseph Stachelek</a></td>
+        <td><a href="http://jsta.rbind.io/">Jemma Stachelek</a></td>
         <td>Researcher, Data Intensive Landscape Limnology Lab</td>
         <td>Michigan State University, MI, USA</td>
     </tr>
