@@ -345,7 +345,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="Repository for Geospatial Workshop"></a></td>
         <td>&nbsp;</td>
         <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="Reference for Geospatial Workshop"></a></td>
-        <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Chris Prener, Joseph Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
+        <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Chris Prener, Jemma Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
     </tr>
     <tr>
         <td>Introduction to Geospatial Concepts</td>
@@ -369,7 +369,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="Repository for  Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td>Ivo Arrey, Drake Asberry, Lauren O'Brien, Joseph Stachelek, Jane Wyngaard</td>
+        <td>Ivo Arrey, Drake Asberry, Lauren O'Brien, Jemma Stachelek, Jane Wyngaard</td>
   </tr>
 
   </table>
