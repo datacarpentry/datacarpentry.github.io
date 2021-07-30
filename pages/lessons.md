@@ -80,7 +80,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="Repository for OpenRefine Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for OpenRefine Ecology lesson"></a></td>
-    <td>Phillip Doehle, Rachel Lombardi, Cam Macdonell, Deborah Paul, Luis J Villanueva</td>
+    <td>Rachel Lombardi, Cam Macdonell, Deborah Paul, Luis J Villanueva</td>
   </tr>
   <tr>
     <td>Data Management with SQL for Ecologists</td>
@@ -126,7 +126,7 @@ Sitio web para la lección de Python"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson-es/" target="_blank" class="icon-github" title="Repositorio python-ecology-es"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/reference.html" target="_blank" class="icon-eye" title="Referencia para la lección de Python"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson-es/guide/" target="_blank" class="icon-circle-with-plus" title="icon-browser"></a></td>
-    <td>Rayna Harris, Paula Andrea Martinez, Heladia Salgado</td>
+    <td>Rayna Harris, Heladia Salgado</td>
   </tr>
 </table>
 
@@ -188,7 +188,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
    <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="Repository for Data wrangling genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for data wrangling genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for data wrangling genomics lesson"></a></td>
-    <td>Josh Herr, Fotis Psomopoulos, Asela Wijeratne, Rhondene Wint </td>
+    <td>Josh Herr, Asela Wijeratne, Rhondene Wint </td>
   </tr>
   <tr>
     <td>Introduction to Cloud Computing for Genomics</td>
