@@ -411,7 +411,7 @@ pilots into the lessons and to make the lessons teachable by the broader communi
         <td><a href="{{site.dc_github_repo_url}}/image-processing/" target="_blank" class="icon-github" title="Repository for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/reference.html" target="_blank" class="icon-eye" title="Reference for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td>Mark Meysenberg</td>
+        <td>Mark Meysenberg, Ulf Schiller</td>
   </tr>
   </table>
 
