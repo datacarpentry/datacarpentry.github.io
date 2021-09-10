@@ -96,7 +96,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="Repository for R Ecology Lesson"></a></td>
 		<td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/reference" target="_blank" class="icon-eye" title="Reference for R Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/instructor-notes" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R Ecology Lesson"></a></td>
-    <td>Ana Costa Conrado, Auriel Fournier, François Michonneau, Brian Seok</td>
+    <td>Tobias Busch, Ana Costa Conrado, Auriel Fournier, François Michonneau, Brian Seok</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python for Ecologists</td>
@@ -411,7 +411,7 @@ pilots into the lessons and to make the lessons teachable by the broader communi
         <td><a href="{{site.dc_github_repo_url}}/image-processing/" target="_blank" class="icon-github" title="Repository for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/reference.html" target="_blank" class="icon-eye" title="Reference for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td>Mark Meysenberg, Ulf Schiller</td>
+        <td>Kimberly Meechan, Mark Meysenberg, David Palmquist, Ulf Schiller, Robert Turner</td>
   </tr>
   </table>
 
