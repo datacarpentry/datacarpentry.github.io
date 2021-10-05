@@ -263,7 +263,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="Repository for Data Organization in Spreadsheets for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Organization in Spreadsheets for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Organization in Spreadsheets for Social Scientists"></a></td>
-    <td>Trevor Burrows, Chris Prener</td>
+    <td>Trevor Burrows</td>
 </tr>
 <tr>
     <td>Data Cleaning with OpenRefine for Social Scientists</td>
@@ -345,7 +345,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="Repository for Geospatial Workshop"></a></td>
         <td>&nbsp;</td>
         <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="Reference for Geospatial Workshop"></a></td>
-        <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Chris Prener, Jemma Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
+        <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Jemma Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
     </tr>
     <tr>
         <td>Introduction to Geospatial Concepts</td>
@@ -353,7 +353,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to Geospatial Concepts"></a></td>
         <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Concepts"></a></td>
         <td>&nbsp;</td>
-        <td>Rohit Goswami, Chris Prener, Tyson Swetnam</td>
+        <td>Rohit Goswami, Tyson Swetnam</td>
     </tr>
     <tr>
         <td>Introduction to R for Geospatial Data</td>
