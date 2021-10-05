@@ -26,11 +26,6 @@ about the role of the Curriculum Advisory Committee can be found in the
         <td>Nanyang Technological University, Singapore</td>
     </tr>
     <tr>
-        <td><a href="https://chris-prener.github.io/">Christopher Prener</a></td>
-        <td>Assistant Professor of Sociology</td>
-        <td>Saint Louis University, MO, USA</td>
-    </tr>
-    <tr>
         <td><a href="http://www.hawaii.edu/sls/people/graduate-faculty/laflair/">Geoff LaFlair</a></td>
         <td>Assistant Professor, Dept. of Second Language Studies</td>
         <td>University of Hawai'i, HI, USA</td>
