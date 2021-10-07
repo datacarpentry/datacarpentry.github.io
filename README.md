@@ -42,6 +42,9 @@ Pushing to the `main` branch triggers GitHub Actions. The script:
 - checks that the YAML headers in pages and blog posts are valid;
 - gets the latest version of the data feeds for the list of past and upcoming workshops;
 - builds the website;
-- pushes to the `master` branch.
+- pushes to the `gh-pages` branch.
 
-GitHub pages takes care of generating the website from the content of the `master` branch. Note that because of current limitations with GitHub, we need to use the `master` branch and keep the name of the repository `datacarpentry.github.io` to ensure that all our lessons are available from `https://datacarpentry.org/<name-of-lesson-repository>`.
+GitHub pages takes care of generating the website from the content of the
+`gh-pages` branch. Note that because of current limitations with GitHub, we need
+to keep the name of the repository `datacarpentry.github.io` to ensure that all
+our lessons are available from `https://datacarpentry.org/<name-of-lesson-repository>`.
