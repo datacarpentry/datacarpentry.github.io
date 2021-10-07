@@ -39,28 +39,6 @@
               </ul>
           </div><!-- /.large-4.columns -->
 
-<!--
-          <div class="small-6 medium-3 large-3 columns">
-            {% for network_item in site.data.network %}
-              {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
-              {% endif %}
-            {% endfor %}
-              
-            <ul class="no-bullet shadow-black">
-            {% for network_item in site.data.network %}
-              {% if network_item.url contains 'http' %}
-                {% assign domain = '' %}
-                {% else %}
-                {% assign domain = site.url %}
-              {% endif %}
-                <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
-                </li>
-            {% endfor %}
-            </ul>
-          </div><!-- /.large-3.columns -->
-
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
