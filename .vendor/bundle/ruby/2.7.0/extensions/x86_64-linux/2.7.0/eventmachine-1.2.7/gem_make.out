@@ -1,0 +1,16 @@
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/hostedtoolcache/Ruby/2.7.2/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.7.2/x64/lib/ruby/2.7.0 -r ./siteconf20210222-2744-67doaf.rb extconf.rb
+creating Makefile
+
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210222-2744-1rpa3sr

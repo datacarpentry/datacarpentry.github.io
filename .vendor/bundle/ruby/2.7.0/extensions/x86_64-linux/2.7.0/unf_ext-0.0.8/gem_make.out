@@ -1,0 +1,16 @@
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+/opt/hostedtoolcache/Ruby/2.7.4/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.7.4/x64/lib/ruby/2.7.0 -r ./siteconf20211007-1787-1oo0mko.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/runner/work/datacarpentry.github.io/datacarpentry.github.io/.vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20211007-1787-1d5e8ln
