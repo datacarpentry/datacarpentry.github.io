@@ -70,7 +70,7 @@ jobs:
           cp ../.gitignore .gitignore # but keep .gitignore
           cd ..
           # copy everything from _site to the gh-pages folder
-          cp -r `ls -A | grep -v 'gh-pages' | grep -v '.git' | grep -v '.bundle' | grep -v '.vendor' | grep -v '_site'` gh-pages
+          cp -r _site gh-pages
           # move into gh-pages, add, commit, and push
           cd gh-pages
           # setup git
