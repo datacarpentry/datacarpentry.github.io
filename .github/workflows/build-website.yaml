@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout the Repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
 
       - name: Set up Ruby
         uses: actions/setup-ruby@v1
@@ -54,9 +54,34 @@ jobs:
       - name: Build site
         run: make site
 
+      - name: Checkout github pages
+        if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          path: gh-pages
+
       - name: Deploy
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' && github.repository == 'datacarpentry/datacarpentry.github.io' }}
-        uses: maxheld83/ghpages@v0.3.0
-        env:
-          BUILD_DIR: _site/
-          GH_PAT: ${{ secrets.GH_PAT_DEPLOY }}
+        if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
+        run: |
+          # clean up gh-pages
+          cd gh-pages
+          git rm -rf .           # remove all previous files
+          git restore --staged . # remove things from the stage
+          cd ..
+          # copy everything from _site to the gh-pages folder
+          cp -r `ls -A | grep -v 'gh-pages' | grep -v '.git' | grep -v '.bundle/' | grep -v '_site'` gh-pages
+          # move into gh-pages, add, commit, and push
+          cd gh-pages
+          # setup git
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git add -A .
+          git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
+          git push origin gh-pages
+          # return
+          cd ..
