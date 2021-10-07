@@ -68,9 +68,11 @@ jobs:
           cd gh-pages
           git rm -rf .           # remove all previous files
           git restore --staged . # remove things from the stage
+          git branch -d gh-pages
+          git switch --orphan gh-pages
           cd ..
           # copy everything from _site to the gh-pages folder
-          cp -r `ls -A | grep -v 'gh-pages' | grep -v '.git' | grep -v '.bundle/' | grep -v '_site'` gh-pages
+          cp -r `ls -A | grep -v 'gh-pages' | grep -v '.git' | grep -v '.bundle' | grep -v '.vendor' | grep -v '_site'` gh-pages
           # move into gh-pages, add, commit, and push
           cd gh-pages
           # setup git
