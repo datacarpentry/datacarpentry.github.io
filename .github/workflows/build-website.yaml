@@ -67,10 +67,9 @@ jobs:
           # clean up gh-pages
           cd gh-pages
           git rm -rf .           # remove all previous files
-          cp ../.gitignore .gitignore # but keep .gitignore
           cd ..
           # copy everything from _site to the gh-pages folder
-          cp -r _site gh-pages/
+          cp -r _site/* gh-pages
           # move into gh-pages, add, commit, and push
           cd gh-pages
           # setup git
