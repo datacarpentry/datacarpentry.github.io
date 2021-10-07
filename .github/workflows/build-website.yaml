@@ -67,7 +67,7 @@ jobs:
           # clean up gh-pages
           cd gh-pages
           git rm -rf .           # remove all previous files
-          cp ../.gitignore .gitignore
+          cp ../.gitignore .gitignore # but keep .gitignore
           cd ..
           # copy everything from _site to the gh-pages folder
           cp -r `ls -A | grep -v 'gh-pages' | grep -v '.git' | grep -v '.bundle' | grep -v '.vendor' | grep -v '_site'` gh-pages
@@ -82,6 +82,6 @@ jobs:
           fi
           git add -A .
           git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
-          git push origin gh-pages
+          git push --force origin gh-pages
           # return
           cd ..
