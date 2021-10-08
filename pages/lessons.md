@@ -271,7 +271,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="Repository for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Cleaning with OpenRefine for Social Scientists"></a></td>
-    <td>Sarah Brown, Ben Companjen, Geoff LaFlair, Isaac Williams</td>
+    <td>Ben Companjen, Geoff LaFlair, Isaac Williams</td>
 </tr>
 <tr>
     <td>Data Analysis and Visualization with R for Social Scientists</td>
