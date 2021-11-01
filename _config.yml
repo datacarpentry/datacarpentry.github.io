@@ -220,7 +220,7 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-google_analytics_tracking_id: UA-68320080-1
+## google_analytics_tracking_id:
 
 
 plugins:
