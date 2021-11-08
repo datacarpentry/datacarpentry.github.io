@@ -43,7 +43,7 @@ The Carpentries also shares <a href="https://carpentries.org/community-lessons/"
 
 ### <a id="ecology-workshop"></a> Ecology Curriculum
 
-This workshop uses a [tabular ecology dataset](https://github.com/datacarpentry/ecology-workshop/blob/master/data.md) from the [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) and teaches data cleaning, management, analysis, and visualization. *There are no pre-requisites, and the materials assume no prior knowledge about the tools.* We use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use.
+This workshop uses a [tabular ecology dataset](https://datacarpentry.org/ecology-workshop/data/index.html) from the [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) and teaches data cleaning, management, analysis, and visualization. *There are no pre-requisites, and the materials assume no prior knowledge about the tools.* We use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use.
 
 The Ecology workshop can be taught using R or Python as the base language.
 
