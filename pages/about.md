@@ -6,7 +6,7 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/about/"
 ---
-Data Carpentry is a lesson project within [The Carpentries](https://carpentries.org). Data Carpentry aims to teach fundamental concepts, skills and tools for working more effectively with data.
+Data Carpentry is a lesson program within [The Carpentries](https://carpentries.org). Data Carpentry aims to teach fundamental concepts, skills and tools for working more effectively with data.
 
 From astronomy to molecular biology, our increasing capacity
 to collect data is changing science. It allows us to ask questions that previously could 
