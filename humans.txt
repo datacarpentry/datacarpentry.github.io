@@ -16,7 +16,7 @@ Twitter: http://twitter.com/phlow
 
 # TECHNOLOGY COLOPHON
 
-Last Updated: 2022/01/10
+Last Updated: 2022/02/01
 Standards: HTML5, CSS3
 Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
 Components: Modernizr, jQuery, Backstretch.js, Reveal, Foundation Framework
