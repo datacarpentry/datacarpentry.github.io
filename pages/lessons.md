@@ -453,7 +453,7 @@ at Central European University. These materials are being piloted locally. Devel
 ### <a id="astronomy-curriculum"></a> Astronomy Curriculum
 
 The American Institute of Physics/Member Society Venture Partnership funding is supporting the development and testing of this lesson. If you are interested
-in contributing in any way, please join the [astronomy-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-astronomy). 
+in contributing in any way, please join the [astronomy-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-astronomy).
 
 #### Lessons
 
@@ -475,13 +475,6 @@ in contributing in any way, please join the [astronomy-curriculum email list](ht
         <td>Azalee Bostroem, Rodolfo Montez Jr.</td>
   </tr>
 </table>
-
-
-### <a id="dh-curriculum"></a> Digital Humanities Curriculum
-
-Many groups are piloting different versions of this curriculum. There is not yet one set of lessons under active development.
-
-If you are interested in following or being involved in development of this curriculum, please sign up for the [dh-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-dh)
 
 
 ### <a id="other-curricula"></a>Other curricula
@@ -507,8 +500,8 @@ The course is accessible to:
 
 ### <a id="python-atmos"></a>Python for Atmosphere and Ocean Scientists
 
-This lesson in The Carpentries Lab has been peer-reviewed and [published in JOSE](https://jose.theoj.org/papers/10.21105/jose.00037), 
-and is ready to be taught by any certified Carpentries instructor (some experience with the netCDF file format and xarray Python library is useful). 
+This lesson in The Carpentries Lab has been peer-reviewed and [published in JOSE](https://jose.theoj.org/papers/10.21105/jose.00037),
+and is ready to be taught by any certified Carpentries instructor (some experience with the netCDF file format and xarray Python library is useful).
 It is aimed at learners with some prior experience of Python and the Unix Shell, who want to learn how to work with with raster or “gridded” data in Python.
 As a community-developed lesson, it is currently only available for self-organised workshops.
 If you have questions about the lesson, please contact [the Maintainers listed on the lesson README](https://github.com/carpentries-lab/python-aos-lesson/blob/gh-pages/README.md).
