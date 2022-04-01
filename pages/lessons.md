@@ -15,17 +15,16 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 ## Curriculum materials
 
+- [Astronomy curriculum](#astronomy-curriculum)
 - [Ecology curriculum](#ecology-workshop)
 - [Genomics curriculum](#genomics-workshop)
-- [Social Sciences curriculum](#social-science-curriculum)
 - [Geospatial data curriculum](#geospatial-curriculum)
+- [Social Sciences curriculum](#social-science-curriculum)
 
-## Curriculum materials under development or consideration
+## Curriculum materials under development
 
 - [Image Processing curriculum](#image-processing-curriculum)
 - [Economics curriculum](#economics-curriculum)
-- [Astronomy curriculum](#astronomy-curriculum)
-- [Digital humanities curriculum](#dh-curriculum)
 - [Other curricula](#other-curricula)
 
 ## Semester materials
@@ -38,6 +37,35 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 <p>
 The Carpentries also shares <a href="https://carpentries.org/community-lessons/">The Carpentries Community Developed Lessons</a>.  This includes <a href="https://carpentries.org/community-lessons/#the-carpentries-incubator">The Carpentries Incubator</a> (lessons under development and seeking peer review), and <a href="https://carpentries.org/community-lessons/#the-carpentrieslab">The CarpentriesLab</a> (lessons that have been vetted by The Carpentries but are not part of our standard offerings).
 </p>
+
+<hr>
+
+### <a id="astronomy-curriculum"></a> Astronomy Curriculum
+
+The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the 
+ever-growing datasets developed in modern astronomy. This curriculum teaches learners to perform database operations (SQL queries, joins, 
+filtering) and to create publication-quality data visualisations. This curriculum assumes [some prior knowledge](https://datacarpentry.org/astronomy-python/prereqs/index.html) of Python and exposure to the Bash shell, equivalent to that taught in a Software Carpentry workshop.
+
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Site</th>
+        <th>Repository</th>
+        <th>Reference</th>
+        <th>Instructor Notes</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Foundations of Astronomical Data Science</td>
+        <td><a href="{{site.dc_website_url}}/astronomy-python/" target="_blank" class="icon-browser" title="Website for Foundations of Astronomical Data Science Lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/astronomy-python/" target="_blank" class="icon-github" title="Repository for Foundations of Astronomical Data Science Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/astronomy-python/reference.html" target="_blank" class="icon-eye" title="Reference for Foundations of Astronomical Data Science Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/astronomy-python/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Foundations of Astronomical Data Science Lesson"></a></td>
+        <td>Azalee Bostroem, Rodolfo Montez Jr.</td>
+  </tr>
+</table>
 
 <hr>
 
@@ -224,6 +252,64 @@ Please note that workshop materials for working with Genomics data in R in "alph
 
 <hr>
 
+### <a id="geospatial-curriculum"></a> Geospatial Data Curriculum
+
+This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with raster and vector data in R for analysis and visualization.
+
+Join the [geospatial curriculum email list](https://carpentries.topicbox.com/groups/curriculum-geospatial) to get updates and be involved in conversations about this curriculum.
+
+Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) and accompanying [slides](https://docs.google.com/presentation/d/1JRnbOLV2QIgw9WzN8KQycU8TpUnqP7_fcDyad_tF-w0/) available to prepare Instructors to teach these lessons. After
+watching this video, please contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}) so that we can record your status as an onboarded
+Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Geospatial workshops.
+
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Site</th>
+        <th>Repository</th>
+        <th>Reference</th>
+        <th>Instructor Notes</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Geospatial Workshop Overview</td>
+        <td><a href="{{site.dc_website_url}}/geospatial-workshop/" target="_blank" class="icon-browser" title="Website for Geospatial Workshop"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="Repository for Geospatial Workshop"></a></td>
+        <td>&nbsp;</td>
+        <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="Reference for Geospatial Workshop"></a></td>
+        <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Jemma Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
+    </tr>
+    <tr>
+        <td>Introduction to Geospatial Concepts</td>
+        <td><a href="{{site.dc_website_url}}/organization-geospatial/" target="_blank" class="icon-browser" title="Website for Introduction to Geospatial Concepts"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to Geospatial Concepts"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Concepts"></a></td>
+        <td>&nbsp;</td>
+        <td>Rohit Goswami, Tyson Swetnam</td>
+    </tr>
+    <tr>
+        <td>Introduction to R for Geospatial Data</td>
+        <td><a href="{{site.dc_website_url}}/r-intro-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to R for Geospatial Data lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to R for Geospatial Data lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to R for Geospatial Data lesson"></a></td>
+        <td>Lachlan Deer, Luca Di Stasio, Juan Fung</td>
+    </tr>
+    <tr>
+        <td>Introduction to Geospatial Raster and Vector Data with R</td>
+        <td><a href="{{site.dc_website_url}}/r-raster-vector-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="Repository for  Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
+        <td>Ivo Arrey, Drake Asberry, Lauren O'Brien, Jemma Stachelek, Jane Wyngaard</td>
+  </tr>
+
+  </table>
+
+<hr>
+
 ### <a id="social-science-curriculum"></a> Social Science Curriculum
 
 This workshop uses a [tabular interview dataset](http://datacarpentry.org/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites,
@@ -314,66 +400,6 @@ Please note that workshop materials for working with Social Science data in Pyth
 
 </table>
 
-
-
-<hr>
-
-### <a id="geospatial-curriculum"></a> Geospatial Data Curriculum
-
-This workshop is co-developed with the National Ecological Observatory Network [(NEON)](http://www.neonscience.org). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with raster and vector data in R for analysis and visualization.
-
-Join the [geospatial curriculum email list](https://carpentries.topicbox.com/groups/curriculum-geospatial) to get updates and be involved in conversations about this curriculum.
-
-Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) and accompanying [slides](https://docs.google.com/presentation/d/1JRnbOLV2QIgw9WzN8KQycU8TpUnqP7_fcDyad_tF-w0/) available to prepare Instructors to teach these lessons. After
-watching this video, please contact [{{ site.dc_email }}](mailto:{{ site.dc_email }}) so that we can record your status as an onboarded
-Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Geospatial workshops.
-
-#### Lessons
-
-<table class="table table-striped">
-    <tr>
-        <th>Lesson</th>
-        <th>Site</th>
-        <th>Repository</th>
-        <th>Reference</th>
-        <th>Instructor Notes</th>
-        <th>Maintainer(s)</th>
-    </tr>
-    <tr>
-        <td>Geospatial Workshop Overview</td>
-        <td><a href="{{site.dc_website_url}}/geospatial-workshop/" target="_blank" class="icon-browser" title="Website for Geospatial Workshop"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="Repository for Geospatial Workshop"></a></td>
-        <td>&nbsp;</td>
-        <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="Reference for Geospatial Workshop"></a></td>
-        <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Jemma Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
-    </tr>
-    <tr>
-        <td>Introduction to Geospatial Concepts</td>
-        <td><a href="{{site.dc_website_url}}/organization-geospatial/" target="_blank" class="icon-browser" title="Website for Introduction to Geospatial Concepts"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/organization-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to Geospatial Concepts"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/organization-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Concepts"></a></td>
-        <td>&nbsp;</td>
-        <td>Rohit Goswami, Tyson Swetnam</td>
-    </tr>
-    <tr>
-        <td>Introduction to R for Geospatial Data</td>
-        <td><a href="{{site.dc_website_url}}/r-intro-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to R for Geospatial Data lesson"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to R for Geospatial Data lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to R for Geospatial Data lesson"></a></td>
-        <td>Lachlan Deer, Luca Di Stasio, Juan Fung</td>
-    </tr>
-    <tr>
-        <td>Introduction to Geospatial Raster and Vector Data with R</td>
-        <td><a href="{{site.dc_website_url}}/r-raster-vector-geospatial" target="_blank" class="icon-browser" title="Website for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="Repository for  Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td>Ivo Arrey, Drake Asberry, Lauren O'Brien, Jemma Stachelek, Jane Wyngaard</td>
-  </tr>
-
-  </table>
-
 <hr>
 
 ## Materials in Early Development
@@ -450,37 +476,9 @@ at Central European University. These materials are being piloted locally. Devel
   </table>
 
 
-### <a id="astronomy-curriculum"></a> Astronomy Curriculum
-
-The American Institute of Physics/Member Society Venture Partnership funding is supporting the development and testing of this lesson. If you are interested
-in contributing in any way, please join the [astronomy-curriculum email list](https://carpentries.topicbox.com/groups/curriculum-astronomy).
-
-#### Lessons
-
-<table class="table table-striped">
-    <tr>
-        <th>Lesson</th>
-        <th>Site</th>
-        <th>Repository</th>
-        <th>Reference</th>
-        <th>Instructor Notes</th>
-        <th>Maintainer(s)</th>
-    </tr>
-    <tr>
-        <td>Foundations of Astronomical Data Science *beta*</td>
-        <td><a href="{{site.dc_website_url}}/astronomy-python/" target="_blank" class="icon-browser" title="Website for Foundations of Astronomical Data Science Lesson"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/astronomy-python/" target="_blank" class="icon-github" title="Repository for Foundations of Astronomical Data Science Lesson"></a></td>
-        <td><a href="{{site.dc_website_url}}/astronomy-python/reference.html" target="_blank" class="icon-eye" title="Reference for Foundations of Astronomical Data Science Lesson"></a></td>
-        <td><a href="{{site.dc_website_url}}/astronomy-python/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Foundations of Astronomical Data Science Lesson"></a></td>
-        <td>Azalee Bostroem, Rodolfo Montez Jr.</td>
-  </tr>
-</table>
-
-
 ### <a id="other-curricula"></a>Other curricula
 
 If you are interested in developing other lessons, please visit [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/blob/master/README.md).
-
 
 
 ## Semester materials
