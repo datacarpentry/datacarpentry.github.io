@@ -92,7 +92,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/ecology-workshop/" target="_blank" class="icon-github" title="Repository for Data Carpentry Ecology workshop"></a></td>
 	<td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>Karen Cranston, Aleksandra Pawlik, Fabrice Rwasimitana, Tracy Teal, Ethan White</td>
+    <td>Karen Cranston, Fabrice Rwasimitana, Ethan White</td>
   </tr>
   <tr>
     <td>Data Organization in Spreadsheets for Ecologists</td>
@@ -100,7 +100,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Spreadsheet Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Spreadsheet Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Spreadsheet Ecology Lesson"></a></td>
-    <td>Monah Abou Alezz, Peter R. Hoyt, Tracy Teal</td>
+    <td>Monah Abou Alezz, Peter R. Hoyt</td>
   </tr>
   <tr>
     <td>Data Cleaning with OpenRefine for Ecologists</td>
@@ -108,7 +108,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="Repository for OpenRefine Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for OpenRefine Ecology lesson"></a></td>
-    <td>Cam Macdonell, Luis J Villanueva</td>
+    <td>Luis J Villanueva</td>
   </tr>
   <tr>
     <td>Data Management with SQL for Ecologists</td>
@@ -116,7 +116,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="Repository for SQL Ecology Lesson"></a></td>
 		<td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for SQL Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for SQL Ecology Lesson"></a></td>
-	<td>Katy Felkner, Timothée Poisot, Rémi Rampin</td>
+	<td>Katy Felkner</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R for Ecologists</td>
@@ -124,7 +124,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="Repository for R Ecology Lesson"></a></td>
 		<td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/reference" target="_blank" class="icon-eye" title="Reference for R Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/instructor-notes" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R Ecology Lesson"></a></td>
-    <td>Tobias Busch, Ana Costa Conrado, François Michonneau, Brian Seok</td>
+    <td>Tobias Busch, François Michonneau, Brian Seok</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python for Ecologists</td>
@@ -132,7 +132,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Python Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python Ecology Lesson"></a></td>
-    <td>Tania Allard, Maxim Belkin</td>
+    <td></td>
   </tr>
 </table>
 
@@ -192,7 +192,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td><a href="{{site.dc_github_repo_url}}/genomics-workshop/" target="_blank" class="icon-github" title="Repository for Genomics Workshop"></a></td>
     <td><a href="{{site.dc_github_site_url}}/genomics-workshop/faq/" target="_blank" class="icon-eye" title="Reference for Genomics Workshop"></a></td>
     <td><a href="{{site.dc_github_site_url}}/genomics-workshop/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Genomics Workshop"></a></td>
-    <td>Sangram Keshari Sahu, Alana Schick</td>
+    <td>Sangram Keshari Sahu</td>
   </tr>
   <tr>
     <td>Project Organization and Management for Genomics</td>
@@ -200,7 +200,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="Repository for Project organization in genomics"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/organization-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for Project organization in genomics"></a></td>
     <td><a href="{{site.dc_github_site_url}}/organization-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Project organization in genomics"></a></td>
-    <td>Peter Hoyt, Yujuan Gui, Mateusz Kuzak, Roselyn Lemus</td>
+    <td>Peter Hoyt</td>
 </tr>
   <tr>
     <td>Introduction to the Command Line for Genomics</td>
@@ -208,7 +208,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="Repository for shell genomics lesson"></a></td>
    	<td><a href="{{site.dc_github_site_url}}/shell-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for shell genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/shell-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for shell genomics lesson"></a></td>
-    <td>Bastian Greshak, Russell Neches, Akshay Paropkari, Shichen Wang</td>
+    <td>Akshay Paropkari</td>
   </tr>
     <tr>
     <td>Data Wrangling and Processing for Genomics</td>
@@ -224,7 +224,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="Repository for introduction to cloud computing for genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/cloud-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for cloud computing for genomics lesson"></a></td>
-    <td>Muhammad Zohaib Anwar, Kevin Buckley, Amanda Charbonneau, Darya Vanichkina, Wendy Wong</td>
+    <td>Amanda Charbonneau, Darya Vanichkina, Wendy Wong</td>
   </tr>
 </table>
 
@@ -246,7 +246,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td><a href="{{site.dc_github_repo_url}}/genomics-r-intro/" target="_blank" class="icon-github" title="Repository for data analysis of genomics data in R"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/genomics-r-intro/reference.html" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/genomics-r-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R genomics lesson"></a></td>
-    <td>Alexia Cardona, Ahmed Moustafa, Krzysztof Poterlowicz, Yuka Takemon, Jason Williams, Naupaka Zimmerman</td>
+    <td>Krzysztof Poterlowicz, Yuka Takemon, Jason Williams, Naupaka Zimmerman</td>
   </tr>
 </table>
 
@@ -279,7 +279,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="Repository for Geospatial Workshop"></a></td>
         <td>&nbsp;</td>
         <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="Reference for Geospatial Workshop"></a></td>
-        <td>Arthur Endsley, Anne Fouilloux, Jeff Hollister, Stace Maples, Jemma Stachelek, Michael Sumner, Michele Tobias, Leah Wasser</td>
+        <td>Anne Fouilloux, Jemma Stachelek</td>
     </tr>
     <tr>
         <td>Introduction to Geospatial Concepts</td>
@@ -303,7 +303,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="Repository for  Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td>Ivo Arrey, Drake Asberry, Lauren O'Brien, Jemma Stachelek, Jane Wyngaard</td>
+        <td>Ivo Arrey, Drake Asberry, Jemma Stachelek</td>
   </tr>
 
   </table>
@@ -341,7 +341,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="Repository for Social Science Workshop"></a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>Angela Li</td>
+    <td></td>
 </tr>
 <tr>
     <td>Data Organization in Spreadsheets for Social Scientists</td>
@@ -365,7 +365,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="Repository for Data Analysis and Visualization with R for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Analysis and Visualization with R for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Analysis and Visualization with R for Social Scientists"></a></td>
-    <td>Juan Fung, Angela Li</td>
+    <td>Juan Fung</td>
 </tr>
 
 </table>
@@ -387,7 +387,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="Repository for Python for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Python for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python for Social Scientists"></a></td>
-    <td>Geoffrey Boushey, Annajiat Alim Rasel</td>
+    <td>Annajiat Alim Rasel</td>
 </tr>
 <tr>
     <td>Data Management with SQL for Social Scientists *alpha*</td>
@@ -395,7 +395,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/sql-socialsci/" target="_blank" class="icon-github" title="Repository for SQL for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for SQL for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for SQL for Social Scientists"></a></td>
-    <td>Peter Smyth</td>
+    <td></td>
 </tr>
 
 </table>
