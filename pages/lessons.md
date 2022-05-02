@@ -92,7 +92,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/ecology-workshop/" target="_blank" class="icon-github" title="Repository for Data Carpentry Ecology workshop"></a></td>
 	<td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>Karen Cranston, Fabrice Rwasimitana, Ethan White</td>
+    <td>Fabrice Rwasimitana, Ethan White</td>
   </tr>
   <tr>
     <td>Data Organization in Spreadsheets for Ecologists</td>
@@ -224,7 +224,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="Repository for introduction to cloud computing for genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/cloud-genomics/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for cloud computing for genomics lesson"></a></td>
-    <td>Amanda Charbonneau, Darya Vanichkina, Wendy Wong</td>
+    <td>Amanda Charbonneau, Wendy Wong</td>
   </tr>
 </table>
 
@@ -279,7 +279,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/geospatial-workshop/" target="_blank" class="icon-github" title="Repository for Geospatial Workshop"></a></td>
         <td>&nbsp;</td>
         <td><a href="{{site.dc_website_url}}/geospatial-workshop/guide/" target="_blank" class="icon-eye" title="Reference for Geospatial Workshop"></a></td>
-        <td>Anne Fouilloux, Jemma Stachelek</td>
+        <td>Jemma Stachelek</td>
     </tr>
     <tr>
         <td>Introduction to Geospatial Concepts</td>
@@ -357,7 +357,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="Repository for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Cleaning with OpenRefine for Social Scientists"></a></td>
-    <td>Ben Companjen, Geoff LaFlair</td>
+    <td>Ben Companjen</td>
 </tr>
 <tr>
     <td>Data Analysis and Visualization with R for Social Scientists</td>
