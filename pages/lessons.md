@@ -312,7 +312,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
 
 ### <a id="social-science-curriculum"></a> Social Science Curriculum
 
-This workshop uses a [tabular interview dataset](http://datacarpentry.org/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites,
+This workshop uses a [tabular interview dataset](https://datacarpentry.org/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites,
 and the materials assume no prior knowledge about the tools.* We use
 a single dataset throughout the workshop to model the data management
 and analysis workflow that a researcher would use.
@@ -337,7 +337,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 </tr>
 <tr>
     <td>Social Science Workshop Overview</td>
-    <td><a href="http://www.datacarpentry.org/socialsci-workshop/" target="_blank" class="icon-browser" title="Website for Scocial Science Workshop"></a></td>
+    <td><a href="{{site.dc_website_url}}/socialsci-workshop/" target="_blank" class="icon-browser" title="Website for Scocial Science Workshop"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/socialsci-workshop/" target="_blank" class="icon-github" title="Repository for Social Science Workshop"></a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -345,7 +345,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 </tr>
 <tr>
     <td>Data Organization in Spreadsheets for Social Scientists</td>
-    <td><a href="http://www.datacarpentry.org/spreadsheets-socialsci/" target="_blank" class="icon-browser" title="Website for Data Organization in Spreadsheets for Social Scientists"></a></td>
+    <td><a href="{{site.dc_website_url}}/spreadsheets-socialsci/" target="_blank" class="icon-browser" title="Website for Data Organization in Spreadsheets for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="Repository for Data Organization in Spreadsheets for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Organization in Spreadsheets for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Organization in Spreadsheets for Social Scientists"></a></td>
@@ -353,7 +353,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 </tr>
 <tr>
     <td>Data Cleaning with OpenRefine for Social Scientists</td>
-    <td><a href="http://www.datacarpentry.org/openrefine-socialsci/" target="_blank" class="icon-browser" title="Website for Data Cleaning with OpenRefine for Social Scientists"></a></td>
+    <td><a href="{{site.dc_website_url}}/openrefine-socialsci/" target="_blank" class="icon-browser" title="Website for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="Repository for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Cleaning with OpenRefine for Social Scientists"></a></td>
@@ -361,7 +361,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 </tr>
 <tr>
     <td>Data Analysis and Visualization with R for Social Scientists</td>
-    <td><a href="http://www.datacarpentry.org/r-socialsci/" target="_blank" class="icon-browser" title="Website for Data Analysis and Visualization with R for Social Scientists"></a></td>
+    <td><a href="{{site.dc_website_url}}/r-socialsci/" target="_blank" class="icon-browser" title="Website for Data Analysis and Visualization with R for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/r-socialsci/" target="_blank" class="icon-github" title="Repository for Data Analysis and Visualization with R for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Analysis and Visualization with R for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/r-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Analysis and Visualization with R for Social Scientists"></a></td>
@@ -383,7 +383,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 </tr>
 <tr>
     <td>Data Analysis and Visualization with Python for Social Scientists *alpha*</td>
-    <td><a href="http://www.datacarpentry.org/python-socialsci/" target="_blank" class="icon-browser" title="Website for Python for Social Scientists"></a></td>
+    <td><a href="{{site.dc_website_url}}/python-socialsci/" target="_blank" class="icon-browser" title="Website for Python for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/python-socialsci/" target="_blank" class="icon-github" title="Repository for Python for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Python for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python for Social Scientists"></a></td>
@@ -391,7 +391,7 @@ Please note that workshop materials for working with Social Science data in Pyth
 </tr>
 <tr>
     <td>Data Management with SQL for Social Scientists *alpha*</td>
-    <td><a href="http://www.datacarpentry.org/sql-socialsci/" target="_blank" class="icon-browser" title="Website for SQL for Social Scientists"></a></td>
+    <td><a href="{{site.dc_website_url}}/sql-socialsci/" target="_blank" class="icon-browser" title="Website for SQL for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/sql-socialsci/" target="_blank" class="icon-github" title="Repository for SQL for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for SQL for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-socialsci/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for SQL for Social Scientists"></a></td>
@@ -485,14 +485,14 @@ If you are interested in developing other lessons, please visit [The Carpentries
 
 ### <a id="biology-semester-long-course"></a> Biology Semester-long Course
 
-The [Biology Semester-long Course](http://www.datacarpentry.org/semester-biology/)
+The [Biology Semester-long Course]({{site.dc_website_url}}/semester-biology/)
 was developed and piloted at the University of Florida in Fall 2015.
 Course materials include readings, lectures, exercises, and assignments
 that expand on the material presented at workshops focusing on SQL and R.
 The course is accessible to:
 
-- [Self-guided Students](http://www.datacarpentry.org/semester-biology/START-for-self-guided-students)
-- [Instructors](http://www.datacarpentry.org/semester-biology/docs/)
+- [Self-guided Students]({{site.dc_website_url}}/semester-biology/START-for-self-guided-students)
+- [Instructors]({{site.dc_website_url}}/semester-biology/docs/)
 
 ## Community-contributed materials
 
