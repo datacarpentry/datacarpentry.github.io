@@ -312,7 +312,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
 
 ### <a id="social-science-curriculum"></a> Social Science Curriculum
 
-This workshop uses a [tabular interview dataset](https://datacarpentry.org/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites,
+This workshop uses a [tabular interview dataset]({{site.dc_website_url}}/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites,
 and the materials assume no prior knowledge about the tools.* We use
 a single dataset throughout the workshop to model the data management
 and analysis workflow that a researcher would use.
