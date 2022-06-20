@@ -132,7 +132,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Python Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python Ecology Lesson"></a></td>
-    <td>Sarah Pohl</td>
+    <td>Alex Pakalniskis, Sarah Pohl</td>
   </tr>
 </table>
 
