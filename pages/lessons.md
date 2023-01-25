@@ -19,11 +19,11 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 - [Ecology curriculum](#ecology-workshop)
 - [Genomics curriculum](#genomics-workshop)
 - [Geospatial data curriculum](#geospatial-curriculum)
+- [Image Processing curriculum](#image-processing-curriculum)
 - [Social Sciences curriculum](#social-science-curriculum)
 
 ## Curriculum materials under development
 
-- [Image Processing curriculum](#image-processing-curriculum)
 - [Economics curriculum](#economics-curriculum)
 - [Other curricula](#other-curricula)
 
@@ -42,8 +42,8 @@ The Carpentries also shares <a href="https://carpentries.org/community-lessons/"
 
 ### <a id="astronomy-curriculum"></a> Astronomy Curriculum
 
-The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the 
-ever-growing datasets developed in modern astronomy. This curriculum teaches learners to perform database operations (SQL queries, joins, 
+The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the
+ever-growing datasets developed in modern astronomy. This curriculum teaches learners to perform database operations (SQL queries, joins,
 filtering) and to create publication-quality data visualisations. This curriculum assumes [some prior knowledge](https://datacarpentry.org/astronomy-python/prereqs/index.html) of Python and exposure to the Bash shell, equivalent to that taught in a Software Carpentry workshop.
 
 #### Lessons
@@ -310,6 +310,42 @@ Instructor. Instructors who have completed onboarding will be given priority sta
 
 <hr>
 
+### <a id="image-processing-curriculum"></a> Image Processing Curriculum
+
+This workshop uses Python and a variety of example images
+to teach the foundational concepts of image processing,
+and the skills needed to programmatically extract information from image data.
+The current version of the curriculum was developed from material originally
+created by Dr. Tessa Durham Brooks and Dr. Mark Meysenburg
+at Doane College, Nebraska, USA,
+with support from an NSF iUSE grant.
+Further development of the curriculum was supported by [a grant from the Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling)/.
+
+Join the [image processing curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image)
+and/or [the `dc-image-processing` channel on The Carpentries Slack workspace](https://swcarpentry.slack.com/archives/C027H977ZGU)
+to get updates and be involved in conversations about this curriculum.
+
+#### Lessons
+
+<table class="table table-striped">
+    <tr>
+        <th>Lesson</th>
+        <th>Site</th>
+        <th>Repository</th>
+        <th>Reference</th>
+        <th>Instructor Notes</th>
+        <th>Maintainer(s)</th>
+    </tr>
+    <tr>
+        <td>Image Processing with Python</td>
+        <td><a href="{{site.dc_website_url}}/image-processing/" target="_blank" class="icon-browser" title="Website for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_github_repo_url}}/image-processing/" target="_blank" class="icon-github" title="Repository for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/image-processing/reference.html" target="_blank" class="icon-eye" title="Reference for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td><a href="{{site.dc_website_url}}/image-processing/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Image Processing with Python Data Carpentry Lesson"></a></td>
+        <td>Toby Hodges, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner</td>
+  </tr>
+  </table>
+
 ### <a id="social-science-curriculum"></a> Social Science Curriculum
 
 This workshop uses a [tabular interview dataset]({{site.dc_website_url}}/socialsci-workshop/data/) from the [SAFI Teaching Database](https://figshare.com/articles/SAFI_Survey_Results/6262019) and teaches data cleaning, management, analysis and visualization. *There are no pre-requisites,
@@ -410,36 +446,6 @@ description. If you are interested in developing a different curriculum, using T
 model, see our [Curriculum Development Handbook](https://cdh.carpentries.org) for information about how to get started.
 If you are interested in contributing to the development of Data Carpentry lessons in general,
 visit the [Help Wanted page on the Carpentries website](https://carpentries.org/help-wanted-issues/) to find a list of issues in need of attention.
-
-
-### <a id="image-processing-curriculum"></a> Image Processing Curriculum
-
-With support from an NSF iUSE grant, Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA have developed
-a curriculum for teaching image processing in Python. This lesson is currently being piloted at different institutions. This pilot phase
-will be followed by a clean-up phase to incorporate suggestions and feedback from the
-pilots into the lessons and to make the lessons teachable by the broader community. Development for these lessons has been supported by a grant from the [Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling)/
-
-
-#### Lessons
-
-<table class="table table-striped">
-    <tr>
-        <th>Lesson</th>
-        <th>Site</th>
-        <th>Repository</th>
-        <th>Reference</th>
-        <th>Instructor Notes</th>
-        <th>Maintainer(s)</th>
-    </tr>
-    <tr>
-        <td>Image Processing with Python</td>
-        <td><a href="{{site.dc_website_url}}/image-processing/" target="_blank" class="icon-browser" title="Website for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td><a href="{{site.dc_github_repo_url}}/image-processing/" target="_blank" class="icon-github" title="Repository for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td><a href="{{site.dc_website_url}}/image-processing/reference.html" target="_blank" class="icon-eye" title="Reference for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td><a href="{{site.dc_website_url}}/image-processing/guide/" target="_blank" class="icon-eye" title="Instructor Notes for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td>Kimberly Meechan, Mark Meysenberg, David Palmquist, Ulf Schiller, Robert Turner</td>
-  </tr>
-  </table>
 
 ### <a id="economics-curriculum"></a> Economics Curriculum
 
