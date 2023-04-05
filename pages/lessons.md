@@ -116,7 +116,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/sql-ecology-lesson/" target="_blank" class="icon-github" title="Repository for SQL Ecology Lesson"></a></td>
 		<td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for SQL Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/sql-ecology-lesson/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for SQL Ecology Lesson"></a></td>
-	<td>Katy Felkner, James Foster, Sathya Pandalai</td>
+	<td>Katy Felkner, James Foster</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in R for Ecologists</td>
@@ -124,7 +124,7 @@ The Ecology workshop can be taught using R or Python as the base language.
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="Repository for R Ecology Lesson"></a></td>
 		<td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/reference" target="_blank" class="icon-eye" title="Reference for R Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/instructor-notes" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R Ecology Lesson"></a></td>
-    <td>Tobias Busch, François Michonneau, Brian Seok</td>
+    <td>Tobias Busch, Brian Seok</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python for Ecologists</td>
@@ -192,7 +192,7 @@ Please note that workshop materials for working with Genomics data in R in "alph
     <td><a href="{{site.dc_github_repo_url}}/genomics-workshop/" target="_blank" class="icon-github" title="Repository for Genomics Workshop"></a></td>
     <td><a href="{{site.dc_github_site_url}}/genomics-workshop/faq/" target="_blank" class="icon-eye" title="Reference for Genomics Workshop"></a></td>
     <td><a href="{{site.dc_github_site_url}}/genomics-workshop/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Genomics Workshop"></a></td>
-    <td>Karega Pauline, Sangram Keshari Sahu</td>
+    <td>Karega Pauline</td>
   </tr>
   <tr>
     <td>Project Organization and Management for Genomics</td>
