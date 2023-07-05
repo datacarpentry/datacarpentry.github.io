@@ -1,0 +1,37 @@
+# Social icon names are the fully qualified
+#   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
+people:
+
+- name_personal: Luis
+  name_family: Villanueva
+  role: Chair
+  github: villanueval
+  country: US
+  social:
+    - icon: fab fa-github
+      url: https://github.com/villanueval
+
+- name_personal: Ivelina
+  name_family: Momcheva
+  role: Secretary
+  github: ivastar
+  country: DE
+  social:
+    - icon: fab fa-github
+      url: https://github.com/ivastar
+
+- name_personal: Ulf
+  name_family: Schiller
+  github: uschille
+  country: US
+  social:
+    - icon: fab fa-github
+      url: https://github.com/uschille
+
+- name_personal: Mike
+  name_family: Mahoney
+  github: mikemahoney218
+  country: US
+  social:
+    - icon: fab fa-github
+      url: https://github.com/mikemahoney218

@@ -14,8 +14,8 @@
     url: "https://carpentries.org/team/"
   - title: "Code of Conduct"
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Governance"
-    url: "https://carpentries.org/governance/"
+  - title: "Community Governance"
+    url: "/governance/"
   - title: "Assessment"
     url: "/assessment/"
 
