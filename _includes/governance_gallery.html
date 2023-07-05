@@ -1,0 +1,42 @@
+{% include lazyload.html %}
+ <!-- Governance Committee Gallery Section -->
+
+  {% assign governance_committee = site.data.governance_committee.people | sort: "name_family"%}
+    <section id="governance_gallery" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                </div>
+            </div>
+                {% for person in governance_committee %}
+
+                {% assign loopindex = forloop.index | modulo: 3 %}
+                {% if loopindex == 1 %}
+                <div class="row">
+                {% endif %}
+                <div class="medium-4 columns">
+                    <div class="team-member">
+
+                    {% if person.pic %}
+                    <img src="{{ site.filesurl }}/governance/{{ person.pic }}.jpg" width=150 height=150 class="img-responsive img-circle lazyload" alt="">
+
+                    {% elsif person.github %}
+                      <a href="https://github.com/{{ person.github }}"><img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=150 height=150 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.name}}"></a>
+
+                    {% else %}
+                    <img data-src="https://www.gravatar.com/avatar/{{ person.gravatar }}?d=mp" width=150 height=150 class="img-responsive img-circle lazyload" alt="Gravatar profile photo of {{person.name}}">
+
+                    {% endif %}
+
+                      <h3>{{ person.name_personal }} {{ person.name_family }}{% if person.role %}, {{ person.role }}</h4>{% endif %}</h3>
+
+                      <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
+                    </div>
+                    </div>
+                {% if loopindex == 0 %}
+                  </div>
+                {% endif %}
+                {% endfor %}
+
+        </div>
+    </section>
