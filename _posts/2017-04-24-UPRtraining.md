@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Instructor Development", "Latin America", "Workshops"]
+tags: ["Instructor Development", "Latin America", "Workshops", "Data Carpentry"]
 authors: [Rayna Harris, Sue McClatchy, Tracy Teal]
 redirect_from: /blog/UPRtraining/
 ---

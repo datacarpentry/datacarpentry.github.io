@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Workshops"]
+tags: ["Workshops", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/workshops/
 ---

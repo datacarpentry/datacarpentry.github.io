@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Administration", "Community"]
+tags: ["Administration", "Community", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/run-a-workshop-this-spring/
 ---

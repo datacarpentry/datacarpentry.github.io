@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Workshops"]
+tags: ["Workshops", "Data Carpentry"]
 authors: ["Caroline F. Ajilogba", "Amy Hodge"]
 redirect_from: /blog/dc-mafikeng-workshop/
 ---

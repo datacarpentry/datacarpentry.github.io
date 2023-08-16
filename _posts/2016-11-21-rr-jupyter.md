@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Communications", "Collaborations", "Events"]
+tags: ["Communications", "Collaborations", "Events", "Data Carpentry"]
 authors: ["Hilmar Lapp", "Tracy Teal", "François Michonneau", "Kellie Ottoboni", "Jamie Whitacre", "Jasmine Nirody"]
 redirect_from: /blog/rr-jupyter/
 ---

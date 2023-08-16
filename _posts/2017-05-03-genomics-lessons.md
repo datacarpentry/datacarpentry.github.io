@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Curriculum", "Genomics", "Events", "Bug BBQ"]
+tags: ["Curriculum", "Genomics", "Events", "Bug BBQ", "Data Carpentry"]
 authors: [Jason Williams, Tracy Teal]
 ---
 

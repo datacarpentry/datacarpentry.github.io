@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Assessment", "Community", "Reports"]
+tags: ["Assessment", "Community", "Reports", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/long-term-assessment-strategy/
 ---

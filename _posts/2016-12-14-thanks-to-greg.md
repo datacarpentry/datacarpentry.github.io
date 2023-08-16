@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Community", "Announcements"]
+tags: ["Community", "Announcements", "Data Carpentry"]
 authors: ["Data Carpentry Steering Committee", "Staff"]
 redirect_from: /blog/thanks-to-greg/
 ---

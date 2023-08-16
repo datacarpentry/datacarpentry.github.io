@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Assessment", "Carpentries Team"]
+tags: ["Assessment", "Carpentries Team", "Data Carpentry"]
 authors: ["Erin Becker", "Kari L. Jordan"]
 redirect_from: /blog/new-assessment-director/
 ---

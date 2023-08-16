@@ -9,7 +9,7 @@ Categories:
 comments: true
 show_meta: true
 date: 2017-11-06
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["John Chodacki"]
 ---
 

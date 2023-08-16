@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Community", "Code of Conduct", "Feedback"]
+tags: ["Community", "Code of Conduct", "Feedback", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/code-of-conduct/
 ---

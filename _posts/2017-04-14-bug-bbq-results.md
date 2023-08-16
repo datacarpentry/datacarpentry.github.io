@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Bug BBQ", "Events", "Reports"]
+tags: ["Bug BBQ", "Events", "Reports", "Data Carpentry"]
 authors: [Tracy Teal, Erin Becker]
 redirect_from: /blog/bug-bbq-results/
 ---

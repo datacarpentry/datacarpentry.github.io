@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Skillshare"]
+tags: ["Skillshare", "Data Carpentry"]
 authors: ["Elizabeth Wickes"]
 redirect_from: /blog/data-licensing/
 ---

@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Community", "Skillshare"]
+tags: ["Community", "Skillshare", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/intro-data-in-field/
 ---

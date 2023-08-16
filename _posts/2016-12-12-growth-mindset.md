@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Inclusion", "Instructor Development"]
+tags: ["Inclusion", "Instructor Development", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/growth-mindset/
 ---

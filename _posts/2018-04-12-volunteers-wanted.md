@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Sher!"]
 redirect_from: /blog/volunteers-wanted/
 ---

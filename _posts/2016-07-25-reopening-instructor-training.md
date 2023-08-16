@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Instructor Development"]
+tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Greg Wilson"]
 redirect_from: /blog/reopening-instructor-training/
 ---

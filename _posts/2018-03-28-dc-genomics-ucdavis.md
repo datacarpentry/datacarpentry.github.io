@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Workshops", "Genomics"]
+tags: ["Workshops", "Genomics", "Data Carpentry"]
 authors: ["Lisa K. Johnson"]
 redirect_from: /blog/dc-genomics-ucdavis/
 ---

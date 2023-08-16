@@ -9,7 +9,7 @@ Categories:
   - blog  
 comments: true  
 show_meta: true    
-tags: ["Inclusion", "Community"]
+tags: ["Inclusion", "Community", "Data Carpentry"]
 authors: ["Data Carpentry Steering Committee", "Software Carpentry Steering Committee", "Staff"]    
 redirect_from: /blog/inclusion/
 ---

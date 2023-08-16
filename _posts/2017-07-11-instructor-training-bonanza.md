@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Events", "Instructor Development"]
+tags: ["Events", "Instructor Development", "Data Carpentry"]
 authors: [Erin Becker]
 redirect_from: /blog/instructor-training-bonanza/
 ---

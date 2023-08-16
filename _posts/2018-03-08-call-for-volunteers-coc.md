@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker"]
 redirect_from: /blog/call-for-volunteers-coc/
 ---

@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Community", "Africa"]
+tags: ["Community", "Africa", "Data Carpentry"]
 authors: ["Bianca Peterson", "Anelda van der Walt", "Maryke Schoonen", "Jason Williams"]
 redirect_from: /blog/genomics-nwu/
 ---

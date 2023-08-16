@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Jobs", "Administration"]
+tags: ["Jobs", "Administration", "Data Carpentry"]
 authors: ["Jonah Duckles", "Tracy Teal"]
 redirect_from: /blog/community-developement-lead/
 ---

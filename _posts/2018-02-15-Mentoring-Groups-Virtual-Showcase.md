@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/Mentoring-Groups-Virtual-Showcase/
 ---

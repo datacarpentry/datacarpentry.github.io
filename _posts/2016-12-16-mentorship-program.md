@@ -9,7 +9,7 @@ categories:
  - blog
 comments: true
 show_meta: true
-tags: ["Announcements", "Community"]
+tags: ["Announcements", "Community", "Data Carpentry"]
 authors: ["Christina Koch", "Erin Becker"]
 redirect_from: /blog/mentorship-program/
 ---

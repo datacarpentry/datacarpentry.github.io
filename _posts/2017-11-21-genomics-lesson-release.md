@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/genomics-lesson-release/
 ---

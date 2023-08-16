@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Community", "USA"]
+tags: ["Community", "USA", "Data Carpentry"]
 authors: ["Matthew Collins", "François Michonneau", "Brian Stucky", "Ethan White"]
 date: 2017-02-27
 redirect_from: /blog/uf-program/

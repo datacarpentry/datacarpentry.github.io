@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline: "Data in the Field"
-tags: ["Skillshare"]
+tags: ["Skillshare", "Data Carpentry"]
 authors: ["Damien Irving"]
 title: "Climate Science and the Command Line"
 teaser: ""

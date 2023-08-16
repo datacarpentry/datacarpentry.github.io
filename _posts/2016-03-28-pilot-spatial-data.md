@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Workshops", "Geospatial"]
+tags: ["Workshops", "Geospatial", "Data Carpentry"]
 authors: ["Leah Wasser"]
 ---
 

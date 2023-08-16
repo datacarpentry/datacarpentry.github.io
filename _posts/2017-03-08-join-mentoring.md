@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Community", "Instructor Development"]
+tags: ["Community", "Instructor Development", "Data Carpentry"]
 authors: ["Christina Koch"]
 redirect_from: /blog/join-mentoring/
 ---

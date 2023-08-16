@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Genomics", "Curriculum"]
+tags: ["Genomics", "Curriculum", "Data Carpentry"]
 authors: ["Erin Becker", "Bob Freeman", "Mateusz Kuzak", "Sue McClatchy", "Tracy Teal", "Jason Williams"]
 redirect_from: /blog/genomics-interest/
 ---

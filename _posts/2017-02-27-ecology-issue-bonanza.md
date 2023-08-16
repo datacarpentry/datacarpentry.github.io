@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Bug BBQ", "Carpentries Lessons"]
+tags: ["Bug BBQ", "Carpentries Lessons", "Data Carpentry"]
 authors: ["Erin Becker", "François Michonneau", "Tracy Teal"]
 redirect_from: /blog/ecology-issue-bonanza/
 ---

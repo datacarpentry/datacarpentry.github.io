@@ -9,7 +9,7 @@ Categories:
  - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Carpentry Staff"]
 redirect_from: /blog/wrap-cycle-ganymede/
 ---

@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Kate Hertweck"]
 redirect_from: /blog/exec-council-announce/
 ---

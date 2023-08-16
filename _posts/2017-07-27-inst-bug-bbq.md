@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Bug BBQ", "Events", "Instructor Development"]
+tags: ["Bug BBQ", "Events", "Instructor Development", "Data Carpentry"]
 authors: ["Belinda Weaver", "Erin Becker"]
 redirect_from: /blog/inst-bug-bbq/
 ---

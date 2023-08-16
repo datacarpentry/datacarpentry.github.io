@@ -9,7 +9,7 @@ Categories:
   - blog  
 comments: true  
 show_meta: true    
-tags: ["Governance", "Instructor Development"]
+tags: ["Governance", "Instructor Development", "Data Carpentry"]
 authors: ["Erin Becker"]    
 redirect_from: /blog/moving-forward/
 ---  

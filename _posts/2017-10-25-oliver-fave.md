@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Skillshare"]
+tags: ["Skillshare", "Data Carpentry"]
 authors: ["Jeff Oliver"]
 redirect_from: /blog/oliver-fave/
 ---

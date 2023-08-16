@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Instructor Development"]
+tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Erin Becker"]
 ---
 

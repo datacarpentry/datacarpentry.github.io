@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Skillshare"]
+tags: ["Skillshare", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/minute-cards/
 ---

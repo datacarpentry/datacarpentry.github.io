@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Workshops"]
+tags: ["Workshops", "Data Carpentry"]
 authors: ["Justin Millar", "Shawn Taylor", "Ben Kok Toh", "Ethan White"]
 ---
 

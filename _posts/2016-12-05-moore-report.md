@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Grants", "Funding", "Reports"]
+tags: ["Grants", "Funding", "Reports", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/moore-report/
 ---

@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Partnerships", "Africa"]
+tags: ["Partnerships", "Africa", "Data Carpentry"]
 authors: ["Anelda van der Walt"]
 redirect_from: /blog/sa-partner/
 ---

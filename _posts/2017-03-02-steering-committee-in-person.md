@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Administration", "Reports"]
+tags: ["Administration", "Reports", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/steering-committee-in-person/
 ---

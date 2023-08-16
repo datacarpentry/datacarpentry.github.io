@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Communications"]
+tags: ["Communications", "Data Carpentry"]
 authors: ["Tracy Teal", "Erin Becker"]
 ---
 

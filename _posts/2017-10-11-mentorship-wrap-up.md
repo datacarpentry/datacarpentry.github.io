@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Erin Becker", "Kari L. Jordan", "Tracy Teal", "Christina Koch"] 
 
 redirect_from: /blog/mentorship-wrap-up/

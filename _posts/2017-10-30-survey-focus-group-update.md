@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan", "Stephen Childs", "Alycia Crall", "Reshama Shaikh", "Aleksandra Nenadic", "Karen Word", "Louisa Bells"]
 
 redirect_from: /blog/survey-focus-group-update/

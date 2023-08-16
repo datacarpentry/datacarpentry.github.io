@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Marianne Corvellec", "Karen Word"]
 redirect_from: /blog/tractenberg-summary/
 ---

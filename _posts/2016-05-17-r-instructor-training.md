@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Instructor Development", "Workshops"]
+tags: ["Instructor Development", "Workshops", "Data Carpentry"]
 authors: ["Greg Wilson"]
 redirect_from: /blog/r-instructor-training/
 ---

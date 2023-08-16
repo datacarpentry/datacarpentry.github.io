@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Marian Schmidt", "Jamie Hadwin"]
 redirect_from: /blog/mentoring-co-chair/
 ---

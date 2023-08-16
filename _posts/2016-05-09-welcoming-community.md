@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Inclusion", "Communications"]
+tags: ["Inclusion", "Communications", "Data Carpentry"]
 authors: ["Tracy Teal", "Jonah Duckles"]
 redirect_from: /blog/welcoming-community/
 ---

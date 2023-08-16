@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Collaborations", "Curriculum"]
+tags: ["Collaborations", "Curriculum", "Data Carpentry"]
 authors: ["Zack Brym"]
 redirect_from: /blog/course-collaboration/
 ---

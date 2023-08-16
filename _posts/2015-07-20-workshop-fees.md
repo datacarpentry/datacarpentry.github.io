@@ -10,7 +10,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Communications", "Workshops"]
+tags: ["Communications", "Workshops", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/workshop-fees/
 ---

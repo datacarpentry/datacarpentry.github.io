@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Assessment", "Reports"]
+tags: ["Assessment", "Reports", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/reflections-on-assessment/
 ---

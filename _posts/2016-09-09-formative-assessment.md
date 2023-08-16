@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Assessment", "Workshops"]
+tags: ["Assessment", "Workshops", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/formative-assessment/
 ---

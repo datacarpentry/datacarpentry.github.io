@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Workshops", "Reports"]
+tags: ["Workshops", "Reports", "Data Carpentry"]
 authors: [Mateusz Kuzak]
 redirect_from: /blog/amsterdam-genomics/
 ---

@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Administration"]
+tags: ["Administration", "Data Carpentry"]
 authors: ["Carpentry Staff"]
 redirect_from: /blog/cycle-phobos-wrap/
 ---

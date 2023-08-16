@@ -9,7 +9,7 @@ categories:
     - blog  
 comments: true  
 show_meta: true  
-tags: ["Bug BBQ", "Genomics"]
+tags: ["Bug BBQ", "Genomics", "Data Carpentry"]
 authors: ["Erin Becker"]  
 redirect_from: /blog/genomics-bbq/
 ---

@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Skillshare"]
+tags: ["Skillshare", "Data Carpentry"]
 authors: ["Naupaka Zimmerman"]
 redirect_from: /blog/hand-crafted-databases/
 ---

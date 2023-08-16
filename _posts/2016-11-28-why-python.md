@@ -1,7 +1,7 @@
 ---
 layout: post
 subheadline: "Why we teach what we teach"
-tags: ["Curriculum"]
+tags: ["Curriculum", "Data Carpentry"]
 authors: ["April Wright"]
 title: "The Python ecology lessons"
 teaser: ""

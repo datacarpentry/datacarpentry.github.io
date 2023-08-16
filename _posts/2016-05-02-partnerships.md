@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Communications", "Collaborations"]
+tags: ["Communications", "Collaborations", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/partnerships/
 ---

@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann",  "Belinda Weaver"]
 redirect_from: /blog/announce-lc-hire/
 ---

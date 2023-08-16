@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Community", "Merger"]
+tags: ["Community", "Merger", "Data Carpentry"]
 authors: [ "Rayna Harris"]
 redirect_from: /blog/mergermotions/
 ---

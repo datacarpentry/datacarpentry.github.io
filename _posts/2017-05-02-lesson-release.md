@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Communications", "Announcements"]
+tags: ["Communications", "Announcements", "Data Carpentry"]
 authors: [Tracy Teal]
 redirect_from: /blog/lesson-release/
 ---

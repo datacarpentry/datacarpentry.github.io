@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Community", "USA"]
+tags: ["Community", "USA", "Data Carpentry"]
 authors: ["Lauren Michael"]
 redirect_from: /blog/uwcommunity/
 ---

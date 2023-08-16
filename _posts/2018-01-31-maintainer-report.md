@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Feedback","Assessment", "Report"]
+tags: ["Feedback","Assessment", "Report", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/maintainer-report/
 ---

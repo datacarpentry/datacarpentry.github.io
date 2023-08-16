@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Instructor Development"]
+tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/near-vs-far-transfer/
 ---

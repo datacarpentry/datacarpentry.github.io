@@ -9,7 +9,7 @@ categories:
     - blog  
 comments: true  
 show_meta: true  
-tags: ["Bug BBQ", "Events", "Carpentries Lessons"]
+tags: ["Bug BBQ", "Events", "Carpentries Lessons", "Data Carpentry"]
 authors: ["Erin Becker"]  
 redirect_from: /blog/genomics-bonanza-today/
 ---

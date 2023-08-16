@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Communications", "Feedback"]
+tags: ["Communications", "Feedback", "Data Carpentry"]
 authors: ["Karen Cranston"]
 redirect_from: /blog/reproducible-research-curriculum/
 ---

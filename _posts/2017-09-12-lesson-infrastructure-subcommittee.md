@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: ["Carpentries Lessons"]
+tags: ["Carpentries Lessons", "Data Carpentry"]
 authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2017 September meeting"
 teaser: "This post will cover the topics discussed and their resolutions."

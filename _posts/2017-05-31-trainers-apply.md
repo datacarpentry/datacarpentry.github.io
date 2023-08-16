@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Instructor Development", "Trainers"]
+tags: ["Instructor Development", "Trainers", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/trainers-apply/
 ---

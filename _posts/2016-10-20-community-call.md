@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Workshops", "Assessment","Discussion Sessions"]
+tags: ["Workshops", "Assessment","Discussion Sessions", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/community-call-1/
 ---

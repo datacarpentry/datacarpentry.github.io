@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Fotis Psomopoulos", "Belinda Weaver"]
 redirect_from: /blog/carpcon-announce/
 ---

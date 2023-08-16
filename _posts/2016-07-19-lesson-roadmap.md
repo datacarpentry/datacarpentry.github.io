@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Roadmap", "Carpentries Lessons", "Grants"]
+tags: ["Roadmap", "Carpentries Lessons", "Grants", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/lesson-roadmap/
 ---

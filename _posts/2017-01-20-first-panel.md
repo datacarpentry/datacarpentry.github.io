@@ -9,7 +9,7 @@ categories:
  - blog
 comments: true
 show_meta: true
-tags: ["Careers", "Community"]
+tags: ["Careers", "Community", "Data Carpentry"]
 authors: ["Lauren Michael"]
 redirect_from: /blog/first-panel/
 ---

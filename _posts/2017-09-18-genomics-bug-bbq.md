@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: ["Bug BBQ", "Events", "Genomics", "Carpentries Lessons"]
+tags: ["Bug BBQ", "Events", "Genomics", "Carpentries Lessons", "Data Carpentry"]
 authors: ["Tracy Teal"]
 subheadline:
 title: "Genomics Bug BBQ"

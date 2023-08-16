@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Curriculum"]
+tags: ["Curriculum", "Data Carpentry"]
 authors: ["Timothée Poisot"]
 redirect_from: /blog/whyweteach-sql/
 ---

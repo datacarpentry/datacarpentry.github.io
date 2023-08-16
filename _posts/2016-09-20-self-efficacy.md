@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Workshops", "Instructor Development", "Skillshare"]
+tags: ["Workshops", "Instructor Development", "Skillshare", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/self-efficacy/
 ---

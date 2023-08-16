@@ -9,7 +9,7 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: ["Events"]
+tags: ["Events", "Data Carpentry"]
 authors: ["Rayna Harris"]
 redirect_from: /blog/ReproducibleDDD/
 ---

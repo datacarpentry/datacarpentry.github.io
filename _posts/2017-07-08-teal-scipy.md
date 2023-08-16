@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["Community", "Events"]
+tags: ["Community", "Events", "Data Carpentry"]
 authors: ["Belminda Weaver"]
 redirect_from: /blog/teal-scipy/
 ---

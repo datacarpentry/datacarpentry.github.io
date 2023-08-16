@@ -9,7 +9,7 @@ Categories:
 comments: true
 show_meta: true
 date: 2017-11-07
-tags: [""]
+tags: ["", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/maintainer-apply/
 ---
