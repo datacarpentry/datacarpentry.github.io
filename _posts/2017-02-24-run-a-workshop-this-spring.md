@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Administration", "Community", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/run-a-workshop-this-spring/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 Did you know that 95% of Data Carpentry learners are first-timers? As a community we’ve impacted hundreds of learners around the globe, and 93% of our learners told us that their level of data management and analysis skills were higher because of our workshops!
 
 We’re doing very well as a community, so let’s keep up the good work. We want to encourage you to either [request a workshop](http://www.datacarpentry.org/workshops-host/), or run a [Self-Organised workshop](http://www.datacarpentry.org/self-organized-workshops/) this Spring (March-May).

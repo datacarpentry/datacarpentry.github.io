@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Sher!"]
 redirect_from: /blog/volunteers-wanted/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 The first inaugural [CarpentryCon](http://www.carpentrycon.org/) is less than 50 days away! The taskforce is diligently working to make sure all t’s are crossed and I’s are dotted to ensure that the Community enjoys a wonderful un-conference. While doing so, we have realized that we need one more thing…**YOU**!!!

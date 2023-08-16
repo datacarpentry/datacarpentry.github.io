@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Bug BBQ", "Genomics", "Data Carpentry"]
 authors: ["Erin Becker"]  
 redirect_from: /blog/genomics-bbq/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 There's been a lot of exciting work on the [Genomics workshop materials](http://www.datacarpentry.org/genomics-workshop/) over the past several months.
 A massive reorganization of the materials is underway, splitting the workshop into two separate tracks - one including R

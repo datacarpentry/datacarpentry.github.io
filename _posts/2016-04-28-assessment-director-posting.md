@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Jobs", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/assessment-director-posting/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 [Data Carpentry is hiring](http://www.datacarpentry.org/jobs/)!
 
 Data Carpentry seeks to hire a full-time staff member to direct its assessment activities.

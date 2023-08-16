@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "Instructor Development", "Data Carpentry"]
 authors: ["Christina Koch"]
 redirect_from: /blog/join-mentoring/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Are you a new Software or Data Carpentry instructor?  Do you
 remember what it was like to be a new instructor?  Are you

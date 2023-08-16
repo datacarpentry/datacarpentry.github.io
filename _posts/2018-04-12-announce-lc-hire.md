@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann",  "Belinda Weaver"]
 redirect_from: /blog/announce-lc-hire/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are excited to announce that [Chris Erdmann](https://twitter.com/libcce) has been hired as 
 the [Library Carpentry Community and Development Director](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/) starting May 4, 2018. 

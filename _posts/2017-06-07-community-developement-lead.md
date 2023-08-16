@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Jobs", "Administration", "Data Carpentry"]
 authors: ["Jonah Duckles", "Tracy Teal"]
 redirect_from: /blog/community-developement-lead/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We're excited to announce Belinda Weaver has accepted our offer to become the
 Community Development Lead. Belinda will join the Carpentries staff later this

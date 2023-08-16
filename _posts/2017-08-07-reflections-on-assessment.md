@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Assessment", "Reports", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/reflections-on-assessment/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 As I approach my [one-year anniversary](http://www.datacarpentry.org/blog/new-assessment-director/) on staff with Data Carpentry, I’m reflecting on what we’ve accomplished this year. I came into this role with no data science experience whatsoever: [self-efficacy](http://www.datacarpentry.org/blog/self-efficacy/) had been the focus of my doctoral dissertation and post-doctoral work. That background knowledge made for an exciting time exploring our workshop survey data and [letting the community know](http://www.datacarpentry.org/blog/community-call/) what our learners think about our workshops.
 
 I’ve come a long way this year, partly because of my ability to [transfer learning](http://www.datacarpentry.org/blog/near-vs-far-transfer/), but mainly because of our community. Looking back at the first [report](http://www.datacarpentry.org/blog/assessment/) I wrote about Data Carpentry’s workshop impact, compared to my recent [report](https://software-carpentry.org/blog/2017/07/assess_report.html) about the impact of  Software Carpentry’s workshops, you’ll see that I’ve learned a lot about using  R. For that, I owe thanks  to all the community members who responded to my [tweets](https://twitter.com/drkariljordan) for help, hopped on Zoom calls with me, and contributed to my GitHub [repositories](https://github.com/kariljordan). I truly feel that I [belong](http://www.datacarpentry.org/blog/belonging/) to this community, and am living proof that having a [growth mindset](http://www.datacarpentry.org/blog/growth-mindset/) can lead to success in whatever field you’re passionate about.

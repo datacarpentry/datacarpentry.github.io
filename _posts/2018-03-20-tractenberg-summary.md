@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Marianne Corvellec", "Karen Word"]
 redirect_from: /blog/tractenberg-summary/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 On February 2, the [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) held a well-attended webinar with [Rochelle Tractenberg](https://blogs.commons.georgetown.edu/crom/rochelle-e-tractenberg/).
 Dr. Tractenberg holds two PhDs, one in Cognitive Sciences and the other in Statistics, and directs the Collaborative for Research on Outcomes and Metrics at Georgetown University, where she is a tenured professor in the Department of Neurology. It was a great privilege for our community to be able to engage in a conversation with her and to learn from her expertise.

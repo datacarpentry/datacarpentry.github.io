@@ -13,7 +13,9 @@ tags: ["Community", "USA", "Data Carpentry"]
 authors: ["Matthew Collins", "François Michonneau", "Brian Stucky", "Ethan White"]
 date: 2017-02-27
 redirect_from: /blog/uf-program/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 This January was the one year anniversary of our effort to bring regular
 [Software Carpentry](https://software-carpentry.org/) and  [Data

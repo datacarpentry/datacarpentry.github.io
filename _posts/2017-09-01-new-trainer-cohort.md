@@ -13,7 +13,9 @@ tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Belinda Weaver", "Erin Becker"]
 
 redirect_from: /blog/new-trainer-cohort/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Software and Data Carpentry now have a brand-new batch of Trainers.
 The new Trainers completed their training this week and will start to train new Instructors soon.

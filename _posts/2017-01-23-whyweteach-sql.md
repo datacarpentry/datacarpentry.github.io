@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Curriculum", "Data Carpentry"]
 authors: ["Timothée Poisot"]
 redirect_from: /blog/whyweteach-sql/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 I am fond of saying that ecologists should not be afraid of big data --
 instead, we have to deal with small, complex, and poorly connected data.

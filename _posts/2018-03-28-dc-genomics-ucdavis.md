@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Workshops", "Genomics", "Data Carpentry"]
 authors: ["Lisa K. Johnson"]
 redirect_from: /blog/dc-genomics-ucdavis/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 From January 24-25 (Thursday and Friday) we held a [Data Carpentry Genomics workshop at UC Davis, 
 led by Sue McClatchy](https://smcclatchy.github.io/2018-01-24-ucdavis/). This was a "sold out" workshop, 

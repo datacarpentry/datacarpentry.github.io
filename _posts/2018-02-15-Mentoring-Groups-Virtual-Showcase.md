@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/Mentoring-Groups-Virtual-Showcase/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 We just finished our second round of mentoring groups and had an amazing showcase of their work and ideas. In this round, we were more specific and focused on multiple topic areas. There were groups on community building, lesson maintenance, and preparing for instructor checkout.
  
 The feedback and outcomes were great! Participants were able to focus on specific goals, including teaching their first workshop and developing new lesson contribution material. Being a part of a group that addressed something important to them, (ex. developing communities in Japan and Singapore), made the mentoring groups powerful and enjoyable. 

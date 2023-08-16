@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Administration", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/deimos-announcement/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We’ve been enjoying the added focus and sense of accomplishment we’ve gained from working in cycles. If there’s something
 you’re excited about for the next round, let us know! If you’d like to join (or organize) a team for one of the next few cycles,

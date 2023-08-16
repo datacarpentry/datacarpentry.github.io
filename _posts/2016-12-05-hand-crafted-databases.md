@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Skillshare", "Data Carpentry"]
 authors: ["Naupaka Zimmerman"]
 redirect_from: /blog/hand-crafted-databases/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 I'm a microbial ecologist that is primarily interested in
 understanding the ecological causes and consequences of plant-microbe

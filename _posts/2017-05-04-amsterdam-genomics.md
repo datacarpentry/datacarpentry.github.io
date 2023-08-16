@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Workshops", "Reports", "Data Carpentry"]
 authors: [Mateusz Kuzak]
 redirect_from: /blog/amsterdam-genomics/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Twenty-five life science researchers from across the Netherlands
 and Germany joined the event on March 22nd and 23rd in Science Park

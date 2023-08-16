@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["François Michonneau"]
 redirect_from: /blog/github-labels/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 

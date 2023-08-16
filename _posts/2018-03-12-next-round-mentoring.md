@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/next-round-mentoring/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 In February, we held our mentoring groups [virtual showcase](http://www.datacarpentry.org/blog/Mentoring-Groups-Virtual-Showcase/), 
 and community members engaged with mentors and mentees virtually to hear about the accomplishments they made over the course 

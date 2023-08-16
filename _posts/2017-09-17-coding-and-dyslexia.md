@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Accessibility", "Data Carpentry"]
 authors: ["Joanna Leng"]
 redirect_from: /blog/coding-and-dyslexia/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Hello,
 

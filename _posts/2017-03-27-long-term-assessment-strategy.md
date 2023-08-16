@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Assessment", "Community", "Reports", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/long-term-assessment-strategy/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 A fair amount of discussion around assessment took place during the Software and Data Carpentry Instructor and Helper [Retreat](http://pad.software-carpentry.org/swc-instructor-retreat-2015-2PM-UTC). One of the recommendations that came out of this retreat was to include skills-based questions in our pre- and post-workshop surveys to improve the accuracy of our survey results. We know that our learners come to our workshops having varying knowledge levels for programming. A way that we can capture this information, and determine whether our workshops make a difference in learner’s ability to work with data, is to add skills-based questions to our surveys. With the help of our community, we have done just that.
 
 On February 22nd we created an issue in both our [R](https://github.com/datacarpentry/R-ecology-lesson/issues/203) and [Python](https://github.com/datacarpentry/python-ecology-lesson/issues/144) for Ecology lesson repos asking community members to help us develop multiple choice questions (MCQ’s) for R and Python. These questions were to vary in difficulty and cover plotting, reading in data, summarizing dataframes, and performing basic mathematical calculations. Our community members contributed questions and answers to a [document](https://docs.google.com/document/d/1swMAlkdWQTJfuCX0avPLBRNfwFEGxhf3TGQll_RMGNo/edit), and we met virtually on March 1st to discuss the questions, answers, and distractors.

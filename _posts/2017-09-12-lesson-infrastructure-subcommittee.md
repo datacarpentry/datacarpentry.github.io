@@ -11,7 +11,9 @@ categories:
 show_meta: true
 comments: true
 redirect_from: /blog/lesson-infrastructure-subcommittee/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 On 5 September 2017 at 14:00UTC+0,
 the Lesson Infrastructure Subcommittee had their 2017 September meeting.

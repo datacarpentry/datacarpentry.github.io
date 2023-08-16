@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "USA", "Data Carpentry"]
 authors: ["Lauren Michael"]
 redirect_from: /blog/uwcommunity/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 I am so thrilled that we have been asked to comment on our growing
 [Software and Data Carpentry community](https://aci.wisc.edu/data-software-carpentry-workshops/) at the University of Wisconsin-Madison.

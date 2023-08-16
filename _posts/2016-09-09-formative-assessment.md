@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Assessment", "Workshops", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/formative-assessment/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Picture for a moment one of your undergraduate university courses, or a recent meeting of your department’s research seminar. If your experience is typical, more likely than not the instructor or presenter came in with a prepared set of materials on a slide deck (or for the old-school, on projector overheads), talked at you for an hour, maybe asked if there were any questions, and then packed up and left. If this sounds familiar, you’ve probably had lots of experience with the standard lecture.  
 

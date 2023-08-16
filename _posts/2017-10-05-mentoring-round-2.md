@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan","Belinda Weaver"]  
 redirect_from: /blog/mentoring-round-2/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 The inaugural Carpentries mentoring program was a great success, and we have used the feedback we received from both mentors and mentees to craft a new and improved mentoring experience in round two. The next round will run October 25th - January 10th.
 
 According to round one participants, the benefits of mentoring included greater understanding of the challenges new instructors face, more clarity about why we teach what we teach, getting timely responses to questions, and community engagement.

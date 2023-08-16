@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Jobs", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/associate-director-posting/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 

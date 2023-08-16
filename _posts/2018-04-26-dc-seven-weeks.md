@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Justin Millar", "Shawn Taylor", "Ben Kok Toh", "Ethan White"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 #### Background
 

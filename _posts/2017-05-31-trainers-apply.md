@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Instructor Development", "Trainers", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/trainers-apply/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The Carpentry community is growing! This month we welcomed ten new Instructor Trainers to our community. Now we
 are looking for the next group of new Trainers.   

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker", "Karen Word"]
 redirect_from: /blog/long-term-survey-results/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 What concrete changes are people implementing in their computational research practices as a result of completing a Carpentries workshop?
 
 Our [long term survey report](https://carpentries.github.io/assessment/learner-assessment/archives/2017/code/longtermreport_October2017.html) shows that two-day Software or Data Carpentry workshops are effective for increasing skills and confidence, and the adoption of reproducible research perspectives. We see gains in our survey measures for learners’ motivation to continue their learning, change in reproducible research behavior, and frequency of use of computational skills and tools. We find this very exciting, especially since a recent [general survey](http://www.pnas.org/content/114/37/9854) of bootcamps and short-format trainings reports no measurable impact on skill development or research productivity.

@@ -13,7 +13,9 @@ tags: ["", "Data Carpentry"]
 authors: ["Karen Cranston"]
 
 redirect_from: /blog/call-for-candidates-joint-board/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ### EDITED 2017-11-07: "Board of Directors" is a legal term and can't be used for a sponsored project. Changed to "Steering Committee"
 

@@ -13,7 +13,9 @@ categories:
 show_meta: true
 comments: true
 redirect_from: /blog/genomics-bug-bbq/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 #### Bug BBQ starting today, Monday, September 18th!

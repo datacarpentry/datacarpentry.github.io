@@ -12,7 +12,9 @@ date: 2018-02-02
 tags: ["", "Data Carpentry"]
 authors: ["John Chodacki", "Tracy Teal"]
 redirect_from: /blog/library-carpentry-repost/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 **California Digital Library is hiring for a Library Carpentry Project Coordinator!**
 

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Africa", "Instructor Development", "Workshops", "Data Carpentry"]
 authors: ["Anelda van der Walt"]
 redirect_from: /blog/instructor-training-africa/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 **by Anelda van der Walt**
 

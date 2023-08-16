@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 One of my favorite sticky note moments involved two sticky notes, red and green, folded into origami cranes, that I received after a workshop. 
 Maybe it was just idle hands working away during an explanatory section, but it seemed to me to be a quiet 'thank you' for the workshop, one that recognized that there were both good things and bad things in the process of learning, but that they could balance out and create something new and beautiful.

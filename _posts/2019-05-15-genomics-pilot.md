@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Jason Williams", "Erin Becker", "François Michonneau"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 This February, a small group of committed community members, led by Taylor Reiter at the University of California, Davis, 
 completed a major update to the Data Carpentry Genomics curriculum. A huge thank you to everyone who contributed! This update 

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Belinda Weaver"]
 redirect_from: /blog/meet-candidates/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Eight nominations have come in so far for the 2018 Steering Committee of the new, merged Carpentries.
 

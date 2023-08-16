@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "Events", "Data Carpentry"]
 authors: ["Belminda Weaver"]
 redirect_from: /blog/teal-scipy/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Conferences can be lonely places, especially for first-timers who don't yet have solid networks in place. The bigger the event, the worse the problem. With so many people milling around, how do you find like-minded people, much less start a conversation?
 

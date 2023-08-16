@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Genomics", "Curriculum", "Data Carpentry"]
 authors: ["Erin Becker", "Bob Freeman", "Mateusz Kuzak", "Sue McClatchy", "Tracy Teal", "Jason Williams"]
 redirect_from: /blog/genomics-interest/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Last month, we announced an upcoming revamp for the Data Carpentry Genomics lessons and
 [asked you](http://www.datacarpentry.org/blog/genomics-lessons/) to let us know how you would like to be

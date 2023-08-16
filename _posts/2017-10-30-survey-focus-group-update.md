@@ -13,7 +13,9 @@ tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan", "Stephen Childs", "Alycia Crall", "Reshama Shaikh", "Aleksandra Nenadic", "Karen Word", "Louisa Bells"]
 
 redirect_from: /blog/survey-focus-group-update/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 In April 2017, Data Carpentry began to pilot a [survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/documents/dc_presurvey_skillsbased.pdf) that includes skills-based questions. Check out the [blog post](http://www.datacarpentry.org/blog/long-term-assessment-strategy/) about our assessment strategy, and the work involved leading up to this effort.
 

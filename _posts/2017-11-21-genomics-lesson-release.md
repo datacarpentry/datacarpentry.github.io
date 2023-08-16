@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/genomics-lesson-release/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Thanks to a Herculean effort from our Maintainers, the long-awaited Data Carpentry Genomics lessons have now been published on Zenodo! These lessons were originally developed through a hackathon in 2014, and have gone through several major rounds of revision since then. We had an [Issue Bonanza in August](http://www.datacarpentry.org/blog/genomics-bonanza-today/) and a  [Bug BBQ in September](http://www.datacarpentry.org/blog/genomics-bug-bbq/), with contributions from dozens of community members. 
 

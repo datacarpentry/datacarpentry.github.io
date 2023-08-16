@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Belinda Weaver"]
 redirect_from: /blog/new-carpentries-logo/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Now that Software and Data Carpentry have merged, we wanted a new logo to celebrate our coming together as the Carpentries, 
 and to give that project its own distinct identity.

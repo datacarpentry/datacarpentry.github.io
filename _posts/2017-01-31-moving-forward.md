@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Governance", "Instructor Development", "Data Carpentry"]
 authors: ["Erin Becker"]    
 redirect_from: /blog/moving-forward/
----  
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**  
 As of January 30th, Greg Wilson has stepped down from his role as Director of Instructor Training to start a new position as 
 [Shopify’s Computer Sciences Education Lead](https://software-carpentry.org/blog/2016/12/next-steps.html).  
 

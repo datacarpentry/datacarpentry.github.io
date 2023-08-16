@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Belinda Weaver"]
 redirect_from: /blog/fave-tools/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 This is an open invitation to our community members to share their knowledge.
 

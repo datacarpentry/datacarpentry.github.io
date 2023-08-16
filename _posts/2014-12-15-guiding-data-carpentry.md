@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/guiding-data-carpentry/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ## Guiding Data Carpentry
 

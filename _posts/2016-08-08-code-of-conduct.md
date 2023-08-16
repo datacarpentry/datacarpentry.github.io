@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "Code of Conduct", "Feedback", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/code-of-conduct/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The Carpentries are proud to share a common Code of Conduct (CoC), which outlines acceptable standards of behavior for our community members and those interacting with the Carpentries at in-person events and online spaces. Historically, however, we have not had an official process for reporting potential Code of Conduct violations or for adjudication and resolution of reported incidents. Thanks to input from our community, we recognise that defining these procedures is an important step in ensuring that any such issues are dealt with transparently in order to keep our community welcoming and safe for all. 
 

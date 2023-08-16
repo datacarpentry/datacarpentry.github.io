@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Careers", "Community", "Data Carpentry"]
 authors: ["Lauren Michael"]
 redirect_from: /blog/first-panel/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 **Tuesday, January 24, 7am PST / 10am EST / 3pm UTC / 2am AEST (next day)**  
 

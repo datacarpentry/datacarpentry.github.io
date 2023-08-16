@@ -13,7 +13,9 @@ categories:
 comments: true
 show_meta: true
 redirect_from: /blog/climate-science-and-the-command-line/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Climate science has a pretty high profile these days, particularly in my personal area of research,
 which involves quantifying the role humans have played in climate change (otherwise known as "climate attribution").

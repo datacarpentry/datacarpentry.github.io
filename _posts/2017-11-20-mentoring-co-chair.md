@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Marian Schmidt", "Jamie Hadwin"]
 redirect_from: /blog/mentoring-co-chair/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 How would you like to work first-hand on developing our ever growing instructor pool? A Mentoring Subcommittee Co-Chair position has just opened!
 

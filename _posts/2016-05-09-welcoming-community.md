@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Inclusion", "Communications", "Data Carpentry"]
 authors: ["Tracy Teal", "Jonah Duckles"]
 redirect_from: /blog/welcoming-community/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The amazing Software and Data Carpentry community of instructors and learners is
 the foundation of our organizations. We have more than 500 instructors from 30

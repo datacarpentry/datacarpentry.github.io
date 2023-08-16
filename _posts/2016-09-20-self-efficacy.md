@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Workshops", "Instructor Development", "Skillshare", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/self-efficacy/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The *Little Engine* that Could had it absolutely right. Thinking you can is one of the best ways to succeed at a host of activities ranging from public speaking and bungee jumping to cooking a souffle and learning *R*. What the *Little Engine* didn’t know, however, is that this concept of “thinking I can” is actually a theory known as **self-efficacy**, and plays a major role in how we approach our goals.
 

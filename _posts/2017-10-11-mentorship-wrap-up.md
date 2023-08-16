@@ -13,7 +13,9 @@ tags: ["", "Data Carpentry"]
 authors: ["Erin Becker", "Kari L. Jordan", "Tracy Teal", "Christina Koch"] 
 
 redirect_from: /blog/mentorship-wrap-up/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Mentorship is an important part of the Carpentry experience. As Instructors, we both teach and mentor our Learners. We also mentor each other as Instructors, learning something new from each other every time we teach and interact with one another. The Mentoring Subcommittee offers guidance to new and continuing Instructors through [weekly discussion sessions](http://pad.software-carpentry.org/instructor-discussion), where Instructors from the global Carpentry community gather to share their experiences and learn from each other. This is a fantastic opportunity to interact with other Carpentry Instructors from around the world. 
 

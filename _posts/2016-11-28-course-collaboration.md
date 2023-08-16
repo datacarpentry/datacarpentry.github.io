@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Collaborations", "Curriculum", "Data Carpentry"]
 authors: ["Zack Brym"]
 redirect_from: /blog/course-collaboration/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 *[When did you realize you belonged to the Carpentry community?][belonging]*
 

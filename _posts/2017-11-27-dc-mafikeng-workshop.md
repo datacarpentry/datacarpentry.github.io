@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Caroline F. Ajilogba", "Amy Hodge"]
 redirect_from: /blog/dc-mafikeng-workshop/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ### Data Carpentry workshop, 1-3 November, 2017 
 

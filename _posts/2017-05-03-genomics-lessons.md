@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Curriculum", "Genomics", "Events", "Bug BBQ", "Data Carpentry"]
 authors: [Jason Williams, Tracy Teal]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Way back in March of 2015, a group of 27 Carpentry community members gathered at Cold Spring Harbor for the first Data Carpentry Hackathon on a set of lessons and assessments for Genomics Data Carpentry. From the beginning, we wanted these lessons to be driven by, and useful to the large community of biologists who are (or will be) working with large genomics dataset datasets; perhaps as many as 90% of biologists.
 

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver"]
 redirect_from: /blog/launch-handbook/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 As The Carpentries, we're excited to announce that we have consolidated and updated many
 materials and resources to more easily share them online and be a community resource.  

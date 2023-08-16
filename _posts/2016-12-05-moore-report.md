@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Grants", "Funding", "Reports", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/moore-report/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 A year ago we were fortunate enough to receive a grant from the

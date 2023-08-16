@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Carpentries Team", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/announce-sheraaron/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are delighted to announce that SherAaron Hurt has accepted the job of [Workshop Administrator](http://www.datacarpentry.org/blog/ws-admin/) with the Carpentries. SherAaron is joining our team of workshop coordinators who manage workshop logistics, communicate with hosts and instructors, and respond to general workshop inquiries.
 

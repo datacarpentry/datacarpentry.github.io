@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Geospatial", "Data Carpentry"]
 authors: ["Leah Wasser"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 **By: Leah Wasser**  
 [NEON](http://www.neonscience.org) Supervising Scientist, Education & Public Engagement  

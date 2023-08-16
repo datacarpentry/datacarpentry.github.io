@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal", "Elizabeth Williams", "Karen Word"]
 redirect_from: /blog/new-staff-intro/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 At our recent in-person staff meeting in Davis, California, we introduced three new members to the team, [SherAaron Hurt](https://software-carpentry.org/blog/2017/09/announce-sher.html), Elizabeth Williams and Karen Word. All will be working with the Carpentries part-time.
 

@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Community", "Skillshare", "Data Carpentry"]
 authors: ["Christie Bahlai"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 I think, in the end, technology and data science are about communication.  
 

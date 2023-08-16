@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal", "Belinda Weaver"]
 redirect_from: /blog/launch-website/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ### Website Launch
 

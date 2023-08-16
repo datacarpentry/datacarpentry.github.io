@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Karen Word"]
 redirect_from: /blog/new-trainer-round/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 As the Carpentry community continues to grow, our instructor training is increasingly in demand! In September,
 we welcomed 13 new Instructor Trainers who will help us to meet that need. We 

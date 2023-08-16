@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Heladia Salgado", "Paula Andrea Martinez", "Sue McClatchy"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ### Invitación a participar
 

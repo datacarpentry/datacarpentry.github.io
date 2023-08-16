@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Belinda Weaver"]
 redirect_from: /blog/people-fave-tools/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 A big thank you to everyone who has responded so far to the call for short posts about their favourite tools.
 

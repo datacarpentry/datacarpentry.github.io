@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "Instructor Development", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/sept-all-stars/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 As a community-led organisation, Data Carpentry depends on our active and highly-engaged volunteer community to carry out many of our core activities. Volunteer efforts span a wide range of activities, including teaching workshops, developing and maintaining lessons, and training and mentoring new instructors, among many other efforts. Without the commitment of our volunteers, Data Carpentry would never be able to reach such a broad learner base and to make such a huge impact on our learners.
 

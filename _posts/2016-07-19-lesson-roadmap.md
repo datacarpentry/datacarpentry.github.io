@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Roadmap", "Carpentries Lessons", "Grants", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/lesson-roadmap/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 [Our Lessons Roadmap](http://www.datacarpentry.org/lessons-incubation/)
 

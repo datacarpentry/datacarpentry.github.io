@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "Merger", "Data Carpentry"]
 authors: [ "Rayna Harris"]
 redirect_from: /blog/mergermotions/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 I am happy to announce that the Steering Committees of both Software Carpentry and Data Carpentry have approved 4 motions regarding the structure and leadership of the mergered Carpentries organization. The approved motions are:
 

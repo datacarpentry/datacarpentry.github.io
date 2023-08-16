@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Instructor Development", "Workshops", "Data Carpentry"]
 authors: ["Greg Wilson"]
 redirect_from: /blog/r-instructor-training/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 Thanks to generous sponsorship from the [R Consortium](https://www.r-consortium.org/),
 Software Carpentry is running a two-day R instructor training class
 in Cambridge, UK, on September 19-20, 2016.

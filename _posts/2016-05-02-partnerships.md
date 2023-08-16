@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Communications", "Collaborations", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/partnerships/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We've been hearing of the interest of organizations to build local capacity for training  and to be able run both Data and [Software Carpentry](http://www.software-carpentry.org) workshops. **We are excited to announce that Data Carpentry and Software Carpentry are now offering joint partnerships!** These partnerships will give member organizations the benefits of running workshops from either the Software Carpentry or Data Carpentry community. At the Silver and above tiers there will also be instructor training and capacity building services provided.
 

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/workshops/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 In 2015 we were just starting out as an organization and ran limited workshops as we were working to scale. With many Software Carpentry instructors now certified as Data Carpentry instructors, our Program Coordinator, Maneesha Sane, coordinating workshops, a new website and an instructor database, in 2016 we're set to do a lot more!
 

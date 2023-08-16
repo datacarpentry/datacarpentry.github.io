@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Instructor Development", "Latin America", "Workshops", "Data Carpentry"]
 authors: [Rayna Harris, Sue McClatchy, Tracy Teal]
 redirect_from: /blog/UPRtraining/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 On March 24-25, Rayna Harris, Sue McClatchy, and Tracy Teal co-taught an instructor training workshop at the University of Puerto Rico (UPR). This was a very special workshop in many ways, and we are excited to share some of the highlights with you. 
 

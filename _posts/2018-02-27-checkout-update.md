@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/checkout-update/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 This blog post is the second in a series examining the roles and contributions of the different parts of the Carpentry community. In case you missed it - read the [first post](http://www.datacarpentry.org/blog/maintainer-report/) in this series, about Maintainers.
 

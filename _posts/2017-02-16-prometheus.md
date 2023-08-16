@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Administration", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/prometheus/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ## Adopting work cycles  
 The Data and Software Carpentry staff have been working together to make progress on projects that are important for our community. To

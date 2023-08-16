@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker"]
 redirect_from: /blog/call-for-volunteers-coc/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The Carpentries are dedicated to developing and empowering a diverse community of data enthusiasts. Whether you are an Instructor, learner, Maintainer, Mentor, Trainer, Executive Council member, Champion, or member of our Staff, you belong to this community. We are committed to creating avenues for you to contribute that are welcoming and inclusive, whether in-person or online.
 

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Erin Becker", "Greg Wilson"]
 redirect_from: /blog/open-instructor-training/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 After workshops and conferences, we frequently get questions from people who are interested in teaching with the

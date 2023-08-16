@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Alice Allen"]
 redirect_from: /blog/frb_carpentry/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ## Bringing the Carpentries to the Federal Reserve Board staff
 

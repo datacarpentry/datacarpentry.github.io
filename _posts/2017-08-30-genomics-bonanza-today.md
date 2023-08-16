@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Bug BBQ", "Events", "Carpentries Lessons", "Data Carpentry"]
 authors: ["Erin Becker"]  
 redirect_from: /blog/genomics-bonanza-today/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Only a few more hours until the Genomics Issue Bonanza! Join the community in a hacky-day dedicated to
 creating issues and simple PRs for cleaning up the Genomics lessons. You don’t need to be an expert in

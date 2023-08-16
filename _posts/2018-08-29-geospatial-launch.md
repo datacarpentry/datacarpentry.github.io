@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Erin Becker"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The long-awaited Data Carpentry curriculum for working with Geospatial data is now ready to teach! As with all our newly developed curricula, these lessons are now in ‘beta’. We are actively promoting workshops and collecting information from those workshops to improve these lessons as they are taught more broadly and in different contexts. We will also be [onboarding Instructors](https://pad.carpentries.org/geospatial-onboarding) to prepare them to teach these new lessons. Keep reading for more details. 
 

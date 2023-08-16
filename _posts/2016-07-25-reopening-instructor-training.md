@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Greg Wilson"]
 redirect_from: /blog/reopening-instructor-training/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 For the last ten months,
 the [Software Carpentry Foundation](http://software-carpentry.org/scf/) has worked toward three goals

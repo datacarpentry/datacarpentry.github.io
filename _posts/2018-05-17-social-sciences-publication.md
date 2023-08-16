@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Data Carpentry", "Curriculum", "Carpentries Lessons", "Data Carpentry"]
 authors: ["François Michonneau", "Erin Becker"]
 redirect_from: /blog/social-sciences-publication/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are excited to announce the initial release of a [Data Carpentry Social Sciences Curriculum](http://www.datacarpentry.org/socialsci-workshop/).
 This is the first Data Carpentry Curriculum

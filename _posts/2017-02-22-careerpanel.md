@@ -11,7 +11,9 @@ show_meta: true
 tags: ["Careers", "Community", "Data Carpentry"]
 authors: ["Lauren Michael"]
 redirect_from: /blog/careerpanel/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 **Wednesday, Mar 1, 3pm PST / 6pm EST / 11pm UTC / 9am AEST (next day)**  
 

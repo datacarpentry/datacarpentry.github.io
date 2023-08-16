@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Skillshare", "Data Carpentry"]
 authors: ["Jeff Oliver"]
 redirect_from: /blog/oliver-fave/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 I love [Git](https://git-scm.com/) and [GitHub](https://github.com).
 

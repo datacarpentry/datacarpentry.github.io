@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Jobs", "Data Carpentry"]
 authors: ["Tracy Teal", "Jonah Duckles"]
 redirect_from: /blog/community-lead/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 [Software Carpentry and Data Carpentry are hiring a Community Development Lead!](http://www.datacarpentry.org/jobs/)
 

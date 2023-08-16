@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Erin Becker"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 This analysis is meant to answer questions about the extent of the
 non-teaching instructor and the non-certified trainee issues.

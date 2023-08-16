@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Christina Koch", "Kate Hertweck"]
 redirect_from: /blog/csa-award-avdw/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The Carpentries are happy to honor [Anelda van der Walt]( https://twitter.com/aneldavdw) as our 2017 Community Service Award winner. We received seven independent nominations for Anelda this year, which is a testament to her commitment to both individual people and the broader community.
 

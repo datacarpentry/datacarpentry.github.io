@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Skillshare", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/minute-cards/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 They only take a minute (hence the name: minute cards), but their benefits last a lot longer.
 During instructor training workshops, we use minute cards to get feedback from learners.

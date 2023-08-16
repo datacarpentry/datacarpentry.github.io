@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Communications", "Data Carpentry"]
 authors: ["Tracy Teal", "Erin Becker"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Software and Data Carpentry have at their core a collaboration-driven ethos, and communication is key to that collaboration.
 We’re reaffirming our commitment to open and transparent communication, because we know we can do better! We want to give community

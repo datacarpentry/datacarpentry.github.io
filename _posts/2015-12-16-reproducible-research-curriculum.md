@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Communications", "Feedback", "Data Carpentry"]
 authors: ["Karen Cranston"]
 redirect_from: /blog/reproducible-research-curriculum/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 **by Karen Cranston**
 

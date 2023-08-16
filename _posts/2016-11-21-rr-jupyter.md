@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Communications", "Collaborations", "Events", "Data Carpentry"]
 authors: ["Hilmar Lapp", "Tracy Teal", "François Michonneau", "Kellie Ottoboni", "Jamie Whitacre", "Jasmine Nirody"]
 redirect_from: /blog/rr-jupyter/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 **Goal:** Develop the content of a two-day Data Carpentry workshop teaching how to conduct research reproducibly using the Jupyter notebook  
 **Location:** Berkeley Institute for Data Science (BIDS), Berkeley, CA  

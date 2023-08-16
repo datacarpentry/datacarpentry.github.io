@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "Africa", "Data Carpentry"]
 authors: ["Bianca Peterson", "Anelda van der Walt", "Maryke Schoonen", "Jason Williams"]
 redirect_from: /blog/genomics-nwu/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 The [North-West University](http://www.nwu.ac.za) in South Africa boasts two next generation sequencing (NGS) platforms and additionally receive terabytes of NGS data annually from local and international service providers. Research projects with NGS components exist in the areas of Microbiology, Zoology, Botany, Nutrition, Agriculture, and more.

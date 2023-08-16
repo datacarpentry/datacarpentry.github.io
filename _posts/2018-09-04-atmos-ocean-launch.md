@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Damien Irving"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Back in late 2012, I was a couple of years into my first job out of college.
 My undergraduate studies had left me somewhat underprepared for the coding

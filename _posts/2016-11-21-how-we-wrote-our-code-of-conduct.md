@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Code of Conduct", "Community", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/how-we-wrote-our-code-of-conduct/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 Codes of Conduct are important because they define behavior expectations for a community and encourage positive relationships,

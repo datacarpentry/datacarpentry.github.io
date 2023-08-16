@@ -13,7 +13,9 @@ show_meta: true
 tags: ["Communications", "Workshops", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/workshop-fees/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 After discussion with our Steering Committee and the Software Carpentry Foundation,
 we have decided to increase our workshop coordination fee in order to better

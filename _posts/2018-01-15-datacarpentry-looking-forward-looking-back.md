@@ -12,7 +12,9 @@ comments: true
 tags: ["", "Data Carpentry"]
 authors: [Karen Cranston, Hilmar Lapp, Aleksandra Pawlik, Karthik Ram, Tracy Teal, Ethan White]
 redirect_from: /blog/datacarpentry-looking-forward-looking-back/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 On [May 8-9, 2014](https://software-carpentry.org/blog/2014/05/our-first-data-carpentry-workshop.html) Data Carpentry hosted its first workshop at the National Evolutionary Synthesis Center (NESCent). That workshop came out of an identified unmet need for the skills and perspectives to work effectively and reproducibly with data, as data became more pervasive in many areas of research. The biggest difference from other trainings, including Software Carpentry, was not so much what we taught (specific tools), but how we taught it -- with a focus on data management and analysis rather than writing software. In all our workshops, we use real publicly available data and the workshop is a narrative, going from start (data and project organization) to finish (analysis and visualization) through the course of the workshop, providing an onramp to using data skills in friendly, accessible workshops. The goal is to teach skills, and even more importantly, to show people what’s possible, and that they can do it, so people have the confidence and enthusiasm to go on to learn more and use these skills in their own research.
 

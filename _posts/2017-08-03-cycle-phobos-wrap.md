@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Administration", "Data Carpentry"]
 authors: ["Carpentry Staff"]
 redirect_from: /blog/cycle-phobos-wrap/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We're wrapping up Cycle Phobos. Here's what we accomplished over the past six weeks and what we're still working on. To help with any of these projects, please [get in touch](mailto:bweaver@carpentries.org)!
 

@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Community", "Inclusion", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 Two schools of thought regarding learning and how it is achieved are the **acquisition metaphor** and the **participation metaphor**.
 
 The **acquisition metaphor** asserts knowledge is acquired individually, applied, and transferred.

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Karen Word", "Erin Becker"]
 redirect_from: /blog/adding-new-trainers/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are excited to welcome seventeen newly badged Trainers to our community. The group recently finished their program with Karen Word and are now certified to teach new Carpentry Instructors.
 

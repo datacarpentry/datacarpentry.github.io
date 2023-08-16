@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Europe", "Data Carpentry"]
 authors: ["Tracy Teal"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Belgium has a flourishing biological research community and skills in data handling have become an essential tool for anyone conducting biodiversity science.
 The workshop was jointly organised by the [VIB](http://www.vib.be/) and the [Botanic Garden Meise](http://www.br.fgov.be/) as part of a series of “[Empowering Biodiversity workshops](http://www.biodiversity.be/conference2015/workshops/)” supported by the Belgian Science Policy Office.

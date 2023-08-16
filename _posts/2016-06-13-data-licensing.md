@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Skillshare", "Data Carpentry"]
 authors: ["Elizabeth Wickes"]
 redirect_from: /blog/data-licensing/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 A question recently came up on the SWC Discuss mailing list about how to select a license for publicly released data.  Answering these questions without knowing the life story of the data in question can only be done in vast generalities, but there are some nearly universal issues that everyone should consider.
 

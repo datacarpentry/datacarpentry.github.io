@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Events", "Instructor Development", "Data Carpentry"]
 authors: [Erin Becker]
 redirect_from: /blog/instructor-training-bonanza/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 The [Carpentry Instructor Training curriculum](http://swcarpentry.github.io/instructor-training/) helps prepare new instructors to teach Carpentry workshops. It 
 also impacts instructors' teaching practices when they teach in other contexts, helping to spread the 

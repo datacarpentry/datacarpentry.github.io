@@ -12,7 +12,9 @@ categories:
 comments: true
 show_meta: true
 redirect_from: /blog/community-call/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Our next Carpentries Community Call (formerly called Lab Meeting or 
 Town Hall meeting) will be Thursday, September 15 (September 16 Aus/NZ). These meetings will now be 

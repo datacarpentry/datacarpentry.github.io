@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Administration", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/prometheus-wrapup/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We’re wrapping up our first work cycle! Here’s what we accomplished over the past six weeks and what we’re
 still working on. To help with any of these projects, please [get in touch](mailto:ebecker@datacarpentry.org)!

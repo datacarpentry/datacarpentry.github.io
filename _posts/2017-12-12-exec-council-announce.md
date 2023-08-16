@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Kate Hertweck"]
 redirect_from: /blog/exec-council-announce/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Voting in the election for community governance of the Carpentries 
 (Executive Council, formerly named Steering Committee or Board of Directors) closed last 

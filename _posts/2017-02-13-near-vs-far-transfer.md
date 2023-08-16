@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Instructor Development", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/near-vs-far-transfer/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 Have you ever experienced [déja vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu)? It’s when you have the feeling that what you’re currently experiencing has already happened. It can be extremely awkward, right? It’s a sensation that leaves you saying to yourself, “I did this already. This happened.” So, what do you do? Do you carry out the scenario as you remember it happening, or change it up? What about your *perceived* past experience makes you perform differently in the current experience?
 
 Déja vu is a *feeling* of recollection--the feeling that you lived through an experience already. Studies have shown that similar spatial layouts between the new scene and the scene in your memory may contribute to the experience [1]. This idea of linking past and present experiences can be applied to teaching and learning. One theory, [Transfer of Learning](https://en.wikipedia.org/wiki/Transfer_of_learning), describes how past experiences (transfer tasks) affect performing in new situations (learning tasks).

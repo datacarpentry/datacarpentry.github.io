@@ -13,7 +13,9 @@ categories:
 comments: true
 show_meta: true
 redirect_from: /blog/why-python/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 # Why We Teach It
 

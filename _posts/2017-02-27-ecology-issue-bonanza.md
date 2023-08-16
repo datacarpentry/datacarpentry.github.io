@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Bug BBQ", "Carpentries Lessons", "Data Carpentry"]
 authors: ["Erin Becker", "François Michonneau", "Tracy Teal"]
 redirect_from: /blog/ecology-issue-bonanza/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We’re excited to announce our first lesson release! Data Carpentry is preparing to publish our Ecology workshop materials on
 [Zenodo](https://zenodo.org/) this Spring. Software Carpentry regularly

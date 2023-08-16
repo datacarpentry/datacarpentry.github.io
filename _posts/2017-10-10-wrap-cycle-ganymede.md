@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Carpentry Staff"]
 redirect_from: /blog/wrap-cycle-ganymede/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are wrapping up Cycle Ganymede. Here's what we accomplished over the past six weeks and what we're still working on. To
 help with any of these projects, please [get in touch](mailto:team@carpentries.org)!

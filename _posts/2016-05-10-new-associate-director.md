@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Jobs", "Data Carpentry"]
 authors: ["Tracy Teal", "Erin Becker"]
 redirect_from: /blog/new-associate-director/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are excited to announce that Dr. Erin Becker has accepted the position of
 Associate Director for Data Carpentry! Erin did her PhD in computational genomics and her postdoc at the Center for Educational Effectiveness at UC Davis.

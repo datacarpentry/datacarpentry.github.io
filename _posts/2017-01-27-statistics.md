@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Skillshare", "Data Carpentry"]
 authors: ["Susan J. Simmons, NCSU Analytics", "Ann E. Stapleton, UNCW Biology"]
 redirect_from: /blog/statistics/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We’d like to talk about our experiences working together as a domain scientist and a statistician and encourage you do this too!  
 

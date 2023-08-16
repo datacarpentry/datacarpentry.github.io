@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/curriculum-dev-scaling/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are excited to announce that we have received a grant from the [Alfred P. Sloan Foundation](https://sloan.org) to **train researchers in essential data skills and build a general framework for collaborative lesson development to scale data training.** This grant will allow us to create general infrastructure, guidelines and pathways for community engagement to establish open source lesson development as a practice and enable scalable, collaborative data training. Curriculum developed through this grant will include economics, image analysis and chemistry. This work will be a proving ground for the establishment of  infrastructure and processes for collaborative and open lesson development in other domains and topics.
 

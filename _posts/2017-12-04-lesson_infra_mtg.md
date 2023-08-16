@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Raniere Silva"]
 redirect_from: /blog/lesson_infra_mtg/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 On 16 November 2017 at 15:00 UTC+0,
 the Lesson Infrastructure Subcommittee had their 2017 November meeting.

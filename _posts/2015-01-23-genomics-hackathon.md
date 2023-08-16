@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Events", "Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/genomics-hackathon/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Through the support of [SESYNC](https://www.sesync.org), [BEACON](http://beacon-center.org) and
 [iPlant](http://www.iplantcollaborative.org) we are

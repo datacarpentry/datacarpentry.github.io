@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Erin Becker", "Christina Koch"]
 redirect_from: /blog/curriculum-advisory/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 In mid-2017, Data Carpentry piloted a Curriculum Advisory Committee (CAC) for the Genomics curriculum. The goals for this committee were to provide general oversight, vision, and leadership for the full Genomics lesson stack, to ensure that the lessons stay up-to-date with existing best practices in the field, and to continue to serve the needs of genomics practitioners attending our workshops. Genomics Curriculum Advisors met after the [initial Genomics lesson publication in November](http://www.datacarpentry.org/blog/genomics-lesson-release/) to discuss proposed structural and major topical changes to the lessons and will be helping the Genomics Maintainer team to make decisions about these changes as we prepare for a second release this year.
 

@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Community", "Skillshare", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/intro-data-in-field/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 
 Data Carpentry learners and instructors come from a variety of backgrounds and research disciplines. Many of us, myself included,

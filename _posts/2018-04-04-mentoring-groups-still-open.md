@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/mentoring-groups-still-open/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 Did you miss the deadline to [join a mentoring group](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)? Do not fear, there are still openings for mentees to join groups in the following timezones:
 
 + [UTC+2](https://www.timeanddate.com/worldclock/south-africa/cape-town)

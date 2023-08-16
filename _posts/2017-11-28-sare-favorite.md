@@ -11,7 +11,9 @@ comments: true
 show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Robert Sare"]
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 [Rasterio](https://mapbox.github.io/rasterio/) is a Python spatial data library that has changed the way I work with large 
 spatial datasets. 

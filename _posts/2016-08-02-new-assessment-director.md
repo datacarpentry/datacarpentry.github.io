@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Assessment", "Carpentries Team", "Data Carpentry"]
 authors: ["Erin Becker", "Kari L. Jordan"]
 redirect_from: /blog/new-assessment-director/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 We are very happy to announce that Dr. Kari L. Jordan will be joining us as the new Deputy Director of Assessment! Kari is coming from Embry-Riddle Aeronautical University in Daytona Beach, FL where her postdoctoral research was focused on understanding the factors that influence faculty adoption of evidence-based instructional practices. She is also adjunct faculty at Embry-Riddle and teaches a Graphical Communications course. Prior to her postdoc, Kari completed a PhD in STEM Education at Ohio State. Her thesis focused on strategies for improving self-efficacy and sense of belonging in first-year engineering students. She holds a BS and MS in mechanical engineering from Michigan Tech. Kari’s experiences in educational research are closely aligned with Data Carpentry’s efforts to create a welcoming and inclusive workshop environment that enhances learners’ confidence and helps them build identities as data-driven researchers. As the Deputy Director of Assessment, Kari will be focusing on assessment of workshop learning outcomes, including both skill-based and identity-based outcomes. 
 

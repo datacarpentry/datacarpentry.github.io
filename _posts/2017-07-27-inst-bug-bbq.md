@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Bug BBQ", "Events", "Instructor Development", "Data Carpentry"]
 authors: ["Belinda Weaver", "Erin Becker"]
 redirect_from: /blog/inst-bug-bbq/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 A new version of the [Carpentry Instructor Training curriculum](http://swcarpentry.github.io/instructor-training/) is scheduled to be published on 10 August.
 

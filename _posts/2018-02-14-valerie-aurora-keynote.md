@@ -12,7 +12,9 @@ show_meta: true
 tags: ["", "Data Carpentry"]
 authors: ["Belinda Weaver"]
 redirect_from: /blog/valerie-aurora-keynote/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 ![Valerie Aurora](http://valerieaurora.org/pix/val_circle.png "Valerie Aurora")
 

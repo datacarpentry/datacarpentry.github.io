@@ -12,7 +12,9 @@ show_meta: true
 tags: ["Inclusion", "Instructor Development", "Data Carpentry"]
 authors: ["Kari L. Jordan"]
 redirect_from: /blog/growth-mindset/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 Each of us is born with a unique set of interests. Along the way we develop beliefs about our interests, and those beliefs determine whether we choose to cultivate our interests as we progress through adulthood.
 
 

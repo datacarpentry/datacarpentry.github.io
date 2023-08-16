@@ -12,7 +12,9 @@ date: 2017-11-07
 tags: ["", "Data Carpentry"]
 authors: ["Erin Becker"]
 redirect_from: /blog/maintainer-apply/
----
+--- 
+
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 Software and Data Carpentry are currently accepting applications to join the lesson Maintainer team. 
 Carpentry Maintainers work with the community to make sure that lessons stay up-to-date, accurate, 
