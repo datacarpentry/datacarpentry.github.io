@@ -72,13 +72,6 @@
   - title: "Curriculum Advisory Committeee"
     url: "/curriculum-advisors/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: Blog
-    url: "/blog/"
-
 - title: For instructors
   url: "/for-instructors/"
   side: left
