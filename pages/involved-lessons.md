@@ -22,7 +22,7 @@ All of our lessons are collaboratively developed and distributed under the
 contributions!
 
 Fix a typo, suggest a new module or add features to topics. We have a
-[discussion forum](https://carpentries.topicbox.com/) and a [Slack organization](https://swc-slack-invite.herokuapp.com/) for discussion of
+[discussion forum](https://carpentries.topicbox.com/) and a [Slack organization](http://slack-invite.carpentries.org/) for discussion of
 topics or teaching strategies. If comments or suggestions are directly
 related to lesson content, please also feel free to file a GitHub issue.
 
