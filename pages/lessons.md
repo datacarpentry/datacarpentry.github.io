@@ -325,7 +325,7 @@ with support from an NSF iUSE grant.
 Further development of the curriculum was supported by [a grant from the Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling)/.
 
 Join the [image processing curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image)
-and/or [the `dc-image-processing` channel on The Carpentries Slack workspace](https://swcarpentry.slack.com/archives/C027H977ZGU)
+and/or [the `dc-image-processing` channel on The Carpentries Slack workspace](https://carpentries.slack.com/archives/C027H977ZGU)
 to get updates and be involved in conversations about this curriculum.
 
 #### Lessons
