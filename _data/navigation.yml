@@ -65,6 +65,8 @@
     url: "/lessons/#genomics-workshop"
   - title: "Geospatial"
     url: "/lessons/#geospatial-curriculum"
+  - title: "Image Processing"
+    url: "/lessons/#image-processing-curriculum"
   - title: "Social Sciences"
     url: "/lessons/#social-science-curriculum"
   - title: "In Development"
