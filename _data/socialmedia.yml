@@ -5,5 +5,5 @@
 
 - name: GitHub
   url: http://github.com/datacarpentry
-  class: icon-github
+  class: fab fa-github
   title: "Data Carpentry on GitHub"
