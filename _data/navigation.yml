@@ -86,7 +86,7 @@
   side: left
   dropdown:
   - title: Instructor training checkout
-    url: "/checkout/"
+    url: "https://carpentries.github.io/instructor-training/checkout"
   - title: Workshop Checklists
     url: "/checklists/"
   - title: Self-Organised Workshops
