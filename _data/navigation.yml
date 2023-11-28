@@ -27,8 +27,6 @@
     url: "/workshops/"
   - title: "Request a Workshop"
     url: "/workshops-host/"
-  - title: "Attend a Workshop"
-    url: "/workshops-attend/"
   - title: "Upcoming Workshops"
     url: "/workshops-upcoming"
   - title: "Past Workshops"
