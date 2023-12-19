@@ -87,8 +87,6 @@
     url: "https://carpentries.github.io/instructor-training/checkout"
   - title: Workshop Checklists
     url: "/checklists/"
-  - title: Mentoring Opportunities
-    url: "/mentoring/"
 
 - title: "Sponsors"
   url: "https://carpentries.org/supporters/"
