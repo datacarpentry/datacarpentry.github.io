@@ -134,7 +134,7 @@ The Ecology [Curriculum Advisory Committee](https://carpentries.org/curriculum-a
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Python Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python Ecology Lesson"></a></td>
-    <td>Sarah Pohl, Benjamin Tovar</td>
+    <td>Sarah Pohl, David Palmquist</td>
   </tr>
 </table>
 
