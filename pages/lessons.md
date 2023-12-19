@@ -345,7 +345,7 @@ to get updates and be involved in conversations about this curriculum.
         <td><a href="{{site.dc_github_repo_url}}/image-processing/" target="_blank" class="icon-github" title="Repository for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/reference.html" target="_blank" class="icon-eye" title="Reference for Image Processing with Python Data Carpentry Lesson"></a></td>
         <td><a href="{{site.dc_website_url}}/image-processing/instructor-notes.html" target="_blank" class="icon-eye" title="Instructor Notes for Image Processing with Python Data Carpentry Lesson"></a></td>
-        <td>Jacob Deppen, Toby Hodges, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner</td>
+        <td>Jacob Deppen, Toby Hodges, Kimberly Meechan, Ulf Schiller, Robert Turner</td>
   </tr>
   </table>
 
