@@ -244,7 +244,7 @@ Anuj Guruacharya, Travis Wrightsman</td>
 </tr>
 
   <tr>
-    <td>Data Analysis and Visualization in R *alpha*</td>
+    <td>Data Analysis and Visualization in R *beta*</td>
     <td><a href="{{site.dc_website_url}}/genomics-r-intro/" target="_blank" class="icon-browser" title="Website for data analysis of genomics data in R"></a></td>
     <td><a href="{{site.dc_github_repo_url}}/genomics-r-intro/" target="_blank" class="icon-github" title="Repository for data analysis of genomics data in R"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/genomics-r-intro/reference.html" target="_blank" class="icon-eye" title="Reference for R genomics lesson"></a></td>
