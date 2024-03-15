@@ -1,55 +1,17 @@
 - title: Home
-  url: "/"
-  side: left
-
-- title: About
   url: "/about/"
   side: left
-  dropdown:
-  - title: "Mission & Vision"
-    url: "/mission/"
-  - title: "Media"
-    url: "https://carpentries.org/citations/"
-  - title: "Our Team"
-    url: "https://carpentries.org/team/"
-  - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Community Governance"
-    url: "/governance/"
-  - title: "Assessment"
-    url: "/assessment/"
 
 - title: "Workshops"
   url: "/workshops/"
   side: left
   dropdown:
   - title: "About our Workshops"
-    url: "/workshops/"
-  - title: "Request a Workshop"
-    url: "/workshops-host/"
+    url: "https://carpentries.org/workshops"
   - title: "Upcoming Workshops"
     url: "/workshops-upcoming"
   - title: "Past Workshops"
     url: "/workshops-past"
-
-- title: "Get Involved"
-  url: "https://carpentries.org/join/"
-  side: left
-  dropdown:
-  - title: "Become a Member Organization"
-    url: "https://carpentries.org/membership/"
-  - title: "Become an Instructor"
-    url: "/involved-instructor/"
-  - title: "Join our Community"
-    url: "https://carpentries.org/community/"
-  - title: "Newsletter"
-    url: "https://carpentries.org/newsletter/"
-  - title: "Help Develop Lessons"
-    url: "/involved-lessons/"
-  - title: "Jobs"
-    url: "https://carpentries.org/jobs/"
-  - title: "Donate"
-    url: "https://carpentries.org/donate/"
 
 - title: Lessons
   url: "/lessons/"
@@ -72,29 +34,8 @@
   - title: "Curriculum Advisory Committeee"
     url: "https://carpentries.org/curriculum-advisors/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: Blog
-    url: "/blog/"
-
-- title: For instructors
-  url: "/for-instructors/"
-  side: left
-  dropdown:
-  - title: Instructor training checkout
-    url: "https://carpentries.github.io/instructor-training/checkout"
-  - title: Workshop Checklists
-    url: "/checklists/"
-
-- title: "Sponsors"
-  url: "https://carpentries.org/supporters/"
-  side: right
-
-- title: "Contact"
-  url: "https://carpentries.org/contact/"
-  side: right
+- title: "The Carpentries"
+  url: "https://carpentries.org"
 
 - title: "Search"
   url: "/search/"
