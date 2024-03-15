@@ -10,5 +10,4 @@ redirect_to:
 ---
 
 
-There are no current positions with Data Carpentry. If you do have inquiries however, please email [{{ site.dc_email }}](mailto:{{ site.dc_email }}).
 
