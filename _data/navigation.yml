@@ -1,5 +1,5 @@
 - title: Home
-  url: "/about/"
+  url: "/"
   side: left
 
 - title: "Workshops"
@@ -36,6 +36,7 @@
 
 - title: "The Carpentries"
   url: "https://carpentries.org"
+  side: left
 
 - title: "Search"
   url: "/search/"
