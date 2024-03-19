@@ -297,8 +297,9 @@ body.video cite { color: #fff; }
     }
     #subfooter .social-icons li a {
         font-size: rem-calc(23);
+        padding: rem-calc(7); // font-size + 2*padding = width
         display: block;
-        width: 36px;
+        width: rem-calc(37);
         border-radius: 50%;
         color: $subfooter-bg;
         background: $subfooter-color;

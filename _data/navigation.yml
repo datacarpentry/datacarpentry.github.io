@@ -27,8 +27,6 @@
     url: "/workshops/"
   - title: "Request a Workshop"
     url: "/workshops-host/"
-  - title: "Attend a Workshop"
-    url: "/workshops-attend/"
   - title: "Upcoming Workshops"
     url: "/workshops-upcoming"
   - title: "Past Workshops"
@@ -65,25 +63,23 @@
     url: "/lessons/#genomics-workshop"
   - title: "Geospatial"
     url: "/lessons/#geospatial-curriculum"
+  - title: "Image Processing"
+    url: "/lessons/#image-processing-curriculum"
   - title: "Social Sciences"
     url: "/lessons/#social-science-curriculum"
   - title: "In Development"
     url: "/lessons/#materials-in-early-development"
   - title: "Curriculum Advisory Committeee"
-    url: "/curriculum-advisors/"
+    url: "https://carpentries.org/curriculum-advisors/"
 
 - title: For instructors
   url: "/for-instructors/"
   side: left
   dropdown:
   - title: Instructor training checkout
-    url: "/checkout/"
+    url: "https://carpentries.github.io/instructor-training/checkout"
   - title: Workshop Checklists
     url: "/checklists/"
-  - title: Self-Organised Workshops
-    url: "/self-organized-workshops/"
-  - title: Mentoring Opportunities
-    url: "/mentoring/"
 
 - title: "Sponsors"
   url: "https://carpentries.org/supporters/"

@@ -27,7 +27,7 @@ jobs:
 
       - name: Install GitHub Pages, Bundler, and kramdown gems
         run: |
-          gem install bundler yaml-lint
+          gem install bundler:2.4.22 yaml-lint
 
       - name: Set up caching for Bundler
         uses: actions/cache@v2

@@ -6,6 +6,6 @@ header:
    image_fullwidth: "wood_plank.jpg"
 permalink: "/mentoring/"
 redirect_to:
-  - https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
+  - https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html
 ---
 
