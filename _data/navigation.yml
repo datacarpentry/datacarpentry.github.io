@@ -1,13 +1,15 @@
 - title: Home
   url: "/"
   side: left
+  dropdown:
+  - title: Governance
+    url: /governance/
+  - title: Curriculum Advisors
+    url: /curriculum-advisors/
 
 - title: "Workshops"
-  url: "/workshops/"
   side: left
   dropdown:
-  - title: "About our Workshops"
-    url: "https://carpentries.org/workshops"
   - title: "Upcoming Workshops"
     url: "/workshops-upcoming"
   - title: "Past Workshops"
