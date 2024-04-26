@@ -170,7 +170,7 @@ The focus of this workshop is on working with genomics data, and data management
 command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using
 cloud computing.
 
-More information about hosting and teaching a Genomics workshop can be found on our [FAQ page]({{site.dc_github_site_url}}/genomics-workshop/faq/).
+More information about hosting and teaching a Genomics workshop can be found on our [FAQ page]({{site.dc_github_site_url}}/genomics-workshop/instructor/faq.html).
 
 
 Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/) available to prepare Instructors to teach these lessons. After watching this video, please contact {{ site.dc_email }} so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Genomics workshops.
