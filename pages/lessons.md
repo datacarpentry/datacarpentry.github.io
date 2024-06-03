@@ -102,7 +102,7 @@ The Ecology [Curriculum Advisory Committee](https://carpentries.org/curriculum-a
     <td><a href="{{site.dc_github_repo_url}}/spreadsheet-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Spreadsheet Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Spreadsheet Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheet-ecology-lesson/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Spreadsheet Ecology Lesson"></a></td>
-    <td>TBD</td>
+    <td>Fonti Kar, Mary Tuttle</td>
   </tr>
   <tr>
     <td>Data Cleaning with OpenRefine for Ecologists</td>
@@ -110,7 +110,7 @@ The Ecology [Curriculum Advisory Committee](https://carpentries.org/curriculum-a
     <td><a href="{{site.dc_github_repo_url}}/OpenRefine-ecology-lesson/" target="_blank" class="icon-github" title="Repository for OpenRefine Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/OpenRefine-ecology-lesson/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for OpenRefine Ecology lesson"></a></td>
-    <td>Luis J Villanueva</td>
+    <td>Tajudeen Akanbi Akinosho, Luis J Villanueva</td>
   </tr>
   <tr>
     <td>Data Management with SQL for Ecologists</td>
@@ -126,7 +126,7 @@ The Ecology [Curriculum Advisory Committee](https://carpentries.org/curriculum-a
     <td><a href="{{site.dc_github_repo_url}}/R-ecology-lesson/" target="_blank" class="icon-github" title="Repository for R Ecology Lesson"></a></td>
 		<td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/reference" target="_blank" class="icon-eye" title="Reference for R Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/R-ecology-lesson/instructor-notes" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for R Ecology Lesson"></a></td>
-    <td>James Azam, Jay Lee</td>
+    <td>James Azam, Nikki Gentle, Doug Joubert, Jay Lee, Elif Dede Yildirim</td>
   </tr>
   <tr>
     <td>Data Analysis and Visualization in Python for Ecologists</td>
@@ -134,7 +134,7 @@ The Ecology [Curriculum Advisory Committee](https://carpentries.org/curriculum-a
     <td><a href="{{site.dc_github_repo_url}}/python-ecology-lesson/" target="_blank" class="icon-github" title="Repository for Python Ecology Lesson"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/reference.html" target="_blank" class="icon-eye" title="Reference for Python Ecology Lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/python-ecology-lesson/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Python Ecology Lesson"></a></td>
-    <td>Sarah Pohl, David Palmquist</td>
+    <td>Sarah Pohl, David Palmquist, Carlos Rodrigues</td>
   </tr>
 </table>
 
@@ -203,7 +203,7 @@ Anuj Guruacharya, Travis Wrightsman</td>
     <td><a href="{{site.dc_github_repo_url}}/organization-genomics/" target="_blank" class="icon-github" title="Repository for Project organization in genomics"></a></td>
 	<td><a href="{{site.dc_github_site_url}}/organization-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for Project organization in genomics"></a></td>
     <td><a href="{{site.dc_github_site_url}}/organization-genomics/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Project organization in genomics"></a></td>
-    <td>Heidi Steiner, Jake Szamosi</td>
+    <td>Kathleen Chappell, Aziz Khan, Heidi Steiner, Jake Szamosi</td>
 </tr>
   <tr>
     <td>Introduction to the Command Line for Genomics</td>
@@ -219,7 +219,7 @@ Anuj Guruacharya, Travis Wrightsman</td>
    <td><a href="{{site.dc_github_repo_url}}/wrangling-genomics/" target="_blank" class="icon-github" title="Repository for Data wrangling genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for data wrangling genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/wrangling-genomics/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for data wrangling genomics lesson"></a></td>
-    <td>Josh Herr</td>
+    <td>Josh Herr, Parcelli Jepchirchir, Aida Miró-Herrans</td>
   </tr>
   <tr>
     <td>Introduction to Cloud Computing for Genomics</td>
@@ -227,7 +227,7 @@ Anuj Guruacharya, Travis Wrightsman</td>
    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="Repository for introduction to cloud computing for genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/cloud-genomics/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for cloud computing for genomics lesson"></a></td>
-    <td>TBD</td>
+    <td>Caroline Kisielinski</td>
   </tr>
 </table>
 
@@ -298,7 +298,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/r-intro-geospatial/" target="_blank" class="icon-github" title="Repository for Introduction to R for Geospatial Data lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to R for Geospatial Data lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-intro-geospatial/instructor-notes.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to R for Geospatial Data lesson"></a></td>
-        <td>Johanna Bayer, Mike Mahoney, Alber Sánchez</td>
+        <td>Johanna Bayer, Kristi Liu, Mike Mahoney, Alber Sánchez</td>
     </tr>
     <tr>
         <td>Introduction to Geospatial Raster and Vector Data with R</td>
@@ -306,7 +306,7 @@ Instructor. Instructors who have completed onboarding will be given priority sta
         <td><a href="{{site.dc_github_repo_url}}/r-raster-vector-geospatial/" target="_blank" class="icon-github" title="Repository for  Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
         <td><a href="{{site.dc_github_site_url}}/r-raster-vector-geospatial/instructor-notes.html" target="_blank" class="icon-eye" title="Instructor Notes for Introduction to Geospatial Raster and Vector Data with R lesson"></a></td>
-        <td>Ivo Arrey, Drake Asberry</td>
+        <td>Ivo Arrey, Drake Asberry, Jon Jablonski, Braden Owsley</td>
   </tr>
 
   </table>
@@ -388,7 +388,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/spreadsheets-socialsci/" target="_blank" class="icon-github" title="Repository for Data Organization in Spreadsheets for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Organization in Spreadsheets for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/spreadsheets-socialsci/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Organization in Spreadsheets for Social Scientists"></a></td>
-    <td>April Moreno, Bernard Kwame Solodzi</td>
+    <td>April Moreno, Jose Niño Muriel, Bernard Kwame Solodzi</td>
 </tr>
 <tr>
     <td>Data Cleaning with OpenRefine for Social Scientists</td>
@@ -396,7 +396,7 @@ Please note that workshop materials for working with Social Science data in Pyth
     <td><a href="{{site.dc_github_repo_url}}/openrefine-socialsci/" target="_blank" class="icon-github" title="Repository for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/reference.html" target="_blank" class="icon-eye" title="Reference for Data Cleaning with OpenRefine for Social Scientists"></a></td>
     <td><a href="{{site.dc_github_site_url}}/openrefine-socialsci/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Data Cleaning with OpenRefine for Social Scientists"></a></td>
-    <td>Ben Companjen</td>
+    <td>Ben Companjen, Marijane White</td>
 </tr>
 <tr>
     <td>Data Analysis and Visualization with R for Social Scientists</td>
