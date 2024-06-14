@@ -1,9 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "About Us"
+title: "Media"
 header:
    image_fullwidth: "wood_plank.jpg"
-permalink: "/about/"
+permalink: "/media/"
+redirect_to: "https://carpentries.org"
 ---
-
