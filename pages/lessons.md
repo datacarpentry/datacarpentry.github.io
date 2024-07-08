@@ -75,8 +75,6 @@ This workshop uses a [tabular ecology dataset](https://datacarpentry.org/ecology
 
 The Ecology workshop can be taught using R or Python as the base language. 
 
-The Ecology [Curriculum Advisory Committee](https://carpentries.org/curriculum-advisors/) is currently calling for Instructors to pilot [an alternative version of the _Data Analysis and Visualization in R for Ecologists_ lesson](https://carpentries-incubator.github.io/R-ecology-lesson-alternative/), and provide feedback on their experience. [Read the announcement blog post](https://carpentries.org/blog/2023/07/r-ecology-alt-beta/) to learn more about this redesigned lesson and how you can get involved with testing it.
-
 #### Lessons in English
 
 <table class="table table-striped">
