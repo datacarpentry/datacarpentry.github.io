@@ -209,7 +209,7 @@ Anuj Guruacharya, Travis Wrightsman</td>
    <td><a href="{{site.dc_github_repo_url}}/shell-genomics/" target="_blank" class="icon-github" title="Repository for shell genomics lesson"></a></td>
    	<td><a href="{{site.dc_github_site_url}}/shell-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for shell genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/shell-genomics/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for shell genomics lesson"></a></td>
-    <td>Valentina Hurtado-McCormick, Paul Smith</td>
+    <td>Valentina Hurtado-McCormick, Alison Meynert, Paul Smith</td>
   </tr>
     <tr>
     <td>Data Wrangling and Processing for Genomics</td>
