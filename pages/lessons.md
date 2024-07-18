@@ -225,7 +225,7 @@ Anuj Guruacharya, Travis Wrightsman</td>
    <td><a href="{{site.dc_github_repo_url}}/cloud-genomics/" target="_blank" class="icon-github" title="Repository for introduction to cloud computing for genomics lesson"></a></td>
    <td><a href="{{site.dc_github_site_url}}/cloud-genomics/reference.html" target="_blank" class="icon-eye" title="Reference for cloud computing for genomics lesson"></a></td>
     <td><a href="{{site.dc_github_site_url}}/cloud-genomics/instructor-notes.html" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for cloud computing for genomics lesson"></a></td>
-    <td>Caroline Kisielinski</td>
+    <td>Caroline Kisielinski, Helen King</td>
   </tr>
 </table>
 
