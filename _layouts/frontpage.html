@@ -2,19 +2,7 @@
 layout: default
 format: blog-index
 ---
-<div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
-</div><!-- /#header-home -->
 
-
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
 <div class="row t60">
   <div class="medium-20">
     <h2>What is Data Carpentry?</h2>
@@ -38,68 +26,33 @@ format: blog-index
       environment for learning to empower researchers and enable data driven
       discovery.
     </p>
+    <p>
+      From astronomy to molecular biology, our increasing capacity
+      to collect data is changing science. It allows us to ask questions that previously could
+      not have been answered, and it changes the impact that science has on society.
+      Although petabytes of data are now available, most scientific disciplines are
+      failing to translate this sea of data into scientific advances. The missing step between
+      data collection and research progress is a lack of training for researchers in crucial
+      skills for effectively managing and analyzing large amounts of data.
+    </p>
+    
+    <p>
+      Data Carpentry addresses this gap by teaching researchers the fundamental data skills they
+      need to conduct their work. Our goal is to provide researchers high-quality, domain-specific
+      training covering the full lifecycle of data-driven research. We teach hands-on workshops in
+      data organization, management, and analysis to increase data literacy and improve research
+      efficiency. Our domain-specific approach allows us to tailor the data, content, and tools
+      to reflect the specific data and analysis needs of different areas. Domain specificity also
+      allows us to build new skills on knowledge frameworks familiar to learners, and to motivate
+      workshops using real scientific questions and data relevant to the learners' field of study.
+      This approach allows learners to see immediate value in the skills they are learning and to
+      put new techniques immediately into practice.
+    </p>
+    
+    <p>A workshop can't teach a researcher everything they need to know about data management and analysis, however it drastically reduces the barrier to entry and imparts the skills for continued learning and engagement. Our ultimate goal is to enable data-driven research in diverse disciplines by creating strong communities of data scientists and empowering them to conduct more innovative and effective research. </p>
+
+
   </div>
 
-    {% if page.widget-1.title %}
-    <div class="medium-4 columns">
-        <h2 class="font-size-h3 t10">{{ page.widget-1.title }}</h2>
-        <a href="{{ page.widget-1.url }}">{% if page.widget-1.image %}<img src="{{ site.urlimg }}/{{ page.widget-1.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-1.video %}{{ page.widget-1.video }}{% endif %}</a>
-        <p>{{ page.widget-1.text }}</p>
-        <p><a class="button tiny radius" href="{{ page.widget-1.url }}">{{ site.data.language.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
-
-
-    {% if page.widget-2.title %}
-    <div class="medium-4 columns">
-        <h2 class="font-size-h3 t10">{{ page.widget-2.title }}</h2>
-        <a href="{{ page.widget-2.url }}">{% if page.widget-2.image %}<img src="{{ site.urlimg }}/{{ page.widget-2.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-2.video %}{{ page.widget-2.video }}{% endif %}</a>
-
-        <p>{{ page.widget-2.text }}</p>
-        <p><a class="button tiny radius" href="{{ page.widget-2.url }}">{{ site.data.language.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
-
-
-    {% if page.widget-3.title %}
-    <div class="medium-4 columns">
-        <h2 class="font-size-h3 t10">{{ page.widget-3.title }}</h2>
-        <a href="{{ page.widget-3.url }}">{% if page.widget-3.image %}<img src="{{ site.urlimg }}/{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>
-
-        <p>{{ page.widget-3.text }}</p>
-        <p><a class="button tiny radius" href="{{ page.widget-3.url }}">{{ site.data.language.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
 </div><!-- /.row -->
 
-
-{% comment %}
-*
-* First check, if there are any posts at all
-*
-{% endcomment %}
-<div class="row t60">
-  <div class="medium-20">
-
-
-    <h2>{{ site.data.language.upcoming_workshops }}</h2>
-
-    {% assign workshop_list = site.data.dc_upcoming_workshops %}
-    {% include workshop_table.md %}
-
-      <h4>Check out our <a href="/workshops-past/">past workshops.</a></h4>
-
-  </div>
-    </div><!-- /.row -->
-
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
